@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fireside Chat Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter a valid last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: topic_of_interest
+      label: Topic of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Machine Learning
+      - Artificial Intelligence
+      - Data Science
+      required: true
+    - id: 5
+      name: engagement_level
+      label: Engagement Level
+      hint: null
+      type: select_one
+      options:
+      - Not Engaged
+      - Somewhat Engaged
+      - Very Engaged
+      - Extremely Engaged
+      required: true
+    - id: 6
+      name: attend_early
+      label: Can Attend Early
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Maybe
+      required: true
+    - id: 7
+      name: attend_late
+      label: Can Attend Late
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Maybe
+      required: true
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: agree_terms
+      label: Agree to Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: follow_on_social_media
+      label: Follow on Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

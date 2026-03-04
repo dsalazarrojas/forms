@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Review Panel Registration
+    pages:
+    - id: 1
+      name: sponsorship_review_panel_registration_page
+      label: Step 1 - Select Your Panel
+      hint: Select panelists with expertise in the areas you need.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: panelists_name
+      label: Panelists Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: panelists_email
+      label: Panelists Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: panelists_phone
+      label: Panelists Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expertise_areas
+      label: Expertise Areas
+      hint: List the expertise areas you need help with.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability_start_date
+      label: Availability Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: availability_end_date
+      label: Availability End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: panelist_availability
+      label: Panelist Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_availability
+      label: Reviewer Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

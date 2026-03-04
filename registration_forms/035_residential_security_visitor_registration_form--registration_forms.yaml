@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Security Visitor Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Bus
+      - Motorcycle
+      - Other
+      required: true
+    - id: 12
+      name: visitor_count
+      label: Number of Visitors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: parking_details
+      label: Parking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_plate_number
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_status
+      label: Is Employee
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Resident
+      - Contractor
+      - Delivery
+      - Other
+      required: true
+    - id: 20
+      name: visitor_id
+      label: Visitor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: photo_id
+      label: Photo ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false

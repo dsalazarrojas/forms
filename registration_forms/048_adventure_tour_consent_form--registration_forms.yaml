@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Tour Consent Form
+    pages:
+    - id: 1
+      name: tour_header
+      label: -- Tour Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for travel documentation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: passport_number
+      label: Passport or ID number
+      hint: Required for international travel
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical conditions and medications
+      hint: Important for trip safety
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required contact details
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_travel_terms
+      label: Consent to travel terms and conditions
+      hint: Agree to terms to participate
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 7
+      name: photo_release
+      label: Consent to photo use
+      hint: For promotional materials
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 8
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: For tour meal planning
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

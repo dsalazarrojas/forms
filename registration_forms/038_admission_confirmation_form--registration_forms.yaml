@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admission Confirmation Form
+    pages:
+    - id: 1
+      name: confirmation_header
+      label: -- Admission Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_state
+      label: State/Province
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_zip
+      label: ZIP/Postal Code
+      hint: Postal code of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: student_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: student_id
+      label: Student ID
+      hint: Your assigned student identification number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: program_enrolled_in
+      label: Program Enrolled In
+      hint: What program are you enrolling in?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: degree_level
+      label: Degree Level
+      hint: What level of degree are you pursuing?
+      type: select_one
+      options:
+      - Associate
+      - Bachelor's
+      - Master's
+      - Doctorate
+      - Certificate
+      - Diploma
+      - Other
+      required: true
+    - id: 14
+      name: start_date
+      label: Program Start Date
+      hint: When does your program start?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: expected_graduation_date
+      label: Expected Graduation Date
+      hint: When do you expect to graduate?
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: admission_status
+      label: Admission Status
+      hint: What is your current admission status?
+      type: select_one
+      options:
+      - Accepted
+      - Conditional Acceptance
+      - Waitlisted
+      - Probationary
+      required: true
+    - id: 17
+      name: enrollment_confirmation
+      label: Enrollment Confirmation
+      hint: Do you confirm your enrollment in this program?
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I decline
+      - Need more time to decide
+      required: true
+    - id: 18
+      name: housing_request
+      label: Housing Request
+      hint: Do you require on-campus housing?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 19
+      name: financial_aid_status
+      label: Financial Aid Status
+      hint: What is your financial aid status?
+      type: select_one
+      options:
+      - Applied
+      - Awarded
+      - Declined
+      - Not Applying
+      - Pending
+      required: false
+    - id: 20
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: confirmation_date
+      label: Confirmation Date
+      hint: Date of submitting this confirmation
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: student_signature
+      label: Student Signature
+      hint: Electronic signature to confirm enrollment
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hostel Accommodation Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''email''}'
+      - '{''id'': 2, ''name'': ''phone''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 3
+      name: accommodation_choice
+      label: accommodation_choice
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''single''}'
+      - '{''id'': 2, ''name'': ''double''}'
+      - '{''id'': 3, ''name'': ''triple''}'
+      required: true
+    - id: 4
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_preferences
+      label: accommodation_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''credit_card''}'
+      - '{''id'': 2, ''name'': ''bank_transfer''}'
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

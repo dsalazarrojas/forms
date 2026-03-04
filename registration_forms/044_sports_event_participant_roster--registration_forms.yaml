@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_event_participant_roster
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_list
+      label: Participant List
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: name
+      label: participant_name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: participant_type
+      hint: Select participant type
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 6
+      name: age
+      label: participant_age
+      hint: Enter participant age
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: participant_email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: participant_phone
+      hint: Enter participant phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: participant_address
+      hint: Enter participant address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: participant_notes
+      hint: Enter any notes about participant
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Facilitator Application Form
+    pages:
+    - id: 1
+      name: workshop_facilitator_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: workshop_experience
+      label: Workshop experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workshop_topic
+      label: Workshop topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: workshop_duration
+      label: Workshop duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: workshop_frequency
+      label: Workshop frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-Monthly
+      - Bi-Quarterly
+      - Monthly
+      - Bi-Weekly
+      - Bi-Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 7
+      name: workshop_location
+      label: Workshop location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Off-site
+      - On-site
+      required: true
+    - id: 8
+      name: workshop_facilitators
+      label: Workshop facilitators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workshop_venue
+      label: Workshop venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_facilitators_experience
+      label: Workshop facilitators experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_facilitators_interest
+      label: Workshop facilitators interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_dates
+      label: Workshop dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: workshop_time
+      label: Workshop time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: workshop_facilitators_note
+      label: Workshop facilitators note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: workshop_facilitators_additional_info
+      label: Workshop facilitators additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workshop_venue_address
+      label: Workshop venue address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: workshop_facilitators_agreed_to_terms
+      label: Workshop facilitators agreed to terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: workshop_facilitators_agreed_to_part
+      label: Workshop facilitators agreed to part
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: workshop_facilitators_reference
+      label: Workshop facilitators reference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: workshop_facilitators_agreed_terms
+      label: Workshop facilitators agreed terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: workshop_facilitators_agreed_part
+      label: Workshop facilitators agreed part
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: workshop_facilitators_agreed_reference
+      label: Workshop facilitators agreed reference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: workshop_facilitators_agreed_terms_2
+      label: Workshop facilitators agreed terms 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

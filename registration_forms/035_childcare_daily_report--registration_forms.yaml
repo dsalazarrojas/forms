@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Daily Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of daily report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: child_room_or_class
+      label: Child Room or Class
+      hint: Assigned room or class
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: Time child arrived
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: departure_time
+      label: Departure Time
+      hint: Time child departed
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: morning_mood
+      label: Morning Mood
+      hint: How was the child feeling in the morning?
+      type: select_one
+      options:
+      - Happy and excited
+      - Calm and content
+      - Tired
+      - Anxious
+      - Upset
+      - Irritable
+      required: true
+    - id: 9
+      name: afternoon_mood
+      label: Afternoon Mood
+      hint: How was the child feeling in the afternoon?
+      type: select_one
+      options:
+      - Happy and energetic
+      - Calm and content
+      - Tired
+      - Anxious
+      - Upset
+      - Irritable
+      required: true
+    - id: 10
+      name: breakfast_consumed
+      label: Breakfast Consumed
+      hint: Did the child eat breakfast?
+      type: select_one
+      options:
+      - Ate all
+      - Ate most
+      - Ate some
+      - Ate very little
+      - Refused
+      - Not applicable
+      required: true
+    - id: 11
+      name: lunch_consumed
+      label: Lunch Consumed
+      hint: Did the child eat lunch?
+      type: select_one
+      options:
+      - Ate all
+      - Ate most
+      - Ate some
+      - Ate very little
+      - Refused
+      required: true
+    - id: 12
+      name: snacks_consumed
+      label: Snacks Consumed
+      hint: Did the child eat snacks?
+      type: select_one
+      options:
+      - Ate all snacks
+      - Ate most snacks
+      - Ate some snacks
+      - Ate very little
+      - Refused snacks
+      required: true
+    - id: 13
+      name: fluids_intake
+      label: Fluids Intake
+      hint: How was the child's fluid intake?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Normal
+      - Below average
+      - Poor
+      required: true
+    - id: 14
+      name: nap_duration
+      label: Nap Duration
+      hint: How long did the child nap?
+      type: select_one
+      options:
+      - 2+ hours
+      - 1.5 to 2 hours
+      - 1 to 1.5 hours
+      - 30 min to 1 hour
+      - Less than 30 min
+      - Did not nap
+      required: true
+    - id: 15
+      name: nap_quality
+      label: Nap Quality
+      hint: How was the quality of the nap?
+      type: select_one
+      options:
+      - Slept soundly
+      - Slept well
+      - Slept okay
+      - Restless sleep
+      - Woke frequently
+      - Did not sleep
+      required: true
+    - id: 16
+      name: diaper_changes
+      label: Diaper Changes
+      hint: Number of diaper changes (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: potty_training_progress
+      label: Potty Training Progress
+      hint: Any potty training progress to report?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: bowel_movement
+      label: Bowel Movement
+      hint: Did the child have a bowel movement?
+      type: select_one
+      options:
+      - Yes, normal
+      - Yes, unusual
+      - false
+      - Not applicable
+      required: true
+    - id: 19
+      name: activities_participated
+      label: Activities Participated In
+      hint: What activities did the child participate in?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: favorite_activity
+      label: Favorite Activity
+      hint: What was the child's favorite activity?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: social_interactions
+      label: Social Interactions
+      hint: How did the child interact with others?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: learning_moments
+      label: Learning Moments
+      hint: Any notable learning moments?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: behavioral_notes
+      label: Behavioral Notes
+      hint: Any behavioral observations
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incidents_or_concerns
+      label: Incidents or Concerns
+      hint: Any incidents or concerns to report?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medications_administered
+      label: Medications Administered
+      hint: List any medications given
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: items_sent_home
+      label: Items Sent Home
+      hint: List any items being sent home
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: teacher_notes
+      label: Teacher Notes
+      hint: Additional notes from the teacher
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of the reporting teacher
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: tomorrow_attendance
+      label: Expected Tomorrow
+      hint: Will the child attend tomorrow?
+      type: select_one
+      options:
+      - Yes, regular schedule
+      - Yes, different hours
+      - No, absent
+      - Unsure
+      required: true

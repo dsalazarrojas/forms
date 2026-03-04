@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative producer fellowship application form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: background
+      label: Background
+      hint: Briefly describe your background in the arts
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: artistic_vision
+      label: Artistic Vision
+      hint: What do you see yourself contributing to the arts community through this
+        fellowship?
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: portfolio
+      label: Portfolio
+      hint: Upload a URL to your portfolio or website
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Photography
+      - Writing
+      - Design
+      - Other
+      required: false
+    - id: 10
+      name: goals
+      label: Goals
+      hint: What goals do you hope to achieve through this fellowship?
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

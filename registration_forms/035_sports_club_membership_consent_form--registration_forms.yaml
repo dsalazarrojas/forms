@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Club Membership Consent Form
+    pages:
+    - id: 1
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_info
+      label: Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please provide emergency contact information for our records.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: Please indicate your consent for participation in activities.
+      type: select_one
+      options:
+      - I consent to participate.
+      - I do not consent to participate.
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Team
+      - Both
+      required: false
+    - id: 6
+      name: member_since
+      label: Member Since
+      hint: When did you join this sports club?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

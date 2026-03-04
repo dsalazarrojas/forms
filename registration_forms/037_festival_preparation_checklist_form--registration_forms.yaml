@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: festival_preparation_checklist_form
+    pages:
+    - id: 1
+      name: festival_details
+      label: Festival Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performer_details
+      label: Performer Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: stage_details
+      label: Stage Details
+      hint: null
+      type: select_one
+      options:
+      - Stage 1
+      - Stage 2
+      - Stage 3
+      required: true
+    - id: 4
+      name: sound_check
+      label: Sound Check
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: sound_check_time
+      label: Sound Check Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: power_details
+      label: Power Details
+      hint: null
+      type: select_multiple
+      options:
+      - Generator 1
+      - Generator 2
+      - Generator 3
+      required: true
+    - id: 7
+      name: stage_setup
+      label: Stage Setup
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: power_usage
+      label: Power Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: communication_details
+      label: Communication Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Person 1
+      - Person 2
+      - Person 3
+      required: true
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: select_multiple
+      options:
+      - Vendor 1
+      - Vendor 2
+      - Vendor 3
+      required: true
+    - id: 16
+      name: vendor_contact
+      label: Vendor Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: vendor_info
+      label: Vendor Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vendor_notes
+      label: Vendor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vendor_terms
+      label: Vendor Terms
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 20
+      name: vendor_status
+      label: Vendor Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 21
+      name: vendor_schedule
+      label: Vendor Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: vendor_payment
+      label: Vendor Payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Service Guidelines Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coach_name
+      label: Coach Name
+      hint: Name of your coach
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_package
+      label: Service Package Selected
+      hint: Which package are you enrolled in
+      type: select_one
+      options:
+      - Basic Package
+      - Standard Package
+      - Premium Package
+      - Executive Package
+      - Custom Package
+      required: true
+    - id: 6
+      name: start_date
+      label: Service Start Date
+      hint: When do services begin
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: Service End Date
+      hint: When do services end
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_included
+      label: Number of Sessions Included
+      hint: How many sessions in your package
+      type: select_one
+      options:
+      - 1 Session
+      - 3 Sessions
+      - 6 Sessions
+      - 12 Sessions
+      - Unlimited Monthly
+      required: true
+    - id: 9
+      name: session_duration
+      label: Session Duration
+      hint: Length of each session
+      type: select_one
+      options:
+      - 30 Minutes
+      - 45 Minutes
+      - 60 Minutes
+      - 90 Minutes
+      required: true
+    - id: 10
+      name: session_format
+      label: Session Format
+      hint: How sessions are conducted
+      type: select_one
+      options:
+      - In Person
+      - Video Call
+      - Phone Call
+      - Hybrid
+      required: true
+    - id: 11
+      name: scheduling_policy
+      label: Scheduling Policy Understood
+      hint: You understand how to book sessions
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 12
+      name: booking_notice
+      label: Required Booking Notice
+      hint: How far in advance to book
+      type: select_one
+      options:
+      - 24 Hours
+      - 48 Hours
+      - 72 Hours
+      - 1 Week
+      required: true
+    - id: 13
+      name: cancellation_policy
+      label: Cancellation Policy Understood
+      hint: You understand cancellation rules
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 14
+      name: cancellation_fee
+      label: Cancellation Fee Policy
+      hint: You understand fees for late cancellation
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 15
+      name: rescheduling_policy
+      label: Rescheduling Policy Understood
+      hint: You understand how to reschedule
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment is due
+      type: select_one
+      options:
+      - Upfront Full Payment
+      - Per Session
+      - Monthly
+      - Payment Plan
+      required: true
+    - id: 17
+      name: payment_method
+      label: Accepted Payment Methods
+      hint: How you can pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - PayPal
+      - Check
+      required: true
+    - id: 18
+      name: late_payment_policy
+      label: Late Payment Policy Understood
+      hint: You understand late payment consequences
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 19
+      name: refund_policy
+      label: Refund Policy Understood
+      hint: You understand refund terms
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 20
+      name: confidentiality_policy
+      label: Confidentiality Policy Accepted
+      hint: You agree to privacy terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 21
+      name: communication_guidelines
+      label: Communication Guidelines Understood
+      hint: You understand how to communicate
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 22
+      name: between_session_support
+      label: Between-Session Support
+      hint: What support is available between sessions
+      type: select_one
+      options:
+      - Email Support
+      - Phone Support
+      - Scheduled Calls
+      - Emergency Only
+      - No Between-Session Support
+      required: true
+    - id: 23
+      name: homework_expectations
+      label: Homework or Assignment Expectations
+      hint: You understand work between sessions
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 24
+      name: progress_reporting
+      label: Progress Reporting Expectations
+      hint: How progress will be tracked
+      type: select_one
+      options:
+      - Regular Assessments
+      - Session Reviews
+      - Goal Tracking
+      - Informal Check-Ins
+      required: false
+    - id: 25
+      name: code_of_conduct
+      label: Code of Conduct Accepted
+      hint: You agree to professional standards
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 26
+      name: boundaries_understanding
+      label: Professional Boundaries Understood
+      hint: You understand coach-client boundaries
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 27
+      name: termination_policy
+      label: Service Termination Policy
+      hint: You understand how services can end
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 28
+      name: client_responsibilities
+      label: Client Responsibilities Understood
+      hint: You understand your obligations
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 29
+      name: coach_responsibilities
+      label: Coach Responsibilities Understood
+      hint: You understand coach obligations
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Review
+      required: true
+    - id: 30
+      name: guidelines_acknowledgment
+      label: I Acknowledge Reading All Guidelines
+      hint: You confirm reading all guidelines
+      type: select_one
+      options:
+      - Yes I Acknowledge
+      - false
+      required: true
+    - id: 31
+      name: signature_date
+      label: Date of Acknowledgment
+      hint: Today date
+      type: date
+      options: []
+      required: true

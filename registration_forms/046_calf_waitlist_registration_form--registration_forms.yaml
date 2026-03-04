@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calf Waitlist Registration Form
+    pages:
+    - id: 1
+      name: farmer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Name of your farm
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For waitlist updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: farm_address
+      label: Farm Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: calf_breed_preference
+      label: Calf Breed Preference
+      hint: What breed are you interested in
+      type: select_one
+      options:
+      - Angus
+      - Hereford
+      - Holstein
+      - Jersey
+      - Charolais
+      - Simmental
+      - No preference
+      - Other
+      required: true
+    - id: 11
+      name: calf_gender_preference
+      label: Calf Gender Preference
+      hint: Do you prefer a specific gender
+      type: select_one
+      options:
+      - No preference
+      - Bull calf
+      - Heifer calf
+      - Steer
+      required: true
+    - id: 12
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many calves do you want
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: preferred_age
+      label: Preferred Age at Pickup
+      hint: How old should calves be
+      type: select_one
+      options:
+      - Newborn (0-7 days)
+      - 1-2 weeks
+      - 2-4 weeks
+      - 4-8 weeks
+      - No preference
+      required: false
+    - id: 14
+      name: intended_use
+      label: Intended Use
+      hint: What will you use the calves for
+      type: select_one
+      options:
+      - Breeding stock
+      - Beef production
+      - Dairy replacement
+      - 4-H or FFA project
+      - Resale
+      - Other
+      required: true
+    - id: 15
+      name: pickup_timeframe
+      label: Pickup Timeframe
+      hint: When do you need the calves
+      type: select_one
+      options:
+      - As soon as available
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - Flexible
+      required: true
+    - id: 16
+      name: delivery_needed
+      label: Delivery Needed
+      hint: Do you need delivery
+      type: select_one
+      options:
+      - No, will pickup
+      - Yes, need delivery
+      - Maybe
+      required: false
+    - id: 17
+      name: delivery_distance
+      label: Distance from Farm
+      hint: How far is your farm
+      type: select_one
+      options:
+      - Under 50 miles
+      - 50-100 miles
+      - 100-200 miles
+      - Over 200 miles
+      required: false
+    - id: 18
+      name: previous_customer
+      label: Previous Customer
+      hint: Have you purchased from us before
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: farm_size
+      label: Farm Size
+      hint: Approximate acreage
+      type: select_one
+      options:
+      - Under 50 acres
+      - 50-100 acres
+      - 100-500 acres
+      - Over 500 acres
+      required: false
+    - id: 20
+      name: livestock_experience
+      label: Livestock Experience
+      hint: Your experience level with calves
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Experienced
+      - Professional
+      required: false
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you learn about our calves
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Referral
+      - Local advertisement
+      - Livestock auction
+      - Other
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information or questions
+      type: text
+      options: []
+      required: false

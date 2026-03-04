@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disability Advocacy Network Registration Form
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accessibility_needs_details
+      label: Accessibility Needs Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: accessibility_needs_level
+      label: Level of Accessibility Needs
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: interests_details
+      label: Interests Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: member_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: member_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: member_street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: member_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: member_province
+      label: Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: member_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: member_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: member_interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: member_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: member_organisations
+      label: Organisations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: member_languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: member_skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: member_abilities
+      label: Abilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: member_disability_group
+      label: Disability Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: member_disability_status
+      label: Disability Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: member_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: member_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: member_date_of_registration
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

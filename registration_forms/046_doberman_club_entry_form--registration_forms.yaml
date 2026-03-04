@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doberman Club Entry Form
+    pages:
+    - id: 1
+      name: form_data
+      label: FormData
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_field
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_field
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_field
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_field
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_field
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Sponsor
+      required: false
+    - id: 8
+      name: select_multiple
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Dog Obedience Training
+      - Basic Obedience Training
+      - Agility
+      - Trick Training
+      required: false
+    - id: 9
+      name: note_field
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

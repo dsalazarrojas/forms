@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Call Registration Form
+    pages:
+    - id: 1
+      name: audition_information_section
+      label: -- Audition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: audition_date
+      label: Audition Date and Time
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: audition_location
+      label: Audition Location
+      hint: Theater, studio, or venue name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: production_details_section
+      label: -- Production Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: production_title
+      label: Production Title
+      hint: Name of film, TV show, or play
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - Feature Film
+      - Television
+      - Theater
+      - Web Series
+      - Commercial
+      - Music Video
+      - Other
+      required: true
+    - id: 7
+      name: director_producer
+      label: Director or Producer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: performer_information_section
+      label: -- Performer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: legal_name
+      label: Legal Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: stage_name
+      label: Stage Name (if different)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: city_state_zip
+      label: City, State, Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: roles_applied_section
+      label: -- Roles Applied For --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: role_1
+      label: First Choice Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: role_2
+      label: Second Choice Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: experience_section
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: experience_type
+      label: Type of Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Film
+      - Television
+      - Theater
+      - Commercials
+      - Music Videos
+      - Modeling
+      - Voice Acting
+      - Improv
+      required: true
+    - id: 21
+      name: imdb_profile
+      label: IMDb Profile URL
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: professional_information_section
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: representation
+      label: Do you have representation (agent/manager)?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: representative_contact
+      label: Representative Contact Information
+      hint: Agent or manager name and contact
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: registration_agreement
+      label: I agree to the terms of this audition and submission
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

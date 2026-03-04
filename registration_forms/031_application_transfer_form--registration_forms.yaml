@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Transfer Form
+    pages:
+    - id: 1
+      name: student_information
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: current_institution
+      label: -- Current Institution Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_school_name
+      label: Current School or University Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_program
+      label: Current Program or Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_enrollment_status
+      label: Current Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Leave of absence
+      - Completed program
+      required: true
+    - id: 11
+      name: credits_completed
+      label: Number of Credits/Units Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cumulative_gpa
+      label: Cumulative GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: transfer_details
+      label: -- Transfer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: intended_transfer_institution
+      label: Intended Transfer Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: intended_transfer_program
+      label: Intended Program at Transfer Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: transfer_semester
+      label: Intended Transfer Semester
+      hint: null
+      type: select_one
+      options:
+      - Spring semester
+      - Summer semester
+      - Fall semester
+      - Winter semester
+      required: true
+    - id: 17
+      name: transfer_year
+      label: Intended Transfer Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: transferable_credits
+      label: Estimated Transferable Credits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: transfer_reason
+      label: -- Reason for Transfer --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reason_for_transfer
+      label: What is your primary reason for transferring?
+      hint: null
+      type: select_one
+      options:
+      - Better academic program
+      - Location preference
+      - Financial reasons
+      - Personal circumstances
+      - Career change
+      - Other
+      required: true
+    - id: 21
+      name: additional_transfer_details
+      label: Provide additional details about your transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: documentation_section
+      label: -- Required Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: transcript_attached
+      label: Official transcript attached?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, will submit
+      - Pending
+      required: true
+    - id: 24
+      name: essay_attached
+      label: Transfer essay attached?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, will submit
+      - Not required
+      required: false

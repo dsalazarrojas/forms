@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Network Device Registration Form
+    pages:
+    - id: 1
+      name: network_device_registration_form_page_1
+      label: Network Device Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_details
+      label: Device Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_registration
+      label: Confirm Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: network_device_registration_form_page_2
+      label: Network Device Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - Server
+      - Router
+      - Switch
+      required: false
+    - id: 8
+      name: network_location
+      label: Network Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': ''office'', ''label'': ''Office''}'
+      - '{''id'': 14, ''name'': ''home'', ''label'': ''Home''}'
+      - '{''id'': 15, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mac_address
+      label: MAC Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_registered
+      label: Date Registered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_registered
+      label: Time Registered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false

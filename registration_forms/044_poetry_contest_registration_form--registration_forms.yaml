@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: poetry_contest_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: poem_title
+      label: Poem Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: poem_genre
+      label: Poem Genre
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: poem_length
+      label: Poem Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: poem_language
+      label: Poem Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: poem_year_written
+      label: Year Written
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: school_id
+      label: School ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: poem_type
+      label: Poem Type
+      hint: null
+      type: select_one
+      options:
+      - poem
+      - short_story
+      - freeverse
+      - narrative
+      required: true
+    - id: 18
+      name: poem_length_max
+      label: Max Length
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10
+      - 11-20
+      - 21-30
+      required: true
+    - id: 19
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: school_principal
+      label: School Principal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false

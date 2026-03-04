@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: visa-application-authorization-form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: nationality
+      label: Applicant Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visa_issuing_country
+      label: Visa Issuing Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: visa_duration
+      label: Visa Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: visa_type
+      label: Visa Type
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      required: false
+    - id: 8
+      name: address_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: travel_document_number
+      label: Travel Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: passport_country
+      label: Passport Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: document_expire_date
+      label: Document Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: document_issue_date
+      label: Document Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: document_country
+      label: Document Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: document_type
+      label: Document Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: visa_authorization
+      label: Visa Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: visa_status
+      label: Visa Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

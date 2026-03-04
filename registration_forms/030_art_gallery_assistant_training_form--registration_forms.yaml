@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Assistant Training Form
+    pages:
+      - id: 1
+        name: training_identity_header
+        label: -- Trainee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: assistant_name
+        label: Assistant Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: training_date
+        label: Date of Training Session
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: trainer_name
+        label: Trainer Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: training_modules_header
+        label: -- Training Modules Completed --
+        hint: Please check all modules covered in this session
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: artwork_handling_module
+        label: Module 1 - Safe Artwork Handling and Transportation
+        hint: null
+        type: select_one
+        options:
+          - Completed - Proficient
+          - Completed - Needs Review
+          - Not Covered
+        required: true
+      - id: 7
+        name: pos_system_module
+        label: Module 2 - Point of Sale (POS) and Sales Processing
+        hint: null
+        type: select_one
+        options:
+          - Completed - Proficient
+          - Completed - Needs Review
+          - Not Covered
+        required: true
+      - id: 8
+        name: crm_inventory_module
+        label: Module 3 - Inventory Management (CRM) and Cataloging
+        hint: null
+        type: select_one
+        options:
+          - Completed - Proficient
+          - Completed - Needs Review
+          - Not Covered
+        required: true
+      - id: 9
+        name: visitor_engagement_module
+        label: Module 4 - Visitor Engagement and Gallery Etiquette
+        hint: null
+        type: select_one
+        options:
+          - Completed - Proficient
+          - Completed - Needs Review
+          - Not Covered
+        required: true
+      - id: 10
+        name: security_procedures_module
+        label: Module 5 - Opening - Closing and Security Procedures
+        hint: null
+        type: select_one
+        options:
+          - Completed - Proficient
+          - Completed - Needs Review
+          - Not Covered
+        required: true
+      - id: 11
+        name: evaluation_header
+        label: -- Trainee Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: overall_performance_rating
+        label: Overall Training Performance Rating
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Ready for independent shifts
+          - Good - Minor supervision needed
+          - Fair - Further training required
+          - Unsatisfactory
+        required: true
+      - id: 13
+        name: areas_of_strength
+        label: Identified Areas of Strength
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: areas_for_improvement
+        label: Areas Requiring Further Development
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: follow_up_actions
+        label: Recommended Follow-up Actions
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: trainee_feedback_header
+        label: -- Trainee Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: trainee_confidence_level
+        label: How confident do you feel in performing your gallery duties?
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Somewhat Confident
+          - Neutral
+          - Not Confident
+        required: true
+      - id: 18
+        name: training_clarity_rating
+        label: How clear and helpful were the training materials?
+        hint: null
+        type: select_one
+        options:
+          - 5 - Extremely Clear
+          - 4 - Clear
+          - 3 - Average
+          - 2 - Below Average
+          - 1 - Poor
+        required: true
+      - id: 19
+        name: assistant_signature
+        label: Trainee Digital Signature (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: trainer_signature
+        label: Trainer Digital Signature (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true

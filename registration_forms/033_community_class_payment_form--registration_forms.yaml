@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Class Payment Form
+    pages:
+    - id: 1
+      name: section_class_payment_details
+      label: -- Participant Information --
+      hint: Please fill out all required fields to register for a class.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_pay
+      label: Full Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email_pay
+      label: Email Address
+      hint: For payment confirmation and results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone_pay
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_dob_pay
+      label: Date of Birth
+      hint: Required for age-restricted classes
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_class_selection_pay
+      label: -- Class and Fee Selection --
+      hint: Select the class and payment plan you wish to enroll in.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: class_name_requested_pay
+      label: Which class are you registering for
+      hint: e.g., Yoga for Beginners, Intermediate Spanish, Digital Photography
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: class_session_date_requested_pay
+      label: Requested Class Session or Term
+      hint: If multiple sessions are available
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: class_fee_category_pay
+      label: Which class fee category applies to you
+      hint: null
+      type: select_one
+      options:
+      - Individual Class (One-Time)
+      - Monthly Subscription
+      - Full Course/Term Fee
+      - Senior/Student Discounted Fee
+      - Family Discount Fee
+      required: true
+    - id: 10
+      name: total_class_fee_amount_pay
+      label: Total Amount to be Paid
+      hint: In USD
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method_selection_pay
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - PayPal
+      - Personal Check
+      - Cash/Money Order
+      required: true
+    - id: 12
+      name: section_participation_terms_pay
+      label: -- Participation Terms and Waiver --
+      hint: Please read carefully and sign.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: class_participation_acknowledgment_pay
+      label: I acknowledge that I am participating in this class at my own risk
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - Other
+      required: true
+    - id: 14
+      name: refund_policy_acknowledgment_pay
+      label: I have read and agree to the class refund policy
+      hint: null
+      type: select_one
+      options:
+      - I agree to the policy
+      - Other
+      required: true
+    - id: 15
+      name: photo_release_option_pay
+      label: I grant permission for photos/videos to be taken for promotional use
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: section_final_submission_pay
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submission_date_final_pay
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: participant_signature_digital_pay
+      label: Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: additional_comments_final_pay
+      label: Any Additional Comments or Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: referral_source_pay
+      label: How did you hear about this class
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false

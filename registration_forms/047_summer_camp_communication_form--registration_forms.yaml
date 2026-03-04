@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Communication Form
+    pages:
+    - id: 1
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_info
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: camper_age
+      label: Camper Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: camper_gender
+      label: Camper Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 10
+      name: camper_special_needs
+      label: Camper Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Disability
+      - Emotional Disability
+      - Medical Condition
+      required: false
+    - id: 11
+      name: camper_medical_condition
+      label: Camper Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: camper_allergies
+      label: Camper Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: camper_medications
+      label: Camper Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: camper_medical_info
+      label: Camper Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: camper_medical_info2
+      label: Camper Medical Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: camper_notes
+      label: Camper Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship to Camper
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Grandparent
+      - Guardian
+      - Sibling
+      required: true
+    - id: 18
+      name: camp_session
+      label: Session prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: total_days
+      label: Total Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: camp_address
+      label: Camp Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: camper_medical_info3
+      label: Camper Medical Information 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: camper_medical_info4
+      label: Camper Medical Information 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Manager Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: previous_employment
+      label: Previous Employment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Leader
+      - Team Member
+      required: false
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekends
+      required: false
+    - id: 11
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Freelance
+      required: false
+    - id: 12
+      name: job_schedule
+      label: Job Schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false

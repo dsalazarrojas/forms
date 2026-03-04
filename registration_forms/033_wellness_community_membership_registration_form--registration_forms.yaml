@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Community Membership Registration Form
+    pages:
+    - id: 1
+      name: new_member_registration
+      label: New Member Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: zip code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_terms_and_conditions
+      label: I agree with the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 11
+      name: agree_privacy_policy
+      label: I agree with the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agree_to_share_member_data
+      label: I agree to share member data
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 14
+      name: agree_to_receive_newsletter
+      label: I agree to receive newsletter
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 15
+      name: agree_to_share_events
+      label: I agree to share events
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 16
+      name: agree_to_share_newsletter
+      label: I agree to share newsletter
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 17
+      name: agree_to_share_social_media
+      label: I agree to share on social media
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 18
+      name: agree_to_share_member_data
+      label: I agree to share member data
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 19
+      name: member_notes
+      label: Member Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: member_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Couple
+      - Family
+      required: true
+    - id: 21
+      name: membership_plan
+      label: Membership Plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Yearly
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 23
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One time
+      - Monthly
+      required: true
+    - id: 25
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: true

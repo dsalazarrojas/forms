@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Training Class Reservation Form
+    pages:
+    - id: 1
+      name: pet_owner
+      label: Pet Owner
+      hint: null
+      type: select_one
+      options:
+      - Pet Owner 1
+      - Pet Owner 2
+      - Pet Owner 3
+      required: false
+    - id: 2
+      name: training_class
+      label: Training Class
+      hint: null
+      type: select_multiple
+      options:
+      - Class 1
+      - Class 2
+      - Class 3
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pet_info
+      label: Pet Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 10
+      name: class_length
+      label: Class Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_level
+      label: Training Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_info
+      label: Owner Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_name
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: owner_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: owner_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: owner_province
+      label: Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: owner_postal
+      label: Postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: pet_gender
+      label: Pet Gender
+      hint: null
+      type: select_multiple
+      options:
+      - M
+      - F
+      - Other
+      required: false
+    - id: 22
+      name: class_status
+      label: Class Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Full
+      required: false
+    - id: 23
+      name: class_capacity
+      label: Class Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: class_description
+      label: Class Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 26
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Refunded
+      required: false
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - PayPal
+      required: false

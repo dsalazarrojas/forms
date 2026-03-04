@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Performance Coaching Camp Registration Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coaching_goals
+      label: Coaching Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_coaching_camp_details
+      label: Performance Coaching Camp Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '- Not Started
+
+        - In Progress
+
+        - Completed'
+      - Other
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

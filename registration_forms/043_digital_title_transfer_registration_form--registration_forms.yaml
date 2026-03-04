@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Title Transfer Registration Form
+    pages:
+    - id: 1
+      name: dealer_info
+      label: Dealer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: seller_info
+      label: Seller Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: buyer_info
+      label: Buyer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_transfer
+      label: Time of Transfer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: transfer_amount
+      label: Transfer Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Wire Transfer
+      - Other
+      required: false
+    - id: 10
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false

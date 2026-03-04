@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piano Festival Registration Form
+    pages:
+    - id: 1
+      name: piano_festival_registration_form_name
+      label: Piano Festival Registration Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_contact_details
+      label: participant_contact_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3, ''label'': ''Email'', ''value'': ''Email''}'
+      - '{''id'': 4, ''label'': ''Phone'', ''value'': ''Phone''}'
+      required: false
+    - id: 4
+      name: piano_festival_registration_form_description
+      label: piano_festival_registration_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: piano_festival_registration_form_description
+      label: piano_festival_registration_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: piano_festival_participant_status
+      label: piano_festival_participant_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9, ''label'': ''Confirmed'', ''value'': ''Confirmed''}'
+      - '{''id'': 10, ''label'': ''Pending'', ''value'': ''Pending''}'
+      - '{''id'': 11, ''label'': ''Not confirmed'', ''value'': ''Not confirmed''}'
+      required: false
+    - id: 10
+      name: piano_festival_participant_status
+      label: piano_festival_participant_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 9, ''label'': ''Confirmed'', ''value'': ''Confirmed''}'
+      - '{''id'': 10, ''label'': ''Pending'', ''value'': ''Pending''}'
+      required: false
+    - id: 11
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9, ''label'': ''Confirmed'', ''value'': ''Confirmed''}'
+      - '{''id'': 10, ''label'': ''Pending'', ''value'': ''Pending''}'
+      - '{''id'': 11, ''label'': ''Not confirmed'', ''value'': ''Not confirmed''}'
+      required: false
+    - id: 12
+      name: participant_registration_date
+      label: participant_registration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: participant_last_seen
+      label: participant_last_seen
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: piano_festival_participant_id
+      label: piano_festival_participant_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: piano_festival_participant_status
+      label: piano_festival_participant_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''label'': ''Confirmed'', ''value'': ''Confirmed''}'
+      - '{''id'': 16, ''label'': ''Not confirmed'', ''value'': ''Not confirmed''}'
+      required: false
+    - id: 16
+      name: participant_last_seen
+      label: participant_last_seen
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: piano_festival_participant_status
+      label: piano_festival_participant_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 15, ''label'': ''Confirmed'', ''value'': ''Confirmed''}'
+      - '{''id'': 16, ''label'': ''Not confirmed'', ''value'': ''Not confirmed''}'
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicaid_provider_registration_form
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: true
+    - id: 8
+      name: license_num
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: provider_type
+      label: Provider Type
+      hint: null
+      type: select_multiple
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      required: true
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

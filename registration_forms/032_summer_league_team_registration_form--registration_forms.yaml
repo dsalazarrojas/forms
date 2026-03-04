@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer League Team Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_email
+      label: team_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: team_contact_name
+      label: Team Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_phone
+      label: team_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_location
+      label: Team Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_league_name
+      label: Team League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_league_type
+      label: Team League Type
+      hint: null
+      type: select_one
+      options:
+      - Baseball
+      - Basketball
+      - Football
+      - Hockey
+      - Soccer
+      - Volleyball
+      required: false
+    - id: 9
+      name: team_league_level
+      label: Team League Level
+      hint: null
+      type: select_multiple
+      options:
+      - Recreational
+      - Competitive
+      - Advanced
+      required: false
+    - id: 10
+      name: team_league_division
+      label: Team League Division
+      hint: null
+      type: select_multiple
+      options:
+      - Adult
+      - Junior
+      - Coed
+      required: false
+    - id: 11
+      name: team_manager_name
+      label: Team Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_manager_email
+      label: Team Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: team_manager_phone
+      label: Team Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false

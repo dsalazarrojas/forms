@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: dog-class-registration-form-2
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_email
+      label: owner-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: owner_phone
+      label: owner-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dog_breed
+      label: dog-breed
+      hint: null
+      type: select_one
+      options:
+      - Poodle
+      - Golden Retriever
+      - Bulldog
+      - Boxer
+      - Beagle
+      - Chihuahua
+      - Corgi
+      - Dachshund
+      - Great Dane
+      - Labrador
+      - Pug
+      - Shih Tzu
+      - Yorkshire Terrier
+      required: false
+    - id: 5
+      name: class_type
+      label: class-type
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Transitional
+      - Basic and Transitional
+      required: false
+    - id: 6
+      name: training_dates
+      label: training-dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: start-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - prophets
+      - cash
+      - bank-transfer
+      - pay-pal
+      required: false
+    - id: 13
+      name: payment_amount
+      label: payment-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: class_time
+      label: class-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: class_duration
+      label: class-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: registration_date
+      label: registration-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: prophets
+      label: Prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: class_time_ends
+      label: class-time-ends
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: class_duration_ends
+      label: class-duration-ends
+      hint: null
+      type: number
+      options: []
+      required: false

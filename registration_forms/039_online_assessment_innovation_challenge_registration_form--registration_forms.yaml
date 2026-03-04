@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Assessment Innovation Challenge Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: challenge_name
+      label: Challenge Name
+      hint: null
+      type: select_one
+      options:
+      - Online Assessment Innovation Challenge
+      - Other (please specify)
+      required: true
+    - id: 8
+      name: challenge_type
+      label: Challenge Type
+      hint: null
+      type: select_multiple
+      options:
+      - Startup/Innovation
+      - Design/Development
+      - Other
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submit_location
+      label: Submit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_challenge
+      label: Other Challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_challenge_specify
+      label: Other Challenge Specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_comment
+      label: Submit Comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: team_members_count
+      label: Team Members Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: team_members_name
+      label: Team Members Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_members_email
+      label: Team Members Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_members_phone
+      label: Team Members Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_members_location
+      label: Team Members Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_members_challenge
+      label: Team Members Challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_members_challenge_type
+      label: Team Members Challenge
+      hint: null
+      type: select_multiple
+      options:
+      - Startup/Innovation
+      - Design/Development
+      - Other
+      required: false
+    - id: 25
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: note
+      options: []
+      required: true

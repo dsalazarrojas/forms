@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Check In Form
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: checkin_time
+      label: checkin_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

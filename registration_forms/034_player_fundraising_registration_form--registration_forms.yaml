@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Fundraising Registration Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: player_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_last_name
+      label: player_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_email
+      label: player_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: player_phone
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: player_relationship
+      label: player_relationship
+      hint: 'Relationship status: single, married, in a relationship, other'
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: partner_first_name
+      label: partner_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_last_name
+      label: partner_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_email
+      label: partner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: partner_phone
+      label: partner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: partner_relationship
+      label: partner_relationship
+      hint: 'Relationship status: single, married, in a relationship, other'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: fundraising_goal
+      label: fundraising_goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: is_couple
+      label: is_couple
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Couple''}'
+      - '{''label'': ''Individual''}'
+      - '{''label'': ''Neither''}'
+      required: true

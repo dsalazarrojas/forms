@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baking WorkShop Registration Form
+    pages:
+      - id: 1
+        name: section_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        Label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 6
+        name: organization
+        label: Organization or Bakery (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: section_workshop
+        label: -- Workshop Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: workshop_name
+        Label: Workshop Name
+        hint: null
+        type: select_one
+        options:
+          - Bread Baking Fundamentals
+          - French Pastry Masterclass
+          - Cake Design Workshop
+          - Chocolate Techniques
+          - Gluten-Free Baking
+          - Sourdough Deep Dive
+          - Other
+        required: true
+      - id: 9
+        name: workshop_date
+        Label: Workshop Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: workshop_time
+        Label: Workshop Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 11
+        name: duration
+        Label: Workshop Duration
+        hint: null
+        type: select_one
+        options:
+          - 2 Hours
+          - 4 Hours
+          - Full Day
+          - Multi-Day
+        required: false
+      - id: 12
+        name: section_experience
+        label: -- Experience Level --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: experience
+        Label: Baking Experience Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Professional
+        required: true
+      - id: 14
+        name: previous_workshops
+        Label: Previous Baking Workshops Attended
+        hint: How many?
+        type: integer
+        options: []
+        required: false
+      - id: 15
+        name: section_interests
+        label: -- Learning Interests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: learning_goals
+        Label: What Are Your Learning Goals?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: interest_areas
+        Label: Areas of Interest
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Bread Making
+          - Pastries
+          - Cakes
+          - Cookies
+          - Decorating
+          - Advanced Techniques
+          - Business Aspects
+        required: true
+      - id: 18
+        name: section_logistics
+        label: -- Logistics and Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: location
+        Label: Workshop Location Preference
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: dietary_restrictions
+        Label: Dietary Restrictions or Allergies
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: special_accommodations
+        Label: Special Accommodations Needed
+        hint: Mobility, learning, language, etc.
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: section_fees
+        label: -- Registration Fees and Payment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: registration_fee
+        Label: Registration Fee
+        hint: In dollars
+        type: decimal
+        options: []
+        required: true
+      - id: 24
+        name: payment_method
+        Label: Payment Method
+        hint: null
+        type: select_one
+        options:
+          - Credit Card
+          - Debit Card
+          - PayPal
+          - Bank Transfer
+          - Cash
+        required: true
+      - id: 25
+        name: registration_confirmation
+        Label: I Confirm My Registration for This Workshop
+        hint: null
+        type: select_one
+        options:
+          - Confirm Registration
+          - Cancel
+        required: true

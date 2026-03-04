@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration For Food For Thought
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_one_1
+      label: what_do_you_do_at_ufinancial
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''role'', ''label'': ''role'', ''value'': ''Financial
+        Analyst''}'
+      - '{''id'': 11, ''name'': ''role'', ''label'': ''role'', ''value'': ''Software
+        Developer''}'
+      - '{''id'': 12, ''name'': ''role'', ''label'': ''role'', ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: select_multiple_1
+      label: what_skills_do_you_have
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''name'': ''skill1'', ''label'': ''skill1'', ''value'': ''Excel''}'
+      - '{''id'': 15, ''name'': ''skill2'', ''label'': ''skill2'', ''value'': ''Python''}'
+      - '{''id'': 16, ''name'': ''skill3'', ''label'': ''skill3'', ''value'': ''Java''}'
+      - '{''id'': 17, ''name'': ''skill4'', ''label'': ''skill4'', ''value'': ''C++''}'
+      - '{''id'': 18, ''name'': ''skill5'', ''label'': ''skill5'', ''value'': ''HTML''}'
+      - '{''id'': 19, ''name'': ''skill6'', ''label'': ''skill6'', ''value'': ''CSS''}'
+      - '{''id'': 20, ''name'': ''skill7'', ''label'': ''skill7'', ''value'': ''Other''}'
+      - '{''id'': 21, ''name'': ''skill8'', ''label'': ''skill8'', ''value'': ''Database''}'
+      - '{''id'': 22, ''name'': ''skill9'', ''label'': ''skill9'', ''value'': ''JavaScript''}'
+      - '{''id'': 23, ''name'': ''skill10'', ''label'': ''skill10'', ''value'': ''SQL''}'
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

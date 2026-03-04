@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accountability Group Registration
+    pages:
+    - id: 1
+      name: section_member_info
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 6
+      name: section_goals
+      label: -- Goals and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_goal
+      label: Primary Goal for Joining an Accountability Group
+      hint: null
+      type: select_one
+      options:
+      - Career development
+      - Health and fitness
+      - Financial goals
+      - Personal growth
+      - Academic achievement
+      - Business startup
+      - Other
+      required: true
+    - id: 8
+      name: specific_goals
+      label: Describe Your Specific Goals
+      hint: What do you want to accomplish in the next 3-6 months
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: previous_experience
+      label: Have You Participated in an Accountability Group Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: commitment_level
+      label: How Committed Are You to Attending Regular Meetings
+      hint: null
+      type: select_one
+      options:
+      - Very committed
+      - Committed
+      - Somewhat committed
+      - Exploring the idea
+      required: true
+    - id: 11
+      name: section_availability
+      label: -- Availability and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_meeting_format
+      label: Preferred Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual (video call)
+      - Hybrid (mix of both)
+      - No preference
+      required: true
+    - id: 13
+      name: preferred_meeting_day
+      label: Preferred Meeting Day
+      hint: Select all that work for you
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 14
+      name: preferred_meeting_time
+      label: Preferred Meeting Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      required: true
+    - id: 15
+      name: group_size_preference
+      label: Preferred Group Size
+      hint: null
+      type: select_one
+      options:
+      - Small (3-5 people)
+      - Medium (6-10 people)
+      - Large (11+ people)
+      - No preference
+      required: false
+    - id: 16
+      name: what_you_bring
+      label: What Skills or Strengths Do You Bring to a Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

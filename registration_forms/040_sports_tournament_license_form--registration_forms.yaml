@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_tournament_license_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participants Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participants Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participants Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tournament_date
+      label: Tournament Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: tournament_time
+      label: Tournament Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: participant_license
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: team_license
+      label: Team License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: select_participant
+      label: Select Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: select_team
+      label: Select Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

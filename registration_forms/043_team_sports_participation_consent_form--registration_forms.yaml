@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Sports Participation Consent Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_input_3
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: user_input_4
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': 1}'
+      - '{''label'': ''Email'', ''value'': 2}'
+      - '{''label'': ''Both'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: user_input_5
+      label: Parent/Guardian Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Father or Mother'', ''value'': 1}'
+      - '{''label'': ''Grandparent'', ''value'': 2}'
+      - '{''label'': ''Other'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: user_input_6
+      label: Medical Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_input_7
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_input_8
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_input_9
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_input_10
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_input_11
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false

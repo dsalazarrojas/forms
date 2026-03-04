@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: rv_park_check_out_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: park_rating
+      label: Park Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Excellent''}'
+      - '{''option_2'': ''Good''}'
+      - '{''option_3'': ''Fair''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: park_staff_notes
+      label: Park Staff Notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Manager''}'
+      - '{''option_2'': ''Assistant Manager''}'
+      - '{''option_3'': ''Customer Service Representative''}'
+      required: false
+    - id: 9
+      name: charge_amount
+      label: Charge Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: Choose a payment method
+      type: select_one
+      options:
+      - '{''option_1'': ''Cash''}'
+      - '{''option_2'': ''Credit Card''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: guest_rating
+      label: Guest Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Excellent''}'
+      - '{''option_2'': ''Good''}'
+      - '{''option_3'': ''Fair''}'
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Neutral Event Check In Form
+    pages:
+    - id: 1
+      name: event_information
+      label: -- EVENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: attendee_information
+      label: -- ATTENDEE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization
+      label: Organization or company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: transportation_method
+      label: -- TRANSPORTATION INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: arrival_method
+      label: How are you arriving at the event?
+      hint: null
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Carpool
+      - Public Transit
+      - Bicycle
+      - Walk
+      - Virtual Attendance
+      required: true
+    - id: 12
+      name: travel_distance
+      label: Approximate travel distance (miles)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: staying_overnight
+      label: Are you staying overnight?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: accommodation_type
+      label: Accommodation type (if staying)
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Host/Friend
+      - Airbnb
+      - Camping
+      - Other
+      - N/A
+      required: false
+    - id: 15
+      name: dietary_preferences
+      label: -- EVENT PREFERENCES --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary restrictions or preferences
+      hint: Vegetarian, vegan, gluten-free, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meal_selections
+      label: Meal selections for the event
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      - Snacks
+      - Beverages
+      - None
+      required: false
+    - id: 18
+      name: sustainability_commitment
+      label: -- SUSTAINABILITY COMMITMENT --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: carbon_offset_preference
+      label: Carbon offset preference
+      hint: null
+      type: select_one
+      options:
+      - Yes - Included in Registration
+      - Yes - Additional Fee
+      - No Thanks
+      - Unsure
+      required: false
+    - id: 20
+      name: offset_amount
+      label: Carbon offset amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: sustainability_actions
+      label: Sustainability actions you will take at event
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Use Reusable Cup
+      - Minimize Waste
+      - Carpool
+      - Use Public Transit
+      - Avoid Single-Use Plastics
+      - Other
+      required: false
+    - id: 22
+      name: event_survey
+      label: -- EVENT SURVEY --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: session_interest
+      label: Sessions/workshops interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sustainability Panel
+      - Climate Action
+      - Green Business
+      - Carbon Footprint
+      - Environmental Innovation
+      - Networking
+      required: false
+    - id: 24
+      name: volunteer_interest
+      label: Interested in volunteering at the event?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 25
+      name: additional_information
+      label: Any additional information or special needs?
+      hint: null
+      type: text
+      options: []
+      required: false

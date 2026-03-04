@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Camp Attendance Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date_of_departure
+      label: Date of Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: staff_status
+      label: Staff Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

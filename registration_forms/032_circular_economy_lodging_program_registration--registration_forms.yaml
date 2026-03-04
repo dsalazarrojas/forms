@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circular Economy Lodging Program Registration
+    pages:
+    - id: 1
+      name: section_header_property_info
+      label: -- Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_name
+      label: Lodging Property Name
+      hint: Hotel, B&B, resort, etc
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Bed and Breakfast
+      - Resort
+      - Vacation rental
+      - Boutique hotel
+      - Hostel
+      - Lodge
+      - Eco-lodge
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Person Title
+      hint: Manager, owner, sustainability officer, etc
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: rooms_count
+      label: Number of Guest Rooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: annual_occupancy_rate
+      label: Average Annual Occupancy Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: annual_guests
+      label: Approximate Annual Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: year_established
+      label: Year Property Was Established
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_header_sustainability
+      label: -- Sustainability and Circular Economy Initiatives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: current_initiatives
+      label: Current Sustainability Initiatives (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Waste reduction program
+      - Energy efficiency
+      - Water conservation
+      - Renewable energy
+      - Local sourcing
+      - Recycling program
+      - Composting
+      - Green landscaping
+      - Sustainable materials
+      - Circular design practices
+      required: false
+    - id: 19
+      name: initiative_description
+      label: Description of Current Sustainability Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_program_interest
+      label: -- Program Interest and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: program_interest_areas
+      label: Areas of Interest in Circular Economy Program (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Waste management optimization
+      - Energy efficiency
+      - Water conservation
+      - Supply chain improvement
+      - Product design and materials
+      - Guest engagement
+      - Certification and recognition
+      - Networking opportunities
+      required: true
+    - id: 22
+      name: primary_goals
+      label: Primary Goals for Joining This Program
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_header_resources
+      label: -- Resources and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: support_needed
+      label: Types of Support Needed (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Technical consultation
+      - Training and education
+      - Equipment or materials
+      - Best practice guidance
+      - Certification support
+      - Marketing assistance
+      - Financial incentives
+      required: false
+    - id: 25
+      name: investment_capacity
+      label: Estimated Investment Capacity for Improvements
+      hint: null
+      type: select_one
+      options:
+      - Less than 10000
+      - 10000-25000
+      - 25000-50000
+      - 50000-100000
+      - 100000+
+      required: false
+    - id: 26
+      name: section_header_commitment
+      label: -- Program Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: program_duration
+      label: Desired Program Duration
+      hint: null
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2 years
+      - Ongoing
+      required: true
+    - id: 28
+      name: staff_participation
+      label: Number of Staff That Will Participate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: success_metrics
+      label: How Will You Measure Program Success
+      hint: null
+      type: text
+      options: []
+      required: false

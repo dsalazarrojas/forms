@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sorority Registration Form
+    pages:
+    - id: 1
+      name: prospectivemember
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sorority_name
+      label: Sorority Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: chaptername
+      label: Chapter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emailaddress
+      label: emailaddress
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phonenumber
+      label: phonenumber
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dateofbirth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gradelevel
+      label: gradelevel
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 8
+      name: major
+      label: major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: academicstatus
+      label: academicstatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Active (Transfer)
+      - Active (Non-Traditional)
+      - Active (Post-Bacc)
+      required: true
+    - id: 10
+      name: enrollmentfee
+      label: enrollment fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: recruitmentagree
+      label: recruitmentagree
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: enrollmentdisclaimer
+      label: enrollmentdisclaimer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: upload_document
+      label: Upload document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sororityletters
+      label: sorority letters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sororitycolors
+      label: sorority colors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: paymentmethod
+      label: payment method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: submittedby
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: chapterid
+      label: chapterid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: chaptername
+      label: chaptername
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: chapteremail
+      label: chapteremail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: chapterwebsite
+      label: chapterwebsite
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: paymentgateway
+      label: paymentgateway
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false

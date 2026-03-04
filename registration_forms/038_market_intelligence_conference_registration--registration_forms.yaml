@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_intelligence_conference_registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_interests
+      label: Session Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_requirements
+      label: Session Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_interests_1
+      label: Session Interests 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: session_interests_2
+      label: Session Interests 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

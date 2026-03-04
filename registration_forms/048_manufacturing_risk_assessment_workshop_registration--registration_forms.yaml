@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: manufacturing_risk_assessment_workshop_registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_choices
+      label: Session Choices
+      hint: null
+      type: select_one
+      options:
+      - '{''choice'': ''Session 1''}'
+      - '{''choice'': ''Session 2''}'
+      - '{''choice'': ''Session 3''}'
+      required: false
+    - id: 3
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requirements
+      label: Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false

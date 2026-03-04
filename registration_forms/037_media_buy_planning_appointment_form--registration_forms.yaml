@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Buy Planning Appointment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter the client's name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter the client's surname
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: Enter the client company name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: Select the client's role
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''CEO''}'
+      - '{''id'': 2, ''name'': ''Marketing Team''}'
+      - '{''id'': 3, ''name'': ''Media Buyer''}'
+      required: true
+    - id: 7
+      name: media_buyer
+      label: Media Buyer
+      hint: Enter the name of the media buyer
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_date
+      label: Meeting Date
+      hint: Select a meeting date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: meeting_time
+      label: Meeting Time
+      hint: Select a meeting time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: meeting_note
+      label: Meeting Note
+      hint: Enter any notes or comments
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: budget
+      label: Budget
+      hint: Enter the budget for the media buy
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_location
+      label: Meeting Location
+      hint: Enter the meeting location
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: Enter any additional info
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: Enter the confirmed email address
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: Confirm Phone
+      hint: Enter the confirmed phone number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meeting_details
+      label: Meeting Details
+      hint: Enter meeting details
+      type: text
+      options: []
+      required: false

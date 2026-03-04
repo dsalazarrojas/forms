@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Training Session Scheduling Form
+    pages:
+    - id: 1
+      name: employee_selection
+      label: Employee Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_session_details
+      label: Training Session Details
+      hint: null
+      type: select_one
+      options:
+      - '2023-02-20'
+      - '2023-02-27'
+      - '2023-03-13'
+      required: false
+    - id: 3
+      name: training_start_time
+      label: Training Start Time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 am
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 1:00 pm
+      required: false
+    - id: 4
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      required: false
+    - id: 5
+      name: employee_availability
+      label: Employee Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_topics
+      label: Training Topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Online
+      - Remote
+      required: false
+    - id: 8
+      name: training_instructor
+      label: Training Instructor
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 9
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: training_session_id
+      label: Training Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

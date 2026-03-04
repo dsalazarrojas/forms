@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Film Screening Registration Form
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For screening updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: Your age
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: film_selection
+      label: Film Selection
+      hint: Which film are you registering for?
+      type: select_one
+      options:
+      - Documentary Showcase
+      - Independent Films
+      - Classic Cinema
+      - International Films
+      - Short Film Festival
+      - Full Series Pass
+      required: true
+    - id: 7
+      name: screening_date
+      label: Screening Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: screening_time
+      label: Screening Time
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - Matinee (2 PM)
+      - Evening (6 PM)
+      - Late Night (9 PM)
+      required: true
+    - id: 9
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: How many tickets do you need?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: ticket_type
+      label: Ticket Type
+      hint: Select ticket category
+      type: select_one
+      options:
+      - General Admission
+      - Student
+      - Senior
+      - Member
+      - VIP
+      required: true
+    - id: 11
+      name: membership_status
+      label: Membership Status
+      hint: Are you a member?
+      type: select_one
+      options:
+      - Current Member
+      - Not a Member
+      - Interested in Membership
+      required: true
+    - id: 12
+      name: seating_preference
+      label: Seating Preference
+      hint: Where would you like to sit?
+      type: select_one
+      options:
+      - Front
+      - Middle
+      - Back
+      - No Preference
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: concessions_interest
+      label: Interested in Concessions
+      hint: Will you purchase concessions?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For concession planning
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About Screening
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email Newsletter
+      - Friend or Family
+      - Flyer or Poster
+      - Local News
+      - Other
+      required: false
+    - id: 17
+      name: previous_attendance
+      label: Have You Attended Before
+      hint: Previous screening attendance
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once
+      - No, First Time
+      required: true
+    - id: 18
+      name: film_interests
+      label: Film Interests
+      hint: What genres interest you?
+      type: select_multiple
+      options:
+      - Documentary
+      - Drama
+      - Comedy
+      - Action
+      - Horror
+      - Foreign
+      - Independent
+      - Classic
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to help at screenings?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: ski_resort_season_pass_enrollment
+    pages:
+    - id: 1
+      name: pass_selection
+      label: Select a Pass
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: add_on_info
+      label: Addons Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: payment
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Person Training Registration Form
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Training Session 1''}'
+      - '{''value'': ''Training Session 2''}'
+      required: false
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_job_title
+      label: Participant Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_attendance
+      label: Participant Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_instructor
+      label: Training Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_diet_restrictions
+      label: Participant Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''gluten-free''}'
+      - '{''value'': ''vegetarian''}'
+      - '{''value'': ''vegan''}'
+      required: false
+    - id: 21
+      name: participant_onsite_parking
+      label: Participant Onsite Parking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_onsite_visa
+      label: Participant Onsite Visa
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_onsite_housing
+      label: Participant Onsite Housing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_emergency_contact
+      label: Participant Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 26
+      name: participant_dietary_restrictions
+      label: Participant Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''gluten-free''}'
+      - '{''value'': ''vegetarian''}'
+      - '{''value'': ''vegan''}'
+      required: false
+    - id: 27
+      name: participant_visa
+      label: Participant Visa
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: participant_visa_number
+      label: Participant Visa Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: participant_visa_expiration
+      label: Participant Visa Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: participant_visa_issue
+      label: Participant Visa Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: participant_visa_type
+      label: Participant Visa Type
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Planning Session Registration
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or area
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Your company or agency
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_details
+      label: -- Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_date
+      label: Preferred Session Date
+      hint: Which date works for you
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: session_time
+      label: Preferred Session Time
+      hint: Morning, afternoon, or evening
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-4pm)
+      - Evening (4pm-8pm)
+      - Flexible
+      required: true
+    - id: 12
+      name: session_duration
+      label: Expected Session Duration
+      hint: How long are you available
+      type: select_one
+      options:
+      - 2 hours
+      - Half day (4 hours)
+      - Full day (8 hours)
+      - Multiple days
+      - Flexible
+      required: true
+    - id: 13
+      name: session_format
+      label: Preferred Format
+      hint: In-person or virtual
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      - No preference
+      required: true
+    - id: 14
+      name: focus_areas
+      label: -- Focus Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_focus
+      label: Primary Focus Area
+      hint: What is your main need
+      type: select_one
+      options:
+      - Developing BC Plan
+      - Updating Existing Plan
+      - Risk Assessment
+      - Recovery Strategies
+      - Testing and Exercises
+      - Training and Awareness
+      - Compliance Review
+      required: true
+    - id: 16
+      name: focus_topics
+      label: Specific Topics to Cover
+      hint: Select areas of interest
+      type: select_multiple
+      options:
+      - Business Impact Analysis
+      - Risk Assessment
+      - Recovery Strategies
+      - Data Protection
+      - Backup and Restoration
+      - Crisis Communication
+      - Team Coordination
+      - Testing Methods
+      required: true
+    - id: 17
+      name: objectives
+      label: Session Objectives
+      hint: What do you want to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: organization_status
+      label: -- Organization Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: bc_maturity
+      label: Current BC Maturity Level
+      hint: Current state of BC planning
+      type: select_one
+      options:
+      - Beginner
+      - Emerging
+      - Intermediate
+      - Advanced
+      - Mature
+      required: true
+    - id: 20
+      name: existing_plan
+      label: Do You Have an Existing BC Plan
+      hint: Current planning status
+      type: select_one
+      options:
+      - Yes, in place
+      - Yes, but outdated
+      - In development
+      - No plan exists
+      required: true
+    - id: 21
+      name: team_size
+      label: Expected Team Size for Session
+      hint: How many will attend
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: attendee_roles
+      label: Types of Roles Attending
+      hint: Select applicable roles
+      type: select_multiple
+      options:
+      - Executive/Senior Management
+      - Risk Management
+      - IT/Technology
+      - Operations
+      - Finance
+      - HR
+      - Communications
+      - Department Managers
+      required: true
+    - id: 23
+      name: special_requirements
+      label: Special Requirements
+      hint: Any accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

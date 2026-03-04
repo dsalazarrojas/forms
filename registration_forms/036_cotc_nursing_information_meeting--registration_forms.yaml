@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: cotc_nursing_information_meeting
+    pages:
+    - id: 1
+      name: meeting_title
+      label: Meeting Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_description
+      label: Meeting Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: registration_name
+      label: Registration Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: registered_email
+      label: Registered Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: registered_phone
+      label: Registered Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: registered_professions
+      label: Registered Professions
+      hint: null
+      type: select_multiple
+      options:
+      - Nurse Practitioner
+      - Nurse Administrator
+      - Nurse Specialist
+      required: true
+    - id: 10
+      name: registered_professions_others
+      label: Others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: registered_comments
+      label: Registered Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: registered_agree
+      label: Registered Agree
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 13
+      name: meeting_agree
+      label: Meeting Agree
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 14
+      name: meeting_terms
+      label: Meeting Terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true

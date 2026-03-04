@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: investment_compliance_workshop_registration_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_workshop_attendance_date
+      label: Workshop Dates
+      hint: Select the workshop dates you want to attend
+      type: select_one
+      options:
+      - '2024-01-01'
+      - '2024-01-15'
+      required: false
+    - id: 4
+      name: participant_workshop_attendance_time
+      label: Workshop Time
+      hint: null
+      type: select_one
+      options:
+      - 08:00:00
+      - 09:00:00
+      required: false
+    - id: 5
+      name: participant_participation_status
+      label: Participant Status
+      hint: Select participant type
+      type: select_multiple
+      options:
+      - participant
+      - non_participant
+      required: false
+    - id: 6
+      name: participant_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Compliance
+      - Non-Compliance
+      required: false
+    - id: 8
+      name: participant_workshop_focus_area
+      label: Workshop Focus Area
+      hint: null
+      type: select_multiple
+      options:
+      - Risk
+      - Regulatory
+      required: false
+    - id: 9
+      name: participant_workshop_topic
+      label: Workshop Topic
+      hint: Select a specific topic
+      type: select_one
+      options:
+      - Risk Management
+      - Compliance
+      required: false
+    - id: 10
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_extension
+      label: Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: participant_workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: participant_workshop_attendance_type
+      label: Workshop Attendance Type
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      required: false
+    - id: 25
+      name: participant_additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

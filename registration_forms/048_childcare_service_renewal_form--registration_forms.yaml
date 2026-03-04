@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Service Renewal Form
+    pages:
+    - id: 1
+      name: renewal_date
+      label: Renewal Date
+      hint: Date of service renewal
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: current_program
+      label: Current Program
+      hint: What program is your child currently enrolled in?
+      type: select_one
+      options:
+      - Infant program
+      - Toddler program
+      - Preschool program
+      - Pre-K program
+      - School-age program
+      - After-school program
+      - Summer program
+      required: true
+    - id: 15
+      name: renewal_period
+      label: Renewal Period
+      hint: What period are you renewing for?
+      type: select_one
+      options:
+      - Next month
+      - Next 3 months
+      - Next 6 months
+      - Full year
+      - Summer session
+      - School year
+      required: true
+    - id: 16
+      name: continuing_same_schedule
+      label: Continuing Same Schedule
+      hint: Will you continue with the same schedule?
+      type: select_one
+      options:
+      - Yes, same schedule
+      - Yes, with minor changes
+      - No, need different schedule
+      required: true
+    - id: 17
+      name: schedule_changes
+      label: Schedule Changes
+      hint: Describe any schedule changes needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: updated_emergency_contact
+      label: Updated Emergency Contact
+      hint: Has your emergency contact information changed?
+      type: select_one
+      options:
+      - No, same as current
+      - Yes, updated below
+      required: true
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_medical_information
+      label: Updated Medical Information
+      hint: Has your child's medical information changed?
+      type: select_one
+      options:
+      - No, same as current
+      - Yes, updated below
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any medical conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List any current medications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_authorized_pickup
+      label: Updated Authorized Pickup List
+      hint: Has your authorized pickup list changed?
+      type: select_one
+      options:
+      - No, same as current
+      - Yes, updated below
+      required: true
+    - id: 25
+      name: authorized_pickup_persons
+      label: Authorized Pickup Persons
+      hint: List all people authorized to pick up your child
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: tuition_rate_acknowledgement
+      label: Tuition Rate Acknowledgement
+      hint: Have you reviewed the updated tuition rates?
+      type: select_one
+      options:
+      - Yes, I acknowledge the rates
+      - No, please provide information
+      required: true
+    - id: 27
+      name: payment_method_update
+      label: Payment Method Update
+      hint: Do you need to update your payment method?
+      type: select_one
+      options:
+      - No, same as current
+      - Yes, need to update
+      required: true
+    - id: 28
+      name: new_payment_method
+      label: New Payment Method
+      hint: What payment method will you use?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Bank transfer
+      - Cash
+      - Subsidy or assistance
+      required: false
+    - id: 29
+      name: renewal_fee
+      label: Renewal Fee
+      hint: Renewal fee amount if applicable
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Do you agree to the renewed terms and conditions?
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 31
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

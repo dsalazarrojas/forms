@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_festival_vendor_extension_form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: vendor_type
+      label: vendor_type
+      hint: null
+      type: select_one
+      options:
+      - Vendor Type 1
+      - Vendor Type 2
+      - Vendor Type 3
+      required: false
+    - id: 5
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_participation
+      label: event_participation
+      hint: null
+      type: select_multiple
+      options:
+      - Participation 1
+      - Participation 2
+      - Participation 3
+      required: false
+    - id: 7
+      name: vendor_contract
+      label: vendor_contract
+      hint: null
+      type: select_one
+      options:
+      - Vendor Contract 1
+      - Vendor Contract 2
+      - Vendor Contract 3
+      required: false
+    - id: 8
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false

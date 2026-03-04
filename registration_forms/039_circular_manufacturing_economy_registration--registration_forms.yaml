@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circular Manufacturing Economy Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Operations
+      - Engineering
+      - Sustainability
+      - Management
+      - Research and Development
+      - Supply Chain
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 9
+      name: manufacturing_type
+      label: Type of Manufacturing
+      hint: null
+      type: select_one
+      options:
+      - Automotive
+      - Electronics
+      - Textiles
+      - Food and Beverage
+      - Chemicals
+      - Machinery
+      - Consumer Goods
+      - Other
+      required: true
+    - id: 10
+      name: current_practices
+      label: Current Circular Practices
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Material recycling
+      - Product refurbishment
+      - Remanufacturing
+      - Waste reduction
+      - Energy recovery
+      - Water recycling
+      - None yet
+      required: true
+    - id: 11
+      name: waste_percentage
+      label: Current Waste Percentage
+      hint: Of total materials
+      type: select_one
+      options:
+      - Under 5%
+      - 5-10%
+      - 11-20%
+      - 21-30%
+      - Over 30%
+      required: true
+    - id: 12
+      name: sustainability_goals
+      label: Sustainability Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Individual attendee
+      - Team registration
+      - Full company program
+      required: true
+    - id: 14
+      name: team_size
+      label: Number of Team Members
+      hint: If team registration
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: team_members
+      label: Team Member Names
+      hint: List all attendees
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_selection
+      label: Session Tracks
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Design for circularity
+      - Material innovation
+      - Supply chain optimization
+      - Business models
+      - Policy and regulation
+      - Case studies
+      required: true
+    - id: 17
+      name: networking_interest
+      label: Interested in Networking Sessions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: exhibition_interest
+      label: Interested in Exhibition Booth
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 19
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For catering
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Invoice
+      - Bank transfer
+      - Check
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Any Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Trade Certification Exam Form
+    pages:
+    - id: 1
+      name: register_for_exam
+      label: Register For Exam
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: exam_location
+      label: Exam Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exam_facility
+      label: Exam Facility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exam_proctor
+      label: Exam Proctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exam_instructions
+      label: Exam Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exam_comments
+      label: Exam Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: exam_agreed
+      label: Agreed To Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: exam_agreed_hints
+      label: Agreed To Terms Hints
+      hint: null
+      type: text
+      options: []
+      required: false

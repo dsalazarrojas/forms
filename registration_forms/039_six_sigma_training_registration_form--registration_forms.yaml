@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: six_sigma_training_registration_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_job_title
+      label: Participant Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_job_title_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree to the terms and conditions'', ''value'': 1}'
+      - '{''label'': ''I do not agree to the terms and conditions'', ''value'': 2}'
+      required: true
+    - id: 13
+      name: participant_agreement_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''label'': ''Another tool'', ''value'': ''another_tool''}'
+      required: true
+    - id: 15
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_agreement_date
+      label: Participant Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: participant_agreement_time
+      label: Participant Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: participant_agreement_ip
+      label: Participant Agreement IP
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree'', ''value'': 1}'
+      - '{''label'': ''I do not agree'', ''value'': 2}'
+      required: false
+    - id: 19
+      name: participant_agreement_ip_comments
+      label: Participant Agreement IP Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_agreement_ip_comments_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_agreement_ip_date
+      label: Participant Agreement IP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: participant_agreement_ip_time
+      label: Participant Agreement IP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: participant_agreement_ip_ip
+      label: Participant Agreement IP IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_agreement_ip_ip_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_agreement_ip_ip_comments
+      label: Participant Agreement IP IP Comments
+      hint: null
+      type: text
+      options: []
+      required: false

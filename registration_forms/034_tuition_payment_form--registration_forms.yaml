@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tuition Payment Form
+    pages:
+    - id: 1
+      name: tuition_payment_form
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Wire Transfer
+      - Credit Card
+      - Cash
+      required: true
+    - id: 4
+      name: bank_account_number
+      label: bank_account_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wire_transfer_routing_number
+      label: wire_transfer_routing_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: credit_card_number
+      label: credit_card_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: credit_card_expiration_date
+      label: credit_card_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: amount_paid
+      label: amount_paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: guardian_name
+      label: guardian_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: guardian_phone
+      label: guardian_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Received
+      - Partially Received
+      - Not Received
+      required: true
+    - id: 16
+      name: payment_notes
+      label: payment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_confirmation
+      label: payment_confirmation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: payment_confirmation_email
+      label: payment_confirmation_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: payment_confirmation_phone
+      label: payment_confirmation_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_confirmation_note
+      label: payment_confirmation_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: guardian_signature
+      label: guardian_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: payment_approval
+      label: payment_approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true
+    - id: 24
+      name: payment_notes_2
+      label: payment_notes_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_comments
+      label: payment_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Giveaway Information Request
+    pages:
+    - id: 1
+      name: holiday_giveaway_form_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Participant E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: holiday_giveaway_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: holiday_giveaway_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Friend
+      - Other
+      required: false

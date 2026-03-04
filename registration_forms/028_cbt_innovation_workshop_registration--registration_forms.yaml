@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: CBT Innovation Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_header
+      label: -- CBT Workshop Registration --
+      hint: Join our innovative Cognitive Behavioral Therapy training session.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_title_cbt
+      label: Professional Title
+      hint: null
+      type: select_one
+      options:
+      - Licensed Therapist (LPC/LCSW)
+      - Psychologist
+      - Psychiatrist
+      - Mental Health Counselor
+      - Student/Trainee
+      - Other
+      required: true
+    - id: 4
+      name: license_number_cbt
+      label: Professional License Number
+      hint: For CEU credit verification
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_email_cbt
+      label: Registration Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: workshop_session_selection
+      label: Select Your Session Date
+      hint: null
+      type: select_one
+      options:
+      - May 15th - Foundations of CBT Innovation
+      - June 10th - Advanced Digital CBT Tools
+      - July 22nd - Group Therapy Innovations
+      required: true
+    - id: 7
+      name: attending_method_cbt
+      label: How will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - In-Person (San Francisco)
+      - Virtual (Live Stream)
+      required: true
+    - id: 8
+      name: previous_cbt_training
+      label: Level of previous CBT training
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced/Certified
+      required: true
+    - id: 9
+      name: dietary_requirements_cbt
+      label: Dietary Requirements (In-person only)
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      required: false
+    - id: 10
+      name: workshop_learning_goals
+      label: What are your primary learning goals for this workshop?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: referral_source_cbt
+      label: How did you hear about this workshop?
+      hint: null
+      type: select_one
+      options:
+      - Professional Association
+      - Social Media
+      - Colleague Referral
+      - Email Newsletter
+      required: false
+    - id: 12
+      name: accessibility_needs_cbt
+      label: Any specific accessibility needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_option_cbt
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - Invoice to Organization
+      - Scholarship Request
+      required: true
+    - id: 14
+      name: photo_release_consent
+      label: I consent to being photographed for educational purposes
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 15
+      name: cancellation_policy_ack
+      label: I agree to the 48-hour cancellation policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

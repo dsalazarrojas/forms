@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Participation Declaration Form
+    pages:
+    - id: 1
+      name: declaration_header
+      label: Participation Declaration
+      hint: Declare your conference participation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participant_info
+      label: Participant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: professional_affiliation
+      label: Professional Affiliation
+      hint: Association or body
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: conference_info
+      label: Conference Information
+      hint: Event details
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: conference_name
+      label: Conference Name
+      hint: Event name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: conference_dates
+      label: Conference Dates
+      hint: When held
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: conference_location
+      label: Conference Location
+      hint: Where held
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participation_type
+      label: Participation Type
+      hint: Your role at conference
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Panelist
+      - Workshop Leader
+      - Keynote Speaker
+      - Session Chair
+      - Exhibitor
+      - Sponsor Representative
+      - Media
+      required: true
+    - id: 15
+      name: participation_details
+      label: Participation Details
+      hint: Specific involvement
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: session_title
+      label: Session Title
+      hint: If presenting
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_date
+      label: Session Date
+      hint: When presenting
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: session_time
+      label: Session Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: co_presenters
+      label: Co-Presenters
+      hint: Other presenters
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attendance_commitment
+      label: Attendance Commitment
+      hint: Confirm participation
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: will_attend
+      label: Will You Attend
+      hint: Confirm attendance
+      type: select_one
+      options:
+      - Yes I Confirm Attendance
+      - No I Cannot Attend
+      - Maybe Undecided
+      required: true
+    - id: 22
+      name: attendance_format
+      label: Attendance Format
+      hint: How will you participate
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      - Hybrid
+      required: false
+    - id: 23
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: av_requirements
+      label: Audio Visual Requirements
+      hint: If presenting
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: declaration_statement
+      label: Declaration Statement
+      hint: Confirm accuracy
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: accuracy_confirmation
+      label: Accuracy Confirmation
+      hint: Information is correct
+      type: select_one
+      options:
+      - I Confirm Information is Accurate
+      - I Do Not Confirm
+      required: true
+    - id: 27
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: Agree to follow rules
+      type: select_one
+      options:
+      - I Agree to Code of Conduct
+      - I Do Not Agree
+      required: true
+    - id: 28
+      name: data_consent
+      label: Data Consent
+      hint: Allow data processing
+      type: select_one
+      options:
+      - I Consent to Data Processing
+      - I Do Not Consent
+      required: true
+    - id: 29
+      name: signature
+      label: Signature
+      hint: Sign declaration
+      type: select_one
+      options:
+      - I Sign This Declaration
+      - I Do Not Sign
+      required: true

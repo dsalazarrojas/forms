@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Event Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Registration
+      - Cancellation
+      - Other
+      required: false
+    - id: 10
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_event_date
+      label: Attendee Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: attendee_event_time
+      label: Attendee Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: attendee_event_venue
+      label: Attendee Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attendee_event_description
+      label: Attendee Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attendee_event_type
+      label: Attendee Event Type
+      hint: null
+      type: select_one
+      options:
+      - Registration
+      - Cancellation
+      - Other
+      required: false
+    - id: 18
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 19
+      name: event_status_message
+      label: Event Status Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attendee_status
+      label: Attendee Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 21
+      name: attendee_status_message
+      label: Attendee Status Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_host
+      label: Event Host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_host_phone
+      label: Event Host Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_host_email
+      label: Event Host Email
+      hint: null
+      type: email
+      options: []
+      required: false

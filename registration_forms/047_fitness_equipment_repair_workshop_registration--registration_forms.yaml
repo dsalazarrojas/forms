@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Equipment Repair Workshop Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_issue
+      label: Equipment Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 4
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

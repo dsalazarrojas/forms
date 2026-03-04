@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butterfly Preservation Workshop Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Select your age category
+      type: select_one
+      options:
+      - Child - 5-10
+      - Child - 11-13
+      - Teen - 14-18
+      - Adult - 19-30
+      - Adult - 31-50
+      - Adult - 50+
+      required: true
+    - id: 5
+      name: education_level
+      label: Educational Background
+      hint: Highest level of education
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Bachelor degree
+      - Master degree
+      - Professional degree
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: organization
+      label: Organization or School
+      hint: Your affiliation if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prior_butterfly_knowledge
+      label: Prior Butterfly Knowledge
+      hint: How much do you know about butterflies?
+      type: select_one
+      options:
+      - No prior knowledge
+      - Basic knowledge
+      - Moderate knowledge
+      - Extensive knowledge
+      - Expert
+      required: true
+    - id: 8
+      name: workshop_interest
+      label: What Aspects of Butterfly Preservation Interest You Most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Butterfly life cycles
+      - Habitat creation
+      - Species identification
+      - Conservation efforts
+      - Scientific research
+      - Community education
+      - Sustainable gardening
+      - Migration patterns
+      required: true
+    - id: 9
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Which session would you prefer?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: workshop_time
+      label: Preferred Workshop Time
+      hint: null
+      type: select_one
+      options:
+      - 8:00 AM - 10:00 AM
+      - 10:00 AM - 12:00 PM
+      - 1:00 PM - 3:00 PM
+      - 3:00 PM - 5:00 PM
+      - Evening session
+      - Flexible
+      required: true
+    - id: 11
+      name: workshop_duration
+      label: Preferred Workshop Duration
+      hint: How long would you like to attend?
+      type: select_one
+      options:
+      - Half day - 3 hours
+      - Full day - 6 hours
+      - Overnight workshop
+      - Multi-day program
+      - Flexible
+      required: true
+    - id: 12
+      name: location_preference
+      label: Location Preference
+      hint: null
+      type: select_one
+      options:
+      - Indoor classroom
+      - Outdoor field site
+      - Both indoor and outdoor
+      - No preference
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: group_participants
+      label: Will You Attend as Part of a Group?
+      hint: null
+      type: select_one
+      options:
+      - Individual participant
+      - With family members
+      - With school or organization group
+      - With friends
+      required: true
+    - id: 15
+      name: number_in_group
+      label: If Group, Number of People
+      hint: How many people total?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: motivations
+      label: What Motivates Your Interest in This Workshop?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: prior_workshops
+      label: Previous Workshop Attendance
+      hint: Have you attended nature or science workshops?
+      type: select_one
+      options:
+      - Yes, many workshops
+      - Yes, a few workshops
+      - First workshop
+      required: true
+    - id: 18
+      name: workshop_goals
+      label: What Do You Hope to Learn?
+      hint: Your specific learning objectives
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_conservation
+      label: Would You Like to Contribute to Butterfly Conservation?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very interested
+      - Possibly interested
+      - Need more information
+      - false
+      required: true
+    - id: 20
+      name: registration_confirmation
+      label: I Understand the Workshop Details and Confirm Registration
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - Need more information
+      - Need to cancel
+      required: true

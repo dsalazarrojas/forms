@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casino Dealer Training Registration Form
+    pages:
+    - id: 1
+      name: registration_information_section
+      label: -- Registration Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: program_name
+      label: Training Program Name
+      hint: Select the program you're enrolling in
+      type: select_one
+      options:
+      - Blackjack Dealer Training
+      - Roulette Dealer Training
+      - Poker Dealer Training
+      - Baccarat Dealer Training
+      - Multi-Game Training
+      - Advanced Dealer Certification
+      required: true
+    - id: 4
+      name: training_session
+      label: Training Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city_state_zip
+      label: City, State, Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: professional_information_section
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_employment
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Currently Employed
+      - Seeking Employment
+      - Unemployed
+      - Self-Employed
+      - Other
+      required: true
+    - id: 14
+      name: gaming_experience
+      label: Prior Gaming or Casino Experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Some
+      - None
+      required: true
+    - id: 15
+      name: previous_dealer_experience
+      label: Previous Dealer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_goals_section
+      label: -- Training Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: training_objectives
+      label: What are your training objectives?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: employment_plans
+      label: Post-Training Employment Plans
+      hint: null
+      type: select_one
+      options:
+      - Seeking immediate employment
+      - Career advancement
+      - Skill enhancement
+      - Personal interest
+      - Undecided
+      required: true
+    - id: 19
+      name: schedule_section
+      label: -- Schedule and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: training_start_date
+      label: Preferred Training Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: availability
+      label: Training Schedule Preference
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Evening Classes
+      - Weekend Classes
+      - Flexible
+      required: true
+    - id: 22
+      name: commitment_section
+      label: -- Commitment and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: training_commitment
+      label: Can you commit to completing the full program?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 24
+      name: background_check_agreement
+      label: I agree to background check and reference verification
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

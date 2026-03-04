@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: research_proposal_registration_form
+    pages:
+    - id: 1
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: research_title
+      label: Research Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: research_category
+      label: Research Category
+      hint: null
+      type: select_one
+      options:
+      - Artificial Intelligence
+      - Computer Vision
+      - Machine Learning
+      - Robotics
+      - Other
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_lead
+      label: Research Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_start_date
+      label: Research Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: research_end_date
+      label: Research End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: research_location
+      label: Research Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_budget
+      label: Research Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: research_funding
+      label: Research Funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: research_status
+      label: Research Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Approved
+      - Rejected
+      required: true
+    - id: 12
+      name: institution_type
+      label: Institution Type
+      hint: null
+      type: select_one
+      options:
+      - University
+      - College
+      - Other
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

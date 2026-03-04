@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Check In Form
+    pages:
+    - id: 1
+      name: checkin_header
+      label: Blood Donation Check-In Form
+      hint: Welcome - Please complete this form upon arrival
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: As it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM slash DD slash YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: donor_id
+      label: Donor ID Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For records
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Current Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: appointment_time
+      label: Appointment Time
+      hint: Scheduled time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: walk_in
+      label: Walk-In Donor
+      hint: Do you have an appointment
+      type: select_one
+      options:
+      - Yes I Have Appointment
+      - No Walk-In
+      required: true
+    - id: 13
+      name: donation_type_today
+      label: Donation Type Today
+      hint: What will you donate
+      type: select_one
+      options:
+      - Whole Blood
+      - Platelets
+      - Plasma
+      - Power Red
+      required: true
+    - id: 14
+      name: feeling_well
+      label: Feeling Well Today
+      hint: Are you in good health
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: traveled_recently
+      label: Recent Travel
+      hint: Traveled outside country in 3 months
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: medications
+      label: Current Medications
+      hint: Are you taking any medications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: medication_list
+      label: Medication List
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: eaten_today
+      label: Have You Eaten Today
+      hint: Must eat before donating
+      type: select_one
+      options:
+      - Yes Ate Within 3 Hours
+      - Yes Ate Earlier
+      - No Not Yet
+      required: true
+    - id: 19
+      name: hydrated
+      label: Hydration Status
+      hint: Have you had enough fluids
+      type: select_one
+      options:
+      - Yes Well Hydrated
+      - Somewhat
+      - No Need Water
+      required: true
+    - id: 20
+      name: sleep_hours
+      label: Hours of Sleep Last Night
+      hint: How many hours
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: first_time
+      label: First Time Donor
+      hint: Is this your first donation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: previous_reactions
+      label: Previous Adverse Reactions
+      hint: Any issues with past donations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false

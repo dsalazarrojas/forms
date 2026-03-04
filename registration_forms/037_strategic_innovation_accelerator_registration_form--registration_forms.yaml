@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Innovation Accelerator Registration Form
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_goals
+      label: Program Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Accelerator
+      - Innovation Program
+      required: true
+    - id: 10
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

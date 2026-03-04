@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Volunteer Registration
+    pages:
+    - id: 1
+      name: vol_reg_intro_header
+      label: -- Volunteer Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vol_full_name_reg
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vol_email_address_reg
+      label: Email Address
+      hint: For volunteer coordination and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: vol_phone_number_reg
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vol_home_address_reg
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vol_background_header
+      label: -- Background and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vol_dob_reg
+      label: Date of Birth
+      hint: Required for background screening purposes
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: vol_skills_interests_reg
+      label: Areas of Interest or Special Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Arts and Crafts
+      - Sports and Games
+      - Nature and Environment
+      - First Aid / Medical
+      - Kitchen / Meal Prep
+      - Maintenance / Grounds
+      - Administration / Office
+      required: true
+    - id: 9
+      name: vol_previous_experience_youth
+      label: Previous Experience with Youth Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vol_emergency_contact_info
+      label: Emergency Contact Name and Phone
+      hint: Person to reach while you are volunteering
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vol_medical_allergies_concerns
+      label: Medical Allergies or Conditions (Volunteers)
+      hint: If none, please type None
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vol_background_check_consent
+      label: Consent to Background Check
+      hint: I authorize the camp to conduct a standard background check
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 13
+      name: vol_participation_agreement_waiver
+      label: Volunteer Participation Agreement
+      hint: I agree to the volunteer terms and liability waiver
+      type: select_one
+      options:
+      - I Agree and Accept
+      - Other
+      required: true
+    - id: 14
+      name: vol_digital_signature_reg
+      label: Volunteer Electronic Signature
+      hint: Please type your full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vol_reg_date_timestamp
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_training_enrollment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: course_interest
+      label: Course Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false

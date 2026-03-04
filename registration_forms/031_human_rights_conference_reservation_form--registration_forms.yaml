@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: human_rights_conference_reservation_form
+    pages:
+    - id: 1
+      name: reservation_details
+      label: Reservation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - none
+      - vegan
+      - gluten-free
+      - other
+      required: false
+    - id: 6
+      name: meal_preferences
+      label: Meal Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      - other
+      required: false
+    - id: 7
+      name: meal_options
+      label: Meal Options
+      hint: null
+      type: select_multiple
+      options:
+      - lunch
+      - dinner
+      - snacks
+      - no_meal
+      required: false
+    - id: 8
+      name: religious_affiliations
+      label: Religious Affiliations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_info
+      label: Emergency Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - pending
+      required: false

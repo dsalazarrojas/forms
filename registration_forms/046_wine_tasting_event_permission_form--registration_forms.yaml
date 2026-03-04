@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wine Tasting Event Permission Form
+    pages:
+    - id: 1
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_names
+      label: Participant Names
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_emails
+      label: Participant Emails
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: participant_phone_numbers
+      label: Participant Phone Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_dates_of_birth
+      label: Participant Dates of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_ages
+      label: Participant Ages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - I am 18 years or older
+      - I am under 18
+      required: true
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_tasting_group
+      label: Participant Tasting Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: participant_tasting_capacity
+      label: Participant Tasting Capacity
+      hint: null
+      type: select_one
+      options:
+      - Tasting Capacity
+      - No Tasting Capacity
+      required: true
+    - id: 18
+      name: participant_food
+      label: Participant Food Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: participant_special_diets
+      label: Participant Special Diets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: participant_other_participant
+      label: Other Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_attending_status
+      label: Participant Attending Status
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Not Attending
+      required: true
+    - id: 22
+      name: participant_status_note
+      label: Participant Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_dietary_restrictions
+      label: Participant Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_allergies
+      label: Participant Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_additional_info
+      label: Participant Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

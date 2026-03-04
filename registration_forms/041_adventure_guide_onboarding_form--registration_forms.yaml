@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Guide Onboarding Form
+    pages:
+    - id: 1
+      name: onboarding_header
+      label: -- Onboarding Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate full name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: experience_years
+      label: Years of guiding experience
+      hint: Enter whole number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: certifications
+      label: Relevant certifications
+      hint: Wilderness first aid, guiding licenses
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability and preferred shifts
+      hint: Days and times available
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: references
+      label: Professional references
+      hint: Provide two references with contact info
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: background_check_consent
+      label: Consent to background check
+      hint: Required for hiring
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for onboarding
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature_date
+      label: Signature date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

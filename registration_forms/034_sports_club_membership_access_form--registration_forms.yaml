@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Club Membership Access Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_number
+      label: Membership Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: select_membership_category
+      label: Membership Category
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Associate
+      - Honorary
+      - Member (Student)
+      required: false
+    - id: 11
+      name: select_club
+      label: Club
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Fitness
+      - Recreation
+      - Arts
+      - Music
+      - Dance
+      - Culture
+      - Education
+      - Other
+      - Sports & Recreation
+      - Fitness & Recreation
+      - Arts & Music
+      - Arts & Dance
+      - Culture & Arts
+      - Education & Other
+      required: false
+    - id: 12
+      name: select_club_type
+      label: Club Type
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Community
+      - School
+      - University
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_membership_number
+      label: Confirm Membership Number
+      hint: null
+      type: text
+      options: []
+      required: false

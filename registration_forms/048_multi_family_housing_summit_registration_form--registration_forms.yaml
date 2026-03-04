@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multi Family Housing Summit Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: Briefly describe your job
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Attendee''}'
+      - '{''id'': 2, ''name'': ''Speaker''}'
+      - '{''id'': 3, ''name'': ''Organizer''}'
+      required: true
+    - id: 9
+      name: attending_with
+      label: Attending with
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Spouse''}'
+      - '{''id'': 2, ''name'': ''Team''}'
+      - '{''id'': 3, ''name'': ''Client''}'
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Small''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Large''}'
+      - '{''id'': 4, ''name'': ''Unknown''}'
+      required: true
+    - id: 11
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online''}'
+      - '{''id'': 2, ''name'': ''On-site''}'
+      - '{''id'': 3, ''name'': ''Both''}'
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_date
+      label: Registration Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: registration_time
+      label: Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitter
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_email
+      label: Submitted By E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false

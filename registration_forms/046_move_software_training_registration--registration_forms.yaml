@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: move_software_training_registration
+    pages:
+    - id: 1
+      name: training_team_name
+      label: Training Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_choices
+      label: Session Choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: goals_and_objectives
+      label: Goals and Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_end_date
+      label: Session End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

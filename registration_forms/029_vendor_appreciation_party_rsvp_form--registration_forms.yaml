@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Appreciation Party RSVP Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name_of_guest
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attending
+      label: attending
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': True, ''label'': True}'
+      - '{''id'': 12, ''name'': False, ''label'': False}'
+      - '{''id'': 13, ''name'': ''not_sure'', ''label'': ''not sure''}'
+      required: true
+    - id: 11
+      name: special_requests
+      label: special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 16, ''name'': True, ''label'': True}'
+      - '{''id'': 17, ''name'': False, ''label'': False}'
+      required: false

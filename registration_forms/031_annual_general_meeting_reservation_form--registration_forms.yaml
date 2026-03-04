@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual General Meeting Reservation Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_id
+      label: Membership ID
+      hint: Member identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_year
+      label: Meeting Year
+      hint: Which AGM are you reserving for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 7
+      name: reservation_type
+      label: Reservation Type
+      hint: What are you reserving?
+      type: select_one
+      options:
+      - Individual Seat
+      - Table for 8
+      - Table for 10
+      - Virtual Access
+      - Standing Room
+      required: true
+    - id: 8
+      name: number_of_seats
+      label: Number of Seats
+      hint: Total seats needed
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: seating_preference
+      label: Seating Preference
+      hint: Where would you like to sit?
+      type: select_one
+      options:
+      - No Preference
+      - Front Section
+      - Middle Section
+      - Back Section
+      - Near Exit
+      - Accessible Seating
+      required: false
+    - id: 10
+      name: table_companions
+      label: Table Companions
+      hint: Names of people at your table
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Shellfish Allergies
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 12
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meal_selection
+      label: Meal Selection
+      hint: Choose your preferred meal
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - No Meal Required
+      required: true
+    - id: 14
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What will you be drinking?
+      type: select_one
+      options:
+      - Full Bar
+      - Wine and Beer
+      - Non-Alcoholic Only
+      - No Preference
+      required: false
+    - id: 15
+      name: materials_needed
+      label: Materials Needed
+      hint: What materials do you need?
+      type: select_multiple
+      options:
+      - Printed Agenda
+      - Financial Report
+      - Name Badge
+      - Voting Card
+      - Digital Only
+      - None
+      required: false
+    - id: 16
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: arrival_time
+      label: Expected Arrival Time
+      hint: When do you plan to arrive?
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: If fees apply, how will you pay?
+      type: select_one
+      options:
+      - No Fee Required
+      - Credit Card
+      - Invoice
+      - Check
+      - Included in Membership
+      required: true
+    - id: 20
+      name: reservation_fee
+      label: Reservation Fee
+      hint: Amount due if applicable
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I agree to the cancellation policy
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true
+    - id: 22
+      name: confirmation_method
+      label: Confirmation Method
+      hint: How should we confirm?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      required: true
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs or requests?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Quality Symposium Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: registration_time
+      label: Registration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: symposium_start_date
+      label: Symposium Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: symposium_end_date
+      label: Symposium End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      required: true
+    - id: 11
+      name: registration_method
+      label: Registration Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - On-site
+      required: true
+    - id: 12
+      name: symposium_location
+      label: Symposium Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      required: true
+    - id: 13
+      name: symposium_type
+      label: Symposium Type
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - Offline
+      required: true
+    - id: 14
+      name: symposium_venue
+      label: Symposium Venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: symposium_language
+      label: Symposium Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: symposium_program
+      label: Symposium Program
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 17
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: attendee_position
+      label: Attendee Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attendee_company
+      label: Attendee Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attendee_reg_date
+      label: Attendee Reg Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: attendee_reg_time
+      label: Attendee Reg Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: attendee_symposium_start_date
+      label: Attendee Symposium Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: attendee_symposium_end_date
+      label: Attendee Symposium End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: attendee_notes
+      label: Attendee Notes
+      hint: null
+      type: text
+      options: []
+      required: false

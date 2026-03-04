@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Patient Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hospital_stay_start_date
+      label: Hospital Stay Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: hospital_stay_end_date
+      label: Hospital Stay End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: doctor_signature
+      label: Doctor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_team_signature
+      label: Medical Team Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      required: true
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Surgery
+      - ICU
+      required: true
+    - id: 19
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: bed_number
+      label: Bed Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_room_type
+      label: Patient Room Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Semi-Private
+      - Public
+      required: true
+    - id: 22
+      name: patient_room_status
+      label: Patient Room Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: patient_condition_status
+      label: Patient Condition Status
+      hint: null
+      type: select_one
+      options:
+      - Well
+      - Stable
+      - Critical
+      required: true
+    - id: 24
+      name: patient_diet_status
+      label: Patient Diet Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: patient_language
+      label: Patient Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true

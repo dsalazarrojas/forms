@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Intelligence Program Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: module_selection
+      label: Module Selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Module 1'', ''label'': ''Module 1''}'
+      - '{''id'': 2, ''name'': ''Module 2'', ''label'': ''Module 2''}'
+      - '{''id'': 3, ''name'': ''Module 3'', ''label'': ''Module 3''}'
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false

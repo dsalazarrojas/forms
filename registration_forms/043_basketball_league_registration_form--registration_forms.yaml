@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball League Registration Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_established_year
+      label: Year team established
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: section_header_2
+      label: -- Team Manager Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Team manager/owner name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: manager_phone
+      label: Manager phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_header_3
+      label: -- Coach Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: head_coach_name
+      label: Head coach name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: head_coach_experience
+      label: Years of coaching experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: assistant_coach_names
+      label: Assistant coach names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_4
+      label: -- Team Division --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: league_division
+      label: League division/category
+      hint: null
+      type: select_one
+      options:
+      - Youth (Under 12)
+      - Teen (13-17)
+      - Adult (18-30)
+      - Senior (30+)
+      - Mixed
+      required: true
+    - id: 15
+      name: skill_level
+      label: Team skill level
+      hint: null
+      type: select_one
+      options:
+      - Recreational
+      - Competitive
+      - Elite/Championship
+      required: true
+    - id: 16
+      name: section_header_5
+      label: -- Roster Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: estimated_roster_size
+      label: Estimated roster size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_header_6
+      label: -- League Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: league_season
+      label: Season registering for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: prior_participation
+      label: Previously participated in this league?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - First Time
+      required: true
+    - id: 21
+      name: section_header_7
+      label: -- Agreement and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: league_rules_agreement
+      label: I agree to league rules and regulations
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: payment_agreement
+      label: I understand the league fees and will pay on time
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: registration_confirmation
+      label: I confirm all information is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

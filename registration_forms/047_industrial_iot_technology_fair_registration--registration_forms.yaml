@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial IoT Technology Fair Registration
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: segment_interests
+      label: Segment Interests
+      hint: Please select one or more segments that best describe your interests.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_info
+      label: Company Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_info
+      label: Registration Info
+      hint: null
+      type: text
+      options: []
+      required: false

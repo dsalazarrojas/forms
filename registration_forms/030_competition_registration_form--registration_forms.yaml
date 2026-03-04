@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competition Registration Form
+    pages:
+    - id: 1
+      name: reg_header_section
+      label: -- Competition Participant Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_reg
+      label: Participant Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email_reg
+      label: Email Address
+      hint: Primary contact for registration updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization_school_affiliation
+      label: Organization or School Affiliation
+      hint: e.g., University Name, Company, or Club
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_age_reg
+      label: Participant Age
+      hint: For age-based category placement
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone_reg
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: logistics_section_header
+      label: -- Logistics and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: tshirt_size_selection
+      label: T-Shirt Size
+      hint: Event t-shirt included in registration
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 9
+      name: dietary_requirements_reg
+      label: Dietary Requirements / Allergies
+      hint: For provided lunches and snacks (Write None if N/A)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_assistance_needs_reg
+      label: Do you require any special assistance or accessibility accommodations?
+      hint: e.g., wheelchair access, visual aids
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: experience_level_reg
+      label: Previous Competition Experience
+      hint: Have you participated in similar events before?
+      type: select_one
+      options:
+      - First-time participant
+      - Participated in 1-2 events
+      - Experienced competitor
+      - Professional / Expert level
+      required: true
+    - id: 12
+      name: participant_short_bio
+      label: Participant Short Bio
+      hint: A brief 2-3 sentence introduction for the event program
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reg_confirmation_agreement
+      label: I confirm that all information provided is accurate
+      hint: Registration confirmation
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 14
+      name: registration_date_final
+      label: Date of Registration
+      hint: Today's date
+      type: date
+      options: []
+      required: true

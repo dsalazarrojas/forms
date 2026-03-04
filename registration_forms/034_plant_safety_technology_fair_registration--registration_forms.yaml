@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Safety Technology Fair Registration
+    pages:
+    - id: 1
+      name: first_page
+      label: First page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_information
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_special_request
+      label: Attendee Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_diet
+      label: Attendee Diet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: attendee_diet_other
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_diet_other_other
+      label: Other Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: emergency_contact_relationship_other
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship_other_other
+      label: Other Other Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

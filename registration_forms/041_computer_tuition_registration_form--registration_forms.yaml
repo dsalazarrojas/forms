@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Tuition Registration Form
+    pages:
+      - id: 1
+        name: section_applicant
+        label: -- Applicant Details --
+        hint: Apply for computer tuition and supply contact info
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Applicant name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: For tuition confirmation
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: course_interest
+        label: Course interest
+        hint: Topic or course code desired
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: funding_source
+        label: Funding source
+        hint: Self funded or employer sponsored
+        type: select_one
+        options: [Self, Employer, Scholarship]
+        required: true
+      - id: 6
+        name: availability
+        label: Availability
+        hint: Preferred days and times
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone
+        type: text
+        options: []
+        required: false

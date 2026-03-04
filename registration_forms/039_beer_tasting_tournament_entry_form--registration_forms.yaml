@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beer Tasting Tournament Entry Form
+    pages:
+    - id: 1
+      name: section_participant_contact
+      label: -- Participant Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_eligibility
+      label: -- Eligibility and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: age_confirmation
+      label: I confirm I am 21 years of age or older
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 7
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: tasting_experience_level
+      label: What is your beer tasting experience level?
+      hint: null
+      type: select_one
+      options:
+      - Novice / Enthusiast
+      - Intermediate (Frequent taster)
+      - Advanced (Home-brewer)
+      - Professional (Certified Cicerone / Judge)
+      required: true
+    - id: 9
+      name: previous_tournament_participation
+      label: Have you participated in a tasting tournament before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_entry_details
+      label: -- Tournament Entry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_judging_round
+      label: Preferred Preliminary Judging Round
+      hint: null
+      type: select_one
+      options:
+      - Friday Evening (6PM)
+      - Saturday Morning (10AM)
+      - Saturday Afternoon (2PM)
+      required: true
+    - id: 12
+      name: palette_cleanser_preference
+      label: Preferred Palette Cleanser
+      hint: null
+      type: select_one
+      options:
+      - Water and Plain Crackers
+      - Sliced Apples
+      - Lemon Water
+      - None Required
+      required: false
+    - id: 13
+      name: dietary_restrictions_beer_tasting
+      label: Any dietary restrictions or allergies?
+      hint: e.g. Gluten (besides beer), specific fruits
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_waiver
+      label: -- Terms and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: responsible_drinking_pledge
+      label: I pledge to drink responsibly and arrange safe transportation
+      hint: null
+      type: select_one
+      options:
+      - I Pledge
+      - Other
+      required: true
+    - id: 16
+      name: liability_waiver_acceptance
+      label: I accept the tournament liability waiver
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - Other
+      required: true
+    - id: 17
+      name: entry_fee_acknowledgment
+      label: I understand there is a non-refundable $25 entry fee
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 18
+      name: signature_name
+      label: Printed Name for Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: registration_timestamp
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

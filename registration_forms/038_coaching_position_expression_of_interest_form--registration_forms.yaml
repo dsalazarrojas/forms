@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Position Expression Of Interest Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For identification purposes
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: position_interested
+      label: Position of Interest
+      hint: Which coaching position
+      type: select_one
+      options:
+      - Head Coach
+      - Assistant Coach
+      - Volunteer Coach
+      - Skills Coach
+      - Goalkeeper Coach
+      - Fitness Coach
+      - Youth Coach
+      required: true
+    - id: 7
+      name: sport
+      label: Sport
+      hint: Which sport
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: age_group_preference
+      label: Preferred Age Group
+      hint: Which age group do you prefer
+      type: select_one
+      options:
+      - Ages 4-7
+      - Ages 8-12
+      - Ages 13-15
+      - Ages 16-18
+      - Adult
+      - No Preference
+      required: true
+    - id: 9
+      name: gender_preference
+      label: Preferred Team Gender
+      hint: Which team do you prefer
+      type: select_one
+      options:
+      - Boys or Men
+      - Girls or Women
+      - Coed
+      - No Preference
+      required: false
+    - id: 10
+      name: coaching_experience_years
+      label: Years of Coaching Experience
+      hint: How long have you coached
+      type: select_one
+      options:
+      - No Experience
+      - 1-2 Years
+      - 3-5 Years
+      - 5-10 Years
+      - Over 10 Years
+      required: true
+    - id: 11
+      name: playing_experience
+      label: Playing Experience
+      hint: Describe your playing background
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: certifications_held
+      label: Coaching Certifications
+      hint: List any certifications
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cpr_first_aid_status
+      label: CPR and First Aid Status
+      hint: Current certification status
+      type: select_one
+      options:
+      - Current Certification
+      - Expired Certification
+      - Never Certified
+      required: true
+    - id: 14
+      name: background_check_willingness
+      label: Willing to Complete Background Check
+      hint: Do you agree to background check
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: availability_schedule
+      label: Availability Schedule
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday Mornings
+      - Saturday Afternoons
+      - Sunday Mornings
+      - Sunday Afternoons
+      required: true
+    - id: 16
+      name: season_availability
+      label: Season Availability
+      hint: Which seasons can you coach
+      type: select_multiple
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      - Year Round
+      required: true
+    - id: 17
+      name: start_date_availability
+      label: Available Start Date
+      hint: When can you begin
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: why_interested
+      label: Why Are You Interested in This Position
+      hint: Your motivation for applying
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: coaching_philosophy
+      label: Brief Coaching Philosophy
+      hint: Describe your approach
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: relevant_skills
+      label: Relevant Skills and Strengths
+      hint: What makes you qualified
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: previous_organizations
+      label: Previous Coaching Organizations
+      hint: Where have you coached
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: references_available
+      label: Can You Provide References
+      hint: Do you have references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: reference_count
+      label: How Many References
+      hint: Number of references
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5 or More
+      required: true
+    - id: 24
+      name: volunteer_or_paid
+      label: Interested In
+      hint: What type of position
+      type: select_one
+      options:
+      - Volunteer Position
+      - Paid Position
+      - Either
+      required: true
+    - id: 25
+      name: salary_expectations
+      label: Salary Expectations
+      hint: If paid what do you expect
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: other_commitments
+      label: Other Commitments
+      hint: Any conflicts we should know
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: how_heard_about_position
+      label: How Did You Hear About This Position
+      hint: How did you find us
+      type: select_one
+      options:
+      - Organization Website
+      - Social Media
+      - Job Board
+      - Referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

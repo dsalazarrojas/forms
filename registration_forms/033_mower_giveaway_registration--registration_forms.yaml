@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mower Giveaway Registration
+    pages:
+    - id: 1
+      name: contest_entry
+      label: Enter to Win
+      hint: Enter to win a free mower
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 3
+      name: confirm_rules
+      label: Rules
+      hint: Please confirm you've read and understood the rules
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: rule_1
+      label: I am 18 or older
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rule_2
+      label: I have a valid government issued ID
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: confirm_zip
+      label: Confirm Zip
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: confirm_note
+      label: Confirm Notes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: rule_3
+      label: I am the owner of the equipment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

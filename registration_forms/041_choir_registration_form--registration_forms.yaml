@@ -1,0 +1,325 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choir Registration Form
+    pages:
+    - id: 1
+      name: member_information
+      label: Member Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: vocal_information
+      label: Vocal Information
+      hint: Your singing details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: voice_part
+      label: Voice Part
+      hint: null
+      type: select_one
+      options:
+      - Soprano
+      - Alto
+      - Tenor
+      - Bass
+      - Mezzo-soprano
+      - Baritone
+      - Not sure
+      required: true
+    - id: 13
+      name: vocal_range
+      label: Vocal Range
+      hint: Lowest to highest note
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: years_singing
+      label: Years of Singing Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: choir_experience
+      label: Previous Choir Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 16
+      name: can_read_music
+      label: Can you read sheet music
+      hint: null
+      type: select_one
+      options:
+      - Yes, fluently
+      - Yes, basically
+      - A little
+      - false
+      required: true
+    - id: 17
+      name: previous_choirs
+      label: Previous Choirs
+      hint: Names and dates
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rehearsal_schedule
+      label: Rehearsal Schedule
+      hint: Your availability
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: available_days
+      label: Available Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 20
+      name: available_times
+      label: Available Times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 21
+      name: schedule_conflicts
+      label: Known Schedule Conflicts
+      hint: Dates you cannot attend
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: membership_details
+      label: Membership Details
+      hint: Registration info
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Full member
+      - Associate member
+      - Student member
+      - Senior member
+      - Trial member
+      required: true
+    - id: 24
+      name: membership_year
+      label: Membership Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: membership_fee
+      label: Membership Fee
+      hint: null
+      type: select_one
+      options:
+      - Paid in full
+      - Partial payment
+      - Payment plan
+      - Fee waived
+      - Pending
+      required: true
+    - id: 26
+      name: uniform_size
+      label: Concert Uniform Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      - Not sure
+      required: false
+    - id: 27
+      name: t_shirt_size
+      label: Choir T-Shirt Size
+      hint: For casual events
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      - Not needed
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: For safety
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: how_did_you_hear
+      label: How Did You Hear About This Choir
+      hint: null
+      type: select_one
+      options:
+      - Friend or family
+      - School
+      - Social media
+      - Advertisement
+      - Performance
+      - Website
+      - Other
+      required: false
+    - id: 32
+      name: why_join
+      label: Why Do You Want to Join
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: agree_rules
+      label: I agree to follow choir rules and guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 34
+      name: commit_attendance
+      label: I commit to regular attendance
+      hint: Rehearsals and performances
+      type: select_one
+      options:
+      - Yes, I commit
+      - No, I cannot commit
+      required: true
+    - id: 35
+      name: member_signature
+      label: Member Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

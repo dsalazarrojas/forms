@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Registration Form
+    pages:
+    - id: 1
+      name: vehicle_registration_form_1
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Vehicle
+      - Motorcycle
+      - Tractor
+      required: false
+    - id: 3
+      name: make
+      label: Make
+      hint: null
+      type: select_multiple
+      options:
+      - Ford
+      - General Motors
+      - Dodge
+      - Nissan
+      required: false
+    - id: 4
+      name: model
+      label: model
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      required: false
+    - id: 5
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 6
+      name: vin
+      label: Vin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: plate_number
+      label: Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registered_owner
+      label: Registered Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_age
+      label: Vehicle Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: engine_size
+      label: Engine Size
+      hint: null
+      type: select_one
+      options:
+      - '2.0'
+      - '3.0'
+      - '4.0'
+      required: false
+    - id: 12
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_height
+      label: Vehicle Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_monthly_maintenance_cost
+      label: Monthly Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_annual_insurance_cost
+      label: Annual Insurance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_annual_registration_cost
+      label: Annual Registration Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Registered
+      - Unregistered
+      required: false
+    - id: 21
+      name: vehicle_status_note
+      label: Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_renewal_notice_date
+      label: Renewal Notice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

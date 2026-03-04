@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Fair Communication Form
+    pages:
+      - id: 1
+        name: communication_header
+        label: -- Communication Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: sender_name
+        label: Sender name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Company or institution
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: For replies and scheduling
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: message_subject
+        label: Message subject
+        hint: Brief summary of purpose
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: message_body
+        label: Message body
+        hint: Full details and requests
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: preferred_response_time
+        label: Preferred response time
+        hint: When a reply is needed
+        type: select_one
+        options:
+          - Within 24 hours
+          - Within 3 days
+          - No rush
+        required: false
+      - id: 8
+        name: attach_company_profile
+        label: Attach company profile link
+        hint: Optional link to company information
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: consent_to_share_info
+        label: Consent to share information with exhibitors
+        hint: Allow organizers to forward your message
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Anything else to include
+        type: text
+        options: []
+        required: false

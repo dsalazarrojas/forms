@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Guides Club Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_password
+      label: confirm_password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_preferences
+      label: membership_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Membership
+      - Premium Membership
+      - Elite Membership
+      required: false
+    - id: 8
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 9
+      name: tour_preferences
+      label: tour_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Beach Tours
+      - Mountain Tours
+      - Culture Tours
+      required: false
+    - id: 10
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Yearly
+      - One-time
+      required: false
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 12
+      name: agree_terms
+      label: agree_terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_membership
+      label: confirm_membership
+      hint: null
+      type: note
+      options: []
+      required: false

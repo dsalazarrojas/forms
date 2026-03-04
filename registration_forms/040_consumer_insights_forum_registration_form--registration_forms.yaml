@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Insights Forum Registration Form
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: Email for communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_industry
+      label: Company Industry
+      hint: Industry sector
+      type: select_one
+      options:
+      - Market Research
+      - Consumer Goods
+      - Retail
+      - Technology
+      - Finance
+      - Healthcare
+      - Consulting
+      - Media and Entertainment
+      - Government
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: true
+    - id: 9
+      name: forum_date
+      label: Forum Date
+      hint: Select date to attend
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: attendance_format
+      label: Attendance Format
+      hint: How will you attend
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      required: true
+    - id: 11
+      name: role_in_organization
+      label: Your Role
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Consumer Insights
+      - Market Research
+      - Brand Management
+      - Product Management
+      - Marketing
+      - Strategy
+      - Executive Leadership
+      - Other
+      required: true
+    - id: 12
+      name: years_experience
+      label: Years of Experience
+      hint: Years in consumer insights
+      type: select_one
+      options:
+      - Less than 2 Years
+      - 2-5 Years
+      - 5-10 Years
+      - 10-15 Years
+      - 15+ Years
+      required: true
+    - id: 13
+      name: session_interests
+      label: Sessions of Interest
+      hint: Select topics you want to attend
+      type: select_multiple
+      options:
+      - Consumer Trends 2026
+      - Data Analytics
+      - Qualitative Research Methods
+      - Quantitative Research
+      - Digital Consumer Behavior
+      - Brand Perception
+      - Customer Journey Mapping
+      - AI in Research
+      - Social Media Insights
+      - Future of Consumer Insights
+      required: true
+    - id: 14
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: challenges_faced
+      label: Current Challenges
+      hint: What challenges do you face
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: networking_goals
+      label: Networking Goals
+      hint: What connections do you seek
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_did_you_hear
+      label: How Did You Hear About Forum
+      hint: Source of information
+      type: select_one
+      options:
+      - Email Invitation
+      - Website
+      - Social Media
+      - Colleague Referral
+      - Previous Event
+      - Industry Publication
+      - Other
+      required: false
+    - id: 20
+      name: referral_name
+      label: Referred By
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: marketing_consent
+      label: Marketing Communications
+      hint: Receive updates about future events
+      type: select_one
+      options:
+      - Yes, Please
+      - No, Thank You
+      required: false
+    - id: 22
+      name: photo_consent
+      label: Photo and Recording Consent
+      hint: Agree to be photographed
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 23
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the forum terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 24
+      name: registration_date
+      label: Registration Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

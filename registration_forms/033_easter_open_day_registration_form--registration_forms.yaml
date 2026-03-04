@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_open_day_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_preference
+      label: contact_preference
+      hint: null
+      type: select_one
+      options:
+      - By Phone
+      - By Email
+      - By Text
+      required: false

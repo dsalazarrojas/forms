@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Registration Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: media_credentials
+      label: Media Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: media_requests
+      label: Media Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_outlet
+      label: Media Outlet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Media Representative
+      - Reporter
+      - Camera Operator
+      - Photographer
+      - Other
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_media
+      label: Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: media_outlet_type
+      label: Media Outlet Type
+      hint: null
+      type: select_one
+      options:
+      - Print
+      - Online
+      - Television
+      - Radio
+      - Other
+      required: true
+    - id: 14
+      name: event_interests
+      label: Event Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Entertainment
+      - Politics
+      - Lifestyle
+      - Other
+      required: true
+    - id: 15
+      name: company_representative
+      label: Company Representative
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: press_materials
+      label: Press Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: photo_credit
+      label: Photo Credit
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: video_credit
+      label: Video Credit
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: press_conference
+      label: Press Conference
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: press_conference_time
+      label: Press Conference Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: press_conference_day
+      label: Press Conference Day
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: accreditation
+      label: Accreditation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: event_start
+      label: Event Start
+      hint: null
+      type: select_one
+      options:
+      - Before
+      - After
+      required: true
+    - id: 24
+      name: event_finish
+      label: Event Finish
+      hint: null
+      type: select_one
+      options:
+      - Before
+      - After
+      required: true
+    - id: 25
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

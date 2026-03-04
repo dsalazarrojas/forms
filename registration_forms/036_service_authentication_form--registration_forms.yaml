@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Authentication Form
+    pages:
+    - id: 1
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service 1''}'
+      - '{''label'': ''Service 2''}'
+      - '{''label'': ''Service 3''}'
+      - '{''label'': ''Service 4''}'
+      required: false
+    - id: 8
+      name: service_level
+      label: service_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Level 1''}'
+      - '{''label'': ''Level 2''}'
+      - '{''label'': ''Level 3''}'
+      - '{''label'': ''Level 4''}'
+      required: false
+    - id: 9
+      name: business_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: service_description
+      label: service_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_id
+      label: user_id
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      - '{''label'': ''User 4''}'
+      required: false
+    - id: 12
+      name: user_level
+      label: user_level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Level 1''}'
+      - '{''label'': ''Level 2''}'
+      - '{''label'': ''Level 3''}'
+      - '{''label'': ''Level 4''}'
+      required: false

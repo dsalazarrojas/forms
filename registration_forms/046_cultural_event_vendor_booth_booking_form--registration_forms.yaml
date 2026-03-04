@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural_event_vendor_booth_booking_form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: vendor_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booth_details
+      label: booth_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requirements
+      label: requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 4
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_terms
+      label: vendor_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - in_progress
+      - completed
+      - cancelled
+      - declined
+      required: true
+    - id: 9
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submission_status_notes
+      label: submission_status_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agreement
+      label: agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vendor_agreement
+      label: vendor_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true

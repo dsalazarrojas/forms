@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Sustainability Initiative Registration
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: initiative_type
+      label: initiative_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 3
+      name: financial_sustainability
+      label: financial_sustainability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

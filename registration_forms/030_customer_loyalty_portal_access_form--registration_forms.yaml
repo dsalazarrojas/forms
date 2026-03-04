@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Portal Access Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter customer email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: 'Format: 123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_portal_access
+      label: Customer Portal Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: registered_by
+      label: Registered By
+      hint: User ID of the person registering the customer
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_company_name
+      label: Company Name
+      hint: Enter customer company name
+      type: text
+      options: []
+      required: false

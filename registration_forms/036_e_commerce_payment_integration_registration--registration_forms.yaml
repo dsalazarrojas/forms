@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Payment Integration Registration
+    pages:
+    - id: 1
+      name: business_details
+      label: business_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - Amazon
+      - Stripe
+      - PayPal
+      - Other
+      required: false
+    - id: 3
+      name: api_key
+      label: api_key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: api_secret
+      label: api_secret
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: api_username
+      label: api_username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: api_password
+      label: api_password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technical_details
+      label: technical_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: integration_name
+      label: integration_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false

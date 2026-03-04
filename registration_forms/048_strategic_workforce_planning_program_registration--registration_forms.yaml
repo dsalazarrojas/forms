@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Workforce Planning Program Registration
+    pages:
+    - id: 1
+      name: session_selection
+      label: Session Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_needs
+      label: Attendee Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: Attendee E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: training_teams_organizers
+      label: Training Teams Organizers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: attendee_comments
+      label: Attendee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: session_end_date
+      label: Session End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: attendee_additional_info
+      label: Attendee Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendee_attendance
+      label: Attendee Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

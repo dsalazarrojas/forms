@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Counseling Appointment Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: appointment_type
+      label: Appointment Type
+      hint: Please select one
+      type: select_one
+      options:
+      - In-person | Virtual
+      - Other
+      required: true
+    - id: 8
+      name: reason
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: retirement_date
+      label: Retirement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: counselor
+      label: Counselor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

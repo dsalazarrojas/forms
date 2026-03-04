@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Scheduling Form With Instructor
+    pages:
+    - id: 1
+      name: meeting_date
+      label: prophets date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: meeting time
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 11:00 AM
+      - 2:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      required: false
+    - id: 3
+      name: meeting_instructor
+      label: meeting instructor
+      hint: Select a staff member
+      type: select_one
+      options:
+      - Instructor 1
+      - Instructor 2
+      - Instructor 3
+      required: false
+    - id: 4
+      name: meeting_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_details
+      label: meeting details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_start
+      label: meeting_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: meeting_end_time
+      label: meeting end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meeting_durations
+      label: meeting duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: meeting_note
+      label: meeting note
+      hint: null
+      type: note
+      options: []
+      required: false

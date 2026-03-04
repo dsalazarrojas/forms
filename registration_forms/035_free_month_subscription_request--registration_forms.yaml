@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_month_subscription_request
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subscription_plan
+      label: Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: terms_of_service_accepted
+      label: Terms of Service Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: i_agree
+      label: I Agree
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: user_agreement_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_agreement_text
+      label: User Agreement Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: subscription_plan_details
+      label: Subscription Plan Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: subscription_plan_duration
+      label: Subscription Plan Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 16
+      name: subscription_plan_frequency
+      label: Subscription Plan Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 17
+      name: notes_text
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

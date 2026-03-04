@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: officer_nomination_form
+    pages:
+    - id: 1
+      name: voter_name
+      label: voter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nominee_name
+      label: nominee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: basis_of_nomination
+      label: basis_of_nomination
+      hint: null
+      type: select_multiple
+      options:
+      - Nomination by Board
+      - Nomination by Employee
+      - Nomination by Customer
+      required: false
+    - id: 4
+      name: qualifications
+      label: qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nominee_email
+      label: nominee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: nominee_phone
+      label: nominee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: voter_email
+      label: voter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: voter_phone
+      label: voter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: voter_message
+      label: voter_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: officer_position
+      label: officer_position
+      hint: null
+      type: select_one
+      options:
+      - President
+      - Vice President
+      - Secretary
+      - Treasurer
+      required: false
+    - id: 11
+      name: officer_post
+      label: officer_post
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: officer_name
+      label: officer_name
+      hint: null
+      type: text
+      options: []
+      required: false

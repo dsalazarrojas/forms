@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: corn-hole-tournament-registration-form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: player_roles
+      label: Player Roles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: player_roles_1
+      label: Role 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: player_roles_2
+      label: Role 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_roles_3
+      label: Role 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_roles_4
+      label: Role 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player_roles_5
+      label: Role 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_roles_6
+      label: Role 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: Email Address
+      type: email
+      options: []
+      required: true

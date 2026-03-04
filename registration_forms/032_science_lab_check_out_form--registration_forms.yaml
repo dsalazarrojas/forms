@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: science_lab_check_out_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: lab_name
+      label: Lab
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_name
+      label: Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Damaged
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Checked out
+      - Checked in
+      - Available
+      required: false

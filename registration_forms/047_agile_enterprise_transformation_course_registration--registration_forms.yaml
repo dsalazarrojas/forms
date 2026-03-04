@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Enterprise Transformation Course Registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Employer or sponsoring organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: For course materials and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: role_in_organization
+      label: Role in organization
+      hint: Job title or function
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_type
+      label: Attendee type
+      hint: Choose attendee category
+      type: select_one
+      options:
+      - Individual
+      - Team
+      - Executive
+      - Sponsor
+      required: true
+    - id: 7
+      name: sessions_selected
+      label: Sessions selected
+      hint: Select sessions or tracks attending
+      type: select_multiple
+      options:
+      - Strategy
+      - Leadership
+      - Scaling
+      - Tools and metrics
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Invoice
+      - Credit card
+      - Bank transfer
+      required: true
+    - id: 9
+      name: special_requirements
+      label: Special requirements
+      hint: Access needs or dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_terms
+      label: Agree to course terms and conditions
+      hint: Required to complete registration
+      type: select_one
+      options:
+      - Agree
+      - Neutral
+      - Dissatisfied
+      required: true

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Billing Form
+    pages:
+    - id: 1
+      name: dance_class_billing_form
+      label: Dance Class Billing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_date
+      label: class_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: class_hours
+      label: class_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: billing_method
+      label: billing_method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: true
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - bank_transfer
+      - check
+      required: true
+    - id: 8
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: billing_date
+      label: billing_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: billing_status
+      label: billing_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Overdue
+      - Pending
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: true

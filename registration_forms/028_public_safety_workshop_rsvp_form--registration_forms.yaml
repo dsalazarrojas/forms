@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_safety_workshop_rsvp_form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Public Safety Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

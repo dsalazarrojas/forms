@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resume Screening Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_preferences
+      label: Attendee Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: workshop_expectations
+      label: Workshop Expectations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

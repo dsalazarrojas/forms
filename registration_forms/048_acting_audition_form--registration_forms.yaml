@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acting Audition Form
+    pages:
+    - id: 1
+      name: auditionee_name
+      label: Auditionee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role_auditioning_for
+      label: Role Auditioning For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: audition_date
+      label: Audition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: audition_time
+      label: Audition Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: physical_header
+      label: -- Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vocal_range
+      label: Vocal Range
+      hint: e.g., Soprano, Tenor, Bass
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dance_background
+      label: Dance Background
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - None
+      required: true
+    - id: 8
+      name: current_conflicts
+      label: Current Conflicts
+      hint: List any dates you are unavailable for rehearsals
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: casting_header
+      label: -- Casting Office Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: casting_recommendation
+      label: Casting Recommendation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Call-back
+      required: false
+    - id: 13
+      name: audition_notes
+      label: Audition Notes
+      hint: For internal use
+      type: text
+      options: []
+      required: false

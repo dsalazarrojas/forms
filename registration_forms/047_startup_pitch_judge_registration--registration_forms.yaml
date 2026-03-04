@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Pitch Judge Registration
+    pages:
+    - id: 1
+      name: startup_pitch_judge_details
+      label: Judge Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: judge_name
+      label: Judge Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: judge_email
+      label: Judge Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: judge_phone
+      label: Judge Phone
+      hint: Judge's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: judge_expertise
+      label: Judge Expertise
+      hint: Judge's area of expertise
+      type: select_one
+      options:
+      - Business Development
+      - Data Science
+      - Design
+      - Finance
+      - Marketing
+      - Product Development
+      - Software Development
+      required: false
+    - id: 6
+      name: judge_availability
+      label: Judge Availability
+      hint: Available to judge on these dates
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: judge_description
+      label: Judge Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: startup_pitch_judge_form_id
+      label: Startup Pitch Judge Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: judge_user_id
+      label: Judge User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: is_active
+      label: Is Active
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: is_default
+      label: Is Default
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: Created By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_type
+      label: Form Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_type_id
+      label: Form Type ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: form_version_id
+      label: Form Version ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_status
+      label: Form Status
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_workshop_registration_form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit_card
+      - paypal
+      - stripe
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: participant_photo_equipment
+      label: participant_photo_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - pending
+      - cancelled
+      required: false
+    - id: 13
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - confirmed
+      - pending
+      - cancelled
+      required: false
+    - id: 14
+      name: participant_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 17
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_photo_experience
+      label: participant_photo_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: participant_terms
+      label: Participant Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms_status
+      label: Payment Terms Status
+      hint: null
+      type: select_one
+      options:
+      - accepted
+      - denied
+      - pending
+      required: false
+    - id: 22
+      name: participant_terms_status
+      label: Participant Terms Status
+      hint: null
+      type: select_one
+      options:
+      - accepted
+      - denied
+      - pending
+      required: false
+    - id: 23
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: photo_workshop_terms
+      label: Photo Workshop Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: photo_workshop_conditions
+      label: Photo Workshop Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Media Registration Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - Event
+      - Workshop
+      - Conference
+      required: true
+    - id: 6
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions of this event.
+      - I do not agree to the terms and conditions of this event.
+      required: true
+    - id: 14
+      name: form_footer
+      label: form_footer
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Billing Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: true

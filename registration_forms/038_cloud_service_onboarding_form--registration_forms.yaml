@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Service Onboarding Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: primary_contact
+      label: Primary Contact Name
+      hint: Main point of contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email Address
+      hint: Primary email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_company
+      label: -- Company Information --
+      hint: Details about your organization
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Startup (1-50)
+      - Small (51-200)
+      - Medium (201-1000)
+      - Large (1001-5000)
+      - Enterprise (5000+)
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: Your primary business sector
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: website
+      label: Company Website
+      hint: URL of your website
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_users
+      label: -- User Information --
+      hint: How many users and administrators
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_users
+      label: Estimated Total Number of Users
+      hint: How many people will use the service
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: admin_count
+      label: Number of Administrators
+      hint: Users who need admin access
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: primary_admin
+      label: Primary Administrator Name
+      hint: Main admin contact person
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: primary_admin_email
+      label: Primary Administrator Email
+      hint: Admin email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: section_service
+      label: -- Service Details --
+      hint: What services you are subscribing to
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - SaaS application
+      - IaaS infrastructure
+      - PaaS platform
+      - Managed service
+      - Support services
+      - Other
+      required: true
+    - id: 16
+      name: service_tier
+      label: Service Tier
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Professional
+      - Enterprise
+      - Custom
+      required: true
+    - id: 17
+      name: section_setup
+      label: -- Setup Requirements --
+      hint: Your setup and configuration preferences
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: setup_assistance_needed
+      label: Do you need setup assistance
+      hint: null
+      type: select_one
+      options:
+      - Yes, full setup support
+      - Yes, partial setup support
+      - Yes, consultation only
+      - No, self-service
+      required: true
+    - id: 19
+      name: data_migration
+      label: Data Migration Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, full migration
+      - Partial migration
+      - No migration needed
+      required: true
+    - id: 20
+      name: integrations_needed
+      label: Third-Party Integrations Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - CRM systems
+      - ERP systems
+      - Accounting software
+      - Communication tools
+      - Data analytics
+      - Other
+      required: false
+    - id: 21
+      name: section_preferences
+      label: -- Preferences and Requirements --
+      hint: Your specific needs and preferences
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: training_requested
+      label: Training and Documentation Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Video tutorials
+      - Live training sessions
+      - Detailed documentation
+      - Knowledge base articles
+      - One-on-one training
+      - No training needed
+      required: false
+    - id: 23
+      name: support_level
+      label: Preferred Support Level
+      hint: null
+      type: select_one
+      options:
+      - Standard support
+      - Priority support
+      - Premium support
+      - Enterprise support
+      required: true
+    - id: 24
+      name: special_requirements
+      label: Any Special Requirements or Constraints
+      hint: Specific needs unique to your organization
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: accepted_terms
+      label: I accept the terms of service and privacy policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true

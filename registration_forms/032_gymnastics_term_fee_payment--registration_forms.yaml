@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gymnastics Term Fee Payment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: term
+      label: Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fee
+      label: Fee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fee_amount
+      label: Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fee_date
+      label: Fee Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: fee_time
+      label: Fee Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: fee_status
+      label: Fee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

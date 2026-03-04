@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Powered Marketing Training Registration Form
+    pages:
+    - id: 1
+      name: participant_details_header
+      label: --- Participant Information ---
+      hint: Please provide your professional contact details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_email
+      label: Work Email Address
+      hint: All training materials and links will be sent here.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company / Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_function
+      label: Primary Marketing Function
+      hint: null
+      type: select_one
+      options:
+      - label: Content Marketing / Copywriting
+        value: content
+      - label: Performance Marketing / PPC
+        value: performance
+      - label: SEO / Search Strategy
+        value: seo
+      - label: Social Media Management
+        value: social_media
+      - label: Marketing Operations / Automation
+        value: marketing_ops
+      - label: Creative / Design
+        value: creative
+      - label: Executive / Strategic Leadership
+        value: executive
+      required: true
+    - id: 6
+      name: marketing_experience_years
+      label: Years of Experience in Marketing
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: training_needs_header
+      label: --- Training Preferences & Background ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: training_level
+      label: Requested Training Level
+      hint: Choose the session that best matches your AI experience.
+      type: select_one
+      options:
+      - label: Foundation (Beginner: ChatGPT basics, prompting, content gen)
+        value: beginner
+      - label: Practitioner (Intermediate: Workflows, image gen, SEO automation)
+        value: intermediate
+      - label: Strategic (Advanced: Custom GPTs, API integration, AI governance)
+        value: advanced
+      required: true
+    - id: 9
+      name: ai_interest_areas
+      label: Specific AI Topics of Interest
+      hint: Select up to 3 topics you want to prioritize.
+      type: select_multiple
+      options:
+      - label: Advanced Prompt Engineering
+        value: prompt_engineering
+      - label: AI for Video & Audio Production
+        value: video_audio
+      - label: Automated Data Analytics & Reporting
+        value: analytics
+      - label: Personalization at Scale (Email/Web)
+        value: personalization
+      - label: AI-Driven SEO & Keyword Research
+        value: seo_ai
+      - label: Ethics & Legal Compliance in AI Marketing
+        value: ethics
+      required: true
+    - id: 10
+      name: current_ai_tools_used
+      label: Which AI tools do you currently use (if any)?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendance_mode
+      label: Preferred Attendance Format
+      hint: null
+      type: select_one
+      options:
+      - label: In-Person Workshop (Main Campus)
+        value: in_person
+      - label: Live Virtual Classroom (Zoom/Teams)
+        value: virtual
+      - label: Self-Paced (Recording + Materials)
+        value: self_paced
+      required: true
+    - id: 12
+      name: date_preference
+      label: Preferred Training Date
+      hint: null
+      type: select_one
+      options:
+      - label: May 12-13, 2026
+        value: may_session
+      - label: June 08-09, 2026
+        value: june_session
+      - label: July 15-16, 2026
+        value: july_session
+      required: true
+    - id: 13
+      name: hardware_status
+      label: Will you bring your own laptop for the workshop?
+      hint: Required for in-person technical sessions.
+      type: select_one
+      options:
+      - label: Yes, I will bring my own device
+        value: yes
+      - label: No, I require a loaner laptop
+        value: no
+      required: false
+    - id: 14
+      name: logistics_header
+      label: --- Logistics and Payment ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: payment_method_selection
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - label: Credit / Debit Card
+        value: credit_card
+      - label: Corporate Invoice
+        value: invoice
+      - label: Bank Transfer
+        value: bank_transfer
+      required: true
+    - id: 16
+      name: dietary_needs
+      label: Dietary Requirements (In-person only)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: newsletter_optin
+      label: Subscribe to our "AI in Marketing" monthly newsletter?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, keep me updated!
+        value: yes
+      - label: No, thanks
+        value: no
+      required: false
+    - id: 18
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

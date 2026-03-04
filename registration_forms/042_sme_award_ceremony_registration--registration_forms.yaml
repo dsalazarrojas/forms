@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: SME Award Ceremony Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Use the format of 123-456-7890
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other
+      required: true
+    - id: 9
+      name: sme_type
+      label: SME Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: registration_date
+      label: Registration Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

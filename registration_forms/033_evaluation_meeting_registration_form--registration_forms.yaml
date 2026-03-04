@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evaluation Meeting Registration Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: select_one
+      options:
+      - '{101: ''Office 1''}'
+      - '{102: ''Office 2''}'
+      - '{103: ''Office 3''}'
+      required: true
+    - id: 5
+      name: meeting_goals
+      label: Meeting Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expected_participants
+      label: Expected Participants
+      hint: null
+      type: select_multiple
+      options:
+      - '{201: ''Participant 1''}'
+      - '{202: ''Participant 2''}'
+      - '{203: ''Participant 3''}'
+      required: true
+    - id: 7
+      name: participant_name
+      label: Participant's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_email
+      label: Participant's E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_phone
+      label: Participant's Phone
+      hint: null
+      type: text
+      options: []
+      required: false

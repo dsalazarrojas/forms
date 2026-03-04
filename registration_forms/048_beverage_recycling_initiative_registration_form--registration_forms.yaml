@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Recycling Initiative Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: We will send program updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: For program communication
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization are you
+      type: select_one
+      options:
+      - Individual
+      - School
+      - Business
+      - Non-Profit
+      - Government
+      - Community Group
+      - Other
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Full address for pickup or communication
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recycling_experience
+      label: Previous Recycling Experience
+      hint: How much recycling experience do you have
+      type: select_one
+      options:
+      - No Experience
+      - Some Experience
+      - Moderate Experience
+      - Extensive Experience
+      required: true
+    - id: 11
+      name: beverage_types
+      label: Beverage Types You Recycle
+      hint: What types of beverage containers do you recycle
+      type: select_multiple
+      options:
+      - Plastic Bottles
+      - Glass Bottles
+      - Aluminum Cans
+      - Steel Cans
+      - Cartons
+      - Juice Boxes
+      - Coffee Cups
+      - Other
+      required: true
+    - id: 12
+      name: monthly_volume
+      label: Estimated Monthly Volume
+      hint: How many containers do you recycle monthly
+      type: select_one
+      options:
+      - Less than 50
+      - 50 to 100
+      - 100 to 500
+      - 500 to 1000
+      - Over 1000
+      required: true
+    - id: 13
+      name: collection_method
+      label: Preferred Collection Method
+      hint: How would you like to participate
+      type: select_one
+      options:
+      - Curbside Pickup
+      - Drop-off Center
+      - Community Collection Event
+      - Mail-In Program
+      - Other
+      required: true
+    - id: 14
+      name: pickup_frequency
+      label: Preferred Pickup Frequency
+      hint: How often should pickups occur
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - On-Demand
+      required: false
+    - id: 15
+      name: education_interest
+      label: Interest in Recycling Education
+      hint: Would you like educational materials
+      type: select_one
+      options:
+      - Yes, Please Send Materials
+      - Maybe
+      - No, Thank You
+      required: true
+    - id: 16
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer for the initiative
+      type: select_one
+      options:
+      - Yes, I Want to Volunteer
+      - Maybe
+      - No, Thank You
+      required: false
+    - id: 17
+      name: motivation
+      label: What Motivates You to Participate
+      hint: Why do you want to join this initiative
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: challenges
+      label: Recycling Challenges You Face
+      hint: What makes recycling difficult for you
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: suggestions
+      label: Suggestions for the Program
+      hint: How can we improve this initiative
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_heard_about
+      label: How Did You Hear About This Initiative
+      hint: Where did you find out about this program
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend or Family
+      - Community Event
+      - Email Newsletter
+      - Local News
+      - Other
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: I Accept the Program Terms
+      hint: Do you agree to the program terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your participation
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activities Registration Form
+    pages:
+    - id: 1
+      name: child_full_name
+      label: Child's Full Name
+      hint: Legal name of the child participating in the activity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_date_of_birth
+      label: Child's Date of Birth
+      hint: Date of birth for the participating child
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of the parent or guardian registering the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for the parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Email address for communication regarding the activity
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of the person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: activity_choice
+      label: Activity Choice
+      hint: Select the activity the child wishes to participate in
+      type: select_one
+      options:
+      - Sports Camp
+      - Art Classes
+      - Music Lessons
+      - Science Workshop
+      - Drama Club
+      - Dance Class
+      - Scouting Program
+      - Other
+      required: true
+    - id: 9
+      name: activity_dates
+      label: Activity Dates
+      hint: Specific dates or time period for the chosen activity
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_needs_accommodations
+      label: Special Needs or Accommodations
+      hint: Does the child have any special needs requiring accommodation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any medical conditions or allergies the child has
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transportation_arrangements
+      label: Transportation Arrangements
+      hint: How will the child get to and from the activity
+      type: select_one
+      options:
+      - Parent/guardian pickup/drop-off
+      - School bus
+      - Walking
+      - Other arrangement
+      - Activity provides transportation
+      required: true
+    - id: 13
+      name: registration_fee_payment
+      label: Registration Fee Payment
+      hint: How will the registration fee be paid
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Cash
+      - Payment Plan
+      - Scholarship/Fee Waiver
+      required: true

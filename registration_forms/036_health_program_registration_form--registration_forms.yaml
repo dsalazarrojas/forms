@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''value'': ''option1''}'
+      - '{''name'': ''option2'', ''value'': ''option2''}'
+      - '{''name'': ''option3'', ''value'': ''option3''}'
+      required: true
+    - id: 8
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_notes
+      label: Program Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''value'': ''option1''}'
+      - '{''name'': ''option2'', ''value'': ''option2''}'
+      - '{''name'': ''option3'', ''value'': ''option3''}'
+      required: true
+    - id: 17
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_guard_exam_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: select_one
+      label: what is your role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''security guard'', ''label'': ''Security Guard''}'
+      - '{''id'': 2, ''name'': ''head of security'', ''label'': ''Head of Security''}'
+      - '{''id'': 3, ''name'': ''security team leader'', ''label'': ''Security Team
+        Leader''}'
+      required: false
+    - id: 7
+      name: select_multiple
+      label: languages spoken
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''English'', ''label'': ''English''}'
+      - '{''id'': 2, ''name'': ''Spanish'', ''label'': ''Spanish''}'
+      - '{''id'': 3, ''name'': ''French'', ''label'': ''French''}'
+      required: false
+    - id: 8
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: date and time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note2
+      label: notes2
+      hint: null
+      type: note
+      options: []
+      required: false

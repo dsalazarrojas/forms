@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Management Training Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_dates
+      label: preferred_dates
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_details
+      label: participant.reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported
+      label: reported
+      hint: null
+      type: text
+      options: []
+      required: false

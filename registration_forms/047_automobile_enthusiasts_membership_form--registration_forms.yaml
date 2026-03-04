@@ -1,0 +1,480 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automobile Enthusiasts Membership Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automobile Enthusiasts Membership Form
+      hint: Join our community of car enthusiasts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: Personal Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Other
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: 5-digit ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - Other
+      required: true
+    - id: 13
+      name: membership_info
+      label: Membership Information
+      hint: Membership details
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: membership_type
+      label: Membership Type
+      hint: Which type
+      type: select_one
+      options:
+      - Basic Member
+      - Premium Member
+      - Enthusiast Member
+      - Collector Member
+      - Family Membership
+      - Student Membership
+      required: true
+    - id: 15
+      name: membership_term
+      label: Membership Term
+      hint: Duration
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - Lifetime
+      required: true
+    - id: 16
+      name: interests
+      label: Automotive Interests
+      hint: What interests you
+      type: select_multiple
+      options:
+      - Classic Cars
+      - Muscle Cars
+      - Sports Cars
+      - Import Tuners
+      - Trucks
+      - Motorcycles
+      - Racing
+      - Restoration
+      - Custom Building
+      - Off-Road
+      - Luxury Cars
+      - Electric Vehicles
+      required: true
+    - id: 17
+      name: primary_interest
+      label: Primary Interest
+      hint: Main focus
+      type: select_one
+      options:
+      - Classic Cars
+      - Muscle Cars
+      - Sports Cars
+      - Import Tuners
+      - Racing
+      - Restoration
+      - Other
+      required: true
+    - id: 18
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Tell us about your car
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: own_vehicle
+      label: Do You Own an Enthusiast Vehicle
+      hint: Own a special car
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning To
+      required: true
+    - id: 20
+      name: vehicle_year
+      label: Vehicle Year
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_modifications
+      label: Vehicle Modifications
+      hint: Any mods
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_photos
+      label: Vehicle Photos
+      hint: Want to share
+      type: select_one
+      options:
+      - Yes Will Share
+      - false
+      required: false
+    - id: 25
+      name: club_participation
+      label: Club Participation
+      hint: How to participate
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: event_interest
+      label: Event Interest
+      hint: What events
+      type: select_multiple
+      options:
+      - Car Shows
+      - Track Days
+      - Meet and Greets
+      - Cruises
+      - Workshops
+      - Charity Events
+      - Racing Events
+      - None
+      required: false
+    - id: 27
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Want to volunteer
+      type: select_one
+      options:
+      - Yes Interested
+      - false
+      - Maybe
+      required: false
+    - id: 28
+      name: volunteer_areas
+      label: Volunteer Areas
+      hint: What areas
+      type: select_multiple
+      options:
+      - Event Planning
+      - Marketing
+      - Social Media
+      - Photography
+      - Technical Support
+      - Mentoring
+      - None
+      required: false
+    - id: 29
+      name: skills
+      label: Skills and Expertise
+      hint: What can you contribute
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: communication
+      label: Communication Preferences
+      hint: How to contact
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: newsletter
+      label: Receive Newsletter
+      hint: Monthly updates
+      type: select_one
+      options:
+      - Yes Email
+      - Yes Mail
+      - Both
+      - false
+      required: true
+    - id: 32
+      name: event_notifications
+      label: Event Notifications
+      hint: Get event alerts
+      type: select_one
+      options:
+      - Yes Email
+      - Yes Text
+      - Both
+      - false
+      required: true
+    - id: 33
+      name: social_media
+      label: Social Media
+      hint: Connect online
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      - LinkedIn
+      - None
+      required: false
+    - id: 34
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: Best way
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - Mail
+      - Social Media
+      required: true
+    - id: 35
+      name: payment_info
+      label: Payment Information
+      hint: Membership dues
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 37
+      name: card_type
+      label: Card Type
+      hint: Type of card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 38
+      name: auto_renew
+      label: Auto Renewal
+      hint: Auto renew membership
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 39
+      name: referral_info
+      label: Referral Information
+      hint: Who referred you
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: referred_by
+      label: Referred By
+      hint: Member name
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find us
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend
+      - Car Show
+      - Advertisement
+      - Other
+      required: false
+    - id: 42
+      name: why_join
+      label: Why Do You Want to Join
+      hint: Your motivation
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: expectations
+      label: What Do You Expect
+      hint: From membership
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: previous_membership
+      label: Previous Club Membership
+      hint: Been in a club before
+      type: select_one
+      options:
+      - Yes Current Member
+      - Yes Former Member
+      - No First Time
+      required: false
+    - id: 45
+      name: previous_clubs
+      label: Previous Clubs
+      hint: List clubs
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 47
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: Will you follow
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 48
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Understand risks
+      type: select_one
+      options:
+      - I Understand and Accept
+      - I Do Not Accept
+      required: true
+    - id: 49
+      name: photo_release
+      label: Photo Release
+      hint: OK to use photos
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 50
+      name: member_signature
+      label: Member Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: application_date
+      label: Application Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

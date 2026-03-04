@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Code Verification And Email Confirmation Form
+    pages:
+    - id: 1
+      name: section_user_info
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send a verification code to this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: confirm_email
+      label: Confirm Email Address
+      hint: Re-enter your email to verify
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_verification
+      label: -- Code Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: verification_code
+      label: Verification Code
+      hint: Enter the code sent to your email
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: code_received_time
+      label: Time Code Was Received
+      hint: Approximately when did you receive the code?
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: section_confirmation
+      label: -- Confirmation Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_confirmed
+      label: I confirm the email address is correct and belongs to me
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, It Is Not Correct
+      required: true
+    - id: 11
+      name: code_valid
+      label: I confirm the verification code is valid
+      hint: null
+      type: select_one
+      options:
+      - Yes, It Is Valid
+      - No, It Is Not Valid
+      required: true
+    - id: 12
+      name: section_agreement
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: accept_terms
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 14
+      name: accept_privacy
+      label: I accept the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 15
+      name: section_security
+      label: -- Security Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: password_strength
+      label: I will create a strong password
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 17
+      name: security_awareness
+      label: I understand not to share my verification code
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - I Do Not Understand
+      required: true
+    - id: 18
+      name: section_confirmation_status
+      label: -- Confirmation Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: verification_complete
+      label: I have completed the verification process
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 20
+      name: confirmation_date_time
+      label: Date and Time of Confirmation
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Awards Ceremony RSVP Form
+    pages:
+    - id: 1
+      name: rsvp_information
+      label: RSVP Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_company
+      label: Guest Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attending
+      label: Attending
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 6
+      name: attending_others
+      label: Others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_guests
+      label: Number of Guests
+      hint: Please enter the number of guests attending
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Library Participation Agreement
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Participant
+      - Organizer
+      required: false
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - full-day
+      required: false
+    - id: 6
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - I confirm that I will participate in the event.
+      - I do not confirm that I will participate in the event.
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: event_place
+      label: Event Place
+      hint: null
+      type: text
+      options: []
+      required: false

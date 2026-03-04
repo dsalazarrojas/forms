@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: media-access-registration-form
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_access
+      label: event_access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: media_access
+      label: media_access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 8
+      name: event_access_type
+      label: event_access_type
+      hint: Select the type of access required
+      type: select_multiple
+      options:
+      - '{''value'': ''photo'', ''label'': ''Photo''}'
+      - '{''value'': ''video'', ''label'': ''Video''}'
+      - '{''value'': ''interview'', ''label'': ''Interview''}'
+      - '{''value'': ''all'', ''label'': ''All''}'
+      required: true
+    - id: 9
+      name: access_time
+      label: access_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: media_type
+      label: media_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''journalist'', ''label'': ''Journalist''}'
+      - '{''value'': ''camera_person'', ''label'': ''Camera Person''}'
+      - '{''value'': ''photographer'', ''label'': ''Photographer''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: other_media_type
+      label: other_media_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: media_name
+      label: media_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: affiliation
+      label: affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: event_name_other
+      label: event_name_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_name_others
+      label: event_name_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_name_others_list
+      label: event_name_others_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: event_description
+      label: event_description
+      hint: Is this event a press conference?
+      type: select_one
+      options:
+      - '{''value'': None, ''label'': True}'
+      - '{''value'': None, ''label'': False}'
+      required: true
+    - id: 24
+      name: event_type
+      label: event_type
+      hint: What type of event is this?
+      type: select_one
+      options:
+      - '{''value'': ''conference'', ''label'': ''Conference''}'
+      - '{''value'': ''seminar'', ''label'': ''Seminar''}'
+      - '{''value'': ''workshop'', ''label'': ''Workshop''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 25
+      name: event_start_date
+      label: event_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: event_end_date
+      label: event_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 28
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: event_location_other
+      label: event_location_other
+      hint: null
+      type: text
+      options: []
+      required: false

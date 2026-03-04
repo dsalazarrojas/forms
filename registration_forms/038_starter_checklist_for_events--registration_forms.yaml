@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Starter Checklist For Events
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Waiting to Start
+      - In Progress
+      - Done
+      required: false
+    - id: 6
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_organizers
+      label: Event Organizers
+      hint: null
+      type: select_multiple
+      options:
+      - Organizer 1
+      - Organizer 2
+      - Organizer 3
+      required: false
+    - id: 8
+      name: event_venues
+      label: Event Venues
+      hint: null
+      type: select_multiple
+      options:
+      - Venue 1
+      - Venue 2
+      required: false
+    - id: 9
+      name: deadline
+      label: Deadline
+      hint: null
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      required: false
+    - id: 10
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: checklist_items
+      label: Checklist Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      required: false
+    - id: 13
+      name: checklist_item_status
+      label: Checklist Item Status
+      hint: null
+      type: select_one
+      options:
+      - Done
+      - In Progress
+      - Not Done
+      required: false
+    - id: 14
+      name: checklist_item_urgency
+      label: Checklist Item Urgency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_participants
+      label: Event Participants
+      hint: null
+      type: select_multiple
+      options:
+      - Participant 1
+      - Participant 2
+      required: false
+    - id: 16
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      - Not Attending
+      required: false
+    - id: 17
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_organizer
+      label: Participant Organizer
+      hint: null
+      type: select_one
+      options:
+      - Organizer 1
+      - Organizer 2
+      required: false
+    - id: 19
+      name: participant_contact
+      label: Participant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: event_checklists
+      label: Event Checklists
+      hint: null
+      type: select_multiple
+      options:
+      - Checklist 1
+      - Checklist 2
+      required: false
+    - id: 24
+      name: checklist_status
+      label: Checklist Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Done
+      required: false
+    - id: 25
+      name: event_reminders
+      label: Event Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - Reminder 1
+      - Reminder 2
+      required: false

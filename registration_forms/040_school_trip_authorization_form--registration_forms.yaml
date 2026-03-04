@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Trip Authorization Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form-data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: Please enter student name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student-id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: trip_date
+      label: trip-date
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trip_time
+      label: trip-time
+      hint: 'Format: HH:MM'
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: trip_duration
+      label: trip-duration
+      hint: 'Format: HH:MM'
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: student_grade
+      label: student-grade
+      hint: Please select student grade level
+      type: select_one
+      options:
+      - grade_1
+      - grade_2
+      - grade_3
+      - grade_4
+      - grade_5
+      - grade_6
+      - grade_7
+      - grade_8
+      - grade_9
+      - grade_10
+      required: false
+    - id: 8
+      name: student_name
+      label: student-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_email
+      label: student-email
+      hint: null
+      type: email
+      options: []
+      required: false

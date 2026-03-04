@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: jewelry_making_workshop_attendance_form
+    pages:
+    - id: 1
+      name: form_info
+      label: Jewelry Making Workshop Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your name as it appears on your business card or ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role in Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Name of the Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Date of the Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Time of the Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: workshop_date
+      label: Date of the Workshop
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: workshop_location
+      label: Location of the Workshop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attendees_registered
+      label: Number of Attendees Registered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_completed
+      label: Form Completed by
+      hint: Select your role in relation to this form submission
+      type: select_one
+      options:
+      - Administrator
+      - Organizer
+      - Attendee
+      required: true

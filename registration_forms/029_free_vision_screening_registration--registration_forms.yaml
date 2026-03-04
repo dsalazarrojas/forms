@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_vision_screening_registration
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: screening_date
+      label: screening_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 8
+      name: participant_gender_other
+      label: participant_gender_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_dob
+      label: participant_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: screening_type
+      label: screening_type
+      hint: null
+      type: select_one
+      options:
+      - Eye Check
+      - Vision Check
+      - Other
+      required: false
+    - id: 11
+      name: screening_notes
+      label: screening_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: screening_status
+      label: screening_status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Completed
+      - Cancelled
+      required: false
+    - id: 13
+      name: participant_schedule
+      label: participant_schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: participant_onsite
+      label: on_site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_dose
+      label: participant_dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: participant_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor KYC Registration Form
+    pages:
+    - id: 1
+      name: user_inputs
+      label: User Inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      required: false
+    - id: 3
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_input
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_upload
+      label: Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vendor_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vendor_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

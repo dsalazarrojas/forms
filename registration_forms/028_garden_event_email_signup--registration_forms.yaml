@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garden Event Email Signup
+    pages:
+    - id: 1
+      name: garden_event_email_signup_page_1
+      label: Garden Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: garden_event
+      label: Garden Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: garden_event_date
+      label: Garden Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: garden_event_time
+      label: Garden Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: garden_event_venue
+      label: Garden Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

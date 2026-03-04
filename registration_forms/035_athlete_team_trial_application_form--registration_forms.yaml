@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Team Trial Application Form
+    pages:
+    - id: 1
+      name: personal_details_header
+      label: -- Athlete Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: school_affiliation
+      label: Current School or University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: athletic_experience_header
+      label: -- Athletic Background and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_position
+      label: Primary Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: secondary_position
+      label: Secondary Position(s)
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: years_competitive
+      label: Years of Competitive Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: previous_organization
+      label: Most Recent Team or Club
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: major_achievements
+      label: Major Career Achievements and Milestones
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: physical_metrics_header
+      label: -- Physical Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: athlete_height
+      label: Height - cm
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: athlete_weight
+      label: Weight - kg
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: trial_preference_header
+      label: -- Trial Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: trial_date_preference
+      label: Preferred Trial Date and Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Saturday, April 5 - 9:00 AM
+      - Saturday, April 5 - 1:00 PM
+      - Sunday, April 6 - 9:00 AM
+      - Sunday, April 6 - 1:00 PM
+      required: true
+    - id: 18
+      name: trial_venue
+      label: Preferred Trial Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: health_safety_header
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: medical_injuries_notes
+      label: Any existing medical conditions or current injuries?
+      hint: Describe any limitations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: consent_signoff_header
+      label: -- Consent and Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: guardian_signature
+      label: Parent or Guardian Electronic Signature
+      hint: Required for athletes under 18
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: athlete_signature
+      label: Athlete Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: application_date
+      label: Date of Application Submission
+      hint: null
+      type: date
+      options: []
+      required: true

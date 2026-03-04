@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Certification Intake Form
+    pages:
+    - id: 1
+      name: registration_form_page_1
+      label: Food Service Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_service_provider_1
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_service_provider_2
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: food_service_provider_3
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: food_service_provider_4
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: food_service_provider_5
+      label: Provider Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: food_service_provider_6
+      label: Provider Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: food_service_provider_7
+      label: Food Service Provider Type
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      - Type 4
+      required: false
+    - id: 9
+      name: food_service_provider_8
+      label: Certifying Agency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 10
+      name: food_service_provider_9
+      label: Cert Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: food_service_provider_10
+      label: Cert Date
+      hint: null
+      type: date
+      options: []
+      required: false

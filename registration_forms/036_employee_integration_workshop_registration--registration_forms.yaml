@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Integration Workshop Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_schedule
+      label: Session Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: workshop_participants
+      label: Workshop Participants
+      hint: null
+      type: select_one
+      options:
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
+      required: false
+    - id: 9
+      name: workshop_participants_other
+      label: workshop_participants_other
+      hint: null
+      type: text
+      options: []
+      required: false

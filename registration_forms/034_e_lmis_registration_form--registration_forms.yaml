@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Lmis Registration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: ELMIS Facility ID
+      hint: Enter your ELMIS facility ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Facility Name
+      hint: Enter the facility name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: user_name
+      label: User Name
+      hint: Enter the user name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: user_email
+      label: User Email
+      hint: Enter the user email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: facility_email
+      label: Facility Email
+      hint: Enter the facility email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: facility_phone
+      label: Facility Phone
+      hint: Enter the facility phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_location
+      label: Facility Location
+      hint: Enter the facility location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: facility_address
+      label: Facility Address
+      hint: Enter the facility address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_postal_code
+      label: Facility Postal Code
+      hint: Enter the facility postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_description
+      label: Facility Description
+      hint: Enter the facility description
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_contact_person
+      label: Facility Contact Person
+      hint: Enter the facility contact person
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_additional_info
+      label: Facility Additional Info
+      hint: Enter the facility additional info
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_status
+      label: Facility Status
+      hint: Enter the facility status
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_date_registered
+      label: Facility Date Registered
+      hint: Enter the facility date registered
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: facility_time_registered
+      label: Facility Time Registered
+      hint: Enter the facility time registered
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: facility_user_type
+      label: Facility User Type
+      hint: Enter the facility user type
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_user_name
+      label: Facility User Name
+      hint: Enter the facility user name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_user_email
+      label: Facility User Email
+      hint: Enter the facility user email
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: facility_user_phone
+      label: Facility User Phone
+      hint: Enter the facility user phone number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_user_location
+      label: Facility User Location
+      hint: Enter the facility user location
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_user_address
+      label: Facility User Address
+      hint: Enter the facility user address
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_user_postal_code
+      label: Facility User Postal Code
+      hint: Enter the facility user postal code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

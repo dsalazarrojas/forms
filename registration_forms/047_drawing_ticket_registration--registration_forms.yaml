@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drawing Ticket Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drawing_tickets
+      label: Drawing Tickets
+      hint: Select your drawing tickets
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      - '{''id'': 3, ''text'': ''Option 3''}'
+      - '{''id'': 4, ''text'': ''Option 4''}'
+      - '{''id'': 5, ''text'': ''Option 5''}'
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name_on_ticket
+      label: Name on Ticket
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ticket_number
+      label: Ticket Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: drawing_date
+      label: Drawing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: winner
+      label: Winner
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': False}'
+      - '{''id'': 2, ''text'': True}'
+      required: false

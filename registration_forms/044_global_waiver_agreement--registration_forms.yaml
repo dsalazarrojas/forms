@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Waiver Agreement
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: waiver_agreement
+      label: Waiver Agreement
+      hint: This is the waiver agreement that participants must sign prior to participating
+        in an event or activity.
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I agree to participate''}'
+      - '{''id'': 2, ''label'': ''I disagree to participate''}'
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: participant_concerns
+      label: Participant Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: participant_agreed
+      label: Participant Agreed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 16
+      name: staff_agreed
+      label: Staff Agreed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 17
+      name: staff_signature
+      label: Staff Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: participant_date
+      label: Participant Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: staff_date
+      label: Staff Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_signature_2
+      label: Participant Signature 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: staff_signature_2
+      label: Staff Signature 2
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 26
+      name: submitted
+      label: Submitted
+      hint: null
+      type: note
+      options: []
+      required: false

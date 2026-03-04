@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer To Peer Event Registration
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - Leader
+      - Host
+      - Participant
+      required: true
+    - id: 3
+      name: role_preferences
+      label: prophets
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_type
+      label: role_type
+      hint: null
+      type: select_one
+      options:
+      - Team
+      - Individual
+      - Organization
+      required: false
+    - id: 6
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: attendee_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: prophets
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: attendee_consent
+      label: attendee_consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: venue
+      label: venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

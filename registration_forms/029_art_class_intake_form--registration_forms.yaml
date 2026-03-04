@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Class Intake Form
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_enrollment
+      label: -- Enrollment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: class_selected
+      label: Art Class Selected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: enrollment_term
+      label: Enrollment Term or Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_experience
+      label: -- Art Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: art_experience_level
+      label: Art Experience Level
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 15
+      name: previous_classes
+      label: Have you taken art classes before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: previous_classes_details
+      label: If yes, describe the classes you have taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: artistic_interests
+      label: Artistic Interests or Specialties
+      hint: Drawing, painting, sculpture, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_goals
+      label: -- Goals and Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: class_goals
+      label: Why are you taking this class
+      hint: Goals and objectives
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: specific_skills
+      label: Specific Skills You Want to Learn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_health
+      label: -- Health and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: accessibility_needs
+      label: Any Accessibility or Mobility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies_concerns
+      label: Allergies or Health Concerns
+      hint: Art supply sensitivities, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_agreement
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: informed_consent
+      label: I consent to participate in this art class
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Information Request Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_website
+      label: Company Website
+      hint: Business URL
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration
+      type: select_one
+      options:
+      - New Client Registration
+      - Service Registration
+      - Event Registration
+      - Program Registration
+      - Membership Registration
+      - Other
+      required: true
+    - id: 13
+      name: service_interest
+      label: Service of Interest
+      hint: What service do you want?
+      type: select_one
+      options:
+      - Consulting
+      - Support Services
+      - Training
+      - Products
+      - Maintenance
+      - Professional Services
+      - Other
+      required: true
+    - id: 14
+      name: start_date_preference
+      label: Preferred Start Date
+      hint: When do you want to begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Event
+      - Search Engine
+      - Other
+      required: true
+    - id: 16
+      name: referred_by
+      label: Referred By
+      hint: Who referred you?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Accessibility, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If applicable to service
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How should we contact you?
+      type: select_multiple
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - Portal Notifications
+      required: false
+    - id: 23
+      name: marketing_consent
+      label: May We Send You Marketing Communications?
+      hint: Newsletter, promotions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: terms_accepted
+      label: I Accept the Terms and Conditions
+      hint: Agreement
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 25
+      name: privacy_policy_accepted
+      label: I Accept the Privacy Policy
+      hint: Privacy agreement
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 26
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 27
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

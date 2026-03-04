@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retreat Deposit Commitment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: attendee_first_name
+      label: Attendee First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attendee_last_name
+      label: Attendee Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: commit_to_attend
+      label: Commit to Attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: commit_to_pay
+      label: Commit to Pay
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_commitment
+      label: Attendee Commitment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

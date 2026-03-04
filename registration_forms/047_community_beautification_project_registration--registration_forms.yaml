@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Beautification Project Registration
+    pages:
+    - id: 1
+      name: registration_information
+      label: Registration Information
+      hint: Register to volunteer for community beautification
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_information
+      label: Volunteer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: age_group
+      label: Age Group
+      hint: Which age group do you belong to
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 13
+      name: project_preferences
+      label: Project Preferences
+      hint: What types of projects interest you
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: project_types
+      label: Project Types
+      hint: Which beautification activities interest you
+      type: select_multiple
+      options:
+      - Tree Planting
+      - Flower Bed Maintenance
+      - Graffiti Removal
+      - Litter Cleanup
+      - Mural Painting
+      - Park Improvement
+      - Street Cleaning
+      - Garden Maintenance
+      - Painting Projects
+      - Landscaping
+      required: true
+    - id: 15
+      name: preferred_areas
+      label: Preferred Areas
+      hint: Which areas would you like to help improve
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability
+      label: Availability
+      hint: When are you available to volunteer
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      - Flexible Schedule
+      required: true
+    - id: 17
+      name: event_dates
+      label: Event Dates
+      hint: Which event dates can you attend
+      type: select_multiple
+      options:
+      - March 15
+      - March 22
+      - April 5
+      - April 19
+      - May 3
+      - May 17
+      - Flexible
+      required: true
+    - id: 18
+      name: skills_interests
+      label: Skills and Interests
+      hint: What skills or interests do you have
+      type: select_multiple
+      options:
+      - Gardening
+      - Painting
+      - Landscaping
+      - Project Leadership
+      - Photography
+      - Social Media
+      - Fundraising
+      - General Labor
+      - None
+      required: false
+    - id: 19
+      name: group_participation
+      label: Group Participation
+      hint: Are you registering as part of a group
+      type: select_one
+      options:
+      - Yes - Corporate Group
+      - Yes - School Group
+      - Yes - Community Organization
+      - Yes - Family/Friends
+      - No - Individual
+      required: true
+    - id: 20
+      name: group_name
+      label: Group Name
+      hint: Name of your group if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: group_size
+      label: Group Size
+      hint: How many people in your group
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: experience_level
+      label: Experience Level
+      hint: What is your experience with beautification projects
+      type: select_one
+      options:
+      - Experienced
+      - Some Experience
+      - Beginner
+      - No Experience
+      required: true
+    - id: 23
+      name: tools_available
+      label: Tools Available
+      hint: Do you have tools you can bring
+      type: select_multiple
+      options:
+      - None
+      - Gardening Gloves
+      - Hand Tools
+      - Rake
+      - Shovel
+      - Wheelbarrow
+      - Paint Brushes
+      - Other
+      required: false
+    - id: 24
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: T-shirt size for volunteer shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not Needed
+      required: false
+    - id: 25
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Emergency contact name and phone
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: waiver_agreement
+      label: Waiver Agreement
+      hint: I agree to the volunteer waiver and release
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

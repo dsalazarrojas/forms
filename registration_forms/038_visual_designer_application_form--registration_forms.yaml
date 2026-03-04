@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Visual Designer Application Form
+    pages:
+    - id: 1
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': False, ''value'': ''''}'
+      - '{''id'': 11, ''name'': True, ''value'': 1}'
+      required: true
+    - id: 5
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 12, ''name'': ''Frontend'', ''value'': ''frontend''}'
+      - '{''id'': 13, ''name'': ''Backend'', ''value'': ''backend''}'
+      - '{''id'': 14, ''name'': ''UI/UX'', ''value'': ''ui/ux''}'
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: portfolio_link
+      label: Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false

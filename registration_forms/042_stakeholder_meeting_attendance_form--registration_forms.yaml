@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: stakeholder_meeting_attendance_form
+    pages:
+    - id: 1
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendance_status
+      label: Attendance Status
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late
+      - Undetermined
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false

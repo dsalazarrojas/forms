@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: gold_membership_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - credit_card
+      - paypal
+      - bank_transfer
+      required: false
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: terms_of_service
+      label: terms_of_service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: create_account
+      label: create_account
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - cancel
+      required: false
+    - id: 9
+      name: agree_terms
+      label: agree_terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - cancel
+      required: false

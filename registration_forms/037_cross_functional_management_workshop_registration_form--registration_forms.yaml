@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Functional Management Workshop Registration Form
+    pages:
+    - id: 1
+      name: registration_form_data
+      label: Registration Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_role
+      label: Participant Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team Member''}'
+      - '{''id'': 2, ''label'': ''Team Lead''}'
+      - '{''id'': 3, ''label'': ''Participant''}'
+      - '{''id'': 4, ''label'': ''Speaker''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: participant_availability
+      label: Participant Availability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      - '{''id'': 4, ''label'': ''All''}'
+      required: true
+    - id: 11
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: true
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

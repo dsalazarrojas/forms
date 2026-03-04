@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bold Registration Form
+    pages:
+    - id: 1
+      name: teacher_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: teacher_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: teacher_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: teacher_city_state_zip
+      label: City - State - Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: teaching_experience_years
+      label: Years of Teaching Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: language_to_teach
+      label: Language Desired to Teach
+      hint: null
+      type: select_one
+      options:
+      - Spanish
+      - French
+      - Mandarin Chinese
+      - Japanese
+      - German
+      - Italian
+      - Portuguese
+      - Other
+      required: true
+    - id: 10
+      name: proficiency_level
+      label: Language Proficiency Level
+      hint: null
+      type: select_one
+      options:
+      - Native Speaker
+      - Fluent
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 11
+      name: grade_level_preference
+      label: Grade Level Preference
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - Adult Education
+      - Mixed
+      required: true
+    - id: 12
+      name: classroom_preference
+      label: Classroom Location Preference
+      hint: null
+      type: select_one
+      options:
+      - Main Campus
+      - Satellite Location A
+      - Satellite Location B
+      - Online
+      - Flexible
+      required: true
+    - id: 13
+      name: availability_days
+      label: Days Available to Teach
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 14
+      name: availability_times
+      label: Time Slots Available
+      hint: null
+      type: select_multiple
+      options:
+      - Early Morning
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Flexible
+      required: true
+    - id: 15
+      name: certifications_credentials
+      label: Teaching Certifications or Credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education_background
+      label: Education Background
+      hint: Degree and institution
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: prior_teaching_positions
+      label: Prior Teaching Positions
+      hint: Schools or institutions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: teaching_methodology
+      label: Preferred Teaching Methodology
+      hint: null
+      type: select_one
+      options:
+      - Communicative
+      - Grammar-Based
+      - Immersion
+      - Task-Based
+      - Multimedia
+      - Mixed Approach
+      required: true
+    - id: 19
+      name: class_size_preference
+      label: Preferred Class Size
+      hint: null
+      type: select_one
+      options:
+      - Small - 5-10 students
+      - Medium - 11-20 students
+      - Large - 21-30 students
+      - Very Large - 30+ students
+      - Flexible
+      required: true
+    - id: 20
+      name: technology_comfort
+      label: Comfort Level with Technology
+      hint: For online or hybrid teaching
+      type: select_one
+      options:
+      - Very Comfortable
+      - Comfortable
+      - Somewhat Comfortable
+      - Not Comfortable
+      required: true
+    - id: 21
+      name: background_check_consent
+      label: Consent to Background Check
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 22
+      name: registration_period
+      label: Registration Period
+      hint: Semester applying for
+      type: select_one
+      options:
+      - Spring Semester
+      - Fall Semester
+      - Year-Round
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

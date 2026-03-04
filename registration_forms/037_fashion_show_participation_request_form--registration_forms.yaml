@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Show Participation Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: show_date
+      label: Show Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: show_time
+      label: Show Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: show_time_zone
+      label: Time Zone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - role1
+      - role2
+      - role3
+      required: false

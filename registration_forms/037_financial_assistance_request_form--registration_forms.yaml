@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Assistance Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - other
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: monthly_income
+      label: Monthly Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: financial_history
+      label: Financial History
+      hint: null
+      type: select_multiple
+      options:
+      - Bankruptcy
+      - Foreclosure
+      - Credit Card
+      - Student Loan
+      required: false
+    - id: 6
+      name: financial_support
+      label: Financial Support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: financial_support_source
+      label: Financial Support Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tax_return
+      label: Tax Return
+      hint: null
+      type: select_one
+      options:
+      - '2008'
+      - '2009'
+      - '2010'
+      required: false
+    - id: 9
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 10
+      name: income_frequency_other
+      label: Income Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: income_frequency_source
+      label: Income Frequency Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: household_members
+      label: Household Members
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - Other
+      required: false
+    - id: 13
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Struggling
+      - Stable
+      required: false
+    - id: 15
+      name: income_type
+      label: Income Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: income_type_other
+      label: Income Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: income_frequency_employed
+      label: Income Frequency Employed
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Other
+      required: false
+    - id: 18
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: financial_aid_amount
+      label: Financial Aid Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: financial_aid_reason
+      label: Financial Aid Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: financial_aid_source
+      label: Financial Aid Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

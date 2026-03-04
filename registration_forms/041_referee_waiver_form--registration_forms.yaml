@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referee Waiver Form
+    pages:
+    - id: 1
+      name: referee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referee_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: date_of_last_referee_training
+      label: Date of last referee training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: referee_training_certification
+      label: Referee Training Certification
+      hint: null
+      type: select_one
+      options:
+      - Certification 1
+      - Certification 2
+      - Certification 3
+      required: true
+    - id: 9
+      name: referee_certification_number
+      label: Referee Certification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: referee_certification_expiration
+      label: Referee Certification Expiration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: referee_emergency_contact_consent
+      label: Allow Referee to list emergency contact?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: How do you know the Referee?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referee_signature
+      label: Referee Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: official_signature
+      label: Official Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: referee_waiver
+      label: Waiver of Liability
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand the terms of this waiver.
+      - I am aware of and acknowledge the risks of participating.
+      - I grant permission for my child to participate.
+      required: true
+    - id: 21
+      name: referee_waiver_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: referee_waiver_signed_by
+      label: Signed by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: referee_waiver_signed_by_title
+      label: Referee Waiver Signed By Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: referee_waiver_signed_at
+      label: Date of Waiver Signing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: referee_waiver_signed_by_abbrev
+      label: Referee Waiver Signed By Abbreviation
+      hint: null
+      type: text
+      options: []
+      required: true

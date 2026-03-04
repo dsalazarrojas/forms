@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: grace_transformation_challenge_application
+    pages:
+    - id: 1
+      name: emergency_contact_person
+      label: emergency_contact_person
+      hint: Emergency contact name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_name
+      label: member_name
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email
+      label: member_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone
+      label: member_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: member_goal
+      label: member_goal
+      hint: Your fitness transformation goal
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_mission
+      label: member_mission
+      hint: What motivates you to want to be fit/healthy
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_height
+      label: member_height
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: member_weight
+      label: member_weight
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: member_bday
+      label: member_bday
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: member_goal_date
+      label: member_goal_date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: member_goal_weight
+      label: member_goal_weight
+      hint: 'null'
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: member_notes
+      label: member_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: member_address
+      label: member_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: member_city
+      label: member_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: member_state
+      label: member_state
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: member_postal_code
+      label: member_postal_code
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: member_phone_type
+      label: member_phone_type
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_bday
+      label: emergency_contact_bday
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone_type
+      label: emergency_contact_phone_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

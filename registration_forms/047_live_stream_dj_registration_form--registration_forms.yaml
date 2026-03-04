@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Stream DJ Registration Form
+    pages:
+    - id: 1
+      name: dj_details
+      label: dj_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dj_profile_picture
+      label: dj_profile_picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dj_name
+      label: dj_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dj_bio
+      label: dj_bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dj_email
+      label: dj_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: dj_phone
+      label: dj_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dj_genre
+      label: dj_genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: dj_stream_format
+      label: dj_stream_format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: dj_stream_schedule
+      label: dj_stream_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: dj_stream_time
+      label: dj_stream_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: dj_stream_durations
+      label: dj_stream_durations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: dj_confirmation
+      label: dj_confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dj_additional_info
+      label: dj_additional_info
+      hint: null
+      type: note
+      options: []
+      required: false

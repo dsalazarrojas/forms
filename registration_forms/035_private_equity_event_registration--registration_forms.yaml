@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Equity Event Registration
+    pages:
+    - id: 1
+      name: private_equity_event_registration_form
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Registration Forms''}'
+      - '{''id'': 2, ''label'': ''Event Registration Forms''}'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Investor''}'
+      - '{''id'': 2, ''label'': ''Private Equity''}'
+      required: true
+    - id: 10
+      name: session_planning
+      label: session_planning
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 11
+      name: attendee_communications
+      label: attendee_communications
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

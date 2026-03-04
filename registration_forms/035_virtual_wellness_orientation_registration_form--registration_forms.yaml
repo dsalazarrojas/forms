@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Wellness Orientation Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - Wellness Event
+      - Workshop
+      - Seminar
+      - Conference
+      required: false
+    - id: 6
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_multiple
+      options:
+      - Attendee
+      - Presenter
+      - Organizer
+      required: false
+    - id: 7
+      name: session_info
+      label: session_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      required: false
+    - id: 13
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_id
+      label: session_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_members
+      label: team_members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_leader
+      label: session_leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: session_leader_contact
+      label: session_leader_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: session_leader_email
+      label: session_leader_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: session_leader_phone
+      label: session_leader_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_members_email
+      label: team_members_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_members_phone
+      label: team_members_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      - Pending
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: Click to submit form
+      type: text
+      options: []
+      required: false

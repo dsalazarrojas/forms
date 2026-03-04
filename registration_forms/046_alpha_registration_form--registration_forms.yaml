@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alpha Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: marital_status
+      label: Marital Status
+      hint: Current status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: false
+    - id: 9
+      name: church_membership
+      label: Church Membership
+      hint: Are you a member?
+      type: select_one
+      options:
+      - Yes, member of this church
+      - Yes, member of another church
+      - No, not a member
+      - Exploring faith
+      required: true
+    - id: 10
+      name: church_attendance
+      label: Church Attendance
+      hint: How often do you attend?
+      type: select_one
+      options:
+      - Weekly
+      - 2-3 times per month
+      - Once a month
+      - Rarely
+      - Never
+      required: false
+    - id: 11
+      name: alpha_course_reason
+      label: Why Do You Want to Join Alpha?
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: faith_background
+      label: Faith Background
+      hint: Describe your background
+      type: select_one
+      options:
+      - Raised Christian
+      - Converted to Christianity
+      - Other religion
+      - No religious background
+      - Atheist/Agnostic
+      - Exploring spirituality
+      required: true
+    - id: 13
+      name: previous_alpha_experience
+      label: Previous Alpha Experience
+      hint: Have you done Alpha before?
+      type: select_one
+      options:
+      - No, first time
+      - Yes, once
+      - Yes, multiple times
+      required: true
+    - id: 14
+      name: course_session_preference
+      label: Session Preference
+      hint: Which session?
+      type: select_one
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend evenings
+      - Online course
+      required: true
+    - id: 15
+      name: childcare_needed
+      label: Childcare Needed
+      hint: Do you need childcare?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: number_of_children
+      label: Number of Children
+      hint: If childcare needed
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: children_ages
+      label: Children Ages
+      hint: List ages
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For meals provided
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Interested in Volunteering?
+      hint: Would you like to help?
+      type: select_one
+      options:
+      - Yes, interested
+      - Maybe
+      - No, just participating
+      required: false
+    - id: 20
+      name: volunteer_areas
+      label: Volunteer Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hosting
+      - Cooking/serving
+      - Setup/cleanup
+      - Worship team
+      - Prayer team
+      - Discussion leader
+      - Childcare
+      - Not interested
+      required: false
+    - id: 21
+      name: small_group_preference
+      label: Small Group Preference
+      hint: Group type
+      type: select_one
+      options:
+      - Mixed ages
+      - Young adults
+      - Adults
+      - Seniors
+      - Couples
+      - No preference
+      required: false
+    - id: 22
+      name: prayer_request
+      label: Prayer Request
+      hint: Any specific requests?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: questions_concerns
+      label: Questions or Concerns
+      hint: Anything you want to ask?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: how_hear_about_alpha
+      label: How Did You Hear About Alpha?
+      hint: Source
+      type: select_one
+      options:
+      - Church announcement
+      - Friend/family
+      - Pastor referral
+      - Social media
+      - Church website
+      - Community event
+      - Other
+      required: false
+    - id: 25
+      name: referral_name
+      label: Who Referred You?
+      hint: Name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: start_date_preference
+      label: Preferred Start Date
+      hint: When to begin?
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: commitment_understanding
+      label: Commitment Understanding
+      hint: Do you understand the commitment?
+      type: select_one
+      options:
+      - Yes, I understand the course length
+      - No, need more information
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to participate?
+      type: select_one
+      options:
+      - Yes, I agree to participate
+      - false
+      required: true

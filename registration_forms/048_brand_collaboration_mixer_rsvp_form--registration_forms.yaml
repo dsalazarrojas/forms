@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Collaboration Mixer RSVP Form
+    pages:
+    - id: 1
+      name: section_header_guest
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_professional
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company or Brand Name
+      hint: Organization you represent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: professional_role
+      label: Professional Role
+      hint: Select your role type
+      type: select_one
+      options:
+      - Brand representative
+      - Influencer
+      - Content creator
+      - Marketing professional
+      - Business owner
+      - Investor
+      - Media
+      - Other
+      required: true
+    - id: 10
+      name: section_header_event
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: Date you will attend
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: Time you will arrive
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: section_header_rsvp
+      label: -- RSVP Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: rsvp_status
+      label: RSVP Status
+      hint: Are you attending
+      type: select_one
+      options:
+      - Yes, I will attend
+      - Yes, with guest
+      - Maybe
+      - No, cannot attend
+      - Undecided
+      required: true
+    - id: 15
+      name: number_of_guests
+      label: Number of Guests (Including You)
+      hint: How many total people
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_header_dietary
+      label: -- Dietary and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_networking
+      label: -- Networking Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: collaboration_interests
+      label: Interested in Collaborations With
+      hint: Type of collaborations you seek
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rsvp_confirmation
+      label: I confirm my RSVP for this event
+      hint: Check to finalize registration
+      type: select_one
+      options:
+      - I confirm my attendance
+      - I need to cancel
+      - I am not sure yet
+      required: true

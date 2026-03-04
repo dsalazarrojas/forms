@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Insight Workshop Registration
+    pages:
+    - id: 1
+      name: session_selection
+      label: Session Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendees_details
+      label: Attendees Details
+      hint: Please provide attendee details.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_logistics
+      label: Event Logisitics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_dates
+      label: Session Dates
+      hint: Select your desired session date
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: Select your desired session time
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_info
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false

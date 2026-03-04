@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: SUD Group Participation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: group_id
+      label: group_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: program_type_other
+      label: other_program_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: schedule_date
+      label: schedule_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: schedule_time
+      label: schedule_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: schedule_time_slot
+      label: schedule_time_slot
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''label'': ''morning'', ''value'': ''morning''}'
+      - '{''id'': 14, ''label'': ''afternoon'', ''value'': ''afternoon''}'
+      - '{''id'': 15, ''label'': ''evening'', ''value'': ''evening''}'
+      required: false
+    - id: 13
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: provider_name_title
+      label: provider_name_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provider_name_other
+      label: provider_name_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_group_name
+      label: support_group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: support_group_id
+      label: support_group_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: support_group_type
+      label: support_group_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_group_description
+      label: support_group_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: support_group_provider
+      label: support_group_provider
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Movie Night Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_type
+      label: Are you an adult or youth?
+      hint: null
+      type: select_one
+      options:
+      - adult
+      - youth
+      required: false
+    - id: 6
+      name: event_attendance
+      label: Will you be attending the movie?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Vegetarian
+      - None
+      required: false

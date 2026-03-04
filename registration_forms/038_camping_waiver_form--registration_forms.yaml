@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camping Waiver Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_parent_info
+      label: -- Parent or Guardian Information (if under 18) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guardian_phone
+      label: Parent or Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: guardian_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: section_health_info
+      label: -- Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions or Disabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physical_fitness
+      label: Do you consider yourself physically fit for outdoor camping
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Somewhat
+      required: true
+    - id: 17
+      name: section_liability_acknowledgment
+      label: -- Liability Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: assume_risks
+      label: I assume all risks associated with camping and outdoor activities
+      hint: null
+      type: select_one
+      options:
+      - Yes, I assume risks
+      - false
+      required: true
+    - id: 19
+      name: understand_hazards
+      label: I understand the inherent hazards of camping
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 20
+      name: release_liability
+      label: I release the organizers from all liability claims
+      hint: null
+      type: select_one
+      options:
+      - Yes, I release
+      - false
+      required: true
+    - id: 21
+      name: authorize_emergency
+      label: I authorize emergency medical treatment if necessary
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 22
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: waiver_signature_date
+      label: Date of Signature (for records)
+      hint: null
+      type: date
+      options: []
+      required: true

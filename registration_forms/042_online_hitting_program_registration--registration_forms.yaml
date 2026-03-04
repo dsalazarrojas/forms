@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Hitting Program Registration
+    pages:
+    - id: 1
+      name: program_registration
+      label: Register for a program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_date
+      label: Date of Hitting
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: program_time
+      label: Time of Hitting
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: program_location
+      label: Hitting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_coach
+      label: Coach's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_level
+      label: Program Level
+      hint: Please select a level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 7
+      name: program_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_agree
+      label: Agree
+      hint: Choose one or multiple options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 9
+      name: program_agree_1
+      label: Agree 1
+      hint: Choose one or multiple options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 10
+      name: program_agree_2
+      label: Agree 2
+      hint: Choose one or multiple options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: true
+    - id: 11
+      name: form_email
+      label: Email
+      hint: 'Format: email@domain.com'
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: program_phone
+      label: Phone Number
+      hint: 'Format: 123-456-7890'
+      type: text
+      options: []
+      required: false

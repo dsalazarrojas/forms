@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical AI Implementation Training Registration
+    pages:
+    - id: 1
+      name: participant_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_information
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: professional_section
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: role_type
+      label: Role Type
+      hint: null
+      type: select_one
+      options:
+      - Clinical staff
+      - IT staff
+      - Administrative
+      - Management
+      - Other
+      required: true
+    - id: 11
+      name: years_experience
+      label: Years of experience in healthcare
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_section
+      label: -- Training Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Introduction to Clinical AI
+      - System Administration
+      - Clinical Integration
+      - Advanced Features
+      - Custom Training
+      required: true
+    - id: 14
+      name: session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: session_format
+      label: Session Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 16
+      name: time_preference
+      label: Time Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Flexible
+      required: true
+    - id: 17
+      name: experience_section
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: tech_proficiency
+      label: Technology proficiency level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 19
+      name: ai_familiarity
+      label: Familiarity with AI systems
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Minimal experience
+      - Some experience
+      - Extensive experience
+      required: true
+    - id: 20
+      name: goals_section
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: learning_objectives
+      label: Learning objectives
+      hint: What do you want to learn?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: challenges_section
+      label: -- Current Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: current_challenges
+      label: Current challenges with AI implementation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_info
+      label: Additional information or requests
+      hint: Optional
+      type: text
+      options: []
+      required: false

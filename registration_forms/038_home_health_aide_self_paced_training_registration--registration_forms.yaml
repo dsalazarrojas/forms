@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Aide Self Paced Training Registration
+    pages:
+    - id: 1
+      name: module_interest
+      label: Select Module Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: module_start_date
+      label: Module Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: program_length
+      label: Program Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

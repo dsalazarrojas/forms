@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Craft Fair Vendor Inquiry Form
+    pages:
+    - id: 1
+      name: form_input_1
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_input_2
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: categories
+      label: Categories
+      hint: Choose the primary categories of the items you wish to display and/or
+        sell.
+      type: select_multiple
+      options:
+      - Jewelry
+      - Artwork and Prints
+      - Handmade Crafts
+      - Food
+      - Other
+      required: false
+    - id: 7
+      name: form_input_3
+      label: Images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_input_4
+      label: Images
+      hint: Attach 4 or more images of your items or setup.
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 9
+      name: form_input_5
+      label: Images
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

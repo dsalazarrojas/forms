@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Datathon Registration Form
+    pages:
+    - id: 1
+      name: registration_form_data
+      label: Registration Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: participant_gender_other
+      label: Participant Gender (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: participant_dob_year
+      label: Participant Date of Birth Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_dob_month
+      label: Participant Date of Birth Month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_dob_day
+      label: Participant Date of Birth Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: participant_dob_time
+      label: Participant Date of Birth Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false

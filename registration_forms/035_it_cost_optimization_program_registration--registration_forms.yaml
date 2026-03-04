@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Cost Optimization Program Registration
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Cost Optimization
+      - Process Improvement
+      - Other
+      required: false
+    - id: 3
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goal_details
+      label: Goal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: focus_area
+      label: Focus Area
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud Computing
+      - Data Analytics
+      - Cybersecurity
+      - Data Backup
+      - Data Recovery
+      - IT Management
+      - Network Security
+      - Other
+      required: false
+    - id: 6
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: consultant_phone
+      label: Consultant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

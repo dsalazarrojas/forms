@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Term Rental Renewal Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: tenant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_terms
+      label: agreement_terms
+      hint: null
+      type: select_multiple
+      options:
+      - Rent
+      - Lease
+      - Other
+      required: false
+    - id: 3
+      name: agreement_end_date
+      label: agreement_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: renewal_terms
+      label: renewal_terms
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Lease
+      - Other
+      required: false
+    - id: 5
+      name: rent_start_date
+      label: rent_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rent_end_date
+      label: rent_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: tenant_signature
+      label: tenant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: landlord_signature
+      label: landlord_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_manager_note
+      label: property_manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: property_owner_name
+      label: property_owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_owner_contact
+      label: property_owner_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_owner_email
+      label: property_owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: property_owner_phone
+      label: property_owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false

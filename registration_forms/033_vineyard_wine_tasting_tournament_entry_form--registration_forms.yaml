@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: vineyard-wine-tasting-tournament-entry-form
+    pages:
+    - id: 1
+      name: tournament_name
+      label: Tournament Name
+      hint: Enter the name of the tournament
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: tasting_type
+      label: Tasting Type
+      hint: Select the type of tasting
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wine_name
+      label: Wine Name
+      hint: Enter the name of the wine
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: wine_type
+      label: Wine Type
+      hint: Select the type of wine
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: winery_name
+      label: Winery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: winery_email
+      label: Winery Email
+      hint: Enter the winery email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: wine_tasting_score
+      label: Wine Tasting Score
+      hint: Enter the wine tasting score
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: winery_website
+      label: Winery Website
+      hint: Enter the winery website
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: judge_name
+      label: Judge Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: judge_title
+      label: Judge Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: judge_score
+      label: Judge Score
+      hint: Enter the judge score
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: wine_glass
+      label: Wine Glass
+      hint: Select the wine glass
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: wine_tasting_note
+      label: Tasting Note
+      hint: Enter the wine tasting note
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: judge_note
+      label: Judge Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: wine_tasting_grade
+      label: Tasting Grade
+      hint: Select the tasting grade
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: wine_tasting_level
+      label: Tasting Level
+      hint: Select the tasting level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 19
+      name: judge_level
+      label: Judge Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 20
+      name: wine_color
+      label: Wine Color
+      hint: Select the wine color
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: wine_clarity
+      label: Wine Clarity
+      hint: Select the wine clarity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: wine_bouquet
+      label: Wine Bouquet
+      hint: Select the wine bouquet
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: wine_basis
+      label: Wine Basis
+      hint: Enter the wine basis
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: judge_verification
+      label: Judge Verification
+      hint: Select the judge verification
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

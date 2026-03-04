@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Organization Permission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: permission_to_share_data
+      label: Permission to share data
+      hint: null
+      type: select_one
+      options:
+      - Allow
+      - Don't Allow
+      required: false
+    - id: 6
+      name: permission_to_record_audio
+      label: Permission to record audio
+      hint: null
+      type: select_one
+      options:
+      - Allow
+      - Don't Allow
+      required: false
+    - id: 7
+      name: permission_to_record_video
+      label: Permission to record video
+      hint: null
+      type: select_one
+      options:
+      - Allow
+      - Don't Allow
+      required: false

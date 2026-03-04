@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_organization_online_registration_form
+    pages:
+    - id: 1
+      name: sports_organization
+      label: sports_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sports
+      label: sports
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_type
+      label: member_type
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Non Member
+      required: true
+    - id: 6
+      name: sports_interests
+      label: sports_interests
+      hint: Select the sports you are interested in.
+      type: select_multiple
+      options:
+      - Basketball
+      - Soccer
+      - Volleyball
+      - Baseball
+      - Golf
+      required: true
+    - id: 7
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: member_since
+      label: member_since
+      hint: null
+      type: date
+      options: []
+      required: true

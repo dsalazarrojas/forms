@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: HGV Training Registration
+    pages:
+    - id: 1
+      name: hgv_training_registration
+      label: Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hgv_license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: hgv_schedule_preferences
+      label: Schedule Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hgv_training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hgv_contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hgv_training_schedule
+      label: Training Schedule
+      hint: null
+      type: date
+      options: []
+      required: false

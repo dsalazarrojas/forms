@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: process_automation_roundtable_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance_interests
+      label: Attendance Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendance_consent
+      label: Attendance Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: company_other
+      label: Other Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_function_other
+      label: Other Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: prophets
+      label: Profits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: losses
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: profit
+      label: Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: margin
+      label: Margin
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: margin_percentage
+      label: Margin Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: cost_of_goods_sold
+      label: Cost of Goods Sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: cost_of_goods_sold_percentage
+      label: Cost of Goods Sold Percentage
+      hint: null
+      type: number
+      options: []
+      required: false

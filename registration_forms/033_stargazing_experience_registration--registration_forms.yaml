@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stargazing Experience Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sessions
+      label: Sessions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: equipment
+      label: Equipment
+      hint: List the equipment you will be using for the stargazing experience
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_schedule
+      label: Session Schedule
+      hint: Enter the start and end time of the stargazing session
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: policies
+      label: Policies
+      hint: Please list any policies you will be following during the stargazing session
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: observer_name
+      label: Observer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: observer_relationship
+      label: Observer Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Friend''}'
+      - '{''id'': 2, ''label'': ''Family''}'
+      - '{''id'': 3, ''label'': ''Staff''}'
+      required: false
+    - id: 12
+      name: observer_phone
+      label: Observer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: observer_email
+      label: Observer Email
+      hint: null
+      type: email
+      options: []
+      required: false

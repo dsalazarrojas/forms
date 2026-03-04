@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Participant Registration Form
+    pages:
+    - id: 1
+      name: participant_reg_intro_header
+      label: -- Camper Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_reg
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_age_reg
+      label: Age (At time of camp)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: participant_gender_reg
+      label: Gender
+      hint: For cabin and group assignments
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary / Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: guardian_contact_header_reg
+      label: -- Parent - Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_guardian_name_reg
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_email_reg
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: guardian_phone_reg
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_preferences_header_reg
+      label: -- Camp Session and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: camp_session_choice_reg
+      label: Select Your Session
+      hint: null
+      type: select_one
+      options:
+      - Early Summer - June 1-14
+      - Mid Summer - June 15-28
+      - Late Summer - July 1-14
+      - Wilderness Week - July 15-22
+      required: true
+    - id: 11
+      name: camper_t_shirt_size_reg
+      label: T-shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Youth XS
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      required: true
+    - id: 12
+      name: medical_allergies_concerns_reg
+      label: Medical Allergies or Conditions
+      hint: If none, please type None
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: swimming_ability_reg
+      label: Swimming Proficiency
+      hint: null
+      type: select_one
+      options:
+      - Non-swimmer
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 14
+      name: photo_release_consent_reg
+      label: Photo and Media Release
+      hint: I permit the camp to use photos of the participant for promotion
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I do not consent
+      required: true
+    - id: 15
+      name: participation_waiver_acknowledgement_reg
+      label: Liability Waiver Acknowledgment
+      hint: I acknowledge that I have signed the separate liability waiver
+      type: select_one
+      options:
+      - I Have Signed the Waiver
+      - Other
+      required: true
+    - id: 16
+      name: payment_plan_choice_reg
+      label: Preferred Payment Plan
+      hint: null
+      type: select_one
+      options:
+      - Pay in Full
+      - Deposit + Installments
+      - Seeking Scholarship / Financial Aid
+      required: true
+    - id: 17
+      name: participant_reg_timestamp
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

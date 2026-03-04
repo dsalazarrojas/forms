@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: ATC Realtor Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: MAD Team Debt to Wealth Realtor Registration
+      hint: Thank you for registering for our realtor program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: realtor_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: realtor_last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: realtor_license_number
+      label: Real Estate License Number
+      hint: Enter your valid real estate license number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: realtor_company
+      label: Real Estate Company
+      hint: Enter the name of your real estate brokerage
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: realtor_phone
+      label: Business Phone Number
+      hint: Enter your business contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: realtor_email
+      label: Business Email Address
+      hint: Enter your professional email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: realtor_address
+      label: Business Address
+      hint: Enter your office address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: realtor_city
+      label: City
+      hint: Enter your office city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: realtor_state
+      label: State
+      hint: Enter your office state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: realtor_zip_code
+      label: ZIP Code
+      hint: Enter your office postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_experience
+      label: Years of Experience in Real Estate
+      hint: Enter the number of years you've been in real estate
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: specialization_area
+      label: Specialization Area
+      hint: Select your primary area of expertise
+      type: select_one
+      options:
+      - Residential sales
+      - Commercial sales
+      - Property management
+      - Investment properties
+      - Luxury homes
+      - New construction
+      - Other
+      required: true
+    - id: 14
+      name: avg_annual_sales
+      label: Average Annual Sales Volume
+      hint: Select your typical annual sales volume range
+      type: select_one
+      options:
+      - $0-$500K
+      - $500K-$1M
+      - $1M-$2M
+      - $2M-$5M
+      - $5M+
+      required: true
+    - id: 15
+      name: client_base_size
+      label: Approximate Client Base Size
+      hint: Select the size of your current client base
+      type: select_one
+      options:
+      - Under 50 clients
+      - 50-100 clients
+      - 100-200 clients
+      - 200-500 clients
+      - 500+ clients
+      required: true
+    - id: 16
+      name: debt_to_wealth_knowledge
+      label: How familiar are you with debt-to-wealth strategies
+      hint: Rate your current knowledge level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Not familiar
+      required: true
+    - id: 17
+      name: program_goals
+      label: What are your primary goals for joining this program
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Increase client base
+      - Improve financial literacy
+      - Generate more leads
+      - Increase transaction values
+      - Network with other professionals
+      - Learn new strategies
+      - Other
+      required: true
+    - id: 18
+      name: marketing_channels
+      label: Which marketing channels do you currently use (select all that apply)
+      hint: Select your current marketing methods
+      type: select_multiple
+      options:
+      - Social media
+      - Direct mail
+      - Cold calling
+      - Referrals
+      - Open houses
+      - Online listings
+      - Seminars
+      - Other
+      required: false
+    - id: 19
+      name: continuing_education_hours
+      label: How many continuing education hours do you complete annually
+      hint: Select the range of CE hours you typically complete
+      type: select_one
+      options:
+      - 0-10 hours
+      - 10-20 hours
+      - 20-30 hours
+      - 30-40 hours
+      - 40+ hours
+      required: false
+    - id: 20
+      name: availability_for_events
+      label: What days/times are you typically available for program events
+      hint: Select when you're most available to participate
+      type: select_multiple
+      options:
+      - Monday mornings
+      - Monday evenings
+      - Tuesday mornings
+      - Tuesday evenings
+      - Wednesday mornings
+      - Wednesday evenings
+      - Thursday mornings
+      - Thursday evenings
+      - Friday mornings
+      - Friday evenings
+      - Saturday mornings
+      - Saturday evenings
+      - Sunday mornings
+      - Sunday evenings
+      required: true
+    - id: 21
+      name: referral_source
+      label: How did you hear about this program
+      hint: Select how you learned about the Debt to Wealth program
+      type: select_one
+      options:
+      - Colleague
+      - Seminar
+      - Online advertisement
+      - Social media
+      - Website
+      - Referral from participant
+      - Other
+      required: false
+    - id: 22
+      name: terms_agreement
+      label: I agree to the terms and conditions of the Debt to Wealth program
+      hint: Please confirm your agreement with our policies
+      type: select_one
+      options:
+      - true
+      - I agree
+      - false
+      - I do not agree
+      required: true

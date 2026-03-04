@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: mentorship_session_registration_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: organization
+      hint: null
+      type: select_one
+      options:
+      - Mentorship Organization
+      - Non-Profit Organization
+      - Government
+      required: false
+    - id: 6
+      name: mentor_info
+      label: mentor_info
+      hint: null
+      type: select_multiple
+      options:
+      - Mentor
+      - Mentor
+      - Mentor
+      required: false
+    - id: 7
+      name: date_of_interest
+      label: date_of_interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_session
+      label: date_of_session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_session
+      label: time_of_session
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: session_length
+      label: session_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: session_type
+      label: session_type
+      hint: null
+      type: select_one
+      options:
+      - One-on-One Session
+      - Group Session
+      - Virtual Session
+      required: false
+    - id: 12
+      name: session_frequency
+      label: session_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      required: false
+    - id: 13
+      name: session_topic
+      label: session_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Auto
+      - Manual/Auto
+      required: false
+    - id: 16
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 19
+      name: mentorship_type
+      label: mentorship_type
+      hint: null
+      type: select_one
+      options:
+      - Mentorship
+      - CoMentorship
+      - Both
+      required: false
+    - id: 20
+      name: session_status
+      label: session_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Scheduled
+      required: false
+    - id: 21
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_one
+      options:
+      - Agreed
+      - Declined
+      - No Agreement
+      required: false

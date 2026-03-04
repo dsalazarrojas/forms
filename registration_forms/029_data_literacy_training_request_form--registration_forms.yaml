@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Literacy Training Request Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Data Literacy'', ''value'': ''data_literacy''}'
+      - '{''id'': 2, ''label'': ''Data Visualization'', ''value'': ''data_visualization''}'
+      - '{''id'': 3, ''label'': ''Business Intelligence'', ''value'': ''business_intelligence''}'
+      required: true
+    - id: 6
+      name: participant_contact
+      label: Participant Contact
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: trainer_name
+      label: Trainer Name
+      hint: First and last name, i.e., John Smith
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_location
+      label: Participant Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: training_venue
+      label: Training Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: trainer_agreement
+      label: Trainer Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: other_requests
+      label: Other Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trainer_name_agreement
+      label: Trainer Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_agreement_agreement
+      label: Participant Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: session_note
+      label: Session Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: other_agreement
+      label: Other Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_agreement2
+      label: Participant Agreement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: session_note2
+      label: Session Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

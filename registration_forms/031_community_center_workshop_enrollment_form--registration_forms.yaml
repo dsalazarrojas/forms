@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: section_enrollment_details_work
+      label: -- Participant Details --
+      hint: Please fill out all required fields to enroll in a workshop.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_work
+      label: Full Name of Participant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email_work
+      label: Email Address
+      hint: For enrollment confirmation and workshop details
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone_work
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_dob_work
+      label: Date of Birth
+      hint: Required for age-specific workshops
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_workshop_selection_work
+      label: -- Workshop Selection --
+      hint: Select the workshop(s) you wish to enroll in.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_workshop_category_work
+      label: Workshop Category
+      hint: null
+      type: select_one
+      options:
+      - Arts and Crafts
+      - Health and Wellness
+      - Technology and Digital Skills
+      - Personal Development
+      - Cooking and Nutrition
+      - Gardening and Sustainability
+      required: true
+    - id: 8
+      name: specific_workshop_name_work
+      label: Specific Workshop Name
+      hint: e.g., Beginner's Pottery, Yoga for Seniors, Intro to Coding
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_session_date_work
+      label: Preferred Workshop Date/Session
+      hint: If multiple sessions are available
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: workshop_session_time_work
+      label: Preferred Workshop Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (9am - 12pm)
+      - Afternoon (12pm - 4pm)
+      - Evening (4pm - 8pm)
+      required: true
+    - id: 11
+      name: section_additional_info_work
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: physical_accessibility_needs_work
+      label: Do you have any physical accessibility needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions_workshop_work
+      label: Any dietary restrictions (for cooking workshops)
+      hint: If none, enter N/A
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_exp_workshop_work
+      label: Describe any previous experience relevant to this workshop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_final_submission_work
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: workshop_rules_acknowledgment_work
+      label: I agree to abide by the community center's workshop rules and policies
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 17
+      name: submission_date_final_work
+      label: Date of Enrollment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: enrollment_signature_digital_work
+      label: Digital Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: newsletter_opt_in_work
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true

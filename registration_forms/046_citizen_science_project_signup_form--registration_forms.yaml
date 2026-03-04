@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizen Science Project Signup Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For project updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: education_level
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Bachelor's degree
+      - Master's degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 7
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_selection
+      label: Which Project Are You Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wildlife monitoring
+      - Water quality testing
+      - Air quality monitoring
+      - Bird counting
+      - Plant identification
+      - Weather tracking
+      - Astronomy observations
+      - Insect surveys
+      required: true
+    - id: 9
+      name: availability
+      label: When Are You Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Flexible schedule
+      required: true
+    - id: 10
+      name: time_commitment
+      label: How Many Hours Per Week Can You Commit
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-5 hours
+      - 6-10 hours
+      - More than 10 hours
+      required: true
+    - id: 11
+      name: experience_level
+      label: Previous Citizen Science Experience
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Some experience
+      - Experienced
+      - Expert
+      required: true
+    - id: 12
+      name: skills
+      label: Relevant Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data collection
+      - Species identification
+      - Photography
+      - GPS usage
+      - Data analysis
+      - Writing
+      - Teaching
+      - None
+      required: true
+    - id: 13
+      name: equipment
+      label: Equipment You Have Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Smartphone
+      - Digital camera
+      - Computer
+      - Microscope
+      - GPS device
+      - Vehicle
+      - None
+      required: true
+    - id: 14
+      name: transportation
+      label: Do You Have Reliable Transportation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: location_preference
+      label: Preferred Location for Participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_preference
+      label: Do You Prefer Working Alone or in a Team
+      hint: null
+      type: select_one
+      options:
+      - Alone
+      - Small team
+      - Large group
+      - No preference
+      required: true
+    - id: 17
+      name: training_needed
+      label: What Training Would You Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data collection methods
+      - Species identification
+      - Equipment usage
+      - Safety protocols
+      - Data entry
+      - No training needed
+      required: true
+    - id: 18
+      name: motivation
+      label: Why Do You Want to Participate
+      hint: Share your motivation
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: accessibility_needs
+      label: Any Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: waiver_agreement
+      label: Liability Waiver Agreement
+      hint: I understand the risks and agree to participate
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: photo_release
+      label: Photo Release Permission
+      hint: Photos may be taken for project documentation
+      type: select_one
+      options:
+      - I grant permission
+      - I do not grant permission
+      required: true
+    - id: 23
+      name: start_date
+      label: When Can You Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Questions or concerns
+      type: text
+      options: []
+      required: false

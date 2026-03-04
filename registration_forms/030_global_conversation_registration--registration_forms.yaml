@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Conversation Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Africa Central Africa
+      - Africa Eastern
+      - Africa West
+      - America Central
+      - America Eastern
+      - America Mountain
+      - Asia Central
+      - Asia Eastern
+      - Australia Central
+      - Australia Central
+      - Europe Central
+      - Europe Eastern
+      - India
+      required: true
+    - id: 3
+      name: languages
+      label: Languages
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - German
+      - Spanish
+      - Mandarin
+      - Japanese
+      - Arabic
+      required: true
+    - id: 4
+      name: topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

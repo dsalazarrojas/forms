@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: youth-sports-video-story-consent-form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Record and share videos of my child''}'
+      - '{''label'': ''Do not record or share videos of my child''}'
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relatives
+      label: Emergency Contact Relatives
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Father''}'
+      - '{''label'': ''Mother''}'
+      - '{''label'': ''Mother (step)''}'
+      - '{''label'': ''Other''}'
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Assignment Meeting Registration
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Work Email
+      hint: for meeting invites and links
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_meeting_selection
+      label: -- Meeting Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: meeting_date
+      label: Preferred Meeting Date
+      hint: choose one date from the schedule
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: meeting_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - 9:00 AM
+      - 11:00 AM
+      - 2:00 PM
+      - 4:00 PM
+      required: true
+    - id: 10
+      name: participation_mode
+      label: Mode of Participation
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual (Zoom or Teams)
+      - Hybrid
+      required: true
+    - id: 11
+      name: section_caseload
+      label: -- Case Load and Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_case_load
+      label: Current active case load
+      hint: number of cases currently assigned to you
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: specialty_areas
+      label: Areas of Expertise
+      hint: select all that apply to your work
+      type: select_multiple
+      options:
+      - Legal
+      - Medical
+      - Finance
+      - Social Work
+      - Technical
+      - Admin
+      required: true
+    - id: 14
+      name: availability_for_new_cases
+      label: Are you available to take on new cases?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Limited
+      - false
+      required: true
+    - id: 15
+      name: section_prep
+      label: -- Preparatory Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: case_interest
+      label: Specific types of cases you are interested in
+      hint: list any preferences
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preparatory_materials_needed
+      label: Do you need access to specific case files before the meeting?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: files_requested
+      label: List the files or case numbers requested
+      hint: if you selected Yes above
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_accommodations
+      label: -- Accommodations and Diet --
+      hint: for in-person attendees only
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 21
+      name: accessibility_needs
+      label: Any accessibility requirements?
+      hint: e.g. ramp access, hearing loop
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_final
+      label: -- Final Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: registration_status
+      label: Registration Status
+      hint: initial status for tracking
+      type: select_one
+      options:
+      - Confirmed
+      - Pending Approval
+      - Canceled
+      required: true
+    - id: 24
+      name: supervisor_acknowledgment
+      label: I have informed my supervisor of this meeting
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 25
+      name: digital_signature
+      label: Signature of Registrant
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

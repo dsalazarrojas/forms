@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_class_inquiry_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_class_day
+      label: Preferred Class Day
+      hint: null
+      type: select_one
+      options:
+      - monday
+      - tuesday
+      - wednesday
+      - thursday
+      - friday
+      required: true
+    - id: 6
+      name: prophets_report_id
+      label: Prophets Report ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: available_days
+      label: Available Days
+      hint: Enter the number of days you can attend classes per week
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: available_time
+      label: Available Time
+      hint: Enter the number of time blocks you can attend each class per week
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: available_time_block_1
+      label: Available Time Block 1
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: true
+    - id: 10
+      name: available_time_block_2
+      label: Available Time Block 2
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: true
+    - id: 11
+      name: available_time_block_3
+      label: Available Time Block 3
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: true
+    - id: 12
+      name: class_interest
+      label: Class Interest
+      hint: null
+      type: select_multiple
+      options:
+      - yin_yang_therapy
+      - hatha_yoga
+      - vinyasa_yoga
+      - restorative_yoga
+      - yin_yang_yoga
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_name_label
+      label: First Name Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: last_name_label
+      label: Last Name Label
+      hint: null
+      type: text
+      options: []
+      required: false

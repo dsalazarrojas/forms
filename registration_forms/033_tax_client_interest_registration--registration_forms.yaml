@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Client Interest Registration
+    pages:
+    - id: 1
+      name: client_interest
+      label: Client Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: 'Format: name@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tax_services
+      label: Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Tax Return Preparation
+      - Tax Planning
+      - Tax Planning and Preparation
+      - Other (Specify)
+      - None
+      required: false
+    - id: 6
+      name: other_tax_services
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 8
+      name: preferred_contact_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax_services_other
+      label: Other Tax Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: message
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

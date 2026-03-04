@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Finance Dialogue Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: topic_of_interest
+      label: Topic of interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consent_roundtable
+      label: Consent for Roundtable Discussion
+      hint: null
+      type: select_one
+      options:
+      - Roundtable 1
+      - Roundtable 2
+      required: false
+    - id: 6
+      name: consent_webinar
+      label: Consent for Webinar
+      hint: null
+      type: select_one
+      options:
+      - Webinar 1
+      - Webinar 2
+      required: false
+    - id: 7
+      name: consent_expert_discussion
+      label: Consent for Expert Discussion
+      hint: null
+      type: select_one
+      options:
+      - Expert Discussion 1
+      - Expert Discussion 2
+      required: false
+    - id: 8
+      name: roundtable_topic
+      label: Roundtable topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: expert_discussion_topic
+      label: Expert discussion topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

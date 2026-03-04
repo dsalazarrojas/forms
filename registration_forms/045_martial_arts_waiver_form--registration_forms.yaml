@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Martial Arts Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_or_guardian_name
+      label: parent or guardian name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: parent_signature
+      label: parent signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_signature
+      label: participant signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Mother's Brother
+      - Mother's Sister
+      - Father's Brother
+      - Father's Sister
+      required: true
+    - id: 10
+      name: emergency_contact_address
+      label: emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_agreement
+      label: participant agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: waiver
+      label: waiver
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware that the martial arts school is not responsible for any injuries
+        or death that may occur during training or competitions.
+      - I understand that I am participating in martial arts training at my own risk.
+      - I am aware that some of the techniques we may use may cause injury.
+      required: true
+    - id: 13
+      name: waiver_2
+      label: waiver 2
+      hint: null
+      type: select_multiple
+      options:
+      - I am aware that some of the techniques we may use may cause injury.
+      - I am aware that I am participating in martial arts training at my own risk.
+      required: true
+    - id: 14
+      name: medical_condition
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition_2
+      label: medical conditions 2
+      hint: null
+      type: select_multiple
+      options:
+      - High blood pressure
+      - Diabetes
+      - Epilepsy
+      - Seizure disorder
+      - '{''Other'': None}'
+      required: false
+    - id: 16
+      name: medical_information
+      label: medical information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: doctor_signature
+      label: doctor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_info
+      label: doctor information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_certificate
+      label: medical certificate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: insurance
+      label: insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_certificate_2
+      label: medical certificate 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_2
+      label: insurance 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_info
+      label: participant information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_name_2
+      label: participant name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_name_3
+      label: participant name 3
+      hint: null
+      type: text
+      options: []
+      required: false

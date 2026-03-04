@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: story_time_registration
+    pages:
+    - id: 1
+      name: story_time_registration
+      label: story_time_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_name
+      label: group_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendees
+      label: story_time_registrations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: story_time
+      label: story_time
+      hint: null
+      type: time
+      options: []
+      required: false

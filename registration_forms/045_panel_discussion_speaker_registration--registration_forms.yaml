@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: panel_discussion_speaker_registration
+    pages:
+    - id: 1
+      name: speaker_details
+      label: speaker_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: speaker_topics
+      label: speaker_topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: bio_and_photo
+      label: bio and photo
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: speaker contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_details
+      label: event details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_and_upload
+      label: submit and upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_confirmation
+      label: speaker confirmation
+      hint: Please let us know you are coming.
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: speaker_experience
+      label: speaker_experience
+      hint: null
+      type: text
+      options: []
+      required: false

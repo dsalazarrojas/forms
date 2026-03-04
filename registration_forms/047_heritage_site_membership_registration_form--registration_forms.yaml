@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: heritage site membership registration form
+    pages:
+    - id: 1
+      name: membership_details
+      label: Membership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: Please enter contact information
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Full Membership
+      - Student Membership
+      - Patron Membership
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: true
+    - id: 7
+      name: membership_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: membership_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: payment_card_number
+      label: Payment Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exp_month
+      label: Expiration Month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 17
+      name: exp_year
+      label: Expiration Year
+      hint: null
+      type: select_one
+      options:
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      - '2029'
+      - '2030'
+      - '2031'
+      required: false
+    - id: 18
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: payment_card_cvv
+      label: Payment Card CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_confirmation
+      label: Confirm Payment Card
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 23
+      name: status_comments
+      label: Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

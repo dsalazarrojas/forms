@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Attendance Tracker Requisition Form
+    pages:
+    - id: 1
+      name: requisition_information
+      label: -- Requisition Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requisition_date
+      label: Requisition Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requisition_number
+      label: Requisition Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requested_by
+      label: Requested By
+      hint: Name of requester
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requested_by_email
+      label: Requester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: event_information
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of the event or meeting
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date when event occurs
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: Where the event will be held
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Estimated number of participants
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: tracker_requirements
+      label: -- Tracker Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tracker_type
+      label: Type of Tracker Needed
+      hint: What type of tracking system?
+      type: select_one
+      options:
+      - Digital Form
+      - Paper Register
+      - QR Code Scanning
+      - Biometric
+      - RFID
+      - Other
+      required: true
+    - id: 15
+      name: tracking_method
+      label: Tracking Method
+      hint: How will attendance be recorded?
+      type: select_one
+      options:
+      - Self-Check-In
+      - Staff Check-In
+      - Sign-In Sheet
+      - Badge Scan
+      - Digital Log
+      required: true
+    - id: 16
+      name: data_collection_fields
+      label: Data Collection Fields
+      hint: What information to collect?
+      type: select_multiple
+      options:
+      - Name
+      - ID Number
+      - Email
+      - Phone
+      - Organization
+      - Department
+      - Time In/Out
+      - Purpose
+      required: true
+    - id: 17
+      name: reporting_requirements
+      label: Reporting Requirements
+      hint: What reports are needed?
+      type: select_multiple
+      options:
+      - Attendance List
+      - Attendance Summary
+      - Time Analysis
+      - Demographics Report
+      - No Report Needed
+      required: false
+    - id: 18
+      name: system_specifications
+      label: -- System Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: number_of_stations
+      label: Number of Check-In Stations
+      hint: How many devices/stations needed?
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: internet_availability
+      label: Internet Availability
+      hint: Is internet available at event?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited
+      - Unknown
+      required: true
+    - id: 21
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or constraints?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_information
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: department_approval
+      label: Department Approval
+      hint: Is this department approved?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 24
+      name: budget_code
+      label: Budget Code
+      hint: Cost allocation code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information needed?
+      type: text
+      options: []
+      required: false

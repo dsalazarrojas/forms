@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circular Economy Innovation Lab Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Technology
+      - Agriculture
+      - Retail
+      - Government
+      - Nonprofit
+      - Education
+      - Other
+      required: true
+    - id: 7
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 8
+      name: project_name
+      label: Project or Initiative Name
+      hint: What project are you working on
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_description
+      label: Project Description
+      hint: Brief overview of your project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: innovation_stage
+      label: What Stage Is Your Innovation
+      hint: null
+      type: select_one
+      options:
+      - Idea/concept
+      - Prototype
+      - Pilot testing
+      - Early implementation
+      - Scaling up
+      required: true
+    - id: 11
+      name: circular_focus
+      label: Circular Economy Focus Area
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Waste reduction
+      - Recycling
+      - Upcycling
+      - Product lifecycle
+      - Sustainable materials
+      - Sharing economy
+      - Product as service
+      - Regenerative design
+      required: true
+    - id: 12
+      name: lab_track
+      label: Which Lab Track Interest You
+      hint: null
+      type: select_one
+      options:
+      - Innovation Track
+      - Implementation Track
+      - Leadership Track
+      - Research Track
+      required: true
+    - id: 13
+      name: experience_level
+      label: Circular Economy Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: goals
+      label: What Are Your Goals for This Lab
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: challenges
+      label: What Challenges Are You Facing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: collaboration_interest
+      label: Interested in Collaboration Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, working independently
+      required: true
+    - id: 17
+      name: mentorship
+      label: Would You Like Mentorship
+      hint: null
+      type: select_one
+      options:
+      - Yes, as mentee
+      - Yes, as mentor
+      - Both
+      - false
+      required: true
+    - id: 18
+      name: availability
+      label: Available Meeting Times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday mornings
+      - Wednesday afternoons
+      - Friday mornings
+      - Weekend sessions
+      - Flexible
+      required: true
+    - id: 19
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For catering
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Colleague
+      - Conference
+      - Email
+      - Other
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Any Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

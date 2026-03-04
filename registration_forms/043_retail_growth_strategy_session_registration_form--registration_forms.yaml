@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Growth Strategy Session Registration Form
+    pages:
+    - id: 1
+      name: session_info
+      label: Session Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_a_session
+      label: Schedule A Session
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 am
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 1:00 pm
+      - 2:00 pm
+      - 3:00 pm
+      - 4:00 pm
+      - 5:00 pm
+      - 6:00 pm
+      required: true
+    - id: 4
+      name: confirm_session
+      label: Confirm Session Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: additional_questions
+      label: Additional Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

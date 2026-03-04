@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Advisor Course Registration Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Student first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Student last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Student DOB
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: course_selection
+      label: Course Selection
+      hint: Which course
+      type: select_one
+      options:
+      - Beauty Advisor Fundamentals
+      - Advanced Beauty Consulting
+      - Product Knowledge Specialist
+      - Customer Service Excellence
+      - Sales Techniques for Beauty
+      - Complete Beauty Advisor Program
+      required: true
+    - id: 11
+      name: course_format
+      label: Course Format
+      hint: How will you study
+      type: select_one
+      options:
+      - In-Person
+      - Online Live
+      - Self-Paced Online
+      - Hybrid
+      required: true
+    - id: 12
+      name: start_date
+      label: Preferred Start Date
+      hint: When to begin
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: education_level
+      label: Highest Education Level
+      hint: Your education
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Degree
+      required: true
+    - id: 14
+      name: beauty_experience
+      label: Beauty Industry Experience
+      hint: Your experience
+      type: select_one
+      options:
+      - None - Beginner
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - Over 7 years
+      required: true
+    - id: 15
+      name: career_goals
+      label: Career Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Payment Plan
+      - Employer Sponsored
+      required: true
+    - id: 17
+      name: payment_plan
+      label: Payment Plan Needed
+      hint: Do you need a plan
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: financial_aid
+      label: Financial Aid Application
+      hint: Are you applying
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Career Fair
+      - Advertisement
+      - Other
+      required: false
+    - id: 20
+      name: terms_accepted
+      label: Terms and Conditions Accepted
+      hint: Must accept
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech Contest Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: speaker_type
+      label: Speaker Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contest_date
+      label: Contest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: entry_type
+      label: Entry Type
+      hint: null
+      type: select_one
+      options:
+      - Entry 1
+      - Entry 2
+      - Entry 3
+      required: false
+    - id: 11
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: contest_entry_id
+      label: Contest Entry ID
+      hint: null
+      type: number
+      options: []
+      required: false

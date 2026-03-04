@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Education Strategy Roundtable Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Leader'', ''value'': ''Leader''}'
+      - '{''id'': 2, ''label'': ''Teacher'', ''value'': ''Teacher''}'
+      - '{''id'': 3, ''label'': ''Student'', ''value'': ''Student''}'
+      required: true
+    - id: 5
+      name: org_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

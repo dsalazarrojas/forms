@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Teacher Association Membership Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: membership_type_other
+      label: other_membership_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_school_year
+      label: parent_school_year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: relationship_to_parent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_address
+      label: emergency_contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: child_name
+      label: child_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: child_grade
+      label: child_grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: child_school
+      label: child_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: student_birthdate
+      label: student_birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: student_gender
+      label: student_gender
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: student_year
+      label: student_year
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

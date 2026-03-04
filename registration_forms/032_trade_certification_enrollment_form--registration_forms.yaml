@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Certification Enrollment Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_choice
+      label: Select Program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''program1'', ''label'': ''Program 1''}'
+      - '{''id'': 2, ''name'': ''program2'', ''label'': ''Program 2''}'
+      - '{''id'': 3, ''name'': ''program3'', ''label'': ''Program 3''}'
+      required: false
+    - id: 3
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''approved'', ''label'': ''Approved''}'
+      - '{''id'': 3, ''name'': ''rejected'', ''label'': ''Rejected''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trade_provider
+      label: Trade Provider
+      hint: null
+      type: text
+      options: []
+      required: false

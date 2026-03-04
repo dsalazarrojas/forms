@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic New Patient Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: Best phone number for appointments
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for appointment reminders
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Home address for records
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Optional insurance information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_number
+      label: Policy Number
+      hint: Insurance member ID if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Brief description of complaint
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referral_source
+      label: Referral Source
+      hint: How patient heard about clinic
+      type: select_one
+      options:
+      - Physician
+      - Friend or Family
+      - Online Search
+      - Other
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Collaboration Pitch Registration Form
+    pages:
+    - id: 1
+      name: section_header_pitcher
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_organization
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: organization_name
+      label: Organization or Brand Name
+      hint: Your company or brand
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: What your organization does
+      type: select_one
+      options:
+      - Brand
+      - Creator
+      - Agency
+      - Influencer
+      - Media company
+      - Marketing firm
+      - Other
+      required: true
+    - id: 8
+      name: website
+      label: Website or Portfolio URL
+      hint: Link to your online presence
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_pitch
+      label: -- Collaboration Pitch --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: collaboration_title
+      label: Collaboration Title or Concept
+      hint: Name of your pitch
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pitch_description
+      label: Pitch Description
+      hint: Detailed explanation of collaboration idea
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Who this collaboration reaches
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_scope
+      label: -- Collaboration Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: collaboration_type
+      label: Type of Collaboration
+      hint: What kind of partnership
+      type: select_one
+      options:
+      - Content partnership
+      - Sponsored post
+      - Product endorsement
+      - Event collaboration
+      - Long-term partnership
+      - One-time campaign
+      - Co-branded initiative
+      - Other
+      required: true
+    - id: 15
+      name: timeline
+      label: Proposed Timeline
+      hint: When would collaboration happen
+      type: select_one
+      options:
+      - Immediate
+      - 1-2 weeks
+      - 1 month
+      - 2-3 months
+      - Flexible
+      - To be discussed
+      required: true
+    - id: 16
+      name: section_header_impact
+      label: -- Expected Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: audience_reach
+      label: Estimated Audience Reach
+      hint: How many people will see this
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: key_benefits
+      label: Key Benefits of Collaboration
+      hint: Why this matters for both parties
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_header_attachments
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: media_kit_submitted
+      label: Media Kit or Supporting Materials Available
+      hint: Do you have attachments
+      type: select_one
+      options:
+      - Yes, attached
+      - Available upon request
+      - No materials
+      - Sending separately
+      required: false
+    - id: 21
+      name: pitch_submit
+      label: I submit this collaboration pitch
+      hint: Check to submit pitch
+      type: select_one
+      options:
+      - Submit pitch
+      - Save as draft
+      - Cancel
+      required: true

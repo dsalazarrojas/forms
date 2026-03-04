@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Competition Information Collection Form
+    pages:
+    - id: 1
+      name: competition_info
+      label: Sports Competition Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: league_info
+      label: League Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_info
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: competition_type
+      label: Competition Type
+      hint: Select the type of competition
+      type: select_one
+      options:
+      - Sports
+      - Event
+      - Tournament
+      required: false
+    - id: 7
+      name: competition_date
+      label: Competition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: competition_time
+      label: Competition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false

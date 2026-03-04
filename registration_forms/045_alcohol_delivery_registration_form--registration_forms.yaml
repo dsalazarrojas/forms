@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Delivery Registration Form
+    pages:
+    - id: 1
+      name: section_member_profile
+      label: -- Member Profile --
+      hint: Register for our Alcohol Delivery Subscription Service
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_email
+      label: Email Address
+      hint: Your login and notification email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: mobile_phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be of legal drinking age
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_subscription
+      label: -- Subscription Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: plan_tier
+      label: Choose your Membership Tier
+      hint: null
+      type: select_one
+      options:
+      - Basic (Pay-per-delivery)
+      - Premium (Unlimited Free Delivery)
+      - Connoisseur (Includes monthly curated bottle)
+      - Business/Office Plan
+      required: true
+    - id: 8
+      name: beverage_preferences_member
+      label: Preferred Beverage Categories
+      hint: Help us customize your experience
+      type: select_multiple
+      options:
+      - Craft Beer
+      - Fine Wines
+      - Single Malt Scotch
+      - Gin/Vodka
+      - Tequila/Mezcal
+      - Artisanal Cider
+      required: true
+    - id: 9
+      name: frequency_expectation
+      label: Expected Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - On-demand only
+      required: true
+    - id: 10
+      name: section_delivery_rules
+      label: -- Delivery Policies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_delivery_address
+      label: Primary Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: photo_id_type
+      label: ID Type for Verification
+      hint: Which ID will you present?
+      type: select_one
+      options:
+      - State Driver License
+      - Passport
+      - Military ID
+      - Government ID Card
+      required: true
+    - id: 13
+      name: recurring_payment_auth
+      label: I authorize recurring membership charges (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - N/A (Pay-per-delivery)
+      required: true
+    - id: 14
+      name: terms_and_conditions_member
+      label: I agree to the Alcohol Delivery Service Terms and Responsible Service
+        Policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: newsletter_optin
+      label: Send me weekly specials and tasting notes
+      hint: null
+      type: select_one
+      options:
+      - Yes please
+      - No thank you
+      required: false

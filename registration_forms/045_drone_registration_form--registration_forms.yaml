@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''California''}'
+      - '{''id'': 2, ''label'': ''New York''}'
+      - '{''id'': 3, ''label'': ''Texas''}'
+      required: true
+    - id: 6
+      name: zip_code
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

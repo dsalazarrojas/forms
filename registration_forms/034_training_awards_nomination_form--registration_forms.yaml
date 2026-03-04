@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: training_awards_nomination_form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Nomination'', ''value'': ''Nomination''}'
+      - '{''id'': 2, ''label'': ''Nomination Form'', ''value'': ''Nomination Form''}'
+      required: false
+    - id: 2
+      name: nominator
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nominator_organization
+      label: Nominator Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominator_title
+      label: Nominator Title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''President'', ''value'': ''President''}'
+      - '{''id'': 2, ''label'': ''Manager'', ''value'': ''Manager''}'
+      required: false
+    - id: 5
+      name: nominee
+      label: Nominee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: nomination_time
+      label: Nomination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: award_name
+      label: Award Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: award_year
+      label: Award Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_nomination
+      label: Reason for Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: nominator_email
+      label: Nominator E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominator_message
+      label: Nominator Message
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call For Abstract Submissions
+    pages:
+    - id: 1
+      name: submitter_header
+      label: -- Submitter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submitter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: submitter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_institution
+      label: Institution or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submitter_role
+      label: Your Role or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: abstract_details_header
+      label: -- Abstract Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: abstract_title
+      label: Abstract Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: abstract_content
+      label: Abstract Content
+      hint: 250-500 words
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: research_area
+      label: Research Area or Discipline
+      hint: null
+      type: select_one
+      options:
+      - Science
+      - Technology
+      - Engineering
+      - Medicine
+      - Social Sciences
+      - Humanities
+      - Business
+      - Other
+      required: true
+    - id: 12
+      name: abstract_keywords
+      label: Keywords
+      hint: 3-5 keywords separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submission_header
+      label: -- Submission Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submission_type
+      label: Type of Submission
+      hint: null
+      type: select_one
+      options:
+      - Original Research
+      - Literature Review
+      - Case Study
+      - Technical Report
+      - Position Paper
+      - Other
+      required: true
+    - id: 15
+      name: presentation_type
+      label: Preferred Presentation Type
+      hint: null
+      type: select_one
+      options:
+      - Oral Presentation
+      - Poster Presentation
+      - Panel Discussion
+      - Workshop
+      - Any
+      required: true
+    - id: 16
+      name: funding_header
+      label: -- Funding and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: funding_source
+      label: Was This Research Funded?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: funding_details
+      label: Funding Source Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authors_header
+      label: -- Co-Authors and Contributors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: coauthor_list
+      label: List of All Authors
+      hint: Names and affiliations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: corresponding_author
+      label: Corresponding Author Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: confirmation_header
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: original_work
+      label: This is original, unpublished work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: rights_agreement
+      label: I grant rights to publish this abstract
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

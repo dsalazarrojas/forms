@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gender Identification Declaration Form
+    pages:
+    - id: 1
+      name: gender_identification_declaration_form_page
+      label: gender_identification_declaration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: preferred_names
+      label: preferred_names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: birth_certificate
+      label: birth_certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gender_identity
+      label: gender_identity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: other_gender_identity
+      label: other_gender_identity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: declaration
+      label: declaration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false

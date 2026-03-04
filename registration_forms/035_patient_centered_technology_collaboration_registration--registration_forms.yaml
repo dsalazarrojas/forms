@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Centered Technology Collaboration Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_interests
+      label: Participant's Interests
+      hint: null
+      type: select_one
+      options:
+      - Technology Development
+      - Technology Research
+      - Technology Implementation
+      required: true
+    - id: 5
+      name: technology_partnership
+      label: Technology Partnership
+      hint: null
+      type: select_multiple
+      options:
+      - Patient-Centered Technology
+      - Technology Development
+      - Technology Implementation
+      required: true
+    - id: 6
+      name: technology_focus_area
+      label: Technology Focus Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_team
+      label: Healthcare Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: researcher
+      label: Researcher
+      hint: null
+      type: select_one
+      options:
+      - Researcher
+      - Patient Advocate
+      - Healthcare Provider
+      required: true
+    - id: 9
+      name: patient_advocate
+      label: Patient Advocate
+      hint: null
+      type: select_one
+      options:
+      - Patient Advocate
+      - Researcher
+      - Healthcare Provider
+      required: true
+    - id: 10
+      name: technology_partner
+      label: Technology Partner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: partnership_focus_area
+      label: Partnership Focus Area
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Riding Lesson Registration
+    pages:
+    - id: 1
+      name: lesson_signup_form
+      label: Riding Lesson Sign Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rider_details
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rider_details
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rider_details
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: instructor_details
+      label: Instructor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_details
+      label: Trainer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_details
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signup_date
+      label: Signup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: signup_time
+      label: Signup Time
+      hint: null
+      type: time
+      options: []
+      required: false

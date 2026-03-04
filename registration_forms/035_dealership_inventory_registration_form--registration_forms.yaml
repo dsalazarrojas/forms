@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: dealership_inventory_registration_form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: make
+      label: make
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Toyota''}'
+      - '{''value'': ''Ford''}'
+      - '{''value'': ''Chevrolet''}'
+      required: false
+    - id: 3
+      name: model
+      label: model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: year
+      label: year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: trim
+      label: trim
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sedan''}'
+      - '{''value'': ''SUV''}'
+      - '{''value'': ''Truck''}'
+      required: false
+    - id: 7
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Red''}'
+      - '{''value'': ''Blue''}'
+      - '{''value'': ''Green''}'
+      required: false
+    - id: 8
+      name: transmission
+      label: transmission
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Automatic''}'
+      - '{''value'': ''Manual''}'
+      - '{''value'': ''Semi-Automatic''}'
+      required: false
+    - id: 9
+      name: mileage
+      label: mileage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Streaming Subscription Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: Please fill out the user information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Select your subscription plan
+      type: select_one
+      options:
+      - Monthly
+      - Yearly
+      - One-time
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - PayPal
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: subscription_status
+      label: Subscription Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 12
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Failed
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: subscription_plan_id
+      label: Subscription Plan ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_method_id
+      label: Payment Method ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: subscription_id
+      label: Subscription ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: subscription_start_date_time
+      label: Subscription Start Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: subscription_end_date_time
+      label: Subscription End Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: subscription_plan_title
+      label: Subscription Plan Title
+      hint: null
+      type: text
+      options: []
+      required: false

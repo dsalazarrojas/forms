@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_convention_panel_slot_booking_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: room_name
+      label: room_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: panel_description
+      label: panel_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: event_tags
+      label: event_tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: event_capacity
+      label: event_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: room_capacity
+      label: room_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: user_tags
+      label: user_tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

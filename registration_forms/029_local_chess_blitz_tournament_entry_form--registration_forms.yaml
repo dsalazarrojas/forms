@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Chess Blitz Tournament Entry Form
+    pages:
+    - id: 1
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: player_rating
+      label: Player Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: player_section
+      label: Player Section
+      hint: null
+      type: select_one
+      options:
+      - Chess Section
+      - Casual Section
+      - Tournament Section
+      required: false
+    - id: 7
+      name: player_section_hint
+      label: Player Section Hint
+      hint: Enter Chess Section, Casual Section, or Tournament Section
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tournament_section
+      label: Tournament Section
+      hint: null
+      type: select_multiple
+      options:
+      - Section 1
+      - Section 2
+      - Section 3
+      - Section 4
+      - Section 5
+      - Section 6
+      - Section 7
+      - Section 8
+      - Section 9
+      - Section 10
+      required: false
+    - id: 9
+      name: tournament_section_hint
+      label: Tournament Section Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tournament_date
+      label: Tournament Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: tournament_time
+      label: Tournament Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: player_rating_hint
+      label: Player Rating Hint
+      hint: Enter ELO or rating number, for example 2000
+      type: text
+      options: []
+      required: false

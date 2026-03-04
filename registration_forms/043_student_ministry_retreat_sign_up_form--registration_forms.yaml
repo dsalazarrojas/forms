@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Ministry Retreat Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_group
+      label: Student Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

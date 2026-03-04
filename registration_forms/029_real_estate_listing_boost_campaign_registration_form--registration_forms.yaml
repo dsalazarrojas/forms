@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_listing_boost_campaign_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: target_listing_type
+      label: Target listing type
+      hint: null
+      type: select_one
+      options:
+      - Commercial
+      - Residential
+      - Industrial
+      required: true
+    - id: 5
+      name: target_listing_address
+      label: Target listing address
+      hint: Address where the property is located
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_listing_price
+      label: Target listing price
+      hint: Price of the target listing
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: target_listing_city
+      label: Target listing city
+      hint: City of the target listing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_listing_state
+      label: Target listing state
+      hint: State of the target listing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_listing_zip
+      label: Target listing zip
+      hint: Zip of the target listing
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_listing_description
+      label: Target listing description
+      hint: Description of the target listing
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: listing_agreement
+      label: Listing agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 12
+      name: listing_agreement_date
+      label: Listing agreement date
+      hint: Date of listing agreement
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: listing_agreement_time
+      label: Listing agreement time
+      hint: Time of listing agreement
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: listing_incentive
+      label: Listing incentive
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: listing_incentive_type
+      label: Listing incentive type
+      hint: Type of listing incentive
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: listing_incentive_date
+      label: Listing incentive date
+      hint: Date of listing incentive
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: listing_incentive_time
+      label: Listing incentive time
+      hint: Time of listing incentive
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: listing_agreement_terms
+      label: Listing agreement terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: campaign_rules
+      label: Campaign rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participants_agreement
+      label: Participant agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agreement_date
+      label: Agreement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: agreement_time
+      label: Agreement time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: campaign_end_date
+      label: Campaign end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: campaign_end_time
+      label: Campaign end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Humanities Collaboration Registration
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_lead_email
+      label: Project Lead Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_lead_phone
+      label: Project Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: lab_participant
+      label: Lab Participants
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: collaboration_preferences
+      label: Collaboration Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true

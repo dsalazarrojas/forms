@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plan Your Conference Experience
+    pages:
+    - id: 1
+      name: plan_conference_experience
+      label: plan_your_conference_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_schedules
+      label: attendee_schedules
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: sessions
+      label: sessions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''session_1''}'
+      - '{''value'': ''session_2''}'
+      - '{''value'': ''session_3''}'
+      - '{''value'': ''session_4''}'
+      required: true
+    - id: 4
+      name: breakout_sessions
+      label: breakout_sessions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''breakout_1''}'
+      - '{''value'': ''breakout_2''}'
+      - '{''value'': ''breakout_3''}'
+      required: true
+    - id: 5
+      name: workshops
+      label: workshops
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''workshop_1''}'
+      - '{''value'': ''workshop_2''}'
+      - '{''value'': ''workshop_3''}'
+      required: false
+    - id: 6
+      name: on_site_planning
+      label: on_site_planning
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

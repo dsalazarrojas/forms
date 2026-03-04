@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Hazardous Waste Collection Registration
+    pages:
+    - id: 1
+      name: household_hazardous_waste_collection_registration_form
+      label: Household Hazardous Waste Collection Registration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Household Hazardous Waste Collection
+      - Non-Household Hazardous Waste Collection
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: household_hazardous_waste
+      label: Household Hazardous Waste
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: collection_date
+      label: Collection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: collection_time
+      label: Collection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

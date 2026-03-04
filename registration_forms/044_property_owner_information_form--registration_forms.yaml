@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Owner Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rent_or_sale
+      label: Rent or Sale
+      hint: null
+      type: select_one
+      options:
+      - Rent
+      - Sale
+      required: false
+    - id: 9
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Under Renovation
+      - Sold
+      required: false
+    - id: 15
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: rent_price
+      label: Rent Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: property_inspector
+      label: Property Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_inspector_phone
+      label: Property Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_inspector_email
+      label: Property Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: property_manager_notes
+      label: Property Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: property_agent
+      label: Property Agent
+      hint: null
+      type: text
+      options: []
+      required: false

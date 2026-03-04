@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Registration Payment Form
+    pages:
+    - id: 1
+      name: payment_date
+      label: Payment Date
+      hint: Date of payment submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: registration_type
+      label: Registration Type
+      hint: What type of registration is this?
+      type: select_one
+      options:
+      - New enrollment
+      - Returning enrollment
+      - Sibling enrollment
+      - Transfer from another program
+      required: true
+    - id: 15
+      name: program_selection
+      label: Program Selection
+      hint: Which program are you enrolling in?
+      type: select_one
+      options:
+      - Full-day program
+      - Half-day morning
+      - Half-day afternoon
+      - Extended care
+      - Weekend program
+      - Summer program
+      required: true
+    - id: 16
+      name: schedule_selection
+      label: Schedule Selection
+      hint: Which schedule do you need?
+      type: select_one
+      options:
+      - 5 days per week
+      - 3 days per week
+      - 2 days per week
+      - Drop-in basis
+      required: true
+    - id: 17
+      name: start_date
+      label: Start Date
+      hint: Desired start date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: registration_fee
+      label: Registration Fee
+      hint: Registration fee amount
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: tuition_amount
+      label: Tuition Amount
+      hint: Monthly tuition amount
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: additional_fees
+      label: Additional Fees
+      hint: Any additional fees (materials, activities, etc.)
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Total amount due at registration
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: subsidy_or_assistance
+      label: Subsidy or Assistance
+      hint: Are you receiving childcare subsidy or assistance?
+      type: select_one
+      options:
+      - Yes, full coverage
+      - Yes, partial coverage
+      - false
+      - Applied, pending approval
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - Bank transfer
+      - Payment plan
+      required: true
+    - id: 24
+      name: credit_card_type
+      label: Credit Card Type
+      hint: Type of credit card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not applicable
+      required: false
+    - id: 25
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name as it appears on card
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: card_number
+      label: Card Number
+      hint: Credit or debit card number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: expiration_date
+      label: Expiration Date
+      hint: Card expiration date
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: cvv_code
+      label: CVV Code
+      hint: 3-digit security code
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: billing_address
+      label: Billing Address
+      hint: Billing address for card
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: payment_plan_requested
+      label: Payment Plan Requested
+      hint: Are you requesting a payment plan?
+      type: select_one
+      options:
+      - Yes, monthly payments
+      - Yes, bi-weekly payments
+      - No, paying in full
+      required: true
+    - id: 31
+      name: auto_pay_authorization
+      label: Auto-Pay Authorization
+      hint: Do you authorize automatic recurring payments?
+      type: select_one
+      options:
+      - Yes, I authorize auto-pay
+      - No, will pay manually
+      required: true
+    - id: 32
+      name: refund_policy_acknowledgement
+      label: Refund Policy Acknowledgement
+      hint: Have you read and understood the refund policy?
+      type: select_one
+      options:
+      - Yes, I have read and understand
+      - No, please provide information
+      required: true
+    - id: 33
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Do you agree to the terms and conditions?
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 34
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

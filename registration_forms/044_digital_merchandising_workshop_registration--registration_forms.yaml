@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_merchandising_workshop_registration
+    pages:
+    - id: 1
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''In-house''}'
+      - '{2: ''Public''}'
+      - '{3: ''Hybrid''}'
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: 1}'
+      - '{2: 2}'
+      - '{3: 3}'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

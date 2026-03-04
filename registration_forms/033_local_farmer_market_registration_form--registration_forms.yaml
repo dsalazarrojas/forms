@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_farmer_market_registration_form
+    pages:
+    - id: 1
+      name: market_name
+      label: Market Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: market_type
+      label: Market Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''7-1'', ''name'': ''market_type_7-1'', ''label'': ''Farmers Market'',
+        ''value'': ''farmers_market''}'
+      - '{''id'': ''7-2'', ''name'': ''market_type_7-2'', ''label'': ''Flea Market'',
+        ''value'': ''flea_market''}'
+      - '{''id'': ''7-3'', ''name'': ''market_type_7-3'', ''label'': ''Roadside Market'',
+        ''value'': ''road_side_market''}'
+      required: false
+    - id: 8
+      name: vendor_description
+      label: Vendor Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vendor_image
+      label: Vendor Image
+      hint: null
+      type: note
+      options: []
+      required: false

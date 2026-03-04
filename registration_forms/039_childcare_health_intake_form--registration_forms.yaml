@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Health Intake Form
+    pages:
+    - id: 1
+      name: intake_date
+      label: Intake Date
+      hint: Date of health intake
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 7
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: primary_care_physician_name
+      label: Primary Care Physician Name
+      hint: Name of child's doctor
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: primary_care_physician_phone
+      label: Primary Care Physician Phone
+      hint: Phone number for doctor's office
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: immunization_status
+      label: Immunization Status
+      hint: Is the child up to date on immunizations?
+      type: select_one
+      options:
+      - Yes, fully up to date
+      - Partially up to date
+      - No, behind on immunizations
+      - Medical exemption
+      - Religious exemption
+      - Personal exemption
+      required: true
+    - id: 16
+      name: immunization_record_provided
+      label: Immunization Record Provided
+      hint: Have you provided a copy of immunization records?
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will provide
+      - No, not yet
+      - Not applicable
+      required: true
+    - id: 17
+      name: chronic_medical_conditions
+      label: Chronic Medical Conditions
+      hint: List any chronic medical conditions
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: allergies
+      label: Allergies
+      hint: List all known allergies (food, medication, environmental, insect)
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: allergy_severity
+      label: Allergy Severity
+      hint: How severe are the allergic reactions?
+      type: select_one
+      options:
+      - Life-threatening (anaphylaxis)
+      - Severe
+      - Moderate
+      - Mild
+      - Not applicable
+      required: true
+    - id: 20
+      name: epipen_required
+      label: EpiPen Required
+      hint: Does the child require an EpiPen?
+      type: select_one
+      options:
+      - Yes, must be kept on site
+      - Yes, but not kept on site
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: List all current medications with dosages and schedules
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_authorization
+      label: Medication Authorization
+      hint: Do you authorize staff to administer medications?
+      type: select_one
+      options:
+      - Yes, all listed medications
+      - Yes, specific medications only
+      - No, I will administer
+      - Not applicable
+      required: true
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: List any dietary restrictions or special diets
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: feeding_instructions
+      label: Feeding Instructions
+      hint: Any special feeding instructions?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sleep_requirements
+      label: Sleep Requirements
+      hint: Any special sleep requirements or nap schedules?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: developmental_concerns
+      label: Developmental Concerns
+      hint: Any developmental concerns or delays?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: behavioral_concerns
+      label: Behavioral Concerns
+      hint: Any behavioral concerns staff should know about?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: recent_hospitalizations
+      label: Recent Hospitalizations
+      hint: Has the child been hospitalized in the past year?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 29
+      name: hospitalization_details
+      label: Hospitalization Details
+      hint: If yes, please provide details
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_health_information
+      label: Additional Health Information
+      hint: Any other health information staff should know
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

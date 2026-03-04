@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: workshop-participation-questionnaire
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: This section is required.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_participation
+      label: workshop-participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: workshop_expectation
+      label: workshop-expectation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_participation_yes_no
+      label: workshop-participation-yes-no
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: workshop_expectation_yes_no
+      label: workshop-expectation-yes-no
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: workshop_participation_level
+      label: workshop-participation-level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: workshop_expectation_level
+      label: workshop-expectation-level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: workshop_satisfaction
+      label: workshop-satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: workshop_future_participation
+      label: workshop-future-participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

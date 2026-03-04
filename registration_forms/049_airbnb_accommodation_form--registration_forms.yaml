@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Accommodation Form
+    pages:
+    - id: 1
+      name: guest_details_header
+      label: -- Guest Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Primary Guest Name
+      hint: Person who booked
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Mobile Phone
+      hint: For contact during stay
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: stay_details_header
+      label: -- Stay Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check-Out Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: arrival_time
+      label: Estimated Arrival Time
+      hint: So we can prepare
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: num_adults
+      label: Number of Adults
+      hint: 18+
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: num_children
+      label: Number of Children
+      hint: Under 18
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: Crib, Extra Towels, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pet_info
+      label: Pet Information
+      hint: Breed/Size (If pets allowed)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: id_upload_note
+      label: ID Verification
+      hint: Please send a photo of ID to host via app
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: house_rules
+      label: House Rules Agreement
+      hint: I agree to no parties and no smoking
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

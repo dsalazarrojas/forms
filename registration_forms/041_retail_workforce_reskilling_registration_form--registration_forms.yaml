@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Workforce Reskilling Registration Form
+    pages:
+    - id: 1
+      name: reskilling_programs
+      label: Choose reskilling programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: employee_name
+      label: enter_employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: availability
+      label: availability
+      hint: Enter your availability
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_training_time
+      label: preferred_training_time
+      hint: Choose your preferred training time
+      type: select_one
+      options:
+      - Training Time 1
+      - Training Time 2
+      - Training Time 3
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibitor_registration_form
+    pages:
+    - id: 1
+      name: vendor_space
+      label: Vendor Space
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: additional_tables
+      label: Additional Tables
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: show_catalog
+      label: Show Catalog
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: advertising_and_sponsorship
+      label: Advertising and Sponsorship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tables_size
+      label: Tables Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_other
+      label: Payment Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

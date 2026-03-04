@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Conference Registration Form
+    pages:
+    - id: 1
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: conference_start_date
+      label: Conference Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: conference_end_date
+      label: Conference End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: conference_location
+      label: Conference Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: conference_description
+      label: Conference Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: conference_capacity
+      label: Conference Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: conference_price
+      label: Conference Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: conference_early_bird
+      label: Early Bird Registration
+      hint: null
+      type: select_one
+      options:
+      - Early Bird
+      - Regular
+      - Late
+      required: true
+    - id: 11
+      name: conference_registration_method
+      label: Registration Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In Person
+      required: true
+    - id: 12
+      name: conference_registration_note
+      label: Registration Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: conference_note
+      label: Conference Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: conference_price_note
+      label: Conference Price Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registration_note
+      label: Registration Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: conference_early_bird_note
+      label: Early Bird Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: conference_registration_method_note
+      label: Registration Method Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: conference_start_time
+      label: Conference Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: conference_end_time
+      label: Conference End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: conference_duration
+      label: Conference Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: conference_language
+      label: Conference Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: conference_level
+      label: Conference Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: conference_status
+      label: Conference Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 26
+      name: conference_status_note
+      label: Conference Status Note
+      hint: null
+      type: text
+      options: []
+      required: false

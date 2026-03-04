@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Boomers Meeting Registration
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For meeting updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birth_year
+      label: Birth Year
+      hint: To verify baby boomer status
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: section_meeting_details
+      label: -- Meeting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: meeting_date
+      label: Meeting Date
+      hint: Which meeting are you attending?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: meeting_time
+      label: Meeting Time
+      hint: When does it start?
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: meeting_location
+      label: Meeting Location
+      hint: Venue or address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attendance_type
+      label: Type of Attendance
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid option
+      required: true
+    - id: 12
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: bringing_guests
+      label: Will You Be Bringing Guests?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: number_of_guests
+      label: Number of Guests
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: guest_names
+      label: Guest Names
+      hint: If bringing guests, list their names
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Include all attendees
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: topics_interested
+      label: Topics You Are Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Health and Wellness
+      - Travel
+      - Technology
+      - Financial Planning
+      - Hobbies
+      - Social Activities
+      - Volunteer Opportunities
+      - Other
+      required: false
+    - id: 20
+      name: prior_meetings
+      label: Have You Attended Previous Meetings?
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - No, this is my first
+      required: false
+    - id: 21
+      name: volunteer_interest
+      label: Interested in Volunteering?
+      hint: Help organize events?
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe
+      - false
+      required: false
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

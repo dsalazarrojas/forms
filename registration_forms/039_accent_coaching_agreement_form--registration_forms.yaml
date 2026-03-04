@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accent Coaching Agreement Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Accent Coaching Agreement Form --
+      hint: This agreement establishes expectations and responsibilities between the
+        accent coach and the client.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coach_name
+      label: Accent coach name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: coaching_goals
+      label: What are your primary goals for accent coaching
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce accent for professional communication
+      - Improve pronunciation clarity
+      - Prepare for auditions or acting roles
+      - Enhance public speaking skills
+      - Learn a specific regional accent
+      - General communication improvement
+      required: true
+    - id: 8
+      name: native_language
+      label: Native language or first language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_accent
+      label: Target accent or dialect
+      hint: e.g. General American, Received Pronunciation, Neutral English
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: session_frequency
+      label: Preferred session frequency
+      hint: null
+      type: select_one
+      options:
+      - Once per week
+      - Twice per week
+      - Three times per week
+      - Bi-weekly
+      - As needed
+      required: true
+    - id: 11
+      name: session_duration
+      label: Preferred session duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 12
+      name: session_format
+      label: Preferred session format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online (video call)
+      - Hybrid
+      required: true
+    - id: 13
+      name: start_date
+      label: Desired start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: payment_terms
+      label: Payment arrangement
+      hint: null
+      type: select_one
+      options:
+      - Per session
+      - Monthly package
+      - Full program upfront
+      required: true
+    - id: 15
+      name: cancellation_policy
+      label: I understand the cancellation policy - sessions must be cancelled at
+        least 24 hours in advance to avoid being charged
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand and agree
+      - Other
+      required: true
+    - id: 16
+      name: recording_consent
+      label: I consent to sessions being recorded for review and progress tracking
+        purposes
+      hint: null
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 17
+      name: agreement_acknowledgment
+      label: I agree to the terms and conditions outlined in this coaching agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true
+    - id: 18
+      name: agreement_date
+      label: Date of agreement
+      hint: null
+      type: date
+      options: []
+      required: true

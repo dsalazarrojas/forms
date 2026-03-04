@@ -1,0 +1,69 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Benchmarking Hub Registration Form
+    pages:
+      - id: 1
+        name: section_organization_details
+        label: -- Organization Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: organization_name
+        label: Organization name
+        hint: Organization registering for benchmarking
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: point_of_contact
+        label: Point of contact
+        hint: Name of contact person for benchmarking
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: Email for program communications
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: industry_sector
+        label: Industry sector
+        hint: Construction sector or specialization
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: firm_size_range
+        label: Firm size range
+        hint: Size of firm by employees
+        type: select_one
+        options:
+          - 1-10
+          - 11-50
+          - 51-200
+          - 200+
+        required: false
+      - id: 7
+        name: benchmarking_goals
+        label: Benchmarking goals
+        hint: What your organization hopes to achieve
+        type: text
+        options: []
+        required: false

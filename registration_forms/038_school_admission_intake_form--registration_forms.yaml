@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Admission Intake Form
+    pages:
+    - id: 1
+      name: student_information
+      label: student information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_contact
+      label: guardian contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_relationship
+      label: guardian relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Guardian
+      required: true
+    - id: 4
+      name: student_documents
+      label: student documents
+      hint: null
+      type: select_multiple
+      options:
+      - ID1
+      - ID2
+      - ID3
+      required: true
+    - id: 5
+      name: student_educational_background
+      label: student educational background
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      - Government
+      required: false
+    - id: 6
+      name: student_employment_status
+      label: student employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Full-time
+      required: true
+    - id: 7
+      name: student_income_source
+      label: student income source
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Investment
+      - Other
+      required: true
+    - id: 8
+      name: student_family_income
+      label: student family income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_family_members
+      label: student family members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: guardian_employment_status
+      label: guardian employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Full-time
+      required: false
+    - id: 11
+      name: guardian_income_source
+      label: guardian income source
+      hint: null
+      type: select_multiple
+      options:
+      - Salary
+      - Investment
+      - Other
+      required: false
+    - id: 12
+      name: guardian_family_income
+      label: guardian family income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: guardian_family_members
+      label: guardian family members
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: student_additional_details
+      label: student additional details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guardian_additional_details
+      label: guardian additional details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: guardian_additional_information
+      label: guardian additional information
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: student_additional_information
+      label: student additional information
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: student_address
+      label: student address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: guardian_address
+      label: guardian address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: guardian_phone
+      label: guardian phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: guardian_email
+      label: guardian email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: student_digital_signature
+      label: student digital signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guardian_digital_signature
+      label: guardian digital signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Networking Event Booking Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name as it should appear
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_selection
+      label: Select Event
+      hint: Which event are you attending
+      type: select_one
+      options:
+      - Monthly mixer - January
+      - Monthly mixer - February
+      - Monthly mixer - March
+      - Quarterly summit
+      - Annual conference
+      - Industry roundtable
+      - Speed networking
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of selected event
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: Total attendees
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: additional_attendees
+      label: Additional Attendee Names
+      hint: Names of other attendees
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ticket_type
+      label: Ticket Type
+      hint: Type of admission
+      type: select_one
+      options:
+      - General admission
+      - VIP
+      - Early bird
+      - Group rate
+      - Member rate
+      - Non-member
+      required: true
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Invoice
+      - Check
+      - Bank transfer
+      required: true
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any food allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: networking_preferences
+      label: Networking Preferences
+      hint: What type of connections interest you
+      type: select_multiple
+      options:
+      - Potential clients
+      - Potential partners
+      - Industry peers
+      - Mentors
+      - Vendors
+      - Investors
+      - No preference
+      required: true
+    - id: 14
+      name: elevator_pitch
+      label: Elevator Pitch
+      hint: Brief description of your business
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: business_cards
+      label: Business Card Availability
+      hint: Will you bring business cards
+      type: select_one
+      options:
+      - Yes - plenty
+      - Yes - limited
+      - No - digital only
+      required: false
+    - id: 16
+      name: session_preferences
+      label: Session Preferences
+      hint: Which sessions interest you
+      type: select_multiple
+      options:
+      - Keynote presentations
+      - Breakout sessions
+      - Panel discussions
+      - Workshops
+      - Networking breaks
+      - All sessions
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: referral_interest
+      label: Open to Receiving Referrals
+      hint: Are you open to business referrals
+      type: select_one
+      options:
+      - Yes - actively seeking
+      - Yes - open to opportunities
+      - No - not at this time
+      required: false
+    - id: 19
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer at events
+      type: select_one
+      options:
+      - Yes - definitely
+      - Maybe - depends
+      - No - not interested
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Source of information
+      type: select_one
+      options:
+      - Email
+      - Social media
+      - Website
+      - Colleague
+      - Previous event
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Speaking Engagement Check Out Form
+    pages:
+    - id: 1
+      name: public_speaking_engagement_check_out_form
+      label: speaker_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_info
+      label: speaker_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: speaker_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: speaker_company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: presentation_topic
+      label: presentation_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: presentation_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: presentation_duetime
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: speaker_contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speaker_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: speaker_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: speaker_files
+      label: files
+      hint: null
+      type: select_multiple
+      options:
+      - Audio File
+      - Video File
+      - Presentation File
+      required: true
+    - id: 13
+      name: speaker_av_requirements
+      label: av_requirements
+      hint: null
+      type: select_one
+      options:
+      - Screen
+      - Stage
+      - Microphone
+      - Projector
+      required: true
+    - id: 14
+      name: speaker_sponsor
+      label: sponsor
+      hint: null
+      type: select_one
+      options:
+      - No Sponsor
+      - Sponsored by Self
+      - Sponsored by Someone Else
+      required: true
+    - id: 15
+      name: speaker_additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

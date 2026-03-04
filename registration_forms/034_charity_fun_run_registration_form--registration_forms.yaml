@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fun Run Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age category
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: For results
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: race_distance
+      label: Race Distance
+      hint: Choose your race
+      type: select_one
+      options:
+      - 5K run
+      - 5K walk
+      - 10K run
+      - Half marathon
+      - Kids fun run
+      required: true
+    - id: 12
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: Race shirt
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 13
+      name: team_name
+      label: Team Name
+      hint: If running with team
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fundraising_goal
+      label: Fundraising Goal
+      hint: Target amount
+      type: select_one
+      options:
+      - Under $100
+      - $100 to $500
+      - $501 to $1000
+      - $1001 to $2500
+      - Over $2500
+      required: false
+    - id: 15
+      name: registration_fee
+      label: Registration Fee
+      hint: Payment amount
+      type: select_one
+      options:
+      - $25 - Early bird
+      - $35 - Regular
+      - $45 - Late registration
+      - Free - Youth under 12
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Check
+      required: true
+    - id: 17
+      name: donation_amount
+      label: Additional Donation
+      hint: Support the cause
+      type: select_one
+      options:
+      - No donation
+      - $10
+      - $25
+      - $50
+      - $100
+      - Other amount
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_info
+      label: Medical Information
+      hint: Conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: waiver_agreement
+      label: Do you agree to the waiver
+      hint: Liability release
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: Marketing source
+      type: select_one
+      options:
+      - Social media
+      - Website
+      - Friend or family
+      - Email
+      - Poster or flyer
+      - Other
+      required: false

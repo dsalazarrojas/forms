@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_streaming_service_license_form
+    pages:
+    - id: 1
+      name: music_streaming_service_license_form
+      label: music_streaming_service_license_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: license_type
+      label: license_type
+      hint: null
+      type: select_one
+      options:
+      - license_type1
+      - license_type2
+      - license_type3
+      required: false
+    - id: 3
+      name: license_term
+      label: license_term
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: territory
+      label: territory
+      hint: null
+      type: select_multiple
+      options:
+      - territory1
+      - territory2
+      - territory3
+      - territory4
+      - territory5
+      - territory6
+      - territory7
+      - territory8
+      required: false
+    - id: 5
+      name: territory_list
+      label: territory_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: territory_description
+      label: territory_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: license_start_date
+      label: license_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: license_end_date
+      label: license_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: license_start_time
+      label: license_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: license_end_time
+      label: license_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: artist_name
+      label: artist_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artist_image
+      label: artist_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: music_files
+      label: music_files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: music_file_urls
+      label: music_file_urls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: streaming_platforms
+      label: streaming_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - streaming_platform1
+      - streaming_platform2
+      - streaming_platform3
+      - streaming_platform4
+      required: false
+    - id: 16
+      name: streaming_platform_list
+      label: streaming_platform_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: streaming_platform_description
+      label: streaming_platform_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: streaming_start_date
+      label: streaming_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: streaming_end_date
+      label: streaming_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: streaming_start_time
+      label: streaming_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: streaming_end_time
+      label: streaming_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: artist_manager
+      label: artist_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_image
+      label: manager_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_description
+      label: manager_description
+      hint: null
+      type: text
+      options: []
+      required: false

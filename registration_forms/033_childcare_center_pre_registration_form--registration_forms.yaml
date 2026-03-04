@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Center Pre-Registration Form
+    pages:
+    - id: 1
+      name: pre_registration_date
+      label: Pre-Registration Date
+      hint: Date of pre-registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_nickname
+      label: Child Nickname
+      hint: Preferred name or nickname
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_age_at_enrollment
+      label: Child Age at Enrollment
+      hint: How old will the child be when starting?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 8
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: desired_start_date
+      label: Desired Start Date
+      hint: When would you like to start care?
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: care_schedule_needed
+      label: Care Schedule Needed
+      hint: What schedule do you need?
+      type: select_one
+      options:
+      - Full-time (5 days per week)
+      - Part-time (3 days per week)
+      - Part-time (2 days per week)
+      - Drop-in care
+      - Extended hours
+      - Weekend care
+      required: true
+    - id: 18
+      name: preferred_room_or_age_group
+      label: Preferred Room or Age Group
+      hint: Which room or age group is preferred?
+      type: select_one
+      options:
+      - Infant room (0-12 months)
+      - Toddler room (1-2 years)
+      - Preschool room (3-4 years)
+      - Pre-K room (4-5 years)
+      - School-age program (5+ years)
+      - No preference
+      required: true
+    - id: 19
+      name: siblings_enrolled
+      label: Siblings Enrolled or Enrolling
+      hint: Do you have other children enrolled or enrolling?
+      type: select_one
+      options:
+      - Yes, currently enrolled
+      - Yes, also enrolling
+      - No siblings
+      required: true
+    - id: 20
+      name: sibling_names
+      label: Sibling Names
+      hint: List names of siblings
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: how_did_you_hear_about_us
+      label: How Did You Hear About Us
+      hint: How did you learn about our childcare center?
+      type: select_one
+      options:
+      - Friend or family referral
+      - Online search
+      - Social media
+      - Community event
+      - Drive by
+      - Previous client
+      - Other
+      required: true
+    - id: 22
+      name: childcare_subsidy_needed
+      label: Childcare Subsidy Needed
+      hint: Will you be applying for childcare subsidy or assistance?
+      type: select_one
+      options:
+      - Yes, currently receiving
+      - Yes, plan to apply
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: special_needs_or_accommodations
+      label: Special Needs or Accommodations
+      hint: Does your child require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions_or_allergies
+      label: Medical Conditions or Allergies
+      hint: List any medical conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: primary_language_spoken
+      label: Primary Language Spoken at Home
+      hint: What language is primarily spoken at home?
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Arabic
+      - Vietnamese
+      - Other
+      required: true
+    - id: 26
+      name: tour_requested
+      label: Tour Requested
+      hint: Would you like to schedule a tour?
+      type: select_one
+      options:
+      - Yes, please contact me
+      - Yes, I have a date in mind
+      - No, already toured
+      - No, not needed
+      required: true
+    - id: 27
+      name: tour_date_preference
+      label: Preferred Tour Date
+      hint: When would you like to tour?
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: additional_questions_or_comments
+      label: Additional Questions or Comments
+      hint: Any additional questions or comments
+      type: text
+      options: []
+      required: false

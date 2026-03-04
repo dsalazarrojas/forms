@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Employee Orientation Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: store_location
+      label: Store Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: store_manager
+      label: Store Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: schedule_type
+      label: Schedule Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email_verify
+      label: Email Verify
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      required: true
+    - id: 13
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false

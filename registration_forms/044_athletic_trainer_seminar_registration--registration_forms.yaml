@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Trainer Seminar Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: professional_title
+      label: Professional Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or Institution
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: certification_level
+      label: Certification Level
+      hint: Your athletic training certification
+      type: select_one
+      options:
+      - Certified Athletic Trainer (ATC)
+      - Student Athletic Trainer
+      - Physical Therapist
+      - Coach
+      - Other Healthcare Professional
+      - Other
+      required: true
+    - id: 11
+      name: certification_number
+      label: Certification Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: years_experience
+      label: Years of Experience
+      hint: In athletic training
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: seminar_name
+      label: Seminar Name
+      hint: Which seminar are you attending
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: seminar_date
+      label: Seminar Date
+      hint: Date of seminar
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: seminar_location
+      label: Seminar Location
+      hint: Where is the seminar
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: session_selection
+      label: Session Selection
+      hint: Select preferred sessions
+      type: select_multiple
+      options:
+      - Injury Prevention Strategies
+      - Rehabilitation Techniques
+      - Emergency Care Procedures
+      - Sports Nutrition
+      - Mental Health in Athletics
+      - Concussion Management
+      - Return to Play Protocols
+      - New Technology in Athletic Training
+      - Legal and Ethical Issues
+      - Performance Enhancement
+      required: true
+    - id: 17
+      name: continuing_education_credits
+      label: Continuing Education Credits Needed
+      hint: Do you need CEU credits
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For meal planning
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: meal_preference
+      label: Meal Preference
+      hint: For catering purposes
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      required: false
+    - id: 21
+      name: registration_type
+      label: Registration Type
+      hint: Type of registration
+      type: select_one
+      options:
+      - Early Bird
+      - Regular
+      - Late Registration
+      - Student Rate
+      - Group Rate
+      required: true
+    - id: 22
+      name: registration_fee
+      label: Registration Fee
+      hint: Fee amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: ceu_fee
+      label: CEU Processing Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_amount
+      label: Total Amount
+      hint: Total in USD
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Purchase Order
+      - Organization Payment
+      required: true
+    - id: 26
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: accommodation_needed
+      label: Hotel Accommodation Needed
+      hint: Do you need hotel recommendations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: transportation_needed
+      label: Transportation Information Needed
+      hint: Do you need transportation info
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: how_heard
+      label: How Did You Hear About This Seminar
+      hint: Source of referral
+      type: select_one
+      options:
+      - Professional Organization
+      - Colleague
+      - Email Newsletter
+      - Social Media
+      - Website
+      - Previous Attendee
+      - Other
+      required: true
+    - id: 30
+      name: learning_objectives
+      label: What Do You Hope to Learn
+      hint: Your learning goals
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to the terms and conditions
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 33
+      name: signature
+      label: Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

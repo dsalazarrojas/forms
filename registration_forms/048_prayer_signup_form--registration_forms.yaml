@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prayer Signup Form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - Prayer
+      - Gathering
+      - Service
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: prayer_request
+      label: Prayer Request
+      hint: null
+      type: text
+      options: []
+      required: false

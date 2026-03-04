@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Attendance Form
+    pages:
+    - id: 1
+      name: section_visitor
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_attendance
+      label: -- Attendance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: exhibition_name
+      label: Exhibition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: exhibition_date
+      label: Exhibition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: visit_time
+      label: Planned Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: party_size
+      label: Party Size - Number of Visitors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_participation
+      label: -- Event Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: opening_reception
+      label: Attending Opening Reception
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 12
+      name: guided_tour
+      label: Interested in Guided Tour
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 13
+      name: artist_talk
+      label: Interested in Artist Talk or Panel Discussion
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 14
+      name: workshop
+      label: Interested in Workshop or Demonstration
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: section_preferences
+      label: -- Preferences and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility or Mobility Needs
+      hint: Wheelchair access, seating, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: If refreshments will be served
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_interests
+      label: -- Art Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: art_interests
+      label: Types of Art Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital art
+      - Installation art
+      - Mixed media
+      - Performance art
+      required: false
+    - id: 20
+      name: section_communication
+      label: -- Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - No contact
+      required: true
+    - id: 22
+      name: newsletter
+      label: Subscribe to Newsletter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

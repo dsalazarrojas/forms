@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fantasy Sports Player Selection
+    pages:
+    - id: 1
+      name: player_selection_1
+      label: fantasy_league_choices
+      hint: null
+      type: select_multiple
+      options:
+      - Fantasy Team A
+      - Fantasy Team B
+      - Fantasy Team C
+      required: false
+    - id: 2
+      name: players_chosen_1
+      label: selected_players
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: player_selection_2
+      label: selected_players_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: player_selection_3
+      label: player_selection_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

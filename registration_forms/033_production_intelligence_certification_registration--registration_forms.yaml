@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Intelligence Certification Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: certification_level
+      label: Certification Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      required: true
+    - id: 6
+      name: reason_for_certification
+      label: Reason For Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false

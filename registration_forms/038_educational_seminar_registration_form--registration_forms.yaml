@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_seminar_registration_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Select Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''credit_card''}'
+      - '{''value'': ''bank_transfer''}'
+      - '{''value'': ''check''}'
+      required: false
+    - id: 4
+      name: credit_card_type
+      label: Credit Card Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''visa''}'
+      - '{''value'': ''mastercard''}'
+      - '{''value'': ''amex''}'
+      required: false
+    - id: 5
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''mr''}'
+      - '{''value'': ''mrs''}'
+      - '{''value'': ''dr''}'
+      - '{''value'': ''miss''}'
+      - '{''value'': ''ms''}'
+      required: false
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: participant_message
+      label: Participant Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_occupation
+      label: Participant Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male''}'
+      - '{''value'': ''female''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 20
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: participant_english
+      label: Participant English
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 22
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_state
+      label: Participant State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_zip
+      label: Participant Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: false

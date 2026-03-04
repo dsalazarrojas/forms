@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Tourism Innovation Summit Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_interests
+      label: Session Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

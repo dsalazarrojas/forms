@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Endangered Species Registration Form
+    pages:
+    - id: 1
+      name: conservation_status
+      label: Conservation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 2
+      name: species_name
+      label: species name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: species_description
+      label: species description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: species_image
+      label: species image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: species_category
+      label: species category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: conservation_action_plan
+      label: conservation action plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: species_habitat
+      label: species habitat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: species_population
+      label: species population
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: species_diet
+      label: species diet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: species_predators
+      label: species predators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: species_humans
+      label: species humans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: conservation_society
+      label: conservation society
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: conservation_organization
+      label: conservation organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: conservation_address
+      label: conservation address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: conservation_notes
+      label: conservation notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: species_location
+      label: species location
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: species_longitude
+      label: species longitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: species_latitude
+      label: species latitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: species_elevation
+      label: species elevation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: species_longitude_alt
+      label: species longitude alt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: species_latitude_alt
+      label: species latitude alt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: conservation_status_2
+      label: conservation status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: species_name_2
+      label: species name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: species_image_2
+      label: species image 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: species_category_2
+      label: species category 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

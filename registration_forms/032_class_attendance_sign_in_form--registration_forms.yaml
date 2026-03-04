@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Attendance Sign In Form
+    pages:
+      - id: 1
+        name: class_name
+        label: Class or Course Name
+        hint: e.g. Biology 201
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: teacher_name
+        label: Instructor Name
+        hint: Teacher or professor name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: class_date
+        label: Class Date
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: class_time
+        label: Class Start Time
+        hint: Scheduled start time
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: room_number
+        label: Room Number or Location
+        hint: Where class is held
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: student_name
+        label: Student Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: student_id
+        label: Student ID Number
+        hint: University or school ID
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: email_address
+        label: Student Email
+        hint: School email address
+        type: email
+        options: []
+        required: true
+      - id: 9
+        name: sign_in_time
+        label: Sign-In Time
+        hint: Time of arrival
+        type: time
+        options: []
+        required: true
+      - id: 10
+        name: attendance_type
+        label: Attendance Type
+        hint: Select your status
+        type: select_one
+        options:
+          - On time
+          - Late arrival
+          - Early departure
+        required: true
+      - id: 11
+        name: late_reason
+        label: Reason for Late Arrival
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: departure_time
+        label: Departure Time
+        hint: If leaving early
+        type: time
+        options: []
+        required: false
+      - id: 13
+        name: early_departure_reason
+        label: Reason for Early Departure
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: participation_confirmation
+        label: Did You Participate in Class Activities
+        hint: Confirm your participation
+        type: select_one
+        options:
+          - Yes, fully participated
+          - Yes, partially participated
+          - No, did not participate
+        required: false
+      - id: 15
+        name: assignment_submission
+        label: Are You Submitting an Assignment Today
+        hint: Select if applicable
+        type: select_one
+        options:
+          - Yes, submitting now
+          - Already submitted
+          - No assignment due
+        required: false
+      - id: 16
+        name: questions_for_teacher
+        label: Do You Have Questions for the Instructor
+        hint: Any questions or concerns
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: understanding_level
+        label: How Well Do You Understand Today Material
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Somewhat
+          - Not very well
+          - Need help
+        required: false
+      - id: 18
+        name: signature
+        label: Student Signature
+        hint: By submitting you confirm attendance
+        type: note
+        options: []
+        required: false

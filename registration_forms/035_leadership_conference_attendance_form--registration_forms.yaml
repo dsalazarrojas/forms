@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Conference Attendance Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_title
+      label: Attendee Title
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''CEO''}'
+      - '{''value'': ''Director''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Staff''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: attendees_count
+      label: Attendees Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Conference''}'
+      - '{''value'': ''Meet''}'
+      - '{''value'': ''Seminar''}'
+      - '{''value'': ''Webinar''}'
+      - '{''value'': ''Training''}'
+      required: false

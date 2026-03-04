@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_title
+      label: Workshop Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date
+      label: workshop-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_time
+      label: workshop-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: workshop_time_label
+      label: What time do you want to attend?
+      hint: null
+      type: select_one
+      options:
+      - 08:00
+      - '600'
+      - '720'
+      - '840'
+      - '960'
+      - '1080'
+      - '1200'
+      - '1320'
+      - 00:00
+      required: false
+    - id: 8
+      name: workshop_date_label
+      label: On which date do you want to attend?
+      hint: null
+      type: select_one
+      options:
+      - 01-05-2023
+      - 02-05-2023
+      - 03-05-2023
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Privacy Policy Acknowledgment Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: prophets_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: privacy_policy_date
+      label: privacy_policy_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: acknowledge
+      label: i_acknowledge
+      hint: null
+      type: select_one
+      options:
+      - I understand and acknowledge the privacy policy of this organization
+      - I do not understand the privacy policy of this organization
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

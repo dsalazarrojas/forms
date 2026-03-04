@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Practice Session Booking Form
+    pages:
+    - id: 1
+      name: practice_session_date
+      label: Practice Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: practice_session_time
+      label: Practice Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: team_players
+      label: Team Players
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: coach_contact_name
+      label: Coach Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coach_contact_phone
+      label: Coach Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coach_contact_email
+      label: Coach Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: practice_location
+      label: Practice Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: practice_duration
+      label: Practice Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: practice_start_time
+      label: Practice Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: practice_end_time
+      label: Practice End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: practice_notes
+      label: Practice Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: practice_players_notes
+      label: Players Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_name_2
+      label: Team Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_manager_notes
+      label: Team Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: team_manager_email
+      label: Team Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

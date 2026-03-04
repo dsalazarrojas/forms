@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Inquiry Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: Your full name or pseudonym
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_website
+      label: Website or Portfolio
+      hint: Link to your work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Artistic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: art_medium
+      label: Primary Art Medium
+      hint: What type of art do you create?
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Printmaking
+      - Drawing
+      - Mixed Media
+      - Digital Art
+      - Ceramics
+      - Glass
+      - Installation
+      - Other
+      required: true
+    - id: 8
+      name: years_practice
+      label: Years of Artistic Practice
+      hint: How long have you been creating?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: artist_statement
+      label: Artist Statement
+      hint: Describe your artistic philosophy
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Gallery Exhibition Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: exhibition_interest
+      label: Type of Exhibition You Are Interested In
+      hint: What kind of showing would you like?
+      type: select_one
+      options:
+      - Solo Exhibition
+      - Group Exhibition
+      - Pop-up Show
+      - Rotating Display
+      - Commission Work
+      - Consignment
+      - Other
+      required: true
+    - id: 12
+      name: num_artworks
+      label: Number of Artworks Available for Exhibition
+      hint: How many pieces do you have?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: artwork_description
+      label: Description of Your Artwork
+      hint: Tell us about your current work
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Portfolio and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: portfolio_link
+      label: Portfolio or Sample Work Links
+      hint: Where can we view your work online?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: images_attached
+      label: High-Quality Images of Your Work
+      hint: Attach photos of your artwork
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: resume_cv
+      label: Resume or CV
+      hint: Professional background and exhibitions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_5
+      label: -- Previous Exhibitions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: previous_exhibitions
+      label: Previous Exhibitions or Shows
+      hint: List venues and dates
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: awards_recognition
+      label: Awards or Recognition
+      hint: Any accolades or honors?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: inquiry_message
+      label: Specific Inquiry or Questions
+      hint: What would you like to discuss?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - No preference
+      required: false
+    - id: 24
+      name: submit_agreement
+      label: I Agree to Submit This Inquiry
+      hint: Confirm you want to submit this form
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 25
+      name: follow_up_consent
+      label: Gallery May Follow Up About Opportunities
+      hint: Permission to contact you with opportunities
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact
+      required: false

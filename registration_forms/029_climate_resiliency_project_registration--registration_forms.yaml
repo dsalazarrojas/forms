@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Resiliency Project Registration
+    pages:
+    - id: 1
+      name: organization_section
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Government
+      - Nonprofit
+      - Business
+      - Community Group
+      - Educational
+      - Healthcare
+      - Other
+      required: true
+    - id: 4
+      name: address
+      label: Location/Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: website
+      label: Website
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_section
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_description
+      label: Project Description
+      hint: What is your resiliency project?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: resiliency_focus
+      label: Primary resiliency focus
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Climate adaptation
+      - Disaster preparedness
+      - Infrastructure protection
+      - Community preparedness
+      - Biodiversity conservation
+      - Resource management
+      - Risk reduction
+      - Emergency response
+      - Other
+      required: true
+    - id: 15
+      name: climate_hazards
+      label: Primary climate hazards addressed
+      hint: null
+      type: select_multiple
+      options:
+      - Flooding
+      - Drought
+      - Extreme heat
+      - Storms/Hurricanes
+      - Wildfires
+      - Sea level rise
+      - Erosion
+      - Other
+      required: true
+    - id: 16
+      name: timeline_section
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: project_start
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: project_end
+      label: Expected Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: funding_section
+      label: -- Funding and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: total_budget
+      label: Total Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: currency
+      label: Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: funding_sources
+      label: Funding sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: partnerships
+      label: Project partners or collaborators
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: expected_outcomes
+      label: Expected outcomes and metrics
+      hint: null
+      type: text
+      options: []
+      required: true

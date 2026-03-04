@@ -1,0 +1,411 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Program Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_personal_information_section
+      label: Volunteer Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name
+      hint: What name would you like to be called by the students?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Your current residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: City, state, and ZIP code of your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Your primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Your primary email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_section
+      label: Emergency Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship of emergency contact to you
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: availability_schedule_section
+      label: Availability and Schedule
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: available_days
+      label: Available Days
+      hint: Which days of the week are you available to volunteer?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 16
+      name: available_time_slots
+      label: Available Time Slots
+      hint: What time slots are you available to volunteer?
+      type: select_multiple
+      options:
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      - 5:00 PM - 6:00 PM
+      - 6:00 PM - 7:00 PM
+      - Morning (9:00 AM - 12:00 PM)
+      - Afternoon (12:00 PM - 3:00 PM)
+      - Evening (7:00 PM - 9:00 PM)
+      - All Day
+      required: true
+    - id: 17
+      name: volunteer_duration
+      label: Expected Volunteer Duration
+      hint: How long do you plan to volunteer with our program?
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1+ years
+      - Throughout the school year
+      - Summer only
+      required: true
+    - id: 18
+      name: volunteer_interests_section
+      label: Volunteer Interests and Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_age_group
+      label: Preferred Age Group
+      hint: What age group of students would you prefer to work with?
+      type: select_one
+      options:
+      - Elementary (K-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      - Mixed ages
+      - No preference
+      required: true
+    - id: 20
+      name: tutoring_interest
+      label: Tutoring Interest
+      hint: Are you interested in tutoring students one-on-one or in small groups?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 21
+      name: preferred_subjects_to_tutor
+      label: Preferred Subjects to Tutor
+      hint: If interested in tutoring, which subjects would you prefer?
+      type: select_multiple
+      options:
+      - Mathematics
+      - Reading
+      - Writing
+      - Science
+      - Social Studies
+      - Foreign Language
+      - Arts
+      - Music
+      - Technology
+      - Physical Education
+      required: false
+    - id: 22
+      name: activity_leading_interest
+      label: Activity Leading Interest
+      hint: Are you interested in leading activities or clubs?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 23
+      name: preferred_activities_to_lead
+      label: Preferred Activities to Lead
+      hint: If interested in leading activities, which would you prefer?
+      type: select_multiple
+      options:
+      - Arts and Crafts
+      - Sports and Games
+      - Science Experiments
+      - Cooking/Nutrition
+      - Drama/Performance
+      - Music
+      - Technology/Robotics
+      - Gardening
+      - Field Trips
+      - Homework Help
+      required: false
+    - id: 24
+      name: background_information_section
+      label: Background Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: education_level
+      label: Education Level
+      hint: What is your highest level of education completed?
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctoral Degree
+      - Other
+      required: true
+    - id: 26
+      name: field_of_study
+      label: Field of Study
+      hint: What field did you study in school?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: employment_status
+      label: Employment Status
+      hint: What is your current employment status?
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Unemployed
+      - Student
+      - Retired
+      - Stay-at-home Parent
+      - Other
+      required: true
+    - id: 28
+      name: occupation
+      label: Current Occupation
+      hint: What is your current occupation?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: previous_experience_with_children
+      label: Previous Experience with Children
+      hint: Do you have previous experience working with children?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: previous_experience_details
+      label: Details of Previous Experience
+      hint: If yes, please describe your previous experience working with children
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: special_skills_talents
+      label: Special Skills or Talents
+      hint: What special skills or talents would you bring to the program?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: background_check_consent_section
+      label: Background Check Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent to a background check as part of the volunteer registration
+        process?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: references_section
+      label: References
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Name of your first reference
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: Your relationship to the first reference
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Phone number of your first reference
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: Email address of your first reference
+      type: email
+      options: []
+      required: false
+    - id: 39
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Name of your second reference
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: reference_2_relationship
+      label: Reference 2 Relationship
+      hint: Your relationship to the second reference
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: Phone number of your second reference
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: Email address of your second reference
+      type: email
+      options: []
+      required: false
+    - id: 43
+      name: registration_agreement_section
+      label: Registration Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to the terms and conditions of the volunteer program
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 45
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: I agree to maintain confidentiality of student information
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 46
+      name: signature
+      label: Electronic Signature
+      hint: Sign to submit your volunteer registration
+      type: text
+      options: []
+      required: true

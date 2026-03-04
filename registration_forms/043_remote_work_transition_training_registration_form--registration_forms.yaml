@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Transition Training Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - Software Development
+      - Data Science
+      - Project Management
+      - Sales
+      - Marketing
+      - Support
+      required: true
+    - id: 8
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_multiple
+      options:
+      - Remote Work 101
+      - Advanced Remote Work
+      - Intermediate Remote Work
+      required: true
+    - id: 9
+      name: date_start
+      label: Date Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_end
+      label: Date End
+      hint: null
+      type: date
+      options: []
+      required: false

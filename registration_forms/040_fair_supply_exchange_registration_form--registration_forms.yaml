@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fair Supply Exchange Registration Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supply_offered
+      label: supply offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: needs_met
+      label: needs met
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_role
+      label: participant role
+      hint: null
+      type: select_one
+      options:
+      - Organizer
+      - Nonprofit
+      - Community Group
+      required: false
+    - id: 11
+      name: participant_organization
+      label: participant organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - Supply Offer
+      - Supply Need
+      - Both
+      required: true
+    - id: 13
+      name: event_type_other
+      label: event type other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false

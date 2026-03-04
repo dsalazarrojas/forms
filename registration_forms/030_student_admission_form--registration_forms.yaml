@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Admission Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_select
+      label: Select Program
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Program A''}'
+      - '{''name'': ''Program B''}'
+      - '{''name'': ''Program C''}'
+      required: false
+    - id: 3
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_contact
+      label: Student Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: select_multiple
+      options:
+      - Submitter 1
+      - Submitter 2
+      - Submitter 3
+      required: false
+    - id: 15
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false

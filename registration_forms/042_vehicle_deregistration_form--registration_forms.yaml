@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_deregistration_form
+    pages:
+    - id: 1
+      name: vehicle_deregistration_form_page
+      label: Vehicle Deregistration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_details_form_section
+      label: Vehicle Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_deregistration_form_section
+      label: Reason for Deregistration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: signature_deregistration_form_section
+      label: Signature of Authorizing Person
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_deregistration_form_section
+      label: Date of Deregistration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_ownership_form_section
+      label: Vehicle Ownership
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 7
+      name: comments_form_section
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

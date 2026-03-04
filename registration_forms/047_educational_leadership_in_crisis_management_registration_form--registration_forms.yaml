@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Leadership In Crisis Management Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_type
+      label: Training type
+      hint: null
+      type: select_one
+      options:
+      - Crisis Management
+      - Crisis Intervention
+      - Leadership Development
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - CEO/President
+      - Director
+      - Vice-President
+      - Manager
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Academic
+      - Business
+      - Operations
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

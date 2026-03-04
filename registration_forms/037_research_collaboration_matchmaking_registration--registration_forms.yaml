@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Collaboration Matchmaking Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_preferences
+      label: Collaboration Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: researcher_profile
+      label: Researcher Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: collaboration_preferences_2
+      label: Collaboration Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Option 1''}'
+      - '{2: ''Option 2''}'
+      - '{3: ''Option 3''}'
+      required: true
+    - id: 9
+      name: research_focus
+      label: Research Focus
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: research_experience
+      label: Research Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: research_tools
+      label: Research Tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

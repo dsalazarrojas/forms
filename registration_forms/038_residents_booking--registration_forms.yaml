@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: residents_booking
+    pages:
+    - id: 1
+      name: apartment_number
+      label: apartment_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: trade_name
+      label: trade_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trade_type
+      label: trade_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Electrician''}'
+      - '{''id'': 2, ''label'': ''Plumber''}'
+      - '{''id'': 3, ''label'': ''Handyman''}'
+      - '{''id'': 4, ''label'': ''Mechanic''}'
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: resident_name
+      label: resident_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resident_email
+      label: resident_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: resident_phone
+      label: resident_phone
+      hint: null
+      type: text
+      options: []
+      required: false

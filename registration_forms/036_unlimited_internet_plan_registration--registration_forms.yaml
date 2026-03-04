@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unlimited Internet Plan Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: billing_plan
+      label: billing_plan
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''yearly''}'
+      - '{''value'': ''one-time''}'
+      required: false
+    - id: 3
+      name: plan_choice
+      label: Plan Choice
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''speed_20mb''}'
+      - '{''value'': ''speed_50mb''}'
+      - '{''value'': ''speed_100mb''}'
+      required: false
+    - id: 4
+      name: installation_preferences
+      label: Installation Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: installation_address
+      label: Installation Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: plan_status
+      label: Plan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Restructuring Symposium Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: Please provide your full last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: Please provide a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_level
+      label: job-level
+      hint: Select your current job level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 8
+      name: role
+      label: role
+      hint: Select your role(s)
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth_date
+      label: date-of-birth-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth_year
+      label: date-of-birth-year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: time_of_birth
+      label: time-of-birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: time_of_birth_time
+      label: time-of-birth-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: symposium_attendance
+      label: symposium-attendance
+      hint: Which symposiums will you be attending?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: company_website
+      label: company-website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_address
+      label: company-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_address
+      label: job-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_location
+      label: job-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_location_country
+      label: job-location-country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: job_location_city
+      label: job-location-city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_location_postal_code
+      label: job-location-postal-code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_location_state_province
+      label: job-location-state-province
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: job_location_country_region
+      label: job-location-country-region
+      hint: null
+      type: text
+      options: []
+      required: false

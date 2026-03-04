@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Label Redesign Challenge Registration
+    pages:
+    - id: 1
+      name: contestant_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contestant_email
+      label: Email Address
+      hint: We will send challenge updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contestant_phone
+      label: Phone Number
+      hint: For urgent communication
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: country
+      label: Country of Residence
+      hint: Where do you currently live
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 6
+      name: profession
+      label: Current Profession
+      hint: What is your current job or role
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: design_experience
+      label: Design Experience Level
+      hint: How much design experience do you have
+      type: select_one
+      options:
+      - Student
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional Designer
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Design Experience
+      hint: How many years have you been designing
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      required: true
+    - id: 9
+      name: education
+      label: Highest Level of Education
+      hint: What is your highest education level
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      required: true
+    - id: 10
+      name: design_software
+      label: Design Software Proficiency
+      hint: Which design tools are you proficient in
+      type: select_multiple
+      options:
+      - Adobe Photoshop
+      - Adobe Illustrator
+      - Adobe InDesign
+      - Figma
+      - Sketch
+      - Canva
+      - CorelDRAW
+      - Affinity Designer
+      - Other
+      required: true
+    - id: 11
+      name: portfolio_url
+      label: Portfolio Website URL
+      hint: Link to your design portfolio
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Your Instagram or Behance username
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: beverage_category
+      label: Beverage Category for Redesign
+      hint: Which beverage category are you redesigning
+      type: select_one
+      options:
+      - Soft Drinks
+      - Energy Drinks
+      - Juice
+      - Tea
+      - Coffee
+      - Alcoholic Beverages
+      - Water
+      - Sports Drinks
+      required: true
+    - id: 14
+      name: design_concept
+      label: Design Concept Description
+      hint: Describe your redesign concept and approach
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: design_inspiration
+      label: Design Inspiration
+      hint: What inspired your design
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: target_audience
+      label: Target Audience
+      hint: Who is your design intended for
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: file_submission
+      label: Design File Submission
+      hint: Describe your submitted files or provide cloud link
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: file_format
+      label: File Format Submitted
+      hint: What format are your design files
+      type: select_multiple
+      options:
+      - AI
+      - PSD
+      - PDF
+      - PNG
+      - JPG
+      - SVG
+      - EPS
+      - Other
+      required: true
+    - id: 19
+      name: original_work
+      label: Original Work Declaration
+      hint: Do you confirm this is your original work
+      type: select_one
+      options:
+      - Yes, This Is My Original Work
+      - No, This Is Not Original
+      required: true
+    - id: 20
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you agree to the challenge terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 21
+      name: how_heard_about
+      label: How Did You Hear About This Challenge
+      hint: Where did you find out about this competition
+      type: select_one
+      options:
+      - Social Media
+      - Company Website
+      - Design Community
+      - School or University
+      - Friend or Colleague
+      - Email Newsletter
+      - Other
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your submission
+      type: text
+      options: []
+      required: false

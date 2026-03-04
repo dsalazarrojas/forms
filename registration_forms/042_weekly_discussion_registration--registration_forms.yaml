@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_discussion_registration
+    pages:
+    - id: 1
+      name: user_input
+      label: User input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: topic_interest
+      label: topic interests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: signup_type
+      label: Signup type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Regular Session''}'
+      - '{''value'': ''Special Session''}'
+      required: false
+    - id: 4
+      name: signup_date
+      label: Signup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: signup_time
+      label: Signup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signup_type_other
+      label: Other Signup Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: signup_type_other_value
+      label: Other Signup Types
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

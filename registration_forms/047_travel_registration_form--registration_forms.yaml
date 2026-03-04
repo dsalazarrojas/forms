@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_registration_form
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_one
+      options:
+      - Berlin
+      - Paris
+      - New York
+      - Tokyo
+      required: true
+    - id: 7
+      name: accommodation_preference
+      label: Accommodation Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Single room
+      - Double room
+      - Triple room
+      - None
+      required: true
+    - id: 8
+      name: travel_purpose
+      label: Travel Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_house_guest_registration_form
+    pages:
+    - id: 1
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lead_message
+      label: Lead Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agent_comments
+      label: Agent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: visitor_comments
+      label: Visitor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

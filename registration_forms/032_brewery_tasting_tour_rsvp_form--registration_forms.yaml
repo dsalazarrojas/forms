@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brewery Tasting Tour RSVP Form
+    pages:
+    - id: 1
+      name: primary_guest_name
+      label: Primary Guest Name
+      hint: Name of the main guest
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tour_date
+      label: Tour Date
+      hint: Which tour date would you like
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tour_time
+      label: Tour Time
+      hint: Select your preferred time
+      type: select_one
+      options:
+      - 10 AM Tour
+      - 12 PM Tour
+      - 2 PM Tour
+      - 4 PM Tour
+      - 6 PM Evening Tour
+      required: true
+    - id: 6
+      name: group_size
+      label: Number of Guests in Your Party
+      hint: Total people attending
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: guest_names
+      label: Names of Other Guests
+      hint: List names of additional guests
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: age_requirement
+      label: All guests are 21 or older
+      hint: Confirm age requirement
+      type: select_one
+      options:
+      - Yes, all guests are 21+
+      - No, some guests are under 21
+      required: true
+    - id: 9
+      name: tour_type
+      label: Tour Type Preference
+      hint: Choose your tour style
+      type: select_one
+      options:
+      - Standard brewery tour
+      - Premium tasting tour
+      - VIP exclusive tour
+      - Brewery and taproom combo
+      - Beer and food pairing
+      required: true
+    - id: 10
+      name: first_time_visitor
+      label: Is this your first visit
+      hint: First time at our brewery
+      type: select_one
+      options:
+      - Yes, first time
+      - No, visited before
+      - Regular visitor
+      required: true
+    - id: 11
+      name: beer_experience
+      label: Your Beer Experience Level
+      hint: How knowledgeable are you about beer
+      type: select_one
+      options:
+      - Beginner - just starting out
+      - Casual - enjoy beer occasionally
+      - Enthusiast - know beer styles well
+      - Connoisseur - expert knowledge
+      required: true
+    - id: 12
+      name: favorite_beer_styles
+      label: Favorite Beer Styles
+      hint: Select your preferred styles
+      type: select_multiple
+      options:
+      - IPAs
+      - Lagers
+      - Stouts
+      - Wheat beers
+      - Sours
+      - Amber ales
+      - Porters
+      - No preference
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select any food restrictions
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Vegan
+      - Vegetarian
+      - Nut allergy
+      - Dairy free
+      - None
+      required: false
+    - id: 14
+      name: special_occasions
+      label: Special Occasion
+      hint: Is this a special celebration
+      type: select_one
+      options:
+      - Regular visit
+      - Birthday celebration
+      - Anniversary
+      - Corporate outing
+      - Bachelor/Bachelorette party
+      - Other celebration
+      required: false
+    - id: 15
+      name: celebration_details
+      label: Special Occasion Details
+      hint: If applicable, provide details
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transportation
+      label: Do You Need Parking Information
+      hint: Transportation details
+      type: select_one
+      options:
+      - Yes, need parking info
+      - Have own transportation
+      - Need public transit info
+      - Other
+      required: false
+    - id: 18
+      name: contact_preferences
+      label: How Should We Contact You
+      hint: Preferred contact method
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - No contact needed
+      required: false
+    - id: 19
+      name: photography_consent
+      label: May we photograph you for social media
+      hint: Photography and sharing consent
+      type: select_one
+      options:
+      - Yes, you may use photos
+      - No photography
+      - Ask before using
+      required: false
+    - id: 20
+      name: additional_requests
+      label: Special Requests or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cancellation_notice
+      label: Cancellation Policy Acknowledgment
+      hint: You understand our cancellation policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - Need clarification
+      required: true

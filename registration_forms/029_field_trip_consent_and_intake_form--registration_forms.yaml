@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Consent And Intake Form
+    pages:
+    - id: 1
+      name: field_trip_consent
+      label: field_trip_consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_information
+      label: student_information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: emergency_contact_information
+      label: emergency_contact_information
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      required: true
+    - id: 4
+      name: student_health
+      label: student_health
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_allergies
+      label: student_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut
+      - Tree nut
+      - Fish
+      - Shellfish
+      - Milk
+      - Eggs
+      - Wheat
+      - Soy
+      - Sesame
+      - Shellfish
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: student_participants
+      label: student_participants
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: student_bus_passengers
+      label: student_bus_passengers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: student_conduct
+      label: student_conduct
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: transportation_method
+      label: transportation_method
+      hint: null
+      type: select_multiple
+      options:
+      - School Bus
+      - Parent/Guardian Pickup
+      - Other
+      required: true
+    - id: 14
+      name: student_drop_off_information
+      label: student_drop_off_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: parent_consent
+      label: parent_consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: teacher_signature
+      label: teacher_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_signature
+      label: emergency_contact_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_signature
+      label: school_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: student_medical_information
+      label: student_medical_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_medical_condition
+      label: student_medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: student_medical_allergies
+      label: student_medical_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: student_medical_aid
+      label: student_medical_aid
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: student_medical_medication
+      label: student_medical_medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: student_medical_device
+      label: student_medical_device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

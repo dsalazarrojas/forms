@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Remote Segment Registration
+    pages:
+    - id: 1
+      name: segment_choice
+      label: Choose a Segment
+      hint: null
+      type: select_one
+      options:
+      - Segment A
+      - Segment B
+      - Segment C
+      required: false
+    - id: 2
+      name: time_slot
+      label: Time Slot
+      hint: Choose a time slot
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: Enter attendee details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: segment_choice_2
+      label: Segment Choice 2
+      hint: Choose another segment
+      type: select_one
+      options:
+      - Segment A
+      - Segment B
+      - Segment C
+      required: false
+    - id: 9
+      name: segment_choice_3
+      label: Segment Choice 3
+      hint: Choose one more segment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: time_slot_2
+      label: Time Slot 2
+      hint: Choose another time slot
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      required: false
+    - id: 11
+      name: time_slot_3
+      label: Time Slot 3
+      hint: Choose one more time slot
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      required: false
+    - id: 12
+      name: segment_note
+      label: Segment Note
+      hint: Additional notes about the segment
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attendee_note
+      label: Attendee Note
+      hint: Additional notes about the attendee
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: time_slot_note
+      label: Time Slot Note
+      hint: Additional notes about the time slot
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: segment_choice_4
+      label: Segment Choice 4
+      hint: Choose another segment
+      type: select_one
+      options:
+      - Segment A
+      - Segment B
+      - Segment C
+      required: false
+    - id: 16
+      name: time_slot_4
+      label: Time Slot 4
+      hint: Choose another time slot
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      required: false
+    - id: 17
+      name: segment_choice_5
+      label: Segment Choice 5
+      hint: Choose one more segment
+      type: select_one
+      options:
+      - Segment A
+      - Segment B
+      - Segment C
+      required: false
+    - id: 18
+      name: time_slot_5
+      label: Time Slot 5
+      hint: Choose one more time slot
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      required: false
+    - id: 19
+      name: additional_segments
+      label: Additional Segments
+      hint: null
+      type: select_multiple
+      options:
+      - Segment A
+      - Segment B
+      - Segment C
+      required: false
+    - id: 20
+      name: additional_time_slots
+      label: Additional Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 AM - 10:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      required: false

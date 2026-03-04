@@ -1,0 +1,369 @@
+inputSchema:
+  type: object
+  properties:
+    title: Convention Technical Staff Registration Form
+    pages:
+    - id: 1
+      name: staff_name
+      label: Full Name
+      hint: Legal name of staff member
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_role_info
+      label: -- Role Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: technical_role
+      label: Technical Role
+      hint: Your function at the convention
+      type: select_one
+      options:
+      - Audio Technician
+      - Video Technician
+      - Lighting Technician
+      - IT Support
+      - Network Engineer
+      - AV Specialist
+      - Stage Manager
+      - Broadcast Engineer
+      - Other
+      required: true
+    - id: 8
+      name: experience_level
+      label: Experience Level
+      hint: Years of experience
+      type: select_one
+      options:
+      - Entry Level
+      - Intermediate
+      - Experienced
+      - Expert
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Experience
+      hint: Number of years
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_assignment
+      label: -- Assignment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_area
+      label: Assigned Area
+      hint: Where will you be working
+      type: select_one
+      options:
+      - Main Stage
+      - Breakout Rooms
+      - Registration Area
+      - Exhibition Hall
+      - Broadcast Booth
+      - Control Room
+      - IT Help Desk
+      - Multiple Areas
+      required: true
+    - id: 12
+      name: shift_preference
+      label: Shift Preference
+      hint: Preferred working hours
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Rotating
+      - Flexible
+      required: true
+    - id: 13
+      name: available_dates
+      label: Available Dates
+      hint: Select all dates you can work
+      type: select_multiple
+      options:
+      - Setup Day 1
+      - Setup Day 2
+      - Event Day 1
+      - Event Day 2
+      - Event Day 3
+      - Breakdown Day
+      required: true
+    - id: 14
+      name: section_skills
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: audio_skills
+      label: Audio Skills
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Basic
+      - None
+      required: false
+    - id: 16
+      name: video_skills
+      label: Video Skills
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Basic
+      - None
+      required: false
+    - id: 17
+      name: lighting_skills
+      label: Lighting Skills
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Basic
+      - None
+      required: false
+    - id: 18
+      name: networking_skills
+      label: Networking Skills
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Proficient
+      - Basic
+      - None
+      required: false
+    - id: 19
+      name: software_proficiency
+      label: Software Proficiency
+      hint: List relevant software
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: equipment_experience
+      label: Equipment You Are Experienced With
+      hint: List specific equipment
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_certifications
+      label: -- Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: safety_certification
+      label: Safety Certification
+      hint: Do you have safety training
+      type: select_one
+      options:
+      - Yes - Current
+      - Yes - Expired
+      - false
+      required: true
+    - id: 23
+      name: electrical_certification
+      label: Electrical Certification
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes - Current
+      - Yes - Expired
+      - false
+      - Not Applicable
+      required: false
+    - id: 24
+      name: other_certifications
+      label: Other Relevant Certifications
+      hint: List any additional certifications
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_uniform
+      label: -- Uniform and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: uniform_size
+      label: Uniform Size
+      hint: For staff shirt or vest
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - XXXL
+      required: false
+    - id: 27
+      name: tools_provided
+      label: Do you need tools provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - I have my own
+      - Partially
+      required: true
+    - id: 28
+      name: tools_needed
+      label: Tools or Equipment Needed
+      hint: List what you require
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_briefing
+      label: -- Briefing and Training --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: attended_briefing
+      label: Have you attended the technical briefing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Scheduled
+      required: true
+    - id: 31
+      name: briefing_date
+      label: Briefing Date
+      hint: When is or was your briefing
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: venue_familiar
+      label: Are you familiar with the venue
+      hint: null
+      type: select_one
+      options:
+      - Yes - Worked here before
+      - Yes - Visited before
+      - No - First time
+      required: true
+    - id: 33
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: supervisor_name
+      label: Assigned Supervisor
+      hint: Who you report to
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: team_assignment
+      label: Team Assignment
+      hint: Which team are you on
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: radio_channel
+      label: Radio Channel Assigned
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For staff meals
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Other
+      required: false
+    - id: 39
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: availability_notes
+      label: Availability Notes
+      hint: Any scheduling constraints
+      type: text
+      options: []
+      required: false

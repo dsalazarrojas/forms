@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Action Workshop Registration Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climate Action Workshop Registration
+      hint: Join us in taking action on climate change
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workshop_info
+      label: -- Workshop Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: null
+      type: select_one
+      options:
+      - March 15, 2024
+      - March 22, 2024
+      - April 5, 2024
+      - April 12, 2024
+      - April 19, 2024
+      required: true
+    - id: 11
+      name: workshop_topic
+      label: Primary Interest Area
+      hint: null
+      type: select_one
+      options:
+      - Carbon Reduction
+      - Renewable Energy
+      - Sustainable Practices
+      - Climate Policy
+      - Community Action
+      - Business Strategy
+      - Education and Advocacy
+      - Other
+      required: true
+    - id: 12
+      name: experience_level
+      label: Climate Action Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: goals_section
+      label: -- Your Goals and Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: workshop_goal
+      label: What is Your Primary Goal for This Workshop?
+      hint: What do you hope to learn or accomplish?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: motivation
+      label: What Motivates You to Take Climate Action?
+      hint: null
+      type: select_multiple
+      options:
+      - Environmental Concerns
+      - Economic Benefits
+      - Social Justice
+      - Community Leadership
+      - Organizational Responsibility
+      - Personal Commitment
+      - Other
+      required: true
+    - id: 16
+      name: implementation_plans
+      label: Do You Have Plans to Implement Climate Actions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      - Already Implemented
+      required: false
+    - id: 17
+      name: sectors_section
+      label: -- Sectors and Focus Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: industry_sector
+      label: Your Industry or Sector
+      hint: null
+      type: select_one
+      options:
+      - Business and Corporate
+      - Government and Policy
+      - Education
+      - Non-Profit
+      - Energy
+      - Transportation
+      - Agriculture
+      - Healthcare
+      - Manufacturing
+      - Other
+      required: false
+    - id: 19
+      name: key_challenges
+      label: Key Climate Challenges You Face
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resources_section
+      label: -- Resources and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: team_participation
+      label: Are Others from Your Organization Participating?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: team_size
+      label: How Many Team Members Attending?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: commitment_level
+      label: Your Commitment Level to Climate Action
+      hint: null
+      type: select_one
+      options:
+      - Just Learning
+      - Interested in Implementation
+      - Ready to Commit
+      - Already Committed
+      required: false
+    - id: 24
+      name: logistics_section
+      label: -- Logistics and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: workshop_format
+      label: Preferred Workshop Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 26
+      name: location
+      label: Preferred Location (if in-person)
+      hint: null
+      type: select_one
+      options:
+      - North Region
+      - South Region
+      - East Region
+      - West Region
+      - Central Region
+      required: false
+    - id: 27
+      name: accessibility
+      label: Accessibility or Accommodation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: dietary_restrictions
+      label: Dietary Restrictions or Preferences
+      hint: For in-person events with meals
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: engagement_section
+      label: -- Expected Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: networking_interest
+      label: Interest in Networking with Other Participants
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 31
+      name: collaboration_interest
+      label: Interest in Collaborating on Climate Initiatives
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 32
+      name: follow_up
+      label: I Want to Receive Follow-Up Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Club Attendance Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo_id
+      label: Photo ID
+      hint: Enter your photo ID number
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: meeting_date
+      label: Date
+      hint: Select the date of the meeting
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: meeting_time
+      label: Time
+      hint: Select the time of the meeting
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: attendance
+      label: Attendee
+      hint: Were you an attendee at this meeting?
+      type: select_one
+      options:
+      - Attendee
+      - Not Attendee
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Add any comments about the meeting
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

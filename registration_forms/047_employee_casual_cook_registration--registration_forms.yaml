@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_casual_cook_registration
+    pages:
+    - id: 1
+      name: employee_title
+      label: Enter Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Enter Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Enter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: experience_years
+      label: Experience Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cuisines
+      label: Select Cuisines
+      hint: null
+      type: select_multiple
+      options:
+      - American
+      - Italian
+      - Asian
+      - Seafood
+      - Mexican
+      - Indian
+      - Other
+      required: false
+    - id: 6
+      name: availability_days
+      label: Availability Days
+      hint: 7 days of the week
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: availability_shifts
+      label: Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: false
+    - id: 8
+      name: availability_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: availability_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: availability_notes
+      label: Availability Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cuisine_specialties
+      label: Specialties
+      hint: null
+      type: text
+      options: []
+      required: false

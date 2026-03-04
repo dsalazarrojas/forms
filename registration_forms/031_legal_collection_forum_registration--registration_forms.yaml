@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal collection forum registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PayPal''}'
+      - '{''label'': ''Stripe''}'
+      - '{''label'': ''Bank Transfer''}'
+      required: false
+    - id: 5
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I agree to the terms and conditions''}'
+      - '{''label'': ''I agree to the payment terms''}'
+      required: false
+    - id: 6
+      name: legal_agreement
+      label: Legal Agreement
+      hint: Please check the legal agreement below
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: attendee_count
+      label: Attendee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Conference''}'
+      - '{''label'': ''Workshop''}'
+      - '{''label'': ''Forum''}'
+      required: false
+    - id: 18
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Live''}'
+      - '{''label'': ''Postponed''}'
+      - '{''label'': ''Canceled''}'
+      required: false
+    - id: 19
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      - '{''label'': ''Hybrid''}'
+      required: false
+    - id: 20
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendee_address
+      label: Attendee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attendee_note
+      label: Attendee Note
+      hint: This is the attendee notes field
+      type: note
+      options: []
+      required: true

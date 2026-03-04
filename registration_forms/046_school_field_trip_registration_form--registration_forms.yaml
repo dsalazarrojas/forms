@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Field Trip Registration Form
+    pages:
+    - id: 1
+      name: school_trip_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_consent
+      label: Teacher's Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guardian_consent
+      label: Guardian's Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_dob
+      label: Student DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_name
+      label: Teacher's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_email
+      label: Teacher's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: teacher_phone
+      label: Teacher's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trip_date
+      label: Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: trip_time
+      label: Trip Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: trip_location
+      label: Trip Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: trip_duration
+      label: Trip Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trip_type
+      label: Trip Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Educational'', ''value'': ''educational''}'
+      - '{''label'': ''Recreational'', ''value'': ''recreational''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 18
+      name: trip_status
+      label: Trip Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Confirmed'', ''value'': ''confirmed''}'
+      - '{''label'': ''In progress'', ''value'': ''in_progress''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      required: false
+    - id: 19
+      name: trip_budget
+      label: Trip Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: trip_notes
+      label: Trip Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: teacher_comments
+      label: Teacher's Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: parent_consent_1
+      label: Parent 1 Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: parent_consent_2
+      label: Parent 2 Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Confirmed'', ''value'': ''confirmed''}'
+      - '{''label'': ''Not Attending'', ''value'': ''not_attending''}'
+      - '{''label'': ''Absent'', ''value'': ''absent''}'
+      required: false
+    - id: 25
+      name: teacher_attendance
+      label: Teacher's Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Confirmed'', ''value'': ''confirmed''}'
+      - '{''label'': ''Not Attending'', ''value'': ''not_attending''}'
+      - '{''label'': ''Absent'', ''value'': ''absent''}'
+      required: false

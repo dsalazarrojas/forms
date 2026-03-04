@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Bulletin
+    pages:
+    - id: 1
+      name: guest_full_name
+      label: Guest Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_nationality
+      label: Guest Nationality
+      hint: Your nationality
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: passport_or_id_number
+      label: Passport or ID Number
+      hint: Your passport or national ID number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: accommodation_provider
+      label: Accommodation Provider
+      hint: Name of the hotel, hostel, or accommodation provider
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: accommodation_address
+      label: Accommodation Address
+      hint: Complete address of the accommodation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: check_in_date
+      label: Check In Date
+      hint: Date of arrival at the accommodation
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: check_out_date
+      label: Check Out Date
+      hint: Date of departure from the accommodation
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: purpose_of_visit
+      label: Purpose of Visit
+      hint: What is the purpose of your visit?
+      type: select_one
+      options:
+      - Tourism
+      - Business
+      - Study
+      - Visiting Family/Friends
+      - Transit
+      - Other
+      required: true
+    - id: 11
+      name: country_of_origin
+      label: Country of Origin
+      hint: Country you traveled from
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: next_destination
+      label: Next Destination
+      hint: Where will you travel to next?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person_in_country
+      label: Contact Person in Country
+      hint: Name and contact information of a person you'll be staying with or contacting
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person_address
+      label: Contact Person Address
+      hint: Address of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Type of accommodation you're staying in
+      type: select_one
+      options:
+      - Hotel
+      - Hostel
+      - Apartment
+      - Private Residence
+      - Campsite
+      - Other
+      required: true
+    - id: 18
+      name: room_number
+      label: Room Number
+      hint: Your room or apartment number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: Electronic signature confirming the accuracy of the information
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

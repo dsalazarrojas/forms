@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: plastic_free_compliance_declaration_form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_details
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vendor_declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: declaration_status
+      label: Declaration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: declaration_comments
+      label: Declaration Comments
+      hint: null
+      type: note
+      options: []
+      required: false

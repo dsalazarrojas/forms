@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Project Promotion Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Student Project Promotion Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_info
+      label: guardian_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_consent
+      label: student_consent
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Guardian
+      required: false
+    - id: 6
+      name: promotional_use
+      label: promotional_use
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false

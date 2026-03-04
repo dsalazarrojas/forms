@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Communication Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Volunteer Leader''}'
+      - '{''name'': ''Team Member''}'
+      - '{''name'': ''Participant''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 9
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_notes
+      label: Volunteer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contact_relationship
+      label: How do you know the person?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Team''}'
+      - '{''name'': ''Supervisor''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 15
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false

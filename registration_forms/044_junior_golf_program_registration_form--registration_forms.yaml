@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior Golf Program Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - Summer Junior Golf Program
+      - After School Junior Golf Program
+      - Winter Junior Golf Program
+      required: false
+    - id: 6
+      name: session
+      label: session
+      hint: null
+      type: select_multiple
+      options:
+      - Summer
+      - After School
+      - Winter
+      required: false
+    - id: 7
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: parent_first_name
+      label: parent's first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_last_name
+      label: parent's last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_email
+      label: parent's email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false

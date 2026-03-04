@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Reunion Registration
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: maiden_name
+      label: Maiden Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_city
+      label: Current City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_state
+      label: Current State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_country
+      label: Current Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: personal_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_occupation
+      label: Current Occupation or Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: reunion_header
+      label: -- Reunion Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: attendance_confirmation
+      label: Will you attend the class reunion
+      hint: null
+      type: select_one
+      options:
+      - Yes, confirmed
+      - No, cannot attend
+      - Maybe, will decide later
+      required: true
+    - id: 19
+      name: guests_attending
+      label: Number of Guests Attending
+      hint: Spouses, family members, etc.
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: guest_list
+      label: Names of Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: events_header
+      label: -- Event Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: event_preferences
+      label: Events you plan to attend - select all
+      hint: null
+      type: select_multiple
+      options:
+      - Welcome reception
+      - Dinner banquet
+      - Class party
+      - Golf outing or sports
+      - Cultural tour
+      - Memorial service
+      - Breakfast brunch
+      - All events
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: accommodations_needed
+      label: Special Accommodations Needed
+      hint: Accessibility, mobility, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: registration_cost
+      label: Registration Fee Amount
+      hint: Will be provided separately
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Other
+      required: false
+    - id: 28
+      name: additional_info
+      label: Additional Comments or Information
+      hint: null
+      type: text
+      options: []
+      required: false

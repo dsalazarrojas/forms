@@ -1,0 +1,499 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birdwatching Tournament Entry Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: team_information
+      label: Team Information
+      hint: About your team
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participation_type
+      label: Participation Type
+      hint: Solo or team
+      type: select_one
+      options:
+      - Individual Competitor
+      - Team of 2
+      - Team of 3
+      - Team of 4
+      - Team of 5+
+      required: true
+    - id: 13
+      name: team_name
+      label: Team Name
+      hint: Your team name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_captain
+      label: Team Captain
+      hint: Captain name if team
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_members
+      label: Team Members
+      hint: List all team members
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tournament_details
+      label: Tournament Details
+      hint: Select your options
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tournament_name
+      label: Tournament Name
+      hint: Which tournament
+      type: select_one
+      options:
+      - Spring Migration Classic
+      - Summer Breeding Bird Count
+      - Fall Migration Challenge
+      - Winter Bird Festival
+      - Annual Big Day
+      - Youth Tournament
+      - Other
+      required: true
+    - id: 18
+      name: tournament_date
+      label: Tournament Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: division
+      label: Competition Division
+      hint: Your division
+      type: select_one
+      options:
+      - Open Division
+      - Novice Division
+      - Youth Division (Under 18)
+      - Senior Division (65+)
+      - Family Division
+      - Corporate Division
+      required: true
+    - id: 20
+      name: experience_level
+      label: Experience Level
+      hint: Your birding experience
+      type: select_one
+      options:
+      - Beginner (0-2 years)
+      - Intermediate (3-5 years)
+      - Advanced (6-10 years)
+      - Expert (10+ years)
+      required: true
+    - id: 21
+      name: previous_tournaments
+      label: Previous Tournament Experience
+      hint: Have you competed before
+      type: select_one
+      options:
+      - First Tournament
+      - 1-3 Tournaments
+      - 4-10 Tournaments
+      - 10+ Tournaments
+      required: true
+    - id: 22
+      name: equipment
+      label: Equipment
+      hint: What you will use
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: binoculars
+      label: Binoculars
+      hint: Do you have binoculars
+      type: select_one
+      options:
+      - Yes - High Quality
+      - Yes - Standard
+      - Yes - Basic
+      - No - Need to Borrow
+      required: true
+    - id: 24
+      name: spotting_scope
+      label: Spotting Scope
+      hint: Will you have one
+      type: select_one
+      options:
+      - Yes - Will Bring
+      - No - Do Not Have
+      - Maybe - Sharing with Team
+      required: true
+    - id: 25
+      name: camera_equipment
+      label: Camera Equipment
+      hint: Will you photograph
+      type: select_one
+      options:
+      - Yes - DSLR/Mirrorless
+      - Yes - Point and Shoot
+      - Yes - Smartphone Only
+      - No - Not Photographing
+      required: false
+    - id: 26
+      name: transportation
+      label: Transportation
+      hint: How will you get around
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Team Vehicle
+      - Carpooling
+      - Need Ride Match
+      - Bicycle
+      - Walking
+      required: true
+    - id: 27
+      name: vehicle_type
+      label: Vehicle Type
+      hint: If driving
+      type: select_one
+      options:
+      - Car
+      - SUV
+      - Van
+      - Truck
+      - Not Applicable
+      required: false
+    - id: 28
+      name: area_assignment
+      label: Area Assignment
+      hint: Preferred birding area
+      type: select_one
+      options:
+      - No Preference
+      - Urban Parks
+      - Wetlands
+      - Forest/Woodland
+      - Coastal/Marine
+      - Grassland
+      - Mountain
+      - Any Area Assigned
+      required: true
+    - id: 29
+      name: target_species
+      label: Target Species
+      hint: Birds you hope to find
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: goals
+      label: Tournament Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Win Competition
+      - Top 10 Finish
+      - Personal Best
+      - Learn New Skills
+      - See Rare Species
+      - Social Experience
+      - Support Conservation
+      - Just Have Fun
+      required: true
+    - id: 31
+      name: registration_options
+      label: Registration Options
+      hint: Additional options
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - No Shirt Needed
+      required: true
+    - id: 33
+      name: meal_preference
+      label: Meal Preference
+      hint: For provided meals
+      type: select_one
+      options:
+      - No Preference
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Other Dietary Restriction
+      required: true
+    - id: 34
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Specify restrictions
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: awards_ceremony
+      label: Awards Ceremony
+      hint: Will you attend
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Maybe
+      - No - Cannot Attend
+      required: true
+    - id: 36
+      name: payment_information
+      label: Payment Information
+      hint: Registration fee
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: entry_fee
+      label: Entry Fee
+      hint: Registration amount
+      type: number
+      options: []
+      required: true
+    - id: 38
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Check
+      - Bank Transfer
+      - Sponsor Covered
+      required: true
+    - id: 39
+      name: donation
+      label: Additional Donation
+      hint: Support conservation
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: sponsorship
+      label: Sponsorship
+      hint: Do you have a sponsor
+      type: select_one
+      options:
+      - No - Self Funded
+      - Yes - Individual Sponsor
+      - Yes - Corporate Sponsor
+      - Seeking Sponsor
+      required: false
+    - id: 41
+      name: sponsor_name
+      label: Sponsor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: waivers_and_agreements
+      label: Waivers and Agreements
+      hint: Required acknowledgments
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Acknowledge risks
+      type: select_one
+      options:
+      - I Accept Liability Waiver
+      - I Understand Risks Involved
+      required: true
+    - id: 44
+      name: code_of_ethics
+      label: Code of Ethics
+      hint: Agree to birding ethics
+      type: select_one
+      options:
+      - I Agree to Follow Birding Ethics
+      - I Will Respect Wildlife and Habitat
+      required: true
+    - id: 45
+      name: tournament_rules
+      label: Tournament Rules
+      hint: Agree to follow rules
+      type: select_one
+      options:
+      - I Agree to Follow All Tournament Rules
+      - I Understand Disqualification Policies
+      required: true
+    - id: 46
+      name: photo_release
+      label: Photo Release
+      hint: Can we use your photos
+      type: select_one
+      options:
+      - Yes - May Use for Promotion
+      - No - Do Not Use
+      required: true
+    - id: 47
+      name: data_sharing
+      label: Data Sharing
+      hint: Can we share your sightings
+      type: select_one
+      options:
+      - Yes - Share with eBird
+      - Yes - Share with Organizers Only
+      - No - Keep Private
+      required: true
+    - id: 48
+      name: emergency_information
+      label: Emergency Information
+      hint: For safety
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 51
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 52
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: how_heard_about_tournament
+      label: How Did You Hear About Tournament
+      hint: Help us improve outreach
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Birding Club
+      - Friend Referral
+      - Previous Participant
+      - Advertisement
+      - Other
+      required: false
+    - id: 54
+      name: participant_signature
+      label: Participant Signature
+      hint: Sign to confirm
+      type: select_one
+      options:
+      - I Agree to All Terms
+      - I Confirm Information is Accurate
+      required: true
+    - id: 55
+      name: registration_date
+      label: Registration Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true

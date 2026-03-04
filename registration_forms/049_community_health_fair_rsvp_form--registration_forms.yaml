@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Fair RSVP Form
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: health_fair_date
+      label: Health Fair Date
+      hint: Which date will you attend?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: group_size
+      label: Number in Your Group
+      hint: Total attendees including you
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: services_interested
+      label: Health Services of Interest
+      hint: Select services you want
+      type: select_multiple
+      options:
+      - Blood Pressure Screening
+      - Blood Sugar Testing
+      - Cholesterol Screening
+      - BMI Assessment
+      - Vision Screening
+      - Dental Screening
+      - Mental Health Resources
+      - Nutrition Counseling
+      - Fitness Assessment
+      - Vaccinations
+      required: true
+    - id: 11
+      name: insurance_status
+      label: Insurance Status
+      hint: Do you have health insurance?
+      type: select_one
+      options:
+      - Yes, Insured
+      - No, Uninsured
+      - Applying for Coverage
+      required: true
+    - id: 12
+      name: primary_care_provider
+      label: Do You Have a Primary Care Provider
+      hint: Regular doctor
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: health_concerns
+      label: Primary Health Concerns
+      hint: What health topics interest you?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interpreter_needed
+      label: Interpreter Needed
+      hint: Do you need language assistance?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: interpreter_language
+      label: Language Needed
+      hint: If yes, which language?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transportation_needed
+      label: Transportation Assistance Needed
+      hint: Do you need a ride?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Health Fair
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Healthcare Provider
+      - Community Organization
+      - Friend or Family
+      - Flyer or Poster
+      - Other
+      required: false
+    - id: 19
+      name: follow_up_contact
+      label: May We Contact You for Follow-Up
+      hint: For health resources
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

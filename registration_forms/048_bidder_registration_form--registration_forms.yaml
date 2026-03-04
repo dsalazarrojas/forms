@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bidder Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_personal
+      label: Personal Email Address
+      hint: Your personal contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_personal
+      label: Personal Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_business
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Legal Name
+      hint: Official registered name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_type
+      label: Type of Business Entity
+      hint: Legal structure
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - Limited liability company
+      - Corporation
+      - Non-profit organization
+      - Government entity
+      - Other
+      required: true
+    - id: 9
+      name: registration_number
+      label: Business Registration or License Number
+      hint: Official registration ID
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: tax_id
+      label: Tax Identification Number
+      hint: Federal tax ID or EIN
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_operating
+      label: Years in Business
+      hint: How long has company operated?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_header_contact
+      label: -- Business Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: business_address
+      label: Business Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email_business
+      label: Business Email Address
+      hint: Official company email
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: phone_business
+      label: Business Phone Number
+      hint: Main business line
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: website
+      label: Company Website
+      hint: URL if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_officer
+      label: -- Authorized Representative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: officer_name
+      label: Authorized Officer or Representative Name
+      hint: Person authorized to bid
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: officer_title
+      label: Title or Position
+      hint: Official role in company
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: officer_email
+      label: Officer Email Address
+      hint: Direct contact email
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: officer_phone
+      label: Officer Phone Number
+      hint: Direct contact phone
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: section_header_services
+      label: -- Services and Capabilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: bidding_category
+      label: Primary Bidding Category
+      hint: Main area of business
+      type: select_one
+      options:
+      - Construction
+      - Manufacturing
+      - Consulting
+      - Services
+      - Supplies
+      - Technology
+      - Professional services
+      - Other
+      required: true
+    - id: 28
+      name: specific_expertise
+      label: Specific Areas of Expertise
+      hint: List your key competencies
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: certifications
+      label: Professional Certifications or Credentials
+      hint: Relevant certifications held
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_header_financial
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Last fiscal year revenue
+      type: number
+      options: []
+      required: true
+    - id: 32
+      name: number_employees
+      label: Number of Employees
+      hint: Total headcount
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: section_header_agreement
+      label: -- Agreement and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: terms_conditions_acceptance
+      label: I Accept the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 35
+      name: authorization_statement
+      label: I Certify That I Am Authorized to Sign for This Company
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - I do not certify
+      required: true
+    - id: 36
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details?
+      type: text
+      options: []
+      required: false

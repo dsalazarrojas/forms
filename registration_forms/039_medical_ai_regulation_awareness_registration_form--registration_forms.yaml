@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical AI Regulation Awareness Registration Form
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ai_regulation
+      label: AI Regulation Awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''GDPR''}'
+      - '{''option'': ''HIPAA''}'
+      - '{''option'': ''CCPA''}'
+      required: false
+    - id: 3
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Medical Professional''}'
+      - '{''option'': ''Business Owner''}'
+      - '{''option'': ''Researcher''}'
+      required: false
+    - id: 4
+      name: expectations
+      label: Expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

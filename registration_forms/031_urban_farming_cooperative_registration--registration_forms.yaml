@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interests
+      label: Member Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Community Gardening
+      - Urban Planning
+      - Education
+      - Food Systems
+      - Sustainable Living
+      - Water Management
+      - Food Policy
+      - Agricultural Research
+      - Agricultural Education
+      - Soil Conservation
+      - Food Access
+      - Urban Agriculture
+      - Rural Development
+      - Agricultural Policy
+      required: false
+    - id: 7
+      name: member_role
+      label: Member Role
+      hint: null
+      type: select_one
+      options:
+      - Member Prophets
+      - Lead Farmer
+      - Urban Farmer
+      - Lead Urban Farmer
+      - Lead Urban Planner
+      - Lead Urban Planner
+      - Lead Urban Agriculture
+      - Lead Urban Agriculture
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

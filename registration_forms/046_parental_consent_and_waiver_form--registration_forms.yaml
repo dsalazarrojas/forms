@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent And Waiver Form
+    pages:
+    - id: 1
+      name: activity_participation
+      label: Parental Consent And Waiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: activity_participation_date
+      label: Date of Activity
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: activity_location
+      label: Activity Location
+      hint: null
+      type: text
+      options: []
+      required: false

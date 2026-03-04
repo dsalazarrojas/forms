@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Supply Chain Webinar Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the attendee
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the attendee
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: topic_interest_1
+      label: Supply Chain Management
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Supply Chain Management'', ''label'': ''Supply Chain
+        Management''}'
+      - '{''id'': 2, ''name'': ''Circular Economy'', ''label'': ''Circular Economy''}'
+      - '{''id'': 3, ''name'': ''Sustainable Production'', ''label'': ''Sustainable
+        Production''}'
+      - '{''id'': 4, ''name'': ''Supply Chain Transparency'', ''label'': ''Supply
+        Chain Transparency''}'
+      - '{''id'': 5, ''name'': ''Supply Chain Finance'', ''label'': ''Supply Chain
+        Finance''}'
+      required: true
+    - id: 7
+      name: topic_interest_2
+      label: Sustainable Business Models
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Supply Chain Transparency'', ''label'': ''Supply
+        Chain Transparency''}'
+      - '{''id'': 2, ''name'': ''Supply Chain Finance'', ''label'': ''Supply Chain
+        Finance''}'
+      - '{''id'': 3, ''name'': ''Sustainable Production'', ''label'': ''Sustainable
+        Production''}'
+      required: true
+    - id: 8
+      name: consent
+      label: Consent
+      hint: Check to receive updates
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: terms_of_service
+      label: Terms of Service
+      hint: Accept terms of service
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Accept'', ''label'': ''Accept''}'
+      - '{''id'': 2, ''name'': ''Decline'', ''label'': ''Decline''}'
+      required: true

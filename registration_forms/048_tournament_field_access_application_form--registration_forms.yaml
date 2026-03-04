@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Field Access Application Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coach_name
+      label: coach_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: practice_date
+      label: practice_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: practice_time
+      label: practice_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: game_date
+      label: game_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: game_time
+      label: game_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: field_access_requested
+      label: field_access_requested
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: game_field_count
+      label: game_field_count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: practice_field_count
+      label: practice_field_count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: field_access_requesting_party
+      label: field_access_requesting_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: field_access_requested_for
+      label: field_access_requested_for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

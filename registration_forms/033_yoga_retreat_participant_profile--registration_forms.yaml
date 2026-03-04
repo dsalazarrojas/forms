@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Retreat Participant Profile
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: health_condition
+      label: health condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''no_condition'', ''name'': ''No condition''}'
+      - '{''id'': 2, ''name'': ''HBP''}'
+      - '{''id'': 3, ''name'': ''Knee problems''}'
+      - '{''id'': 4, ''name'': ''Back problems''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      required: true
+    - id: 8
+      name: medical_device
+      label: medical device
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Oxygen tank''}'
+      - '{''id'': 2, ''name'': ''Wheelchair''}'
+      - '{''id'': 3, ''name'': ''Crutches''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 9
+      name: medication
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: disability
+      label: Disability
+      hint: null
+      type: text
+      options: []
+      required: false

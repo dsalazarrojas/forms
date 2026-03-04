@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citrus Industry Meeting Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Business Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry_segment
+      label: Industry Segment
+      hint: null
+      type: select_one
+      options:
+      - Grower
+      - Packer
+      - Processor
+      - Distributor
+      - Retailer
+      - Research
+      - Supplier
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - Over 500
+      required: true
+    - id: 9
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Full conference
+      - Single day
+      - Virtual attendance
+      - Exhibition only
+      required: true
+    - id: 11
+      name: session_tracks
+      label: Session Tracks of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Citrus production
+      - Pest management
+      - Irrigation techniques
+      - Market trends
+      - Sustainability
+      - Research updates
+      - Technology innovations
+      - Regulatory compliance
+      required: true
+    - id: 12
+      name: networking_events
+      label: Networking Events
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Welcome reception
+      - Industry dinner
+      - Golf tournament
+      - Facility tours
+      - Poster session
+      - None
+      required: true
+    - id: 13
+      name: meal_preferences
+      label: Meal Preferences
+      hint: null
+      type: select_one
+      options:
+      - No restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Other
+      required: true
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exhibition_interest
+      label: Interested in Exhibition Booth
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 16
+      name: sponsorship_interest
+      label: Interested in Sponsorship Opportunities
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: presentation_interest
+      label: Interested in Presenting
+      hint: null
+      type: select_one
+      options:
+      - Yes, as speaker
+      - Yes, as panelist
+      - Yes, poster presentation
+      - false
+      required: true
+    - id: 18
+      name: presentation_topic
+      label: Proposed Presentation Topic
+      hint: If interested in presenting
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accommodation_needed
+      label: Need Accommodation Recommendations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: transportation_needed
+      label: Need Transportation Information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Invoice company
+      - Check
+      - Wire transfer
+      required: true
+    - id: 22
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Accessibility needs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Any Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

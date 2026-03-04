@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethics Review Board Volunteer Registration
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_consent
+      label: Confirm Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: university
+      label: University
+      hint: null
+      type: select_one
+      options:
+      - Univ 1
+      - Univ 2
+      - Univ 3
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: hospital
+      label: Hospital
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: nonprofit
+      label: Nonprofit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Chairperson
+      - Board Member
+      - Committee Member
+      required: false
+    - id: 14
+      name: board
+      label: Board
+      hint: null
+      type: select_multiple
+      options:
+      - Ethics Board
+      - Review Board
+      - Other
+      required: false

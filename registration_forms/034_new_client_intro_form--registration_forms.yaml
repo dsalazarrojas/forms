@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: New Client Intro Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Technology''}'
+      - '{''value'': ''Finance''}'
+      - '{''value'': ''Healthcare''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: communication_channel
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In-app''}'
+      required: true
+    - id: 9
+      name: notification
+      label: Notification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''EST''}'
+      - '{''value'': ''CST''}'
+      - '{''value'': ''PST''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 11
+      name: preferred_communication
+      label: Preferred communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''In-app''}'
+      required: true
+    - id: 12
+      name: onboarding_frequency
+      label: Onboarding Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Bi-Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: true
+    - id: 13
+      name: onboarding_time
+      label: Onboarding Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: goal
+      label: Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: goals_frequency
+      label: Goals Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Bi-Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: true
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

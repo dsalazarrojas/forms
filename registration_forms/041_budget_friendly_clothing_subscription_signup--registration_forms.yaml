@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Friendly Clothing Subscription Signup
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscriber_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: For fit recommendations
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: size
+      label: Primary Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 7
+      name: style_preferences
+      label: Style Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Casual
+      - Formal
+      - Athletic
+      - Bohemian
+      - Minimalist
+      - Vintage
+      - Trendy
+      - Professional
+      required: true
+    - id: 8
+      name: color_preferences
+      label: Preferred Colors
+      hint: Select favorites
+      type: select_multiple
+      options:
+      - Black
+      - White
+      - Blue
+      - Red
+      - Neutral Tones
+      - Bright Colors
+      - Pastels
+      required: false
+    - id: 9
+      name: budget_per_month
+      label: Monthly Budget
+      hint: How much do you want to spend
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: subscription_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Every 2 Months
+      - Quarterly
+      - As-Needed
+      required: true
+    - id: 11
+      name: clothing_types
+      label: Types of Clothing Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tops
+      - Bottoms
+      - Dresses
+      - Outerwear
+      - Activewear
+      - Accessories
+      - Shoes
+      required: true
+    - id: 12
+      name: sustainable_preference
+      label: Sustainable or Eco-Friendly Options
+      hint: null
+      type: select_one
+      options:
+      - Yes, prefer sustainable
+      - Open to both
+      - Neutral
+      required: false
+    - id: 13
+      name: fit_preferences
+      label: Fit Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_address
+      label: Delivery Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: subscription_fee
+      label: Monthly Subscription Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true

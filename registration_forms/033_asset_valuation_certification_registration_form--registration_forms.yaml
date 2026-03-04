@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Valuation Certification Registration Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: country_of_residence
+      label: Country of Residence
+      hint: Where you live
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 7
+      name: highest_education
+      label: Highest Education Level
+      hint: Academic qualification
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Professional Certification
+      required: true
+    - id: 8
+      name: current_employer
+      label: Current Employer
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Position held
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: In relevant field
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: valuation_experience
+      label: Asset Valuation Experience
+      hint: How much experience
+      type: select_one
+      options:
+      - None - Beginner
+      - Less than 2 years
+      - 2 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      required: true
+    - id: 12
+      name: certification_level
+      label: Certification Level Sought
+      hint: Which certification
+      type: select_one
+      options:
+      - Certified Valuation Analyst
+      - Accredited Senior Appraiser
+      - Certified Business Appraiser
+      - Real Property Valuation
+      - Personal Property Valuation
+      required: true
+    - id: 13
+      name: specialization_area
+      label: Area of Specialization
+      hint: Focus area
+      type: select_multiple
+      options:
+      - Real Estate
+      - Business Valuation
+      - Machinery and Equipment
+      - Personal Property
+      - Financial Assets
+      - Intellectual Property
+      - Art and Antiques
+      required: true
+    - id: 14
+      name: previous_certifications
+      label: Do You Hold Other Certifications
+      hint: Related credentials
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: certifications_list
+      label: List Existing Certifications
+      hint: Describe credentials
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exam_preference
+      label: Exam Delivery Preference
+      hint: How to take exam
+      type: select_one
+      options:
+      - In Person Testing Center
+      - Online Proctored
+      - Either is Fine
+      required: true
+    - id: 17
+      name: preferred_exam_date
+      label: Preferred Exam Date
+      hint: When to schedule
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: preferred_location
+      label: Preferred Testing Location
+      hint: City or region
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: study_materials_needed
+      label: Do You Need Study Materials
+      hint: Preparation resources
+      type: select_one
+      options:
+      - Yes - Digital Only
+      - Yes - Print and Digital
+      - No - I Have Materials
+      required: true
+    - id: 20
+      name: membership_status
+      label: Professional Membership Status
+      hint: Association member
+      type: select_one
+      options:
+      - Current Member
+      - Former Member
+      - Never Member
+      required: true
+    - id: 21
+      name: membership_number
+      label: Membership Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: registration_fee
+      label: Registration Fee
+      hint: Program cost
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How paying
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Company Check
+      - Bank Transfer
+      - Payment Plan
+      required: true
+    - id: 24
+      name: employer_sponsored
+      label: Is Employer Sponsoring
+      hint: Company paying
+      type: select_one
+      options:
+      - Yes - Full Sponsorship
+      - Yes - Partial Sponsorship
+      - No - Self Funded
+      required: true
+    - id: 25
+      name: continuing_education_credits
+      label: Need Continuing Education Credits
+      hint: CPE or similar
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: referral_source
+      label: How Did You Hear About Program
+      hint: Referral source
+      type: select_one
+      options:
+      - Professional Association
+      - Employer Recommendation
+      - Online Search
+      - Colleague Referral
+      - Advertisement
+      - Other
+      required: true
+    - id: 27
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agreement to policies
+      type: select_one
+      options:
+      - Yes I Accept
+      - 'No'
+      required: true
+    - id: 28
+      name: code_of_ethics_agreed
+      label: I Agree to Code of Ethics
+      hint: Professional standards
+      type: select_one
+      options:
+      - Yes I Agree
+      - 'No'
+      required: true
+    - id: 29
+      name: application_signature
+      label: Applicant Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

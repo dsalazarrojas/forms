@@ -1,0 +1,365 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choir Media Release Waiver Form
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: choir_name
+      label: Choir Name or Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_information
+      label: Parent or Guardian Information
+      hint: If participant is a minor
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: is_minor
+      label: Is the participant under 18
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: parent_first_name
+      label: Parent or Guardian First Name
+      hint: If minor
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_last_name
+      label: Parent or Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: media_release
+      label: Media Release Authorization
+      hint: Permission for media use
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: grant_permission
+      label: I grant permission for media use
+      hint: Photos, videos, recordings
+      type: select_one
+      options:
+      - Yes, I grant full permission
+      - Yes, with limitations
+      - No, I do not grant permission
+      required: true
+    - id: 18
+      name: photo_permission
+      label: I grant permission for photographs
+      hint: Still images
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 19
+      name: video_permission
+      label: I grant permission for video recordings
+      hint: null
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 20
+      name: audio_permission
+      label: I grant permission for audio recordings
+      hint: Voice recordings
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 21
+      name: media_usage_scope
+      label: Approved Media Usage
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Choir website
+      - Social media
+      - Print materials
+      - Press releases
+      - Promotional videos
+      - Internal archives
+      - Educational purposes
+      - Broadcast media
+      - None
+      required: true
+    - id: 22
+      name: media_limitations
+      label: Limitations on Media Use
+      hint: If any restrictions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: name_usage
+      label: Name Usage
+      hint: Using your name
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: name_permission
+      label: I grant permission to use my name
+      hint: In connection with media
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - Yes, first name only
+      - No, I do not grant permission
+      required: true
+    - id: 25
+      name: likeness_usage
+      label: Likeness Usage
+      hint: Your image
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: likeness_permission
+      label: I grant permission to use my likeness
+      hint: Image, voice, performance
+      type: select_one
+      options:
+      - Yes, I grant permission
+      - No, I do not grant permission
+      required: true
+    - id: 27
+      name: compensation
+      label: Compensation
+      hint: Payment agreement
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: no_compensation_expected
+      label: I understand no compensation will be provided
+      hint: For media use
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 29
+      name: ownership
+      label: Ownership
+      hint: Rights ownership
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: choir_owns_rights
+      label: I understand the choir owns all rights to the media
+      hint: Copyright and usage
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 31
+      name: duration
+      label: Duration
+      hint: How long permission lasts
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: permission_duration
+      label: Permission Duration
+      hint: null
+      type: select_one
+      options:
+      - Indefinitely
+      - For 5 years
+      - For 2 years
+      - For 1 year
+      - For current season only
+      required: true
+    - id: 33
+      name: revocation
+      label: Revocation
+      hint: Canceling permission
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: understand_revocation
+      label: I understand I may revoke permission in writing
+      hint: Future media only
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 35
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Legal protection
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: waive_claims
+      label: I waive any claims related to media use
+      hint: Within agreed scope
+      type: select_one
+      options:
+      - Yes, I waive claims
+      - No, I do not waive claims
+      required: true
+    - id: 37
+      name: voluntary_agreement
+      label: Voluntary Agreement
+      hint: Your consent
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: agreement_is_voluntary
+      label: My agreement is given voluntarily
+      hint: Without coercion
+      type: select_one
+      options:
+      - Yes, voluntary
+      - No, not voluntary
+      required: true
+    - id: 39
+      name: read_understood
+      label: I have read and understand this form
+      hint: null
+      type: select_one
+      options:
+      - Yes, I read and understand
+      - It was read to me and I understand
+      - Someone explained it and I understand
+      required: true
+    - id: 40
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 41
+      name: participant_signature
+      label: Participant Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 42
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 43
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: If participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: parent_signature_date
+      label: Parent Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 45
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false

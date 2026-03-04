@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Energy Recovery Project Registration Form
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: project_time
+      label: Project Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: project_note
+      label: Project Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_energy_source
+      label: Project Energy Source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_capacity
+      label: Project Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: project_capacity_unit
+      label: Project Capacity Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: project_capacity_type
+      label: Project Capacity Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: project_capacity_range
+      label: Project Capacity Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_capacity_range_unit
+      label: Project Capacity Range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: project_energy_efficiency
+      label: Project Energy Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: project_cost
+      label: Project Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: project_capacity_cost
+      label: Project Capacity Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: project_capacity_cost_unit
+      label: Project Capacity Cost Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: project_capacity_cost_currency
+      label: Project Capacity Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

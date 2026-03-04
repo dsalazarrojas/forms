@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_name
+      label: Class name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: day
+      label: Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: days_of_week
+      label: Days of the week
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 12
+      name: class_type
+      label: Class type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inquiry_type
+      label: Inquiry type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Private
+      - Trial
+      required: false
+    - id: 14
+      name: student_level
+      label: Student level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

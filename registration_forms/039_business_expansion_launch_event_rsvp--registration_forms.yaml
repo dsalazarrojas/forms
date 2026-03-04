@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expansion Launch Event RSVP
+    pages:
+    - id: 1
+      name: guest_information
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship
+      label: Relationship to Company
+      hint: How do you know us?
+      type: select_one
+      options:
+      - Employee
+      - Client
+      - Partner
+      - Investor
+      - Friend
+      - Media
+      - Other
+      required: true
+    - id: 8
+      name: rsvp_status
+      label: -- RSVP Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attending
+      label: Will You Be Attending
+      hint: Can you attend?
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, I Cannot Attend
+      - Maybe
+      - Unsure
+      required: true
+    - id: 10
+      name: number_guests
+      label: Number of Guests (Including Yourself)
+      hint: How many people?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: guest_names
+      label: Names of Additional Guests
+      hint: Names of other attendees
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: Which date works best?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_session
+      label: Preferred Session
+      hint: Which session?
+      type: select_one
+      options:
+      - Morning Session
+      - Afternoon Session
+      - Full Day Event
+      - No Preference
+      required: true
+    - id: 15
+      name: sessions_interested
+      label: Sessions of Interest
+      hint: Which sessions?
+      type: select_multiple
+      options:
+      - Opening Ceremony
+      - Product Launch
+      - Market Overview
+      - Customer Testimonials
+      - Q and A Panel
+      - Networking Reception
+      - Facility Tours
+      required: false
+    - id: 16
+      name: dietary_needs
+      label: Dietary Requirements
+      hint: Any dietary restrictions?
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 17
+      name: transportation
+      label: Transportation
+      hint: Do you need transportation?
+      type: select_one
+      options:
+      - No, I Will Drive
+      - Yes, Please Arrange
+      - Shuttle from Location
+      - Unsure
+      required: false
+    - id: 18
+      name: parking
+      label: Parking Needed
+      hint: Do you need parking?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 19
+      name: accessibility
+      label: Accessibility Accommodations
+      hint: Special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: marketing_interest
+      label: Marketing and Partnership Interest
+      hint: Are you interested in partnerships?
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 21
+      name: additional_guests_permission
+      label: May We Contact Your Guests
+      hint: Can we email your guests?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

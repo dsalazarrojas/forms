@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Analytics Certification Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: motivation
+      label: What motivates you to join this certification program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: Do you consent to participate?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: program_details
+      label: Certification Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certification_program
+      label: Which certification program would you like to join?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

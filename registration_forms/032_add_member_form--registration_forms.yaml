@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Add Member Form
+    pages:
+    - id: 1
+      name: member_header
+      label: -- New Member Onboarding --
+      hint: Please provide your details to join our organization
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact for membership updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: membership_details_header
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: membership_type
+      label: Membership Tier / Type
+      hint: null
+      type: select_one
+      options:
+      - Standard Member
+      - Premium Member
+      - Student / Senior Discounted
+      - Corporate Representative
+      - Honorary / Lifetime Member
+      required: true
+    - id: 8
+      name: occupation_skills
+      label: Occupation or Special Skills
+      hint: How would you like to contribute to the club?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: interest_areas
+      label: Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Networking Events
+      - Educational Workshops
+      - Community Volunteering
+      - Social Gatherings
+      - Committee Leadership
+      required: false
+    - id: 10
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: profile_photo_ack
+      label: I am ready to provide a profile photo for the member directory
+      hint: A link to upload will be sent in the confirmation email
+      type: select_one
+      options:
+      - true
+      - Later
+      required: true
+    - id: 12
+      name: code_of_conduct_ack
+      label: I agree to abide by the organization's Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: communications_pref
+      label: Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly Newsletter
+      - Event SMS Alerts
+      - Partner Offers
+      required: false
+    - id: 14
+      name: onboarding_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true

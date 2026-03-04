@@ -1,0 +1,319 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Data Science Symposium Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Name of your institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Academic University
+      - Research Institute
+      - Hospital or Healthcare
+      - Government Agency
+      - Pharmaceutical Company
+      - Technology Company
+      - Non-Profit Organization
+      - Other
+      required: true
+    - id: 8
+      name: field_of_expertise
+      label: Field of Expertise
+      hint: Your primary field
+      type: select_one
+      options:
+      - Data Science
+      - Epidemiology
+      - Public Health
+      - Clinical Medicine
+      - Biostatistics
+      - Health Informatics
+      - Computer Science
+      - Other
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Experience
+      hint: In your field
+      type: select_one
+      options:
+      - Student
+      - Less than 2 years
+      - 2-5 years
+      - 6-10 years
+      - 11-20 years
+      - Over 20 years
+      required: true
+    - id: 10
+      name: section_professional_info
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: symposium_date
+      label: Attendance Selection
+      hint: Which days will you attend
+      type: select_one
+      options:
+      - Day 1 Only
+      - Day 2 Only
+      - Both Days
+      - Virtual Attendance
+      required: true
+    - id: 12
+      name: session_tracks
+      label: Session Tracks of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Machine Learning in Healthcare
+      - Predictive Analytics
+      - Real-World Evidence
+      - Population Health Data
+      - Clinical Data Integration
+      - AI and Diagnostics
+      - Data Privacy and Ethics
+      - Health Equity Analytics
+      required: true
+    - id: 13
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Choose your preferred workshop
+      type: select_one
+      options:
+      - No workshop
+      - Python for Health Data
+      - R for Epidemiology
+      - Machine Learning Basics
+      - Advanced Analytics
+      - Data Visualization
+      required: true
+    - id: 14
+      name: section_session_selection
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: abstract_submission
+      label: Abstract Submission
+      hint: Are you submitting an abstract
+      type: select_one
+      options:
+      - false
+      - Yes oral presentation
+      - Yes poster presentation
+      - Yes both
+      required: true
+    - id: 16
+      name: abstract_title
+      label: Abstract Title
+      hint: If submitting
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: presentation_equipment
+      label: Equipment Needs
+      hint: What equipment do you need
+      type: select_multiple
+      options:
+      - None
+      - Projector
+      - Microphone
+      - Whiteboard
+      - Computer
+      - Other
+      required: false
+    - id: 18
+      name: section_presentation
+      label: -- Presentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Halal
+      - Kosher
+      - Other
+      required: true
+    - id: 20
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_catering
+      label: -- Catering --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: registration_type
+      label: Registration Type
+      hint: Select your category
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Virtual Only
+      - Student Rate
+      - Early Bird
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Purchase Order
+      - Invoice
+      - Check
+      - Wire Transfer
+      required: true
+    - id: 24
+      name: section_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: accommodation_needed
+      label: Accommodation
+      hint: Do you need hotel information
+      type: select_one
+      options:
+      - No I have accommodation
+      - Yes send hotel list
+      - Yes book for me
+      required: true
+    - id: 26
+      name: travel_grant
+      label: Travel Grant
+      hint: Are you applying for travel support
+      type: select_one
+      options:
+      - false
+      - Yes interested
+      - Yes already applied
+      required: false
+    - id: 27
+      name: section_travel
+      label: -- Travel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: networking_interest
+      label: Networking Interest
+      hint: Interested in networking events
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: true
+    - id: 29
+      name: exhibitor_interest
+      label: Exhibitor Interest
+      hint: Interested in visiting exhibitors
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: true
+    - id: 30
+      name: how_heard
+      label: How Did You Hear About Symposium
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Colleague
+      - Professional Organization
+      - Social Media
+      - Previous Event
+      - Other
+      required: true
+    - id: 31
+      name: special_requests
+      label: Special Requests
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: agree_terms
+      label: Agree to Terms
+      hint: I agree to symposium terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

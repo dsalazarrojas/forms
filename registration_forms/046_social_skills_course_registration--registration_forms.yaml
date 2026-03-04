@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_skills_course_registration
+    pages:
+    - id: 1
+      name: course_selection
+      label: Choose A Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_selection
+      label: Select A Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: Enter date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day
+      label: Time Of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_state
+      label: Participant State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_postal
+      label: Participant Postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_email
+      label: Confirm Email
+      hint: Confirm your email
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

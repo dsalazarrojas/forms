@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: hope_community_church_vacation_bible_school_registration_form_2019
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Select a grade level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: grade_level_options
+      label: Grade Level Options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level_options
+      label: 5th - 7th Grade
+      hint: null
+      type: select_multiple
+      options:
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      required: false
+    - id: 8
+      name: grade_level_options
+      label: K-4th Grade
+      hint: null
+      type: select_multiple
+      options:
+      - K-1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      required: false

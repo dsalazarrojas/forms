@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Development Training Registration Form
+    pages:
+    - id: 1
+      name: program_details
+      label: Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_info
+      label: Training Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: selected_programs
+      label: Selected Programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Program A''}'
+      - '{''value'': ''Program B''}'
+      - '{''value'': ''Program C''}'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

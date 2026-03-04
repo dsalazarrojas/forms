@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Service Information Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 6
+      name: service_issue
+      label: Service Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meter_readings
+      label: Meter Readings
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meter_serial_number
+      label: Meter Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: billing_cycle
+      label: Billing Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Monthly
+      - Annually
+      required: false
+    - id: 13
+      name: billing_amount
+      label: Billing Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: false
+    - id: 16
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - Administrator
+      - Customer
+      - Service Technician
+      required: false
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Customer
+      - Service Technician
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_contact
+      label: Billing Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: billing_contact_info
+      label: Billing Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: billing_notes
+      label: Billing Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: CPR Certification Check Out Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For certification delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Institution
+      hint: Employer or school
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_type
+      label: CPR Course Type
+      hint: null
+      type: select_one
+      options:
+      - Basic CPR
+      - CPR with AED
+      - Advanced CPR
+      - Pediatric CPR
+      - Infant CPR
+      - Healthcare Provider CPR
+      - Other
+      required: true
+    - id: 7
+      name: course_date
+      label: Course Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: instructor_name
+      label: Instructor Name
+      hint: Who taught the course
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: testing_scores
+      label: CPR Skills Test Score
+      hint: Percentage or pass-fail
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: written_exam_score
+      label: Written Exam Score
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_passed
+      label: Course Passed
+      hint: null
+      type: select_one
+      options:
+      - Yes - passed
+      - No - needs retake
+      required: true
+    - id: 12
+      name: certification_type
+      label: Type of Certification Requested
+      hint: null
+      type: select_one
+      options:
+      - Digital certificate
+      - Printed certificate
+      - ID card
+      - All of the above
+      required: true
+    - id: 13
+      name: address
+      label: Mailing Address
+      hint: For physical certificates
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city_state_zip
+      label: City, State, ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certification_fee
+      label: Certification Fee Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Money order
+      - Cash
+      required: true
+    - id: 17
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: true
+    - id: 18
+      name: renewal_date
+      label: Certification Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: additional_courses
+      label: Interested in Additional CPR Courses
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

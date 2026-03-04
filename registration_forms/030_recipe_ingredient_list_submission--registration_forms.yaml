@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: recipe_ingredient_list_submission
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ingredient_count
+      label: Ingredient Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ingredient_ingredients
+      label: Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: ingredient_name
+      label: Ingredient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ingredient_description
+      label: Ingredient Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ingredient_quantity
+      label: Ingredient Quantity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ingredient_unit
+      label: Ingredient Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: submission_comment
+      label: Submission Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ingredient_image
+      label: Ingredient Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ingredient_image_url
+      label: Ingredient Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_url
+      label: Submission URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: submission_status_new
+      label: New
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_status_draft
+      label: Draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_status_published
+      label: Published
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_status_archived
+      label: Archived
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_status_spam
+      label: Spam
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_status_denied
+      label: Denied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_status_trash
+      label: Trash
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status_review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

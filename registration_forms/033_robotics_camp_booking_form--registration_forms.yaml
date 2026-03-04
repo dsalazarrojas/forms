@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robotics Camp Booking Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: child_dob
+      label: Child Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: camp_name
+      label: Camp Name
+      hint: null
+      type: text
+      options: []
+      required: false

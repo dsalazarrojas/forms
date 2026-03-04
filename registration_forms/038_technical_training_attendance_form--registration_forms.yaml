@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Training Attendance Form
+    pages:
+    - id: 1
+      name: training_session_id
+      label: Training Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_start_time
+      label: Session Start Time_goals
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: Attendee E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attended
+      label: Attended
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false

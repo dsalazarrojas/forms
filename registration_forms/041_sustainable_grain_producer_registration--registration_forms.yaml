@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Grain Producer Registration
+    pages:
+    - id: 1
+      name: producer_name
+      label: Producer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: farm_production_methods
+      label: Farm Production Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Organic
+      - Conventional
+      - Integrated
+      required: false
+    - id: 5
+      name: certification_body
+      label: Certification Body
+      hint: null
+      type: select_one
+      options:
+      - USDA
+      - Non-USDA
+      - Other
+      required: false
+    - id: 6
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: producer_contact
+      label: Producer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: farm_products
+      label: Farm Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: producer_certifications
+      label: Producer Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: producer_interests
+      label: Producer Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: farm_location_notes
+      label: Farm Location Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: farm_size_units
+      label: Farm Size Units
+      hint: null
+      type: select_one
+      options:
+      - Acres
+      - Hectares
+      - Other
+      required: false

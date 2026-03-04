@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Screening Permission Form
+    pages:
+    - id: 1
+      name: health_screening_permission_form_1
+      label: first_page_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_type
+      label: consent_type_label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: date
+      label: date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_day
+      label: time_of_day_label
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: consent_given
+      label: consent_given_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: notes
+      label: notes_label
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: health_screener
+      label: health_screener_label
+      hint: null
+      type: text
+      options: []
+      required: false

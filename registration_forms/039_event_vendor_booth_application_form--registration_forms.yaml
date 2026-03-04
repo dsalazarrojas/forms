@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_vendor_booth_application_form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: event_vendor_booth_application_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: booth_size
+      label: booth_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_name
+      label: event_vendor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vendor_type
+      label: vendor_type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vendor_description
+      label: vendor_description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: agreement
+      label: agreement
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true

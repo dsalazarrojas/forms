@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Volunteer Onboarding Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_interest
+      label: Event of Interest
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: availability
+      label: Availability
+      hint: When you can help
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Weekend evenings
+      - Flexible
+      required: true
+    - id: 11
+      name: role_preferences
+      label: Role Preferences
+      hint: Preferred positions
+      type: select_multiple
+      options:
+      - Registration desk
+      - Usher
+      - Setup crew
+      - Breakdown crew
+      - Food service
+      - Auction helper
+      - Information booth
+      - Float runner
+      - Any role
+      required: true
+    - id: 12
+      name: prior_experience
+      label: Prior Volunteer Experience
+      hint: Describe experience
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skills
+      label: Relevant Skills
+      hint: What you bring
+      type: select_multiple
+      options:
+      - Customer service
+      - Cash handling
+      - Event setup
+      - Crowd management
+      - First aid certified
+      - Bilingual
+      - Leadership
+      - Other
+      required: false
+    - id: 14
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For volunteer shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If meals provided
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Other
+      required: false
+    - id: 16
+      name: background_check
+      label: Consent to Background Check
+      hint: If required
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 17
+      name: liability_waiver
+      label: Accept Liability Waiver
+      hint: Required agreement
+      type: select_one
+      options:
+      - Yes I accept
+      - No I do not accept
+      required: true
+    - id: 18
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Previous volunteer
+      - Community board
+      - Other
+      required: false
+    - id: 19
+      name: motivation
+      label: Why Do You Want to Volunteer
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

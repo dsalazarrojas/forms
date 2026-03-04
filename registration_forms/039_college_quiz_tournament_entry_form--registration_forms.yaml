@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Quiz Tournament Entry Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: Name of your quiz team
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: School or College Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tournament_name
+      label: Tournament Name
+      hint: Which tournament are you entering
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tournament_date
+      label: Tournament Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: team_captain_name
+      label: Team Captain Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: captain_email
+      label: Team Captain Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: captain_phone
+      label: Team Captain Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_category
+      label: Team Category
+      hint: Division or level of competition
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Open
+      - Mixed Level
+      required: true
+    - id: 9
+      name: team_size
+      label: Team Size (Number of Players)
+      hint: How many people on team
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: player_1_name
+      label: Player 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: player_1_id
+      label: Player 1 Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: player_2_name
+      label: Player 2 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: player_2_id
+      label: Player 2 Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: player_3_name
+      label: Player 3 Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: player_3_id
+      label: Player 3 Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: player_4_name
+      label: Player 4 Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: player_4_id
+      label: Player 4 Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: alternate_player_name
+      label: Alternate Player Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: alternate_player_id
+      label: Alternate Player Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_experience
+      label: Team Quiz Experience
+      hint: Have you competed before
+      type: select_one
+      options:
+      - First Time
+      - Some Experience
+      - Very Experienced
+      required: true
+    - id: 21
+      name: entry_fee_paid
+      label: Entry Fee Paid
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will entry fee be paid
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - PayPal
+      - Cash
+      - School Account
+      - Other
+      required: true
+    - id: 23
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: waiver_signed
+      label: All Players Agree to Competition Rules and Waivers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: eligibility_confirmation
+      label: Team Captain Confirms All Players Are Eligible
+      hint: Meet age and enrollment requirements
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

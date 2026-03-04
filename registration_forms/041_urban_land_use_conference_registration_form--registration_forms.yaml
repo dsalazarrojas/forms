@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Land Use Conference Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: conference_attendance
+      label: Conference attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: null
+      type: select_one
+      options:
+      - Vegan
+      - Vegetarian
+      - None
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file
+      label: Output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: jotform_user
+      label: Jotform user
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Product Demo Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_function
+      label: job_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: schedule
+      label: schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Evening''}'
+      required: true
+    - id: 8
+      name: preferred_time
+      label: preferred_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: available_slots
+      label: available_slots
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      - '{''id'': 6, ''label'': ''Saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday''}'
+      required: false
+    - id: 10
+      name: appointment_date
+      label: appointment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: user_agreement
+      label: user agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: product_description
+      label: product description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: demo_link
+      label: demo link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: demo_link_url
+      label: demo link url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: demo_start_time
+      label: demo start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: demo_end_time
+      label: demo end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: demo_duration
+      label: demo duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: demo_schedule
+      label: demo schedule
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''In-person''}'
+      required: false
+    - id: 24
+      name: demo_notes
+      label: demo notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

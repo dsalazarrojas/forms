@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visa Application Portal Access Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visa_category
+      label: Visa Category
+      hint: null
+      type: select_one
+      options:
+      - Business Visa
+      - Private Visa
+      required: true
+    - id: 3
+      name: visa_subcategory
+      label: Sub Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: applicant_name
+      label: Applicant Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: passport_number
+      label: Passport Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: passport_expiry_date
+      label: Passport Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: Please enter your address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_button
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_button
+      label: Previous
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: finish_button
+      label: Finish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_again_button
+      label: Submit Again
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: success_message
+      label: Success Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cancel_all_button
+      label: Cancel All
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: finish_screen
+      label: Finish Screen
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_all_button
+      label: Submit All
+      hint: null
+      type: text
+      options: []
+      required: false

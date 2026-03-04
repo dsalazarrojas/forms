@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Children Initiative Participation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: First name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: lastName
+      hint: Last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Name of organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: Your role in the initiative
+      type: select_one
+      options:
+      - Volunteer
+      - Supporter
+      - Leader
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: DateOfBirthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_available
+      label: TimeAvailable
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: ConfirmEmail
+      hint: null
+      type: email
+      options: []
+      required: false

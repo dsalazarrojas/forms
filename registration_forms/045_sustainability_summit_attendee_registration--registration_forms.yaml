@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Summit Attendee Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: activity_interests
+      label: Activity Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: dietary_needs
+      label: Dietary Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: policy_consent
+      label: Policy Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_and_register
+      label: Submit and Register
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

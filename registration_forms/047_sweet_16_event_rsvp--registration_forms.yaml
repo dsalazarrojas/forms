@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: sweet16_event_rsvp
+    pages:
+    - id: 1
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: guest_phone
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_venue
+      label: event_venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 8
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''attending'', ''label'': ''Attending''}'
+      - '{''id'': 2, ''name'': ''not_attending'', ''label'': ''Not Attending''}'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

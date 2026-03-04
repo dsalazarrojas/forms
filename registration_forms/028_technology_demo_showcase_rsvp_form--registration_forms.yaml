@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Demo Showcase RSVP Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tech_demo
+      label: Technology Demo
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Demo 1''}'
+      - '{''value'': ''Demo 2''}'
+      - '{''value'': ''Demo 3''}'
+      required: false
+    - id: 3
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tech_demo_choice
+      label: Technology Demo
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Demo 1''}'
+      - '{''value'': ''Demo 2''}'
+      - '{''value'': ''Demo 3''}'
+      required: false

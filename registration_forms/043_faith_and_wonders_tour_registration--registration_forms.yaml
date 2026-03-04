@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Forms
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_tour_dates
+      label: Preferred Tour Dates
+      hint: null
+      type: select_multiple
+      options:
+      - '2022-01-01'
+      - '2022-01-02'
+      - '2022-01-03'
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Contact 1
+      - Emergency Contact 2
+      - Emergency Contact 3
+      required: true
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 10
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: participant_religion
+      label: Participant Religion
+      hint: null
+      type: select_multiple
+      options:
+      - Hindu
+      - Islam
+      - Buddhism
+      - Christian
+      - Other
+      required: false
+    - id: 12
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: participant_province
+      label: Participant Province
+      hint: null
+      type: select_multiple
+      options:
+      - Ontario
+      - British Columbia
+      - Quebec
+      - Nova Scotia
+      required: false
+    - id: 14
+      name: participant_city
+      label: Participant City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: participant_postalcode
+      label: Participant Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: participant_country
+      label: Participant Country
+      hint: null
+      type: select_multiple
+      options:
+      - Canada
+      - USA
+      - Mexico
+      required: true
+    - id: 17
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_tour_dates
+      label: Participant Tour Dates
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: participant_tour_time
+      label: Participant Tour Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: participant_language_preference
+      label: Participant Language Preference
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 22
+      name: participant_meal
+      label: Participant Meal
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-Vegetarian
+      - Vegan
+      - No Meal Required
+      required: false
+    - id: 23
+      name: participant_special_requirements
+      label: Participant Special Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - No Requirements
+      - Wheel Chair
+      - Service Animal
+      - Other
+      required: false
+    - id: 24
+      name: participant_vehicles
+      label: Participant Vehicles
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Train
+      - Bus
+      - No Vehicles
+      required: false
+    - id: 25
+      name: participant_tour_operator
+      label: Participant Tour Operator
+      hint: null
+      type: select_multiple
+      options:
+      - Tour Operator 1
+      - Tour Operator 2
+      - Tour Operator 3
+      required: true

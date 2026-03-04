@@ -1,0 +1,331 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chess Tournament Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: Your postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Your country
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: chess_rating
+      label: Chess Rating
+      hint: Your current rating
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: rating_type
+      label: Rating Type
+      hint: Type of rating
+      type: select_one
+      options:
+      - FIDE
+      - USCF
+      - ECF
+      - Chess.com
+      - Lichess
+      - Unrated
+      - Other
+      required: true
+    - id: 15
+      name: federation_id
+      label: Federation ID
+      hint: Your federation ID number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tournament_section
+      label: Tournament Section
+      hint: Which section are you registering for
+      type: select_one
+      options:
+      - Open Section
+      - Under 2200
+      - Under 1800
+      - Under 1400
+      - Under 1000
+      - Junior (Under 18)
+      - Senior (50+)
+      - Women's Section
+      required: true
+    - id: 17
+      name: tournament_date
+      label: Tournament Date
+      hint: Date of tournament
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: previous_tournaments
+      label: Previous Tournament Experience
+      hint: How many tournaments have you played
+      type: select_one
+      options:
+      - First tournament
+      - 1-5 tournaments
+      - 6-20 tournaments
+      - 21-50 tournaments
+      - 50+ tournaments
+      required: true
+    - id: 19
+      name: club_affiliation
+      label: Chess Club Affiliation
+      hint: Name of your chess club if any
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: meal_preference
+      label: Meal Preference
+      hint: If meals are provided
+      type: select_one
+      options:
+      - No preference
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Halal
+      - Kosher
+      - Other
+      required: false
+    - id: 24
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For tournament shirt if provided
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult 2XL
+      - Adult 3XL
+      required: false
+    - id: 25
+      name: entry_fee
+      label: Entry Fee Payment
+      hint: Have you paid the entry fee
+      type: select_one
+      options:
+      - Yes, paid online
+      - Yes, will pay at venue
+      - No, need scholarship
+      - No, will pay later
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Cash at venue
+      - Check
+      - Scholarship
+      required: false
+    - id: 27
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Do you need hotel recommendations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need transportation assistance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: how_did_you_hear
+      label: How Did You Hear About Tournament
+      hint: How did you learn about this event
+      type: select_one
+      options:
+      - Chess club
+      - Social media
+      - Chess website
+      - Friend
+      - Coach
+      - Previous tournament
+      - Other
+      required: false
+    - id: 30
+      name: agree_to_rules
+      label: Agree to Tournament Rules
+      hint: I agree to follow all tournament rules
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 31
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: I agree to follow the code of conduct
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 32
+      name: photo_release
+      label: Photo Release
+      hint: I allow photos for promotional use
+      type: select_one
+      options:
+      - Yes, I allow
+      - false
+      required: true
+    - id: 33
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I accept the liability waiver
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true
+    - id: 34
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: player_signature
+      label: Player Signature
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true
+    - id: 36
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Required for players under 18
+      type: select_one
+      options:
+      - Yes, signed
+      - false
+      - Not applicable
+      required: false

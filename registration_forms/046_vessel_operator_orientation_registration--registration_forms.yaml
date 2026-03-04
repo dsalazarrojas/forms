@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: vessel_operator_orientation_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vessel_name
+      label: Vessel Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: operator_type
+      label: Operator Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Marina''}'
+      - Boat Yard
+      - Charter
+      - Other
+      required: true
+    - id: 7
+      name: vessel_type
+      label: Vessel Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Commercial''}'
+      - Recreational
+      - Other
+      required: true
+    - id: 8
+      name: vessel_length
+      label: Vessel Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vessel_draft
+      label: Vessel Draft
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

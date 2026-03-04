@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rideshare User Registration Form
+    pages:
+    - id: 1
+      name: rider_name
+      label: Rider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rider_phone
+      label: Rider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rider_email
+      label: Rider Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: rider_notes
+      label: Rider Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: driver_phone
+      label: Driver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: start_location
+      label: Start Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: end_location
+      label: End Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ride_date
+      label: Ride Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: estimated_riders
+      label: Estimated Riders
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: ride_details
+      label: Ride Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: ride_notes
+      label: Ride Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: driver_experience_years
+      label: Driver Experience Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_type_list
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: rider_rating
+      label: Rider Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_license_status
+      label: Vehicle License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_year_made
+      label: Vehicle Year Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_registration_number
+      label: Vehicle Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: vehicle_insurance
+      label: Vehicle Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

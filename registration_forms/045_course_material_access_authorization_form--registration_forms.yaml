@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Material Access Authorization Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: access_start_date
+      label: Access Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: access_end_date
+      label: Access End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: access_granted_until
+      label: Access Granted Until
+      hint: null
+      type: date
+      options: []
+      required: false

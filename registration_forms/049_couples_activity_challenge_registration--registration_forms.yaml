@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Couples Activity Challenge Registration
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: couple_status
+      label: Couple Status
+      hint: null
+      type: select_multiple
+      options:
+      - Married
+      - Engaged
+      - In a Relationship
+      - Single
+      required: true
+    - id: 12
+      name: participant_relationship_status
+      label: Participant Relationship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Partner 1's Name
+      - Partner 2's Name
+      - Both
+      required: true
+    - id: 13
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: text
+      options: []
+      required: false

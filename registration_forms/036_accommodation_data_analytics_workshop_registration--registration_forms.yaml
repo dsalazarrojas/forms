@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Data Analytics Workshop Registration
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: professional_title
+      label: Professional Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization you represent
+      type: select_one
+      options:
+      - Hotel Chain
+      - Independent Hotel
+      - Bed and Breakfast
+      - Vacation Rental
+      - Property Management
+      - Consulting Firm
+      - Technology Provider
+      - Academic Institution
+      - Other
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your professional email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_in_industry
+      label: Years in Industry
+      hint: How many years of experience do you have in the hospitality industry?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 8
+      name: data_analysis_experience
+      label: Data Analysis Experience
+      hint: What is your level of experience with data analysis?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 9
+      name: workshop_session_choice
+      label: Workshop Session Choice
+      hint: Which session would you like to attend?
+      type: select_one
+      options:
+      - Morning Session (9:00 AM - 12:00 PM)
+      - Afternoon Session (1:00 PM - 4:00 PM)
+      - Both Sessions
+      - Virtual Attendance
+      required: true
+    - id: 10
+      name: analytics_tools_experience
+      label: Analytics Tools Experience
+      hint: Which analytics tools are you familiar with?
+      type: select_multiple
+      options:
+      - Excel
+      - Google Analytics
+      - SQL
+      - Python
+      - R
+      - Tableau
+      - Power BI
+      - SPSS
+      - SAS
+      - None
+      - Other
+      required: true
+    - id: 11
+      name: accommodation_metrics_focus
+      label: Accommodation Metrics Focus
+      hint: Which accommodation metrics are you most interested in learning about?
+      type: select_multiple
+      options:
+      - Occupancy Rates
+      - Revenue Per Available Room (RevPAR)
+      - Average Daily Rate (ADR)
+      - Guest Satisfaction Scores
+      - Booking Patterns
+      - Cancellation Rates
+      - Length of Stay
+      - Channel Performance
+      - Competitor Analysis
+      - Other
+      required: true
+    - id: 12
+      name: data_challenges
+      label: Data Challenges
+      hint: What are your biggest challenges with accommodation data?
+      type: select_multiple
+      options:
+      - Data Collection
+      - Data Integration
+      - Data Visualization
+      - Predictive Analytics
+      - Benchmarking
+      - Real-time Reporting
+      - Staff Training
+      - Technology Limitations
+      - Privacy Compliance
+      - Other
+      required: true
+    - id: 13
+      name: workshop_objectives
+      label: Workshop Objectives
+      hint: What do you hope to achieve from this workshop?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: special_dietary_requirements
+      label: Special Dietary Requirements
+      hint: Do you have any dietary restrictions or allergies?
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Other Allergies
+      - None
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility needs for the workshop?
+      type: select_multiple
+      options:
+      - Wheelchair Accessible
+      - Large Print Materials
+      - Sign Language Interpreter
+      - Audio Loop System
+      - Reserved Seating
+      - Other
+      required: false
+    - id: 16
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in networking opportunities during the workshop?
+      type: select_one
+      options:
+      - Yes, very interested
+      - Yes, somewhat interested
+      - Neutral
+      - Not interested
+      required: true
+    - id: 17
+      name: follow_up_interest
+      label: Follow Up Interest
+      hint: Would you like to receive follow-up information about accommodation analytics?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you'd like to share?
+      type: text
+      options: []
+      required: false

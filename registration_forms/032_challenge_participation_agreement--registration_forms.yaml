@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Challenge Participation Agreement
+    pages:
+    - id: 1
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full legal name of participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Participant date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: challenge_name
+      label: Challenge Name
+      hint: Name of challenge being entered
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: challenge_dates
+      label: Challenge Dates
+      hint: Start and end dates of challenge
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: team_name
+      label: Team Name
+      hint: Name of your team if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_members
+      label: Team Members
+      hint: List of team members if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions
+      type: select_one
+      options:
+      - No medical conditions
+      - Yes - Will disclose
+      required: true
+    - id: 14
+      name: medical_details
+      label: Medical Details
+      hint: Describe any relevant medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physical_fitness
+      label: Physical Fitness Level
+      hint: How would you rate your fitness level
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly active
+      - Moderately active
+      - Very active
+      - Highly trained athlete
+      required: true
+    - id: 16
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand there are risks associated with this challenge
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I do not understand
+      required: true
+    - id: 17
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive liability for injuries or damages
+      type: select_one
+      options:
+      - Yes - I waive
+      - No - I do not waive
+      required: true
+    - id: 18
+      name: medical_clearance
+      label: Medical Clearance
+      hint: I have medical clearance to participate
+      type: select_one
+      options:
+      - Yes - Cleared by physician
+      - No - Not cleared
+      - Pending clearance
+      required: true
+    - id: 19
+      name: rules_agreement
+      label: Rules Agreement
+      hint: I agree to follow all challenge rules
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 20
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: I agree to abide by the code of conduct
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 21
+      name: photo_consent
+      label: Photo Consent
+      hint: I consent to photos being taken during the challenge
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - I do not consent
+      required: true
+    - id: 22
+      name: media_release
+      label: Media Release
+      hint: I allow my image to be used for promotional purposes
+      type: select_one
+      options:
+      - Yes - I allow
+      - No - I do not allow
+      required: true
+    - id: 23
+      name: data_privacy
+      label: Data Privacy
+      hint: I understand how my data will be used
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I do not understand
+      required: true
+    - id: 24
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness type name if required
+      type: text
+      options: []
+      required: false

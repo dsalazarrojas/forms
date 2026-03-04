@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Registration Renewal Form
+    pages:
+    - id: 1
+      name: owner_first_name
+      label: Owner First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_last_name
+      label: Owner Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Owner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: Current mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_registration_number
+      label: Current Registration Number
+      hint: Expiring registration number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_registration_expiry
+      label: Current Registration Expiry
+      hint: When does it expire?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: boat_hull_id
+      label: Boat Hull ID (HIN)
+      hint: Hull identification number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: ownership_changes
+      label: Ownership Changes
+      hint: Any changes since last registration?
+      type: select_one
+      options:
+      - No changes
+      - Yes, address changed
+      - Yes, owner changed
+      - Yes, boat modified
+      required: true
+    - id: 16
+      name: new_address
+      label: New Address
+      hint: If changed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: boat_modifications
+      label: Boat Modifications
+      hint: List any modifications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: renewal_period
+      label: Renewal Period
+      hint: Select duration
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      required: true
+    - id: 19
+      name: late_renewal
+      label: Is This a Late Renewal?
+      hint: Past expiration date?
+      type: select_one
+      options:
+      - No, renewing on time
+      - Yes, past expiration
+      required: true
+    - id: 20
+      name: late_fee_applicable
+      label: Late Fee Applicable
+      hint: If past expiration
+      type: select_one
+      options:
+      - Not Applicable
+      - Yes, late fee applies
+      required: false
+    - id: 21
+      name: registration_fee
+      label: Registration Fee
+      hint: Base renewal fee
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: additional_fees
+      label: Additional Fees
+      hint: Any other fees
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total_amount
+      label: Total Amount Due
+      hint: Total payment
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Money Order
+      required: true
+    - id: 25
+      name: card_number
+      label: Card Number
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name on card
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: delivery_method
+      label: Delivery Method
+      hint: How to receive registration
+      type: select_one
+      options:
+      - Email - Digital Copy
+      - Mail - Physical Copy
+      - Both
+      - Pick Up In Person
+      required: true
+    - id: 28
+      name: certification_statement
+      label: Certification Statement
+      hint: I certify all information is correct
+      type: select_one
+      options:
+      - Yes, I Certify
+      - false
+      required: true
+    - id: 29
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of renewal
+      type: date
+      options: []
+      required: true

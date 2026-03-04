@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_food_co_op_membership_signup
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: membership_preferences
+      label: Membership Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_info
+      label: Membership Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_info
+      label: Confirm Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: email_subject
+      label: Email Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_body
+      label: Email Body
+      hint: null
+      type: text
+      options: []
+      required: false

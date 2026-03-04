@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interior Decorators Society Membership Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Individual'', ''label'': ''Individual''}'
+      - '{''id'': 2, ''name'': ''Organization'', ''label'': ''Organization''}'
+      required: false
+    - id: 10
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online Payment'', ''label'': ''Online Payment''}'
+      - '{''id'': 2, ''name'': ''Offline Payment'', ''label'': ''Offline Payment''}'
+      required: false
+    - id: 12
+      name: card_details
+      label: Card Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: exp_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cvv_confirmation
+      label: CVV Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: confirm_membership
+      label: Confirm Membership
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Confirm'', ''label'': ''Confirm''}'
+      - '{''id'': 2, ''name'': ''Decline'', ''label'': ''Decline''}'
+      required: false
+    - id: 20
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

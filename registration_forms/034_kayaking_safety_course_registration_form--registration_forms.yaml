@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kayaking Safety Course Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participants Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participants Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participants_phone
+      label: Participants Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waiver_acceptance
+      label: Participants Waivers
+      hint: This is an acknowledgement that participant and their legal guardian(s)
+        has read, sign, and submit this waiver.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relationship
+      label: Relationship to Participant
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Friend
+      - Family
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: emergency_certification
+      label: Emergency Contact Certification
+      hint: Please provide emergency contact certification document if applicable.
+      type: select_multiple
+      options:
+      - First Responder
+      - EMT
+      - Firefighter
+      - Doctor
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_medical_conditions
+      label: Participant Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_medical_certification
+      label: Participant Medical Certification
+      hint: Please provide participant medical certification document if applicable.
+      type: select_multiple
+      options:
+      - Asthma
+      - Diabetes
+      - Epilepsy
+      - Other
+      - Other (Specify)
+      required: false
+    - id: 14
+      name: participant_medical_information
+      label: Participant Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_dietary_restrictions
+      label: Participant Dietary Restriction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_allergies
+      label: Participant Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_important
+      label: Participant Important Information
+      hint: Please provide any additional information about participant that we should
+        know.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: instructor_phone
+      label: Instructor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instructor_email
+      label: Instructor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: instructor_address
+      label: Instructor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instructor_instructor_type
+      label: Instructor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Waterfront
+      - Riverine
+      - Lakefront
+      - Oceanfront
+      required: false
+    - id: 23
+      name: instructor_certification
+      label: Instructor Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: instructor_experience
+      label: Instructor Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: instructor_additional_info
+      label: Instructor Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

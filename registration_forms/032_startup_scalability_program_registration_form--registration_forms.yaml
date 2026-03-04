@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Scalability Program Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: scalability_programs
+      label: select_scalability_program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: scalability_programs
+      label: select_scalability_programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: business_info
+      label: business_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: growth_opportunities
+      label: growth_opportunities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: opportunities
+      label: opportunities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

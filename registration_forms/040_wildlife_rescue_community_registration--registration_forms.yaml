@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Rescue Community Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: activity_name
+      label: Activity name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: activity_date
+      label: Activity date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: activity_time
+      label: Activity time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: volunteer_shift
+      label: Volunteer shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: special_skills
+      label: Special skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_relationship
+      label: Emergency contact relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: volunteer_notes
+      label: Volunteer notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_shift_notes
+      label: Volunteer shift notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_skills
+      label: Volunteer skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: volunteer_experience
+      label: Volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: volunteer_availability
+      label: Volunteer availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: volunteer_reference
+      label: Volunteer reference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: volunteer_agreement
+      label: Volunteer agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: volunteer_shift_start_time
+      label: Volunteer shift start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: volunteer_shift_end_time
+      label: Volunteer shift end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: volunteer_shift_duration
+      label: Volunteer shift duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

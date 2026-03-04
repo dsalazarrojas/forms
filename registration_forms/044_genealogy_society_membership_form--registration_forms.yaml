@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Genealogy Society Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - Genealogy Society
+      - Library
+      - Heritage Group
+      required: true
+    - id: 6
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: Enter the submitter's name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: Enter your organization
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

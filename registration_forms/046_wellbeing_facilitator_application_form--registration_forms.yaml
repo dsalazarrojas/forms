@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: wellbeing-facilitator-application-form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wellbeing_facilitation_areas
+      label: Wellbeing Facilitation Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Wellbeing
+      - Mental Wellbeing
+      - Emotional Wellbeing
+      - Spiritual Wellbeing
+      required: false
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wellbeing_services_offered
+      label: Wellbeing Services Offered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false

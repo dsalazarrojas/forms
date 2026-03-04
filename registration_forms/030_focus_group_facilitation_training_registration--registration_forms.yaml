@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Focus Group Facilitation Training Registration
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''contact_person_1'', ''label'': ''Person 1''}'
+      - '{''id'': 11, ''name'': ''contact_person_2'', ''label'': ''Person 2''}'
+      - '{''id'': 12, ''name'': ''contact_person_3'', ''label'': ''Person 3''}'
+      required: false
+    - id: 5
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''name'': ''beginner'', ''label'': ''Beginner''}'
+      - '{''id'': 21, ''name'': ''intermediate'', ''label'': ''Intermediate''}'
+      - '{''id'': 22, ''name'': ''advanced'', ''label'': ''Advanced''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

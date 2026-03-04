@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Railway Lodge Accommodation Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-in date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: check_in_time
+      label: Check-in time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: check_out_date
+      label: Check-out date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_preference
+      label: Room Preference
+      hint: null
+      type: select_one
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      required: false
+    - id: 5
+      name: adult_quantity
+      label: Adult quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: child_quantity
+      label: Child quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: child_age
+      label: Child age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requirements
+      label: Special requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Wheel Chair Access
+      - Hearing Impaired
+      - Other
+      required: false
+    - id: 9
+      name: preferred_language
+      label: Preferred language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_message
+      label: Contact message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_ids
+      label: Form Ids
+      hint: null
+      type: text
+      options: []
+      required: false

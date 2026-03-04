@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scouts Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: scouts_group
+      label: Scouts Group
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Alpha''}'
+      - '{''name'': ''Beta''}'
+      - '{''name'': ''Gamma''}'
+      required: false
+    - id: 6
+      name: scouts_level
+      label: Scouts Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Cub''}'
+      - '{''name'': ''Scouts''}'
+      - '{''name'': ''Varsity''}'
+      - '{''name'': ''Eagle''}'
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''chatjimmy''}'
+      - '{''name'': ''another_user''}'
+      required: false
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false

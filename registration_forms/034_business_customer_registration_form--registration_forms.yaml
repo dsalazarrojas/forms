@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Customer Registration Form
+    pages:
+    - id: 1
+      name: company_information
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Government
+      - Other
+      required: true
+    - id: 4
+      name: industry_category
+      label: Industry Category
+      hint: Primary industry
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - 1000+
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Your company website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person_name
+      label: Primary Contact Person
+      hint: Full name of main contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title
+      hint: Position of contact person
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state_province
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: country
+      label: Country
+      hint: Country of operation
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: billing_information
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: same_as_business
+      label: Billing Address Same as Business Address
+      hint: Use business address for billing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: billing_address
+      label: Billing Address
+      hint: If different from business address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tax_id
+      label: Tax Identification Number
+      hint: Federal tax ID or EIN
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: account_type
+      label: Account Type
+      hint: Type of account requested
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      - Other
+      required: true
+    - id: 22
+      name: service_interests
+      label: Services of Interest
+      hint: Select services you need
+      type: select_multiple
+      options:
+      - Product Sales
+      - Consulting
+      - Support
+      - Training
+      - Integration
+      - Custom Solutions
+      required: false
+    - id: 23
+      name: annual_budget
+      label: Annual Budget
+      hint: Estimated annual budget range
+      type: select_one
+      options:
+      - Under 10000
+      - 10000-50000
+      - 50000-100000
+      - 100000-500000
+      - 500000+
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: Accept Terms and Conditions
+      hint: I agree to terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

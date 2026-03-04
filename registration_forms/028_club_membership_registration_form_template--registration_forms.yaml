@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Membership Registration Form Template
+    pages:
+    - id: 1
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address_section
+      label: -- Address Information --
+      hint: Where do you live
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city_name
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: membership_section
+      label: -- Membership Preferences --
+      hint: Select your membership options
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: member_type
+      label: Membership Type
+      hint: Choose your membership level
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Lifetime
+      required: true
+    - id: 13
+      name: start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: interests_activities
+      label: Interests and Activities
+      hint: Select activities of interest
+      type: select_multiple
+      options:
+      - Meetings
+      - Events
+      - Community Service
+      - Social Gatherings
+      - Training
+      - Competitions
+      required: true
+    - id: 15
+      name: approval_section
+      label: -- Terms and Approval --
+      hint: Please agree to our terms
+      type: note
+      options: []
+      required: false

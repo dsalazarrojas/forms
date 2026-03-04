@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: escape_room_group_booking_form
+    pages:
+    - id: 1
+      name: group_booking_details
+      label: Group Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: group_type
+      label: Group Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 14
+      name: is_catering_required
+      label: Is Catering Required
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 15
+      name: catering_type
+      label: Catering Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: catering_special_request
+      label: Catering Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: is_food_allergy
+      label: Is Food Allergy
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 18
+      name: food_allergy
+      label: Food Allergy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: is_sensory
+      label: Is Sensory
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 20
+      name: sensory
+      label: Sensory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: is_equipment
+      label: Is Equipment
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 22
+      name: equipment
+      label: Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: is_special_equipment
+      label: Is Special Equipment
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 24
+      name: special_equipment
+      label: Special Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Please provide any additional information about your group.
+      type: text
+      options: []
+      required: false

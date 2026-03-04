@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeschooling Symposium Registration
+    pages:
+    - id: 1
+      name: home_schooling_session_choices
+      label: SessionChoices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_name
+      label: SessionName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_start_time
+      label: SessionStartTime
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: session_end_time
+      label: SessionEndtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendee_name
+      label: AttendeeName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: AttendeeEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: AttendeePhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_address
+      label: AttendeeAddress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attendee_zip
+      label: AttendeeZip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: attendee_city
+      label: AttendeeCity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_state
+      label: AttendeeState
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attendee_country
+      label: AttendeeCountry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: family_member_1_name
+      label: FamilyMember1Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: family_member_1_email
+      label: FamilyMember1Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: family_member_1_phone
+      label: FamilyMember1Phone
+      hint: null
+      type: text
+      options: []
+      required: false

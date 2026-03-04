@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Appointment Form
+    pages:
+    - id: 1
+      name: appointment_header
+      label: Blood Donation Appointment Form
+      hint: Schedule your blood donation appointment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be at least 17
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: preferred_location
+      label: Preferred Donation Center
+      hint: Choose location
+      type: select_one
+      options:
+      - Downtown Center
+      - Westside Clinic
+      - Mobile Unit - North
+      - Mobile Unit - South
+      - Hospital Blood Bank
+      required: true
+    - id: 12
+      name: preferred_date
+      label: Preferred Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: alternate_date
+      label: Alternate Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: donation_type
+      label: Type of Donation
+      hint: What would you like to donate
+      type: select_one
+      options:
+      - Whole Blood
+      - Platelets
+      - Plasma
+      - Power Red
+      - Not Sure
+      required: true
+    - id: 16
+      name: first_time_donor
+      label: First Time Donor
+      hint: Is this your first donation
+      type: select_one
+      options:
+      - Yes First Time
+      - No Previous Donor
+      required: true
+    - id: 17
+      name: last_donation_date
+      label: Last Donation Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: health_screening
+      label: Health Screening
+      hint: Are you feeling well today
+      type: select_one
+      options:
+      - Yes Feeling Well
+      - No Not Well
+      required: true
+    - id: 20
+      name: eligibility_questions
+      label: Eligibility Questions
+      hint: Link to screening questionnaire
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: special_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reminder_preference
+      label: Appointment Reminder
+      hint: How should we remind you
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      - No Reminder
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Tax Client Intake Form
+    pages:
+    - id: 1
+      name: personal_taxes
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: tax_advisor
+      label: Tax Advisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tax_return_info
+      label: Tax Return Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: income_earned
+      label: Income Earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: dependents
+      label: Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_of_marriage
+      label: Date of Marriage
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_marriage
+      label: Time of Marriage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: dependents_info
+      label: Dependent Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

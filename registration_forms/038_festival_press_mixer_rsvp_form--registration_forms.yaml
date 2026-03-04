@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Press Mixer RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - Festival
+      - Mixer
+      required: true
+    - id: 5
+      name: media
+      label: Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_confirmation
+      label: Phone Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Declined
+      required: true
+    - id: 14
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: media_details
+      label: Media Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

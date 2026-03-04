@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performing Arts Terms Acknowledgment
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: agreement_version
+      label: Agreement Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: contact_dob
+      label: Contact DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: class_dates
+      label: Class Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: production_dates
+      label: Production Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: classes_participated
+      label: Classes Participated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: rehearsals_attended
+      label: Rehearsals Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: productions_participated
+      label: Productions Participated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: agreement_acknowledged
+      label: Agreement Acknowledged
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: contact_consent
+      label: Contact Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: participant_terms_acknowledged
+      label: Participant Terms Acknowledged
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: participant_detailed_terms_acknowledged
+      label: Participant Detailed Terms Acknowledged
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

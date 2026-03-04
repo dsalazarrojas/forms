@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Abundance Flow Registration
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_header_session_details
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: session_type
+      label: Which Abundance Flow session are you registering for
+      hint: null
+      type: select_one
+      options:
+      - Introductory Workshop
+      - Deep Dive Intensive
+      - Group Flow Session
+      - One-on-One Coaching
+      - Online Virtual Session
+      required: true
+    - id: 8
+      name: preferred_date
+      label: Preferred session date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time
+      label: Preferred session time
+      hint: null
+      type: select_one
+      options:
+      - Morning (9am - 12pm)
+      - Afternoon (1pm - 4pm)
+      - Evening (5pm - 8pm)
+      required: false
+    - id: 10
+      name: section_header_intentions
+      label: -- Intentions and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: previous_experience
+      label: Have you participated in any wellness or coaching programs before
+      hint: null
+      type: select_one
+      options:
+      - Yes - extensively
+      - Yes - a few times
+      - No - this is my first time
+      required: true
+    - id: 12
+      name: primary_intention
+      label: What is your primary intention for joining this session
+      hint: null
+      type: select_one
+      options:
+      - Personal growth and self-development
+      - Financial abundance and mindset shift
+      - Stress relief and relaxation
+      - Spiritual development
+      - Community connection
+      - Other
+      required: true
+    - id: 13
+      name: goals
+      label: What specific goals or outcomes do you hope to achieve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: health_concerns
+      label: Do you have any physical or mental health conditions we should be aware
+        of
+      hint: This information is kept confidential
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_consent
+      label: -- Consent and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: consent_participation
+      label: I agree to participate willingly and understand that this program is
+        not a substitute for medical or psychological treatment
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true
+    - id: 17
+      name: how_did_you_hear
+      label: How did you hear about Abundance Flow
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Friend or family referral
+      - Website
+      - Email newsletter
+      - Event or workshop
+      - Other
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Any additional comments or questions
+      hint: null
+      type: text
+      options: []
+      required: false

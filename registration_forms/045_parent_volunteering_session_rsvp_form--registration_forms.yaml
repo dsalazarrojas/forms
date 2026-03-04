@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Volunteering Session RSVP Form
+    pages:
+    - id: 1
+      name: parent_volunteering_session_rsvp_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_volunteering_session_rsvp_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_volunteering_session_rsvp_form_4
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_type
+      label: volunteer_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Volunteer'', ''value'': 1}'
+      - '{''label'': ''Volunteer Leader'', ''value'': 2}'
+      - '{''label'': ''Volunteer Coordinator'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: volunteer_session
+      label: volunteer_session
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Session 1'', ''value'': 1}'
+      - '{''label'': ''Session 2'', ''value'': 2}'
+      - '{''label'': ''Session 3'', ''value'': 3}'
+      required: false
+    - id: 7
+      name: volunteer_session_details
+      label: volunteer_session_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm
+      label: confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confirm_2
+      label: confirm_2
+      hint: null
+      type: text
+      options: []
+      required: false

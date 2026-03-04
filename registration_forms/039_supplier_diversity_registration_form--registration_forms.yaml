@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Diversity Registration Form
+    pages:
+    - id: 1
+      name: supplier_diversity_registration_form_page1
+      label: Supplier Diversification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_details_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_details_company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Large''}'
+      - '{''value'': ''Small''}'
+      required: false
+    - id: 5
+      name: company_details_contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_details_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_details_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_details_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_details_postal
+      label: Postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: company_details_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: diversity_statement
+      label: Diversity Statement
+      hint: A statement that supports diversity
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: support_statement
+      label: Support Statement
+      hint: A statement that supports our suppliers
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Supplier Diversity''}'
+      - '{''value'': ''E-verify''}'
+      required: false
+    - id: 16
+      name: certification_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_certification
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: number
+      options: []
+      required: false

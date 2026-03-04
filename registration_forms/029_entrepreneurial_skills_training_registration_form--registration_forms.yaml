@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: entrepreneurial_skills_training_registration_form
+    pages:
+    - id: 1
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_one
+      options:
+      - Entrepreneurship
+      - Leadership
+      - Communication
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

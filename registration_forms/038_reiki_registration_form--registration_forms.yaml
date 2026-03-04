@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reiki Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reiki_level
+      label: reiki level
+      hint: null
+      type: select_one
+      options:
+      - level 1
+      - level 2
+      - level 3
+      required: true
+    - id: 6
+      name: workshop_date
+      label: workshop date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: workshop_time
+      label: workshop time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: healing_session_date
+      label: healing session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: healing_session_time
+      label: healing session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: workshop_attendance
+      label: workshop attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - bank transfer
+      - credit card
+      required: true
+    - id: 12
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - paid
+      - unpaid
+      required: false
+    - id: 13
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: special_requirements
+      label: special requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_email
+      label: emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: medical_info
+      label: medical info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: medical_certifications
+      label: medical certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: fashion_design_workshop_attendance_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_preferences
+      label: workshop_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''male''}'
+      - '{''label'': ''female''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 8
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false

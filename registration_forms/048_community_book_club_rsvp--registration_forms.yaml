@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Book Club RSVP
+    pages:
+    - id: 1
+      name: rsvp_information
+      label: RSVP Information
+      hint: Confirm your attendance for the book club meeting
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_date
+      label: RSVP Date
+      hint: Date of this RSVP
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: rsvp_id
+      label: RSVP ID
+      hint: Unique RSVP reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: member_information
+      label: Member Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: membership_status
+      label: Membership Status
+      hint: What is your membership status
+      type: select_one
+      options:
+      - Current Member
+      - New Member
+      - Returning Member
+      - Guest
+      required: true
+    - id: 9
+      name: meeting_information
+      label: Meeting Information
+      hint: Details about the meeting
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: meeting_date
+      label: Meeting Date
+      hint: Which meeting are you attending
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: meeting_time
+      label: Meeting Time
+      hint: Meeting time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: meeting_location
+      label: Meeting Location
+      hint: Where will the meeting be held
+      type: select_one
+      options:
+      - Community Center
+      - Library
+      - Coffee Shop
+      - Members Home
+      - Online/Virtual
+      - Other
+      required: true
+    - id: 13
+      name: meeting_location_details
+      label: Meeting Location Details
+      hint: Specific address or link
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_book
+      label: Current Book
+      hint: What is the current book being discussed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendance
+      label: Attendance
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes - Attending
+      - No - Cannot Attend
+      - Maybe - Unsure
+      required: true
+    - id: 16
+      name: bringing_guests
+      label: Bringing Guests
+      hint: Will you be bringing guests
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many guests will you bring
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: guest_names
+      label: Guest Names
+      hint: Names of your guests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: refreshments
+      label: Refreshments
+      hint: Can you bring refreshments to share
+      type: select_one
+      options:
+      - Yes - Will Bring
+      - No - Cannot Bring
+      - Maybe
+      required: false
+    - id: 20
+      name: refreshment_details
+      label: Refreshment Details
+      hint: What will you bring
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: book_suggestions
+      label: Book Suggestions
+      hint: Do you have suggestions for future books
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: discussion_topics
+      label: Discussion Topics
+      hint: Any topics you would like to discuss
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: volunteering
+      label: Volunteering
+      hint: Would you like to help organize future meetings
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: hosting_interest
+      label: Hosting Interest
+      hint: Would you be willing to host a future meeting
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments or questions
+      type: text
+      options: []
+      required: false

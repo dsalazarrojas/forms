@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: mentee_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mentorship_area_of_interest
+      label: mentorship area of interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: expected_degree_level
+      label: expected degree level
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - PhD
+      required: false
+    - id: 8
+      name: expected_degree_field
+      label: expected degree field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mentorship_type
+      label: mentorship type
+      hint: null
+      type: select_one
+      options:
+      - academic
+      - career
+      - social
+      required: false
+    - id: 11
+      name: mentorship_frequency
+      label: mentorship frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - bi-monthly
+      - weekly
+      - daily
+      required: false
+    - id: 12
+      name: mentorship_length
+      label: mentorship length
+      hint: null
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - 1 year
+      required: false
+    - id: 13
+      name: mentorship_duration
+      label: mentorship duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: mentorship_start_date
+      label: mentorship start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: mentorship_end_date
+      label: mentorship end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: mentorship_start_time
+      label: mentorship start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: mentorship_end_time
+      label: mentorship end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: mentorship_status
+      label: mentorship status
+      hint: null
+      type: select_one
+      options:
+      - inactive
+      - active
+      - completed
+      required: false

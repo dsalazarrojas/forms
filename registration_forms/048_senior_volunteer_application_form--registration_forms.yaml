@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior Volunteer Application Form
+    pages:
+    - id: 1
+      name: senior_volunteer_application_form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_details_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_details_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: senior_volunteer_application_form_second_page
+      label: Second Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Retiree
+      - Disabled
+      required: true
+    - id: 11
+      name: volunteer_shifts
+      label: Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: volunteer_agreement
+      label: Volunteer Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: senior_volunteer_application_form_third_page
+      label: Third Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

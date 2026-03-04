@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Waste Reduction Registration Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waste_reduction_program
+      label: Waste Reduction Program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 123, ''label'': ''Option 1''}'
+      - '{''id'': 456, ''label'': ''Option 2''}'
+      - '{''id'': 789, ''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 101, ''label'': ''Option 1''}'
+      - '{''id'': 202, ''label'': ''Option 2''}'
+      - '{''id'': 303, ''label'': ''Option 3''}'
+      required: true
+    - id: 5
+      name: reduction_strategies
+      label: Reduction Strategies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 111, ''label'': ''Option 1''}'
+      - '{''id'': 222, ''label'': ''Option 2''}'
+      - '{''id'': 333, ''label'': ''Option 3''}'
+      required: true
+    - id: 7
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_instructions
+      label: Additional Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_form_date
+      label: Submission Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submission_status_2
+      label: Submission Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 401, ''label'': ''Option 1''}'
+      - '{''id'': 502, ''label'': ''Option 2''}'
+      - '{''id'': 603, ''label'': ''Option 3''}'
+      required: true
+    - id: 15
+      name: upload_document_2
+      label: Upload Document 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date_2
+      label: Submission Date 2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_instructions_2
+      label: Additional Instructions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_owner
+      label: Form Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_email
+      label: Form Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: form_phone
+      label: Form Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 101, ''label'': ''Option 1''}'
+      - '{''id'': 202, ''label'': ''Option 2''}'
+      - '{''id'': 303, ''label'': ''Option 3''}'
+      required: false
+    - id: 23
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

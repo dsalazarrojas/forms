@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stranger Session Registration
+    pages:
+    - id: 1
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_capacity
+      label: session_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: session_max_capacity
+      label: session_max_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_scheduling
+      label: session_scheduling
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 11
+      name: participant_scheduling
+      label: participant_scheduling
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false

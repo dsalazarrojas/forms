@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Membership Registration Form
+    pages:
+    - id: 1
+      name: library_name
+      label: Library Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_id
+      label: Member ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

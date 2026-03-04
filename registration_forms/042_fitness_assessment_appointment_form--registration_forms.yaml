@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Assessment Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_assessment_time
+      label: Preferred Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: best_time_slot
+      label: Best Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 am
+      - 10:00 am
+      - 11:00 am
+      - 12:00 pm
+      - 2:00 pm
+      - 3:00 pm
+      - 4:00 pm
+      - 5:00 pm
+      required: false
+    - id: 5
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: client_info
+      label: Client Information
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Emergency Contact Info
+      - Family Member
+      - Spouse
+      - Other
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: best_time_slot_other
+      label: Other Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Other - 9:00 am
+      - Other - 10:00 am
+      - Other - 11:00 am
+      - Other - 12:00 pm
+      - Other - 2:00 pm
+      - Other - 3:00 pm
+      - Other - 4:00 pm
+      - Other - 5:00 pm
+      required: false
+    - id: 10
+      name: other_client_info
+      label: Other Client Information
+      hint: null
+      type: select_one
+      options:
+      - Other - Emergency Contact
+      - Other - Emergency Contact Info
+      - Other - Family Member
+      - Other - Spouse
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_name_2
+      label: Client Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_email_2
+      label: Client Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: client_phone_2
+      label: Client Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Comprehensive
+      - Other
+      required: false
+    - id: 16
+      name: assessment_length
+      label: Assessment Length
+      hint: null
+      type: select_one
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      required: false
+    - id: 17
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 18
+      name: staff_1
+      label: Staff 1
+      hint: null
+      type: select_one
+      options:
+      - Trainer
+      - Nutritionist
+      - Other
+      required: false
+    - id: 19
+      name: staff_2
+      label: Staff 2
+      hint: null
+      type: select_one
+      options:
+      - Trainer
+      - Nutritionist
+      - Other
+      required: false
+    - id: 20
+      name: client_goal
+      label: Client Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_3
+      label: Staff 3
+      hint: null
+      type: select_one
+      options:
+      - Trainer
+      - Other
+      required: false
+    - id: 22
+      name: assessment_date_2
+      label: Assessment Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: preferred_time_slot_2
+      label: Preferred Time Slot 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: fitness_goal
+      label: Fitness Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: staff
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - Trainer
+      - Nutritionist
+      required: false

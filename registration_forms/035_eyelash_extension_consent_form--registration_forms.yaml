@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eyelash Extension Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: eyelash_artist
+      label: Lash Artist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment
+      label: Equipment to be used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: procedure
+      label: Procedure to be performed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: benefits
+      label: Benefits of Eyelash Extensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risks
+      label: Potential Risks of Eyelash Extensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

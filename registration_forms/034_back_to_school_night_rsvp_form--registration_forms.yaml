@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Night RSVP Form
+    pages:
+    - id: 1
+      name: bts_night_header
+      label: -- Back-to-School Night RSVP --
+      hint: Please let us know if you'll be attending our annual information evening
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_full_name_rsvp
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rsvp_email_address
+      label: Email Address
+      hint: To send session links or room numbers
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_names_rsvp
+      label: Names of Student(s) at this school
+      hint: List all
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attending_status_bts
+      label: Will you be attending Back-to-School Night?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I am unable to attend
+      required: true
+    - id: 6
+      name: attendance_format
+      label: Preferred Attendance Format (If applicable)
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual (via Zoom/Teams)
+      required: true
+    - id: 7
+      name: childcare_service_needed
+      label: Do you require child care during the event?
+      hint: Available for students age 4-11 only
+      type: select_one
+      options:
+      - Yes, please
+      - No, thank you
+      required: false
+    - id: 8
+      name: number_of_children_childcare
+      label: Number of children for childcare
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: topics_of_interest
+      label: What topics are you most interested in hearing about?
+      hint: null
+      type: select_multiple
+      options:
+      - Curriculum and Standards
+      - Classroom Expectations
+      - Grading and Assessment
+      - Technology Use
+      - Extracurricular Opportunities
+      - Supporting Learning at Home
+      required: false
+    - id: 10
+      name: questions_for_teachers
+      label: Do you have any general questions for the teaching staff?
+      hint: Note - Specific student concerns should be handled in a separate conference
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pta_interest_rsvp
+      label: Would you like to receive information about joining the PTA?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

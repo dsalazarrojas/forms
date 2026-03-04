@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Photo Sign Up Form
+    pages:
+    - id: 1
+      name: sign_up_date
+      label: Sign-Up Date
+      hint: Date of photo sign-up
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: child_room_or_class
+      label: Child Room or Class
+      hint: Assigned room or class
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: photo_session_type
+      label: Photo Session Type
+      hint: What type of photo session is this?
+      type: select_one
+      options:
+      - Individual portraits
+      - Class or group photos
+      - Candid photos
+      - Event photos
+      - Yearbook photos
+      - Portfolio photos
+      - Other
+      required: true
+    - id: 12
+      name: photo_session_date
+      label: Photo Session Date
+      hint: Scheduled date for photo session
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: photo_usage_consent
+      label: Photo Usage Consent
+      hint: How may the photos be used?
+      type: select_one
+      options:
+      - Personal use only
+      - Personal and classroom display
+      - Personal and center publications
+      - Personal and social media
+      - Any purpose including marketing
+      - No photos allowed
+      required: true
+    - id: 14
+      name: social_media_consent
+      label: Social Media Consent
+      hint: Do you consent to photos being shared on social media?
+      type: select_one
+      options:
+      - Yes, with first name only
+      - Yes, with full identification
+      - Yes, but no name identification
+      - No, do not consent
+      required: true
+    - id: 15
+      name: website_consent
+      label: Website Consent
+      hint: Do you consent to photos being used on the center website?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, do not consent
+      required: true
+    - id: 16
+      name: print_materials_consent
+      label: Print Materials Consent
+      hint: Do you consent to photos being used in print materials?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, do not consent
+      required: true
+    - id: 17
+      name: photo_package_selection
+      label: Photo Package Selection
+      hint: Which photo package would you like to purchase?
+      type: select_one
+      options:
+      - Basic package
+      - Standard package
+      - Premium package
+      - Deluxe package
+      - Digital only
+      - Undecided
+      - Not purchasing
+      required: true
+    - id: 18
+      name: sibling_photos
+      label: Sibling Photos
+      hint: Will siblings also be photographed?
+      type: select_one
+      options:
+      - Yes, same session
+      - Yes, separate session
+      - No siblings
+      required: true
+    - id: 19
+      name: sibling_names
+      label: Sibling Names
+      hint: List names of siblings to be photographed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_outfit_or_prop_requests
+      label: Special Outfit or Prop Requests
+      hint: Any special outfit or prop requests?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: child_comfort_considerations
+      label: Child Comfort Considerations
+      hint: Any considerations to help your child feel comfortable?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photo_delivery_preference
+      label: Photo Delivery Preference
+      hint: How would you like to receive photos?
+      type: select_one
+      options:
+      - Digital download
+      - Printed copies by mail
+      - Printed copies pick up
+      - Both digital and print
+      - Undecided
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for photos?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - Included in tuition
+      - Will decide later
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional notes or special requests
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true

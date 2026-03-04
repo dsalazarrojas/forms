@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Community Member Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Member''}'
+      - '{''label'': ''Moderator''}'
+      - '{''label'': ''Admin''}'
+      required: false
+    - id: 5
+      name: discord_tag
+      label: Discord Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discord_id
+      label: Discord ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gaming_group
+      label: Gaming Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accept_terms
+      label: Accept Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: accept_privacy
+      label: Accept Privacy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: privacy_policy
+      label: Privacy Policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: member_of
+      label: Member Of
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: other_member_of
+      label: Other Member Of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: member_count
+      label: Member Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: joined_date
+      label: Joined Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: joined_time
+      label: Joined Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: joined_at
+      label: Joined At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: last_seen
+      label: Last Seen
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: last_seen_at
+      label: Last Seen At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''UTC-0''}'
+      - '{''label'': ''UTC+1''}'
+      - '{''label'': ''UTC+2''}'
+      - '{''label'': ''UTC+3''}'
+      required: false
+    - id: 21
+      name: country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''United States''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''Mexico''}'
+      - '{''label'': ''United Kingdom''}'
+      - '{''label'': ''Australia''}'
+      - '{''label'': ''Japan''}'
+      - '{''label'': ''China''}'
+      - '{''label'': ''India''}'
+      - '{''label'': ''South Africa''}'
+      - '{''label'': ''Germany''}'
+      - '{''label'': ''France''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''French''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''Chinese''}'
+      - '{''label'': ''Japanese''}'
+      - '{''label'': ''German''}'
+      - '{''label'': ''Korean''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

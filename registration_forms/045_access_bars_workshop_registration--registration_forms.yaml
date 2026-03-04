@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Bars Workshop Registration
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Access Bars Workshop Registration --
+      hint: Register for the upcoming Access Bars workshop. Please provide your information
+        and preferences.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: For certificate delivery if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_date
+      label: Preferred workshop date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: experience_level
+      label: Previous experience with Access Bars
+      hint: null
+      type: select_one
+      options:
+      - No experience - first time
+      - Had a Bars session as a client
+      - Previously certified - looking to recertify
+      - Certified practitioner seeking refresher
+      required: true
+    - id: 10
+      name: motivation
+      label: What motivates you to take this workshop
+      hint: null
+      type: select_multiple
+      options:
+      - Personal growth and wellness
+      - Learning a new modality to offer clients
+      - Stress and anxiety relief
+      - Curiosity about Access Consciousness
+      - Recommendation from a friend or practitioner
+      - Professional development
+      required: true
+    - id: 11
+      name: health_considerations
+      label: Do you have any health conditions we should be aware of
+      hint: This information is kept confidential
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Any dietary restrictions or allergies (lunch will be provided)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_hear
+      label: How did you hear about this workshop
+      hint: null
+      type: select_one
+      options:
+      - Social media
+      - Website
+      - Friend or referral
+      - Access Consciousness community
+      - Local flyer or poster
+      - Other
+      required: false
+    - id: 14
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit or debit card
+      - PayPal
+      - Bank transfer
+      - Cash at the door
+      required: true
+    - id: 15
+      name: agreement
+      label: I understand and agree to the workshop policies including the cancellation
+        and refund policy
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true

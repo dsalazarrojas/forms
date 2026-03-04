@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teledermatology Patient Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_practitioner_id
+      label: Medical Practitioner Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_practitioner_name
+      label: Medical Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_practitioner_specialty
+      label: Medical Practitioner Specialty
+      hint: null
+      type: select_one
+      options:
+      - Dermatology
+      - Other
+      required: true
+    - id: 8
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_practitioner_address
+      label: Medical Practitioner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_practitioner_phone
+      label: Medical Practitioner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 12
+      name: medical_practitioner_license_number
+      label: Medical Practitioner License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_practitioner_report
+      label: prophets
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: patient_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: medical_certificate_number
+      label: Medical Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_practitioner_licence_number
+      label: Medical Practitioner Licence Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_medical_certificate
+      label: Medical Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: medical_practitioner_notes
+      label: Medical Practitioner Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: patient_medical_practitioner_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_practitioner_additional_notes
+      label: Medical Practitioner Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_additional_notes
+      label: Patient Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_medical_certification
+      label: Medical Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Dermatology
+      - Other
+      required: false

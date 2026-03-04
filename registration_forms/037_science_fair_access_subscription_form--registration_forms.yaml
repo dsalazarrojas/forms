@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: science_fair_access_subscription_form
+    pages:
+    - id: 1
+      name: event_organizer_name
+      label: Event Organizers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: science_fair_access_code
+      label: Science Fair Access Code
+      hint: null
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      - '9012'
+      required: false
+    - id: 7
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

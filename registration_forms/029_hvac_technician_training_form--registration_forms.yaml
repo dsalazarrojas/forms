@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac_technician_training_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: enrollment_date
+      label: enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: training_program
+      label: training_program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_duration
+      label: program_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_cost
+      label: program_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: training_institution
+      label: training_institution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: training_institution_type
+      label: training_institution_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_hours
+      label: program_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_schedule
+      label: training_schedule
+      hint: null
+      type: time
+      options: []
+      required: false

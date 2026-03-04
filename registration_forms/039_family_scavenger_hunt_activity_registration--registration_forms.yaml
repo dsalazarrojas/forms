@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Scavenger Hunt Activity Registration
+    pages:
+    - id: 1
+      name: family_scavenger_hunt_activity_registration
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_scavenger_hunt_activity_registration_family
+      label: Family Members
+      hint: List all family members attending
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: family_scavenger_hunt_activity_registration_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_scavenger_hunt_activity_registration_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: family_scavenger_hunt_activity_registration_email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: family_scavenger_hunt_activity_registration_phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: family_scavenger_hunt_activity_registration_notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: family_scavenger_hunt_activity_registration_agree_to_participate
+      label: Agreed to participate
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false

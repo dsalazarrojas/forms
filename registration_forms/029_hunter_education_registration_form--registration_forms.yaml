@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: hunter-education-registration-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hunter_education_number
+      label: Hunter Education Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: utah_resident_status
+      label: Utah Resident Status
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 7
+      name: other_states_resident_status
+      label: Other States Resident Status
+      hint: null
+      type: select_multiple
+      options:
+      - option-4
+      - option-5
+      - option-6
+      required: false
+    - id: 8
+      name: hunter_education_earned
+      label: Hunter Education Earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hunting_license_number
+      label: Hunting License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false

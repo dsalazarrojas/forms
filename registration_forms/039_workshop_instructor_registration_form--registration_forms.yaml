@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Instructor Registration Form
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_info
+      label: Workshop Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_dates
+      label: Workshop Dates
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: workshop_venue
+      label: Workshop Venue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: instructors
+      label: Workshop Instructors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: instructor_info
+      label: Instructor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_materials
+      label: Course Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_language
+      label: Language
+      hint: Select the workshop language
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: workshop_description
+      label: Workshop Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_outcomes
+      label: Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: workshop_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_capacity
+      label: Capacity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: workshop_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

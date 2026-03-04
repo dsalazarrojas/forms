@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_health_initiative_enrollment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Please enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_selection_1
+      label: Health Program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''name'': ''Program 1''}'
+      - '{''id'': 7.2, ''name'': ''Program 2''}'
+      - '{''id'': 7.3, ''name'': ''Program 3''}'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 9.1, ''name'': True}'
+      - '{''id'': 9.2, ''name'': False}'
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false

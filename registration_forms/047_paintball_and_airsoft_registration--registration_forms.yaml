@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paintball And Airsoft Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Paintball And Airsoft Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: safety_acknowledgement
+      label: Safety Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: participant_details_2
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

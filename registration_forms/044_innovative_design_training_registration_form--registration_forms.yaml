@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Innovative Design Training Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_session_preferences
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      - option 4
+      - option 5
+      required: false
+    - id: 5
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - term 1
+      - term 2
+      - term 3
+      required: false
+    - id: 9
+      name: participant_registration_number
+      label: Participant Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - status 1
+      - status 2
+      - status 3
+      required: false
+    - id: 11
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - status 4
+      - status 5
+      - status 6
+      required: false
+    - id: 12
+      name: participant_status_2
+      label: participant_status_2
+      hint: null
+      type: select_multiple
+      options:
+      - status 7
+      - status 8
+      - status 9
+      required: false
+    - id: 13
+      name: participant_status_3
+      label: participant_status_3
+      hint: null
+      type: select_multiple
+      options:
+      - status 10
+      - status 11
+      - status 12
+      required: false

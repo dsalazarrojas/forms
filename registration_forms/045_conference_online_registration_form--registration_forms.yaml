@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Online Registration Form
+    pages:
+    - id: 1
+      name: registration_welcome
+      label: Conference Registration
+      hint: Register for the conference online
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: conference_selection
+      label: Select Conference
+      hint: Choose event to attend
+      type: select_one
+      options:
+      - Annual Tech Summit
+      - Business Innovation Forum
+      - Healthcare Conference
+      - Education Leadership Summit
+      - Science Symposium
+      required: true
+    - id: 3
+      name: conference_date
+      label: Conference Date
+      hint: Event dates
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: attendee_details
+      label: Attendee Details
+      hint: Your information
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: registration_options
+      label: Registration Options
+      hint: Choose your package
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: registration_type
+      label: Registration Type
+      hint: Ticket category
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Virtual Only
+      - Student Rate
+      - Group Rate
+      required: true
+    - id: 14
+      name: day_selection
+      label: Day Selection
+      hint: If single day
+      type: select_one
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - All Days
+      required: false
+    - id: 15
+      name: workshop_selection
+      label: Workshop Selection
+      hint: Pre-conference workshops
+      type: select_multiple
+      options:
+      - Workshop A - Morning
+      - Workshop B - Afternoon
+      - Workshop C - Full Day
+      - No Workshops
+      required: false
+    - id: 16
+      name: meal_preferences
+      label: Meal Preferences
+      hint: Catering options
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: lunch_day1
+      label: Lunch Day 1
+      hint: First day lunch
+      type: select_one
+      options:
+      - Standard
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - Kosher
+      - No Lunch
+      required: false
+    - id: 18
+      name: lunch_day2
+      label: Lunch Day 2
+      hint: Second day lunch
+      type: select_one
+      options:
+      - Standard
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - Kosher
+      - No Lunch
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Allergies or needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accommodation_info
+      label: Accommodation Information
+      hint: Hotel needs
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: hotel_needed
+      label: Hotel Accommodation Needed
+      hint: Require lodging
+      type: select_one
+      options:
+      - Yes Need Hotel
+      - No I Have Hotel
+      required: false
+    - id: 22
+      name: hotel_nights
+      label: Number of Nights
+      hint: Duration of stay
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: room_type
+      label: Room Type
+      hint: Hotel preference
+      type: select_one
+      options:
+      - Standard Single
+      - Standard Double
+      - Executive Suite
+      required: false
+    - id: 24
+      name: payment_info
+      label: Payment Information
+      hint: Complete registration
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Invoice
+      required: true
+    - id: 26
+      name: promo_code
+      label: Promo Code
+      hint: Discount code
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_accepted
+      label: Terms Accepted
+      hint: Agree to policies
+      type: select_one
+      options:
+      - I Accept Terms
+      - I Do Not Accept
+      required: true

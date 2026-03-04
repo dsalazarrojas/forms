@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Digital Identity Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: Select one of the following states
+      type: select_one
+      options:
+      - New York
+      - California
+      - Florida
+      - Texas
+      required: false
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retiree
+      required: false
+    - id: 11
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - W2
+      - '1099'
+      - Corporate
+      required: false
+    - id: 12
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - Healthcare
+      - Technology
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_type
+      label: Job Type
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: false
+    - id: 19
+      name: job_shift
+      label: Job Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 20
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: job_terminology
+      label: Job Terminology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_size
+      label: Company Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company_type
+      label: Company Type
+      hint: Select one of the following options
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Non Profit
+      required: false
+    - id: 24
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Individual
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

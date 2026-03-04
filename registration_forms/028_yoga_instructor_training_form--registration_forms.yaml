@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoga_instructor_training_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: instructor_type
+      label: Instructor Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 7
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: studio
+      label: Studio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: certifications
+      label: Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: practice_areas
+      label: Practice Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teaching_certifications
+      label: Teaching Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: teaching_hours
+      label: Teaching Hours
+      hint: null
+      type: number
+      options: []
+      required: false

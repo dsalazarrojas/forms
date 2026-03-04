@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: theater_festival_form_braintree
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Participant'', ''label'': ''Participant''}'
+      - '{''id'': 2, ''value'': ''Volunteer'', ''label'': ''Volunteer''}'
+      - '{''id'': 3, ''value'': ''Organizer'', ''label'': ''Organizer''}'
+      required: false
+    - id: 6
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: duration_of_stay
+      label: Duration of Stay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: accommodation
+      label: Accommodation
+      hint: null
+      type: text
+      options: []
+      required: false

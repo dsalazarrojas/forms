@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Occupational Therapy Innovation Forum Registration Form
+    pages:
+    - id: 1
+      name: registration_form_fields_1
+      label: Registration Form Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: goals
+      label: Goals
+      hint: What are your goals for attending the forum?
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: professional
+      label: Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: role_in_organisation
+      label: Role in Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student'', ''value'': ''Student''}'
+      - '{''label'': ''Practitioner'', ''value'': ''Practitioner''}'
+      - '{''label'': ''Educator'', ''value'': ''Educator''}'
+      required: true
+    - id: 10
+      name: affiliation
+      label: Affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Student'', ''value'': ''Student''}'
+      - '{''label'': ''Practitioner'', ''value'': ''Practitioner''}'
+      - '{''label'': ''Educator'', ''value'': ''Educator''}'
+      required: false
+    - id: 11
+      name: date_of_registration
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: expected_participation_date
+      label: Expected Participation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PayPal'', ''value'': ''PayPal''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''Bank Transfer''}'
+      - '{''label'': ''Cash'', ''value'': ''Cash''}'
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Paid'', ''value'': ''Paid''}'
+      - '{''label'': ''Not Paid'', ''value'': ''Not Paid''}'
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: agreement_to_terms
+      label: Agreement to Terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_terms
+      label: prophets_terms_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: consent_to_data_collection
+      label: Consent to Data Collection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: consent_to_email
+      label: Consent to Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: consent_to_contact
+      label: Consent to Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: consent_to_share
+      label: Consent to Share
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: consent_to_use
+      label: Consent to Use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

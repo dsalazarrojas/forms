@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activity Confirmation And Certification Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person participating in the activity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: Email address for certificate delivery and communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_id
+      label: Participant ID (if applicable)
+      hint: Unique identifier for the participant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: activity_name
+      label: Name of Activity or Event
+      hint: Official name of the training, workshop, or event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: activity_date
+      label: Activity Date
+      hint: Date when the activity took place
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: activity_location
+      label: Activity Location
+      hint: Where the activity took place
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizer_name
+      label: Organizing Body
+      hint: Name of the organization or institution hosting the activity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: activity_duration
+      label: Activity Duration
+      hint: How long was the activity (in hours)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: attendance_verification
+      label: Attendance Verification
+      hint: Did the participant attend the full activity
+      type: select_one
+      options:
+      - Yes, full attendance
+      - Yes, partial attendance
+      - No, did not attend
+      required: true
+    - id: 10
+      name: participation_quality
+      label: Participation Quality
+      hint: How would you rate the participant's engagement
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 11
+      name: learning_outcomes_achieved
+      label: Learning Outcomes Achieved
+      hint: Did the participant achieve the intended learning outcomes
+      type: select_one
+      options:
+      - Yes, all outcomes achieved
+      - Most outcomes achieved
+      - Some outcomes achieved
+      - Few outcomes achieved
+      - No outcomes achieved
+      required: true
+    - id: 12
+      name: certification_eligibility
+      label: Eligibility for Certification
+      hint: Is the participant eligible to receive a certificate of participation
+      type: select_one
+      options:
+      - Yes, fully eligible
+      - Yes, with conditions
+      - No, not eligible
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional remarks about the participant's performance
+      type: text
+      options: []
+      required: false

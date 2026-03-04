@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participation Request For Cyber Event
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_one
+      options:
+      - Participant
+      - Speaker
+      - Sponsor
+      required: false
+    - id: 9
+      name: participant_type_other
+      label: participant_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_info_other
+      label: participant_info_other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_details
+      label: event_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: note
+      options: []
+      required: false

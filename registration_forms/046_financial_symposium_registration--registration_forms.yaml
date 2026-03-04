@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Symposium Registration
+    pages:
+    - id: 1
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_choices
+      label: Session Choices
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: financial_details
+      label: Financial Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confirm_payment
+      label: Confirm Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: chat
+      label: Chat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: payment_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: payment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: payment_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: financial_notes
+      label: Financial Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: attendee_comments
+      label: Attendee Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: session_comments
+      label: Session Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: session_preferences_comments
+      label: Session Preferences Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: financial_comments
+      label: Financial Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_comments
+      label: Payment Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false

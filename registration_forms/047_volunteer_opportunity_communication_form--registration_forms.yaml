@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Opportunity Communication Form
+    pages:
+    - id: 1
+      name: opportunity_id
+      label: Opportunity Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: volunteer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: opportunity_description
+      label: Opportunity Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: opportunity_start_date
+      label: Opportunity Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: opportunity_end_date
+      label: Opportunity End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: opportunity_start_time
+      label: Opportunity Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: opportunity_end_time
+      label: Opportunity End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: opportunity_location
+      label: Opportunity Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: opportunity_status
+      label: Opportunity Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Completed
+      - Cancelled
+      required: true
+    - id: 12
+      name: volunteer_manager_id
+      label: Volunteer Manager Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: opportunity_tags
+      label: Opportunity Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: true
+    - id: 16
+      name: volunteer_tags
+      label: Volunteer Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - Email
+      - SMS
+      - Voice
+      required: true
+    - id: 18
+      name: opportunity_priority
+      label: Opportunity Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_priority
+      label: Volunteer Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_name_2
+      label: Volunteer Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: volunteer_email_2
+      label: Volunteer Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: volunteer_phone_2
+      label: Volunteer Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By 2
+      hint: null
+      type: text
+      options: []
+      required: false

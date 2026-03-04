@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Founder Onboarding Form
+    pages:
+    - id: 1
+      name: founder_info_section
+      label: -- Founder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: background_section
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: previous_role
+      label: Previous Role/Position
+      hint: Your most recent position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: industry_background
+      label: Industry Background
+      hint: What industry are you from?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: Total work experience
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: startup_section
+      label: -- Startup Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: startup_name
+      label: Startup Name
+      hint: Name of your new business
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: startup_stage
+      label: Startup Stage
+      hint: Current stage of development
+      type: select_one
+      options:
+      - Ideation
+      - Prototype/MVP
+      - Pre-launch
+      - Recently Launched
+      - Growth Stage
+      required: true
+    - id: 14
+      name: problem_statement
+      label: Problem You Are Solving
+      hint: What problem does your startup address?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: solution_description
+      label: Your Solution
+      hint: How does your startup solve this problem?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: target_customer
+      label: Target Customer
+      hint: Who is your ideal customer?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_section
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: team_size
+      label: Current Team Size
+      hint: Number of people on team
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: team_roles
+      label: Key Team Roles and Members
+      hint: List main team members
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: funding_section
+      label: -- Funding Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: funding_raised
+      label: Funding Raised to Date
+      hint: Total capital raised
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: funding_stage
+      label: Current Funding Stage
+      hint: Where are you in fundraising?
+      type: select_one
+      options:
+      - Self-funded
+      - Pre-seed
+      - Seed round
+      - Series A
+      - Series B+
+      required: false
+    - id: 23
+      name: goals_section
+      label: -- Goals and Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: key_milestones
+      label: Key Milestones for Next 12 Months
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: support_needed
+      label: Type of Support Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mentoring
+      - Investor Connections
+      - Operational Support
+      - Legal and Compliance
+      - Marketing and Sales
+      - Technology and Development
+      required: false

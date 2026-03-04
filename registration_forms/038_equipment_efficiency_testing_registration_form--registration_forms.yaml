@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_efficiency_testing_registration_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: Please enter the ID of the equipment being tested
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_start_date
+      label: Test Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: test_duration
+      label: Test Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: efficiency_tester
+      label: Efficiency Tester
+      hint: null
+      type: select_multiple
+      options:
+      - Efficiency Tester 1
+      - Efficiency Tester 2
+      - Efficiency Tester 3
+      required: false
+    - id: 8
+      name: test_result
+      label: Test Result
+      hint: Please select from options below
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Pending
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Resident Vehicle Registration Form
+    pages:
+    - id: 1
+      name: resident_details
+      label: Resident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: parking_needs
+      label: Parking Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Parking 1
+      - Parking 2
+      - Parking 3
+      required: false
+    - id: 4
+      name: parking_notes
+      label: Parking Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_image_upload
+      label: Vehicle Image Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 8
+      name: residential_community
+      label: Residential Community
+      hint: null
+      type: select_one
+      options:
+      - Community 1
+      - Community 2
+      - Community 3
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: select_one
+      options:
+      - Submitter 1
+      - Submitter 2
+      - Submitter 3
+      required: false

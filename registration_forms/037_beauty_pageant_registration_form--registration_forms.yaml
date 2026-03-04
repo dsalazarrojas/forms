@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Pageant Registration Form
+    pages:
+    - id: 1
+      name: personal_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age Category
+      hint: null
+      type: select_one
+      options:
+      - Teen
+      - Young Adult
+      - Adult
+      - Senior
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_guardian_header
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pageant_header
+      label: -- Pageant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: pageant_category
+      label: Pageant Category or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: pageant_date
+      label: Pageant Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: talent_section
+      label: -- Talent and Abilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: talent_category
+      label: Talent Category
+      hint: Singing, dancing, speaking, etc.
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: talent_description
+      label: Talent Description
+      hint: What will you perform
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: special_skills
+      label: Special Skills or Accomplishments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: experience_header
+      label: -- Pageant Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: previous_pageants
+      label: Previous Pageant Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: previous_titles
+      label: Previous Titles or Awards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: platform_header
+      label: -- Platform and Advocacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: platform_cause
+      label: Social Cause or Platform
+      hint: What cause do you advocate for
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: platform_description
+      label: Platform Description
+      hint: How will you support this cause
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: agreement_header
+      label: -- Agreement and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: rules_agreement
+      label: I Agree to Pageant Rules and Standards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 32
+      name: photo_release
+      label: I Consent to Use of My Photos
+      hint: For promotional purposes
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 33
+      name: entry_fee_confirmation
+      label: I Understand and Will Pay Entry Fee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

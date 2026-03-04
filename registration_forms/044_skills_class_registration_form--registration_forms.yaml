@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: skills_class_registration_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_selections
+      label: Class selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: preferred_time
+      label: Preferred time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_notes
+      label: Participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: class_start_date
+      label: Class start date
+      hint: null
+      type: date
+      options: []
+      required: false

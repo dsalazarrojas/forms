@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Retreat Family Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_children
+      label: Number Of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_adults
+      label: Number Of Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: family_member_relationship
+      label: Family Member Relationship
+      hint: null
+      type: select_one
+      options:
+      - options1
+      - options2
+      - options3
+      - options4
+      - options5
+      required: false
+    - id: 10
+      name: family_retreat_type
+      label: Family Retreat Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

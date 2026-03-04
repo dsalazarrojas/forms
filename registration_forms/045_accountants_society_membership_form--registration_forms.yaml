@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accountants Society Membership Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_professional_info
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: membership_type
+      label: Membership Type Requested
+      hint: null
+      type: select_one
+      options:
+      - Student member
+      - Associate member
+      - Full member
+      - Fellow
+      - Honorary member
+      required: true
+    - id: 9
+      name: professional_status
+      label: Current Professional Status
+      hint: null
+      type: select_one
+      options:
+      - Practicing accountant
+      - Accountant in industry
+      - Academic or researcher
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 10
+      name: employer
+      label: Current Employer or Firm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_in_profession
+      label: Years in the Accounting Profession
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: certifications
+      label: Professional Certifications Held
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - CPA
+      - CMA
+      - ACCA
+      - CIA
+      - CA
+      - None
+      - Other
+      required: true
+    - id: 14
+      name: specialization
+      label: Area of Specialization
+      hint: null
+      type: select_one
+      options:
+      - Tax
+      - Audit
+      - Management accounting
+      - Financial reporting
+      - Forensic accounting
+      - Government accounting
+      - General practice
+      - Other
+      required: true
+    - id: 15
+      name: section_membership
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: referral
+      label: How Did You Hear About the Society
+      hint: null
+      type: select_one
+      options:
+      - Colleague referral
+      - Website
+      - Social media
+      - Professional event
+      - University or school
+      - Other
+      required: false
+    - id: 17
+      name: interests
+      label: Areas of Interest for Society Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Continuing education
+      - Networking events
+      - Industry conferences
+      - Mentorship programs
+      - Publications and research
+      - Community service
+      required: false
+    - id: 18
+      name: volunteer_interest
+      label: Would You Be Interested in Volunteering for Society Committees
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 19
+      name: terms_agreement
+      label: I Agree to Abide by the Society Code of Ethics and Bylaws
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

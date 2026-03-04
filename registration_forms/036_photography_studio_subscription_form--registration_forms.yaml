@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Studio Subscription Form
+    pages:
+    - id: 1
+      name: form_1
+      label: form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_plan
+      label: subscription_plan
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Annually''}'
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: subscription_status
+      label: subscription_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Suspended''}'
+      - '{''value'': ''Expired''}'
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stripe''}'
+      - '{''value'': ''PayPal''}'
+      - '{''value'': ''Bank Transfer''}'
+      required: false
+    - id: 11
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paid''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Unpaid''}'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

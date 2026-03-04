@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climbing Competition Registration Form
+    pages:
+    - id: 1
+      name: competitor_section
+      label: -- Competitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: organization
+      label: Gym/Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: competition_section
+      label: -- Competition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: competition_date
+      label: Competition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: competition_type
+      label: Type of Competition
+      hint: null
+      type: select_one
+      options:
+      - Bouldering
+      - Speed climbing
+      - Sport/Lead climbing
+      - Mixed
+      required: true
+    - id: 12
+      name: division_section
+      label: -- Division Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: age_division
+      label: Age Division
+      hint: null
+      type: select_one
+      options:
+      - Youth (under 18)
+      - Junior (18-35)
+      - Senior (35-49)
+      - Master (50+)
+      required: true
+    - id: 14
+      name: skill_division
+      label: Skill Division
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Elite
+      - Professional
+      required: true
+    - id: 15
+      name: experience_section
+      label: -- Climbing Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: years_climbing
+      label: Years of climbing experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: competitions_attended
+      label: Previous competitions attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: best_achievement
+      label: Best previous competition result
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: health_section
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: injuries
+      label: Any current injuries or medical conditions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: waiver_acceptance
+      label: I acknowledge and accept the competition rules and liability waiver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: parent_consent
+      label: Parent/Guardian consent (for minors)
+      hint: Minors must have consent
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: true
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

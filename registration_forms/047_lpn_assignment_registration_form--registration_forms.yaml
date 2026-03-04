@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: LPN Assignment Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: placement_preferences
+      label: Placement Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: lnp
+      label: LPN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: healthcare_staffing_team
+      label: Healthcare Staffing Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: care_facility
+      label: Care Facility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: lnp_status
+      label: LPN Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: healthcare_staffing_team
+      label: Healthcare Staffing Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: care_facility
+      label: Care Facility
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: lnp_status
+      label: LPN Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lnp_assignment
+      label: LPN Assignment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

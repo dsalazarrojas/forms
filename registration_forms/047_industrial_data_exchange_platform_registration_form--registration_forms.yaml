@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_data_exchange_platform_registration_form
+    pages:
+    - id: 1
+      name: onboarding_organization
+      label: Onboarding Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accept_terms
+      label: Accept Terms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I accept the terms and conditions''}'
+      - '{''label'': ''I do not accept the terms and conditions''}'
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Manufacturer''}'
+      - '{''label'': ''Supplier''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Automotive''}'
+      - '{''label'': ''Aerospace''}'
+      - '{''label'': ''Chemical''}'
+      - '{''label'': ''Construction''}'
+      - '{''label'': ''Energy''}'
+      - '{''label'': ''Food and Beverage''}'
+      required: false
+    - id: 16
+      name: confirm_prophets
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false

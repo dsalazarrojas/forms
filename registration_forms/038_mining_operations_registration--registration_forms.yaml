@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Operations Registration
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - corporation
+      - partnership
+      - sole proprietorship
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_type
+      label: Site Type
+      hint: null
+      type: select_one
+      options:
+      - open pit
+      - open pit with heap leach
+      - open pit with plant
+      - underground
+      - underground with mill
+      required: false
+    - id: 8
+      name: site_status
+      label: Site Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_description
+      label: Site Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: site_documentation
+      label: Supporting Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: operational_status
+      label: Operational Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: operational_description
+      label: Operational Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: operational_documentation
+      label: Operational Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: operational_address
+      label: Operational Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: operational_phone
+      label: Operational Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: operational_email
+      label: Operational Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: share
+      label: Share
+      hint: null
+      type: select_multiple
+      options:
+      - facebook
+      - twitter
+      - email
+      - link
+      required: false

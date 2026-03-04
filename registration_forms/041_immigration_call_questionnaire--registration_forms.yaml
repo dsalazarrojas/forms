@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: immigration_call_questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: place_of_birth
+      label: place_of_birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: immigration_status
+      label: immigration_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: immigration_type
+      label: immigration_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date_of_arrival
+      label: date_of_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: country_of_residence
+      label: country_of_residence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purpose_of_travel
+      label: purpose_of_travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_documents
+      label: travel_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: current_residence
+      label: current_residence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: previous_residence
+      label: previous_residence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: financial_support
+      label: financial_support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: language_proficiency
+      label: language_proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: family_status
+      label: family_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: dependents
+      label: dependents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: travel_documents_uploaded
+      label: travel_documents_uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: travel_documents_received
+      label: travel_documents_received
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: documents_uploaded_date
+      label: documents_uploaded_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: documents_received_date
+      label: documents_received_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

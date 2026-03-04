@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donation Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: Blood Donation Registration Form
+      hint: Register to become a blood donor
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM slash DD slash YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Must be 17 or older
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: For records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 8
+      name: address_line_1
+      label: Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_line_2
+      label: Address Line 2
+      hint: Apartment or suite
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: weight_lbs
+      label: Weight in Pounds
+      hint: Current weight
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: blood_type_known
+      label: Do You Know Your Blood Type
+      hint: If known
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: blood_type
+      label: Blood Type
+      hint: Select if known
+      type: select_one
+      options:
+      - A Positive
+      - A Negative
+      - B Positive
+      - B Negative
+      - AB Positive
+      - AB Negative
+      - O Positive
+      - O Negative
+      required: false
+    - id: 16
+      name: first_time_donor
+      label: First Time Donor
+      hint: Is this your first donation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: donations_count
+      label: Number of Previous Donations
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: preferred_donation_type
+      label: Preferred Donation Type
+      hint: What would you like to donate
+      type: select_one
+      options:
+      - Whole Blood
+      - Platelets
+      - Plasma
+      - Power Red
+      - Not Sure
+      required: true
+    - id: 19
+      name: preferred_center
+      label: Preferred Donation Center
+      hint: Choose location
+      type: select_one
+      options:
+      - Main Blood Bank
+      - Downtown Clinic
+      - Westside Location
+      - Mobile Drive
+      - Any Location
+      required: true
+    - id: 20
+      name: availability_schedule
+      label: Availability
+      hint: When can you donate
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday
+      - Sunday
+      required: true
+    - id: 21
+      name: employer
+      label: Employer or School
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend or Family
+      - Workplace
+      - School
+      - Community Event
+      - Other
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: Any other details
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Valuation Seminar Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company or Organization
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry
+      label: Industry
+      hint: What industry
+      type: select_one
+      options:
+      - Accounting
+      - Finance
+      - Real Estate
+      - Banking
+      - Insurance
+      - Consulting
+      - Government
+      - Education
+      - Other
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: seminar_date
+      label: Seminar Date
+      hint: When attending
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: seminar_format
+      label: Seminar Format
+      hint: How attending
+      type: select_one
+      options:
+      - In Person
+      - Virtual Live Stream
+      - Hybrid
+      - Recorded Access
+      required: true
+    - id: 9
+      name: venue_location
+      label: Venue Location
+      hint: If in person
+      type: select_one
+      options:
+      - New York City
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Miami
+      - Virtual
+      required: true
+    - id: 10
+      name: experience_level
+      label: Valuation Experience Level
+      hint: How experienced
+      type: select_one
+      options:
+      - Beginner - New to Valuation
+      - Intermediate - Some Experience
+      - Advanced - Experienced
+      - Expert - Seeking Updates
+      required: true
+    - id: 11
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: What to learn
+      type: select_multiple
+      options:
+      - Valuation Fundamentals
+      - Market Analysis
+      - Financial Modeling
+      - Real Estate Valuation
+      - Business Valuation
+      - Equipment Appraisal
+      - Regulatory Updates
+      - Case Studies
+      required: true
+    - id: 12
+      name: session_preference
+      label: Session Preference
+      hint: Which track
+      type: select_one
+      options:
+      - Full Day Seminar
+      - Morning Session Only
+      - Afternoon Session Only
+      - Multi-Day Workshop
+      required: true
+    - id: 13
+      name: meal_preference
+      label: Meal Preference
+      hint: Dietary choice
+      type: select_one
+      options:
+      - Standard
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      required: true
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: registration_type
+      label: Registration Type
+      hint: Ticket type
+      type: select_one
+      options:
+      - Early Bird
+      - Standard
+      - Group Rate
+      - Student Rate
+      - VIP Package
+      required: true
+    - id: 16
+      name: registration_fee
+      label: Registration Fee
+      hint: Cost
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How paying
+      type: select_one
+      options:
+      - Credit Card
+      - Company Invoice
+      - Purchase Order
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 18
+      name: purchase_order_number
+      label: Purchase Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: certificate_requested
+      label: Request Certificate of Attendance
+      hint: For records
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: continuing_education
+      label: Need Continuing Education Credits
+      hint: CPE credits
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: networking_interest
+      label: Interested in Networking Events
+      hint: Social activities
+      type: select_one
+      options:
+      - Yes - All Events
+      - Yes - Some Events
+      - 'No'
+      required: true
+    - id: 22
+      name: hotel_needed
+      label: Need Hotel Accommodation
+      hint: Lodging assistance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: hotel_nights
+      label: Number of Hotel Nights
+      hint: If needed
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: marketing_consent
+      label: Consent to Receive Marketing
+      hint: Future emails
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: referral_source
+      label: How Did You Hear About Seminar
+      hint: Where from
+      type: select_one
+      options:
+      - Email Newsletter
+      - Social Media
+      - Colleague
+      - Professional Association
+      - Website
+      - Other
+      required: true
+    - id: 26
+      name: special_requests
+      label: Special Requests
+      hint: Any needs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes I Accept
+      - 'No'
+      required: true
+    - id: 28
+      name: attendee_signature
+      label: Attendee Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

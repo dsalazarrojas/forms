@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_pos_system_beta_registration_form
+    pages:
+    - id: 1
+      name: business_name
+      label: Enter business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Enter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Enter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_type
+      label: Business type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Retail Business''}'
+      - '{''label'': ''Restaurant''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: location
+      label: Enter location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: false

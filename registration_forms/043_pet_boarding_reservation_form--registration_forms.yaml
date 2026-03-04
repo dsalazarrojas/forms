@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Boarding Reservation Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Fish
+      - Other
+      required: false
+    - id: 3
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Large
+      - Medium
+      required: false
+    - id: 4
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reservation_date
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: boarding_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reservation_time
+      label: prophets
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: boarding_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: reservation_length
+      label: Reservation Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: boarding_length
+      label: Boarding Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: boarding_service
+      label: Boarding Service
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Deluxe
+      - Basic
+      required: false
+    - id: 14
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - Grooming
+      - Training
+      - Feeding
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reservation_notes
+      label: Reservation Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_fair_attendance_form
+    pages:
+    - id: 1
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_fair_id
+      label: Job Fair ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: checked_in_by
+      label: Checked In By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: attended_event
+      label: Attended Event
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true

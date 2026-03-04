@@ -1,0 +1,372 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Registration
+    pages:
+    - id: 1
+      name: training_registration_form
+      label: Training Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider
+      label: Provider
+      hint: null
+      type: select_one
+      options:
+      - Training Provider
+      - Nonprofit
+      - Corporate HR
+      - Event Management Team
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_end_date
+      label: Training End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Training
+      - Workshop
+      - Seminar
+      required: false
+    - id: 9
+      name: capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: max_participants
+      label: Max Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: min_participants
+      label: Min Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_updated_by
+      label: Form Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_updated_on
+      label: Form Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Confirmed
+      - Cancelled
+      - Finished
+      required: false
+    - id: 22
+      name: training_status_date
+      label: Training Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: training_last_updated_by
+      label: Training Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_last_updated_on
+      label: Training Last Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: provider_status
+      label: Provider Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Blocked
+      required: false
+    - id: 26
+      name: provider_status_reason
+      label: Provider Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: training_status_reason
+      label: Training Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Blocked
+      required: false
+    - id: 29
+      name: form_status_reason
+      label: Form Status Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 32
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 38
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: version
+      label: Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 42
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: deleted_on
+      label: Deleted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 44
+      name: form_updated_at
+      label: Form Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 45
+      name: form_updated_by
+      label: Form Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 47
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 48
+      name: deleted
+      label: Deleted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: form_deleted_at
+      label: Form Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 50
+      name: form_updated_by
+      label: Form Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

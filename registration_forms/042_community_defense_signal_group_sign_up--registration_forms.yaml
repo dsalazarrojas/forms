@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Defense Signal Group Sign Up
+    pages:
+    - id: 1
+      name: section_signal_group_intro
+      label: -- Community Defense Signal Group --
+      hint: Please fill out your contact information and details to join the Signal
+        group.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_full_name_sig
+      label: Full Name of User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email_sig
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_signal_phone_sig
+      label: Signal Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_dob_sig
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: user_address_sig
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_signal_group_engagement_sig
+      label: -- Signal Group Interests and Guidelines --
+      hint: Select the programs and activities you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_signal_group_interest_sig
+      label: Which Signal group category are you most interested in
+      hint: null
+      type: select_one
+      options:
+      - Neighborhood Safety
+      - Mutual Aid/Support
+      - Emergency Preparedness
+      - Information Sharing
+      - Community Advocacy
+      - Specialized Task Group
+      required: true
+    - id: 9
+      name: signal_group_guideline_agreement_sig
+      label: I agree to the Signal group's guidelines and terms of use
+      hint: null
+      type: select_one
+      options:
+      - I agree to the guidelines
+      - Other
+      required: true
+    - id: 10
+      name: section_skills_experience_sig
+      label: -- Skills and Experience --
+      hint: Tell us about your background and why you're a good fit.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: key_skills_expertise_sig
+      label: What key skills or expertise would you bring to the Signal group
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_signal_group_experience_sig
+      label: Describe any previous community or Signal group experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reason_for_joining_signal_group_sig
+      label: Why are you interested in joining the Signal group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_acknowledgment_sig
+      label: -- Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: user_signature_digital_sig
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date_final_sig
+      label: Date of Sign Up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: newsletter_opt_in_sig
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 18
+      name: referral_source_sig
+      label: How did you hear about this Signal group sign up form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 19
+      name: emergency_contact_full_name_sig
+      label: Emergency Contact Person
+      hint: Someone not living with the user
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone_sig
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

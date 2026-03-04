@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Readiness Workshop Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_company
+      label: participant_company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_jobtitle
+      label: participant_jobtitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_role
+      label: participant_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_managername
+      label: participant_managername
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_managervia
+      label: participant_managervia
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_attendees
+      label: participant_attendees
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: participant_date
+      label: participant_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: participant_time
+      label: participant_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false

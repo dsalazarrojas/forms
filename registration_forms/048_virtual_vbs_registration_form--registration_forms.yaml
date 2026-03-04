@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual VBS Registration Form
+    pages:
+    - id: 1
+      name: child_name
+      label: Enter child's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Enter parent's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - 1-2 years
+      - 2-3 years
+      - 3-5 years
+      - 6-8 years
+      - 9-12 years
+      - 13+ years
+      required: true
+    - id: 7
+      name: available_days
+      label: Available days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: selected_days
+      label: Selected days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: bible_version
+      label: Bible version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: session_duration
+      label: Session duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: session_frequency
+      label: Session frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: additional_info
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: consent_to_share
+      label: Consent to share
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

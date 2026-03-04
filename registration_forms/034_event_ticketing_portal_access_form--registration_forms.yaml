@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_ticketing_portal_access_form
+    pages:
+    - id: 1
+      name: event_ticketing_portal_access_form_1
+      label: event-organizer-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact-number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email_id
+      label: email-id
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: ticket_type
+      label: ticket-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_info
+      label: event-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ticket_price
+      label: ticket-price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: event-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note_1
+      label: note-1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: note_2
+      label: note-2
+      hint: null
+      type: note
+      options: []
+      required: false

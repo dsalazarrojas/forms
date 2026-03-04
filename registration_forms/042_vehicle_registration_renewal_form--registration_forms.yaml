@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_registration_renewal_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      required: false
+    - id: 5
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expiration_time
+      label: Expiration Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: Enter your license plate number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_owner_name
+      label: Vehicle Owner Name
+      hint: Enter the name of the vehicle owner
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Enter the model of the vehicle
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Enter the year of the vehicle
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Enter the type of the vehicle
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - Bus
+      - Van
+      - Other
+      required: false
+    - id: 12
+      name: owner_address
+      label: Owner Address
+      hint: Enter your physical address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_city
+      label: Owner City
+      hint: Enter your city of residence
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_state
+      label: Owner State
+      hint: Enter your state of residence
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_zip
+      label: Owner Zip
+      hint: Enter your zip code
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_phone
+      label: Owner Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_email
+      label: Owner Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: payment_amount
+      label: Payment Amount
+      hint: Enter the payment amount
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: help
+      label: Help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: save_draft
+      label: Save Draft
+      hint: null
+      type: text
+      options: []
+      required: false

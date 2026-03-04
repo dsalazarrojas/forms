@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Course Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: Student Information
+      hint: Please provide your student information.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_select
+      label: Select a course
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - English
+      - Science
+      - History
+      - Art
+      - Music
+      required: false
+    - id: 3
+      name: course_details
+      label: Course Details
+      hint: Enter course details here.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Enter the name of the course.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: Enter the teacher name here.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: Enter start date.
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: Enter end date.
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: course_time
+      label: Course Time
+      hint: Enter the time of the course in 24 hour format.
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: total_weeks
+      label: Total Weeks
+      hint: Enter total weeks
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: course_description
+      label: Course Description
+      hint: Enter course description here.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: class_days
+      label: Class Days
+      hint: Select class days.
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 12
+      name: classroom
+      label: Classroom
+      hint: Enter classroom name here.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: class_size
+      label: Class Size
+      hint: Enter class size.
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: location
+      label: Location
+      hint: Enter location here.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_level
+      label: Course Level
+      hint: Select course level.
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Master
+      - Ph.D.
+      required: false
+    - id: 16
+      name: course_level_other
+      label: Other Level
+      hint: Enter other course level here.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_email
+      label: Student Email
+      hint: Enter student email here.
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: student_phone
+      label: Student Phone
+      hint: Enter student phone number here.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

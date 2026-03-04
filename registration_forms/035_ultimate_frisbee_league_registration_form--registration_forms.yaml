@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ultimate Frisbee League Registration Form
+    pages:
+    - id: 1
+      name: player_info
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_name
+      label: player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: league_info
+      label: League Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

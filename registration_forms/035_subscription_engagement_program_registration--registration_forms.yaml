@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Engagement Program Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: A valid email address is required
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Contact Method
+      hint: How do you like to be contacted?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 6
+      name: consent_to_email
+      label: Consent to Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: consent_to_sms
+      label: Consent to SMS
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: consent_to_phone
+      label: Consent to Phone
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 10
+      name: preferred_channel
+      label: Preferred Channel
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone
+      - Email
+      required: false
+    - id: 11
+      name: preferred_frequency
+      label: Preferred Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone_confirmation
+      label: Phone Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

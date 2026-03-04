@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Networking Group Renewal Form
+    pages:
+    - id: 1
+      name: membership_renewal_form
+      label: Membership Renewal Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_details
+      label: Member Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

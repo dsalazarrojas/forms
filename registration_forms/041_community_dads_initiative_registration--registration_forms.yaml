@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Dads Initiative Registration
+    pages:
+    - id: 1
+      name: section_dads_registration_info
+      label: -- Dads Initiative Registration --
+      hint: Please fill out your contact information and details to join the initiative.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dad_full_name_dad
+      label: Full Name of Dad/Guardian
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dad_email_dad
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: dad_phone_dad
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dad_dob_dad
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: dad_address_dad
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_initiative_participation_dad
+      label: -- Participation and Availability --
+      hint: Select the programs and activities you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_initiative_interest_dad
+      label: Which initiative area are you most interested in
+      hint: null
+      type: select_one
+      options:
+      - Mentorship Programs
+      - Community Service Projects
+      - Educational Workshops
+      - Social/Networking Events
+      - Youth Advocacy
+      - Fatherhood Support Groups
+      required: true
+    - id: 9
+      name: preferred_participation_days_dad
+      label: Which days of the week are you available to participate
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 10
+      name: participation_level_dad
+      label: What level of participation are you interested in
+      hint: null
+      type: select_one
+      options:
+      - Active Member (Regular attendance)
+      - Support Member (As-needed participation)
+      - Information Only (Receive updates)
+      - Lead Member (Initiative coordination)
+      required: true
+    - id: 11
+      name: section_skills_experience_dad
+      label: -- Skills and Experience --
+      hint: Tell us about your background and why you're a good fit.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: key_skills_expertise_dad
+      label: What key skills or expertise would you bring to the initiative
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_initiative_experience_dad
+      label: Describe any previous community or initiative experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_acknowledgment_dad
+      label: -- Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dad_signature_digital_dad
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date_final_dad
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: newsletter_opt_in_dad
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 18
+      name: referral_source_dad
+      label: How did you hear about this dads initiative registration
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 19
+      name: emergency_contact_full_name_dad
+      label: Emergency Contact Person
+      hint: Someone not living with the dad
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone_dad
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

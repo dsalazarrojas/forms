@@ -1,0 +1,350 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Athlete Showcase Registration
+    pages:
+    - id: 1
+      name: athlete_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: athlete_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: high_school_name
+      label: High School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: high_school_city
+      label: High School City
+      hint: School location
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: high_school_state
+      label: High School State
+      hint: School state
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: graduation_year
+      label: Graduation Year
+      hint: When you graduate
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: gpa
+      label: Current GPA
+      hint: Unweighted
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: sport
+      label: Primary Sport
+      hint: Sport you play
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Baseball
+      - Softball
+      - Soccer
+      - Volleyball
+      - Track and Field
+      - Swimming
+      - Tennis
+      - Lacrosse
+      - Hockey
+      - Other
+      required: true
+    - id: 17
+      name: position
+      label: Primary Position
+      hint: Position played
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: secondary_position
+      label: Secondary Position
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: jersey_number
+      label: Jersey Number
+      hint: Uniform number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_name
+      label: Current Team Name
+      hint: School or club team
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: coach_name
+      label: Head Coach Name
+      hint: Current coach
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: coach_email
+      label: Coach Email
+      hint: Coach contact
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: coach_phone
+      label: Coach Phone
+      hint: Coach phone number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: stats_highlights
+      label: Key Statistics and Highlights
+      hint: Your best stats
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: honors_awards
+      label: Honors and Awards
+      hint: Athletic achievements
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: video_link
+      label: Highlight Video Link
+      hint: YouTube or Hudl link
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: showcase_date
+      label: Showcase Event Date
+      hint: Which date attending
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: showcase_location
+      label: Showcase Location
+      hint: Event venue
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: parent_email
+      label: Parent Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 33
+      name: parent_phone
+      label: Parent Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Other than parent
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency phone
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: medications
+      label: Current Medications
+      hint: List if any
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: allergies
+      label: Allergies
+      hint: Food, medication, or other
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Health insurance company
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For event shirt
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 42
+      name: registration_fee
+      label: Registration Fee Payment
+      hint: Fee amount
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      required: true
+    - id: 44
+      name: waiver_agreement
+      label: Liability Waiver Agreement
+      hint: I agree to the waiver
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 45
+      name: media_release
+      label: Media Release Consent
+      hint: Photos and videos may be taken
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true

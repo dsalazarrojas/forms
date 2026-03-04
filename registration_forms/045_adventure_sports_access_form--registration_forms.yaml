@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Sports Access Form
+    pages:
+    - id: 1
+      name: access_header
+      label: -- Access Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_selected
+      label: Activity selected
+      hint: Which sport or activity access requested
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: access_level
+      label: Access level requested
+      hint: Select required access
+      type: select_one
+      options:
+      - Participant
+      - Coach
+      - Spectator
+      - Vendor
+      required: true
+    - id: 5
+      name: id_verification
+      label: ID verification provided
+      hint: For staff use
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 6
+      name: liability_waiver
+      label: Liability waiver accepted
+      hint: Required for access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: access_start_date
+      label: Access start date
+      hint: Date access begins
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: special_needs
+      label: Special access needs
+      hint: Describe any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: For access verification
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of form submission
+      type: date
+      options: []
+      required: true

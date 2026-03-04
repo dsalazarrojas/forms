@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Humanities Conference Registration
+    pages:
+    - id: 1
+      name: session_choices
+      label: Session Choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: roles
+      label: roles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: session_preferences
+      label: session_preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: session
+      label: session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false

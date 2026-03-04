@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activity Waiver And Release Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person participating in the activity
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: Date of birth of the person participating in the activity
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of the person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship of the emergency contact to the participant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for the emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: activity_name
+      label: Name of Activity
+      hint: Official name of the activity being participated in
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: activity_date
+      label: Activity Date
+      hint: Date when the activity will take place
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: risk_acknowledgment
+      label: Acknowledgment of Risks
+      hint: Do you acknowledge and understand the risks associated with this activity
+      type: select_one
+      options:
+      - Yes, I acknowledge and accept the risks
+      - No, I do not acknowledge the risks
+      required: true
+    - id: 9
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions that might affect your participation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: medical_conditions_details
+      label: Details of Medical Conditions
+      hint: If yes, please provide details of any medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: liability_release
+      label: Release of Liability
+      hint: Do you release the organizers from liability for injuries
+      type: select_one
+      options:
+      - Yes, I release liability
+      - No, I do not release liability
+      required: true
+    - id: 12
+      name: photo_video_consent
+      label: Photo and Video Consent
+      hint: Do you consent to being photographed or recorded during the activity
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: Date of consent and signature
+      type: date
+      options: []
+      required: true

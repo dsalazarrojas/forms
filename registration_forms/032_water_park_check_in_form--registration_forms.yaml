@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: water_park_check_in_form
+    pages:
+    - id: 1
+      name: park_check_in
+      label: Check In
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Child
+      - Group
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Guest name is required
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_entered
+      label: Time Entered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: group_info
+      label: Group Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: visit_details
+      label: Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: total_time
+      label: Total Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_people
+      label: Total People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: group_size
+      label: Group Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10
+      - 11-20
+      - 21-30
+      - 31-40
+      - 41+
+      required: false

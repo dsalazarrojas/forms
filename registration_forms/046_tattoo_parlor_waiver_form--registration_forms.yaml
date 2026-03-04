@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Parlor Waiver Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tattoo_service
+      label: service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Tattoo'', ''value'': ''tattoo''}'
+      - '{''id'': 101, ''label'': ''Piercing'', ''value'': ''piercing''}'
+      - '{''id'': 102, ''label'': ''Tattoo removal'', ''value'': ''tattoo removal''}'
+      required: false
+    - id: 8
+      name: tattoo_designs
+      label: Designs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 200, ''label'': ''Tiger'', ''value'': ''tiger''}'
+      - '{''id'': 201, ''label'': ''Snake'', ''value'': ''snake''}'
+      - '{''id'': 202, ''label'': ''Dragon'', ''value'': ''dragon''}'
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

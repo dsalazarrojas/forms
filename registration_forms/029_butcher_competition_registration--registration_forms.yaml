@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butcher Competition Registration
+    pages:
+    - id: 1
+      name: competitor_name
+      label: Competitor Name
+      hint: Full name of the butcher
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: competitor_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: competitor_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_name
+      label: Business or Shop Name
+      hint: Your butcher shop or business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: experience_level
+      label: Experience Level
+      hint: How many years in butchering?
+      type: select_one
+      options:
+      - Beginner - Less than 2 years
+      - Intermediate - 2-5 years
+      - Advanced - 5-10 years
+      - Expert - 10+ years
+      required: true
+    - id: 9
+      name: competition_category
+      label: Competition Category
+      hint: Which category will you compete in?
+      type: select_one
+      options:
+      - Meat Cutting
+      - Meat Quality and Grading
+      - Product Innovation
+      - Speed and Precision
+      - Overall Butchery
+      - Specialized Cuts
+      - Other
+      required: true
+    - id: 10
+      name: specialty
+      label: Your Specialty or Expertise
+      hint: What are you best at?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prior_competition
+      label: Previous Competition Experience
+      hint: Have you competed before?
+      type: select_one
+      options:
+      - Yes, multiple times
+      - Yes, once or twice
+      - No, first competition
+      required: true
+    - id: 12
+      name: prior_awards
+      label: Prior Competition Awards or Recognitions
+      hint: List any awards won
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: competition_date
+      label: Preferred Competition Date
+      hint: When would you like to compete?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: registration_fee
+      label: Registration Fee Confirmation
+      hint: Acknowledge receipt of fee details
+      type: select_one
+      options:
+      - I understand the registration fee
+      - Fee waived - student or scholarship
+      - Need to discuss fee
+      required: true
+    - id: 15
+      name: special_equipment_needed
+      label: Special Equipment or Tools Needed
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For catered event meals
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rules_agreement
+      label: I Agree to Competition Rules and Judging Criteria
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - I need clarification
+      - false
+      required: true
+    - id: 18
+      name: code_of_conduct
+      label: I Agree to the Code of Professional Conduct
+      hint: Professional and ethical standards
+      type: select_one
+      options:
+      - Yes, I agree
+      - I need clarification
+      - false
+      required: true
+    - id: 19
+      name: team_members
+      label: Team Members (if applicable)
+      hint: Names of other team members
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

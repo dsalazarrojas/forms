@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bocce League Free Agent Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: bocce_experience
+      label: Bocce Experience Level
+      hint: How experienced are you?
+      type: select_one
+      options:
+      - Beginner - Never Played
+      - Beginner - Played Casually
+      - Intermediate - Some League Experience
+      - Advanced - Experienced Player
+      - Expert - Competitive Player
+      required: true
+    - id: 13
+      name: years_playing
+      label: Years Playing Bocce
+      hint: How long have you played?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - Over 10 years
+      required: true
+    - id: 14
+      name: preferred_position
+      label: Preferred Position
+      hint: Do you have a preference?
+      type: select_one
+      options:
+      - No Preference
+      - Lead Off
+      - Middle
+      - Anchor
+      - Captain
+      required: false
+    - id: 15
+      name: availability
+      label: Game Day Availability
+      hint: When can you play?
+      type: select_multiple
+      options:
+      - Monday Evening
+      - Tuesday Evening
+      - Wednesday Evening
+      - Thursday Evening
+      - Friday Evening
+      - Saturday Morning
+      - Saturday Afternoon
+      - Sunday Morning
+      - Sunday Afternoon
+      required: true
+    - id: 16
+      name: team_preference
+      label: Team Preference
+      hint: Any preference?
+      type: select_one
+      options:
+      - No Preference
+      - Competitive Team
+      - Recreational Team
+      - Social Team
+      - Mixed Skill Level
+      required: true
+    - id: 17
+      name: want_to_be_teammates
+      label: Want to Be Teammates With Someone?
+      hint: List names if yes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_league_participation
+      label: Previous League Participation
+      hint: Have you played in a league before?
+      type: select_one
+      options:
+      - Yes, this league
+      - Yes, different league
+      - No, first time
+      required: true
+    - id: 19
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For team jersey
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      required: true
+    - id: 20
+      name: registration_fee
+      label: Registration Fee
+      hint: Individual player fee
+      type: select_one
+      options:
+      - $50 - Standard
+      - $40 - Early Bird
+      - $60 - Late Registration
+      - Waived - Volunteer
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Venmo
+      - Cash at Orientation
+      required: true
+    - id: 22
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Willing to help organize?
+      type: select_one
+      options:
+      - Yes, interested
+      - Maybe
+      - No, just playing
+      required: false
+    - id: 23
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Social Media
+      - Friend
+      - Website
+      - Flyer
+      - Previous Player
+      - Other
+      required: false
+    - id: 24
+      name: waiver_agreement
+      label: Liability Waiver
+      hint: I agree to the waiver terms
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 25
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: I agree to follow league rules
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true
+    - id: 26
+      name: player_signature
+      label: Player Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

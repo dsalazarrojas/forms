@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Policy Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_multiple
+      options:
+      - Life Insurance
+      - Health Insurance
+      - Disability Insurance
+      - Other
+      required: false
+    - id: 7
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_amount
+      label: Policy Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: policy_frequency
+      label: Policy Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Annually
+      required: false
+    - id: 11
+      name: policy_notes
+      label: Policy Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agent_notes
+      label: Agent Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Canceled
+      required: false
+    - id: 16
+      name: other_policy_type
+      label: Other Policy Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_status2
+      label: Policy Status 2
+      hint: null
+      type: text
+      options: []
+      required: false

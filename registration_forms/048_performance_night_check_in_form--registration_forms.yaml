@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Night Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: performance_type
+      label: Performance Type
+      hint: null
+      type: select_one
+      options:
+      - Actor
+      - Dancer
+      - Musician
+      - Theater
+      - Visual
+      required: true
+    - id: 7
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Dancer
+      - Lead Actor
+      - Lead Dancer
+      - Music
+      - Theater
+      - Supporting Actor
+      - Supporting Dancer
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Sibling
+      - Spouse
+      - Child
+      - Relative
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: performance_notes
+      label: Performance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: performance_experience
+      label: Performance Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: performance_venue
+      label: Performance Venue
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: performance_date
+      label: Performance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: performance_time
+      label: Performance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: performance_duration
+      label: Performance Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: performance_details
+      label: Performance Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_relationship_description
+      label: Relationship Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: performance_location
+      label: Performance Location
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: photo_permission
+      label: Photo
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - With Permission
+      - Without Permission
+      required: false

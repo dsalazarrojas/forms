@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: holiday-camp-registration
+    pages:
+    - id: 1
+      name: holiday_camp_activity_selection
+      label: Select Holiday Camp Activity
+      hint: Select an activity
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: camper_name
+      label: Camper Name
+      hint: Your Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: camper_email
+      label: Camper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: activity_date
+      label: Date of Activity
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: activity_time
+      label: Time of Activity
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: camper_availability
+      label: Availability of Camper
+      hint: Camper availability (yes/no)
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: camper_stay
+      label: Camper Stay
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: camper_activity_fee
+      label: Camper Activity Fee
+      hint: null
+      type: number
+      options: []
+      required: false

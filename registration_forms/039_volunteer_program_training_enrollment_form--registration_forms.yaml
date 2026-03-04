@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Program Training Enrollment Form
+    pages:
+    - id: 1
+      name: volunteer_program_training_enrollment_form
+      label: volunteer_program_training_enrollment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: volunteer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_session
+      label: training_session
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: training_session_start_date
+      label: training_session_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_session_end_date
+      label: training_session_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_location
+      label: training_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_duration
+      label: training_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_contact
+      label: organization_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_agreement
+      label: volunteer_agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_multiple
+      options:
+      - emergency_contact_option1
+      - emergency_contact_option2
+      - emergency_contact_option3
+      required: false
+    - id: 12
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false

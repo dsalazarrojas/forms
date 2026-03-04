@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Admission Form
+    pages:
+    - id: 1
+      name: university_admission_form
+      label: University Admission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: university_name
+      label: University Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_name
+      label: Program Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Pending''}'
+      - '{''id'': 2, ''value'': ''Approved''}'
+      - '{''id'': 3, ''value'': ''Rejected''}'
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

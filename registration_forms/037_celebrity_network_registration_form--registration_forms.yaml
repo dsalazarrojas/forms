@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Celebrity Network Registration Form
+    pages:
+    - id: 1
+      name: section_member_info
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your login email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: confirm_email
+      label: Confirm Email Address
+      hint: Re-enter for verification
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_account_setup
+      label: -- Account Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: username
+      label: Username
+      hint: Your network handle
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Fan Member
+      - Premium Member
+      - VIP Member
+      - Professional
+      - Celebrity Account
+      required: true
+    - id: 11
+      name: section_interests
+      label: -- Interests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: favorite_celebrities
+      label: Favorite Celebrities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: interest_categories
+      label: Interest Categories
+      hint: What interests you most?
+      type: select_multiple
+      options:
+      - Movies
+      - Television
+      - Music
+      - Sports
+      - Fashion
+      - Entertainment News
+      - Celebrity Gossip
+      - Fan Art
+      - Events
+      - Social Causes
+      required: true
+    - id: 14
+      name: notification_preferences
+      label: Notification Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Email Updates
+      - SMS Notifications
+      - App Push Notifications
+      - Weekly Digest
+      - Celebrity News
+      - Exclusive Offers
+      - Event Announcements
+      required: false
+    - id: 15
+      name: section_profile_info
+      label: -- Profile Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: bio
+      label: Short Bio or About You
+      hint: Tell us about yourself
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: City and state
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: profile_picture_url
+      label: Profile Picture
+      hint: URL to your photo
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_social_media
+      label: -- Social Media Accounts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: twitter_handle
+      label: Twitter Handle
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: instagram_handle
+      label: Instagram Handle
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: terms_acceptance
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: privacy_acceptance
+      label: I accept the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: marketing_consent
+      label: I consent to receive promotional communications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

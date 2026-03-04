@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Stage Time Booking Form
+    pages:
+    - id: 1
+      name: stage_time_form_1
+      label: Stage Time Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stage_time_form_2
+      label: Time Allocations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stage_time_form_3
+      label: Performers
+      hint: Enter performer names separated by commas
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: stage_time_form_4
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: stage_time_form_5
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false

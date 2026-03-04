@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Play Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: play_name
+      label: original_play_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: script
+      label: script
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upload_script
+      label: upload_script
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: genre
+      label: genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

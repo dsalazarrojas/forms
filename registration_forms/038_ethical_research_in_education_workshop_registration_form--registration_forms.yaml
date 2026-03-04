@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethical Research In Education Workshop Registration Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_priorities
+      label: Workshop Priorities
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 3
+      name: attendee_dates
+      label: Attendee Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: attendee_time
+      label: Attendee Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendee_notes
+      label: Attendee Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_terms
+      label: Consent and Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: general_consent
+      label: General Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I decline
+      required: false
+    - id: 10
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: workshop_consent
+      label: Workshop Consent
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I decline
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

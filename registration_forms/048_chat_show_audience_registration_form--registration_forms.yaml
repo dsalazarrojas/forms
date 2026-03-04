@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chat Show Audience Registration Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For show updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_show_info
+      label: -- Show Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: show_name
+      label: Chat Show Name
+      hint: Which chat show are you interested in
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: show_date
+      label: Show Date
+      hint: When is the show
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: show_time
+      label: Show Time
+      hint: What time does it start
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: section_attendance
+      label: -- Attendance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: group_size
+      label: Number of Guests in Your Party
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: group_names
+      label: Names of Other Attendees
+      hint: Names of people in your group
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendance_type
+      label: Type of Attendance
+      hint: In-person or virtual
+      type: select_one
+      options:
+      - In-Person Audience
+      - Virtual Audience
+      - Both Available
+      required: true
+    - id: 15
+      name: section_preferences
+      label: -- Preferences and Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: seating_preference
+      label: Seating Preference
+      hint: Front, middle, back, etc
+      type: select_one
+      options:
+      - Front Row
+      - Middle Section
+      - Back Section
+      - No Preference
+      required: false
+    - id: 17
+      name: mobility_accommodation
+      label: Mobility or Accessibility Accommodation
+      hint: Wheelchair access, hearing assist, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question_for_host
+      label: Question or Topic for Chat Host
+      hint: If you have a question to ask
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_heard_about
+      label: How Did You Hear About This Show
+      hint: Source of information
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Email
+      - Friend
+      - Advertisement
+      - Other
+      required: false
+    - id: 21
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

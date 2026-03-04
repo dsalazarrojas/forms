@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball_Tournament_Registration_Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: List team members
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_tournament_experience
+      label: Team Tournament Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_tournament_level
+      label: Team Tournament Level
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 8
+      name: division
+      label: Division
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 9
+      name: team_age_group
+      label: Team Age Group
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Youth
+      required: false
+    - id: 10
+      name: team_age_range
+      label: Team Age Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: player_age
+      label: Player Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: player_height
+      label: Player Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: player_shirt_size
+      label: Player Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      required: false
+    - id: 15
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_multiple
+      options:
+      - Setter
+      - Libero
+      - Opposite
+      - Middle Blocker
+      - Outside Hitter
+      - Setter
+      - Libero
+      - Outside Hitter
+      - Middle Blocker
+      required: false
+    - id: 16
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_phone
+      label: Team Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: false

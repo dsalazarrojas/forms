@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chandelier Event Check In Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-in Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-in Time
+      hint: Time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Organization or company
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Professional title
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Scheduled event date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: registration_status
+      label: Registration Status
+      hint: Were you pre-registered
+      type: select_one
+      options:
+      - Yes - Pre-registered
+      - No - Walk-in registration
+      - Yes - VIP guest
+      - Yes - Speaker presenter
+      - Yes - Sponsor representative
+      required: true
+    - id: 11
+      name: registration_confirmation
+      label: Registration Confirmation Number
+      hint: Confirmation number if available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ticket_type
+      label: Ticket Type
+      hint: Type of admission
+      type: select_one
+      options:
+      - General admission
+      - VIP access
+      - Premium seating
+      - Student discount
+      - Group rate
+      - Complimentary
+      - Press media
+      required: true
+    - id: 13
+      name: table_assignment
+      label: Table Assignment
+      hint: Assigned table number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meal_preference
+      label: Meal Preference
+      hint: Selected meal option
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - No meal selected
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary requirements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: badge_printed
+      label: Name Badge Printed
+      hint: Has name badge been printed
+      type: select_one
+      options:
+      - Yes - Badge printed
+      - No - Needs badge
+      required: true
+    - id: 17
+      name: welcome_packet
+      label: Welcome Packet Received
+      hint: Has attendee received welcome packet
+      type: select_one
+      options:
+      - Yes - Received
+      - No - Needs packet
+      required: true
+    - id: 18
+      name: raffle_tickets_issued
+      label: Raffle Tickets Issued
+      hint: Number of raffle tickets given
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: networking_interest
+      label: Networking Interest
+      hint: Interested in networking introductions
+      type: select_one
+      options:
+      - Yes - Please introduce
+      - No - Prefer to network independently
+      required: false
+    - id: 20
+      name: photo_consent
+      label: Photo Consent
+      hint: Consent to be photographed at event
+      type: select_one
+      options:
+      - Yes - I consent
+      - No - No photos please
+      required: true
+    - id: 21
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: checked_in_by
+      label: Checked In By
+      hint: Name of staff member checking in attendee
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special notes about this attendee
+      type: text
+      options: []
+      required: false

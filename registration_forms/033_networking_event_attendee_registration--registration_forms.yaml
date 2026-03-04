@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: networking_event_attendee_registration
+    pages:
+    - id: 1
+      name: registration_form_data
+      label: Registration Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Gluten-free''}'
+      - '{''label'': ''Lactose-free''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 5
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Product Development''}'
+      required: false
+    - id: 7
+      name: preferences
+      label: Preferences
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: registration
+      label: Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signature_type
+      label: Signature Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Signature''}'
+      - '{''label'': ''Initials Only''}'
+      required: false
+    - id: 21
+      name: signature_image
+      label: Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_text
+      label: Signature Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Speaker''}'
+      - '{''label'': ''Exhibitor''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false

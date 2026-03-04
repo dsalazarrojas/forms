@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Data Management Training Registration
+    pages:
+    - id: 1
+      name: participant_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_section
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: professional_section
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: experience_level
+      label: Data management experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 12
+      name: years_experience
+      label: Years of experience in healthcare IT
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: training_section
+      label: -- Training Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: course_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Fundamentals
+      - Intermediate
+      - Advanced
+      - Specialized track
+      required: true
+    - id: 15
+      name: course_topic
+      label: Preferred course topic
+      hint: null
+      type: select_one
+      options:
+      - Data quality management
+      - EHR systems
+      - Clinical databases
+      - Data security and privacy
+      - Data analysis
+      - Other
+      required: true
+    - id: 16
+      name: preferred_date
+      label: Preferred training date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: format_section
+      label: -- Format Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: training_format
+      label: Preferred training format
+      hint: null
+      type: select_one
+      options:
+      - In-person classroom
+      - Virtual instructor-led
+      - Self-paced online
+      - Hybrid
+      required: true
+    - id: 19
+      name: time_preference
+      label: Time preference
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Flexible
+      required: true
+    - id: 20
+      name: duration_preference
+      label: Preferred program duration
+      hint: null
+      type: select_one
+      options:
+      - Half day (4 hours)
+      - Full day (8 hours)
+      - Multi-day workshop
+      - Weekly sessions over 4-6 weeks
+      - Self-paced (flexible)
+      required: true
+    - id: 21
+      name: goals_section
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: learning_objectives
+      label: Learning objectives
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: current_challenges
+      label: Current challenges with data management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_requirements
+      label: Special requirements or requests
+      hint: Optional
+      type: text
+      options: []
+      required: false

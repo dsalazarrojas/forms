@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Project Beta Test Registration
+    pages:
+    - id: 1
+      name: tester_profile_header
+      label: '--- Beta Tester Profile ---'
+      hint: Join our early access program and help us shape the future of AI.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send beta access instructions here.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: occupation_industry
+      label: Occupation / Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: technical_savviness
+      label: How would you rate your technical expertise?
+      hint: 1 = Basic User, 5 = Developer/Engineer
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: hardware_os_header
+      label: '--- Technical Environment ---'
+      hint: Identify the devices and software you will use for testing.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_os
+      label: Primary Operating System
+      hint: null
+      type: select_one
+      options:
+      - label: Windows 10/11
+        value: windows
+      - label: macOS
+        value: macos
+      - label: Linux (Ubuntu/Debian/etc.)
+        value: linux
+      - label: iOS (iPhone/iPad)
+        value: ios
+      - label: Android
+        value: android
+      required: true
+    - id: 8
+      name: primary_browser
+      label: Primary Web Browser
+      hint: null
+      type: select_one
+      options:
+      - label: Google Chrome
+        value: chrome
+      - label: Mozilla Firefox
+        value: firefox
+      - label: Safari
+        value: safari
+      - label: Microsoft Edge
+        value: edge
+      - label: Brave / Other
+        value: other
+      required: true
+    - id: 9
+      name: hardware_specs
+      label: Device Hardware Specs
+      hint: e.g., CPU, RAM, GPU (if relevant for local AI testing)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: testing_commitment_header
+      label: '--- Commitment & Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: weekly_availability
+      label: Weekly hours available for testing
+      hint: null
+      type: select_one
+      options:
+      - label: 1-2 hours
+        value: 1-2
+      - label: 3-5 hours
+        value: 3-5
+      - label: 5-10 hours
+        value: 5-10
+      - label: 10+ hours
+        value: 10plus
+      required: true
+    - id: 12
+      name: previous_beta_experience
+      label: Have you participated in software beta tests before?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 13
+      name: motivation_for_joining
+      label: Why do you want to test our AI project?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: ai_modules_interest
+      label: Which modules are you most interested in testing?
+      hint: null
+      type: select_multiple
+      options:
+      - label: Natural Language Processing (NLP)
+        value: nlp
+      - label: Image Generation / Vision
+        value: vision
+      - label: API Integrations
+        value: api
+      - label: Performance / Speed Benchmarking
+        value: performance
+      - label: User Interface (UX) & Design
+        value: ux
+      required: true
+    - id: 15
+      name: feedback_channel_preference
+      label: Preferred Feedback Channel
+      hint: null
+      type: select_one
+      options:
+      - label: Dedicated Discord Server
+        value: discord
+      - label: Email / Support Tickets
+        value: email
+      - label: In-app Feedback Tool
+        value: in_app
+      required: true
+    - id: 16
+      name: discord_username
+      label: Discord Username (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nda_agreement
+      label: Confidentiality & NDA Agreement
+      hint: null
+      type: select_one
+      options:
+      - label: I agree to keep all beta features and screenshots confidential.
+        value: agreed
+      - Other
+      required: true
+    - id: 18
+      name: registration_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

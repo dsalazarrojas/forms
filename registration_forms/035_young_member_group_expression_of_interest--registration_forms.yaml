@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: young_member_group_expression_of_interest
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: group_name
+      label: Group name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: group_interests
+      label: Group interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: why_group
+      label: Why join
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: group_motivation
+      label: Group motivation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: agree
+      label: Agree to terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I Agree'', ''value'': ''I agree''}'
+      - Other
+      required: false

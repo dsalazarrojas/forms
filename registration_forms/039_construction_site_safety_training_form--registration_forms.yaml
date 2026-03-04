@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Safety Training Form
+    pages:
+    - id: 1
+      name: training_date
+      label: Training Date
+      hint: Date of training session
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: training_time
+      label: Training Time
+      hint: Start time of training
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: training_location
+      label: Training Location
+      hint: Where training was held
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: trainer_name
+      label: Trainer Name
+      hint: Name of instructor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trainer_credentials
+      label: Trainer Credentials
+      hint: Qualifications
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: training_topic
+      label: Training Topic
+      hint: Subject of training
+      type: select_one
+      options:
+      - General Site Safety
+      - Fall Protection
+      - Scaffolding Safety
+      - Ladder Safety
+      - Excavation Safety
+      - Electrical Safety
+      - PPE Requirements
+      - Hazard Communication
+      - Fire Safety
+      - Emergency Procedures
+      - Equipment Safety
+      - Material Handling
+      - Hot Work Safety
+      - Confined Space
+      - Other
+      required: true
+    - id: 7
+      name: training_duration
+      label: Training Duration
+      hint: Length of session
+      type: select_one
+      options:
+      - 15 to 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 4 hours
+      - 4 to 8 hours
+      - Full Day
+      required: true
+    - id: 8
+      name: participant_name
+      label: Participant Name
+      hint: Trainee full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_company
+      label: Participant Company
+      hint: Employer name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_job_title
+      label: Participant Job Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_id
+      label: Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_training
+      label: Previous Similar Training
+      hint: Have you had this training before
+      type: select_one
+      options:
+      - Yes, Within 1 Year
+      - Yes, 1 to 2 Years Ago
+      - Yes, More Than 2 Years Ago
+      - No, First Time
+      required: true
+    - id: 13
+      name: training_format
+      label: Training Format
+      hint: How was training delivered
+      type: select_one
+      options:
+      - Classroom Lecture
+      - Hands-On Demonstration
+      - Video Presentation
+      - Online Module
+      - Toolbox Talk
+      - Combination
+      required: true
+    - id: 14
+      name: topics_covered
+      label: Topics Covered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hazard Recognition
+      - Safety Regulations
+      - Proper Equipment Use
+      - Emergency Response
+      - PPE Requirements
+      - Safe Work Practices
+      - Incident Reporting
+      - Other
+      required: true
+    - id: 15
+      name: comprehension_verified
+      label: Comprehension Verified
+      hint: Was understanding confirmed
+      type: select_one
+      options:
+      - Written Test
+      - Oral Questions
+      - Practical Demo
+      - Group Discussion
+      - None
+      required: false
+    - id: 16
+      name: test_score
+      label: Test Score
+      hint: Percentage if tested
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: training_materials
+      label: Training Materials Provided
+      hint: Handouts or references
+      type: select_one
+      options:
+      - Yes, Comprehensive
+      - Yes, Basic
+      - false
+      required: false
+    - id: 18
+      name: ppe_demonstrated
+      label: PPE Proper Use Demonstrated
+      hint: Was PPE shown
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 19
+      name: participant_understanding
+      label: Your Level of Understanding
+      hint: How well do you understand
+      type: select_one
+      options:
+      - Completely Understand
+      - Mostly Understand
+      - Somewhat Understand
+      - Need More Training
+      required: true
+    - id: 20
+      name: training_helpful
+      label: Was Training Helpful
+      hint: Rate the usefulness
+      type: select_one
+      options:
+      - Very Helpful
+      - Helpful
+      - Somewhat Helpful
+      - Not Helpful
+      required: true
+    - id: 21
+      name: certification_provided
+      label: Certification Provided
+      hint: Did you receive a certificate
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 22
+      name: additional_training_needed
+      label: Additional Training Needed
+      hint: What else do you need
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_comments
+      label: Participant Comments
+      hint: Feedback on training
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: trainer_signature
+      label: Trainer Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

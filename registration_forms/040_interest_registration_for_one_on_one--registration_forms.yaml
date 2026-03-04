@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interest Registration For One On One
+    pages:
+    - id: 1
+      name: personal_details
+      label: personal-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interest_description
+      label: interest-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: available_time
+      label: available-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: select_interest
+      label: select-interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: confirm_interest
+      label: confirm-interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confirm_interest_2
+      label: confirm-interest-2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: select_expert
+      label: select-expert
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: confirm_expert
+      label: confirm-expert
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

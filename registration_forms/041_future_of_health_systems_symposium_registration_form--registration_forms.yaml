@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Future Of Health Systems Symposium Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: affiliation
+      label: Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      - '{''option3'': None}'
+      - '{''option4'': None}'
+      - '{''option5'': None}'
+      required: true
+    - id: 6
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: symposium_type
+      label: Symposium Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': None}'
+      - '{''option2'': None}'
+      required: true
+    - id: 8
+      name: symposium_day
+      label: Symposium Day
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: symposium_time
+      label: Symposium Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: symposium_room
+      label: Symposium Room
+      hint: null
+      type: text
+      options: []
+      required: false

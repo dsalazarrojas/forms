@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Reform Consultation Registration Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consultant_name
+      label: Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultant_email
+      label: Consultant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: consultation_time
+      label: Consultation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: consultant_fee
+      label: Consultant Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: consultant_fee_currency
+      label: Consultant Fee Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CNY
+      - JPY
+      required: false
+    - id: 10
+      name: consultant_fee_tax
+      label: Consultant Fee Tax
+      hint: null
+      type: select_multiple
+      options:
+      - Tax Included
+      - Tax Excluded
+      required: false
+    - id: 11
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: consultant_signature
+      label: Consultant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: consultant_fee
+      label: Consultant Fee
+      hint: null
+      type: number
+      options: []
+      required: false

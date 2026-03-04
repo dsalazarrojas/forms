@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Technician Training Program Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_background
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: highest_degree
+      label: Highest Degree Attained
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - GED
+      - Associate Degree
+      - Bachelor Degree
+      - Some College
+      - Other
+      required: true
+    - id: 13
+      name: prior_automotive
+      label: Prior Automotive Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some (Less than 1 year)
+      - Moderate (1-3 years)
+      - Substantial (3+ years)
+      required: true
+    - id: 14
+      name: certifications_held
+      label: Current Certifications or Licenses
+      hint: ASE, EPA, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_program
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: program_track
+      label: Preferred Program Track
+      hint: null
+      type: select_one
+      options:
+      - General Automotive Technician
+      - Diesel Technician
+      - Hybrid and Electric Vehicle
+      - Advanced Diagnostics
+      - Collision Repair
+      required: true
+    - id: 17
+      name: program_duration
+      label: Program Duration Preference
+      hint: null
+      type: select_one
+      options:
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - Full-Time Intensive
+      - Part-Time
+      required: true
+    - id: 18
+      name: start_date_preference
+      label: Preferred Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: section_header_interests
+      label: -- Areas of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: specialty_interests
+      label: Specialty Areas of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Engine Repair
+      - Transmission
+      - Electrical Systems
+      - Brake Systems
+      - Heating and Air Conditioning
+      - Suspension
+      - Diagnostic Technology
+      - Management
+      required: true
+    - id: 21
+      name: section_header_goals
+      label: -- Career Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: career_goals
+      label: Career Goals Upon Completion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_header_commitment
+      label: -- Program Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: full_time_commitment
+      label: Can You Commit to Full-Time Study
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Part-Time Only
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

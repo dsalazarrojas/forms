@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Achievement Certification Form
+    pages:
+    - id: 1
+      name: recipient_full_name
+      label: Recipient Full Name
+      hint: As it should appear on the certificate
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: certificate_title
+      label: Certificate Title
+      hint: e.g., Excellence in Financial Management
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_achievement
+      label: Date of Achievement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: course_or_project_name
+      label: Course or Project Name
+      hint: Context for the achievement
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: certification_level
+      label: Certification Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1 - Fundamental
+      - Level 2 - Intermediate
+      - Level 3 - Advanced
+      - Mastery
+      required: true
+    - id: 6
+      name: instructor_or_supervisor_name
+      label: Instructor or Supervisor Name
+      hint: person verifying the achievement
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recipient_email_for_delivery
+      label: Recipient Email for Delivery
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - Digital PDF
+      - Printed Certificate
+      required: true
+    - id: 9
+      name: mailing_address
+      label: Mailing Address
+      hint: Required only for printed delivery
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: internal_verification_code
+      label: Internal Verification Code
+      hint: for organization tracking
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authority_header
+      label: -- Issuing Authority --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: authorizing_official_title
+      label: Authorizing Official Title
+      hint: e.g., Program Director, HR VP
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true

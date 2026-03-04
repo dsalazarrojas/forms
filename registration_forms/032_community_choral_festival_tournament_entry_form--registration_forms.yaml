@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Choral Festival Tournament Entry Form
+    pages:
+    - id: 1
+      name: section_choir_details_choir
+      label: -- Choir Information --
+      hint: Please fill out all required fields to enter the tournament.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: choir_full_name_choir
+      label: Name of the Choir
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: choir_director_name_choir
+      label: Choir Director's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: choir_email_choir
+      label: Official Choir Email Address
+      hint: For festival correspondence and results
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: choir_phone_choir
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: choir_organization_affiliation_choir
+      label: Organization or School Affiliation
+      hint: e.g., Community Church, High School, Community Group
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_performance_details_choir
+      label: -- Performance Information --
+      hint: Please provide details about your performance.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: performance_category_choir
+      label: Tournament Performance Category
+      hint: Select one
+      type: select_one
+      options:
+      - Mixed Choir
+      - Women's Choir
+      - Men's Choir
+      - Chamber Choir
+      - Youth Choir
+      - Senior Choir
+      - Small Ensemble (8-12 members)
+      required: true
+    - id: 9
+      name: estimated_performance_time_choir
+      label: Estimated Performance Duration (including transitions)
+      hint: In minutes
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_performers_choir
+      label: Number of Performers in your Group
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: repertoire_titles_composers_choir
+      label: Planned Repertoire Titles and Composers
+      hint: List pieces you plan to perform
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_technical_logistics_choir
+      label: -- Technical and Logistical Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: piano_accompaniment_required_choir
+      label: Will you require a festival-provided piano
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: choral_risers_needed_choir
+      label: Do you require choral risers
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: audio_visual_requirements_choir
+      label: Any specific audio/visual or technical requirements
+      hint: e.g., Microphones, playback devices
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_performance_times_choir
+      label: Preferred Performance Time Slot
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Friday Evening (6pm - 9pm)
+      - Saturday Morning (9am - 12pm)
+      - Saturday Afternoon (12pm - 4pm)
+      - Saturday Evening (4pm - 8pm)
+      required: true
+    - id: 17
+      name: section_final_submission_choir
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: festival_rules_acknowledgment_choir
+      label: I acknowledge that my choir will abide by the festival tournament rules
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and agree
+      - Other
+      required: true
+    - id: 19
+      name: entry_fee_payment_confirmation_choir
+      label: I confirm that the entry fee has been or will be paid before the deadline
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 20
+      name: director_signature_digital_choir
+      label: Digital Signature of Choir Director
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date_final_choir
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: true

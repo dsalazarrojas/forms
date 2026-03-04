@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Activity Report Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: activity_frequency
+      label: Activity Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

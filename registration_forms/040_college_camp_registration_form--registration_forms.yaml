@@ -1,0 +1,355 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Camp Registration Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - College Freshman
+      - College Sophomore
+      - College Junior
+      - College Senior
+      required: true
+    - id: 13
+      name: major_field
+      label: Major or Field of Study
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: parent_email
+      label: Parent Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: parent_phone
+      label: Parent Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Other than parent
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency phone
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How related to camper
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergies
+      label: Allergies
+      hint: Food, medication, insect, or other
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Vegetarian, gluten-free, etc
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Health insurance company
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: camp_session
+      label: Camp Session Selection
+      hint: Which session attending
+      type: select_one
+      options:
+      - Session 1 - June 15-19
+      - Session 2 - June 22-26
+      - Session 3 - July 6-10
+      - Session 4 - July 13-17
+      - Session 5 - July 20-24
+      required: true
+    - id: 27
+      name: camp_track
+      label: Camp Track or Focus
+      hint: Area of interest
+      type: select_one
+      options:
+      - STEM Track
+      - Arts Track
+      - Sports Track
+      - Leadership Track
+      - Business Track
+      - General
+      required: true
+    - id: 28
+      name: events_attending
+      label: Events You Plan to Attend
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Welcome Reception
+      - Opening Ceremony
+      - Workshop Sessions
+      - Lab Tours
+      - Panel Discussions
+      - Social Activities
+      - Sports Competition
+      - Talent Show
+      - Closing Ceremony
+      - Farewell Dinner
+      required: true
+    - id: 29
+      name: tshirt_size
+      label: Camp T-Shirt Size
+      hint: For camp shirt
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 30
+      name: housing_needed
+      label: On-Campus Housing Needed
+      hint: Do you need housing
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 31
+      name: meal_plan
+      label: Meal Plan Selection
+      hint: Dining option
+      type: select_one
+      options:
+      - Full Meal Plan
+      - Breakfast and Dinner
+      - Dinner Only
+      - No Meal Plan
+      required: true
+    - id: 32
+      name: transportation_needed
+      label: Airport Transportation Needed
+      hint: Shuttle service
+      type: select_one
+      options:
+      - Yes Arrival Only
+      - Yes Departure Only
+      - Yes Both
+      - false
+      required: true
+    - id: 33
+      name: camp_expectations
+      label: What Do You Hope to Gain from Camp
+      hint: Your goals
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: how_heard
+      label: How Did You Hear About This Camp
+      hint: Information source
+      type: select_one
+      options:
+      - School Counselor
+      - Teacher Recommendation
+      - Website
+      - Friend or Family
+      - Social Media
+      - Email
+      - Other
+      required: true
+    - id: 35
+      name: scholarship_interest
+      label: Interested in Scholarship or Financial Aid
+      hint: Need-based assistance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: registration_fee
+      label: Registration Fee Payment
+      hint: Fee amount due
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Check
+      - Money Order
+      required: true
+    - id: 38
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: I agree to the waiver terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 39
+      name: media_release
+      label: Media Release Consent
+      hint: Photos and videos may be taken
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 40
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

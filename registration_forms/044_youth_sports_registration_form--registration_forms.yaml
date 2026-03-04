@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter the first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter the last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter the child's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Enter the child's address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''California''}'
+      - '{''id'': 11, ''name'': ''Florida''}'
+      - '{''id'': 12, ''name'': ''Texas''}'
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sports_interests
+      label: Sports Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_form
+      label: Medical Form
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 16, ''name'': ''Allergies''}'
+      - '{''id'': 17, ''name'': ''Disability''}'
+      - '{''id'': 18, ''name'': ''Injury History''}'
+      - '{''id'': 19, ''name'': ''Other''}'
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: disabilities
+      label: Disabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: injury_history
+      label: Injury History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_medical_conditions
+      label: Other Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

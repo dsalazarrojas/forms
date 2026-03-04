@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pilates Session Inquiry Form
+    pages:
+    - id: 1
+      name: class_inquiries
+      label: Class Inquiries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: class_schedule
+      label: Class Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      required: false
+    - id: 4
+      name: class_price
+      label: Class Price
+      hint: null
+      type: select_one
+      options:
+      - $20
+      - $30
+      - $40
+      - $50
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

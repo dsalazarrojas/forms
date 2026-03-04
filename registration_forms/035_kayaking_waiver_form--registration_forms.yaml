@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kayaking Waiver Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waiver_date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: waiver_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      required: true
+    - id: 12
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: guardian_relation
+      label: Guardian Relation
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      required: true
+    - id: 15
+      name: liability_consent
+      label: Liability Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the waiver
+      - I have not read and do not understand the waiver
+      required: true
+    - id: 16
+      name: emergency_contact_signed
+      label: Emergency Contact Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: guardian_signed
+      label: Guardian Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: waiver_signed
+      label: Waiver Signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_details
+      label: Medical Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_medical_condition
+      label: Emergency Contact Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_medical_details
+      label: Emergency Contact Medical Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_authorization
+      label: Medical Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: emergency_medical_authorization
+      label: Emergency Contact Medical Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: medical_information
+      label: Medical Information
+      hint: null
+      type: text
+      options: []
+      required: false

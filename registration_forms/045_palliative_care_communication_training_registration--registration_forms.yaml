@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Palliative Care Communication Training Registration
+    pages:
+    - id: 1
+      name: enrollment_form_data
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_enrolment
+      label: Select Participants
+      hint: null
+      type: select_one
+      options:
+      - 1 - Care Team Leader
+      - 2 - Family Member
+      - 3 - Care Coordinator
+      - 4 - Other
+      required: false
+    - id: 3
+      name: role_select_participants
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Care Team Leader
+      - Family Member
+      - Care Coordinator
+      - Other
+      required: false
+    - id: 4
+      name: workshop_date
+      label: Workshops
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: workshop_time
+      label: Workshops Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: Enter training location here
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: Please enter contact name here
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: organization
+      label: Organization
+      hint: Organization name here
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Care Team Leader
+      - Family Member
+      - Care Coordinator
+      - Other
+      required: false
+    - id: 15
+      name: availability_1
+      label: Availability 1
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      required: false
+    - id: 16
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      required: false
+    - id: 17
+      name: workshop_type
+      label: Workshop type
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      required: false
+    - id: 18
+      name: workshop_duration
+      label: Workshop duration
+      hint: null
+      type: select_multiple
+      options:
+      - 1 hour
+      - 2 hours
+      required: false
+    - id: 19
+      name: workshop_capacity
+      label: Workshop capacity
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '10'
+      - '25'
+      required: false
+    - id: 20
+      name: training_location
+      label: Training Location
+      hint: Please select a location
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_facility
+      label: Training facility
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Clinic
+      - Home
+      required: false
+    - id: 22
+      name: training_equipment
+      label: Training equipment
+      hint: Specify training equipment here
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: training_furniture
+      label: Training furniture
+      hint: Specify training furniture here
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_materials
+      label: Training materials
+      hint: Specify training materials here
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: training_room
+      label: Training room
+      hint: Specify training room here
+      type: text
+      options: []
+      required: false

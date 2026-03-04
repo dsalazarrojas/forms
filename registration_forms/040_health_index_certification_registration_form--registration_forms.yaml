@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Index Certification Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''value'': ''health_care_pro'', ''label'': ''Health Care Pro''}'
+      - '{''id'': 11, ''value'': ''health_care_con'', ''label'': ''Health Care Con''}'
+      - '{''id'': 12, ''value'': ''health_care_org'', ''label'': ''Health Care Org''}'
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false

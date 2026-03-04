@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_date
+      label: Program Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_since
+      label: Customer Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_since_date
+      label: Customer Since Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: loyalty_program_id
+      label: Loyalty Program ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rewards_status
+      label: Rewards Status
+      hint: null
+      type: select_one
+      options:
+      - Loyalty Program Active
+      - Inactive
+      required: false
+    - id: 11
+      name: customer_rewards
+      label: Customer Rewards
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: loyalty_program_status
+      label: Loyalty Program Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_rewards_status
+      label: Program Rewards Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: program_rewards
+      label: Program Rewards
+      hint: null
+      type: select_one
+      options:
+      - Enabled
+      - Disabled
+      required: false
+    - id: 15
+      name: points_earned
+      label: Points Earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: program_points
+      label: Program Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: rewards_earned
+      label: Rewards Earned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_program_rewards
+      label: Customer Program Rewards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_program_rewards_status
+      label: Customer Program Rewards Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_rewards_status
+      label: Customer Rewards Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_program_rewards_balance
+      label: Customer Program Rewards Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: program_rewards_balance
+      label: Program Rewards Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_rewards_earned
+      label: Customer Rewards Earned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: program_rewards_earned
+      label: Program Rewards Earned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

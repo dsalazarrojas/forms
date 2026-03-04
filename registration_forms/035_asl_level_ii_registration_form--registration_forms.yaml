@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: ASL Level II Registration Form
+    pages:
+    - id: 1
+      name: student_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Email Address
+      hint: Valid email for course communications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_phone
+      label: Phone Number
+      hint: Contact number for course-related communications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID (if applicable)
+      hint: Your student identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asl_level_i_completion
+      label: ASL Level I Completion
+      hint: Have you successfully completed ASL Level I?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Currently Enrolled
+      - Completed Equivalent Course
+      required: true
+    - id: 6
+      name: previous_asl_experience
+      label: Previous ASL Experience
+      hint: Describe your previous experience with American Sign Language
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_start_date_preference
+      label: Preferred Course Start Date
+      hint: Which session would you prefer to start?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: class_schedule_preference
+      label: Class Schedule Preference
+      hint: What days/times work best for you?
+      type: select_one
+      options:
+      - Monday/Wednesday 6-8 PM
+      - Tuesday/Thursday 6-8 PM
+      - Saturday 10 AM-12 PM
+      - Online Asynchronous
+      - No Preference
+      required: true
+    - id: 9
+      name: course_format_preference
+      label: Course Format Preference
+      hint: How would you prefer to take the course?
+      type: select_one
+      options:
+      - In-Person
+      - Online
+      - Hybrid
+      - No Preference
+      required: true
+    - id: 10
+      name: accommodation_needs
+      label: Accommodation Needs
+      hint: Do you require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the course?
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Student Account
+      - Financial Aid
+      - Other
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: course_materials_agreement
+      label: Course Materials Agreement
+      hint: Do you agree to purchase required course materials?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: attendance_commitment
+      label: Attendance Commitment
+      hint: Do you commit to attending at least 80% of classes?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

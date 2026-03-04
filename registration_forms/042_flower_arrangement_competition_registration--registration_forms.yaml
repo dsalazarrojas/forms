@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flower Arrangement Competition Registration
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: flower_arrangement_type
+      label: Flower Arrangement Type
+      hint: null
+      type: select_one
+      options:
+      - Flower Crown
+      - Flower Wreath
+      - Flower Bouquet
+      - Flower Basket
+      - Flower Vase
+      - Flower Collar
+      - Flower Corsage
+      - Flower Hairpiece
+      - Flower Garlands
+      - Flower Leis
+      required: true
+    - id: 6
+      name: competition_name
+      label: Competition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: entry_date
+      label: Entry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: entry_time
+      label: Entry Time
+      hint: null
+      type: time
+      options: []
+      required: true

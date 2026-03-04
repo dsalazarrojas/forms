@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Service Registration
+    pages:
+    - id: 1
+      name: storage_service_registration
+      label: storage_service_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_type
+      label: storage_type
+      hint: null
+      type: select_multiple
+      options:
+      - self
+      - climate
+      - climate_controlled
+      required: true
+    - id: 3
+      name: storage_capacity
+      label: storage_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: move_in_date
+      label: move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: move_in_time
+      label: move_in_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: move_out_date
+      label: move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: move_out_time
+      label: move_out_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: storage_duration
+      label: storage_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: move_in_person
+      label: move_in_person
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: move_in_details
+      label: move_in_details
+      hint: null
+      type: select_one
+      options:
+      - person
+      - delivery
+      required: true
+    - id: 11
+      name: move_in_instructions
+      label: move_in_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: move_in_instructions_phone
+      label: move_in_instructions_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: move_out_person
+      label: move_out_person
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: move_out_details
+      label: move_out_details
+      hint: null
+      type: select_one
+      options:
+      - person
+      - delivery
+      required: true
+    - id: 15
+      name: move_out_instructions
+      label: move_out_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: move_out_instructions_phone
+      label: move_out_instructions_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: storage_facility
+      label: storage_facility
+      hint: null
+      type: select_one
+      options:
+      - self
+      - partner
+      required: true
+    - id: 18
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

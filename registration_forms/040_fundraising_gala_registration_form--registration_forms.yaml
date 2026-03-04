@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Gala Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: fundraising_goal
+      label: Fundraising Goal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_type
+      label: Donation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: registration_fee
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_donation
+      label: Total Donation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: is_guest
+      label: Is Guest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: is_member
+      label: Is Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: is_attending
+      label: Is Attending
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method_details
+      label: Payment Method Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: is_recurring
+      label: Is Recurring
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

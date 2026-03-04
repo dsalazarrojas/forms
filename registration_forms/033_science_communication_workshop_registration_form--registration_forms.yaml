@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Communication Workshop Registration Form
+    pages:
+    - id: 1
+      name: registration_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: registration_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: registration_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_form_payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 6
+      name: registration_form_workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: registration_form_workshop_start_time
+      label: Workshop Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: registration_form_workshop_end_time
+      label: Workshop End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: registration_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

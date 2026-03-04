@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: street
+      label: Street
+      hint: Enter street address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''name'': ''state1''}'
+      - '{''id'': 200, ''name'': ''state2''}'
+      - '{''id'': 300, ''name'': ''state3''}'
+      required: true
+    - id: 7
+      name: zip
+      label: ZIP Code
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 400, ''name'': ''zip1''}'
+      - '{''id'': 500, ''name'': ''zip2''}'
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: note_1
+      label: Note 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

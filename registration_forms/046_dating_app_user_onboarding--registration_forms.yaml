@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dating App User Onboarding
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: password_repeat
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 8
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - In a relationship
+      - Open relationship
+      required: false
+    - id: 9
+      name: date_of_interest
+      label: Date Of Interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_interest
+      label: Time Of Interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: user_photo
+      label: User Photo
+      hint: null
+      type: text
+      options: []
+      required: false

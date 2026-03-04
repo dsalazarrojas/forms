@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: government_position_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: experience_years
+      label: Experience years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: position_qualified_for
+      label: Position qualified for
+      hint: null
+      type: select_one
+      options:
+      - Government Analyst
+      - Government Assistant
+      - Government Clerk
+      - Government Officer
+      - Government Staff
+      - Government Technician
+      - Government Translator
+      - Government Writer
+      required: false
+    - id: 10
+      name: skills
+      label: Skills
+      hint: List of relevant technical or language skills
+      type: select_multiple
+      options:
+      - Accounting
+      - Analysis
+      - Communication
+      - Data analysis
+      - Finance
+      - Human resource management
+      - Marketing
+      - Negotiation
+      - Research
+      required: false
+    - id: 11
+      name: resume_attachment
+      label: Resume Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false

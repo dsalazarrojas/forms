@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baking Class Signup Form
+    pages:
+      - id: 1
+        name: section_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: phone_number
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 5
+        name: date_of_birth
+        Label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: section_class
+        label: -- Class Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: class_name
+        Label: Class Name
+        hint: null
+        type: select_one
+        options:
+          - Bread Making Basics
+          - Advanced Pastry Techniques
+          - Cake Decorating Essentials
+          - Chocolate Tempering Masterclass
+          - Artisan Sourdough
+          - Cookie Decorating Workshop
+          - Other
+        required: true
+      - id: 8
+        name: class_date
+        Label: Class Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: class_time
+        Label: Class Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 10
+        name: class_session_number
+        Label: Session Number (if series)
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 11
+        name: section_experience
+        label: -- Experience Level --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: experience_level
+        Label: Baking Experience Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Professional
+        required: true
+      - id: 13
+        name: previous_classes
+        Label: Have You Taken Previous Classes?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - First Time
+        required: false
+      - id: 14
+        name: section_details
+        label: -- Class Details and Fees --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: class_fee
+        Label: Class Fee
+        hint: In dollars
+        type: decimal
+        options: []
+        required: true
+      - id: 16
+        name: payment_method
+        Label: Payment Method
+        hint: null
+        type: select_one
+        options:
+          - Credit Card
+          - Debit Card
+          - Cash
+          - Check
+          - PayPal
+        required: true
+      - id: 17
+        name: payment_status
+        Label: Payment Status
+        hint: null
+        type: select_one
+        options:
+          - Paid in Full
+          - Partial Payment
+          - Payment Due
+        required: true
+      - id: 18
+        name: section_health
+        label: -- Health and Dietary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: dietary_restrictions
+        Label: Dietary Restrictions or Allergies
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: health_conditions
+        Label: Health Conditions to Note
+        hint: Mobility issues, allergies, etc.
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_expectations
+        label: -- Learning Expectations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: learning_goals
+        Label: What Do You Hope to Learn?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: special_requests
+        Label: Special Requests or Accommodations
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: waiver_agreement
+        Label: I Agree to the Class Waiver and Rules
+        hint: null
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 25
+        name: signup_confirmation
+        Label: I Confirm My Registration for This Class
+        hint: null
+        type: select_one
+        options:
+          - Confirm Registration
+          - Cancel Registration
+        required: true

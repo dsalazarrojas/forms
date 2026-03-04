@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: shelter_management_workshop_registration_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_preferences
+      label: Session Preferences
+      hint: Select the session you would like to join.
+      type: select_multiple
+      options:
+      - '{''label'': ''Session 1'', ''value'': ''session_1''}'
+      - '{''label'': ''Session 2'', ''value'': ''session_2''}'
+      - '{''label'': ''Session 3'', ''value'': ''session_3''}'
+      required: true
+    - id: 3
+      name: logistics
+      label: Logistics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: session_preferences_2
+      label: Session Preferences
+      hint: Select one session you would like to join.
+      type: select_one
+      options:
+      - '{''label'': ''Session 1'', ''value'': ''session_1''}'
+      - '{''label'': ''Session 2'', ''value'': ''session_2''}'
+      - '{''label'': ''Session 3'', ''value'': ''session_3''}'
+      required: true
+    - id: 8
+      name: session_preferences_3
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Session 1'', ''value'': ''session_1''}'
+      - '{''label'': ''Session 2'', ''value'': ''session_2''}'
+      - '{''label'': ''Session 3'', ''value'': ''session_3''}'
+      required: true

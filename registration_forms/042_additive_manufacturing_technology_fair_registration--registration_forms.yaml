@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additive Manufacturing Technology Fair Registration
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Attendee Registration --
+      hint: Join us for the latest innovations in 3D Printing and AM Technology
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization / Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title / Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: attendance_header
+      label: -- Attendance and Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: attendance_days
+      label: Which days will you be attending?
+      hint: null
+      type: select_multiple
+      options:
+      - Day 1 - Keynote and Industrial Expo
+      - Day 2 - Technical Workshops and Panels
+      - Day 3 - Startup Showcase and Networking
+      required: true
+    - id: 9
+      name: primary_interest
+      label: Primary Area of Interest
+      hint: null
+      type: select_one
+      options:
+      - Aerospace and Defense Applications
+      - Medical and Dental AM
+      - Automotive Manufacturing
+      - Consumer Goods and Fashion
+      - New Material Development (Polymers/Metals)
+      - Software and Simulation Tools
+      required: true
+    - id: 10
+      name: workshop_interest
+      label: Are you interested in participating in hands-on workshops?
+      hint: Limited seating available
+      type: select_one
+      options:
+      - Yes - Please send schedule
+      - No - Expo only
+      required: true
+    - id: 11
+      name: dietary_requirements
+      label: Dietary Requirements for Lunch / Networking
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: networking_event_opt_in
+      label: Will you attend the evening Networking Mixer?
+      hint: Day 1 Evening
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 13
+      name: registration_type
+      label: Registration Category
+      hint: null
+      type: select_one
+      options:
+      - General Attendee
+      - Student / Academic
+      - Exhibitor Representative
+      - Speaker / VIP
+      - Media / Press
+      required: true
+    - id: 14
+      name: privacy_consent
+      label: I consent to sharing my contact info with event sponsors
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: registration_timestamp
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

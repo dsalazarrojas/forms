@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: PR Session Attendee Registration Form
+    pages:
+    - id: 1
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Training
+      - Media Briefing
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: Participant Name
+      hint: Enter your name as it appears on your business card
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your work email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: What is your role in the organization?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interests
+      label: Interests
+      hint: Select the areas where you are interested in attending
+      type: select_multiple
+      options:
+      - PR, Marketing, Communications
+      - Event Planning
+      - Media Relations
+      - Training and Development
+      - Other
+      required: false
+    - id: 7
+      name: communication_preferences
+      label: How do you want to be communicated with?
+      hint: Select your preferred method of communication
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone
+      - Email and Phone
+      required: false
+    - id: 8
+      name: workshop_date
+      label: What is the workshop date?
+      hint: Enter the date of the workshop or event
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: workshop_time
+      label: What is the workshop time?
+      hint: Enter the time of the workshop or event
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

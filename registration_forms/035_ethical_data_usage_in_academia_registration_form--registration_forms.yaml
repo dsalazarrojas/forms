@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethical Data Usage In Academia Registration Form
+    pages:
+    - id: 1
+      name: university_id
+      label: University Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Researcher
+      - Faculty
+      required: false
+    - id: 7
+      name: commit_to_ethics
+      label: Commit To Ethical Guidelines
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and commit to the ethical guidelines for data usage in academia.
+      - I do not understand the ethical guidelines for data usage in academia.
+      required: false
+    - id: 8
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand and commit to the ethical guidelines for data usage in academiaประก
+        I commit to not sharing data with external parties without consent.
+      - I do not understand the ethical guidelines for data usage in academia. I will
+        share data with external parties without consent.
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

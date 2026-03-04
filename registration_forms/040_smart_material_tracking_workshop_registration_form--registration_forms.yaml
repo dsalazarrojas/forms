@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Material Tracking Workshop Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_registration
+      label: Time of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': 1}'
+      - '{''label'': ''Option 2'', ''value'': 2}'
+      - '{''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': 1}'
+      - '{''label'': ''Option 2'', ''value'': 2}'
+      - '{''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

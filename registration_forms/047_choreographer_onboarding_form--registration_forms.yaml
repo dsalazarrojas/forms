@@ -1,0 +1,387 @@
+inputSchema:
+  type: object
+  properties:
+    title: Choreographer Onboarding Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_name
+      label: Preferred Name
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: professional_background
+      label: Professional Background
+      hint: Your experience
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: years_experience
+      label: Years of Choreography Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dance_styles
+      label: Dance Styles Specialized In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Ballet
+      - Jazz
+      - Contemporary
+      - Hip hop
+      - Tap
+      - Modern
+      - Ballroom
+      - Latin
+      - Cultural or folk
+      - Commercial
+      - Other
+      required: true
+    - id: 12
+      name: primary_style
+      label: Primary Style
+      hint: Your specialty
+      type: select_one
+      options:
+      - Ballet
+      - Jazz
+      - Contemporary
+      - Hip hop
+      - Tap
+      - Modern
+      - Ballroom
+      - Latin
+      - Cultural or folk
+      - Commercial
+      - Other
+      required: true
+    - id: 13
+      name: education
+      label: Dance Education
+      hint: Training and degrees
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: certifications
+      label: Certifications
+      hint: Any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_experience
+      label: Previous Experience
+      hint: Work history
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: previous_companies
+      label: Previous Companies or Studios
+      hint: List with dates
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notable_productions
+      label: Notable Productions or Works
+      hint: Highlights
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: awards_recognition
+      label: Awards or Recognition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: references
+      label: Professional References
+      hint: Contact information
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: portfolio
+      label: Portfolio or Website
+      hint: Link if available
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: availability
+      label: Availability
+      hint: Your schedule
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: available_days
+      label: Available Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 23
+      name: available_times
+      label: Available Times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 24
+      name: start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: schedule_flexibility
+      label: Schedule Flexibility
+      hint: null
+      type: select_one
+      options:
+      - Very flexible
+      - Somewhat flexible
+      - Limited flexibility
+      - Fixed schedule
+      required: true
+    - id: 26
+      name: teaching_experience
+      label: Teaching Experience
+      hint: Your background
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: have_teaching_experience
+      label: Do you have teaching experience
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensive
+      - Yes, some
+      - false
+      required: true
+    - id: 28
+      name: age_groups
+      label: Age Groups You Work With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Toddlers (2-4)
+      - Children (5-10)
+      - Teens (11-17)
+      - Adults
+      - Seniors
+      - All ages
+      required: false
+    - id: 29
+      name: skill_levels
+      label: Skill Levels You Teach
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - All levels
+      required: false
+    - id: 30
+      name: project_preferences
+      label: Project Preferences
+      hint: What you want to work on
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: interested_projects
+      label: Types of Projects Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Studio classes
+      - Competition routines
+      - Recital pieces
+      - Music videos
+      - Stage productions
+      - Corporate events
+      - Weddings
+      - Private coaching
+      - Other
+      required: true
+    - id: 32
+      name: rate_expectations
+      label: Rate Expectations
+      hint: Compensation
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: preferred_rate
+      label: Preferred Rate
+      hint: Per hour or per project
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: rate_negotiable
+      label: Is Your Rate Negotiable
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Depends on project
+      required: false
+    - id: 35
+      name: additional_skills
+      label: Additional Skills
+      hint: Other talents
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: other_skills
+      label: Do you have other relevant skills
+      hint: Music, costume design, etc.
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: equipment
+      label: Do you have your own equipment
+      hint: Sound system, etc.
+      type: select_one
+      options:
+      - Yes, all needed
+      - Some equipment
+      - false
+      required: false
+    - id: 38
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Referral
+      - Advertisement
+      - Previous collaboration
+      - Other
+      required: false
+    - id: 40
+      name: why_interested
+      label: Why Are You Interested in Working With Us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: agree_terms
+      label: I agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 43
+      name: choreographer_signature
+      label: Choreographer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 44
+      name: onboarding_date
+      label: Date of Onboarding
+      hint: null
+      type: date
+      options: []
+      required: true

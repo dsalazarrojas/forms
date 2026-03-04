@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Meal Service Registration
+    pages:
+    - id: 1
+      name: guest_info
+      label: Guest Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meal_preferences
+      label: Meals
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Burger
+      - Sandwich
+      - Salad
+      required: false
+    - id: 3
+      name: meal_schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy1
+      - chatjimmy2
+      - chatjimmy3
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

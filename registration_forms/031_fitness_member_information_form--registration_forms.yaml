@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Member Information Form
+    pages:
+    - id: 1
+      name: fitness_member_name
+      label: fitness_member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: fitness_member_phone
+      label: fitness_member_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fitness_member_address
+      label: fitness_member_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fitness_member_dob
+      label: fitness_member_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: fitness_member_notes
+      label: fitness_member_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fitness_programs
+      label: fitness_programs
+      hint: null
+      type: select_multiple
+      options:
+      - Fitness Class A
+      - Fitness Class B
+      - Fitness Class C
+      required: false

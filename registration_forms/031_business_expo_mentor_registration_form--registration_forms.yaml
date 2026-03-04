@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expo Mentor Registration Form
+    pages:
+    - id: 1
+      name: mentor_section
+      label: -- Mentor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: background_section
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_title
+      label: Current Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Current employer
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Retail
+      - Services
+      - Education
+      - Consulting
+      - Other
+      required: true
+    - id: 10
+      name: years_of_experience
+      label: Years of Professional Experience
+      hint: How long have you worked?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: expertise_areas
+      label: Areas of Expertise
+      hint: What are you expert in?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mentoring_section
+      label: -- Mentoring Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: mentoring_experience
+      label: Previous mentoring experience
+      hint: Have you mentored before?
+      type: select_one
+      options:
+      - No experience
+      - Some informal mentoring
+      - Formal mentoring program
+      - Extensive mentoring
+      required: true
+    - id: 14
+      name: mentoring_approach
+      label: Your mentoring approach
+      hint: How do you prefer to mentor?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: availability_section
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: expo_dates
+      label: Available dates for expo mentoring
+      hint: Which dates can you attend?
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      required: true
+    - id: 17
+      name: time_commitment
+      label: Time Commitment per Day
+      hint: How many hours can you commit?
+      type: select_one
+      options:
+      - 2-3 hours
+      - 4-6 hours
+      - Full day
+      required: true
+    - id: 18
+      name: mentoring_focus_section
+      label: -- Mentoring Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: ideal_mentee
+      label: Ideal mentee profile
+      hint: What type of entrepreneurs interest you?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: focus_areas
+      label: Specific focus areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Business Planning
+      - Fundraising
+      - Product Development
+      - Marketing and Sales
+      - Operations
+      - Team Building
+      - Finance
+      required: false
+    - id: 21
+      name: stage_preference
+      label: Preferred startup stage
+      hint: What stage of business do you prefer?
+      type: select_one
+      options:
+      - Ideation/Concept
+      - Early Stage
+      - Growth Stage
+      - Any Stage
+      required: false
+    - id: 22
+      name: logistics_section
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For meal planning
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Other
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Yes - please specify
+      required: false
+    - id: 25
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Describe what you need
+      type: text
+      options: []
+      required: false

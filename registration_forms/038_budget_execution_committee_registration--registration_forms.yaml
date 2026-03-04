@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Execution Committee Registration
+    pages:
+    - id: 1
+      name: member_name
+      label: Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: member_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role_on_committee
+      label: Role on Committee
+      hint: Chair, treasurer, member, etc
+      type: select_one
+      options:
+      - Chair
+      - Vice Chair
+      - Treasurer
+      - Secretary
+      - Member
+      - Alternate
+      required: true
+    - id: 7
+      name: member_type
+      label: Member Type
+      hint: Full-time, part-time, or representative
+      type: select_one
+      options:
+      - Full Committee Member
+      - Alternate Member
+      - Observer
+      - Advisor
+      required: true
+    - id: 8
+      name: committee_name
+      label: Committee Name
+      hint: Which committee are you joining
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: term_start
+      label: Term Start Date
+      hint: When does your membership begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: term_end
+      label: Term End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: budget_experience
+      label: Years of Budget Management Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: relevant_expertise
+      label: Areas of Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Planning
+      - Budget Analysis
+      - Accounting
+      - Forecasting
+      - Program Management
+      - Risk Assessment
+      - Other
+      required: false
+    - id: 13
+      name: meeting_frequency
+      label: Meeting Frequency Availability
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - As Needed
+      - Flexible
+      required: true
+    - id: 14
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Virtual Meeting
+      - Mixed
+      required: false
+    - id: 15
+      name: conflict_of_interest
+      label: Any Conflicts of Interest to Declare
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confidentiality_agreement
+      label: Agree to Confidentiality Agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 17
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

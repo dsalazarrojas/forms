@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health And Fitness Training Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Personalized
+      - Small Group
+      - One-on-One
+      required: false
+    - id: 3
+      name: training_goals
+      label: Training Goals
+      hint: null
+      type: select_one
+      options:
+      - Fitness
+      - Wellness
+      - Performance
+      required: false
+    - id: 4
+      name: training_experience
+      label: Training Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      - Video
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: client_agreement_terms
+      label: Terms of Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: Relationship with Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Other
+      required: false
+    - id: 12
+      name: training_coordinator_id
+      label: Training Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false

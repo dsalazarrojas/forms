@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Business Registration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_email
+      label: business_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_website
+      label: business_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_category
+      label: business_category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Category 1''}'
+      - '{''label'': ''Category 2''}'
+      - '{''label'': ''Category 3''}'
+      required: false
+    - id: 8
+      name: business_description
+      label: business_description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Speed Limiter Registration
+    pages:
+    - id: 1
+      name: owner_details
+      label: Owner Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_data
+      label: Vehicle Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: installation_info
+      label: Speed Limiter Installation Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speed_limiter_details
+      label: Speed Limiter Details
+      hint: null
+      type: select_one
+      options:
+      - Speed Limiter Type
+      - Installation Date
+      - Location
+      required: true
+    - id: 5
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_contact
+      label: Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: speed_limiter_installation_status
+      label: Speed Limiter Installation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Installed
+      - Not Installed
+      - Not Applicable
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

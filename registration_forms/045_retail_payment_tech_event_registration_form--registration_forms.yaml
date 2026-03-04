@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Payment Tech Event Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: attendee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
+      - '{''label'': ''PayPal'', ''value'': ''paypal''}'
+      - '{''label'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
+      required: true
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Small'', ''value'': ''small''}'
+      - '{''label'': ''Medium'', ''value'': ''medium''}'
+      - '{''label'': ''Large'', ''value'': ''large''}'
+      required: true
+    - id: 10
+      name: vegetarian_meal
+      label: Vegetarian Meal Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''yes''}'
+      - '{''label'': False, ''value'': ''no''}'
+      required: true

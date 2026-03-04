@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Contract Home Purchase Form
+    pages:
+    - id: 1
+      name: home_purchase_form
+      label: first_time_buyer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: seller_contact
+      label: seller
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_contact
+      label: buyer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_address_line_2
+      label: property_address_line_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_city
+      label: property_city
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: property_state
+      label: property_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: property_zip
+      label: property_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_country
+      label: property_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: pre_contract_agreement
+      label: pre_contract_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: loan_terms
+      label: loan_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: contract_type
+      label: contract_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: contract_date
+      label: contract_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: contract_time
+      label: contract_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: buyer_credit_score
+      label: buyer_credit_score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: seller_credit_score
+      label: seller_credit_score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: loan_term
+      label: loan_term
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: interest_rate
+      label: interest_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: property_notes
+      label: property_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: buyer_notes
+      label: buyer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: seller_notes
+      label: seller_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_card_portal_access_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cvv_type
+      label: Card Verification Value
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      - Other
+      required: false
+    - id: 10
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      required: false
+    - id: 11
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 12
+      name: year
+      label: Year
+      hint: null
+      type: select_one
+      options:
+      - '2022'
+      - '2023'
+      - '2024'
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      - '2029'
+      - '2030'
+      required: false
+    - id: 13
+      name: security_code
+      label: Security Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: card_holder
+      label: Card Holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: cvc
+      label: CVC
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cvc_type
+      label: Card Verification Code
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      - Discover
+      required: false
+    - id: 25
+      name: card_holder_agreement
+      label: Card Holder Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I do not agree
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Loyal Program Enrollment
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: Customer First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_last_name
+      label: Customer Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''mail'', ''label'': ''Mail''}'
+      required: false
+    - id: 6
+      name: preferred_contact_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loyalty_program
+      label: Loyalty Program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''loyalty'', ''label'': ''Loyalty''}'
+      - '{''value'': ''rewards'', ''label'': ''Rewards''}'
+      required: false
+    - id: 9
+      name: loyalty_program_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: enrollment_time
+      label: Enrollment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Client Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Marketing
+      hint: null
+      type: select_one
+      options:
+      - '{''Client Type'': ''Personal''}'
+      - '{''Client Type'': ''Business''}'
+      - '{''Client Type'': ''Government''}'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: source
+      label: Source
+      hint: Where did you hear about us?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_interested
+      label: Interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate
+      - Properties
+      - Services
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: lead_source
+      label: Lead Source
+      hint: How did you get here?
+      type: select_one
+      options:
+      - Google
+      - Social
+      - Mail
+      - Other
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false

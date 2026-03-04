@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kids Monopoly Game Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guardian_first_name
+      label: Guardian First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guardian_last_name
+      label: Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session
+      label: Preferred Game Session
+      hint: When would you like to play your game session?
+      type: select_multiple
+      options:
+      - '{''value'': 10, ''label'': ''Monopoly Session 1''}'
+      - '{''value'': 11, ''label'': ''Monopoly Session 2''}'
+      - '{''value'': 12, ''label'': ''Monopoly Session 3''}'
+      - '{''value'': 13, ''label'': ''Monopoly Session 4''}'
+      - '{''value'': 14, ''label'': ''Monopoly Session 5''}'
+      required: true
+    - id: 10
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true

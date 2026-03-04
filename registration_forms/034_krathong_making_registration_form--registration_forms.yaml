@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Krathong Making Registration Form
+    pages:
+    - id: 1
+      name: registration_form_data
+      label: Registration Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_id
+      label: event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_start
+      label: time_start
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: time_end
+      label: time_end
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Gym Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: membership_plan
+      label: membership_plan
+      hint: null
+      type: select_one
+      options:
+      - Gym Membership
+      - Gym Subscription
+      - Gym Package
+      required: true
+    - id: 7
+      name: emergency_contact_first_name
+      label: emergency_contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_last_name
+      label: emergency_contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: false

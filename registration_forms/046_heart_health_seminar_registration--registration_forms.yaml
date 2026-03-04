@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heart Health Seminar Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_1
+      label: i understand the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - i accept the terms and conditions
+      - i do not accept the terms and conditions
+      required: true
+    - id: 6
+      name: consent_2
+      label: i accept the use of my contact information
+      hint: null
+      type: select_one
+      options:
+      - i accept the use of my contact information
+      - i do not accept the use of my contact information
+      required: true
+    - id: 7
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: dietary restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: workshop
+      label: workshop
+      hint: null
+      type: select_one
+      options:
+      - workshop 1
+      - workshop 2
+      required: true
+    - id: 12
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - english
+      - spanish
+      required: true
+    - id: 13
+      name: dietary_restrictions_comment
+      label: dietary restrictions comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_multiple
+      options:
+      - credit card
+      - cash
+      required: true
+    - id: 15
+      name: credit_card_number
+      label: credit card number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: credit_card_expiration
+      label: credit card expiration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: workshop_preferences
+      label: workshop preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_information
+      label: additional information
+      hint: null
+      type: text
+      options: []
+      required: false

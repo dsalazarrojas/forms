@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Conference Enrollment Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_interest
+      label: Session Interest
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: event_preferences
+      label: Event Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: session_1
+      label: Session 1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: session_2
+      label: Session 2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: session_3
+      label: Session 3
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: attendee_preferences
+      label: Attendee Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_4
+      label: Session 4
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: session_5
+      label: Session 5
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: attendee_comments
+      label: Attendee Comments
+      hint: null
+      type: text
+      options: []
+      required: false

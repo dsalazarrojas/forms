@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Meet And Greet RSVP Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you attend
+      type: select_one
+      options:
+      - Yes - I will attend
+      - No - unable to attend
+      - Maybe - pending confirmation
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of meet and greet
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total attendees including you
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guest_names
+      label: Guest Names
+      hint: Names of additional attendees
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any food allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: beverage_preference
+      label: Beverage Preference
+      hint: Drink preference
+      type: select_one
+      options:
+      - Alcoholic beverages
+      - Non-alcoholic only
+      - No preference
+      required: false
+    - id: 12
+      name: networking_goals
+      label: Networking Goals
+      hint: What connections are you seeking
+      type: select_multiple
+      options:
+      - Potential partners
+      - Potential clients
+      - Industry peers
+      - Mentors
+      - Investors
+      - General networking
+      required: true
+    - id: 13
+      name: business_description
+      label: Business Description
+      hint: Brief description of your business
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: partnership_interests
+      label: Partnership Interests
+      hint: What type of partnerships interest you
+      type: select_multiple
+      options:
+      - Strategic alliance
+      - Distribution
+      - Co-marketing
+      - Technology integration
+      - Referral partnership
+      - Not sure yet
+      required: true
+    - id: 15
+      name: elevator_pitch
+      label: Elevator Pitch
+      hint: 30-second description of your business
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_cards
+      label: Business Card Availability
+      hint: Will you bring business cards
+      type: select_one
+      options:
+      - Yes - plenty
+      - Yes - limited
+      - No - digital only
+      required: false
+    - id: 17
+      name: presentation_interest
+      label: Presentation Interest
+      hint: Would you like to present at future events
+      type: select_one
+      options:
+      - Yes - interested
+      - Maybe - depends
+      - No - not interested
+      required: false
+    - id: 18
+      name: table_preferences
+      label: Table Preferences
+      hint: Any seating preferences
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Source of information
+      type: select_one
+      options:
+      - Email invitation
+      - Social media
+      - Colleague referral
+      - Website
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

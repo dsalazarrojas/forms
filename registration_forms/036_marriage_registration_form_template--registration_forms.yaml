@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marriage Registration Form Template
+    pages:
+    - id: 1
+      name: married_parties
+      label: married_parties
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: married_parties_details
+      label: married_party_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: date_of_marriage
+      label: date_of_marriage
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: venue_of_marriage
+      label: venue_of_marriage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: officiating_officer
+      label: officiating_officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: marriage_certificate_number
+      label: marriage_certificate_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: marriage_certificate_date
+      label: marriage_certificate_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: marriage_certificate_file
+      label: marriage_certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: true

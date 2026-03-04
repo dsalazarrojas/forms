@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Transformation Roundtable Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_interests
+      label: Event Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Artificial Intelligence
+      - Cybersecurity
+      - Data Science
+      - Machine Learning
+      - Other
+      - Software Development
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Net 30
+      - Net 60
+      - Payable Now
+      required: false
+    - id: 14
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false

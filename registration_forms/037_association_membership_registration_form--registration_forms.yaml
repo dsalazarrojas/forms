@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Association Membership Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of membership registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: member_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: member_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: member_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_address
+      label: Street Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: member_state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: member_zip
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: member_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: membership_level
+      label: Membership Level
+      hint: Which membership tier?
+      type: select_one
+      options:
+      - Individual
+      - Student
+      - Professional
+      - Family
+      - Corporate
+      - Sustaining
+      - Lifetime
+      required: true
+    - id: 12
+      name: membership_start_date
+      label: Membership Start Date
+      hint: When does membership begin?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: membership_renewal_date
+      label: Membership Renewal Date
+      hint: Annual renewal date
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: annual_dues
+      label: Annual Dues Amount
+      hint: Membership fee
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: dues_paid
+      label: Dues Paid
+      hint: Has payment been received?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial Payment
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How was payment made?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      - Cash
+      required: false
+    - id: 17
+      name: payment_date
+      label: Payment Date
+      hint: When was payment received?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: member_status
+      label: Member Status
+      hint: Current membership status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      - Pending Approval
+      - Expired
+      required: true
+    - id: 19
+      name: newsletter_subscription
+      label: Subscribe to Newsletter
+      hint: Receive communications?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: communication_preference
+      label: Communication Preference
+      hint: How do you prefer to be contacted?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text Message
+      - No Preference
+      required: true
+    - id: 21
+      name: committee_interest
+      label: Committee Interest
+      hint: Volunteer on committees?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 22
+      name: committee_areas
+      label: Areas of Committee Interest
+      hint: Which committees?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: professional_background
+      label: Professional Background
+      hint: Brief description of experience
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Event
+      - Advertisement
+      - Search Engine
+      - Other
+      required: true
+    - id: 25
+      name: registration_complete_date
+      label: Registration Complete Date
+      hint: Date form completed
+      type: date
+      options: []
+      required: true

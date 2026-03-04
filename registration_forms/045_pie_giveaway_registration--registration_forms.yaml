@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pie Giveaway Registration
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth_date
+      label: Date of Birth (DD/MM/YYYY)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: eligibility
+      label: Are you eligible for this giveaway?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': ''true''}'
+      - '{''id'': 2, ''label'': False, ''value'': ''false''}'
+      required: false
+    - id: 9
+      name: delivery_choice
+      label: How will you receive your gift?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Home Delivery'', ''value'': ''home''}'
+      - '{''id'': 2, ''label'': ''Pickup'', ''value'': ''pickup''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 10
+      name: other_delivery_details
+      label: Other delivery details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: gift_choice
+      label: What would you like your pie gift to be?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apple Pie'', ''value'': ''apple pie''}'
+      - '{''id'': 2, ''label'': ''Blueberry Pie'', ''value'': ''blueberry pie''}'
+      - '{''id'': 3, ''label'': ''Lemon Meringue Pie'', ''value'': ''lemon meringue
+        pie''}'
+      required: true
+    - id: 12
+      name: name_of_gift_receiver
+      label: Name of gift receiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: relationship_to_gifter
+      label: Relationship to gifter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: gift_message
+      label: Gift message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Delivery via email'', ''value'': ''delivery via
+        email''}'
+      - '{''id'': 2, ''label'': ''Delivery via SMS'', ''value'': ''delivery via SMS''}'
+      required: false
+    - id: 16
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Next week'', ''value'': ''next week''}'
+      - '{''id'': 2, ''label'': ''Next month'', ''value'': ''next month''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 17
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: name_on_card
+      label: Name to be printed on card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: message_on_card
+      label: Message to be printed on card
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: card_design
+      label: Card Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Color'', ''value'': ''color''}'
+      - '{''id'': 2, ''label'': ''Black and White'', ''value'': ''black and white''}'
+      required: true
+    - id: 23
+      name: name_of_designer
+      label: Name of designer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: name_of_designer_title
+      label: Job Title of designer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

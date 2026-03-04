@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Honors Program Enrollment Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_start_date
+      label: program_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_end_date
+      label: program_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: program_type_other
+      label: other_program_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: faculty_recommendation_letter
+      label: faculty_recommendation_letter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: gpa
+      label: gpa
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: gpa_scale
+      label: gpa_scale
+      hint: null
+      type: select_one
+      options:
+      - 3.0-3.5
+      - 3.6-4.0
+      - 4.0-5.0
+      - Other
+      required: true
+    - id: 12
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_city
+      label: student_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_state
+      label: student_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_zip
+      label: student_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: faculty_name
+      label: faculty_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: faculty_contact
+      label: faculty_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: faculty_email
+      label: faculty_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: faculty_phone
+      label: faculty_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: faculty_institution
+      label: faculty_institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: faculty_position
+      label: faculty_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: faculty_department
+      label: faculty_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: faculty_affiliation
+      label: faculty_affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: faculty_signature
+      label: faculty_signature
+      hint: null
+      type: text
+      options: []
+      required: false

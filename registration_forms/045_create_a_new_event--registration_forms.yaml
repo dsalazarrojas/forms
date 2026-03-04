@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Create A New Event
+    pages:
+    - id: 1
+      name: create_a_new_event
+      label: Create Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Time
+      hint: null
+      type: select_one
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      required: false
+    - id: 4
+      name: event_venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_length
+      label: Session Length
+      hint: Enter session length in hours
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Enter event location
+      type: text
+      options: []
+      required: false

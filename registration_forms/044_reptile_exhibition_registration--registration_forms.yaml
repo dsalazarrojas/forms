@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: reptile_exhibition_registration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rule_agreements
+      label: Rule Agreements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: species
+      label: Species
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Option 1''}'
+      - '{''name'': ''Option 2''}'
+      - '{''name'': ''Option 3''}'
+      required: false

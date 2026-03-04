@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Loyalty App Testing Registration
+    pages:
+    - id: 1
+      name: form_title
+      label: mobile_loyalty_app_testing_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: registration_forms
+      hint: null
+      type: select_one
+      options:
+      - Apple iPhone
+      - Samsung Galaxy
+      - Google Pixel
+      required: false
+    - id: 3
+      name: form_description
+      label: registration_forms_description
+      hint: This form helps product and research teams recruit qualified testers,
+        capture device details and availability, and manage participant sign-ups in
+        one organized place.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: device_details
+      label: participant_device_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_availability
+      label: participant_device_availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

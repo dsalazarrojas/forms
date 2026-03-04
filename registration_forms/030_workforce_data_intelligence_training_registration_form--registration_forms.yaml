@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Data Intelligence Training Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title_other
+      label: Job Title Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_job_title
+      label: Other Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title_description
+      label: Job Title Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: training_language
+      label: Training Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: training_language_other
+      label: Training Language Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: registration_notes
+      label: Registration Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: training_status_other
+      label: Training Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_status_description
+      label: Training Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirm_training
+      label: Confirm Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

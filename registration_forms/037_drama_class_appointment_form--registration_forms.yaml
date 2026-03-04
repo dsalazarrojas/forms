@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drama Class Appointment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_type
+      label: class_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Drama Class''}'
+      - '{''label'': ''Workshop''}'
+      required: true
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: class_date
+      label: class_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: class_description
+      label: class_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructor_email
+      label: instructor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: instructor_phone
+      label: instructor_phone
+      hint: null
+      type: text
+      options: []
+      required: false

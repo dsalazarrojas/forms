@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliate Signup Form
+    pages:
+    - id: 1
+      name: header_section
+      label: -- Join Our Program --
+      hint: Become an affiliate and earn commissions.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: password
+      label: Create Password
+      hint: For your affiliate dashboard.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_info_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Optional.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website
+      label: Website
+      hint: http://...
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address_state
+      label: State / Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address_zip
+      label: Postal / Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: promotion_header
+      label: -- Promotion Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: promo_methods
+      label: Promotional Methods
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - Website / Blog
+      - Email Marketing
+      - Social Media
+      - PPC Advertising
+      - Offline / Print
+      required: true
+    - id: 16
+      name: agree_terms
+      label: I agree to the Terms & Conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

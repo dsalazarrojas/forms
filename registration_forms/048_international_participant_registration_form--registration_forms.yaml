@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Participant Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: country_of_origin
+      label: Country Of Origin
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: nationality
+      label: Nationality
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_registration
+      label: Date Of Registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_registration
+      label: Time Of Registration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: organization
+      label: Organization
+      hint: 'null'
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Supply Chain Workshop Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: select_one
+      options:
+      - '2022-03-01'
+      - '2022-04-01'
+      - '2022-05-01'
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I consent to share my data with clinics
+      - I consent to share my data with suppliers
+      - I consent to share my data with schools
+      required: false
+    - id: 4
+      name: clinic
+      label: Clinic
+      hint: null
+      type: select_one
+      options:
+      - Clinic A
+      - Clinic B
+      - Clinic C
+      required: false
+    - id: 5
+      name: supplier
+      label: Supplier
+      hint: null
+      type: select_one
+      options:
+      - Supplier A
+      - Supplier B
+      - Supplier C
+      required: false
+    - id: 6
+      name: school
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - School A
+      - School B
+      - School C
+      required: false
+    - id: 7
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

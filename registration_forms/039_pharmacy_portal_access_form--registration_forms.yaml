@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmacy Portal Access Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: patient id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: patient first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_last_name
+      label: patient last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: access_request_date
+      label: access request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: refills_requested
+      label: refills requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: refills_allowed
+      label: refills allowed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: access_type
+      label: access type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: access_status
+      label: access status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: patient_phone
+      label: patient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: patient email
+      hint: null
+      type: email
+      options: []
+      required: false

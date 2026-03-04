@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe Virtual Course Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course
+      label: Course
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      - option9
+      required: true
+    - id: 10
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: stripe_plan
+      label: Stripe Plan
+      hint: null
+      type: select_one
+      options:
+      - option10
+      - option11
+      - option12
+      required: true
+    - id: 13
+      name: stripe_plan_amount
+      label: Stripe Plan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: stripe_plan_price
+      label: Stripe Plan Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: stripe_payment_method
+      label: Stripe Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option13
+      - option14
+      - option15
+      required: true
+    - id: 16
+      name: stripe_payment_method
+      label: Stripe Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option16
+      - option17
+      - option18
+      required: false
+    - id: 17
+      name: stripe_plan_name
+      label: Stripe Plan Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: stripe_plan_id
+      label: Stripe Plan ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

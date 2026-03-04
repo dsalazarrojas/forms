@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Productivity Webinar Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager name
+      hint: Enter manager name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: manager_phone
+      label: Manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: webinar_date
+      label: Webinar date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: webinar_time
+      label: Webinar time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: Enter any notes about the prophets
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: confirm_webinar
+      label: Confirm webinar
+      hint: Select the best way prophets would like to receive their confirmation
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      required: false

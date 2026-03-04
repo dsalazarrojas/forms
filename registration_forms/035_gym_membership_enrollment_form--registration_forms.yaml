@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Enrollment Form
+    pages:
+    - id: 1
+      name: user_info_1
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name_1
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date-of-birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_persons_1
+      label: emergency-contact-person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: membership_plan
+      label: membership-plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: payment_method_1
+      label: payment-method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: payment_details
+      label: payment-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_date
+      label: payment-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: payment_amount
+      label: payment-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: gym_membership_duration
+      label: gym-membership-duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: emergency_notification
+      label: emergency-notification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: membership_start_date
+      label: membership-start-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: membership_end_date
+      label: membership-end-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: billing_address_1
+      label: billing-address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: billing_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: billing_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: billing_zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: billing_country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: billing_email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: billing_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_address
+      label: emergency-address
+      hint: null
+      type: text
+      options: []
+      required: false

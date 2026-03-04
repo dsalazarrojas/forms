@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: ML Tournament Registration Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: List of team members
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tournament_date
+      label: Tournament Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tournament_time
+      label: Tournament Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: tournament_location
+      label: Tournament Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tournament_venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - Stadium
+      - Arena
+      - Field
+      required: true
+    - id: 9
+      name: tournament_organizer
+      label: Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ml_tournament_id
+      label: ML Tournament ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: ml_tournament_type
+      label: Tournament Type
+      hint: null
+      type: select_one
+      options:
+      - Single Elimination
+      - Double Elimination
+      - Round Robin
+      required: true
+    - id: 12
+      name: ml_tournament_format
+      label: Format
+      hint: null
+      type: select_one
+      options:
+      - Knockout
+      - Bracket
+      - League
+      required: true
+    - id: 13
+      name: ml_tournament_elo
+      label: ELO
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: ml_tournament_scoreboard
+      label: Scoreboard
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: ml_tournament_pairing
+      label: Pairing
+      hint: null
+      type: select_one
+      options:
+      - Random
+      - Bye
+      required: true
+    - id: 16
+      name: ml_tournament_rounds
+      label: Rounds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: ml_tournament_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: ml_tournament_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: ml_tournament_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: ml_tournament_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Postponed
+      - Cancelled
+      required: true
+    - id: 21
+      name: ml_tournament_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: ml_tournament_registrations
+      label: Registrations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: ml_tournament_entrants
+      label: Entrants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: ml_tournament_draws
+      label: Draws
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: ml_tournament_results
+      label: Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

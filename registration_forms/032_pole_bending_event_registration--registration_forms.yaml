@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pole Bending Event Registration
+    pages:
+    - id: 1
+      name: participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Cash''}'
+      - '{''name'': ''Card''}'
+      - '{''name'': ''Transfer''}'
+      required: true
+    - id: 5
+      name: total_cost
+      label: total_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false

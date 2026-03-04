@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Pledge Validation Form
+    pages:
+    - id: 1
+      name: supporter_name
+      label: Supporter Name
+      hint: Name of the supporter who made a pledge
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Email to confirm pledge details
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: pledge_amount
+      label: Pledge Amount
+      hint: Amount pledged by the supporter
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pledge_date
+      label: Pledge Date
+      hint: Date when pledge was made
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: verification_method
+      label: Verification Method
+      hint: How the pledge will be verified
+      type: select_one
+      options:
+      - Email Confirmation
+      - Bank Statement
+      - Verbal Confirmation
+      required: true
+    - id: 6
+      name: matched_by_employer
+      label: Matched by Employer
+      hint: Is the pledge eligible for employer matching
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 7
+      name: fulfillment_date
+      label: Expected Fulfillment Date
+      hint: When the pledge will be paid
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Any additional validation details
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: validator_name
+      label: Validator Name
+      hint: Person validating the pledge
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: validation_status
+      label: Validation Status
+      hint: Result of pledge validation
+      type: select_one
+      options:
+      - Validated
+      - Pending
+      - Rejected
+      required: true

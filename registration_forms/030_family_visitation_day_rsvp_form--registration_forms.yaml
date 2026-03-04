@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Visitation Day RSVP Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Parent Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_visitation
+      label: Date of Visitation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_visitation
+      label: Time of Visitation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: attending_children
+      label: Attending Children
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: true
+    - id: 9
+      name: attending_adults
+      label: Attending Adults
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Grandparent
+      - Guardian
+      required: false
+    - id: 10
+      name: attending_other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - Relative
+      - Other
+      required: false
+    - id: 11
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: special_needs_details
+      label: Special Needs Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_needs_instructions
+      label: Special Needs Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

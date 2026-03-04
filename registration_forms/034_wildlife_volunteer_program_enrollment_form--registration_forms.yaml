@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_volunteer_program_enrollment_form
+    pages:
+    - id: 1
+      name: user_info
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wildlife_interests
+      label: Wildlife Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Wildlife Conservation Efforts
+      - Special Events
+      - Community Outreach
+      required: false
+    - id: 6
+      name: conservation_goals
+      label: Conservation Goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: conservation_commitment
+      label: Conservation Commitment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_frequency
+      label: Volunteer Frequency
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Monthly
+      - Bi-Monthly
+      - Annually
+      - Quarterly
+      required: false
+    - id: 9
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_end_date
+      label: Volunteer End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

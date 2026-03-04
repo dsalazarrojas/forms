@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pricing Software Trial Registration
+    pages:
+    - id: 1
+      name: pricing_software_trial_registration_first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pricing_plan
+      label: pricing_plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Free''}'
+      - '{''option2'': ''Premium''}'
+      - '{''option3'': ''Enterprise''}'
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_url
+      label: company_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''1-10''}'
+      - '{''option2'': ''11-50''}'
+      - '{''option3'': ''51-100''}'
+      - '{''option4'': ''101-500''}'
+      - '{''option5'': ''501-1000''}'
+      - '{''option6'': ''1001+''}'
+      required: false
+    - id: 10
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false

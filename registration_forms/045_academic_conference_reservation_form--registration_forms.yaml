@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Conference Reservation Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Academic Conference Reservation Form --
+      hint: Complete this form to reserve your spot at the conference
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code for international numbers
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institution
+      label: Institution or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position_title
+      label: Position or title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: registration_section
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: registration_type
+      label: Registration type
+      hint: null
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Virtual Attendance
+      - Student Rate
+      - Group Registration
+      required: true
+    - id: 10
+      name: attendance_dates
+      label: Which dates will you attend
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - Pre-conference Workshop
+      - Post-conference Workshop
+      required: true
+    - id: 11
+      name: presentation_type
+      label: Will you be presenting at the conference
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Oral Presentation
+      - Poster Presentation
+      - Panel Discussion
+      - Workshop Facilitator
+      required: true
+    - id: 12
+      name: paper_title
+      label: Title of your presentation (if applicable)
+      hint: Leave blank if not presenting
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_requirements
+      label: Dietary requirements for catered events
+      hint: null
+      type: select_one
+      options:
+      - No special requirements
+      - Vegetarian
+      - Vegan
+      - Halal
+      - Kosher
+      - Gluten-free
+      - Other
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Do you have any accessibility requirements
+      hint: e.g. wheelchair access, hearing loop, sign language interpreter
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accommodation_needed
+      label: Do you need help with accommodation arrangements
+      hint: null
+      type: select_one
+      options:
+      - No, I have arranged my own
+      - Yes, please provide hotel recommendations
+      - Yes, I would like to book through the conference rate
+      required: false
+    - id: 16
+      name: networking_interest
+      label: Would you like to participate in the networking dinner
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 17
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Institutional Purchase Order
+      - PayPal
+      required: true
+    - id: 18
+      name: special_requests
+      label: Any special requests or comments
+      hint: null
+      type: text
+      options: []
+      required: false

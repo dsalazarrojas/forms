@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Club Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: swimmer_name
+      label: Swimmer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: swimmer_phone
+      label: Swimmer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: swimmer_dob
+      label: Swimmer DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: swimmer_level
+      label: Swimmer Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: swimmer_level_options
+      label: Swimmer Level Options
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: swimmer_gender
+      label: Swimmer Gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: swimmer_gender_options
+      label: Swimmer Gender Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: registration_time
+      label: Registration Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: swimmer_address
+      label: Swimmer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: swimmer_notes
+      label: Swimmer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: swimmer_allergies
+      label: Swimmer Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: swimmer_medical
+      label: Swimmer Medical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: swimmer_medical_notes
+      label: Swimmer Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: swimmer_emergency_contact
+      label: Swimmer Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: swimmer_emergency_relationship
+      label: Swimmer Emergency Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: swimmer_emergency_phone
+      label: Swimmer Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: swimmer_emergency_address
+      label: Swemermergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: swimmer_organisation
+      label: Swimmer Organisation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: swimmer_organisation_options
+      label: Swimmer Organisation Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: swimmer_employed
+      label: Swimmer Employed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: swimmer_employed_options
+      label: Swimmer Employed Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: swimmer_employed_details
+      label: Swemermer Details
+      hint: null
+      type: text
+      options: []
+      required: false

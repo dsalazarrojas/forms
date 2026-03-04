@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household And Territory Registration
+    pages:
+    - id: 1
+      name: household_info
+      label: Household Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resident_details
+      label: Resident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: territory_info
+      label: Territory Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: property_location
+      label: Property Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: property_area
+      label: Property Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: territory_type
+      label: Territory Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: territory_status
+      label: Territory Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

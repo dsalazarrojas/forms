@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Ambassador Authorization Form
+    pages:
+    - id: 1
+      name: section_header_ambassador
+      label: -- Ambassador Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ambassador_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_authorization
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: brand_name
+      label: Brand or Company Name
+      hint: Brand being represented
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: authorization_scope
+      label: Scope of Authorization
+      hint: What you are authorized to represent
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: authorization_duration
+      label: Authorization Duration
+      hint: How long authorization is valid
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 1 year
+      - 2 years
+      - Indefinite
+      - Other
+      required: true
+    - id: 9
+      name: section_header_responsibilities
+      label: -- Responsibilities and Obligations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_responsibilities
+      label: Primary Responsibilities
+      hint: What you will do as ambassador
+      type: select_multiple
+      options:
+      - Represent brand at events
+      - Social media promotion
+      - Product demonstrations
+      - Customer engagement
+      - Sales support
+      - Content creation
+      - Community building
+      - Other
+      required: true
+    - id: 11
+      name: content_creation
+      label: Content Creation Required
+      hint: Will you create content
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, occasionally
+      - As needed
+      - Not required
+      required: false
+    - id: 12
+      name: section_header_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: brand_representation
+      label: I agree to represent the brand professionally
+      hint: Check to confirm
+      type: select_one
+      options:
+      - I agree
+      - I need clarification
+      required: true
+    - id: 14
+      name: intellectual_property
+      label: I understand IP and confidentiality terms
+      hint: Brand materials confidentiality
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      - I need clarification
+      required: true
+    - id: 15
+      name: compliance_agreement
+      label: I agree to comply with brand guidelines
+      hint: Follow brand standards
+      type: select_one
+      options:
+      - I fully agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: section_header_compensation
+      label: -- Compensation and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: compensation_type
+      label: Compensation Type
+      hint: How you will be compensated
+      type: select_one
+      options:
+      - Salary
+      - Commission
+      - Free products
+      - Discount code
+      - Mixed
+      - Unpaid volunteer
+      - To be determined
+      required: false
+    - id: 18
+      name: expense_coverage
+      label: Expense Coverage
+      hint: Who covers event expenses
+      type: select_one
+      options:
+      - Brand covers all
+      - Ambassador covers all
+      - Shared expenses
+      - To be determined
+      required: false
+    - id: 19
+      name: section_header_legal
+      label: -- Legal Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: legal_age
+      label: I confirm I am legally authorized to sign
+      hint: Must be 18 or older
+      type: select_one
+      options:
+      - Yes, I am authorized
+      - No, I am not authorized
+      required: true
+    - id: 21
+      name: authorization_consent
+      label: I authorize this brand ambassador agreement
+      hint: Check to sign agreement
+      type: select_one
+      options:
+      - I fully authorize
+      - I do not authorize
+      required: true

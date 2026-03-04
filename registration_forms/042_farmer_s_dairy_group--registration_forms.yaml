@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farmers Dairy Group
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Registration Forms
+      - Other Forms
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Please describe your product or service
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 042_farmers_dairy_group--registration_forms.yaml
+      - 042_farmers_dairy_group--other_forms.yaml
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other_tool
+      required: true
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_multiple
+      options:
+      - Dairy
+      - Other
+      required: true
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: product_weight
+      label: Product Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: product_weight_unit
+      label: Product Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - Grams
+      - Kilograms
+      - Other
+      required: true
+    - id: 18
+      name: product_location
+      label: Product Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_location_type
+      label: Product Location Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_status
+      label: Product Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Sold Out
+      - Other
+      required: true
+    - id: 21
+      name: product_status_note
+      label: Product Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_tags
+      label: Product Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_tags_hint
+      label: Product Tags Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: product_tags_list
+      label: Product Tags List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

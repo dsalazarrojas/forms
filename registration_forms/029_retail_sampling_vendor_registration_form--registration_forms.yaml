@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Sampling Vendor Registration Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: prophets@sample.com
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

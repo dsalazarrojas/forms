@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Policy Workshop Enrollment Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Government Policy
+      - Other
+      required: false
+    - id: 9
+      name: workshop_attended
+      label: Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: workshop_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: user_role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: user_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: workshop_topic
+      label: Workshop Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: workshop_language
+      label: Workshop Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: user_language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: user_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: user_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: user_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: user_phone_type
+      label: Phone Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_email_type
+      label: Email Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Government Policy
+      - Other
+      - Public Health
+      required: false

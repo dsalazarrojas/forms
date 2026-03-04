@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brake Certification Training Registration
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For training communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_employment
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Your employer or shop
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of Brake Experience
+      hint: Total experience in brake systems
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_header_training
+      label: -- Training Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: training_level
+      label: Training Level
+      hint: Select appropriate level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Master Technician
+      - Refresher
+      required: true
+    - id: 12
+      name: training_format
+      label: Training Format
+      hint: In-person or online
+      type: select_one
+      options:
+      - In-person classroom
+      - Online training
+      - Hybrid format
+      - Hands-on workshop
+      required: true
+    - id: 13
+      name: section_header_schedule
+      label: -- Schedule Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: training_date
+      label: Preferred Training Date
+      hint: When would you attend
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: training_time
+      label: Preferred Training Time
+      hint: Morning or afternoon session
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (1pm-5pm)
+      - Full day
+      - Evening (after 5pm)
+      - Flexible
+      required: true
+    - id: 16
+      name: section_header_vehicle
+      label: -- Vehicle Systems Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: brake_types
+      label: Brake Systems to Study
+      hint: Select areas of focus
+      type: select_multiple
+      options:
+      - Hydraulic brakes
+      - Air brakes
+      - Electric brakes
+      - Anti-lock braking systems (ABS)
+      - Disc brakes
+      - Drum brakes
+      - Regenerative braking
+      - All systems
+      required: true
+    - id: 18
+      name: section_header_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: travel_accommodation
+      label: Need Travel Accommodation
+      hint: Will you need lodging
+      type: select_one
+      options:
+      - Yes, need accommodation
+      - No, not needed
+      - Local attendee
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For provided meals
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registration_confirmation
+      label: I confirm my registration
+      hint: Check to complete registration
+      type: select_one
+      options:
+      - Confirmed
+      - Need more time
+      required: true

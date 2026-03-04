@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literature Festival Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: genre
+      label: Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Literary Fiction
+      - Romance
+      - Science Fiction
+      - Mystery
+      - Non-Fiction
+      - Poetry
+      - Historical Fiction
+      - Biography
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_type
+      label: Event Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: registration_method
+      label: Registration Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_one
+      options:
+      - Author
+      - Attendee
+      - Organizer
+      required: true
+    - id: 13
+      name: special_request
+      label: Special Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_interest
+      label: Participant Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Literary Fiction
+      - Romance
+      - Science Fiction
+      - Mystery
+      - Non-Fiction
+      - Poetry
+      - Historical Fiction
+      - Biography
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

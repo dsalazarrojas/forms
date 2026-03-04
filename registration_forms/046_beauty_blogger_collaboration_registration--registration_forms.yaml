@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Blogger Collaboration Registration
+    pages:
+    - id: 1
+      name: blogger_name
+      label: Blogger Name
+      hint: Your name or brand name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: real_name
+      label: Real Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: blog_name
+      label: Blog or Channel Name
+      hint: Your platform name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_url
+      label: Website URL
+      hint: Your website
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: instagram_handle
+      label: Instagram Handle
+      hint: Your Instagram
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: instagram_followers
+      label: Instagram Followers
+      hint: Approximate number
+      type: select_one
+      options:
+      - Under 1,000
+      - 1,000-10,000
+      - 10,001-50,000
+      - 50,001-100,000
+      - 100,001-500,000
+      - Over 500,000
+      required: true
+    - id: 9
+      name: youtube_handle
+      label: YouTube Channel
+      hint: Your YouTube
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: youtube_subscribers
+      label: YouTube Subscribers
+      hint: Approximate number
+      type: select_one
+      options:
+      - Under 1,000
+      - 1,000-10,000
+      - 10,001-50,000
+      - 50,001-100,000
+      - 100,001-500,000
+      - Over 500,000
+      - No YouTube Channel
+      required: false
+    - id: 11
+      name: tiktok_handle
+      label: TikTok Handle
+      hint: Your TikTok
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tiktok_followers
+      label: TikTok Followers
+      hint: Approximate number
+      type: select_one
+      options:
+      - Under 1,000
+      - 1,000-10,000
+      - 10,001-50,000
+      - 50,001-100,000
+      - 100,001-500,000
+      - Over 500,000
+      - No TikTok
+      required: false
+    - id: 13
+      name: content_focus
+      label: Content Focus
+      hint: What do you create
+      type: select_multiple
+      options:
+      - Makeup Tutorials
+      - Skincare Reviews
+      - Hair Care
+      - Product Reviews
+      - Beauty News
+      - Lifestyle
+      - Other
+      required: true
+    - id: 14
+      name: audience_demographics
+      label: Primary Audience
+      hint: Your followers
+      type: select_one
+      options:
+      - Teens 13-17
+      - Young Adults 18-24
+      - Adults 25-34
+      - Adults 35-44
+      - Mixed Age Groups
+      required: true
+    - id: 15
+      name: collaboration_type
+      label: Collaboration Type Interested In
+      hint: What collaborations
+      type: select_multiple
+      options:
+      - Product Reviews
+      - Sponsored Posts
+      - Brand Ambassadorship
+      - Event Attendance
+      - Product Development
+      - Affiliate Program
+      - Giveaways
+      required: true
+    - id: 16
+      name: previous_collaborations
+      label: Previous Brand Collaborations
+      hint: List any brands
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: media_kit
+      label: Media Kit Available
+      hint: Do you have one
+      type: select_one
+      options:
+      - Yes - Will Attach
+      - Yes - Available Online
+      - No - Working On It
+      required: true
+    - id: 18
+      name: media_kit_link
+      label: Media Kit Link
+      hint: URL if available
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rate_card
+      label: Rate Card Available
+      hint: Do you have rates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: why_collaborate
+      label: Why Do You Want to Collaborate
+      hint: Your reason
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

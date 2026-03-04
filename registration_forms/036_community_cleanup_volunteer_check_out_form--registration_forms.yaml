@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Cleanup Volunteer Check Out Form
+    pages:
+    - id: 1
+      name: section_checkout_details_out
+      label: -- Volunteer Check-Out --
+      hint: Thank you for your hard work today! Please check out before you leave.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_full_name_out
+      label: Full Name of Volunteer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_id_out
+      label: Volunteer ID (If assigned)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_email_out
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: check_in_time_out
+      label: Your Check-In Time
+      hint: Approximate time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: check_out_time_out
+      label: Your Check-Out Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: section_cleanup_results_out
+      label: -- Cleanup Results and Impact --
+      hint: Help us track the success of today's event.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: estimated_bags_collected_out
+      label: Estimated Number of Bags of Litter Collected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cleanup_area_completed_out
+      label: Which area did you complete cleaning
+      hint: e.g., North Park, Main Street, Riverbank
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: unusual_items_found_out
+      label: Any unusual or hazardous items found (e.g., tires, chemicals)
+      hint: If yes, please describe the location
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_feedback_out
+      label: -- Volunteer Feedback --
+      hint: Tell us about your experience today.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: overall_volunteer_experience_out
+      label: Rate your overall experience today
+      hint: 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: suggestions_for_improvement_out
+      label: What could we do better for the next cleanup event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tools_returned_check_out
+      label: I have returned all tools and equipment
+      hint: Gloves, bags, pickers, etc.
+      type: select_one
+      options:
+      - Yes, all tools returned
+      - No, I still have tools
+      required: true
+    - id: 15
+      name: section_final_submission_out
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_signature_digital_out
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date_final_out
+      label: Date of Check-Out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: next_cleanup_interest_out
+      label: I am interested in volunteering for the next cleanup event
+      hint: null
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 19
+      name: referral_source_out
+      label: How did you hear about this volunteer check-out form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false

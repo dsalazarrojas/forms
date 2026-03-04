@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoom Webinar Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_email
+      label: Email
+      hint: Enter attendee email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: attendee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: join_time
+      label: Join Time
+      hint: Select join time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attendee_type
+      label: Attendee Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: join_date
+      label: Join Date
+      hint: Select join date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: registrant_name
+      label: Registrant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registrant_email
+      label: Email
+      hint: Enter registrant email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: registrant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registrant_type
+      label: Registrant Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: registrant_join_time
+      label: Join Time
+      hint: Select join time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: registrant_join_date
+      label: Join Date
+      hint: Select join date
+      type: date
+      options: []
+      required: false

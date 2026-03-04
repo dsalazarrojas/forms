@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: private_investigator_certification_exam_form
+    pages:
+    - id: 1
+      name: candidate_info
+      label: candidate_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: certification_level
+      label: certification_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Level 1'', ''value'': ''level_1''}'
+      - '{''id'': 2, ''name'': ''Level 2'', ''value'': ''level_2''}'
+      - '{''id'': 3, ''name'': ''Level 3'', ''value'': ''level_3''}'
+      required: false
+    - id: 3
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: exam_time
+      label: exam_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: exam_location
+      label: exam_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: upload_documents
+      label: upload_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

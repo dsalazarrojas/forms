@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spring Tennis Challenge Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: challenge_type
+      label: Challenge Type
+      hint: null
+      type: select_one
+      options:
+      - Challenge Singles
+      - Doubles
+      - Mixed Doubles
+      required: false
+    - id: 7
+      name: division
+      label: Division
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: false
+    - id: 8
+      name: level
+      label: Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 9
+      name: tshirts_ordered
+      label: T-Shirts Ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tshirts_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      required: false
+    - id: 11
+      name: tshirts_color
+      label: T-Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      required: false
+    - id: 12
+      name: tshirts_color_option
+      label: T-Shirt Color Option
+      hint: null
+      type: select_one
+      options:
+      - Red and Blue
+      - Blue and Red
+      - Red and Black
+      - Green and Yellow
+      - Black and Red
+      required: false
+    - id: 13
+      name: tshirts_comments
+      label: T-Shirt Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: division_comments
+      label: Division Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: challenge_comments
+      label: Challenge Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: text
+      options: []
+      required: false

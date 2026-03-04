@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: free-introduction-session-registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_confirmed
+      label: Email Confirmed
+      hint: Has the attendee confirmed their email?
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 8
+      name: registration_status
+      label: Registration Status
+      hint: Registration status of the attendee
+      type: select_one
+      options:
+      - pending
+      - confirmed
+      - declined
+      required: true
+    - id: 9
+      name: session_type
+      label: Session Type
+      hint: Type of session the attendee is registering for
+      type: select_multiple
+      options:
+      - in-person
+      - online
+      - other
+      required: true
+    - id: 10
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: confirmation_email
+      label: Confirmation Email
+      hint: Enter confirmation email
+      type: text
+      options: []
+      required: true

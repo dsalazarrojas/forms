@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Mastocytosis Workshop Registration
+    pages:
+    - id: 1
+      name: section_part
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_or_practice
+      label: Institution or Practice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Hematology
+      - Allergy and Immunology
+      - Pathology
+      - Dermatology
+      - General Internal Medicine
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: for registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_work
+      label: -- Workshop Selection --
+      hint: select the areas you wish to focus on
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: session_interests
+      label: Session Interests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diagnostic Criteria
+      - Treatment Algorithms
+      - Case Studies
+      - Research Frontiers
+      required: false
+    - id: 9
+      name: dietary_preference
+      label: Dietary Preference
+      hint: for on-site lunch
+      type: select_one
+      options:
+      - Omnivore
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      required: false
+    - id: 10
+      name: section_pay
+      label: -- Payment Information --
+      hint: fees include all workshop materials
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: registration_tier
+      label: Registration Tier
+      hint: null
+      type: select_one
+      options:
+      - Professional - 200 USD
+      - Student or Resident - 100 USD
+      - Virtual - 50 USD
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Invoice Request
+      required: true
+    - id: 13
+      name: section_add
+      label: -- Additional Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: specific_questions_for_the_experts
+      label: Specific Questions for the Experts
+      hint: topics you would like addressed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agree_to_recording_policy
+      label: Agree to Recording Policy
+      hint: sessions will be recorded for educational use
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

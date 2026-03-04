@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_giveaway_form
+    pages:
+    - id: 1
+      name: easter_date
+      label: Easter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: easter_time
+      label: Easter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: easter_time_zone
+      label: Easter Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      required: true
+    - id: 6
+      name: easter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: easter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: easter_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

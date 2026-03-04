@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: STEM Fair Attendance Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - Participant
+      - Guest
+      - Team Member
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - STEM
+      - Engineering
+      - Technology
+      - Science
+      - Arts
+      - Humanities
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: attendance
+      label: attendance
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Unknown
+      required: false
+    - id: 10
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Event Organiser
+      - Participant
+      - Team Member
+      required: false
+    - id: 12
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

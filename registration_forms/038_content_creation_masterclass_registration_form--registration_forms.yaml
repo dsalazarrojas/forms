@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Masterclass Registration Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_masterclass_details
+      label: -- Masterclass Details and Payment --
+      hint: Please select your preferred masterclass and provide payment details.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: masterclass_session_selection
+      label: Preferred Masterclass Session
+      hint: null
+      type: select_one
+      options:
+      - Introduction to Content Creation
+      - Advanced Strategy
+      - Visual Storytelling
+      - Video Production
+      - SEO for Creators
+      required: true
+    - id: 7
+      name: registration_fee_payment
+      label: Registration Fee Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true
+    - id: 9
+      name: section_dietary_preferences
+      label: -- Dietary Preferences and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Specific Dietary Restrictions or Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut-free
+      - Dairy-free
+      - Other
+      - None
+      required: false
+    - id: 11
+      name: additional_requirements
+      label: Any additional requirements or accessibility needs?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: registration_completed
+      label: Registration Completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 15
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccination Clinic Pre Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - Routine Checkup
+      - Follow-up Visit
+      - Emergency Visit
+      required: true
+    - id: 9
+      name: insurance_id
+      label: insurance_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_notes
+      label: patient_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: doctor_notes
+      label: doctor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_appointments
+      label: follow_up_appointments
+      hint: null
+      type: select_multiple
+      options:
+      - Routine Checkup
+      - Follow-up Visit
+      - Emergency Visit
+      required: true
+    - id: 15
+      name: follow_up_appointments_time
+      label: follow_up_appointments_time
+      hint: null
+      type: number
+      options: []
+      required: false

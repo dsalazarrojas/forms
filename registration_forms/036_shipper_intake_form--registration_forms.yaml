@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipper_intake_form
+    pages:
+    - id: 1
+      name: pickup_details
+      label: Pickup Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipper_details
+      label: Shipper Details
+      hint: Enter shipper details here
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: package_details
+      label: Package Details
+      hint: Enter package details here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: shipper_phone
+      label: Shipper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipper_email
+      label: Shipper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: shipper_address
+      label: Shipper Address
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: package_weight
+      label: Package Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: shipper_company
+      label: Shipper Company
+      hint: null
+      type: select_one
+      options:
+      - UPS
+      - FedEx
+      - DHL
+      - USPS
+      required: false
+    - id: 11
+      name: shipper_contact_person
+      label: Shipper Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: false
+    - id: 12
+      name: package_length
+      label: Package Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: package_width
+      label: Package Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: package_height
+      label: Package Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: package_notes
+      label: Package Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: package_status
+      label: Package Status
+      hint: null
+      type: select_one
+      options:
+      - In Transit
+      - Delivered
+      - Undeliverable
+      required: false
+    - id: 19
+      name: shipper_notes
+      label: Shipper Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: package_notes
+      label: Package Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: package_tracking_number
+      label: Package Tracking Number
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: shipper_signature
+      label: Shipper Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipper_signature_date
+      label: Shipper Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: shipper_signature_time
+      label: Shipper Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: shipper_signature_note
+      label: Shipper Signature Note
+      hint: null
+      type: note
+      options: []
+      required: false

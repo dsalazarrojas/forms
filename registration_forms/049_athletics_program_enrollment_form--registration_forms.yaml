@@ -1,0 +1,342 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletics Program Enrollment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: Name of school
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 6
+      name: student_id
+      label: Student ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to participant
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: program_selection
+      label: Program Selection
+      hint: Select programs to enroll in
+      type: select_multiple
+      options:
+      - Fall Sports
+      - Winter Sports
+      - Spring Sports
+      - Summer Sports
+      - Year-Round Training
+      - Strength and Conditioning
+      - Skill Development
+      required: true
+    - id: 18
+      name: sport_selection
+      label: Sport Selection
+      hint: Select specific sports
+      type: select_multiple
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Wrestling
+      - Cross Country
+      - Golf
+      - Cheerleading
+      required: true
+    - id: 19
+      name: season
+      label: Season
+      hint: Which season
+      type: select_one
+      options:
+      - Fall
+      - Winter
+      - Spring
+      - Summer
+      - Full Year
+      required: true
+    - id: 20
+      name: school_year
+      label: School Year
+      hint: Academic year
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: previous_participation
+      label: Previous Participation
+      hint: Have you participated before
+      type: select_one
+      options:
+      - Yes - At This School
+      - Yes - At Another School
+      - No - First Time
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: physician_name
+      label: Primary Physician Name
+      hint: Name of regular doctor
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: physician_phone
+      label: Primary Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: physical_exam_date
+      label: Physical Examination Date
+      hint: Date of sports physical
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: medical_clearance
+      label: Medical Clearance Status
+      hint: Is participant cleared for participation
+      type: select_one
+      options:
+      - Cleared Without Restrictions
+      - Cleared With Restrictions
+      - Not Cleared
+      - Pending Review
+      required: true
+    - id: 30
+      name: transportation_plan
+      label: Transportation Plan
+      hint: How will participant get to practices and events
+      type: select_one
+      options:
+      - Parent or Guardian
+      - School Bus
+      - Personal Vehicle
+      - Carpool
+      - Other
+      required: true
+    - id: 31
+      name: program_fee
+      label: Program Fee
+      hint: Fee amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: fee_waiver_needed
+      label: Fee Waiver Needed
+      hint: Do you need a fee waiver
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 33
+      name: code_of_conduct
+      label: Code of Conduct Agreement
+      hint: I agree to follow the athletic code of conduct
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 34
+      name: assumption_of_risk
+      label: Assumption of Risk
+      hint: I understand and accept the risks of athletic participation
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 35
+      name: medical_treatment_permission
+      label: Medical Treatment Permission
+      hint: Permission to seek emergency medical treatment
+      type: select_one
+      options:
+      - Yes - I Grant Permission
+      - 'No'
+      required: true
+    - id: 36
+      name: media_release
+      label: Media Release
+      hint: Permission for photos and media coverage
+      type: select_one
+      options:
+      - Yes - Allowed
+      - No - Not Allowed
+      required: true
+    - id: 37
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Environmental Impact Review Registration
+    pages:
+    - id: 1
+      name: project_registration
+      label: Project Registration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agency_details
+      label: Agency Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consultant_details
+      label: Consultant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_requests
+      label: Review Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: review_deadlines
+      label: Review Deadlines
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: review_start_date
+      label: Review Start Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: review_end_date
+      label: Review End Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: true
+    - id: 10
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Ethics In Education Roundtable Registration
+    pages:
+    - id: 1
+      name: name
+      label: prophets_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: event_organizer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: topic_interests
+      label: topic_interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: prophets_additional_details
+      label: additional_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prophets_topics_of_interests
+      label: topics_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: prophets_agenda_items
+      label: agenda_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: prophets_consent_organizers
+      label: consent_to_organizers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: prophets_consent_researcher
+      label: consent_to_researcher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: prophets_consent_organizers_email
+      label: consent_to_organizers_email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: prophets_consent_researcher_email
+      label: consent_to_researcher_email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: prophets_additional_info
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Booth Waiver Form
+    pages:
+    - id: 1
+      name: terms_acknowledge
+      label: acknowledge_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: terms_acknowledgement_date
+      label: waiver_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: waiver_expiration_date
+      label: waiver_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: exhibitor_signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waiver_agreement
+      label: waiver_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: agreement_acknowledgement
+      label: agreement_acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_details
+      label: event_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: waiver_agreement_signed
+      label: waiver_agreement_signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

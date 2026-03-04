@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Golf Registration Form
+    pages:
+    - id: 1
+      name: golf_registration_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: are_you_good_at_golf
+      label: are_you_good_at_golf
+      hint: null
+      type: select_one
+      options:
+      - Are you good at playing golf?
+      - I'm a pro
+      - Average
+      - Novice
+      - Beginner
+      required: false
+    - id: 6
+      name: team_member_count
+      label: team_member_count
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 7
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: team_selection
+      label: team_selection
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 9
+      name: golf_club_member
+      label: golf_club_member
+      hint: null
+      type: select_multiple
+      options:
+      - Member
+      - Non-Member
+      required: false
+    - id: 10
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: false

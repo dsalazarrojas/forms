@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibition_space_release_form
+    pages:
+    - id: 1
+      name: exhibitor_info
+      label: exhibitor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booth_info
+      label: booth_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: booth_requests
+      label: booth_requests
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Request 1'', ''value'': ''Request 1''}'
+      - '{''label'': ''Request 2'', ''value'': ''Request 2''}'
+      - '{''label'': ''Request 3'', ''value'': ''Request 3''}'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

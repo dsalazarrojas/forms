@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Hospitality Cluster Registration Form
+    pages:
+    - id: 1
+      name: cluster_name
+      label: Cluster Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cluster_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cluster_interest_areas
+      label: Interest Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: cluster_type
+      label: Cluster Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: cluster_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: company_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: company_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: company_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: company_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: company_phone_extension
+      label: Phone Extension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: company_phone2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: phone2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ext_phone
+      label: Phone Extension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: company_rep
+      label: Company Rep
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: network_type
+      label: Network Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: network_status
+      label: Network Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

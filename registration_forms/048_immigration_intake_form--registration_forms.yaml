@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Immigration Intake Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_birth_date
+      label: client_birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: immigration_event
+      label: immigration_event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: immigration_event_other
+      label: immigration_event_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: immigration_country
+      label: immigration_country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: attorney_name
+      label: attorney_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attorney_email
+      label: attorney_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: attorney_phone
+      label: attorney_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: legal_issues
+      label: legal_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: immigration_status
+      label: immigration_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: immigration_location
+      label: immigration_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

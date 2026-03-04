@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Inclusion Forum Registration
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: Address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Event 1''}'
+      - '{''id'': 2, ''name'': ''Event 2''}'
+      - '{''id'': 3, ''name'': ''Event 3''}'
+      required: false
+    - id: 10
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Accessibility needs
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Wheelchair''}'
+      - '{''id'': 2, ''name'': ''Sign Language''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_title_confirmation
+      label: Form Title Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Form 1''}'
+      - '{''id'': 2, ''name'': ''Form 2''}'
+      - '{''id'': 3, ''name'': ''Form 3''}'
+      required: false
+    - id: 13
+      name: additional_info_2
+      label: Additional Info 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phone 1''}'
+      - '{''id'': 2, ''name'': ''Phone 2''}'
+      required: false
+    - id: 15
+      name: accessibility_needs_2
+      label: Accessibility Needs 2
+      hint: Accessibility needs 2
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Wheelchair 2''}'
+      - '{''id'': 2, ''name'': ''Sign Language 2''}'
+      - '{''id'': 3, ''name'': ''Other 2''}'
+      required: false
+    - id: 16
+      name: additional_info_3
+      label: Additional Info 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_email_2
+      label: Contact Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: additional_info_4
+      label: Additional Info 4
+      hint: null
+      type: note
+      options: []
+      required: false

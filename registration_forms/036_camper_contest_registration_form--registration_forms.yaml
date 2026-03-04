@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Contest Registration Form
+    pages:
+    - id: 1
+      name: contestant_first_name
+      label: Contestant First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contestant_last_name
+      label: Contestant Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contest_name
+      label: Contest Name
+      hint: Which contest are you entering
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contest_category
+      label: Contest Category
+      hint: Select category
+      type: select_one
+      options:
+      - Arts and crafts
+      - Photography
+      - Writing
+      - Sports competition
+      - Talent show
+      - Cooking
+      - Science project
+      - Other
+      required: true
+    - id: 14
+      name: entry_title
+      label: Entry Title or Description
+      hint: Name of your entry
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: entry_description
+      label: Entry Description
+      hint: Describe your entry
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: previous_participation
+      label: Have You Participated Before
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - first time
+      required: true
+    - id: 17
+      name: age_division
+      label: Age Division
+      hint: Auto-calculated or select
+      type: select_one
+      options:
+      - Junior (under 12)
+      - Teen (13-17)
+      - Adult (18+)
+      required: true
+    - id: 18
+      name: team_or_individual
+      label: Team or Individual Entry
+      hint: Select type
+      type: select_one
+      options:
+      - Individual
+      - Team
+      required: true
+    - id: 19
+      name: team_name
+      label: Team Name
+      hint: If team entry
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_members
+      label: Team Members
+      hint: List all team members
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_deadline
+      label: Submission Deadline
+      hint: When will you submit
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: rules_acknowledged
+      label: I Have Read and Agree to Contest Rules
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 25
+      name: liability_waiver
+      label: I Accept the Liability Waiver
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 26
+      name: publicity_release
+      label: I Allow My Entry to Be Used for Publicity
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I give permission
+      - false
+      required: true
+    - id: 27
+      name: contestant_signature
+      label: Contestant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

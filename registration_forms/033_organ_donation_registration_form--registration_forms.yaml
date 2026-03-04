@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organ Donation Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': ''None'', ''label'': ''None''}'
+      - '{''id'': 1, ''name'': ''kidney_disease'', ''label'': ''Kidney disease''}'
+      - '{''id'': 2, ''name'': ''diabetes'', ''label'': ''diabetes''}'
+      - '{''id'': 3, ''name'': ''heart_disease'', ''label'': ''heart disease''}'
+      - '{''id'': 4, ''name'': ''lung_disease'', ''label'': ''lung disease''}'
+      required: false
+    - id: 8
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''name'': ''None'', ''label'': ''None''}'
+      - '{''id'': 1, ''name'': ''a_positive'', ''label'': ''A+''}'
+      - '{''id'': 2, ''name'': ''a_negative'', ''label'': ''A-''}'
+      - '{''id'': 3, ''name'': ''b_positive'', ''label'': ''B+''}'
+      - '{''id'': 4, ''name'': ''ab_positive'', ''label'': ''AB+''}'
+      - '{''id'': 5, ''name'': ''ab_negative'', ''label'': ''AB-''}'
+      - '{''id'': 6, ''name'': ''b_negative'', ''label'': ''B-''}'
+      - '{''id'': 7, ''name'': ''o_positive'', ''label'': ''O+''}'
+      - '{''id'': 8, ''name'': ''o_negative'', ''label'': ''O-''}'
+      - '{''id'': 9, ''name'': ''ab_positive'', ''label'': ''AB''}'
+      required: false
+    - id: 9
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_donation
+      label: Confirm Donation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': False, ''label'': False}'
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      required: false
+    - id: 11
+      name: confirm_address
+      label: Confirm Address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''name'': False, ''label'': False}'
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      required: false

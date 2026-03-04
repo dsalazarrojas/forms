@@ -1,0 +1,336 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birthday Party Checklist Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birthday Party Planning Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Track all your party planning details
+      hint: Complete this checklist to organize your party
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_party_basics
+      label: -- Party Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: birthday_person_name
+      label: Birthday Person's Name
+      hint: Who is the party for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: party_date
+      label: Party Date
+      hint: When is the party
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: party_time
+      label: Party Start Time
+      hint: What time does party begin
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: party_duration
+      label: Party Duration
+      hint: How long will party last
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: party_location
+      label: Party Location
+      hint: Where is the party
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: party_theme
+      label: Party Theme
+      hint: Any theme for the party
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_guest_list
+      label: -- Guest List and Invitations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: guest_list_status
+      label: Guest List Status
+      hint: Have you created the guest list
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 12
+      name: total_guests_invited
+      label: Total Guests to Invite
+      hint: How many people
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: invitations_sent
+      label: Invitations Sent
+      hint: Have invitations been sent
+      type: select_one
+      options:
+      - Yes, All Sent
+      - Partially Sent
+      - Not Yet Sent
+      required: true
+    - id: 14
+      name: rsvp_received
+      label: RSVPs Received
+      hint: How many have responded
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: rsvp_deadline
+      label: RSVP Deadline
+      hint: When do you need responses by
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: section_food_drink
+      label: -- Food and Drink --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: menu_planned
+      label: Menu Planned
+      hint: Have you decided what to serve
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 18
+      name: menu_items
+      label: Planned Menu Items
+      hint: List food and drinks
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cake_ordered
+      label: Cake Status
+      hint: Have you ordered the cake
+      type: select_one
+      options:
+      - Ordered
+      - In Progress
+      - Not Yet Ordered
+      required: true
+    - id: 20
+      name: cake_details
+      label: Cake Details
+      hint: Flavor, size, design, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: catering_needed
+      label: Catering or Takeout Needed
+      hint: Do you need catering services
+      type: select_one
+      options:
+      - Yes - Scheduled
+      - Yes - Need to Schedule
+      - No - DIY
+      - No - Potluck
+      required: true
+    - id: 22
+      name: dietary_accommodations
+      label: Dietary Accommodations Arranged
+      hint: Vegetarian, allergies, etc.
+      type: select_one
+      options:
+      - Yes, Arranged
+      - Partially Arranged
+      - Not Arranged
+      - Not Needed
+      required: true
+    - id: 23
+      name: section_decorations
+      label: -- Decorations and Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: decorations_planned
+      label: Decorations Status
+      hint: Have you planned decorations
+      type: select_one
+      options:
+      - Planned and Purchased
+      - Planned - Need to Purchase
+      - Not Planned
+      required: true
+    - id: 25
+      name: decoration_items
+      label: Decoration Items Needed
+      hint: Balloons, banners, flowers, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: venue_setup
+      label: Venue Setup Plan
+      hint: How will you arrange the space
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_activities_entertainment
+      label: -- Activities and Entertainment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: activities_planned
+      label: Activities Planned
+      hint: Games, crafts, music, etc.
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: entertainment_booked
+      label: Entertainment Status
+      hint: DJ, entertainer, face painter, etc.
+      type: select_one
+      options:
+      - Booked and Confirmed
+      - In Negotiation
+      - Not Needed
+      - Not Yet Arranged
+      required: true
+    - id: 30
+      name: music_playlist
+      label: Music Playlist Ready
+      hint: Have you prepared a playlist
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Using DJ or Streaming Service
+      required: true
+    - id: 31
+      name: section_supplies
+      label: -- Supplies and Party Favors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: party_favors_status
+      label: Party Favors Status
+      hint: Have you got party favors
+      type: select_one
+      options:
+      - Purchased and Ready
+      - Partially Ready
+      - Still Need to Purchase
+      - Not Planning Favors
+      required: true
+    - id: 33
+      name: supplies_needed
+      label: Supplies to Purchase
+      hint: Plates, cups, napkins, utensils
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: supplies_purchased
+      label: Supplies Purchased
+      hint: Have you bought supplies
+      type: select_one
+      options:
+      - All Purchased
+      - Partially Purchased
+      - Not Yet Purchased
+      required: true
+    - id: 35
+      name: section_final_tasks
+      label: -- Final Tasks and Confirmations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: venue_confirmed
+      label: Venue Confirmed
+      hint: Location is booked and confirmed
+      type: select_one
+      options:
+      - Confirmed
+      - Pending
+      - Not Needed
+      required: true
+    - id: 37
+      name: all_arrangements_confirmed
+      label: All Arrangements Confirmed
+      hint: Have you confirmed all vendors
+      type: select_one
+      options:
+      - Yes, All Confirmed
+      - Some Pending
+      - Several Pending
+      required: true
+    - id: 38
+      name: emergency_plan
+      label: Emergency Plan in Place
+      hint: Do you have backup plans
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 39
+      name: checklist_complete
+      label: Overall Checklist Status
+      hint: How complete is your planning
+      type: select_one
+      options:
+      - Fully Complete
+      - Mostly Complete
+      - About Halfway
+      - Just Beginning
+      required: true
+    - id: 40
+      name: notes_or_reminders
+      label: Additional Notes or Reminders
+      hint: Any last-minute items to remember
+      type: text
+      options: []
+      required: false

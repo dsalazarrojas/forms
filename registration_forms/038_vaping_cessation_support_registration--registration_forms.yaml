@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaping Cessation Support Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_support_method
+      label: Preferred Support Method
+      hint: null
+      type: select_one
+      options:
+      - Counseling
+      - Text Messaging
+      - Online Program
+      - Phone
+      - Other
+      - None
+      required: true
+    - id: 8
+      name: support_frequency
+      label: Support Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 9
+      name: quit_reason
+      label: Quit Reason
+      hint: null
+      type: select_one
+      options:
+      - To improve my health
+      - To set a good example
+      - To quit smoking and vaping
+      - To be a role model
+      - Other
+      - None
+      required: true

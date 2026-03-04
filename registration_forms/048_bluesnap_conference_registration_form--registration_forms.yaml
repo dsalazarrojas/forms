@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Conference Registration Form
+    pages:
+    - id: 1
+      name: conference_intro
+      label: -- Conference Registration --
+      hint: Join us for three days of learning and networking
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Manufacturing
+      - Education
+      - Other
+      required: true
+    - id: 9
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - General admission
+      - VIP pass
+      - Student
+      - Group (5+)
+      required: true
+    - id: 10
+      name: registration_price
+      label: Registration Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Meals provided
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: interested_sessions
+      label: Sessions of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Keynote speech
+      - Workshop A - Innovation
+      - Workshop B - Strategy
+      - Panel discussion
+      - Networking lunch
+      - Evening reception
+      required: true
+    - id: 14
+      name: networking_interests
+      label: Networking Interests
+      hint: Industries/specialties to connect with
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_time_attendee
+      label: Is this your first time attending?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: sponsor_company
+      label: Company sponsorship interest?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Invoice
+      required: true
+    - id: 18
+      name: marketing_consent
+      label: Opt in to conference updates and future events?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

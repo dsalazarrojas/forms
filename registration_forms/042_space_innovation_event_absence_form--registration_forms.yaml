@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Space Innovation Event Absence Form
+    pages:
+    - id: 1
+      name: event_absence_form_1
+      label: Event Absence Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_absence_reason
+      label: participant absence reason
+      hint: null
+      type: select_one
+      options:
+      - Unable to attend
+      - Conflict of interest
+      - Other (Please specify)
+      required: false
+    - id: 3
+      name: event_absence_date
+      label: event absence date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: participant_absence_note
+      label: participant absence note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_absence_email
+      label: participant absence email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_absence_phone
+      label: participant absence phone
+      hint: null
+      type: text
+      options: []
+      required: false

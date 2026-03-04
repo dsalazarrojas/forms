@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Plan Participant Information
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_dob
+      label: participant_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: participant_id_number
+      label: participant_id_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: participant_group
+      label: participant_group
+      hint: null
+      type: select_one
+      options:
+      - Group A
+      - Group B
+      - Group C
+      required: false
+    - id: 8
+      name: participant_plan
+      label: participant_plan
+      hint: null
+      type: select_multiple
+      options:
+      - Plan A
+      - Plan B
+      - Plan C
+      required: false

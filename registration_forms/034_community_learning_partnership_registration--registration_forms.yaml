@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Learning Partnership Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Partnership Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or school
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact email
+      hint: For partnership coordination
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: program_interest
+      label: Programs of interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tutoring
+      - Mentoring
+      - Curriculum development
+      - Workshops
+      required: true
+    - id: 6
+      name: available_times
+      label: Available times for partnership
+      hint: Indicate days or times available
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_participants
+      label: Number of participants you can support
+      hint: If offering classes or workshops
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: resources_offered
+      label: Resources offered
+      hint: Space, materials, instructors, or funding
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: partnership_goals
+      label: Partnership goals
+      hint: Briefly describe expected outcomes
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_to_share
+      label: Consent to share contact with partners
+      hint: Agree to share details for collaboration
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

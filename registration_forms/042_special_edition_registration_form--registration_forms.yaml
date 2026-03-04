@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Edition Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: Password
+      hint: Password should be 8 or more characters
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: special_offer
+      label: Special Offer
+      hint: null
+      type: select_one
+      options:
+      - Limited Offer A
+      - Limited Offer B
+      - Limited Offer C
+      required: false
+    - id: 11
+      name: confirm_offer
+      label: Confirm Offer
+      hint: null
+      type: select_multiple
+      options:
+      - Limited Offer A
+      - Limited Offer B
+      - Limited Offer C
+      required: false
+    - id: 12
+      name: registered_at
+      label: Registered At
+      hint: null
+      type: select_multiple
+      options:
+      - Today
+      - Yesterday
+      - This week
+      - This month
+      - This year
+      required: false

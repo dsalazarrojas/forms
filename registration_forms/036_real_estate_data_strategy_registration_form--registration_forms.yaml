@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_data_strategy_registration_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interests
+      label: What are your interests?
+      hint: null
+      type: select_multiple
+      options:
+      - Real estate development
+      - Real estate investments
+      - Holding company management
+      - Property development projects
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sydney''}'
+      - '{''id'': 2, ''label'': ''Melbourne''}'
+      - '{''id'': 3, ''label'': ''Brisbane''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: participant_details_2
+      label: Participant Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth (if applicable)
+      hint: Please provide date of birth if applicable
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: upload_file
+      label: Upload file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_details_3
+      label: Participant Details 3
+      hint: null
+      type: text
+      options: []
+      required: false

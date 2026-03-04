@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Trainer Recommendation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: goal
+      label: Fitness Goal
+      hint: null
+      type: select_one
+      options:
+      - Weight Loss
+      - Muscle Gain
+      - Fat Loss
+      - Endurance
+      - Strength Increase
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 8
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: availability_time
+      label: Availability Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: trainer_preference
+      label: Trainer Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Personal Training
+      - Group Training
+      - Small Group Training
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Friend
+      - Other
+      required: false
+    - id: 15
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: personal_trainer_recommendation
+      label: Personal Trainer Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trainer_contact_email
+      label: Trainer Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: trainer_contact_phone
+      label: Trainer Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: trainer_experience_level
+      label: Trainer Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 22
+      name: trainer_availability
+      label: Trainer Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - All Day
+      required: false
+    - id: 23
+      name: training_days
+      label: Training Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 24
+      name: training_times
+      label: Training Times
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true

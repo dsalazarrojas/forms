@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Project Management Workshop Registration
+    pages:
+    - id: 1
+      name: participant_header
+      label: '--- Attendee Information ---'
+      hint: Standard registration details for the AI PM Workshop.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_email
+      label: Work Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company / Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pm_experience_years
+      label: Years of Experience in Project Management
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pm_background_header
+      label: '--- PM Background & Tools ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_methodology
+      label: Primary Project Management Methodology
+      hint: Which do you use most often?
+      type: select_one
+      options:
+      - label: Agile / Scrum
+        value: agile
+      - label: Waterfall
+        value: waterfall
+      - label: Kanban
+        value: kanban
+      - label: Lean
+        value: lean
+      - label: Hybrid
+        value: hybrid
+      required: true
+    - id: 9
+      name: pm_tools_used
+      label: Which PM tools do you currently use?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Jira / Atlassian
+        value: jira
+      - label: Asana
+        value: asana
+      - label: Monday.com
+        value: monday
+      - label: Trello
+        value: trello
+      - label: Microsoft Project
+        value: ms_project
+      - label: ClickUp
+        value: clickup
+      required: true
+    - id: 10
+      name: ai_pm_challenges
+      label: What is your biggest challenge in managing AI projects?
+      hint: Select your top concern.
+      type: select_one
+      options:
+      - label: Managing Data Quality and Availability
+        value: data_issues
+      - label: Uncertain ROI and Timeline Estimates
+        value: roi_uncertainty
+      - label: Bridging the gap between Devs and Stakeholders
+        value: communication
+      - label: Ethical and Compliance Oversight
+        value: ethics
+      - label: Keeping up with Rapid Tech Changes
+        value: tech_pace
+      required: true
+    - id: 11
+      name: workshop_details_header
+      label: '--- Workshop Selection & Logistics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: session_selection
+      label: Select Your Workshop Track
+      hint: null
+      type: select_one
+      options:
+      - label: AI PM Essentials (Planning & Scoping)
+        value: essentials
+      - label: Advanced AI PM (Lifecycle & MLOps Governance)
+        value: advanced
+      required: true
+    - id: 13
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: null
+      type: select_one
+      options:
+      - label: October 05-06, 2026
+        value: oct_session
+      - label: November 12-13, 2026
+        value: nov_session
+      required: true
+    - id: 14
+      name: attendance_format
+      label: Attendance Format
+      hint: null
+      type: select_one
+      options:
+      - label: Virtual (Live Interactive)
+        value: virtual
+      - label: In-Person (London Hub)
+        value: in_person
+      required: true
+    - id: 15
+      name: discount_code
+      label: Discount Code (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - label: Corporate Credit Card
+        value: credit_card
+      - label: Bank Transfer / Invoice
+        value: bank_transfer
+      required: true
+    - id: 17
+      name: certificate_required
+      label: Do you require a Certificate of Completion for PDU credits?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 18
+      name: registration_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Waiver Form
+    pages:
+    - id: 1
+      name: personal_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: residential_address
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: participation_details_header
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_event_name
+      label: Organization or Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sport_activity
+      label: Sport or Activity Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participation_season
+      label: Season or Event Date Range
+      hint: e.g. 2025-2026 Academic Year
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: risk_waiver_header
+      label: -- Risk Acknowledgment and Waiver --
+      hint: Please read each section carefully
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: physical_risk_acknowledgment
+      label: I acknowledge the inherent physical risks associated with this activity
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 13
+      name: risk_assumption
+      label: I voluntarily assume all risks of injury or loss related to participation
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge and assume all risks
+      - Other
+      required: true
+    - id: 14
+      name: liability_release
+      label: I release the Organization from any and all liability for injuries
+      hint: null
+      type: select_one
+      options:
+      - I agree to release liability
+      - Other
+      required: true
+    - id: 15
+      name: indemnification_agreement
+      label: I agree to indemnify and hold harmless the Organization from any claims
+      hint: null
+      type: select_one
+      options:
+      - I agree to indemnify
+      - Other
+      required: true
+    - id: 16
+      name: medical_insurance_header
+      label: -- Medical and Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fitness_certification
+      label: I certify that I am physically fit to participate in the activity
+      hint: null
+      type: select_one
+      options:
+      - I certify fitness
+      - Other
+      required: true
+    - id: 18
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_medical_consent
+      label: I consent to emergency medical treatment if deemed necessary
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - Other
+      required: true
+    - id: 21
+      name: media_release_header
+      label: -- Media and Image Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: likeness_consent
+      label: I consent to the use of my image or likeness in promotional materials
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 23
+      name: sign_off_header
+      label: -- Final Acknowledgment and Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: understanding_certification
+      label: I have read and fully understand the terms of this waiver
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 25
+      name: athlete_signature
+      label: Athlete Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: guardian_signature
+      label: Parent or Guardian Electronic Signature
+      hint: Required if athlete is under 18 years of age
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: guardian_relationship
+      label: Relationship to Minor
+      hint: If signed by guardian
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

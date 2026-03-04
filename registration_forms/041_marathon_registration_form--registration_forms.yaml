@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marathon Registration Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter emergency contact info if necessary
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter phone number of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_availability
+      label: Participant Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: participant_availability_time
+      label: Participant Availability Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shirt_size
+      label: Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 9
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Red
+      - Green
+      required: false
+    - id: 10
+      name: shirt_style
+      label: Shirt Style
+      hint: null
+      type: select_one
+      options:
+      - Short sleeve
+      - Long sleeve
+      required: false
+    - id: 11
+      name: finisher_shirt
+      label: Finisher Shirt
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: finisher_bib
+      label: Finisher Bib
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: participant_notes
+      label: Participant Notes
+      hint: Enter any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: select_multiple
+      options:
+      - Medical
+      - Language interpreter
+      - Scribe
+      required: false
+    - id: 15
+      name: finisher_sheriff
+      label: Finisher Sheriff
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 16
+      name: finisher_sheriff_name
+      label: Finisher Sheriff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: finisher_sheriff_name_alt
+      label: Finisher Sheriff Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: finisher_sheriff_phone
+      label: Finisher Sheriff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: finisher_sheriff_email
+      label: Finisher Sheriff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: finisher_sheriff_bio
+      label: Finisher Sheriff Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_division
+      label: Participant Division
+      hint: null
+      type: select_one
+      options:
+      - Marathon
+      - Half-marathon
+      - 5K
+      required: false
+    - id: 22
+      name: participant_division_alt
+      label: Participant Division Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_division_alt2
+      label: Participant Division 2
+      hint: null
+      type: select_multiple
+      options:
+      - Marathon
+      - Half-marathon
+      required: false
+    - id: 24
+      name: participant_division_alt3
+      label: Participant Division 3
+      hint: null
+      type: select_one
+      options:
+      - Marathon
+      - Half-marathon
+      required: false
+    - id: 25
+      name: participant_comments
+      label: Participant Comments
+      hint: Enter any additional comments
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Race Registration Form
+    pages:
+    - id: 1
+      name: participant_info_header_race
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_race
+      label: Participant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_dob_race
+      label: Date of Birth
+      hint: To verify age and eligibility
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_email_race
+      label: Email Address
+      hint: For registration confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone_race
+      label: Phone Number
+      hint: Primary contact for the race
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: driver_license_number
+      label: Driver's License Number
+      hint: (Valid state license)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: racing_experience_header
+      label: -- Racing Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: racing_experience_years
+      label: Years of Racing Experience
+      hint: (If any)
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: racing_license_held
+      label: Do you hold a professional racing license?
+      hint: e.g., FIA, SCCA, NASA
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: vehicle_info_race_header
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_make_model_race
+      label: Car Make and Model
+      hint: Describe the car you will be racing
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_year_race
+      label: Vehicle Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_vin_race
+      label: Vehicle Identification Number (VIN)
+      hint: 17-character VIN code
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: racing_class_preference
+      label: Desired Racing Class
+      hint: Select the class you will compete in
+      type: select_one
+      options:
+      - Street Stock
+      - GT Class
+      - Modified Class
+      - Open Wheel
+      - Electric Class
+      required: true
+    - id: 15
+      name: emergency_contact_header_race
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_full_name_race
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone_race
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: race_verification_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: race_acknowledgement
+      label: I acknowledge the car race registration terms and safety regulations
+      hint: See event website for details
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: signature_confirmation_race
+      label: Type your name for race registration confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_race_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the race
+      type: text
+      options: []
+      required: false

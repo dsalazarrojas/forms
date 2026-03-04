@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Team Cohesion Program Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: team_lead_job_title
+      label: Team Lead Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: Please list all team members that will be participating in the program.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: team_member_roles
+      label: Team Member Roles
+      hint: List the roles that each team member will have.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: work_days
+      label: Work Days
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: timezone
+      label: Timezone
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: time_zone_offset
+      label: Timezone Offset
+      hint: If not in the US Eastern time zone, please provide the correct time zone
+        offset in UTC.
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: team_lead_address
+      label: Team Lead Address
+      hint: Provide the team lead's physical work address.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: team_lead_availability
+      label: Team Lead Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: team_dynamics
+      label: Team Dynamics
+      hint: Provide information about team dynamics and collaboration.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: communication_channels
+      label: Communication Channels
+      hint: Please list the communication channels your team uses for collaboration.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: collaboration_technologies
+      label: Collaboration Tools
+      hint: List the collaboration tools your team uses.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: How often does your team collaborate?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: collaboration_style
+      label: Collaboration Style
+      hint: How does your team collaborate?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: team_lead_collaboration_experience
+      label: Team Lead Collaboration Experience
+      hint: What collaboration experience does the team lead have.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_lead_management_experience
+      label: Team Lead Management Experience
+      hint: What management experience does the team lead have.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

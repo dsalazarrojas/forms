@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Filter Form
+    pages:
+    - id: 1
+      name: registration_filter_form
+      label: registration_filter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: categories
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: registration_type
+      label: registration_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_age_range
+      label: participant_age_range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_type
+      label: attendee_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_status
+      label: event_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: registration_method
+      label: registration_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: registration_source
+      label: registration_source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false

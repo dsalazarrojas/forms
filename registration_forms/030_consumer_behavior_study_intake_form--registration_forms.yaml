@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Behavior Study Intake Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: false
+    - id: 7
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: education_level
+      label: Education Level
+      hint: Highest level completed
+      type: select_one
+      options:
+      - High School or Less
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: false
+    - id: 9
+      name: employment_status
+      label: Employment Status
+      hint: Current employment status
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 10
+      name: occupation
+      label: Occupation
+      hint: Current job or profession
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: household_income
+      label: Household Income
+      hint: Select your income bracket
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000 - $49,999
+      - $50,000 - $74,999
+      - $75,000 - $99,999
+      - $100,000 - $149,999
+      - $150,000+
+      - Prefer Not to Say
+      required: false
+    - id: 12
+      name: marital_status
+      label: Marital Status
+      hint: Select your status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Domestic Partnership
+      required: false
+    - id: 13
+      name: children_count
+      label: Number of Children
+      hint: Number of children under 18
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: shopping_habits
+      label: Shopping Habits
+      hint: Describe your typical shopping habits
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: preferred_stores
+      label: Preferred Stores
+      hint: Where do you usually shop
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: online_shopping_frequency
+      label: Online Shopping Frequency
+      hint: How often do you shop online
+      type: select_one
+      options:
+      - Daily
+      - Several Times a Week
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 17
+      name: product_categories
+      label: Product Categories Purchased
+      hint: Select categories you buy
+      type: select_multiple
+      options:
+      - Groceries
+      - Clothing
+      - Electronics
+      - Home Goods
+      - Beauty Products
+      - Health Products
+      - Sports and Outdoors
+      - Books and Media
+      - Toys and Games
+      - Other
+      required: true
+    - id: 18
+      name: brand_preferences
+      label: Brand Preferences
+      hint: Do you prefer specific brands
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: decision_factors
+      label: Purchase Decision Factors
+      hint: What influences your purchases
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Brand
+      - Reviews
+      - Recommendations
+      - Convenience
+      - Sustainability
+      - Promotions
+      - Packaging
+      - Availability
+      required: true
+    - id: 20
+      name: media_consumption
+      label: Media Consumption
+      hint: What media do you regularly consume
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: social_media_usage
+      label: Social Media Usage
+      hint: Select platforms you use
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - LinkedIn
+      - Pinterest
+      - YouTube
+      - None
+      required: false
+    - id: 22
+      name: study_availability
+      label: Availability for Study
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      - Flexible
+      required: true
+    - id: 23
+      name: participation_interest
+      label: Why Do You Want to Participate
+      hint: Your motivation for joining
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_studies
+      label: Have You Participated in Studies Before
+      hint: Select if you have prior experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: referral_source
+      label: How Did You Hear About This Study
+      hint: Source of information
+      type: select_one
+      options:
+      - Online Advertisement
+      - Social Media
+      - Email
+      - Flyer
+      - Referral
+      - Other
+      required: false

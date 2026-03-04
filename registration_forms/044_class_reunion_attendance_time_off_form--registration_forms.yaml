@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Reunion Attendance Time Off Form
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: maiden_name
+      label: Maiden Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: class_section
+      label: Class Section or Grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: Current City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reunion_header
+      label: -- Reunion Attendance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reunion_date
+      label: Reunion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: attendance_confirmation
+      label: Will you attend the class reunion
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I will not attend
+      - Maybe, not sure yet
+      required: true
+    - id: 14
+      name: number_of_guests
+      label: Number of Guests Attending With You
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: guest_names
+      label: Names of Guests
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: time_off_header
+      label: -- Time Off Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: employer_name
+      label: Current Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: time_off_needed
+      label: Time Off Needed from Work
+      hint: null
+      type: select_one
+      options:
+      - Half day
+      - Full day
+      - Multiple days
+      - Not applicable - self-employed or retired
+      - Not applicable - not working
+      required: true
+    - id: 19
+      name: start_date
+      label: Time Off Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: end_date
+      label: Time Off End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: travel_plans_header
+      label: -- Travel and Accommodation Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: arrival_date
+      label: Planned Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: departure_date
+      label: Planned Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: accommodation_needed
+      label: Hotel Accommodation Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure yet
+      required: false
+    - id: 25
+      name: special_needs_header
+      label: -- Special Needs and Dietary Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_requests
+      label: Any Special Requests or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

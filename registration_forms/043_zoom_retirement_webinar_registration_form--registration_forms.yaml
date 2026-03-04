@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: zoom_retirement_webinar_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tier_2_status
+      label: tier 2 status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - retiring
+      required: false
+    - id: 6
+      name: financial_goals
+      label: financial goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_with_nypd
+      label: years with nypd
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: expected_retirement_date
+      label: expected retirement date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: financial_institutions
+      label: financial institutions
+      hint: null
+      type: select_multiple
+      options:
+      - bank
+      - brokerage
+      - mutual fund
+      - 401k
+      required: false
+    - id: 10
+      name: current_investments
+      label: current investments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: financial_assets
+      label: financial assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: financial_objectives
+      label: financial objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: seminar_suggestions
+      label: seminar suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: seminar_topics
+      label: seminar topics
+      hint: null
+      type: select_multiple
+      options:
+      - financial planning
+      - asset accumulation
+      - risk management
+      - retirement planning
+      required: false
+    - id: 15
+      name: registration_confirmation
+      label: registration confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false

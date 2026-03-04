@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest House Registration Form
+    pages:
+    - id: 1
+      name: proprietor_name
+      label: Proprietor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Guest House
+      - Hotel
+      - Resort
+      - Bed and Breakfast
+      - Hostel
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_image_url
+      label: Property Image URL
+      hint: null
+      type: select_multiple
+      options:
+      - Image 1
+      - Image 2
+      - Image 3
+      required: true
+    - id: 9
+      name: property_image_url_2
+      label: More Property Images
+      hint: null
+      type: select_multiple
+      options:
+      - Image 4
+      - Image 5
+      required: false
+    - id: 10
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: property_location
+      label: Property Location
+      hint: null
+      type: select_multiple
+      options:
+      - Europe
+      - Asia
+      - Australia
+      - Africa
+      - North America
+      required: true
+    - id: 13
+      name: property_currency
+      label: Property Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - INR
+      required: true
+    - id: 14
+      name: property_rate
+      label: Property Rate
+      hint: null
+      type: select_one
+      options:
+      - Per Day
+      - Per Week
+      - Per Month
+      - Per Year
+      required: true
+    - id: 15
+      name: property_services
+      label: Property Services
+      hint: null
+      type: select_multiple
+      options:
+      - Free Wi-Fi
+      - Breakfast Included
+      - Parking Available
+      required: true
+    - id: 16
+      name: proprietor_name_2
+      label: Proprietor Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_address_2
+      label: Property Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_status_2
+      label: Property Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: property_type_2
+      label: Property Type 2
+      hint: null
+      type: select_one
+      options:
+      - Guest House
+      - Hotel
+      - Resort
+      - Bed and Breakfast
+      - Hostel
+      required: false
+    - id: 23
+      name: property_location_2
+      label: Property Location 2
+      hint: null
+      type: select_multiple
+      options:
+      - Europe
+      - Asia
+      - Australia
+      - Africa
+      - North America
+      required: false
+    - id: 24
+      name: property_currency_2
+      label: Property Currency 2
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      - INR
+      required: false
+    - id: 25
+      name: property_rate_2
+      label: Property Rate 2
+      hint: null
+      type: select_one
+      options:
+      - Per Day
+      - Per Week
+      - Per Month
+      - Per Year
+      required: false

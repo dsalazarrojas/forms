@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Studio Participation Release Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_info
+      label: medical information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_relationship
+      label: relationship to emergency contact
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Sibling
+      - Spouse
+      - Other
+      required: false
+    - id: 5
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I, the participant, hereby grant permission for the dance studio to share
+        my contact information with other participants.
+      - I, the participant, hereby grant permission for the dance studio to share
+        my contact information with other participants and their families.
+      - Other (please specify below)
+      required: true
+    - id: 6
+      name: emergency_contact_relationship_specify
+      label: relationship to emergency contact (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_number
+      label: emergency contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Heart condition
+      - Diabetes
+      - Asthma
+      - Other
+      - Allergies
+      required: false
+    - id: 11
+      name: medical_condition_specify
+      label: medical condition (specify)
+      hint: null
+      type: text
+      options: []
+      required: false

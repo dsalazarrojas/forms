@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survivor Pool Participation Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weekly_picks_form
+      label: Weekly Picks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: Enter contact information for each member
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_info
+      label: Member Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_info
+      label: Team Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_roster
+      label: Team Roster
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pick_submission
+      label: Picks Submission
+      hint: Submit picks for each team
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pick_confirmation
+      label: Picks Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: pick_submission_confirmation
+      label: Picks Submission Confirmation
+      hint: Submit to confirm picks
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: entry_info
+      label: Entry Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entry_confirmation
+      label: Entry Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Stripe
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_details
+      label: Team Details
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Remote
+      - Virtual
+      required: false
+    - id: 15
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Withdrawn
+      required: false
+    - id: 16
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Unpaid
+      required: false
+    - id: 17
+      name: season_details
+      label: Season Details
+      hint: Season details and settings
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: team_name
+      label: Team Name
+      hint: Team name (max 20 characters)
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: member_count
+      label: Member Count
+      hint: Number of members in team
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: entry_id
+      label: Entry ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: registration_fee
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: season_length
+      label: Season Length
+      hint: Number of weeks
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: start_date
+      label: Start Date
+      hint: Date and time
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: end_date
+      label: End Date
+      hint: Date and time
+      type: date
+      options: []
+      required: false

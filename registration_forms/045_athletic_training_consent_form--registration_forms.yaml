@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Training Consent Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: Name of school
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 6
+      name: sport
+      label: Sport
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Wrestling
+      - Cross Country
+      - Golf
+      - Cheerleading
+      - Other
+      required: true
+    - id: 7
+      name: training_program
+      label: Training Program
+      hint: Which training program
+      type: select_one
+      options:
+      - Strength and Conditioning
+      - Speed and Agility
+      - Sport-Specific Training
+      - Rehabilitation
+      - Injury Prevention
+      - Performance Enhancement
+      - General Athletic Training
+      required: true
+    - id: 8
+      name: program_duration
+      label: Program Duration
+      hint: Length of program
+      type: select_one
+      options:
+      - One-Time Session
+      - One Week
+      - Two to Four Weeks
+      - One to Three Months
+      - Full Season
+      - Year-Round
+      required: true
+    - id: 9
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_injuries
+      label: Previous Injuries
+      hint: List any significant injuries
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: current_injuries
+      label: Current Injuries or Limitations
+      hint: Any current issues
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: physician_name
+      label: Primary Physician Name
+      hint: Name of regular doctor
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: physician_phone
+      label: Primary Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: physical_exam_date
+      label: Physical Examination Date
+      hint: Date of sports physical
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: medical_clearance
+      label: Medical Clearance Status
+      hint: Is athlete cleared for training
+      type: select_one
+      options:
+      - Cleared Without Restrictions
+      - Cleared With Restrictions
+      - Not Cleared
+      - Pending Review
+      required: true
+    - id: 24
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand there are risks associated with athletic training
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 25
+      name: injury_risk_acknowledgment
+      label: Injury Risk Acknowledgment
+      hint: I understand injuries may occur during training
+      type: select_one
+      options:
+      - Yes - I Understand
+      - 'No'
+      required: true
+    - id: 26
+      name: medical_treatment_permission
+      label: Medical Treatment Permission
+      hint: Permission to seek emergency medical treatment
+      type: select_one
+      options:
+      - Yes - I Grant Permission
+      - 'No'
+      required: true
+    - id: 27
+      name: treatment_scope
+      label: Scope of Treatment Permission
+      hint: What treatments are authorized
+      type: select_multiple
+      options:
+      - First Aid
+      - Taping and Wrapping
+      - Stretching and Massage
+      - Ice and Heat Therapy
+      - Emergency Care
+      - Referral to Medical Professional
+      required: true
+    - id: 28
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I waive liability for ordinary negligence
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 29
+      name: media_release
+      label: Media Release
+      hint: Permission for photos and videos during training
+      type: select_one
+      options:
+      - Yes - Allowed
+      - No - Not Allowed
+      required: true
+    - id: 30
+      name: information_sharing
+      label: Information Sharing Permission
+      hint: Can training information be shared with coaches
+      type: select_one
+      options:
+      - Yes - Full Sharing
+      - Yes - Limited Sharing
+      - 'No'
+      required: true
+    - id: 31
+      name: commitment_statement
+      label: Commitment Statement
+      hint: I commit to following trainer instructions
+      type: select_one
+      options:
+      - Yes - I Commit
+      - 'No'
+      required: true
+    - id: 32
+      name: athlete_signature
+      label: Athlete Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature if under 18
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

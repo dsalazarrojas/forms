@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Execution Framework Workshop Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: registration_form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: registration_form_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: registration_form_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: registration_form_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: registration_form_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: registration_form_role
+      hint: null
+      type: select_one
+      options:
+      - Workshop Organizer
+      - Participant
+      required: false
+    - id: 7
+      name: workshop_date
+      label: registration_form_workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: workshop_time
+      label: registration_form_workshop_time
+      hint: null
+      type: time
+      options: []
+      required: false

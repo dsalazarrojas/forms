@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: MentorsMentorshipRegistrationForm
+    pages:
+    - id: 1
+      name: mentor_name
+      label: Enter Mentors Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mentor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: mentor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mentor_bio
+      label: Bio
+      hint: A brief description of the mentor
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mentorship_program
+      label: Mentorship Program
+      hint: Select the program you are interested in
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 6
+      name: mentee_name
+      label: Enter Mentees Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mentee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: mentee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mentee_bio
+      label: Bio
+      hint: A brief description of the mentee
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mentorship_agreement
+      label: Mentorship Agreement
+      hint: Check the box to agree to the terms of the mentorship
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: mentorship_agreement_terms
+      label: Terms of the Mentorship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mentorship_agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false

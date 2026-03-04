@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: ATC Client Registration
+    pages:
+    - id: 1
+      name: registration_header
+      label: MAD Team After the Close Client Registration
+      hint: Thank you for choosing our services. Please provide accurate information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_company
+      label: Company Name
+      hint: Enter your company or organization name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_title
+      label: Job Title
+      hint: Enter your professional title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Email Address
+      hint: Enter your business email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: client_phone
+      label: Phone Number
+      hint: Enter your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_address
+      label: Business Address
+      hint: Enter your company's street address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_city
+      label: City
+      hint: Enter your city
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_state
+      label: State
+      hint: Enter your state
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_zip_code
+      label: ZIP Code
+      hint: Enter your postal code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_industry
+      label: Industry
+      hint: Select your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Manufacturing
+      - Retail
+      - Real Estate
+      - Other
+      required: true
+    - id: 13
+      name: company_size
+      label: Company Size
+      hint: Select the approximate number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 14
+      name: event_interest
+      label: Which After the Close events are you interested in
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Networking sessions
+      - Educational workshops
+      - Keynote presentations
+      - Panel discussions
+      - Social activities
+      - All events
+      required: true
+    - id: 15
+      name: dietary_restrictions
+      label: Do you have any dietary restrictions or allergies
+      hint: Let us know about any food restrictions
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: dietary_restrictions_detail
+      label: If yes, please specify your dietary restrictions
+      hint: Enter details about your dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Do you have any accessibility needs we should accommodate
+      hint: Let us know if you require special accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer not to say
+      required: false
+    - id: 18
+      name: accessibility_needs_detail
+      label: If yes, please specify your accessibility needs
+      hint: Enter details about required accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: marketing_consent
+      label: May we send you information about future events and services
+      hint: Select if you agree to receive marketing communications
+      type: select_one
+      options:
+      - true
+      - I consent
+      - false
+      - I do not consent
+      required: false
+    - id: 20
+      name: terms_agreement
+      label: I agree to the terms and conditions of participation
+      hint: Please confirm your agreement with our policies
+      type: select_one
+      options:
+      - true
+      - I agree
+      - false
+      - I do not agree
+      required: true

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aging In Place Technology Workshop Registration Form
+    pages:
+    - id: 1
+      name: registrant_full_name
+      label: Registrant Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_email
+      label: Registrant Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Registrant Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: registrant_age
+      label: Registrant Age
+      hint: Enter your age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_senior
+      label: Relationship to Senior
+      hint: Select your relationship to the senior attending
+      type: select_one
+      options:
+      - I am the senior
+      - Spouse
+      - Adult Child
+      - Caregiver
+      - Family Member
+      - Friend
+      - Healthcare Professional
+      - Other
+      required: true
+    - id: 6
+      name: workshop_information_header
+      label: -- Workshop Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: workshop_title
+      label: Workshop Title
+      hint: Enter the title of the aging in place technology workshop
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_workshop_date
+      label: Preferred Workshop Date
+      hint: Select your preferred date for the workshop
+      type: select_one
+      options:
+      - March 15, 2024
+      - April 12, 2024
+      - May 10, 2024
+      - June 14, 2024
+      - July 19, 2024
+      - August 16, 2024
+      required: true
+    - id: 9
+      name: attendance_format
+      label: Attendance Format
+      hint: How would you prefer to attend the workshop?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 10
+      name: location_preference
+      label: Location Preference
+      hint: If attending in-person, which location do you prefer?
+      type: select_one
+      options:
+      - Community Center
+      - Library
+      - Senior Center
+      - Virtual
+      - No Preference
+      required: false
+    - id: 11
+      name: technology_experience_header
+      label: -- Technology Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_technology_comfort_level
+      label: Current Technology Comfort Level
+      hint: How comfortable are you with using technology?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Comfortable
+      - Advanced
+      required: true
+    - id: 13
+      name: devices_currently_used
+      label: Devices Currently Used
+      hint: Which devices do you currently use regularly?
+      type: select_multiple
+      options:
+      - Smartphone
+      - Tablet
+      - Computer
+      - Smart TV
+      - Voice Assistant
+      - Medical Alert Device
+      - None
+      - Other
+      required: true
+    - id: 14
+      name: technology_needs_header
+      label: -- Technology Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_technology_goals
+      label: Primary Technology Goals
+      hint: What are your primary goals for using technology to age in place?
+      type: select_multiple
+      options:
+      - Emergency Response
+      - Medication Reminders
+      - Social Connection
+      - Health Monitoring
+      - Home Automation
+      - Safety and Security
+      - Entertainment
+      - Other
+      required: true
+    - id: 16
+      name: specific_technology_interests
+      label: Specific Technology Interests
+      hint: What specific technologies are you most interested in learning about?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Do you have any accessibility requirements for the workshop?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions for workshop refreshments?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_support_person
+      label: Additional Support Person
+      hint: Will someone else be attending with you for support?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: support_person_details
+      label: Support Person Details
+      hint: If yes, please provide the name and relationship of the support person
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information you'd like to share
+      type: text
+      options: []
+      required: false

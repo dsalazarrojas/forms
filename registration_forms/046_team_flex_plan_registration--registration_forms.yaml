@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Flex Plan Registration
+    pages:
+    - id: 1
+      name: team_flex_plan_registration
+      label: Team Flex Plan Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: List all team members that will be participating in the Flexible Work
+        Schedule
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_email
+      label: Manager Email
+      hint: Email address of the manager
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_lead_email
+      label: Team Lead Email
+      hint: Email address of the team lead
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: team_flex_start_date
+      label: Team Flex Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: team_flex_end_date
+      label: Team Flex End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: manager_agreed
+      label: Manager Agreed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: team_lead_agreed
+      label: Team Lead Agreed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: team_notes
+      label: Team Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false

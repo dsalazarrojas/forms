@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_first_aid_course_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of participant
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: Email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_course
+      label: Select a course
+      hint: Select course from the list
+      type: select_one
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: select_date
+      label: Select a Date
+      hint: Select course date
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_phone
+      label: Confirm phone
+      hint: Confirm participant's phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm email
+      hint: Confirm participant's email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

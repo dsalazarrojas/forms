@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Trip Reveal Event RSVP Form
+    pages:
+    - id: 1
+      name: trip_name
+      label: Trip Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guest_list
+      label: Guest List
+      hint: Guest List (comma separated)
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trip_status
+      label: Trip Status
+      hint: null
+      type: select_one
+      options:
+      - Planned
+      - Confirmed
+      - Cancelled
+      required: true
+    - id: 8
+      name: trip_location
+      label: Trip Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: trip_description
+      label: Trip Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: trip_image
+      label: Trip Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: trip_image_caption
+      label: Trip Image Caption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trip_image_alt_text
+      label: Trip Image Alt Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trip_image_url
+      label: Trip Image Url
+      hint: null
+      type: text
+      options: []
+      required: false

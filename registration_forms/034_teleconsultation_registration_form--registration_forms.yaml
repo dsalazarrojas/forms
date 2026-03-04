@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teleconsultation Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: medical_service
+      label: Medical Service
+      hint: null
+      type: select_one
+      options:
+      - Telehealth
+      - Telepsychology
+      - Telepharmacy
+      - Telephysical Therapy
+      required: false
+    - id: 11
+      name: teleconsultation_type
+      label: Teleconsultation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Virtual Visit
+      - Virtual Follow Up
+      - Virtual Follow Up 2nd Visit
+      required: false

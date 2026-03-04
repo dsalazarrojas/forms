@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Fitness Transformation Challenge Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: challenge_goals
+      label: Challenge Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_weight
+      label: Current Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: target_weight
+      label: Target Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fitness_level
+      label: Fitness Level
+      hint: Select your level of fitness
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_fitness_frequency
+      label: Current Fitness Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_workout_time
+      label: Preferred Workout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

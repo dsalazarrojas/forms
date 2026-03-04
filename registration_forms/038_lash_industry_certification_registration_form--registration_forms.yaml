@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Industry Certification Registration Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Lash Technician
+      - Lash Certification
+      - Lash Trainer
+      required: false
+    - id: 3
+      name: training_history
+      label: Training History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: training_info
+      label: Training Info
+      hint: null
+      type: select_multiple
+      options:
+      - Lash Technician
+      - Lash Certification
+      - Lash Trainer
+      required: false
+    - id: 5
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Accepted
+      - Rejected
+      - Pending
+      required: false
+    - id: 6
+      name: previous_training
+      label: Previous Training
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_school_name
+      label: Previous School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: previous_graduation_date
+      label: Previous Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false

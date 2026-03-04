@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Your full address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state_province
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_postal_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: false
+    - id: 10
+      name: program_selection
+      label: Program Selection
+      hint: Which program are you joining
+      type: select_one
+      options:
+      - Sports Coaching Program
+      - Fitness Coaching Program
+      - Personal Training
+      - Group Coaching
+      - Youth Development Program
+      - Performance Coaching
+      required: true
+    - id: 11
+      name: skill_level
+      label: Current Skill Level
+      hint: What is your experience level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 12
+      name: preferred_coach
+      label: Preferred Coach
+      hint: Do you have a coach preference
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: start_date
+      label: Preferred Start Date
+      hint: When do you want to begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: schedule_preference
+      label: Schedule Preference
+      hint: When do you prefer to train
+      type: select_one
+      options:
+      - Morning 6AM-9AM
+      - Mid-Morning 9AM-12PM
+      - Afternoon 12PM-5PM
+      - Evening 5PM-9PM
+      - Weekend
+      required: true
+    - id: 15
+      name: days_available
+      label: Days Available
+      hint: Which days can you attend
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 16
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: injuries
+      label: Current or Recent Injuries
+      hint: List any injuries
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physical_limitations
+      label: Physical Limitations
+      hint: Any limitations to consider
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fitness_goals
+      label: Fitness or Performance Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: previous_training
+      label: Previous Training Experience
+      hint: Describe past experience
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Who to contact in emergency
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: Your relationship to contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: physician_name
+      label: Primary Physician Name
+      hint: Your doctor name
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: medical_clearance
+      label: Medical Clearance Obtained
+      hint: Do you have doctor approval
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: true
+    - id: 28
+      name: liability_waiver
+      label: Liability Waiver Signed
+      hint: You accept liability terms
+      type: select_one
+      options:
+      - Yes I Sign
+      - false
+      required: true
+    - id: 29
+      name: photo_release
+      label: Photo Release Authorization
+      hint: Allow photos for promotional use
+      type: select_one
+      options:
+      - Yes I Authorize
+      - false
+      required: false
+    - id: 30
+      name: terms_and_conditions
+      label: Terms and Conditions Accepted
+      hint: You agree to program terms
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true
+    - id: 31
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Cash
+      - Check
+      required: true
+    - id: 32
+      name: registration_date
+      label: Registration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

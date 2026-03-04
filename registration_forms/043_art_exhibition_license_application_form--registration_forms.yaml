@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition License Application Form
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_type
+      label: Applicant Type
+      hint: null
+      type: select_one
+      options:
+      - Individual artist
+      - Gallery
+      - Museum
+      - Non-profit organization
+      - Commercial entity
+      - Other
+      required: true
+    - id: 4
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_exhibition
+      label: -- Exhibition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exhibition_name
+      label: Exhibition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exhibition_description
+      label: Exhibition Description
+      hint: Concept, theme, and content
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: exhibition_type
+      label: Type of Exhibition
+      hint: null
+      type: select_one
+      options:
+      - Fine art
+      - Commercial art
+      - Photography
+      - Sculpture
+      - Digital art
+      - Installation
+      - Mixed media
+      - Other
+      required: true
+    - id: 11
+      name: artist_count
+      label: Number of Artists or Exhibitors
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_venue
+      label: -- Venue Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: venue_name
+      label: Venue Name or Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: venue_address
+      label: Complete Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: venue_owner_contact
+      label: Venue Owner or Manager Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_dates
+      label: -- Exhibition Dates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: start_date
+      label: Proposed Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: end_date
+      label: Proposed End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: operating_hours
+      label: Daily Operating Hours
+      hint: Example - 10 AM to 6 PM
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_compliance
+      label: -- Compliance and Insurance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: liability_insurance
+      label: Will You Carry Liability Insurance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In process
+      required: true
+    - id: 22
+      name: insurance_amount
+      label: Insurance Coverage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: safety_plan
+      label: Safety and Emergency Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_agreement
+      label: -- Agreement and Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: compliance_agreement
+      label: I agree to comply with all local regulations
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

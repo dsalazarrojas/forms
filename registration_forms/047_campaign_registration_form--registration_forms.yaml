@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant Full Name
+      hint: Full name for registration and outreach
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: To receive updates about the campaign
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: region
+      label: Region or Constituency
+      hint: Geographic area of the registrant
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Willingness to help with campaign activities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: events_interested
+      label: Events Interested In
+      hint: Types of campaign events you would attend
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How you prefer to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: true
+    - id: 8
+      name: agree_privacy
+      label: Agree to Privacy Policy
+      hint: Consent to data use for campaign communications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: referral_source
+      label: Referral Source
+      hint: How you heard about the campaign
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for campaign organizers
+      type: text
+      options: []
+      required: false

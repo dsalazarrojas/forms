@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elite Event Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preference
+      label: Preference
+      hint: null
+      type: select_one
+      options:
+      - VIP
+      - Standard
+      - Basic
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Registration Forms
+      - Other
+      required: false

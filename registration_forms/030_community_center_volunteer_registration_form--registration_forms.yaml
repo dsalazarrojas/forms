@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Volunteer Registration Form
+    pages:
+    - id: 1
+      name: section_volunteer_registration_info
+      label: -- Volunteer Registration --
+      hint: Please fill out your contact information and details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_full_name_reg
+      label: Full Name of Volunteer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_email_reg
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_phone_reg
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_dob_reg
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_address_reg
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_volunteer_availability_reg
+      label: -- Availability and Interests --
+      hint: Select the programs and activities you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_volunteer_days_reg
+      label: Which days of the week are you available to volunteer
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 9
+      name: weekly_availability_hours_reg
+      label: How many hours per week can you commit to volunteering
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: primary_volunteer_interest_reg
+      label: Which program area are you most interested in volunteering for
+      hint: null
+      type: select_one
+      options:
+      - Youth Programs
+      - Senior Services
+      - Arts and Culture
+      - Sports and Athletics
+      - Administrative/Office Support
+      - Special Events
+      required: true
+    - id: 11
+      name: section_skills_experience_reg
+      label: -- Skills and Experience --
+      hint: Tell us about your background and why you're a good fit.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: key_skills_expertise_reg
+      label: What key skills or expertise would you bring to the community center
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_volunteer_experience_reg
+      label: Describe any previous volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_acknowledgment_reg
+      label: -- Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_signature_digital_reg
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date_final_reg
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: newsletter_opt_in_reg
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 18
+      name: emergency_contact_full_name_reg
+      label: Emergency Contact Person
+      hint: Someone not living with the volunteer
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone_reg
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_relation_reg
+      label: Relationship to Volunteer
+      hint: null
+      type: text
+      options: []
+      required: true

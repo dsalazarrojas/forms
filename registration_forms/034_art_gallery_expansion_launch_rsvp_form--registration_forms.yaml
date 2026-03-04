@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Expansion Launch RSVP Form
+    pages:
+    - id: 1
+      name: launch_event_header
+      label: -- Launch Event Invitation --
+      hint: We are thrilled to invite you to celebrate our new gallery space
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: To receive your digital entry pass
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: affiliation_type
+      label: Guest Category
+      hint: null
+      type: select_one
+      options:
+      - VIP Collector
+      - Represented Artist
+      - Media - Press
+      - Local Government Official
+      - General Patron
+      - Staff - Vendor
+      required: true
+    - id: 5
+      name: rsvp_status_header
+      label: -- RSVP Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: attending_status
+      label: Will you be attending the launch event?
+      hint: null
+      type: select_one
+      options:
+      - Yes - I am attending
+      - No - I cannot attend
+      required: true
+    - id: 7
+      name: plus_one_request
+      label: Will you be bringing a guest (Plus One)?
+      hint: Subject to venue capacity
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: guest_name_plus_one
+      label: Name of your Guest
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hospitality_preferences_header
+      label: -- Hospitality and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Do you or your guest have any dietary restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      required: true
+    - id: 11
+      name: accessibility_needs
+      label: Do you have any specific accessibility requirements?
+      hint: e.g., Ramp access, reserved seating
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_for_event_updates
+      label: Preferred Phone Number for Event Updates
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback_future_interest
+      label: Would you like to receive information about future VIP events?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: rsvp_submission_date
+      label: RSVP Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Any additional notes for the organizing team?
+      hint: null
+      type: text
+      options: []
+      required: false

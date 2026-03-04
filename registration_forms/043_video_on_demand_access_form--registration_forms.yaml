@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video On Demand Access Form
+    pages:
+    - id: 1
+      name: video_on_demand_access_form_1
+      label: Video On Demand Access Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: video_on_demand_access_form_5
+      label: Video On Demand Access Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: video_on_demand_access_url
+      label: Video On Demand Access URL
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: video_on_demand_access_date
+      label: Video On Demand Access Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: video_on_demand_access_time
+      label: Video On Demand Access Time
+      hint: "HH:MM:SS"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: access_reason
+      label: Access Reason
+      hint: null
+      type: note
+      options: []
+      required: false

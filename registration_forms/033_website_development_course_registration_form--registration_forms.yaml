@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Development Course Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_choice
+      label: Course Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: course_price
+      label: Course Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_schedule
+      label: Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_questions
+      label: Additional Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Planetarium Friends Membership Form
+    pages:
+    - id: 1
+      name: planetarium_friends_membership_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: planetarium_friends_membership_form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: planetarium_friends_membership_form_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: planetarium_friends_membership_form_4
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: planetarium_friends_membership_form_5
+      label: planetarium_membership_plan
+      hint: null
+      type: select_one
+      options:
+      - Planetarium Individual
+      - Planetarium Family
+      required: true
+    - id: 6
+      name: planetarium_friends_membership_form_6
+      label: planetarium_membership_type
+      hint: null
+      type: select_multiple
+      options:
+      - Membership
+      - Donation
+      - Gift
+      required: false
+    - id: 7
+      name: planetarium_friends_membership_form_7
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: planetarium_friends_membership_form_8
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      required: true
+    - id: 9
+      name: planetarium_friends_membership_form_9
+      label: payment_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: planetarium_friends_membership_form_10
+      label: agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: planetarium_friends_membership_form_11
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: planetarium_friends_membership_form_12
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: planetarium_friends_membership_form_13
+      label: planetarium_membership_agreement
+      hint: null
+      type: note
+      options: []
+      required: false

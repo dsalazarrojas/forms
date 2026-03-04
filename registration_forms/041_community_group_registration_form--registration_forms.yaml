@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Group Registration Form
+    pages:
+    - id: 1
+      name: group_name
+      label: Group Name
+      hint: Official name of your group
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_first_name
+      label: Contact First Name
+      hint: Legal first name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Legal last name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: group_type
+      label: Group Type
+      hint: What type of group are you?
+      type: select_one
+      options:
+      - Sports Team
+      - Hobby Club
+      - Professional Network
+      - Social Group
+      - Support Group
+      - Educational Group
+      - Arts Group
+      - Other
+      required: true
+    - id: 7
+      name: group_size
+      label: Number of Members
+      hint: Approximate group size
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: How often does your group meet?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - As Needed
+      required: true
+    - id: 9
+      name: group_description
+      label: Group Description
+      hint: Brief description of your group
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: group_goals
+      label: Group Goals
+      hint: What are your main objectives?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: space_requirements
+      label: Space Requirements
+      hint: What space do you need?
+      type: select_one
+      options:
+      - Meeting Room
+      - Gymnasium
+      - Outdoor Space
+      - Kitchen Access
+      - Audio Visual Equipment
+      - No Special Requirements
+      required: true
+    - id: 12
+      name: preferred_days
+      label: Preferred Meeting Days
+      hint: Select your preferred days
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 13
+      name: preferred_time
+      label: Preferred Meeting Time
+      hint: What time works best?
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 14
+      name: membership_open
+      label: Is Membership Open to New Members
+      hint: Are you accepting new members?
+      type: select_one
+      options:
+      - Yes, Always
+      - Yes, Sometimes
+      - No, Closed
+      required: true
+    - id: 15
+      name: membership_requirements
+      label: Membership Requirements
+      hint: Any requirements to join?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dues_fees
+      label: Membership Dues or Fees
+      hint: Are there any costs?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: age_restrictions
+      label: Age Restrictions
+      hint: Any age requirements?
+      type: select_one
+      options:
+      - All Ages Welcome
+      - 18 and Older
+      - 21 and Older
+      - Youth Only
+      - Senior Only
+      required: true
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you learn about registration?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Community Center
+      - Other
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

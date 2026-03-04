@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare AI Innovation Challenge Registration
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - team_member_1
+      - team_member_2
+      - team_member_3
+      required: false
+    - id: 3
+      name: project_summary
+      label: project_summary
+      hint: Briefly describe your project here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_category
+      label: project_category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 8
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - status 1
+      - status 2
+      - status 3
+      required: false

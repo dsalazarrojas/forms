@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Class Enrollment Declaration Form
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID Number
+      hint: If existing student
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_class
+      label: -- Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: class_name
+      label: Art Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: class_level
+      label: Class Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Mixed levels
+      required: true
+    - id: 10
+      name: class_type
+      label: Type of Art Class
+      hint: null
+      type: select_multiple
+      options:
+      - Drawing
+      - Painting
+      - Sculpture
+      - Digital art
+      - Printmaking
+      - Mixed media
+      - Other
+      required: true
+    - id: 11
+      name: class_term
+      label: Class Term or Session
+      hint: Spring, Fall, Summer, etc.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_experience
+      label: -- Prior Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: art_experience
+      label: Prior Art Experience
+      hint: null
+      type: select_one
+      options:
+      - No prior experience
+      - Some informal experience
+      - Completed other art classes
+      - Extensive art training
+      required: true
+    - id: 14
+      name: experience_description
+      label: Describe Your Art Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_goals
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: learning_goals
+      label: What are your learning goals for this class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: specific_interests
+      label: Specific Techniques or Subjects of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - New student
+      - Returning student
+      required: true
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Payment completed
+      - Payment pending
+      - Financial aid requested
+      required: true
+    - id: 21
+      name: section_agreement
+      label: -- Student Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: acknowledge_expectations
+      label: I understand the class expectations and requirements
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 23
+      name: acknowledge_supply_cost
+      label: I understand there may be a cost for art supplies
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Parking Registration Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_email_confirmation
+      label: Confirm Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: student_dob
+      label: Student Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_vehicle_type
+      label: What type of vehicle will you be driving?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Vehicle 1''}'
+      - '{''label'': ''Vehicle 2''}'
+      - '{''label'': ''Vehicle 3''}'
+      required: false
+    - id: 8
+      name: student_vehicle_license
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_vehicle_make
+      label: Vehicle Make
+      hint: none
+      type: text
+      options: []
+      required: false

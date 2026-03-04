@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent_organization_membership_application
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Membership Type
+      - Membership Type
+      - Membership Type
+      required: false
+    - id: 6
+      name: membership_duration
+      label: Membership Duration
+      hint: null
+      type: select_multiple
+      options:
+      - Month
+      - Month
+      - Month
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

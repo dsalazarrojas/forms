@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Working Group Meeting Registration
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Session A
+      - Session B
+      - Session C
+      required: false
+    - id: 5
+      name: user_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

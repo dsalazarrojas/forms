@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Seminar Volunteer Registration Form
+    pages:
+    - id: 1
+      name: seminar_volunteer_intro
+      label: Academic Seminar Volunteer Registration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: Full name of the volunteer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_email
+      label: Email Address
+      hint: Contact email for the volunteer
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_phone
+      label: Phone Number
+      hint: Contact phone number for the volunteer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_institution
+      label: Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_role
+      label: Current Role
+      hint: Current role or position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: seminar_title
+      label: Seminar Title
+      hint: Title of the academic seminar
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: volunteer_interest_reasons
+      label: Reasons for Volunteering
+      hint: Why are you interested in volunteering for this seminar?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_volunteer_tasks
+      label: Preferred Volunteer Tasks
+      hint: What types of tasks would you prefer to help with? (Select all that apply)
+      type: select_multiple
+      options:
+      - Registration setup
+      - Welcome desk
+      - Technical support
+      - Session moderation
+      - Material distribution
+      - Cleanup
+      - Photography
+      - Other
+      required: false
+    - id: 10
+      name: availability_days
+      label: Available Days
+      hint: Which days can you volunteer for the seminar?
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - All days
+      - Only specific sessions
+      required: true
+    - id: 11
+      name: availability_time_slots
+      label: Available Time Slots
+      hint: What time slots are you available to volunteer?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_volunteer_experience
+      label: Previous Volunteer Experience
+      hint: Do you have previous experience volunteering at academic events?
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, some experience
+      - No, but willing to learn
+      - No, first time volunteering
+      required: true
+    - id: 13
+      name: special_skills_languages
+      label: Special Skills or Languages
+      hint: Do you have any special skills or speak additional languages that could
+        help?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions for event meals?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Do you have any accessibility requirements for volunteering?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true

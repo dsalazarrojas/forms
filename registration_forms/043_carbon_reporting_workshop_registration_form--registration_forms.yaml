@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Reporting Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: -- WORKSHOP DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_name
+      label: Workshop name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: workshop_date
+      label: Workshop date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: workshop_time
+      label: Workshop start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Workshop location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_information
+      label: -- ATTENDEE INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_name
+      label: Company or organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: professional_background
+      label: -- PROFESSIONAL BACKGROUND --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: industry_sector
+      label: Industry sector
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Finance
+      - Energy
+      - Transportation
+      - Retail
+      - Consulting
+      - Non-profit
+      - Government
+      - Other
+      required: true
+    - id: 15
+      name: company_size
+      label: Company size (employees)
+      hint: null
+      type: select_one
+      options:
+      - Small - 1-50
+      - Medium - 51-250
+      - Large - 251-1000
+      - Enterprise - 1000+
+      required: false
+    - id: 16
+      name: sustainability_role
+      label: Your sustainability role
+      hint: null
+      type: select_one
+      options:
+      - Sustainability Manager
+      - Environmental Officer
+      - Finance/Controller
+      - Executive/Leadership
+      - Consultant
+      - Other
+      required: false
+    - id: 17
+      name: carbon_reporting_experience
+      label: Carbon reporting experience level
+      hint: null
+      type: select_one
+      options:
+      - Beginner - No Experience
+      - Some Experience
+      - Experienced
+      - Expert
+      required: true
+    - id: 18
+      name: workshop_objectives
+      label: -- WORKSHOP OBJECTIVES --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: learning_goals
+      label: What are your main learning objectives?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Understand Carbon Reporting Standards
+      - Learn ISO 14064
+      - GHG Protocol Training
+      - Emissions Data Collection
+      - Carbon Accounting
+      - Regulatory Compliance
+      - Sustainability Reporting
+      required: true
+    - id: 20
+      name: reporting_framework
+      label: Reporting framework your organization uses
+      hint: null
+      type: select_one
+      options:
+      - ISO 14064
+      - GHG Protocol
+      - PAS 2050
+      - TCFD
+      - CDP
+      - SASB
+      - Other
+      - Not Yet Determined
+      required: false
+    - id: 21
+      name: registration_details
+      label: -- REGISTRATION DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: attendance_type
+      label: Attendance type
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Both Days
+      - Keynote Only
+      required: true
+    - id: 23
+      name: dietary_preferences
+      label: Dietary preferences (if in-person)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: workshop_fee
+      label: Workshop fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: additional_information
+      label: Any additional information or special requests?
+      hint: null
+      type: text
+      options: []
+      required: false

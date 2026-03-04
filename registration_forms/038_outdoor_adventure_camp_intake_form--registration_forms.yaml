@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Adventure Camp Intake Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Provide emergency contact information for the participant
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_details
+      label: Emergency Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Spouse
+      - Brother
+      - Sister
+      - Other
+      required: false
+    - id: 5
+      name: participant_medical_info
+      label: Participant Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Allergies
+      - Medical Device
+      - Medication
+      - Medical Condition
+      - Other
+      required: false
+    - id: 7
+      name: participant_notes
+      label: Participant Notes
+      hint: Additional info about the participant
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter the name of your emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Emergency Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

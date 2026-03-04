@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portrait Photo Shoot Registration
+    pages:
+    - id: 1
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shoot_date
+      label: Shoot Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shoot_time
+      label: Shoot Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_type
+      label: Photo Type
+      hint: null
+      type: select_one
+      options:
+      - Landscape
+      - Portrait
+      - Headshot
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_shoot_details
+      label: Photo Shoot Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photographer_comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false

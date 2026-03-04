@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Birthday Celebration RSVP
+    pages:
+    - id: 1
+      name: pet_birthday_celebration_rsvp
+      label: Pet Birthday Celebration RSVP
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: pet_name
+      label: pet name
+      hint: Enter pet name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_birthday
+      label: pet birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: owner_email
+      label: owner_email
+      hint: Enter pet owner email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: pet_birthday_celebration_rsvp
+      label: Pet Birthday Celebration RSVP
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: pet_dob
+      label: pet_dob
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_member_information_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      required: true
+    - id: 9
+      name: member_category
+      label: Member Category
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Member
+      - Coach
+      - Staff
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Wife
+      - Husband
+      required: false
+    - id: 11
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: health_insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - Street
+      - City
+      - State
+      - Country
+      - Zip
+      required: true
+    - id: 14
+      name: gym_name
+      label: Gym Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: membership_length
+      label: Membership Length
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - 3 Months
+      - 6 Months
+      - 12 Months
+      required: true
+    - id: 18
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      required: true
+    - id: 19
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_city
+      label: Emergency Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_state
+      label: Emergency Contact State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_country
+      label: Emergency Contact Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_zip
+      label: Emergency Contact Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Wife
+      - Husband
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

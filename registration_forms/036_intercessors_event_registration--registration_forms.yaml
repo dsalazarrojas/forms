@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intercessors Event Registration
+    pages:
+    - id: 1
+      name: session_selection
+      label: Session Selection
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 2
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer 1
+      - Volunteer 2
+      - Volunteer 3
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false

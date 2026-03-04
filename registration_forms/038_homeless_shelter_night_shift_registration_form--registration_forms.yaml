@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeless Shelter Night Shift Registration Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shift_date
+      label: shift_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shift_time
+      label: shift_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shift_duty
+      label: shift_duty
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Staff
+      - Both
+      required: false
+    - id: 5
+      name: volunteer_name
+      label: volunteer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shift_start
+      label: shift_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: shift_end
+      label: shift_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

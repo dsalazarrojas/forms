@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prop Trading Intensive Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Trader
+      - Educator
+      - Coach
+      required: false
+    - id: 3
+      name: participant_goals
+      label: Participant Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_experience
+      label: Participant Experience
+      hint: Years of Trading Experience
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: prop_trading_intensive_programs
+      label: Prop Intensive Programs
+      hint: Select the program name
+      type: select_multiple
+      options:
+      - Trading Firm A
+      - Trading Firm B
+      - Trading Firm C
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

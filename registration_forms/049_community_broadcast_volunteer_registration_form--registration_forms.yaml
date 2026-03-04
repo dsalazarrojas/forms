@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Broadcast Volunteer Registration Form
+    pages:
+    - id: 1
+      name: registration_information
+      label: Registration Information
+      hint: Register to volunteer for community broadcast
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_information
+      label: Volunteer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: broadcast_interests
+      label: Broadcast Interests
+      hint: What areas of broadcasting interest you
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_roles
+      label: Volunteer Roles
+      hint: Which roles interest you
+      type: select_multiple
+      options:
+      - On-Air Host
+      - Producer
+      - Audio Engineer
+      - News Reporter
+      - Sports Announcer
+      - Music DJ
+      - Interview Host
+      - Technical Support
+      - Social Media
+      - Marketing
+      - Administration
+      required: true
+    - id: 15
+      name: music_genres
+      label: Music Genres
+      hint: What music genres are you interested in
+      type: select_multiple
+      options:
+      - Rock
+      - Pop
+      - Hip-Hop
+      - R&B
+      - Country
+      - Jazz
+      - Classical
+      - Electronic
+      - Folk
+      - World Music
+      - Not Applicable
+      required: false
+    - id: 16
+      name: experience
+      label: Experience
+      hint: Your broadcasting experience
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: broadcasting_experience
+      label: Broadcasting Experience
+      hint: Do you have broadcasting experience
+      type: select_one
+      options:
+      - Professional
+      - College Radio
+      - Community Radio
+      - Podcast
+      - No Experience
+      required: true
+    - id: 18
+      name: years_experience
+      label: Years of Experience
+      hint: How many years of experience do you have
+      type: select_one
+      options:
+      - None
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5+ years
+      required: true
+    - id: 19
+      name: equipment_experience
+      label: Equipment Experience
+      hint: What equipment are you experienced with
+      type: select_multiple
+      options:
+      - Mixing Boards
+      - Microphones
+      - Recording Software
+      - Streaming Platforms
+      - Editing Software
+      - None
+      required: false
+    - id: 20
+      name: availability
+      label: Availability
+      hint: When are you available to volunteer
+      type: select_multiple
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-6pm)
+      - Evening (6pm-12am)
+      - Overnight (12am-6am)
+      - Weekends
+      - Flexible
+      required: true
+    - id: 21
+      name: hours_per_week
+      label: Hours Per Week
+      hint: How many hours can you volunteer weekly
+      type: select_one
+      options:
+      - 1-3 hours
+      - 4-6 hours
+      - 7-10 hours
+      - 10+ hours
+      - Flexible
+      required: true
+    - id: 22
+      name: show_ideas
+      label: Show Ideas
+      hint: Do you have ideas for shows or segments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: training_needed
+      label: Training Needed
+      hint: What training would you need
+      type: select_multiple
+      options:
+      - Equipment Operation
+      - On-Air Techniques
+      - Audio Editing
+      - FCC Regulations
+      - Content Planning
+      - Social Media
+      - No Training Needed
+      required: true
+    - id: 24
+      name: background_check
+      label: Background Check
+      hint: Are you willing to undergo a background check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: references_available
+      label: References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: demo_reel
+      label: Demo Reel
+      hint: Do you have a demo reel or portfolio
+      type: select_one
+      options:
+      - Yes - Will Submit
+      - Yes - Link Available
+      - 'No'
+      required: false
+    - id: 27
+      name: demo_reel_link
+      label: Demo Reel Link
+      hint: URL to your demo reel or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: why_interested
+      label: Why Interested
+      hint: Why do you want to volunteer with us
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: agreement
+      label: Agreement
+      hint: I agree to follow all broadcast guidelines and policies
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true

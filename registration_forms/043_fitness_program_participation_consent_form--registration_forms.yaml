@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: fitness_program_participation_consent_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_info
+      label: participant_info
+      hint: Please provide your information
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_phone
+      label: emergency_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_address
+      label: emergency_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: fitness_level
+      label: fitness_level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 9
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - I have a medical condition.
+      - I have an injury.
+      - I have a disability.
+      required: true
+    - id: 10
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Friend
+      required: false
+    - id: 11
+      name: participant_consent
+      label: participant_consent
+      hint: Please check the box below to confirm your consent.
+      type: select_multiple
+      options:
+      - I have read and understand the fitness program terms and conditions.
+      - I have signed up for the fitness program and understand the risks associated
+        with it.
+      - I have read and understand the emergency procedures.
+      required: true
+    - id: 12
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Admin
+      required: false
+    - id: 17
+      name: participant_consent_2
+      label: participant_consent_2
+      hint: Please check the box below to confirm your consent.
+      type: select_multiple
+      options:
+      - I have read and understand the fitness program terms and conditions.
+      - I have signed up for the fitness program and understand the risks associated
+        with it.
+      required: true
+    - id: 18
+      name: terms_and_conditions_2
+      label: terms_and_conditions_2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: date_2
+      label: date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_2
+      label: time_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: note_2
+      label: note_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: signature
+      label: signature
+      hint: Please check the box below to confirm your age.
+      type: select_multiple
+      options:
+      - I am 18 years or older.
+      - I am 17 years or younger.
+      required: true
+    - id: 23
+      name: participant_name_confirmation
+      label: participant_name_confirmation
+      hint: Please select the appropriate box below.
+      type: select_multiple
+      options:
+      - I am the person signing this document.
+      - I am signing on behalf of a minor child.
+      - I am signing on behalf of a non-participating parent.
+      required: true
+    - id: 24
+      name: consent_status
+      label: consent_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 25
+      name: participant_signature_date
+      label: participant_signature_date
+      hint: null
+      type: date
+      options: []
+      required: true

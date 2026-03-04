@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAD Design Subscription Form
+    pages:
+    - id: 1
+      name: subscriber_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry
+      label: Industry or Field
+      hint: What industry do you work in
+      type: select_one
+      options:
+      - Architecture
+      - Engineering
+      - Manufacturing
+      - Construction
+      - Product Design
+      - Education
+      - Other
+      required: true
+    - id: 6
+      name: experience_level
+      label: CAD Experience Level
+      hint: Your skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 7
+      name: cad_software
+      label: CAD Software Experience
+      hint: Which software do you use
+      type: select_multiple
+      options:
+      - AutoCAD
+      - SolidWorks
+      - Fusion 360
+      - SketchUp
+      - Revit
+      - LibreCAD
+      - Other
+      required: true
+    - id: 8
+      name: primary_use
+      label: Primary Use for CAD Designs
+      hint: What will you use designs for
+      type: select_one
+      options:
+      - Professional Projects
+      - Personal Projects
+      - Educational
+      - Hobby
+      - Business Development
+      - Other
+      required: true
+    - id: 9
+      name: subscription_plan
+      label: Subscription Plan
+      hint: Select your plan
+      type: select_one
+      options:
+      - Basic - Monthly
+      - Professional - Monthly
+      - Enterprise - Monthly
+      - Annual Discount Available
+      required: true
+    - id: 10
+      name: billing_address
+      label: Billing Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: auto_renewal
+      label: Auto-Renewal Preference
+      hint: Automatically renew subscription
+      type: select_one
+      options:
+      - Yes, auto-renew
+      - No, manual renewal
+      required: true
+    - id: 16
+      name: special_requirements
+      label: Special Features or Requirements
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: terms_agreement
+      label: I Agree to Terms and Conditions
+      hint: Accept subscription terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: EFNE YLN Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: yln_meeting_date
+      label: YLN Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: yln_meeting_time
+      label: YLN Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: kids_connect_meeting_date
+      label: Kids Connect Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: kids_connect_meeting_time
+      label: Kids Connect Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - tool1
+      - tool2
+      required: true
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_yln_role
+      label: Participant YLN Role
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - user
+      - leader
+      - other
+      required: false
+    - id: 11
+      name: participant_kids_connect_role
+      label: Participant Kids Connect Role
+      hint: null
+      type: select_multiple
+      options:
+      - admin
+      - user
+      - leader
+      - other
+      required: false

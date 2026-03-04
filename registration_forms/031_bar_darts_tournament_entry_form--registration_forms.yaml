@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Darts Tournament Entry Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: entry_type
+      label: Entry Type
+      hint: Individual or team entry?
+      type: select_one
+      options:
+      - Individual Player
+      - Team Entry
+      - Mixed Team
+      required: true
+    - id: 3
+      name: player_name
+      label: Primary Player Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: player_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: player_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skill_level
+      label: Skill Level
+      hint: Estimate your playing ability
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Tournament Player
+      required: true
+    - id: 7
+      name: tournament_name
+      label: Tournament Name
+      hint: Which tournament are you entering?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tournament_date
+      label: Tournament Date
+      hint: When is the tournament?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: team_name
+      label: Team Name (if team entry)
+      hint: Name for your team
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_player_2_name
+      label: Team Player 2 Name
+      hint: Second team member name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_player_2_email
+      label: Team Player 2 Email
+      hint: Email of second player
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: team_player_3_name
+      label: Team Player 3 Name
+      hint: Third team member name (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_player_3_email
+      label: Team Player 3 Email
+      hint: Email of third player
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: team_captain_name
+      label: Team Captain Name
+      hint: Name of designated captain
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: number_of_matches
+      label: Number of Matches in Tournament
+      hint: How many matches will you play?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: preferred_playing_time
+      label: Preferred Playing Time
+      hint: What time works best?
+      type: select_one
+      options:
+      - Early Evening (6-7pm)
+      - Evening (7-9pm)
+      - Late Evening (9pm+)
+      - Flexible
+      required: true
+    - id: 17
+      name: day_preferences
+      label: Preferred Days
+      hint: Select preferred days
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 18
+      name: experience_years
+      label: Years of Darts Experience
+      hint: How long have you played?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: false
+    - id: 19
+      name: previous_tournament
+      label: Previous Tournament Participation
+      hint: Have you entered tournaments before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - First Time
+      required: false
+    - id: 20
+      name: tournament_rules_understood
+      label: I Understand and Accept Tournament Rules
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: entry_fee_amount
+      label: Entry Fee Amount
+      hint: Tournament entry fee
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Cash at Bar
+      - Online Payment
+      - Credit Card
+      - Check
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any other details?
+      type: text
+      options: []
+      required: false

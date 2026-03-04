@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Tier Upgrade Request Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsorship_tier_upgrade_request_form
+      label: Sponsorship Tier Upgrade Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sponsorship_tier
+      label: Sponsorship Tier
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Bronze''}'
+      - '{''value'': ''Silver''}'
+      - '{''value'': ''Gold''}'
+      - '{''value'': ''Platinum''}'
+      required: false
+    - id: 4
+      name: date_upgraded
+      label: Date Upgraded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_request_submitted
+      label: Date Request Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

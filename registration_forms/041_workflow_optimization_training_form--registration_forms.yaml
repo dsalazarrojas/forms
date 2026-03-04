@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workflow_Optimization_Training_Form
+    pages:
+    - id: 1
+      name: training_preferences
+      label: Training Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_needs
+      label: Employee Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: training_schedule
+      label: Training Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_fees
+      label: Training Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 9
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false

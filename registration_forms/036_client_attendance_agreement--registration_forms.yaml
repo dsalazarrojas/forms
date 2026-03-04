@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Attendance Agreement
+    pages:
+    - id: 1
+      name: attendance_header
+      label: -- Attendance Agreement and Policy --
+      hint: Consistent attendance is vital to your progress and the success of our
+        program.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_name
+      label: Program or Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: scheduled_sessions
+      label: Scheduled Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - Twice Weekly
+      - Once Weekly
+      - Bi-weekly
+      - Monthly
+      - Intensive Daily
+      required: true
+    - id: 6
+      name: attendance_policy_header
+      label: -- Policy Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_policy_ack
+      label: I agree to provide at least 24 hours notice for any cancellation
+      hint: Late cancellations may result in a fee or loss of session
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 8
+      name: arrival_time_ack
+      label: I agree to arrive or log in 5 minutes before my scheduled time
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 9
+      name: no_show_policy_ack
+      label: I understand that 3 consecutive no-shows may lead to program discharge
+      hint: null
+      type: select_one
+      options:
+      - I understand and agree
+      - Other
+      required: true
+    - id: 10
+      name: makeup_session_policy
+      label: I understand the makeup session policy (as outlined in the handbook)
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true
+    - id: 11
+      name: contact_for_absences
+      label: Primary method to report an absence
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - Client Portal
+      required: true
+    - id: 12
+      name: absence_reporting_email
+      label: Email Address for Reporting
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: absence_reporting_phone
+      label: Phone Number for Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: electronic_signature
+      label: Client Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: parent_guardian_signature
+      label: Parent/Guardian Signature (if client is under 18)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: agreement_footer
+      label: -- Thank you for your commitment to the program --
+      hint: null
+      type: note
+      options: []
+      required: false

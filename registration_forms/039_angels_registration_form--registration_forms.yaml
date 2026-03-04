@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angels Registration Form
+    pages:
+    - id: 1
+      name: section_registration_header
+      label: -- Angel Mentor and Advisor Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_expertise_background
+      label: -- Expertise and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: areas_of_expertise
+      label: Primary Areas of Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategic Planning
+      - Fundraising
+      - Technical Development
+      - Marketing
+      - Operations
+      - Legal / Compliance
+      required: true
+    - id: 7
+      name: industry_focus
+      label: Primary Industry Focus
+      hint: e.g. Fintech, Healthcare, EdTech
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_of_professional_experience
+      label: Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_engagement_preferences
+      label: -- Engagement Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_mentee_level
+      label: Preferred Mentee or Advisory Level
+      hint: null
+      type: select_one
+      options:
+      - Early Stage Startup
+      - Growth Stage
+      - Individual Professional
+      - Student
+      required: true
+    - id: 11
+      name: commitment_hours_per_month
+      label: Time Commitment (Hours per Month)
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-5 hours
+      - 5+ hours
+      required: true
+    - id: 12
+      name: interest_in_advisory_board
+      label: Interest in formal Advisory Board positions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 13
+      name: link_to_linkedin_profile
+      label: LinkedIn Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: brief_personal_statement
+      label: Brief Personal Statement
+      hint: Why do you want to be an angel mentor?
+      type: text
+      options: []
+      required: false

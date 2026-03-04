@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Tech Skills Training Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participants Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participants Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participants Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tech_skills
+      label: Tech Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Programming
+      - Data Science
+      - Web Development
+      - Artificial Intelligence
+      - Machine Learning
+      - Data Analysis
+      required: false
+    - id: 6
+      name: topic_interests
+      label: Topic Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Digital Literacy
+      - E-Government
+      - E-Health
+      - E-Education
+      - E-Banking
+      - E-Commerce
+      required: false

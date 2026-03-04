@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Conference Registration Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: specialty
+      label: Area of Specialty
+      hint: null
+      type: select_one
+      options:
+      - Allergy
+      - Cardiovascular
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - Nephrology
+      - Ophthalmology
+      - Pediatrics
+      - Pulmonology
+      - Rheumatology
+      required: false
+    - id: 6
+      name: bio
+      label: About Me
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: video
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false

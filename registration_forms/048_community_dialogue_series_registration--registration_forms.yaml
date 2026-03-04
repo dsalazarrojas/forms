@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Dialogue Series Registration
+    pages:
+    - id: 1
+      name: section_dialogue_registration_intro
+      label: -- Community Dialogue Series Registration --
+      hint: Join the conversation and share your voice in our community dialogues!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name_dgs
+      label: Full Name of Attendee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email_dgs
+      label: Email Address
+      hint: For event confirmation and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone_dgs
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_dob_dgs
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: attendee_address_dgs
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_dialogue_participation_dgs
+      label: -- Participation and Event Selection --
+      hint: Select the dialogue events and participation preferences you are interested
+        in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_dialogue_event_dgs
+      label: Which dialogue event(s) are you registering for
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Community Safety Dialogue (Saturday, May 10)
+      - Economic Development Dialogue (Saturday, June 14)
+      - Public Health Dialogue (Saturday, July 12)
+      - Environmental Sustainability Dialogue (Saturday, August 16)
+      required: true
+    - id: 9
+      name: participation_preference_dgs
+      label: What is your preferred participation format
+      hint: null
+      type: select_one
+      options:
+      - In-Person Attendee
+      - Virtual Attendee (Zoom/Teams)
+      - Dialogue Participant (Actively contributing)
+      - Dialogue Listener (Observing the conversation)
+      required: true
+    - id: 10
+      name: section_dialogue_topics_dgs
+      label: -- Dialogue Topics and Feedback --
+      hint: Tell us what topics and issues you'd like to see discussed.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: priority_dialogue_topics_dgs
+      label: Which dialogue topics are most important to you
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Community Safety and Policing
+      - Economic Opportunity and Growth
+      - Access to Quality Education
+      - Affordable Housing and Living
+      - Environmental Health and Safety
+      - Social Justice and Equity
+      required: true
+    - id: 12
+      name: dialogue_improvement_ideas_dgs
+      label: What are your ideas for making our community dialogues more effective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_final_submission_dgs
+      label: -- Final Submission and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: attendee_signature_digital_dgs
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_date_final_dgs
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: newsletter_opt_in_dgs
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 17
+      name: referral_source_dgs
+      label: How did you hear about this dialogue series registration
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 18
+      name: emergency_contact_full_name_dgs
+      label: Emergency Contact Person
+      hint: Someone not living with the attendee
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone_dgs
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments_final_dgs
+      label: Any Additional Comments for the Event Organizers
+      hint: null
+      type: text
+      options: []
+      required: false

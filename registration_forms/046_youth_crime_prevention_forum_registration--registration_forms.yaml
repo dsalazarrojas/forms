@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Crime Prevention Forum Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Interest
+      - Information
+      - Other
+      - Support
+      required: false
+    - id: 7
+      name: event_interest
+      label: Event Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Interest
+      - Information
+      - Other
+      - Support
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: attendance_interest
+      label: Attendance Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Interested
+      - Confirmed
+      - Unable to attend
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Registration Forms
+      - Event Forms
+      - Contact Forms
+      required: false

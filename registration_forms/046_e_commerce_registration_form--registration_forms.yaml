@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: e-commerce_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - China
+      - USA
+      - Japan
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      required: true
+    - id: 11
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 17
+      name: agreement_note
+      label: Agreement Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: agreement_time
+      label: Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: agreement_ip
+      label: Agreement IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agreement_url
+      label: Agreement URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agreement_agreement
+      label: Agreement Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I disagree
+      required: false
+    - id: 23
+      name: agreement_agreement_note
+      label: Agreement Agreement Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agreement_agreement_date
+      label: Agreement Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: agreement_agreement_time
+      label: Agreement Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Champions Info Session Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Email for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Office Location
+      hint: Your work location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: Name of your direct manager
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_selection
+      label: Session Selection
+      hint: Which info session will you attend
+      type: select_one
+      options:
+      - Morning session - 9 AM
+      - Midday session - 12 PM
+      - Afternoon session - 3 PM
+      - Evening session - 6 PM
+      - Virtual session
+      required: true
+    - id: 10
+      name: session_date
+      label: Preferred Session Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: change_champion_interest
+      label: Change Champion Interest
+      hint: Are you interested in becoming a change champion
+      type: select_one
+      options:
+      - Yes - Very interested
+      - Yes - Somewhat interested
+      - No - Just attending info session
+      - Maybe - Need more information
+      required: true
+    - id: 12
+      name: previous_change_experience
+      label: Previous Change Experience
+      hint: Have you been involved in change initiatives before
+      type: select_one
+      options:
+      - Yes - Led change initiatives
+      - Yes - Participated actively
+      - Yes - Observational role
+      - No - First time
+      required: true
+    - id: 13
+      name: motivation_statement
+      label: Motivation Statement
+      hint: Why are you interested in this role
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: relevant_skills
+      label: Relevant Skills
+      hint: What skills do you bring
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Problem solving
+      - Facilitation
+      - Coaching
+      - Project management
+      - Conflict resolution
+      - Training and development
+      required: false
+    - id: 15
+      name: time_commitment
+      label: Time Commitment Understanding
+      hint: I understand this role requires additional time commitment
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - Need more information
+      required: true
+    - id: 16
+      name: manager_approval
+      label: Manager Approval Status
+      hint: Do you have manager approval to participate
+      type: select_one
+      options:
+      - Yes - Approved
+      - Pending approval
+      - Not yet discussed
+      required: true
+    - id: 17
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary needs for catering
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: questions_for_session
+      label: Questions for Session
+      hint: Any questions you would like addressed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reminder_preference
+      label: Reminder Preference
+      hint: How should we send reminders
+      type: select_one
+      options:
+      - Email
+      - SMS text
+      - Calendar invite
+      - All of the above
+      required: true
+    - id: 21
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

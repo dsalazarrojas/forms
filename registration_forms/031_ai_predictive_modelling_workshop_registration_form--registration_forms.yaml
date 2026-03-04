@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Predictive Modelling Workshop Registration Form
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: --- Attendee Information ---
+      hint: Please provide your professional details for registration.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization_company
+      label: Organization / Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: technical_background_header
+      label: --- Technical Background & Proficiency ---
+      hint: Help us gauge the technical level of participants.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: programming_skills
+      label: Programming Language Proficiency
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Python (Pandas, Scikit-learn, etc.)
+        value: python
+      - label: R (Tidyverse, Caret, etc.)
+        value: r_lang
+      - label: SQL (Data extraction)
+        value: sql
+      - label: SAS / Stata
+        value: legacy_stats
+      - label: None / Excel Only
+        value: none
+      required: true
+    - id: 8
+      name: modeling_experience
+      label: Previous Experience with Predictive Modelling
+      hint: null
+      type: select_one
+      options:
+      - label: Beginner (No prior experience)
+        value: beginner
+      - label: Basic (Understand concepts, run basic regressions)
+        value: basic
+      - label: Intermediate (Built and deployed models)
+        value: intermediate
+      - label: Advanced (Specialist in deep learning/ensembles)
+        value: advanced
+      required: true
+    - id: 9
+      name: industry_application
+      label: Primary Industry for Application
+      hint: Where do you intend to apply these models?
+      type: select_one
+      options:
+      - label: Finance / Insurance
+        value: finance
+      - label: Healthcare / Pharmaceuticals
+        value: healthcare
+      - label: Retail / E-commerce
+        value: retail
+      - label: Manufacturing / Supply Chain
+        value: manufacturing
+      - label: Energy / Utilities
+        value: energy
+      - label: Academic Research
+        value: research
+      required: true
+    - id: 10
+      name: workshop_preferences_header
+      label: --- Workshop Logistics & Preferences ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workshop_date
+      label: Select Your Workshop Date
+      hint: null
+      type: select_one
+      options:
+      - label: August 20-21, 2026 (Summer Intensive)
+        value: august_session
+      - label: September 15-16, 2026 (Fall Session)
+        value: september_session
+      required: true
+    - id: 12
+      name: learning_format_preference
+      label: Preferred Learning Format
+      hint: null
+      type: select_one
+      options:
+      - label: Hands-on Coding (70% Code, 30% Theory)
+        value: coding_heavy
+      - label: Theory Focused (70% Concepts, 30% Examples)
+        value: theory_heavy
+      - label: Balanced (50/50)
+        value: balanced
+      required: true
+    - id: 13
+      name: interest_topics
+      label: Specific Topics of Interest
+      hint: Select top 2.
+      type: select_multiple
+      options:
+      - label: Time Series Forecasting
+        value: time_series
+      - label: Classification & Anomaly Detection
+        value: classification
+      - label: Feature Engineering & Selection
+        value: feature_eng
+      - label: Model Interpretation (SHAP/LIME)
+        value: interpretation
+      required: true
+    - id: 14
+      name: hardware_status
+      label: Will you bring your own laptop?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I will bring my own device
+        value: yes
+      - label: No, I request a loaner workstation
+        value: no
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - label: Credit Card
+        value: credit_card
+      - label: PayPal
+        value: paypal
+      - label: Corporate PO / Invoice
+        value: invoice
+      required: true
+    - id: 16
+      name: certificate_request
+      label: Do you require a Certificate of Completion?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes
+        value: yes
+      - label: No
+        value: no
+      required: true
+    - id: 17
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

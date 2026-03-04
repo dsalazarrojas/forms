@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Form PayPal Checkout
+    pages:
+    - id: 1
+      name: paypal_registration_intro_header
+      label: -- Camp Registration and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registrant_full_name_pp
+      label: Registrant Full Name
+      hint: Person attending or parent registering
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registrant_email_pp
+      label: Email Address
+      hint: For PayPal receipt and registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: registrant_phone_pp
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: billing_address_header_pp
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: billing_street_address_pp
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: billing_city_pp
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: billing_state_pp
+      label: State - Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: billing_zip_code_pp
+      label: Postal - Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payment_selection_header_pp
+      label: -- Session and Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: camp_session_selection_pp
+      label: Select Your Camp Session
+      hint: Fees are processed via PayPal
+      type: select_one
+      options:
+      - Junior Adventure Week ($350)
+      - Teen Leadership Intensive ($450)
+      - Family Weekend Retreat ($250 per person)
+      - Day Camp - Single Week ($175)
+      required: true
+    - id: 12
+      name: number_of_participants_pp
+      label: Number of Participants
+      hint: Total count for this transaction
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: additional_options_pp
+      label: Additional Options - Add-ons
+      hint: null
+      type: select_multiple
+      options:
+      - Early Drop-off ($25)
+      - Late Pick-up ($25)
+      - Boxed Lunch Plan ($50)
+      - Official Camp Hoodie ($35)
+      required: false
+    - id: 14
+      name: total_estimated_fee_pp
+      label: Total Fee to be Processed
+      hint: Calculated total (Estimate)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: paypal_transaction_id_placeholder
+      label: PayPal Transaction ID
+      hint: Leave blank if paying now through the integrated button
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: waiver_agreement_pp
+      label: Registration Waiver and Refund Policy
+      hint: I agree to the terms of registration and understand the refund policy
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: registration_pp_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operational Sustainability Program Registration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_details
+      label: Program Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Select a Value'', ''value'': ''value1''}'
+      - '{''label'': ''Select Another Value'', ''value'': ''value2''}'
+      required: false
+    - id: 4
+      name: sustainability_committee
+      label: Sustainability Committee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Select a Value'', ''value'': ''value1''}'
+      - '{''label'': ''Select Another Value'', ''value'': ''value2''}'
+      - '{''label'': ''Select A Different Value'', ''value'': ''value3''}'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      required: false

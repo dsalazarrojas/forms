@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: investor_information_form
+    pages:
+    - id: 1
+      name: investor_name
+      label: Investor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 6
+      name: investor_type_option_1
+      label: Option 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: investor_type_option_2
+      label: Option 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: investor_type_option_3
+      label: Option 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: investment_status
+      label: Investment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: investment_status_option_active
+      label: Active
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: investment_status_option_inactive
+      label: Inactive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: investor_name_hint
+      label: Enter Investor Name
+      hint: Enter investor name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_number_hint
+      label: Enter Contact Number
+      hint: Enter contact number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: email_hint
+      label: Enter Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: company_name_hint
+      label: Enter Company Name
+      hint: Enter company name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: investment_type_hint
+      label: Enter Investment Type
+      hint: Enter investment type
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: investment_amount_hint
+      label: Enter Investment Amount
+      hint: Enter investment amount
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: investment_status_hint
+      label: Enter Investment Status
+      hint: Enter investment status
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: investment_status_option_1_hint
+      label: Enter Option 1
+      hint: Enter status option 1
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: investment_status_option_2_hint
+      label: Enter Option 2
+      hint: Enter status option 2
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

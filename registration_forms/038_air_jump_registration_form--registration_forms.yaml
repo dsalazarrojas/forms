@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Jump Registration Form
+    pages:
+    - id: 1
+      name: jumper_details_header
+      label: -- Jumper Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: jumper_name
+      label: Jumper Name
+      hint: Full Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Must be 5+
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: weight
+      label: Weight (lbs)
+      hint: For safety harness sizing
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: jump_session_header
+      label: -- Jump Session --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: jump_date
+      label: Date of Jump
+      hint: When are you coming?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: Select slot
+      type: select_one
+      options:
+      - 10:00 AM
+      - 12:00 PM
+      - 2:00 PM
+      - 4:00 PM
+      - 6:00 PM
+      required: true
+    - id: 8
+      name: guardian_info
+      label: Parent/Guardian Name
+      hint: Required if jumper is under 18
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and Phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have heart/back/neck issues or are pregnant?
+      type: select_one
+      options:
+      - Yes - I have a condition
+      - No - I am fit to jump
+      required: true
+    - id: 11
+      name: waiver_acceptance
+      label: Liability Waiver
+      hint: I agree to the risks of air jumping
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 12
+      name: addons_header
+      label: -- Add-ons --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: photo_package
+      label: Add Photo Package?
+      hint: Professional photos of your jump ($25)
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: Pay now or at arrival
+      type: select_one
+      options:
+      - Credit Card (Online)
+      - Cash / Card (At Arrival)
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Men's Metro Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Enter your official email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_multiple
+      options:
+      - Event 1
+      - Event 2
+      - Event 3
+      required: false
+    - id: 8
+      name: metro_location
+      label: metro_location
+      hint: Enter your metro location
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: event_date
+      hint: Enter the event date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_conf
+      label: email_conf
+      hint: Enter your email confirmation
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_conf
+      label: phone_conf
+      hint: Enter your phone number confirmation
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note_conf
+      label: note_conf
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: first_name_err
+      label: first_name_err
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_name_err
+      label: last_name_err
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: phone_err
+      label: phone_err
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email_err
+      label: email_err
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: event_type_err
+      label: event_type_err
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: metro_location_err
+      label: metro_location_err
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_date_err
+      label: event_date_err
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: event_time_err
+      label: event_time_err
+      hint: null
+      type: time
+      options: []
+      required: false

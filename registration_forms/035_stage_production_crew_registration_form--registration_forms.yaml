@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stage Production Crew Registration Form
+    pages:
+    - id: 1
+      name: stage_production_crew_registration_form_name
+      label: Stage Production Crew Registration Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stage_production_crew_registration_form_title
+      label: Stage Production Crew Registration Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stage_production_crew_registration_form_email
+      label: Stage Production Crew Registration Form Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: stage_production_crew_registration_form_phone
+      label: Stage Production Crew Registration Form Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: stage_production_crew_registration_form_job_title
+      label: Stage Production Crew Registration Form Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: stage_production_crew_registration_form_employed_by
+      label: Stage Production Crew Registration Form Employed by
+      hint: null
+      type: select_multiple
+      options:
+      - Stage Manager
+      - Assistant Manager
+      - Production Team
+      required: true
+    - id: 7
+      name: stage_production_crew_registration_form_available_dates
+      label: Stage Production Crew Registration Form Available Dates
+      hint: Enter date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: stage_production_crew_registration_form_availability
+      label: Stage Production Crew Registration Form Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Unavailable
+      required: true
+    - id: 9
+      name: stage_production_crew_registration_form_notes
+      label: Stage Production Crew Registration Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: stage_production_crew_registration_form_additional_comments
+      label: Stage Production Crew Registration Form Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: stage_production_crew_registration_form_time
+      label: Stage Production Crew Registration Form Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: stage_production_crew_registration_form_start_date
+      label: Stage Production Crew Registration Form Start Date
+      hint: Enter date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: stage_production_crew_registration_form_end_date
+      label: Stage Production Crew Registration Form End Date
+      hint: Enter date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: stage_production_crew_registration_form_hours
+      label: Stage Production Crew Registration Form Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21-25
+      - 26-30
+      - 31-35
+      - 36 or more
+      required: true
+    - id: 15
+      name: stage_production_crew_registration_form_rate
+      label: Stage Production Crew Registration Form Rate
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '50'
+      required: true
+    - id: 16
+      name: stage_production_crew_registration_form_venue
+      label: Stage Production Crew Registration Form Venue
+      hint: null
+      type: select_multiple
+      options:
+      - Main Stage
+      - Backstage
+      - Green Room
+      - Load/Unload
+      - Stage Door
+      - Green Room
+      - Other
+      required: false
+    - id: 17
+      name: stage_production_crew_registration_form_venue_description
+      label: Stage Production Crew Registration Form Venue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: stage_production_crew_registration_form_venue_details
+      label: Stage Production Crew Registration Form Venue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stage_production_crew_registration_form_stage
+      label: Stage Production Crew Registration Form Stage
+      hint: null
+      type: select_one
+      options:
+      - Front of House
+      - Back of House
+      - Stage
+      - Other
+      required: true
+    - id: 20
+      name: stage_production_crew_registration_form_stage_details
+      label: Stage Production Crew Registration Form Stage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stage_production_crew_registration_form_backstage
+      label: Stage Production Crew Registration Form Backstage
+      hint: null
+      type: select_multiple
+      options:
+      - Front of House
+      - Back of House
+      - Stage
+      - Other
+      required: true
+    - id: 22
+      name: stage_production_crew_registration_form_backstage_details
+      label: Stage Production Crew Registration Form Backstage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: stage_production_crew_registration_form_front_of_house
+      label: Stage Production Crew Registration Form Front of House
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: stage_production_crew_registration_form_back_of_house
+      label: Stage Production Crew Registration Form Back of House
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: stage_production_crew_registration_form_stage_equipment
+      label: Stage Production Crew Registration Form Stage Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 26
+      name: stage_production_crew_registration_form_other_equipment
+      label: Stage Production Crew Registration Form Other Equipment
+      hint: null
+      type: text
+      options: []
+      required: false

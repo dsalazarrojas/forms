@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Show Check In Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: checkin_time
+      label: Checkin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: checkin_location
+      label: Checkin Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: checkin_status
+      label: Checkin Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''checked_in'', ''label'': ''Checked In''}'
+      - '{''value'': ''not_checked_in'', ''label'': ''Not Checked In''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: assigned_tool_other
+      label: Other Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: checkin_user
+      label: Checkin User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''user1'', ''label'': ''user1''}'
+      - '{''value'': ''user2'', ''label'': ''user2''}'
+      - '{''value'': ''user3'', ''label'': ''user3''}'
+      required: false
+    - id: 15
+      name: checkin_user
+      label: Checkin User
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''user1'', ''label'': ''user1''}'
+      - '{''value'': ''user2'', ''label'': ''user2''}'
+      - '{''value'': ''user3'', ''label'': ''user3''}'
+      required: false
+    - id: 16
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: checkin_time
+      label: Checkin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: checkin_status
+      label: Checkin Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''checked_in'', ''label'': ''Checked In''}'
+      - '{''value'': ''not_checked_in'', ''label'': ''Not Checked In''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 19
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: checkin_location
+      label: Checkin Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool_other
+      label: Other Tool
+      hint: null
+      type: text
+      options: []
+      required: false

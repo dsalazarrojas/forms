@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Camp Detailed Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: camp_name
+      label: camp_name
+      hint: null
+      type: select_one
+      options:
+      - Camp Name 1
+      - Camp Name 2
+      - Camp Name 3
+      required: true
+    - id: 5
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_multiple
+      options:
+      - Participant Type 1
+      - Participant Type 2
+      - Participant Type 3
+      required: true
+    - id: 7
+      name: participant_type_other
+      label: participant_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

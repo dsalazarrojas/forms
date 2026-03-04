@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Club Membership Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: professional_information_section
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Name of your current company
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: industry_sector
+      label: Industry Sector
+      hint: Which industry sector do you work in
+      type: select_one
+      options:
+      - Advertising/Marketing
+      - Technology
+      - Entertainment
+      - Retail
+      - Healthcare
+      - Finance
+      - Education
+      - Other
+      required: true
+    - id: 11
+      name: years_experience
+      label: Years of Experience
+      hint: How many years of experience in advertising/marketing
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: membership_details_section
+      label: -- Membership Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: membership_type
+      label: Membership Type
+      hint: What type of membership are you applying for
+      type: select_one
+      options:
+      - Individual
+      - Corporate
+      - Student
+      - Senior
+      - Emeritus
+      required: true
+    - id: 14
+      name: membership_duration
+      label: Membership Duration
+      hint: How long would you like your membership to last
+      type: select_one
+      options:
+      - Annual
+      - Multi-year
+      - Lifetime
+      required: true
+    - id: 15
+      name: chapter_affiliation
+      label: Chapter Affiliation
+      hint: Which local chapter would you like to join
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: interests_objectives_section
+      label: -- Interests and Objectives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: professional_interests
+      label: Professional Interests
+      hint: What aspects of advertising interest you most
+      type: select_multiple
+      options:
+      - Digital Marketing
+      - Brand Strategy
+      - Creative Development
+      - Media Planning
+      - Analytics
+      - Account Management
+      - Other
+      required: true
+    - id: 18
+      name: networking_goals
+      label: Networking Goals
+      hint: What are your networking goals through the club
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: payment_information_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for your membership
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Company Reimbursement
+      required: true

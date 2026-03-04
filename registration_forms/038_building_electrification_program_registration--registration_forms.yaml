@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Electrification Program Registration
+    pages:
+    - id: 1
+      name: property_owner
+      label: Property Owner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: If commercial property
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_name
+      label: Property Name
+      hint: Name of property
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: property_type
+      label: Property Type
+      hint: Classification
+      type: select_one
+      options:
+      - Single Family Home
+      - Multi Family Residential
+      - Commercial Office
+      - Retail Building
+      - Industrial Facility
+      - Mixed Use
+      - Institutional
+      - Other
+      required: true
+    - id: 13
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: building_size
+      label: Building Size
+      hint: Square footage
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: number_of_units
+      label: Number of Units
+      hint: If multi-unit
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: current_heating
+      label: Current Heating System
+      hint: Primary heating source
+      type: select_one
+      options:
+      - Natural Gas Furnace
+      - Oil Furnace
+      - Propane
+      - Electric Resistance
+      - Heat Pump
+      - Boiler System
+      - Other
+      required: true
+    - id: 17
+      name: current_cooling
+      label: Current Cooling System
+      hint: Primary cooling source
+      type: select_one
+      options:
+      - Central Air Conditioning
+      - Heat Pump
+      - Window Units
+      - Evaporative Cooler
+      - No Cooling System
+      - Other
+      required: true
+    - id: 18
+      name: current_water_heater
+      label: Current Water Heater
+      hint: Type of water heater
+      type: select_one
+      options:
+      - Natural Gas
+      - Propane
+      - Electric Tank
+      - Electric Tankless
+      - Solar
+      - Other
+      required: true
+    - id: 19
+      name: gas_appliances
+      label: Gas Appliances Present
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Gas Stove/Range
+      - Gas Oven
+      - Gas Dryer
+      - Gas Fireplace
+      - Gas Pool Heater
+      - Gas Outdoor Grill
+      - Other Gas Appliances
+      required: true
+    - id: 20
+      name: electrification_goals
+      label: Electrification Goals
+      hint: What do you want to electrify
+      type: select_multiple
+      options:
+      - Space Heating
+      - Water Heating
+      - Cooking Appliances
+      - Clothes Drying
+      - Vehicle Charging
+      - Complete Electrification
+      - Other
+      required: true
+    - id: 21
+      name: motivation
+      label: Primary Motivation
+      hint: Why electrify
+      type: select_one
+      options:
+      - Environmental Concerns
+      - Cost Savings
+      - Rebates and Incentives
+      - Health and Safety
+      - Building Codes
+      - Property Value
+      - Other
+      required: true
+    - id: 22
+      name: timeline
+      label: Implementation Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 3 Months
+      - Within 6 Months
+      - Within 1 Year
+      - Planning for Future
+      required: true
+    - id: 23
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $15,000
+      - $15,000 - $30,000
+      - $30,000 - $50,000
+      - Over $50,000
+      - Seeking Financing
+      required: false
+    - id: 24
+      name: electrical_panel
+      label: Electrical Panel Capacity
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: solar_installed
+      label: Solar Panels Installed
+      hint: Do you have solar
+      type: select_one
+      options:
+      - Yes - Owned
+      - Yes - Leased
+      - No - But Interested
+      - No - Not Interested
+      required: true
+    - id: 26
+      name: ev_charging
+      label: EV Charging Interest
+      hint: Interested in EV charging
+      type: select_one
+      options:
+      - Yes - Currently Need
+      - Yes - Future Need
+      - No - Not Interested
+      required: true
+    - id: 27
+      name: program_interest
+      label: Program Interest
+      hint: What support do you need
+      type: select_multiple
+      options:
+      - Energy Audit
+      - System Design
+      - Installation Services
+      - Rebate Assistance
+      - Financing Options
+      - Technical Consultation
+      - All of the Above
+      required: true
+    - id: 28
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Confirmation Verification Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: Guest First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_last_name
+      label: Guest Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: checkin_date
+      label: Checkin Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guest_id
+      label: Guest ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: confirmation_code
+      label: Confirmation Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reservation_id
+      label: Reservation ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: hotel_name
+      label: Hotel Name
+      hint: null
+      type: text
+      options: []
+      required: false

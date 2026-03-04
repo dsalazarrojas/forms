@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Network Registration Form
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Business category
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Real estate
+      - Professional services
+      - Hospitality
+      - Education
+      - Other
+      required: true
+    - id: 9
+      name: business_description
+      label: Business Description
+      hint: Brief description of what you do
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: network_type_interest
+      label: Network Type Interest
+      hint: What type of networking do you prefer
+      type: select_one
+      options:
+      - Online platform
+      - In-person events
+      - Virtual meetings
+      - Hybrid approach
+      - No preference
+      required: true
+    - id: 12
+      name: networking_goals
+      label: Networking Goals
+      hint: What do you hope to achieve
+      type: select_multiple
+      options:
+      - Find new clients
+      - Find partners
+      - Find vendors
+      - Learn from peers
+      - Share expertise
+      - Build relationships
+      - Generate referrals
+      - Career advancement
+      required: true
+    - id: 13
+      name: referral_capacity
+      label: Referral Capacity
+      hint: Can you provide business referrals
+      type: select_one
+      options:
+      - Yes - regularly
+      - Yes - occasionally
+      - Maybe - depends
+      - No - not at this time
+      required: true
+    - id: 14
+      name: membership_tier
+      label: Membership Tier
+      hint: Select membership level
+      type: select_one
+      options:
+      - Basic - free
+      - Standard
+      - Premium
+      - Executive
+      - Corporate
+      required: true
+    - id: 15
+      name: profile_visibility
+      label: Profile Visibility Preference
+      hint: Who can see your profile
+      type: select_one
+      options:
+      - All members
+      - Verified members only
+      - Direct connections only
+      - Private
+      required: true
+    - id: 16
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How do you want to receive updates
+      type: select_multiple
+      options:
+      - Email newsletters
+      - Event invitations
+      - Member announcements
+      - Industry updates
+      - Job postings
+      - None
+      required: true
+    - id: 17
+      name: social_media_links
+      label: Social Media Profiles
+      hint: LinkedIn or other professional profiles
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specialties
+      label: Your Specialties
+      hint: What are you known for
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: looking_for
+      label: What Are You Looking For
+      hint: What connections do you want to make
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About This Network
+      hint: Source of awareness
+      type: select_one
+      options:
+      - Referral
+      - Online search
+      - Social media
+      - Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 21
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree to the terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true

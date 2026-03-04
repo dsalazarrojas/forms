@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: DIY Workshop Signup Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_workshop
+      label: Date of Workshop
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_workshop
+      label: Time of Workshop
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workshop_instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_level
+      label: Level of Interest
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      - Level 5
+      required: true
+    - id: 11
+      name: workshop_topics
+      label: Topics of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Topics 1
+      - Topics 2
+      - Topics 3
+      - Topics 4
+      - Topics 5
+      required: false
+    - id: 12
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: workshop_participants
+      label: Number of Workshop Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: workshop_type
+      label: Type of Workshop
+      hint: null
+      type: select_one
+      options:
+      - Workshop A
+      - Workshop B
+      - Workshop C
+      required: false
+    - id: 17
+      name: workshop_time
+      label: Time of Workshop
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: workshop_duration
+      label: Duration of Workshop
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: workshop_capacity
+      label: Capacity of Workshop
+      hint: null
+      type: number
+      options: []
+      required: false

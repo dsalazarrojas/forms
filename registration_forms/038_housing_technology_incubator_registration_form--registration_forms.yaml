@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Technology Incubator Registration Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_info
+      label: Project info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: innovation_program
+      label: Innovation Program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Incubator'', ''label'': ''Incubator''}'
+      - '{''id'': 2, ''name'': ''Accelerator'', ''label'': ''Accelerator''}'
+      - '{''id'': 2, ''name'': ''Research center'', ''label'': ''Research center''}'
+      - '{''id'': 3, ''name'': ''Incubator-accelerator'', ''label'': ''Incubator-accelerator''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: startup_type
+      label: Start-up type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Housing tech'', ''label'': ''Housing tech''}'
+      - '{''id'': 2, ''name'': ''Real estate'', ''label'': ''Real estate''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

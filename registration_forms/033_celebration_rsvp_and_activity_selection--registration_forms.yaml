@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Celebration RSVP and Activity Selection
+    pages:
+    - id: 1
+      name: section_rsvp_info
+      label: -- RSVP Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_event_reference
+      label: -- Event Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_rsvp_response
+      label: -- RSVP Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_response
+      label: Will You Attend?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe - Uncertain
+      - Yes with +1 guest
+      required: true
+    - id: 10
+      name: number_of_guests
+      label: Number of Guests (Including You)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_dietary
+      label: -- Dietary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut-free
+      - Shellfish-free
+      - None
+      required: false
+    - id: 13
+      name: additional_dietary_needs
+      label: Additional Dietary Needs
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_activity_selection
+      label: -- Activity Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: interested_activities
+      label: Which Activities Interest You?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dinner Reception
+      - Cocktail Hour
+      - Dancing
+      - Games and Contests
+      - Photo Booth
+      - Karaoke
+      - Silent Auction
+      - Raffle
+      - Guest Speaker
+      - Entertainment Performance
+      required: true
+    - id: 16
+      name: primary_activity
+      label: Primary Activity Choice
+      hint: What interests you most?
+      type: select_one
+      options:
+      - Dinner Reception
+      - Cocktail Hour
+      - Dancing
+      - Games and Contests
+      - Photo Booth
+      - Karaoke
+      - Silent Auction
+      - Raffle
+      - Guest Speaker
+      - Entertainment Performance
+      required: false
+    - id: 17
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Accessibility, seating preferences, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: plus_one_name
+      label: Plus One Guest Name
+      hint: If attending with a guest
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: plus_one_dietary
+      label: Plus One Dietary Restrictions
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: seating_preference
+      label: Seating Preference
+      hint: If available
+      type: select_one
+      options:
+      - Regular Seating
+      - Near Stage
+      - VIP Table
+      - Family Seating
+      - No Preference
+      required: false
+    - id: 23
+      name: transport_needed
+      label: Do You Need Transportation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rsvp_confirmation
+      label: I confirm my RSVP response above
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

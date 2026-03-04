@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Registration
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist or Band Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Band Name
+      hint: Professional name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_type
+      label: Type of Artist
+      hint: Solo artist or group?
+      type: select_one
+      options:
+      - Solo Artist
+      - Duo
+      - Band (3-5 members)
+      - Large Ensemble (5+ members)
+      - Orchestra
+      - Chorus or Choir
+      required: true
+    - id: 4
+      name: primary_contact
+      label: Primary Contact Name
+      hint: Band leader or representative
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Musical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_genre
+      label: Primary Genre
+      hint: Main music style
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: secondary_genres
+      label: Secondary Genres
+      hint: Other styles you perform
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: years_performing
+      label: Years of Performance Experience
+      hint: How long have you been performing?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Band Members --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: member_count
+      label: Number of Band Members
+      hint: How many musicians in the group?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: member_list
+      label: List of Band Members and Instruments
+      hint: Names and their instruments
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_4
+      label: -- Performance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: typical_set_length
+      label: Typical Set Duration
+      hint: How long is a typical performance?
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3 hours
+      - Flexible
+      required: true
+    - id: 16
+      name: equipment_required
+      label: Equipment or Technical Requirements
+      hint: Sound system, stage setup, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: available_days
+      label: Days Available for Performances
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 19
+      name: available_times
+      label: Times Available for Performances
+      hint: Preferred performance times
+      type: select_multiple
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-10pm)
+      - Late Night (10pm+)
+      - Flexible
+      required: true
+    - id: 20
+      name: advance_notice
+      label: Advance Notice Needed for Booking
+      hint: How much notice do you require?
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 1 month
+      - 6 weeks
+      - 2 months
+      - Flexible
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Online Presence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: website_url
+      label: Website or Official Page
+      hint: Your band website or social media
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: streaming_links
+      label: Streaming Platform Links
+      hint: Spotify, Apple Music, YouTube, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: social_media
+      label: Social Media Handles
+      hint: Instagram, Facebook, Twitter, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: registration_confirmation
+      label: I Confirm This Registration Information is Accurate
+      hint: Verify the accuracy of your registration
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - No, I Need to Make Changes
+      required: true

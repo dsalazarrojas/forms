@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Release Authorization Intake Form
+    pages:
+    - id: 1
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_person
+      label: emergency contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_relationship
+      label: emergency contact relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: emergency_release_date
+      label: emergency release date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_note
+      label: contact note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_alternate_phone
+      label: alternate contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_alternate_email
+      label: alternate contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_alternate_note
+      label: alternate contact note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: organization_approval
+      label: organization approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false

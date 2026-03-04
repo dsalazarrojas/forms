@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swimming Club Tournament Entry Form
+    pages:
+    - id: 1
+      name: swimmer_name
+      label: Swimmer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: swimmer_club
+      label: Swimmers Club
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: swimmer_contact
+      label: Swimmers Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parents Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_contact
+      label: Parents Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_id
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: entry_details
+      label: Entry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: swimmer_dob
+      label: Swimmers Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: swimmer_age
+      label: Swimmers Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: parent_dob
+      label: Parents Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: parent_age
+      label: Parents Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: swimmer_gender
+      label: Swimmers Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: swimmer_level
+      label: Swimmers Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 17
+      name: entry_id
+      label: Entry ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: entry_status
+      label: Entry Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: entry_date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: parent_email
+      label: Parents Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: swimmer_phone
+      label: Swimmers Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: parent_phone
+      label: Parents Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: parent_address
+      label: Parents Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: club
+      label: Club
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

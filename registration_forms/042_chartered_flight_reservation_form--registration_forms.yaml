@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chartered Flight Reservation Form
+    pages:
+    - id: 1
+      name: section_passenger_info
+      label: -- Passenger Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For flight confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: passport_number
+      label: Passport Number
+      hint: If traveling internationally
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_flight
+      label: -- Flight Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: departure_date
+      label: Departure Date
+      hint: When do you want to depart
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: return_date
+      label: Return Date
+      hint: When do you want to return
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: departure_city
+      label: Departure City
+      hint: Where are you flying from
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: destination_city
+      label: Destination City
+      hint: Where are you flying to
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: departure_time
+      label: Preferred Departure Time
+      hint: Early morning, afternoon, etc
+      type: select_one
+      options:
+      - Early Morning
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      required: false
+    - id: 14
+      name: section_passengers
+      label: -- Passenger Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: total_passengers
+      label: Total Number of Passengers
+      hint: How many people traveling
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: children_count
+      label: Number of Children
+      hint: Ages 2-12
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: infant_count
+      label: Number of Infants
+      hint: Under 2 years old
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Flight Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: seat_preference
+      label: Seat Preference
+      hint: Window, aisle, middle
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Middle
+      - No Preference
+      required: false
+    - id: 20
+      name: meal_preference
+      label: Meal Preference
+      hint: Dietary requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Wheelchair assistance, service animals, etc
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: loyalty_program
+      label: Loyalty Program Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reservation_date
+      label: Reservation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

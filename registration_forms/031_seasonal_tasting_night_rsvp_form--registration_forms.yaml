@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Tasting Night RSVP Form
+    pages:
+    - id: 1
+      name: seasonal_tasting_night_rsvp_form
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dietary_restrictions_options
+      label: dietary_restrictions_options
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Gluten Free'', ''value'': ''gluten_free''}'
+      - '{''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
+      - '{''label'': ''Vegan'', ''value'': ''vegan''}'
+      - '{''label'': ''None'', ''value'': ''none''}'
+      required: false
+    - id: 7
+      name: number_guests
+      label: number_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_date
+      label: rsvp_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_time
+      label: rsvp_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false

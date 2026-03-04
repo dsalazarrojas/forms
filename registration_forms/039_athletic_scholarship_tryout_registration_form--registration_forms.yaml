@@ -1,0 +1,336 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athletic Scholarship Tryout Registration Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - College
+      - Post-Graduate
+      required: true
+    - id: 12
+      name: gpa
+      label: Current GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: sport
+      label: Sport for Tryout
+      hint: Primary sport
+      type: select_one
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and Field
+      - Swimming
+      - Volleyball
+      - Baseball
+      - Softball
+      - Tennis
+      - Wrestling
+      - Other
+      required: true
+    - id: 14
+      name: position
+      label: Primary Position
+      hint: Main position played
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you played
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: current_team
+      label: Current Team
+      hint: School or club team
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: coach_name
+      label: Coach Name
+      hint: Current coach
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: coach_contact
+      label: Coach Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: athletic_achievements
+      label: Athletic Achievements
+      hint: List awards, honors, records
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: personal_records
+      label: Personal Records or Stats
+      hint: List key statistics
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tryout_date_preference
+      label: Tryout Date Preference
+      hint: Select preferred date
+      type: select_one
+      options:
+      - First Tryout Date
+      - Second Tryout Date
+      - Either Date
+      - Will Contact for Scheduling
+      required: true
+    - id: 24
+      name: scholarship_type
+      label: Scholarship Type Seeking
+      hint: What type of scholarship
+      type: select_one
+      options:
+      - Full Scholarship
+      - Partial Scholarship
+      - Need-Based Aid
+      - Merit-Based Aid
+      - Not Sure
+      required: true
+    - id: 25
+      name: financial_need
+      label: Financial Need Statement
+      hint: Briefly describe financial need if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: injury_history
+      label: Injury History
+      hint: List any significant injuries
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: current_injuries
+      label: Current Injuries or Limitations
+      hint: Any current issues
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: medical_clearance
+      label: Medical Clearance Status
+      hint: Are you cleared for full activity
+      type: select_one
+      options:
+      - Yes - Fully Cleared
+      - Yes - With Restrictions
+      - No - Pending Clearance
+      required: true
+    - id: 29
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 34
+      name: tryout_fee
+      label: Tryout Fee
+      hint: Fee amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 35
+      name: fee_waiver_needed
+      label: Fee Waiver Needed
+      hint: Do you need a fee waiver
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 36
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Cash
+      - Online Payment
+      required: false
+    - id: 37
+      name: liability_waiver
+      label: Liability Waiver Agreement
+      hint: I agree to the liability waiver
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true
+    - id: 38
+      name: medical_treatment_permission
+      label: Medical Treatment Permission
+      hint: Permission to seek emergency medical treatment
+      type: select_one
+      options:
+      - Yes - I Grant Permission
+      - 'No'
+      required: true
+    - id: 39
+      name: athlete_signature
+      label: Athlete Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature if under 18
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

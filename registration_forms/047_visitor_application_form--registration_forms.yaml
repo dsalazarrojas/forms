@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Application Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_phone
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_of_visit
+      label: Date of Visit
+      hint: Enter date of visit
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_visit
+      label: Time of Visit
+      hint: Enter time of visit
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Enter reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: Enter company name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: visitor_id
+      label: Visitor ID
+      hint: Enter visitor ID
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_permission
+      label: Photo Permission
+      hint: Grant photo permission
+      type: select_one
+      options:
+      - Allowed
+      - Not Allowed
+      required: false
+    - id: 12
+      name: background_check
+      label: Background Check
+      hint: Conduct a background check
+      type: select_one
+      options:
+      - Required
+      - Not Required
+      required: false
+    - id: 13
+      name: visitor_signature
+      label: Visitor Signature
+      hint: Enter your signature
+      type: note
+      options: []
+      required: false

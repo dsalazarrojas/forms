@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Farmers Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: type_of_cattle
+      label: type_of_cattle
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: farm_size
+      label: farm_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: farm_location
+      label: farm_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: farm_type
+      label: farm_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: farm_description
+      label: farm_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: farm_product
+      label: farm_product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: farm_product_description
+      label: farm_product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_location
+      label: contact_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_hours
+      label: contact_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: contact_facebook
+      label: contact_facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_twitter
+      label: contact_twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_instagram
+      label: contact_instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_website
+      label: contact_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: farm_certification
+      label: farm_certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: farm_license
+      label: farm_license
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: farm_registration_date
+      label: farm_registration_date
+      hint: null
+      type: date
+      options: []
+      required: true

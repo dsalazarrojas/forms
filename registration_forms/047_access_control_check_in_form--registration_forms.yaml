@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Check In Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Access Control Check-In Form --
+      hint: Register your entry for access control purposes. All visitors and attendees
+        must complete this form.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendee_type
+      label: Type of attendee
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Contractor
+      - Visitor
+      - VIP Guest
+      - Event Attendee
+      - Delivery Personnel
+      required: true
+    - id: 7
+      name: check_in_date
+      label: Date of check-in
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: check_in_time
+      label: Time of check-in
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: entry_point
+      label: Entry point or gate
+      hint: null
+      type: select_one
+      options:
+      - Main entrance
+      - Side entrance
+      - Loading dock
+      - Parking garage entrance
+      - VIP entrance
+      - Other
+      required: true
+    - id: 10
+      name: host_or_contact
+      label: Host or contact person on site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: purpose_of_entry
+      label: Purpose of entry
+      hint: null
+      type: select_one
+      options:
+      - Scheduled meeting
+      - Event attendance
+      - Service or maintenance
+      - Delivery
+      - Interview
+      - General visit
+      required: true
+    - id: 12
+      name: authorized_areas
+      label: Areas authorized to access
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_checkout_time
+      label: Expected check-out time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: equipment_brought
+      label: Are you bringing any equipment or materials onto the premises
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: equipment_description
+      label: If yes, please describe the equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: id_verified
+      label: Photo identification has been verified
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: safety_agreement
+      label: I agree to comply with all site access control and safety policies
+      hint: null
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true

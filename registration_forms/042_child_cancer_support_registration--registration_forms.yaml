@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Cancer Support Registration
+    pages:
+    - id: 1
+      name: registration_intro
+      label: -- Child Cancer Support Registration --
+      hint: Register for support services and resources
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_name
+      label: Parent or caregiver name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_relationship
+      label: Relationship to child
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: true
+    - id: 5
+      name: parent_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_name
+      label: Child's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_age
+      label: Child's age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child's date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: cancer_type
+      label: Type of cancer diagnosed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: diagnosis_date
+      label: Date of diagnosis
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: treatment_status
+      label: Current treatment status
+      hint: null
+      type: select_one
+      options:
+      - Active treatment
+      - Recently completed treatment
+      - Remission
+      - Palliative care
+      - Post-treatment follow-up
+      required: true
+    - id: 13
+      name: treatment_type
+      label: Types of treatment received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chemotherapy
+      - Radiation
+      - Surgery
+      - Immunotherapy
+      - Targeted therapy
+      - Other
+      required: true
+    - id: 14
+      name: hospital_facility
+      label: Hospital or treatment facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: support_needs
+      label: Support needs and services desired
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emotional support
+      - Financial assistance
+      - Transportation
+      - Meal support
+      - Childcare for siblings
+      - Counseling
+      - Support groups
+      - Educational resources
+      - Hospital equipment
+      required: true
+    - id: 16
+      name: siblings_count
+      label: Number of siblings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sibling_support_needed
+      label: Support needed for siblings
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 18
+      name: financial_hardship
+      label: Experiencing financial hardship due to illness
+      hint: null
+      type: select_one
+      options:
+      - Severe hardship
+      - Moderate hardship
+      - Minimal hardship
+      - No hardship
+      required: true
+    - id: 19
+      name: insurance_status
+      label: Insurance coverage status
+      hint: null
+      type: select_one
+      options:
+      - Fully covered
+      - Partially covered
+      - Limited coverage
+      - No insurance
+      required: false
+    - id: 20
+      name: school_status
+      label: Child's school status
+      hint: null
+      type: select_one
+      options:
+      - Attending school
+      - Homebound education
+      - Not attending
+      - Graduated
+      required: true
+    - id: 21
+      name: coping_resources
+      label: Current coping resources and support system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: mental_health_support
+      label: Mental health support needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: contact_consent
+      label: Permission to contact for support services
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 24
+      name: privacy_consent
+      label: I consent to information sharing with approved organizations
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true

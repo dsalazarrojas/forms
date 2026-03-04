@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: smoothie_and_bowl_maker_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_years
+      label: experience years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: workshop_location
+      label: workshop location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: menus
+      label: menus
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photos
+      label: photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: maker_type
+      label: maker type
+      hint: null
+      type: select_one
+      options:
+      - Maker
+      - Food Truck
+      - Brand
+      - Restaurant
+      - Other
+      required: false
+    - id: 10
+      name: maker_info
+      label: maker info
+      hint: null
+      type: text
+      options: []
+      required: false

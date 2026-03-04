@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm To Retail Innovation Registration Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenge_type
+      label: Challenge Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''challenge'', ''label'': ''Challenge''}'
+      - '{''value'': ''accelerator'', ''label'': ''Accelerator''}'
+      - '{''value'': ''program'', ''label'': ''Program''}'
+      required: false
+    - id: 6
+      name: challenge_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''national'', ''label'': ''National''}'
+      - '{''value'': ''regional'', ''label'': ''Regional''}'
+      - '{''value'': ''international'', ''label'': ''International''}'
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_programs
+      label: Collaboration Programs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''partnership'', ''label'': ''Partnership''}'
+      - '{''value'': ''collaboration'', ''label'': ''Collaboration''}'
+      required: false
+    - id: 10
+      name: agrifood_sector
+      label: Agrifood Sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: innovation_type
+      label: Innovation Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''product'', ''label'': ''Product''}'
+      - '{''value'': ''service'', ''label'': ''Service''}'
+      - '{''value'': ''technology'', ''label'': ''Technology''}'
+      required: false
+    - id: 13
+      name: innovation_status
+      label: Innovation Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: innovation_story
+      label: Innovation Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: note
+      options: []
+      required: false

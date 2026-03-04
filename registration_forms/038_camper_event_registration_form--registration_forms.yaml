@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Event Registration Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: event_location
+      label: Event Location
+      hint: Where is it
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_type
+      label: Event Type
+      hint: Select type
+      type: select_one
+      options:
+      - Sports competition
+      - Arts showcase
+      - Science fair
+      - Talent show
+      - Field trip
+      - Overnight adventure
+      - Workshop
+      - Competition
+      - Other
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any conditions
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: allergies
+      label: Allergies
+      hint: Include food, insect, medication
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 20
+      name: current_medications
+      label: Current Medications
+      hint: List with dosages
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to camper
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: physician_name
+      label: Primary Physician Name
+      hint: Doctor and clinic
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member ID
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Yes or no
+      type: select_one
+      options:
+      - No - will provide own
+      - Yes - need pickup
+      - Yes - need dropoff
+      - Yes - need both
+      required: true
+    - id: 29
+      name: permission_slip
+      label: Permission Slip Acknowledged
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I give permission
+      - false
+      required: true
+    - id: 30
+      name: liability_waiver
+      label: Liability Waiver Accepted
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 31
+      name: photo_release
+      label: Photo Release Permission
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I give permission
+      - false
+      required: true
+    - id: 32
+      name: registration_fee
+      label: Registration Fee
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - PayPal
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

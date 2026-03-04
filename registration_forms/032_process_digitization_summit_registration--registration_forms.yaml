@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Digitization Summit Registration
+    pages:
+    - id: 1
+      name: attendance_type
+      label: Attendee Type
+      hint: null
+      type: select_one
+      options:
+      - Digital Transformation Conference
+      - Sponsor
+      - Press
+      - Guest
+      required: true
+    - id: 2
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Speaker
+      - Sponsor
+      - Exhibitor
+      required: false
+    - id: 7
+      name: has_wheelchair
+      label: has-wheelchair
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: has_other_needs
+      label: has-other-needs
+      hint: null
+      type: select_multiple
+      options:
+      - Hearing Impaired
+      - Visual Impaired
+      - Mobility Impaired
+      - Other
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: accessibility_needs
+      label: accessibility_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tshirt_size
+      label: tshirt-size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - X
+      - None
+      required: false
+    - id: 18
+      name: badge_preferences
+      label: badge-preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Front
+      - Back
+      - Both
+      required: true
+    - id: 19
+      name: shirt_style
+      label: shirt-style
+      hint: null
+      type: select_one
+      options:
+      - Classic
+      - Sport
+      - Hoodie
+      required: false
+    - id: 20
+      name: tshirt_color
+      label: tshirt-color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - White
+      - Black
+      required: false
+    - id: 21
+      name: tshirt_size_xl
+      label: tshirt-size-xl
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 22
+      name: tshirt_size_l
+      label: tshirt-size-l
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 23
+      name: arrival_time
+      label: arrival-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: tshirt_color_xl
+      label: tshirt-color-xl
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - White
+      - Black
+      required: false
+    - id: 25
+      name: departure_time
+      label: departure-time
+      hint: null
+      type: time
+      options: []
+      required: true

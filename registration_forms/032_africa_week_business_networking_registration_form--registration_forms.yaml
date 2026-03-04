@@ -1,0 +1,374 @@
+inputSchema:
+  type: object
+  properties:
+    title: Africa Week Business Networking Registration Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_title
+      label: Professional Title
+      hint: Your current job title or professional designation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Professional email for event communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Professional phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: country_of_origin
+      label: Country of Origin
+      hint: Which African country do you represent or have connections with?
+      type: select_one
+      options:
+      - Algeria
+      - Angola
+      - Benin
+      - Botswana
+      - Burkina Faso
+      - Burundi
+      - Cabo Verde
+      - Cameroon
+      - Central African Republic
+      - Chad
+      - Comoros
+      - Congo
+      - Democratic Republic of Congo
+      - Djibouti
+      - Egypt
+      - Equatorial Guinea
+      - Eritrea
+      - Eswatini
+      - Ethiopia
+      - Gabon
+      - Gambia
+      - Ghana
+      - Guinea
+      - Guinea-Bissau
+      - Ivory Coast
+      - Kenya
+      - Lesotho
+      - Liberia
+      - Libya
+      - Madagascar
+      - Malawi
+      - Mali
+      - Mauritania
+      - Mauritius
+      - Morocco
+      - Mozambique
+      - Namibia
+      - Niger
+      - Nigeria
+      - Rwanda
+      - Sao Tome and Principe
+      - Senegal
+      - Seychelles
+      - Sierra Leone
+      - Somalia
+      - South Africa
+      - South Sudan
+      - Sudan
+      - Tanzania
+      - Togo
+      - Tunisia
+      - Uganda
+      - Zambia
+      - Zimbabwe
+      - Other
+      required: true
+    - id: 8
+      name: business_sector_section
+      label: Business Sector Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: business_sector
+      label: Business Sector
+      hint: Which sector does your business operate in?
+      type: select_one
+      options:
+      - Agriculture
+      - Banking and Finance
+      - Construction
+      - Education
+      - Energy
+      - Entertainment
+      - Fashion
+      - Healthcare
+      - Information Technology
+      - Manufacturing
+      - Mining
+      - Oil and Gas
+      - Real Estate
+      - Telecommunications
+      - Tourism
+      - Transportation
+      - Other
+      required: true
+    - id: 10
+      name: business_description
+      label: Business Description
+      hint: Brief description of your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_in_business
+      label: Years in Business
+      hint: How many years have you been in business?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-10 years
+      - 11-20 years
+      - Over 20 years
+      required: true
+    - id: 12
+      name: business_size
+      label: Business Size
+      hint: How many employees does your business have?
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - Over 1000 employees
+      required: true
+    - id: 13
+      name: networking_goals_section
+      label: Networking Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: networking_objectives
+      label: Networking Objectives
+      hint: What are your primary objectives for attending this networking event?
+      type: select_multiple
+      options:
+      - Find potential partners
+      - Explore investment opportunities
+      - Learn about market trends
+      - Share knowledge and experiences
+      - Promote products/services
+      - Establish new business contacts
+      - Understand regional challenges
+      - Other
+      required: true
+    - id: 15
+      name: specific_interests
+      label: Specific Interests
+      hint: What specific business interests or opportunities are you looking for?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What outcomes do you hope to achieve from this networking opportunity?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: event_participation_section
+      label: Event Participation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: attendance_mode
+      label: Attendance Mode
+      hint: How will you attend the event?
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions we should be aware of?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility requirements?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes, please specify your accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or considerations for the event
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: africa_focus_section
+      label: Africa Focus
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: africa_business_experience
+      label: Africa Business Experience
+      hint: What is your experience with doing business in Africa?
+      type: select_one
+      options:
+      - New to African markets
+      - Some experience
+      - Extensive experience
+      - Currently operating in Africa
+      required: true
+    - id: 25
+      name: countries_of_interest
+      label: Countries of Interest
+      hint: Which African countries are you most interested in for business?
+      type: select_multiple
+      options:
+      - Algeria
+      - Angola
+      - Benin
+      - Botswana
+      - Burkina Faso
+      - Burundi
+      - Cabo Verde
+      - Cameroon
+      - Central African Republic
+      - Chad
+      - Comoros
+      - Congo
+      - Democratic Republic of Congo
+      - Djibouti
+      - Egypt
+      - Equatorial Guinea
+      - Eritrea
+      - Eswatini
+      - Ethiopia
+      - Gabon
+      - Gambia
+      - Ghana
+      - Guinea
+      - Guinea-Bissau
+      - Ivory Coast
+      - Kenya
+      - Lesotho
+      - Liberia
+      - Libya
+      - Madagascar
+      - Malawi
+      - Mali
+      - Mauritania
+      - Mauritius
+      - Morocco
+      - Mozambique
+      - Namibia
+      - Niger
+      - Nigeria
+      - Rwanda
+      - Sao Tome and Principe
+      - Senegal
+      - Seychelles
+      - Sierra Leone
+      - Somalia
+      - South Africa
+      - South Sudan
+      - Sudan
+      - Tanzania
+      - Togo
+      - Tunisia
+      - Uganda
+      - Zambia
+      - Zimbabwe
+      - Other
+      required: true
+    - id: 26
+      name: contribution_to_africa
+      label: Contribution to Africa
+      hint: How do you hope to contribute to Africa's development through your business?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: registration_confirmation
+      label: Registration Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to the terms and conditions of the event
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: information_accuracy
+      label: Information Accuracy
+      hint: I confirm that all information provided is accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: signature
+      label: Electronic Signature
+      hint: Sign to confirm your registration
+      type: text
+      options: []
+      required: true

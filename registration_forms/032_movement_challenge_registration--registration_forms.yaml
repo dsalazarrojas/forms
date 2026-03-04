@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movement Challenge Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact
+      - Parent
+      - Spouse
+      - Other
+      required: true
+    - id: 5
+      name: emergency_relationship_other
+      label: Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_city
+      label: Emergency Contact City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_province
+      label: Emergency Contact Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_country
+      label: Emergency Contact Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_t_shirt_size
+      label: T-shirt Size
+      hint: null
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 13
+      name: participant_consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: participant_consent_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false

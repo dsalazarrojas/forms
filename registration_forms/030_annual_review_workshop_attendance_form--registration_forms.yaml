@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Review Workshop Attendance Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company or Organization
+      hint: Name of your employer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_title
+      label: Position or Job Title
+      hint: Your current role
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_role
+      label: Role in the review process
+      hint: null
+      type: select_one
+      options:
+      - Manager conducting reviews
+      - Employee receiving review
+      - HR professional
+      - Peer reviewer
+      - Observer or other
+      required: true
+    - id: 8
+      name: workshop_date
+      label: Preferred Workshop Date
+      hint: Which session would you like to attend
+      type: select_one
+      options:
+      - Session 1 - Morning
+      - Session 2 - Afternoon
+      - Session 3 - Evening
+      - Date 2 - Available
+      - Any session works
+      required: true
+    - id: 9
+      name: attendance_method
+      label: Attendance Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual - via Zoom
+      - Hybrid - flexible
+      required: true
+    - id: 10
+      name: first_time_attendee
+      label: Is this your first workshop
+      hint: null
+      type: select_one
+      options:
+      - Yes - first time
+      - No - attended before
+      required: true
+    - id: 11
+      name: prior_workshop_date
+      label: If attended before - when
+      hint: Approximate date of previous attendance
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: experience_level
+      label: Experience with performance reviews
+      hint: null
+      type: select_one
+      options:
+      - New - never conducted reviews
+      - Some experience - 1-2 years
+      - Moderate experience - 2-5 years
+      - Extensive experience - 5+ years
+      required: true
+    - id: 13
+      name: learning_objectives
+      label: What do you hope to learn
+      hint: Goals for attending this workshop
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: challenges_faced
+      label: Current challenges with reviews
+      hint: Specific difficulties you want to address
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: topics_interest
+      label: Topics of specific interest
+      hint: null
+      type: select_multiple
+      options:
+      - Giving effective feedback
+      - Setting performance goals
+      - Conducting difficult conversations
+      - Diversity and bias awareness
+      - Documentation best practices
+      - Rating calibration
+      - Performance improvement plans
+      required: false
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: For catering purposes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_accommodations
+      label: Special accommodations needed
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility requirements
+      hint: null
+      type: select_one
+      options:
+      - No accommodations needed
+      - Wheelchair accessibility
+      - Interpreter services
+      - Large print materials
+      - Other - please specify
+      required: false
+    - id: 19
+      name: previous_feedback
+      label: Feedback from previous workshop
+      hint: What went well or needs improvement
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: commitment_confirmation
+      label: I confirm my attendance at this workshop
+      hint: null
+      type: select_one
+      options:
+      - Yes - I will attend
+      - No - I cannot attend
+      - Tentative - will confirm later
+      required: true
+    - id: 21
+      name: travel_parking
+      label: Will you need parking or directions
+      hint: null
+      type: select_one
+      options:
+      - Yes - parking needed
+      - Yes - directions needed
+      - Both parking and directions
+      - No - not needed
+      required: false

@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Chat Room Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: password
+      label: password
+      hint: Enter your password
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: event_date
+      hint: Enter the date of the event
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: event_time
+      hint: Enter the time of the event
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_notes
+      label: event_notes
+      hint: Enter any additional event notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1'', ''label'': ''option 1''}'
+      - '{''id'': 2, ''name'': ''option2'', ''label'': ''option 2''}'
+      - '{''id'': 3, ''name'': ''option3'', ''label'': ''option 3''}'
+      required: false
+    - id: 10
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''select_multiple_option1'', ''label'': ''select_multiple_option
+        1''}'
+      - '{''id'': 2, ''name'': ''select_multiple_option2'', ''label'': ''select_multiple_option
+        2''}'
+      - '{''id'': 4, ''name'': ''select_multiple_option3'', ''label'': ''select_multiple_option
+        3''}'
+      required: false
+    - id: 11
+      name: select_multiple_2
+      label: select_multiple_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''name'': ''select_multiple_option4'', ''label'': ''select_multiple_option
+        4''}'
+      - '{''id'': 6, ''name'': ''select_multiple_option5'', ''label'': ''select_multiple_option
+        5''}'
+      - '{''id'': 7, ''name'': ''select_multiple_option6'', ''label'': ''select_multiple_option
+        6''}'
+      required: false
+    - id: 12
+      name: date_2
+      label: date_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_2
+      label: time_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note_2
+      label: note_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_2
+      label: email_2
+      hint: Enter your email 2
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone_2
+      label: phone_2
+      hint: Enter your phone 2
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: select_one_2
+      label: select_one_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''name'': ''select_one_option1'', ''label'': ''select_one_option
+        1''}'
+      - '{''id'': 9, ''name'': ''select_one_option2'', ''label'': ''select_one_option
+        2''}'
+      - '{''id'': 10, ''name'': ''select_one_option3'', ''label'': ''select_one_option
+        3''}'
+      required: false
+    - id: 18
+      name: select_multiple_3
+      label: select_multiple_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''name'': ''select_multiple_option4'', ''label'': ''select_multiple_option
+        4''}'
+      - '{''id'': 12, ''name'': ''select_multiple_option5'', ''label'': ''select_multiple_option
+        5''}'
+      - '{''id'': 13, ''name'': ''select_multiple_option6'', ''label'': ''select_multiple_option
+        6''}'
+      required: false
+    - id: 19
+      name: email_3
+      label: email_3
+      hint: Enter your email 3
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: date_3
+      label: date_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_3
+      label: time_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: note_3
+      label: note_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: phone_3
+      label: phone_3
+      hint: Enter your phone 3
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: select_multiple_4
+      label: select_multiple_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 14, ''name'': ''select_multiple_option7'', ''label'': ''select_multiple_option
+        7''}'
+      - '{''id'': 15, ''name'': ''select_multiple_option8'', ''label'': ''select_multiple_option
+        8''}'
+      - '{''id'': 16, ''name'': ''select_multiple_option9'', ''label'': ''select_multiple_option
+        9''}'
+      required: false
+    - id: 25
+      name: select_multiple_5
+      label: select_multiple_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 17, ''name'': ''select_multiple_option10'', ''label'': ''select_multiple_option
+        10''}'
+      - '{''id'': 18, ''name'': ''select_multiple_option11'', ''label'': ''select_multiple_option
+        11''}'
+      - '{''id'': 19, ''name'': ''select_multiple_option12'', ''label'': ''select_multiple_option
+        12''}'
+      - '{''id'': 20, ''name'': ''select_multiple_option13'', ''label'': ''select_multiple_option
+        13''}'
+      - '{''id'': 21, ''name'': ''select_multiple_option14'', ''label'': ''select_multiple_option
+        14''}'
+      - '{''id'': 22, ''name'': ''select_multiple_option15'', ''label'': ''select_multiple_option
+        15''}'
+      - '{''id'': 23, ''name'': ''select_multiple_option16'', ''label'': ''select_multiple_option
+        16''}'
+      - '{''id'': 24, ''name'': ''select_multiple_option17'', ''label'': ''select_multiple_option
+        17''}'
+      required: false
+    - id: 26
+      name: email_4
+      label: email_4
+      hint: Enter your email 4
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: date_4
+      label: date_4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: time_4
+      label: time_4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 29
+      name: note_4
+      label: note_4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: select_one_4
+      label: select_one_4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''name'': ''select_one_option4'', ''label'': ''select_one_option
+        4''}'
+      - '{''id'': 21, ''name'': ''select_one_option5'', ''label'': ''select_one_option
+        5''}'
+      - '{''id'': 22, ''name'': ''select_one_option6'', ''label'': ''select_one_option
+        6''}'
+      required: false

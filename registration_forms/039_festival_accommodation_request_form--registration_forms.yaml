@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Accommodation Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_type
+      label: Accommodation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: accommodation_request
+      label: Accommodation Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: festival_date
+      label: Festival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: checkin_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: checkout_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: festival_name
+      label: Festival Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: festival_location
+      label: Festival Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

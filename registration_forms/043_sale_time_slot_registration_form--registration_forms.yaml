@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sale Time Slot Registration Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: select_one
+      options:
+      - '{8: ''8:00 AM - 12:00 PM''}'
+      - '{9: ''12:00 PM - 4:00 PM''}'
+      - '{10: ''4:00 PM - 8:00 PM''}'
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_opt
+      label: Opt-out Email
+      hint: null
+      type: select_multiple
+      options:
+      - '{8: ''Unsubscribe from emails''}'
+      - '{9: ''Subscribe to emails''}'
+      required: false
+    - id: 8
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: sale_time
+      label: Sale Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sale_time_slot
+      label: Sale Time Slot
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''8:00 AM - 12:00 PM''}'
+      - '{2: ''12:00 PM - 4:00 PM''}'
+      - '{3: ''4:00 PM - 8:00 PM''}'
+      required: true

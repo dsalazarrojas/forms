@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Pediatric Patient Registration Form
+    pages:
+    - id: 1
+      name: new_pediatric_patient_registration_form_page_1
+      label: New Patient Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_dob
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: doctor_comments
+      label: Doctor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: new_patient_status
+      label: New Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: new_patient_status_options
+      label: New Patient Status Options
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Active
+      - Inactive
+      required: false

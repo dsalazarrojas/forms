@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Zero Construction Training Registration
+    pages:
+    - id: 1
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: select_one
+      options:
+      - AEC
+      - Other
+      required: false
+    - id: 2
+      name: sustainability_organization
+      label: Sustainability Organization
+      hint: null
+      type: select_one
+      options:
+      - AEC
+      - ASHRAE
+      - ASHRAE Member
+      - ASHRAE Member Organization
+      - Non-ASHRAE Member Organization
+      required: false
+    - id: 3
+      name: attendee_details
+      label: Attendee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_choice_1
+      label: Session Choice 1
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      required: false
+    - id: 5
+      name: session_choice_2
+      label: Session Choice 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: session_requirement_1
+      label: Session Requirement 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: session_requirement_2
+      label: Session Requirement 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: course_choice_1
+      label: Course Choice 1
+      hint: null
+      type: select_multiple
+      options:
+      - Course 1
+      - Course 2
+      required: false
+    - id: 9
+      name: session_dates
+      label: Session Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: session_note
+      label: Session Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - Site
+      - In-person
+      required: false
+    - id: 15
+      name: attendee_requirements_1
+      label: Attendee Requirements 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: attendee_requirements_2
+      label: Attendee Requirements 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

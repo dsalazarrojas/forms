@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Battery Donation Drop Off Form
+    pages:
+    - id: 1
+      name: donor_info_header
+      label: -- Donor Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name or Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: For your donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_type
+      label: Donor Classification
+      hint: null
+      type: select_one
+      options:
+      - Individual Household
+      - School or Educational Institution
+      - Small Business
+      - Industrial/Commercial
+      - Government Agency
+      required: true
+    - id: 5
+      name: battery_details_header
+      label: -- Donation Details --
+      hint: Please separate batteries by chemistry if possible.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: battery_chemistries_donated
+      label: Types of Batteries Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Alkaline (AA, AAA, 9V, etc.)
+      - Lead-Acid (Car/SLA)
+      - Lithium-Ion (Laptop/Phone)
+      - Rechargeable (NiMH/NiCd)
+      - Button Cells (Watch/Hearing Aid)
+      - Other
+      required: true
+    - id: 7
+      name: quantity_estimate
+      label: Estimated Quantity or Weight
+      hint: e.g. 5 lbs, approx 20 units
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: safety_check
+      label: Are any batteries visibly leaking, bloated, or corroded?
+      hint: null
+      type: select_one
+      options:
+      - No, all appear stable
+      - Yes, some have minor corrosion
+      - Yes, significant leakage (Safety handling required)
+      required: true
+    - id: 9
+      name: terminal_protection_ack
+      label: Have you taped the terminals of 9V and Lithium batteries?
+      hint: For fire safety during transport
+      type: select_one
+      options:
+      - Yes, all terminals protected
+      - false
+      required: true
+    - id: 10
+      name: drop_off_location
+      label: Drop-Off Location
+      hint: null
+      type: select_one
+      options:
+      - Main Recycling Hub
+      - Community Center Bin
+      - Mobile Collection Truck
+      - Retail Partner Location
+      required: true
+    - id: 11
+      name: environmental_header
+      label: -- Environmental Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: recycling_consent
+      label: I authorize the proper recycling and disposal of these materials
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 13
+      name: promotional_signup
+      label: Would you like to receive environmental tips and event notices?
+      hint: null
+      type: select_one
+      options:
+      - Yes, subscribe me
+      - No, thank you
+      required: false
+    - id: 14
+      name: drop_off_date
+      label: Date of Drop-Off
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: volunteer_initials
+      label: Staff/Volunteer Initials
+      hint: To be filled by intake personnel
+      type: text
+      options: []
+      required: false

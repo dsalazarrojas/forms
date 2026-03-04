@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: reported_health_coaching_goals
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: training_academy
+      label: Training Academy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: workshop_dates
+      label: Workshop Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: true

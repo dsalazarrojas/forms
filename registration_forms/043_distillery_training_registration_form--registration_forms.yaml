@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distillery Training Registration Form
+    pages:
+    - id: 1
+      name: distillery_name
+      label: Distillery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - Downtown
+      - Uptown
+      required: false
+    - id: 7
+      name: signup_date
+      label: Signup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_start_time
+      label: Training Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: class_duration
+      label: Class Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

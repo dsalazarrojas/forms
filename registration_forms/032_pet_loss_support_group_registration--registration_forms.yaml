@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_loss_support_group_registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pet_deceased_date
+      label: Pet Deceased Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: group_sessions
+      label: Group Sessions
+      hint: null
+      type: select_one
+      options:
+      - Group 1
+      - Group 2
+      - Group 3
+      required: true
+    - id: 7
+      name: schedule_group_session
+      label: Schedule Group Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: counselor_name
+      label: Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: support_organization
+      label: Support Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      required: true
+    - id: 13
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 60 minutes
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: true

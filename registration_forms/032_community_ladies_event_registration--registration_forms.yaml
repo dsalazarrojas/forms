@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Ladies Event Registration
+    pages:
+    - id: 1
+      name: event_selection
+      label: Which Ladies Event are you registering for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Contact Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participation_mode
+      label: How will you be participating?
+      hint: null
+      type: select_one
+      options:
+      - In-person Attendance
+      - Virtual Participation (Live Stream)
+      required: true
+    - id: 6
+      name: dietary_preferences
+      label: Dietary Preferences and Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      - No Restrictions
+      required: true
+    - id: 7
+      name: breakout_interests
+      label: Which breakout session topics interest you most?
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership and Career Growth
+      - Self-care and Mental Wellness
+      - Networking and Community Building
+      - Personal Finance for Women
+      - Creative Arts and Expression
+      required: false
+    - id: 8
+      name: guest_count
+      label: Number of Additional Guests
+      hint: Not including yourself
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: guest_names
+      label: Names of Additional Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_needs
+      label: Special Accommodations Needed
+      hint: e.g., Accessibility access, translation services
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_confirmation
+      label: Registration Fee Confirmation
+      hint: null
+      type: select_one
+      options:
+      - I have paid online
+      - I will pay at the door
+      - I have a scholarship code
+      required: true
+    - id: 12
+      name: referral_source
+      label: How did you hear about this ladies event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_date
+      label: Date Registered
+      hint: null
+      type: date
+      options: []
+      required: true

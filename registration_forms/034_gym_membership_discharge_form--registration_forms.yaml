@@ -1,0 +1,66 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Discharge Form
+    pages:
+    - id: 1
+      name: gym_membership_discharge_form_1
+      label: cancel_membership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_information
+      label: member_information
+      hint: null
+      type: select_one
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: false
+    - id: 3
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - Membership not meeting expectations
+      - Poor service
+      - Conflict of work schedule
+      - Health issues
+      - Other
+      required: false
+    - id: 4
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_signature
+      label: member_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gym_signature
+      label: gym_signature
+      hint: null
+      type: date
+      options: []
+      required: false

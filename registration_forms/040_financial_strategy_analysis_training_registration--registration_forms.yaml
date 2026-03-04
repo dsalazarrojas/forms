@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Strategy Analysis Training Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_preferences
+      label: session preferences
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - full_day
+      required: false
+    - id: 6
+      name: special_requirements
+      label: special requirements
+      hint: null
+      type: text
+      options: []
+      required: false

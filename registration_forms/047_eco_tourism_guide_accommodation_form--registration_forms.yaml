@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: eco_tourism_guide_accommodation_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accommodation_name
+      label: accommodation_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Lodge
+      - Camp
+      - Eco-lodge
+      - Other
+      required: false
+    - id: 4
+      name: accommodation_rating
+      label: accommodation_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: checkin_date
+      label: Checkin date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checkout_date
+      label: Checkout date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: Room type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Deluxe
+      - Suite
+      required: false
+    - id: 8
+      name: accommodation_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: accommodation_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool_user
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

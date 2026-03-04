@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Reunion Checklist Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_info
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: activity_list
+      label: Activity List
+      hint: null
+      type: select_multiple
+      options:
+      - Family Photo Booth
+      - Lawn Games
+      - Potluck
+      required: false
+    - id: 4
+      name: rsvp
+      label: RSVPs
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      - Jane
+      required: false
+    - id: 5
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

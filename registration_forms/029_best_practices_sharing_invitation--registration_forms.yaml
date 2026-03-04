@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Practices Sharing Invitation
+    pages:
+      - id: 1
+        name: invitation_details_header
+        label: -- Participant Invitation Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: job_title_text
+        label: Job Title
+        hint: Your professional role
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: company_org_name
+        label: Company or Organization
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: work_email_addr
+        label: Work Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: participation_header
+        label: -- Participation and Attendance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: attendance_status
+        label: Will you be attending the sharing session
+        hint: null
+        type: select_one
+        options:
+          - Yes - I will be there
+          - No - Cannot attend
+          - Tentative - Awaiting confirmation
+        required: true
+      - id: 8
+        name: participation_role
+        label: Your Participation Mode
+        hint: How would you like to contribute
+        type: select_one
+        options:
+          - Presenter - Sharing a practice
+          - Attendee - Listener and contributor
+          - Discussion Leader - Facilitating a breakout
+        required: true
+      - id: 9
+        name: session_date_choice
+        label: Preferred Session Date
+        hint: Select one session to attend
+        type: select_one
+        options:
+          - October 15 - 10 AM
+          - October 16 - 2 PM
+          - October 17 - 9 AM
+        required: true
+      - id: 10
+        name: topics_contributions_header
+        label: -- Topics and Contributions --
+        hint: Only required for presenters
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: proposed_topic_text
+        label: Proposed Topic for Sharing
+        hint: Title or main subject of your best practice
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: learning_objective_desc
+        label: Key Learning Objective
+        hint: What should attendees take away from your session
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: sharing_duration_estimate
+        label: Estimated Duration for Your Share
+        hint: null
+        type: select_one
+        options:
+          - 5-10 minutes - Lightning talk
+          - 15-20 minutes - Standard share
+          - 30 minutes - Deep dive
+        required: false
+      - id: 14
+        name: material_types_selection
+        label: Material Types Provided
+        hint: What resources will you share
+        type: select_multiple
+        options:
+          - Presentation Slides
+          - Recorded Video
+          - Case Study Document
+          - Live Software Demo
+          - No formal materials
+        required: false
+      - id: 15
+        name: collaboration_header
+        label: -- Collaboration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: co_presenter_interest
+        label: Would you like to co-present with another participant
+        hint: Collaboration is encouraged
+        type: select_one
+        options:
+          - Yes - I have a partner
+          - Yes - I am looking for a partner
+          - No - I prefer presenting alone
+        required: true
+      - id: 17
+        name: co_presenter_name_text
+        label: Name of Co-presenter
+        hint: If already identified
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: organizer_questions_text
+        label: Any specific questions for the organizers
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: final_confirmation_header
+        label: -- Final Confirmation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: material_sharing_consent
+        label: Consent to share your materials with other attendees
+        hint: Post-session distribution
+        type: select_one
+        options:
+          - Yes - Share freely
+          - No - For viewing during session only
+          - Only after my explicit review
+        required: true
+      - id: 21
+        name: registration_date_stamp
+        label: Date of Registration
+        hint: null
+        type: date
+        options: []
+        required: true

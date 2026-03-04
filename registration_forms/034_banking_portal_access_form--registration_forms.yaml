@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Portal Access Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: account_number
+      label: Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Personal Checking
+      - Personal Savings
+      - Business Checking
+      - Business Savings
+      - Investment
+      - Loan
+      - Multiple Accounts
+      required: true
+    - id: 8
+      name: access_type
+      label: Access Type
+      hint: What level of access
+      type: select_one
+      options:
+      - Full Access
+      - View Only
+      - Transaction Access
+      - Admin Access
+      - Limited Access
+      required: true
+    - id: 9
+      name: username_preference
+      label: Username Preference
+      hint: Desired username
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: security_question_1
+      label: Security Question 1
+      hint: Choose a question
+      type: select_one
+      options:
+      - What was your first pets name
+      - What city were you born in
+      - What is your mothers maiden name
+      - What was your first car
+      - What is your favorite book
+      required: true
+    - id: 11
+      name: security_answer_1
+      label: Security Answer 1
+      hint: Your answer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: security_question_2
+      label: Security Question 2
+      hint: Choose another question
+      type: select_one
+      options:
+      - What is your favorite color
+      - What school did you attend
+      - What is your dream vacation
+      - Who was your favorite teacher
+      - What is your lucky number
+      required: true
+    - id: 13
+      name: security_answer_2
+      label: Security Answer 2
+      hint: Your answer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: two_factor_authentication
+      label: Two-Factor Authentication
+      hint: Enable 2FA
+      type: select_one
+      options:
+      - Yes, enable via SMS
+      - Yes, enable via email
+      - Yes, enable via authenticator app
+      - No, not now
+      required: true
+    - id: 15
+      name: notification_preferences
+      label: Notification Preferences
+      hint: How to notify you
+      type: select_multiple
+      options:
+      - Login Alerts
+      - Transaction Alerts
+      - Balance Alerts
+      - Security Alerts
+      - Marketing Emails
+      - SMS Notifications
+      required: true
+    - id: 16
+      name: authorized_users
+      label: Authorized Users
+      hint: Will others have access
+      type: select_one
+      options:
+      - No, only me
+      - Yes, add authorized users
+      required: true
+    - id: 17
+      name: authorized_user_names
+      label: Authorized User Names
+      hint: List names
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: device_registration
+      label: Device Registration
+      hint: Register this device
+      type: select_one
+      options:
+      - Yes, trust this device
+      - No, require authentication each time
+      required: true
+    - id: 19
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: Do you agree
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 20
+      name: privacy_policy_acceptance
+      label: Privacy Policy
+      hint: Have you read it
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true
+    - id: 21
+      name: electronic_disclosure_consent
+      label: Electronic Disclosure Consent
+      hint: Receive disclosures electronically
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, paper only
+      required: true
+    - id: 22
+      name: application_date
+      label: Application Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true

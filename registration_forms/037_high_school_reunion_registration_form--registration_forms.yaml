@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Reunion Registration Form
+    pages:
+    - id: 1
+      name: form_1_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_1_profession
+      label: profession
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_1_fam_status
+      label: family_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_2_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_2_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_3_guest
+      label: will_bring_guests
+      hint: null
+      type: select_multiple
+      options:
+      - Guest 1
+      - Guest 2
+      - Guest 3
+      - 'False'
+      required: true
+    - id: 7
+      name: form_3_guest_name_1
+      label: guest_1_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_3_guest_name_2
+      label: guest_2_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_3_guest_name_3
+      label: guest_3_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_4_purchase_order
+      label: purchase_order
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: true
+    - id: 11
+      name: form_4_price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: form_4_total
+      label: total
+      hint: null
+      type: number
+      options: []
+      required: true

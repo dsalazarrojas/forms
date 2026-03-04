@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Festival Registration Form
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For festival communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: festival_category
+      label: Festival Category
+      hint: Which festival are you registering for?
+      type: select_one
+      options:
+      - Music Festival
+      - Food Festival
+      - Arts Festival
+      - Cultural Festival
+      - Film Festival
+      - Harvest Festival
+      - Full Festival Pass
+      required: true
+    - id: 9
+      name: festival_dates
+      label: Festival Dates
+      hint: Which days will you attend?
+      type: select_multiple
+      options:
+      - Day 1
+      - Day 2
+      - Day 3
+      - All Days
+      required: true
+    - id: 10
+      name: ticket_type
+      label: Ticket Type
+      hint: Select your ticket preference
+      type: select_one
+      options:
+      - General Admission
+      - VIP
+      - Early Bird
+      - Group Package
+      - Student
+      - Senior
+      required: true
+    - id: 11
+      name: group_size
+      label: Number in Group
+      hint: Total attendees in your group
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: participation_type
+      label: Type of Participation
+      hint: How will you participate?
+      type: select_one
+      options:
+      - Attendee
+      - Vendor
+      - Performer
+      - Volunteer
+      - Sponsor
+      required: true
+    - id: 13
+      name: vendor_type
+      label: Vendor Type
+      hint: If applicable
+      type: select_one
+      options:
+      - Food Vendor
+      - Craft Vendor
+      - Merchandise
+      - Information Booth
+      - Not Applicable
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or restrictions?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For festival merchandise
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - 2X-Large
+      - Not Needed
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: Allow photos for promotional use
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 20
+      name: waiver_agreement
+      label: Liability Waiver
+      hint: I agree to the liability waiver
+      type: select_one
+      options:
+      - Yes, I Agree
+      - Other
+      required: true

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Certification Enrollment Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: date
+      label: Date of Interest
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_info
+      label: Other Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

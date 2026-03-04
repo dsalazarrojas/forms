@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Festival Judge Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: festival_name
+      label: Festival name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: judging_preferences
+      label: Judging preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: available_dates
+      label: Available dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_hours
+      label: Preferred hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: bio_length
+      label: Bio length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submission_limit
+      label: Submission limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: submission_limit_hint
+      label: Submission limit hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_limit_note
+      label: Submission limit note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submission_limit_email_notification
+      label: Submission limit email notification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: submission_limit_sms_notification
+      label: Submission limit SMS notification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submission_limit_phone_call
+      label: Submission limit phone call
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments_hint
+      label: Additional comments hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments_note
+      label: Additional comments note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: confirm_note
+      label: Confirm note
+      hint: null
+      type: note
+      options: []
+      required: false

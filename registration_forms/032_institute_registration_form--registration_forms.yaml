@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Institute Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Faculty''}'
+      - '{''label'': ''Alumni''}'
+      required: false
+    - id: 11
+      name: member_status
+      label: Member Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''New''}'
+      required: false
+    - id: 12
+      name: departmental_affiliation
+      label: Departmental Affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: role_in_department
+      label: Role in Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maternity Support Registration
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: true
+    - id: 3
+      name: contact_method_other
+      label: Contact Method (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maternity_status
+      label: Maternity Status
+      hint: null
+      type: select_multiple
+      options:
+      - First trimester
+      - Second trimester
+      - Third trimester
+      - Postpartum
+      required: true
+    - id: 5
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Emotional support
+      - Physical support
+      - Informational support
+      - Financial support
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person_email
+      label: Contact Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_person_phone
+      label: Contact Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: support_needs_other
+      label: Support Needs (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - Every 2 weeks
+      - Every 4 weeks
+      - Never
+      required: true
+    - id: 11
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool_other
+      label: Assigned Tool (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: support_group
+      label: Support Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: support_group_location
+      label: Support Group Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: support_group_other
+      label: Support Group (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: support_group_time
+      label: Support Group Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: support_group_date
+      label: Support Group Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: support_group_note
+      label: Support Group Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes_other
+      label: Notes (Other)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save and Continue Later
+      required: true

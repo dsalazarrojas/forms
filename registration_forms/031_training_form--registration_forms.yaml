@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Form
+    pages:
+    - id: 1
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_course
+      label: Training Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_status
+      label: Course Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_level
+      label: Course Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

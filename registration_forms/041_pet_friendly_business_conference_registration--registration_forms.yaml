@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Friendly Business Conference Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_details
+      label: Pet Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_interests
+      label: Session Interests
+      hint: null
+      type: select_one
+      options:
+      - Session A
+      - Session B
+      - Session C
+      - Session D
+      - Session E
+      required: false
+    - id: 4
+      name: owner_contact
+      label: Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_contact
+      label: Pet Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 7
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pet_dob
+      label: Pet DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Session A
+      - Session B
+      - Session C
+      - Session D
+      - Session E
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Arts Facilitator Registration Form
+    pages:
+    - id: 1
+      name: registration_information
+      label: Registration Information
+      hint: Details about your facilitator registration
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: personal_information
+      label: Personal Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Address
+      hint: Your street address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP or postal code
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: arts_background
+      label: Arts Background
+      hint: Information about your arts experience
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: art_discipline
+      label: Art Discipline
+      hint: What is your primary art discipline
+      type: select_one
+      options:
+      - Visual Arts
+      - Performing Arts
+      - Music
+      - Dance
+      - Theater
+      - Literary Arts
+      - Digital Media
+      - Crafts
+      - Mixed Media
+      - Other
+      required: true
+    - id: 14
+      name: years_experience
+      label: Years of Experience
+      hint: How many years of arts experience do you have
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 15
+      name: facilitation_experience
+      label: Facilitation Experience
+      hint: Do you have experience facilitating arts programs
+      type: select_one
+      options:
+      - Extensive Experience
+      - Some Experience
+      - Limited Experience
+      - No Experience
+      required: true
+    - id: 16
+      name: education_training
+      label: Education and Training
+      hint: Your relevant education and training
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: program_preferences
+      label: Program Preferences
+      hint: What types of programs do you want to facilitate
+      type: select_multiple
+      options:
+      - Youth Programs
+      - Adult Programs
+      - Senior Programs
+      - Family Programs
+      - School Workshops
+      - Community Events
+      - Private Classes
+      - Group Sessions
+      required: true
+    - id: 18
+      name: age_groups
+      label: Age Groups
+      hint: Which age groups do you prefer to work with
+      type: select_multiple
+      options:
+      - Children (5-12)
+      - Teens (13-17)
+      - Young Adults (18-25)
+      - Adults (26-64)
+      - Seniors (65+)
+      - All Ages
+      required: true
+    - id: 19
+      name: availability
+      label: Availability
+      hint: When are you available to facilitate
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      - Flexible Schedule
+      required: true
+    - id: 20
+      name: program_ideas
+      label: Program Ideas
+      hint: Describe any program ideas you have
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: materials_needed
+      label: Materials Needed
+      hint: What materials would you need provided
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: background_check
+      label: Background Check
+      hint: Are you willing to undergo a background check
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: references_available
+      label: References Available
+      hint: Can you provide professional references
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: portfolio_link
+      label: Portfolio Link
+      hint: URL to your portfolio or website
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: resume_attached
+      label: Resume Attached
+      hint: Have you attached your resume
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: why_interested
+      label: Why Interested
+      hint: Why do you want to be a community arts facilitator
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: agreement
+      label: Agreement
+      hint: I agree to follow all community guidelines and policies
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true

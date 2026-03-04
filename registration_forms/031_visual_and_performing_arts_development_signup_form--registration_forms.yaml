@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: visual_and_performing_arts_development_signup_form
+    pages:
+    - id: 1
+      name: signup_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_type
+      label: Email Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Public'', ''label'': ''Public''}'
+      - '{''id'': 2, ''name'': ''Private'', ''label'': ''Private''}'
+      - '{''id'': 3, ''name'': ''Hidden'', ''label'': ''Hidden''}'
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: Please enter any additional notes
+      type: note
+      options: []
+      required: false

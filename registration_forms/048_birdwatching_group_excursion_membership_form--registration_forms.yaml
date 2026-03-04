@@ -1,0 +1,472 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birdwatching Group Excursion Membership Form
+    pages:
+    - id: 1
+      name: member_information
+      label: Member Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: membership_details
+      label: Membership Details
+      hint: Select your membership options
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: membership_type
+      label: Membership Type
+      hint: Type of membership
+      type: select_one
+      options:
+      - Individual Annual
+      - Family Annual
+      - Senior Annual
+      - Student Annual
+      - Single Excursion
+      - Trial Membership
+      required: true
+    - id: 15
+      name: membership_year
+      label: Membership Year
+      hint: Year of membership
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: how_heard_about_group
+      label: How Did You Hear About Us
+      hint: Help us improve outreach
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend Referral
+      - Local Event
+      - Nature Center
+      - Advertisement
+      - Other
+      required: false
+    - id: 17
+      name: birdwatching_experience
+      label: Birdwatching Experience
+      hint: Your experience level
+      type: select_one
+      options:
+      - Beginner - Just Starting
+      - Novice - Some Experience
+      - Intermediate - Regular Birder
+      - Advanced - Experienced
+      - Expert - Very Knowledgeable
+      required: true
+    - id: 18
+      name: years_of_birdwatching
+      label: Years of Birdwatching
+      hint: How long have you been birding
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 19
+      name: equipment_owned
+      label: Equipment Owned
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Binoculars
+      - Spotting Scope
+      - Tripod
+      - Field Guide
+      - Birding App
+      - Camera
+      - None Yet
+      required: true
+    - id: 20
+      name: binocular_specifications
+      label: Binocular Specifications
+      hint: If you have binoculars
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: excursion_preferences
+      label: Excursion Preferences
+      hint: Your preferences for trips
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_excursion_times
+      label: Preferred Excursion Times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Early Morning (6-9 AM)
+      - Morning (9 AM-12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-8 PM)
+      - Full Day
+      - Weekend Only
+      - Weekday Only
+      required: true
+    - id: 23
+      name: preferred_excursion_types
+      label: Preferred Excursion Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Local Park Walks
+      - Nature Reserve Visits
+      - Wetland Tours
+      - Forest Hikes
+      - Coastal Birding
+      - Migration Watching
+      - Photography Trips
+      - Beginner-Friendly Outings
+      - Advanced Birding
+      required: true
+    - id: 24
+      name: travel_distance
+      label: Maximum Travel Distance
+      hint: How far will you travel
+      type: select_one
+      options:
+      - Up to 25 miles
+      - 25-50 miles
+      - 50-100 miles
+      - 100+ miles
+      - No Limit
+      required: true
+    - id: 25
+      name: availability
+      label: General Availability
+      hint: When are you available
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 26
+      name: physical_ability
+      label: Physical Ability
+      hint: Describe your mobility
+      type: select_one
+      options:
+      - Can Hike Long Distances
+      - Moderate Walking Ability
+      - Limited Walking
+      - Need Accessible Locations
+      - Use Mobility Aid
+      required: true
+    - id: 27
+      name: interests
+      label: Birding Interests
+      hint: What interests you most
+      type: select_multiple
+      options:
+      - Species Identification
+      - Bird Behavior
+      - Bird Photography
+      - Bird Song Recognition
+      - Conservation
+      - Citizen Science
+      - Social Aspect
+      - Learning from Experts
+      - Competition
+      required: true
+    - id: 28
+      name: target_species
+      label: Target Species or Groups
+      hint: Birds you most want to see
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Maybe - Tell Me More
+      - No - Just Participate
+      required: true
+    - id: 30
+      name: volunteer_areas
+      label: Volunteer Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Trip Leading
+      - Education/Teaching
+      - Photography
+      - Data Entry
+      - Outreach
+      - Conservation Projects
+      - Event Planning
+      - Not Interested
+      required: false
+    - id: 31
+      name: skills_to_share
+      label: Skills to Share
+      hint: What can you contribute
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How should we contact you
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Social Media
+      - Any Method
+      required: true
+    - id: 34
+      name: newsletter_subscription
+      label: Newsletter Subscription
+      hint: Would you like our newsletter
+      type: select_one
+      options:
+      - Yes - Email
+      - Yes - Physical Mail
+      - No Thanks
+      required: true
+    - id: 35
+      name: email_updates
+      label: Email Updates
+      hint: Receive trip announcements
+      type: select_one
+      options:
+      - Yes - All Updates
+      - Yes - Monthly Digest
+      - No Thanks
+      required: true
+    - id: 36
+      name: social_media
+      label: Social Media
+      hint: Do you want to join our groups
+      type: select_one
+      options:
+      - Yes - All Platforms
+      - Yes - Facebook Only
+      - No Thanks
+      required: false
+    - id: 37
+      name: payment_information
+      label: Payment Information
+      hint: Membership dues
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - PayPal
+      - Bank Transfer
+      - Cash at First Event
+      required: true
+    - id: 39
+      name: membership_fee
+      label: Membership Fee
+      hint: Annual dues amount
+      type: number
+      options: []
+      required: true
+    - id: 40
+      name: financial_assistance
+      label: Financial Assistance
+      hint: Do you need assistance
+      type: select_one
+      options:
+      - No - Full Payment
+      - Yes - Partial Assistance Needed
+      - Yes - Full Assistance Needed
+      required: false
+    - id: 41
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For group meals
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Do you need ride sharing
+      type: select_one
+      options:
+      - No - Have Transportation
+      - Yes - Need Rides Sometimes
+      - Yes - Can Offer Rides
+      - Yes - Need and Can Offer
+      required: true
+    - id: 44
+      name: group_goals
+      label: Personal Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: agreements
+      label: Agreements
+      hint: Group policies
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: Agree to group rules
+      type: select_one
+      options:
+      - I Agree to Follow Code of Conduct
+      - I Have Read and Accept Rules
+      required: true
+    - id: 47
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Acknowledge risks
+      type: select_one
+      options:
+      - I Accept Liability Waiver
+      - I Understand Risks
+      required: true
+    - id: 48
+      name: photo_release
+      label: Photo Release
+      hint: Can we use your photos
+      type: select_one
+      options:
+      - Yes - May Use Photos
+      - No - Do Not Use Photos
+      required: true
+    - id: 49
+      name: membership_signature
+      label: Membership Signature
+      hint: Sign to confirm
+      type: select_one
+      options:
+      - I Agree to Membership Terms
+      - I Confirm Information is Accurate
+      required: true
+    - id: 50
+      name: membership_date
+      label: Membership Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

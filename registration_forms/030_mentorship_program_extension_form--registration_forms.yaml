@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentorship Program Extension Form
+    pages:
+    - id: 1
+      name: mentorship_program_extension_form
+      label: mentorship_program_extension_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mentorship_duration_id
+      label: mentorship_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mentorship_program_id
+      label: mentorship_program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Program 1'', ''description'': ''Program 1''}'
+      - '{''id'': 2, ''name'': ''Program 2'', ''description'': ''Program 2''}'
+      - '{''id'': 3, ''name'': ''Program 3'', ''description'': ''Program 3''}'
+      required: false
+    - id: 4
+      name: program_extension_start_date
+      label: program_extension_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_extension_end_date
+      label: program_extension_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mentorship_program_extension_form_comments
+      label: mentorship_program_extension_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: mentorship_extension_agreement_signed
+      label: mentorship_extension_agreement_signed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''description'': True}'
+      - '{''id'': 2, ''name'': False, ''description'': False}'
+      required: false
+    - id: 8
+      name: mentorship_program_extension_form_submitter
+      label: mentorship_program_extension_form_submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Mentor'', ''description'': ''Mentor''}'
+      - '{''id'': 2, ''name'': ''Mentee'', ''description'': ''Mentee''}'
+      required: false

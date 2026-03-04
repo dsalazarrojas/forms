@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heroic Legacy Exhibition Registration
+    pages:
+    - id: 1
+      name: exhibition_name
+      label: Exhibition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artwork_title
+      label: Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artwork_description
+      label: Artwork Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artwork_upload
+      label: Artwork Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: artwork_type
+      label: Artwork Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

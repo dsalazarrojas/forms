@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Membership Tier Selection Form
+    pages:
+    - id: 1
+      name: tier_selection
+      label: Tier Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Bronze
+      - Silver
+      - Gold
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: plan_choices
+      label: Plan Choices
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 4
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: membership_duration
+      label: Membership Duration
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signed_acknowledgment
+      label: Signed Acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Buyer Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your First Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your Last Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_currency
+      label: Preferred Currency
+      hint: Select your preferred currency
+      type: select_one
+      options:
+      - USD
+      - CAD
+      required: false
+    - id: 10
+      name: preferred_language
+      label: Preferred Language
+      hint: Select your preferred language
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 11
+      name: home_type
+      label: Home Type
+      hint: Select your preferred home type
+      type: select_one
+      options:
+      - Condo
+      - House
+      - Townhouse
+      required: false
+    - id: 12
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: move_in_date_time
+      label: Move In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: move_out_date
+      label: Move Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: move_out_date_time
+      label: Move Out Date Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: preferred_commute_time
+      label: Preferred Commute Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: commute_distance
+      label: Commute Distance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: desired_location
+      label: Desired Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: real_estate_type
+      label: Real Estate Type
+      hint: Select your real estate type
+      type: select_one
+      options:
+      - Single Family
+      - Multi-Family
+      required: false
+    - id: 21
+      name: preferred_commute_method
+      label: Preferred Commute Method
+      hint: Select your preferred commute method
+      type: select_multiple
+      options:
+      - Car
+      - Public Transit
+      required: false

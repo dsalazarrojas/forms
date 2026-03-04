@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Pre-Registration Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: select_multiple
+      options:
+      - Mr.
+      - Mrs.
+      - Ms.
+      - Dr.
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - Ph.D
+      - Post Graduate
+      required: false
+    - id: 7
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Fall
+      - Summer
+      required: false
+    - id: 8
+      name: campus
+      label: Campus
+      hint: null
+      type: select_multiple
+      options:
+      - North Campus
+      - South Campus
+      - Central Campus
+      required: false
+    - id: 9
+      name: faculty
+      label: Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      required: false

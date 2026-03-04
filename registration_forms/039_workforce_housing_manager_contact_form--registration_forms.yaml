@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Housing Manager Contact Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_one_option
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Website''}'
+      - '{''id'': 2, ''label'': ''Social Media''}'
+      - '{''id'': 3, ''label'': ''Friend''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: select_multiple_option
+      label: What are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Apartments''}'
+      - '{''id'': 2, ''label'': ''Community Amenities''}'
+      - '{''id'': 3, ''label'': ''Housing Options''}'
+      - '{''id'': 4, ''label'': ''Other (tell us)''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

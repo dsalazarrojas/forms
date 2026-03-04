@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Innovation Forum Registration
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climate Innovation Forum Registration
+      hint: Join us for discussions on cutting-edge climate solutions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: professional_info
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: industry
+      label: Industry or Sector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: experience_level
+      label: Professional Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Entry Level
+      - Mid-Level
+      - Senior Level
+      - Executive
+      - Other
+      required: false
+    - id: 12
+      name: forum_info
+      label: -- Forum Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: forum_dates
+      label: Forum Attendance Dates
+      hint: null
+      type: select_one
+      options:
+      - Full Conference - 2 Days
+      - Day 1 Only
+      - Day 2 Only
+      - Keynote Session Only
+      required: true
+    - id: 14
+      name: attendance_type
+      label: Type of Attendance
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 15
+      name: interests_section
+      label: -- Session and Track Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: primary_interest
+      label: Primary Interest Area
+      hint: null
+      type: select_one
+      options:
+      - Renewable Energy
+      - Carbon Capture
+      - Climate Adaptation
+      - Green Transportation
+      - Sustainable Finance
+      - Policy and Governance
+      - Nature-Based Solutions
+      - Technology Innovation
+      - Other
+      required: true
+    - id: 17
+      name: tracks
+      label: Preferred Tracks or Sessions
+      hint: Select up to 3 sessions
+      type: select_multiple
+      options:
+      - Keynote Speakers
+      - Panel Discussions
+      - Workshops
+      - Innovation Showcases
+      - Networking Events
+      - Investor Pitch Sessions
+      - Research Presentations
+      required: true
+    - id: 18
+      name: networking_section
+      label: -- Networking and Collaboration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: networking_goals
+      label: Primary Networking Goal
+      hint: Why are you attending?
+      type: select_one
+      options:
+      - Find Investment or Funding
+      - Build Partnerships
+      - Share Research
+      - Learn and Listen
+      - Recruit Talent
+      - Showcase Innovation
+      - Other
+      required: true
+    - id: 20
+      name: collaboration_interest
+      label: Interest in Collaboration or Partnerships
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Not Interested
+      required: false
+    - id: 21
+      name: profile_visibility
+      label: Make My Profile Visible to Other Attendees
+      hint: For networking opportunities
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: logistics_section
+      label: -- Logistics and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hotel_needed
+      label: Do You Need Hotel Recommendations?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: transportation
+      label: Preferred Transportation Arrangements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: sponsorship_section
+      label: -- Sponsorship Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: sponsorship_interest
+      label: Interest in Sponsorship Opportunities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 29
+      name: exhibitor_interest
+      label: Interest in Exhibiting or Showcasing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 30
+      name: follow_up_communications
+      label: Subscribe to Follow-Up Communications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

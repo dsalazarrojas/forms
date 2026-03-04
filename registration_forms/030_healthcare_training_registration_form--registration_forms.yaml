@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare-training-registration-form
+    pages:
+    - id: 1
+      name: participant_information
+      label: participant information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: payment details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_program
+      label: training program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_agreement
+      label: participant agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_agreement
+      label: participant agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: program_date
+      label: program date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: program_time
+      label: program time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: participant_type
+      label: participant type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: participant_level
+      label: participant level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: participant_address
+      label: participant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_facility
+      label: training facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: program_fee
+      label: program fee
+      hint: null
+      type: number
+      options: []
+      required: false

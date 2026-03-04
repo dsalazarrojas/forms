@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Registration Form
+    pages:
+    - id: 1
+      name: header_registration_event
+      label: -- Event Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registered_event_name
+      label: Select Event
+      hint: Choose the event you are registering for
+      type: select_one
+      options:
+      - Annual General Meeting
+      - Community BBQ
+      - Summer Camp
+      - Baptism Service
+      - Marriage Retreat
+      required: true
+    - id: 3
+      name: registrant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address_registration
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: mobile_phone_registration
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth_youth_only
+      label: Date of Birth (If youth/child)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: church_affiliation_status
+      label: Are you a member or visitor?
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Regular Attendee
+      - Visitor
+      - Guest Speaker
+      required: true
+    - id: 8
+      name: header_payment_registration
+      label: -- Payment and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fee_payment_required
+      label: Is there a fee for this event?
+      hint: If yes - please proceed to payment section
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: payment_amount_selected
+      label: Select Registration Fee Level
+      hint: null
+      type: select_one
+      options:
+      - Adult Registration
+      - Student/Youth
+      - Family Rate
+      - Donation Based
+      required: false
+    - id: 11
+      name: payment_method_selection
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Cash at Door
+      - Check by Mail
+      - Prepaid
+      required: false
+    - id: 12
+      name: header_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dietary_requirements_registration
+      label: Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten Free
+      - Nut Free
+      - Dairy Free
+      required: true
+    - id: 14
+      name: emergency_contact_info_registration
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: participation_consent
+      label: I consent to participate and follow all event rules
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: registration_date_timestamp
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

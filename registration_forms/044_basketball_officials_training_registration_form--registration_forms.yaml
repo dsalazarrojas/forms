@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Officials Training Registration Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Certification and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_certification
+      label: Current basketball official certification
+      hint: null
+      type: select_one
+      options:
+      - None
+      - State Level
+      - Regional Level
+      - National Level
+      - International
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years of officiating experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: previous_training
+      label: Previous official training attended?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Training Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: training_session
+      label: Training session
+      hint: null
+      type: select_one
+      options:
+      - Beginner Clinic
+      - Intermediate Training
+      - Advanced Certification
+      - Rules Update
+      - Mechanics Workshop
+      required: true
+    - id: 13
+      name: training_date
+      label: Preferred training date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: training_location
+      label: Training location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Officiating Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: level_to_officiate
+      label: Level you wish to officiate
+      hint: null
+      type: select_multiple
+      options:
+      - Youth (Under 12)
+      - High School
+      - College
+      - Professional
+      - International
+      required: false
+    - id: 17
+      name: section_header_5
+      label: -- Background Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: playing_experience
+      label: Basketball playing experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coaching_experience
+      label: Coaching experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_6
+      label: -- Fees and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: training_fee
+      label: Training fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Cash
+      - Online Transfer
+      required: false
+    - id: 23
+      name: code_of_conduct
+      label: I agree to the code of conduct for officials
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: registration_complete
+      label: I confirm my registration information
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Need to Review
+      required: true

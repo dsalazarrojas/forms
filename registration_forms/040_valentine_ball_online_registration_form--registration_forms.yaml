@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Valentine Ball Online Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: couple_size
+      label: Couple Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Solo''}'
+      - '{''value'': 2, ''label'': ''Couple''}'
+      - '{''value'': 3, ''label'': ''Family''}'
+      required: true
+    - id: 8
+      name: attending_with
+      label: Attending With
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''partner'', ''label'': ''My Partner''}'
+      - '{''value'': ''friend'', ''label'': ''Friend''}'
+      - '{''value'': ''family'', ''label'': ''Family''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: special_request
+      label: Special Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

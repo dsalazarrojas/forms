@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ministry Registration Form
+    pages:
+    - id: 1
+      name: ministry_registration_form_1
+      label: registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: church_activity
+      label: church_activity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: religious_group
+      label: religious_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ministry_details
+      label: ministry_details
+      hint: Please enter ministry details here.
+      type: text
+      options: []
+      required: false

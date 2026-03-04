@@ -1,0 +1,140 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Redevelopment Seminar Registration Form
+    pages:
+      - id: 1
+        name: section_attendee_profile
+        label: -- Attendee Registration Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: attendee_email
+        label: Email Address
+        hint: Confirmation will be sent here
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: attendee_organization
+        label: Organization/Company
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: professional_title
+        label: Job Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: industry_sector
+        label: Industry Sector
+        hint: null
+        type: select_one
+        options:
+          - Real Estate Development
+          - Urban Planning
+          - Architecture and Design
+          - Construction
+          - Government/Municipal
+          - Finance/Investment
+        required: true
+      - id: 7
+        name: section_seminar_sessions
+        label: -- Seminar Session Selection --
+        hint: Select the track you wish to attend
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: selected_track
+        label: Preferred Seminar Track
+        hint: null
+        type: select_one
+        options:
+          - Track A - Adaptive Reuse Strategies
+          - Track B - Financing Large-Scale Redevelopment
+          - Track C - Sustainable Urban Design
+          - Track D - Public-Private Partnerships
+        required: true
+      - id: 9
+        name: breakout_session_interest
+        label: Interested in the Networking Breakout Session?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: section_logistics
+        label: -- Attendee Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: dietary_restrictions_seminar
+        label: Dietary Restrictions for Lunch
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: accessibility_needs_seminar
+        label: Special Accessibility Requirements
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_payment_seminar
+        label: -- Registration Payment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: payment_method_seminar
+        label: Preferred Payment Method
+        hint: null
+        type: select_one
+        options:
+          - Credit Card
+          - Corporate Invoice
+          - Wire Transfer
+        required: true
+      - id: 15
+        name: how_did_you_hear_seminar
+        label: How did you hear about this seminar?
+        hint: null
+        type: select_one
+        options:
+          - Industry Publication
+          - Professional Colleague
+          - Social Media
+          - Website
+        required: false

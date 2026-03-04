@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Facility Consent Form
+    pages:
+    - id: 1
+      name: consent_intro
+      label: -- Child Care Facility Consent Form --
+      hint: Provide consent for child care activities and services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent or guardian name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone
+      label: Contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: child_name
+      label: Child's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_date_of_birth
+      label: Child's date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: facility_name
+      label: Child care facility name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: enrollment_start_date
+      label: Enrollment start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: classroom_assignment
+      label: Classroom assignment
+      hint: null
+      type: select_one
+      options:
+      - Infant room
+      - Toddler room
+      - Preschool
+      - Pre-K
+      - Mixed age
+      - Other
+      required: true
+    - id: 11
+      name: regular_activities_consent
+      label: Consent for regular classroom activities
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 12
+      name: outdoor_play_consent
+      label: Consent for outdoor play and recreation
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 13
+      name: field_trips_consent
+      label: Consent for field trips and outings
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 14
+      name: field_trip_details
+      label: Special instructions or restrictions for field trips
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: photography_consent
+      label: Consent for photos or videos for records
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 16
+      name: social_media_consent
+      label: Consent for photos or videos to be shared on social media
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 17
+      name: water_activities_consent
+      label: Consent for water play and water activities
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 18
+      name: third_party_teachers_consent
+      label: Consent for instruction from outside providers or specialists
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 19
+      name: behavioral_guidance_methods
+      label: Approved behavioral guidance methods
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: unacceptable_methods
+      label: Unacceptable disciplinary methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medication_administration
+      label: Consent to administer medications as prescribed
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      - Specific medications only
+      required: true
+    - id: 22
+      name: medical_treatment_consent
+      label: Consent for emergency medical treatment
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 23
+      name: parent_pickup_consent
+      label: Authorized pickup persons besides parent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: release_of_information
+      label: I consent to release of information to school or other providers
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 25
+      name: parent_acknowledgment
+      label: I acknowledge I have read and understand this consent form
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true

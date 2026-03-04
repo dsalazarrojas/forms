@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar Convention Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: accompanying_person_first_name
+      label: Accompanying Person First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accompanying_person_last_name
+      label: Accompanying Person Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accompanying_person_email
+      label: Accompanying Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: accompanying_person_phone
+      label: Accompanying Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: payment_method_options
+      label: Payment Options
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      - Check
+      - Cash
+      required: false

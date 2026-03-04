@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Activation Host Registration Form
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City or Region
+      hint: Where you are located
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_background
+      label: -- Background and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: hosting_experience
+      label: Event Hosting Experience
+      hint: How many events have you hosted
+      type: select_one
+      options:
+      - No experience
+      - 1-2 events
+      - 3-5 events
+      - 6-10 events
+      - 10+ events
+      - Professional host
+      required: true
+    - id: 8
+      name: event_types
+      label: Types of Events Hosted
+      hint: Select relevant event types
+      type: select_multiple
+      options:
+      - Brand activations
+      - Product launches
+      - Networking events
+      - Social gatherings
+      - Corporate events
+      - Community events
+      - Experiential marketing
+      - Other
+      required: false
+    - id: 9
+      name: brand_experience
+      label: Experience with Brand Activations
+      hint: Familiarity with brand marketing
+      type: select_one
+      options:
+      - Extensive experience
+      - Moderate experience
+      - Some experience
+      - Limited experience
+      - No experience
+      required: true
+    - id: 10
+      name: section_header_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: weekday_availability
+      label: Weekday Availability
+      hint: Can you host on weekdays
+      type: select_one
+      options:
+      - Available
+      - Limited availability
+      - Not available
+      - Flexible
+      required: true
+    - id: 12
+      name: weekend_availability
+      label: Weekend Availability
+      hint: Can you host on weekends
+      type: select_one
+      options:
+      - Available
+      - Limited availability
+      - Not available
+      - Flexible
+      required: true
+    - id: 13
+      name: event_frequency
+      label: Preferred Event Frequency
+      hint: How often you can host
+      type: select_one
+      options:
+      - Multiple per month
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      - As needed
+      required: false
+    - id: 14
+      name: section_header_audience
+      label: -- Audience and Network --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: network_size
+      label: Average Audience Size
+      hint: Typical attendance at events
+      type: select_one
+      options:
+      - Under 10 people
+      - 10-25 people
+      - 25-50 people
+      - 50-100 people
+      - 100-200 people
+      - 200+ people
+      required: true
+    - id: 16
+      name: audience_demographics
+      label: Target Audience Demographics
+      hint: Who your audience typically is
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: social_media_presence
+      label: Social Media Presence
+      hint: Followers across platforms
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_header_motivation
+      label: -- Motivation and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: why_interested
+      label: Why Are You Interested
+      hint: What motivates you to host
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: unique_value
+      label: Unique Value or Strengths
+      hint: What makes you a great host
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registration_consent
+      label: I agree to host terms and conditions
+      hint: Check to submit application
+      type: select_one
+      options:
+      - I agree and apply
+      - I need more information
+      - Cancel application
+      required: true

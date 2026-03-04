@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxing Registration Form
+    pages:
+    - id: 1
+      name: profile_header
+      label: -- Participant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: part_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_dt
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender_opt
+      label: Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_header
+      label: -- Training Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exp_lvl
+      label: Boxing Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 9
+      name: class_pref
+      label: Preferred Class Type
+      hint: null
+      type: select_one
+      options:
+      - Fitness Boxing
+      - Competitive Sparring
+      - Youth Boxing
+      - Private Coaching
+      required: true
+    - id: 10
+      name: weight_val
+      label: Current Weight - kg or lb
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: health_header
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_notes
+      label: Any medical conditions or previous injuries?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: waiver_header
+      label: -- Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: risks_agree
+      label: I understand the risks and agree to the liability waiver
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: reg_dt
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

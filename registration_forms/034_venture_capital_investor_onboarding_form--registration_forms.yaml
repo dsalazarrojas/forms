@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Venture Capital Investor Onboarding Form
+    pages:
+    - id: 1
+      name: venture_capital_investor_onboarding_form_page_1
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_investor_type
+      label: select_investor_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1''}'
+      - '{''id'': 2, ''name'': ''option_2''}'
+      - '{''id'': 3, ''name'': ''option_3''}'
+      required: false
+    - id: 3
+      name: investor_name
+      label: investor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: investor_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: investor_phone
+      label: investor_phone
+      hint: null
+      type: text
+      options: []
+      required: false

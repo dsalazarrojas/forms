@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: voter_registration_form
+    pages:
+    - id: 1
+      name: citizen_info
+      label: citizen information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: voter_status
+      label: voter status
+      hint: null
+      type: select_one
+      options:
+      - registered
+      - not_registered
+      - pending
+      required: true
+    - id: 9
+      name: registration_method
+      label: registration method
+      hint: null
+      type: select_one
+      options:
+      - in person
+      - mail
+      - online
+      - via phone
+      required: true
+    - id: 10
+      name: update_reason
+      label: update reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true

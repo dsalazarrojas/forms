@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Application Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seminar_info
+      label: Seminar Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seminar_type
+      label: Seminar Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Seminar 1''}'
+      - '{''id'': 2, ''label'': ''Seminar 2''}'
+      - '{''id'': 3, ''label'': ''Seminar 3''}'
+      required: false
+    - id: 5
+      name: seminar_date
+      label: Seminar Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: phone_type
+      label: Phone Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Home''}'
+      - '{''id'': 2, ''label'': ''Work''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: seminar_participants
+      label: Seminar Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: seminar_capacity
+      label: Maximum Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: seminar_capacity_remaining
+      label: Remaining Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

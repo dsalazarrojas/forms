@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Health App Beta Program Registration Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      required: false
+    - id: 4
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: owner_notes
+      label: owner_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact
+      label: preferred_contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - None
+      required: false
+    - id: 10
+      name: accept_terms
+      label: accept_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: accept_privacy_policy
+      label: accept_privacy_policy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: agree_to_share
+      label: agree_to_share
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

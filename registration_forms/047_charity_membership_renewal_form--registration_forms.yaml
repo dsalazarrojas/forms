@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Membership Renewal Form
+    pages:
+    - id: 1
+      name: member_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: member_id
+      label: Member ID Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: membership_type
+      label: Membership Type
+      hint: Renewing as
+      type: select_one
+      options:
+      - Individual member
+      - Family membership
+      - Student membership
+      - Senior membership
+      - Corporate member
+      - Lifetime member
+      required: true
+    - id: 7
+      name: membership_year
+      label: Renewal Year
+      hint: Which year
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - Multi-year 2026-2027
+      required: true
+    - id: 8
+      name: renewal_fee
+      label: Renewal Fee
+      hint: Amount due
+      type: select_one
+      options:
+      - $50 - Individual
+      - $75 - Family
+      - $25 - Student
+      - $35 - Senior
+      - $250 - Corporate
+      - $1000 - Lifetime
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      - Check
+      required: true
+    - id: 10
+      name: additional_donation
+      label: Additional Donation
+      hint: Support beyond dues
+      type: select_one
+      options:
+      - No donation
+      - $25
+      - $50
+      - $100
+      - $250
+      - Other amount
+      required: false
+    - id: 11
+      name: contact_update
+      label: Has Your Contact Information Changed
+      hint: Update needed
+      type: select_one
+      options:
+      - No same as before
+      - Yes needs update
+      required: true
+    - id: 12
+      name: new_address
+      label: New Mailing Address
+      hint: If changed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: communication_preference
+      label: Communication Preference
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email only
+      - Mail only
+      - Both email and mail
+      - Phone calls
+      required: true
+    - id: 14
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Get involved
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - false
+      required: false
+    - id: 15
+      name: committee_interest
+      label: Committee Interest
+      hint: Join a committee
+      type: select_multiple
+      options:
+      - Membership committee
+      - Events committee
+      - Fundraising committee
+      - Communications committee
+      - Advocacy committee
+      - Not interested
+      required: false
+    - id: 16
+      name: newsletter_subscription
+      label: Continue Newsletter Subscription
+      hint: Stay informed
+      type: select_one
+      options:
+      - Yes continue
+      - No unsubscribe
+      required: true
+    - id: 17
+      name: how_involved
+      label: How Involved Do You Want to Be
+      hint: Engagement level
+      type: select_one
+      options:
+      - Very active
+      - Moderately active
+      - Receive updates only
+      - Minimal contact
+      required: true
+    - id: 18
+      name: feedback
+      label: Feedback on Your Membership
+      hint: Your experience
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: referral_source
+      label: How Did You First Hear About Us
+      hint: Original source
+      type: select_one
+      options:
+      - Friend or family
+      - Social media
+      - Website
+      - Event
+      - Print media
+      - Other
+      required: false
+    - id: 20
+      name: terms_agreement
+      label: Do You Agree to Membership Terms
+      hint: Terms and conditions
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

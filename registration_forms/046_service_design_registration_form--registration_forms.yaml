@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Design Registration Form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - Design
+      - Development
+      - Other
+      required: false
+    - id: 6
+      name: workshop_length
+      label: Workshop Length
+      hint: null
+      type: select_multiple
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      required: false
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: workshop_time
+      label: Workshop Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Consulting
+      - Training
+      - Other
+      required: false
+    - id: 10
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_designer
+      label: Service Designer
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: service_designer_info
+      label: Service Designer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_designer_phone
+      label: Service Designer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_designer_email
+      label: Service Designer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: service_designer_notes
+      label: Service Designer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: workshop_notes
+      label: Workshop Notes
+      hint: null
+      type: text
+      options: []
+      required: false

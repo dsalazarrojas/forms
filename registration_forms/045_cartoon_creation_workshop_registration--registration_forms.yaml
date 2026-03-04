@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cartoon Creation Workshop Registration
+    pages:
+    - id: 1
+      name: section_participant_details
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: Age of Participant
+      hint: required for group placement
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: for workshop updates and instructions
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent or Guardian Name (if under 18)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_workshop_selection
+      label: -- Workshop Selection --
+      hint: select your preferred schedule
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: selected_session
+      label: Selected Session
+      hint: choose one
+      type: select_one
+      options:
+      - Morning (9am-12pm)
+      - Afternoon (1pm-4pm)
+      - Full Day (9am-4pm)
+      required: true
+    - id: 8
+      name: skill_level
+      label: Current Drawing Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 9
+      name: interest_areas
+      label: Areas of Interest
+      hint: select all that you want to learn
+      type: select_multiple
+      options:
+      - Character Design
+      - Storyboarding
+      - Digital Inking
+      - Coloring
+      - Animation Basics
+      - Caricatures
+      required: true
+    - id: 10
+      name: section_materials
+      label: -- Materials and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: bring_own_tablet
+      label: Will you bring your own digital drawing tablet?
+      hint: iPad, Wacom, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - I need to rent one
+      required: true
+    - id: 12
+      name: favorite_cartoons
+      label: Who are your favorite cartoon characters or artists?
+      hint: helps us tailor the workshop
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: software_experience
+      label: Any experience with drawing software?
+      hint: Photoshop, Procreate, Clip Studio, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_emergency
+      label: -- Emergency and Medical --
+      hint: for participant safety
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: allergies_or_medical
+      label: Any allergies or medical conditions?
+      hint: please specify any special needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_consent
+      label: -- Consent and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: photo_release
+      label: I grant permission to use photos for promotional purposes
+      hint: website and social media
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: terms_acceptance
+      label: I agree to the workshop terms and conditions
+      hint: codes of conduct and safety rules
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: section_payment
+      label: -- Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: registration_fee
+      label: Registration Fee Paid?
+      hint: select current status
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 23
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash at Door
+      required: true
+    - id: 24
+      name: section_final_sub
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: digital_signature
+      label: Signature of Participant or Guardian
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

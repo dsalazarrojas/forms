@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marathon Event Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_information
+      label: Volunteer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_hint
+      label: email
+      hint: Please enter a valid email address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''EST''}'
+      - '{''label'': ''CST''}'
+      - '{''label'': ''PST''}'
+      - '{''label'': ''MST''}'
+      - '{''label'': ''CST''}'
+      - '{''label'': ''AKST''}'
+      required: false
+    - id: 8
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Water Station''}'
+      - '{''label'': ''Aid Station''}'
+      - '{''label'': ''Finish Line''}'
+      required: false
+    - id: 9
+      name: volunteer_details
+      label: Volunteer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_availability
+      label: Confirm Availability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: volunteer_start_date
+      label: Volunteer Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_start_time
+      label: Volunteer Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: volunteer_end_date
+      label: Volunteer End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_end_time
+      label: Volunteer End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_shift
+      label: Volunteer Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''AM''}'
+      - '{''label'': ''PM''}'
+      - '{''label'': ''All Day''}'
+      required: false
+    - id: 18
+      name: volunteer_notes
+      label: Volunteer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_volunteer
+      label: Assigned Volunteer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 20
+      name: confirm_assigned_volunteer
+      label: Confirm Assigned Volunteer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Reset''}'
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: electric_vehicle_test_drive_reservation_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: test_drive_info
+      label: Test Drive Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 6
+      name: test_drive_details
+      label: Test Drive Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dealer_notes
+      label: Dealer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_drive_status
+      label: Test Drive Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Scheduled
+      - Rescheduled
+      - Completed
+      required: true
+    - id: 11
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 12
+      name: test_drive_result
+      label: Test Drive Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Pending
+      required: true
+    - id: 13
+      name: test_drive_score
+      label: Test Drive Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: test_drive_rating
+      label: Test Drive Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: test_drive_comment
+      label: Test Drive Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: test_drive_rating_comment
+      label: Test Drive Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dealer_signature
+      label: Dealer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_id
+      label: Vehicle ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: test_drive_location
+      label: Test Drive Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: test_drive_time
+      label: Test Drive Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: test_drive_date
+      label: Test Drive Date
+      hint: null
+      type: date
+      options: []
+      required: true

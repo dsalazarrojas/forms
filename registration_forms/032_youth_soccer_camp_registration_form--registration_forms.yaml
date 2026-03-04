@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Soccer Camp Registration Form
+    pages:
+    - id: 1
+      name: athlete_info
+      label: athlete information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parents_info
+      label: parents information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I accept the terms'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''I do not accept the terms'', ''value'': 2}'
+      required: true
+    - id: 4
+      name: acknowledgment
+      label: acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I have read and understand the terms'', ''value'':
+        1}'
+      - '{''id'': 2, ''label'': ''I have not read and understand the terms'', ''value'':
+        2}'
+      required: true
+    - id: 5
+      name: athlete_name
+      label: athlete name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: athlete_email
+      label: athlete email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_name
+      label: parent name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: parent email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: athlete_phone
+      label: athlete phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: athlete_address
+      label: athlete address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_phone
+      label: parent phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_conditions_2
+      label: medical conditions 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: athlete_gender
+      label: athlete gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''male'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''female'', ''value'': 2}'
+      required: true
+    - id: 18
+      name: athlete_age
+      label: athlete age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team A'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Team B'', ''value'': 2}'
+      required: true
+    - id: 20
+      name: jersey_number
+      label: jersey number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: player_position
+      label: player position
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Goalkeeper'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Defender'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Midfielder'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Midfielder'', ''value'': 4}'
+      required: true
+    - id: 22
+      name: player_specialty
+      label: player specialty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''soccer'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''basketball'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''tennis'', ''value'': 3}'
+      required: false
+    - id: 23
+      name: player_skill_level
+      label: player skill level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''beginner'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''intermediate'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''advanced'', ''value'': 3}'
+      required: true
+    - id: 24
+      name: player_experience
+      label: player experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''0-1 year'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''2-3 years'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''more than 3 years'', ''value'': 3}'
+      required: true
+    - id: 25
+      name: parent_signature
+      label: parent signature
+      hint: null
+      type: note
+      options: []
+      required: true

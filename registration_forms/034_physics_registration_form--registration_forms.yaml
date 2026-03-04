@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physics Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_telephone
+      label: student_telephone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: physics_course
+      label: physics_course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: class_start_date
+      label: class_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: class_end_date
+      label: class_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_physicstext
+      label: student_physicstext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_physicstext2
+      label: student_physicstext2
+      hint: null
+      type: text
+      options: []
+      required: false

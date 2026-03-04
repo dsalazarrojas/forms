@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Festival Attendance Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Please enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event type
+      hint: Select your event type
+      type: select_one
+      options:
+      - Festival
+      - Concert
+      - Show
+      - Exhibition
+      required: false
+    - id: 6
+      name: attendance_date
+      label: Attendance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: ticket_price
+      label: Ticket price
+      hint: Please enter your ticket price
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Select your payment method
+      type: select_multiple
+      options:
+      - Cash
+      - Card
+      - Online
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_details
+      label: Event details
+      hint: Select your event details
+      type: select_multiple
+      options:
+      - Food and Beverage
+      - Entertainment
+      - Games
+      - Activities
+      required: false

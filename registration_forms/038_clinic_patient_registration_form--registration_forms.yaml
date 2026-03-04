@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinic Patient Registration Form
+    pages:
+    - id: 1
+      name: patient_section
+      label: -- Patient Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_record_number
+      label: Medical Record Number
+      hint: If existing patient
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: middle_name
+      label: Middle Name/Initial
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: ssn
+      label: Social Security Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      - Prefer not to answer
+      required: true
+    - id: 9
+      name: contact_section
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alternate_phone
+      label: Alternate Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address_section
+      label: -- Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: apt_number
+      label: Apartment/Suite Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: employer_section
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_section
+      label: -- Primary Insurance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: insurance_carrier
+      label: Insurance Carrier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: member_id
+      label: Member ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: group_id
+      label: Group ID
+      hint: Optional
+      type: text
+      options: []
+      required: false

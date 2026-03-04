@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: BUSTNBURN BBQ Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: Which BBQ event are you registering for?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Couple
+      - Family
+      - Group
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people in your party?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bbq_preference
+      label: BBQ Preference
+      hint: What type of BBQ meat do you prefer?
+      type: select_one
+      options:
+      - Brisket
+      - Ribs
+      - Chicken
+      - Pork
+      - Vegetarian
+      - Mixed plate
+      - No preference
+      required: false
+    - id: 8
+      name: side_dishes
+      label: Favorite Side Dishes
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Baked beans
+      - Coleslaw
+      - Corn on the cob
+      - Potato salad
+      - Mac and cheese
+      - Grilled vegetables
+      - Bread or rolls
+      - Other
+      required: false
+    - id: 9
+      name: beverage_preference
+      label: Beverage Preference
+      hint: null
+      type: select_one
+      options:
+      - Beer
+      - Wine
+      - Non-alcoholic
+      - No preference
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: kids_attending
+      label: Will Children Be Attending?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: number_of_kids
+      label: Number of Children
+      hint: If yes, how many?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: help_volunteer
+      label: Interested in Volunteering?
+      hint: Help with setup, cooking, cleanup?
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: false
+    - id: 14
+      name: special_skills
+      label: Special Skills or Experience
+      hint: Cooking, grilling, music, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Cash at Event
+      - Check
+      - Other
+      required: true
+    - id: 16
+      name: registration_fee
+      label: Registration Fee
+      hint: Cost per person
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any special accommodations?
+      type: text
+      options: []
+      required: false

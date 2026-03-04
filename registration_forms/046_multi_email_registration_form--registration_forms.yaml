@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multi Email Registration Form
+    pages:
+    - id: 1
+      name: email_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: email_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_details_2
+      label: event_details_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 111, ''name'': ''team-1'', ''label'': ''Team 1''}'
+      - '{''id'': 112, ''name'': ''team-2'', ''label'': ''Team 2''}'
+      - '{''id'': 113, ''name'': ''team-3'', ''label'': ''Team 3''}'
+      - '{''id'': 114, ''name'': ''team-4'', ''label'': ''Team 4''}'
+      required: false
+    - id: 12
+      name: training
+      label: training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 121, ''name'': ''training-1'', ''label'': ''Training 1''}'
+      - '{''id'': 122, ''name'': ''training-2'', ''label'': ''Training 2''}'
+      - '{''id'': 123, ''name'': ''training-3'', ''label'': ''Training 3''}'
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 141, ''name'': ''assigned-1'', ''label'': ''Assigned 1''}'
+      - '{''id'': 142, ''name'': ''assigned-2'', ''label'': ''Assigned 2''}'
+      required: false
+    - id: 15
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 171, ''name'': ''follow_up-1'', ''label'': ''Follow up 1''}'
+      - '{''id'': 172, ''name'': ''follow_up-2'', ''label'': ''Follow up 2''}'
+      - '{''id'': 173, ''name'': ''follow_up-3'', ''label'': ''Follow up 3''}'
+      - '{''id'': 174, ''name'': ''follow_up-4'', ''label'': ''Follow up 4''}'
+      required: false
+    - id: 18
+      name: follow_up_2
+      label: follow_up_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 181, ''name'': ''follow_up_2-1'', ''label'': ''Follow up 2''}'
+      - '{''id'': 182, ''name'': ''follow_up_2-2'', ''label'': ''Follow up 2''}'
+      - '{''id'': 183, ''name'': ''follow_up_2-3'', ''label'': ''Follow up 2''}'
+      required: false
+    - id: 19
+      name: workflow
+      label: workflow
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 191, ''name'': ''workflow-1'', ''label'': ''Workflow 1''}'
+      - '{''id'': 192, ''name'': ''workflow-2'', ''label'': ''Workflow 2''}'
+      required: false
+    - id: 20
+      name: event_id
+      label: event_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 201, ''name'': ''event-1'', ''label'': ''Event 1''}'
+      - '{''id'': 202, ''name'': ''event-2'', ''label'': ''Event 2''}'
+      required: false
+    - id: 21
+      name: member_id
+      label: member_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 211, ''name'': ''member-1'', ''label'': ''Member 1''}'
+      - Other
+      required: false
+    - id: 22
+      name: team_id
+      label: team_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 221, ''name'': ''team-1'', ''label'': ''Team 1''}'
+      - '{''id'': 222, ''name'': ''team-2'', ''label'': ''Team 2''}'
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 231, ''name'': ''assigned-1'', ''label'': ''Assigned 1''}'
+      - Other
+      required: false
+    - id: 24
+      name: follow_up_3
+      label: follow_up_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 241, ''name'': ''follow_up_3-1'', ''label'': ''Follow up 3''}'
+      - '{''id'': 242, ''name'': ''follow_up_3-2'', ''label'': ''Follow up 3''}'
+      - '{''id'': 243, ''name'': ''follow_up_3-3'', ''label'': ''Follow up 3''}'
+      required: false
+    - id: 25
+      name: notes_2
+      label: notes_2
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Planning Event Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: select_one
+      options:
+      - 0900
+      - '1000'
+      - '1100'
+      required: false
+    - id: 9
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 10
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Organizer
+      - Participant
+      - Sponsor
+      required: false
+    - id: 11
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_multiple
+      options:
+      - General Participant
+      - Group Leader
+      - Speaker
+      - Sponsor
+      required: false
+    - id: 12
+      name: participant_number
+      label: Participant Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Waiting List
+      - Registered
+      - Cancelled
+      required: false

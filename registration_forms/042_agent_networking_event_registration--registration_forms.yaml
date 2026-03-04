@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Networking Event Registration
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Networking Event Registration --
+      hint: connect with industry professionals and expand your network
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agency_name
+      label: Agency or Brokerage Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: industry_focus
+      label: Industry Focus - Residential, Commercial, Insurance, Finance
+      hint: select your primary business area
+      type: select_one
+      options:
+      - Residential Real Estate
+      - Commercial Real Estate
+      - Insurance Services
+      - Financial Planning
+      - Mortgage / Lending
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: for event updates and tickets
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: networking_goals
+      label: What are your primary networking goals for this event?
+      hint: e.g., finding new partners, lead generation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referral_source
+      label: How did you hear about this event?
+      hint: null
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Industry Publication
+      - Colleague Referral
+      - Other
+      required: true
+    - id: 10
+      name: dietary_preferences
+      label: Dietary Preferences for the Catered Lunch
+      hint: null
+      type: select_one
+      options:
+      - Standard (No restrictions)
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Halal
+      required: true
+    - id: 11
+      name: sponsorship_interest
+      label: Are you interested in future sponsorship opportunities?
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Yes, as a Table Sponsor
+      - Yes, as a Keynote Sponsor
+      - Send more information
+      - No, not at this time
+      required: false
+    - id: 12
+      name: consent_header
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: communication_consent
+      label: I consent to receive communications about future networking events.
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, thank you
+      required: true
+    - id: 14
+      name: directory_consent
+      label: I agree to be included in the attendee directory shared with other participants.
+      hint: null
+      type: select_one
+      options:
+      - Yes, include me
+      - No, keep my info private
+      required: true

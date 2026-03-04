@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invoice Processing Live Demo Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 9
+      name: job_function
+      label: job_function
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Finance
+      - HR
+      required: false
+    - id: 10
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Protein Consortium Registration Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role_in_plant_protein_initiatives
+      label: Role in Plant Protein Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - Member
+      - Partner
+      - Collaborator
+      required: true
+    - id: 7
+      name: how_many_members_in_organization
+      label: How Many Members in Organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: has_data_on_plant_proteins
+      label: Has Data on Plant Proteins
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true

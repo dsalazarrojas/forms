@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Visual Artist Application Form
+    pages:
+    - id: 1
+      name: artist_background
+      label: Artist Background
+      hint: Describe your artistic background
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: portfolio_samples
+      label: Portfolio Samples
+      hint: Attach up to 3 portfolio samples
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bio_statement
+      label: Bio Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

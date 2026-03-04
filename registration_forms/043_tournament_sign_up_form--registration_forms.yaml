@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: player_type
+      label: player_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''individual''}'
+      - '{''id'': 2, ''name'': ''team''}'
+      required: false
+    - id: 5
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_role
+      label: team_role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''captain''}'
+      - '{''id'': 2, ''name'': ''member''}'
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_time
+      label: date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_time_2
+      label: date_time_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date_time_3
+      label: date_time_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_time_4
+      label: date_time_4
+      hint: null
+      type: time
+      options: []
+      required: false

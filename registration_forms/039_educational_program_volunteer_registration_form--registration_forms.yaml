@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Program Volunteer Registration Form
+    pages:
+    - id: 1
+      name: educational_program_volunteer_registration_form
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_position
+      label: volunteer_position
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer
+      - Program Coordinator
+      - Assistant Director
+      required: false
+    - id: 6
+      name: program_interest
+      label: program_interest
+      hint: null
+      type: select_one
+      options:
+      - Educational
+      - Community
+      - Research
+      required: false
+    - id: 7
+      name: volunteer_start_date
+      label: volunteer_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_end_date
+      label: volunteer_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: confirm_volunteer_start_date
+      label: confirm_volunteer_start_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: confirm_volunteer_end_date
+      label: confirm_volunteer_end_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_status
+      label: volunteer_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - On Hold
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: false
+    - id: 15
+      name: volunteer_type
+      label: volunteer_type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Group
+      - Family
+      required: false
+    - id: 16
+      name: volunteer_frequency
+      label: volunteer_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 17
+      name: volunteer_hours
+      label: volunteer_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assigned_time
+      label: assigned_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: program_start_date
+      label: program_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: program_end_date
+      label: program_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_agreement
+      label: volunteer_agreement
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Declined
+      - Pending
+      required: false
+    - id: 23
+      name: program_status
+      label: program_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 24
+      name: assigned_tool_id
+      label: assigned_tool_id
+      hint: null
+      type: select_one
+      options:
+      - '123'
+      - '456'
+      - '789'
+      required: false
+    - id: 25
+      name: form_id
+      label: form_id
+      hint: null
+      type: select_one
+      options:
+      - '18508'
+      - Other
+      required: false

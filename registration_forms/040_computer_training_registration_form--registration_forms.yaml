@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Training Registration Form
+    pages:
+      - id: 1
+        name: section_registration
+        label: -- Registration --
+        hint: Sign up for computer training sessions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Attendee name
+        hint: Full name for registration
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: For course materials and confirmation
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: course_selected
+        label: Course selected
+        hint: Which training course you are registering for
+        type: select_one
+        options: [Intro to Computers, Office Productivity, Coding Basics, Advanced IT]
+        required: true
+      - id: 5
+        name: experience_level
+        label: Experience level
+        hint: Self assessed prior experience
+        type: select_one
+        options: [Beginner, Intermediate, Advanced]
+        required: true
+      - id: 6
+        name: preferred_schedule
+        label: Preferred schedule
+        hint: Morning, Afternoon, Evening preferences
+        type: select_one
+        options: [Morning, Afternoon, Evening]
+        required: false
+      - id: 7
+        name: payment_option
+        label: Payment option
+        hint: Select payment method
+        type: select_one
+        options: [Credit card, Invoice, Employer sponsored]
+        required: true
+      - id: 8
+        name: special_requirements
+        label: Special requirements
+        hint: Accessibility or equipment needs
+        type: text
+        options: []
+        required: false

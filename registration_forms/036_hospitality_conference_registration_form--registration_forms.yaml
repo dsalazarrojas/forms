@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Conference Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''conference'', ''label'': ''Conference''}'
+      - '{''id'': 20, ''name'': ''workshop'', ''label'': ''Workshop''}'
+      - '{''id'': 30, ''name'': ''meeting'', ''label'': ''Meeting''}'
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: attendee_count
+      label: Attendee Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 40, ''name'': True, ''label'': True}'
+      - '{''id'': 50, ''name'': False, ''label'': False}'
+      required: true
+    - id: 12
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 60, ''name'': True, ''label'': True}'
+      - '{''id'': 70, ''name'': False, ''label'': False}'
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 80, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 90, ''name'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

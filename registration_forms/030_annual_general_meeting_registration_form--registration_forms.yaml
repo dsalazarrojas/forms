@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual General Meeting Registration Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_id
+      label: Membership ID
+      hint: Member identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_year
+      label: Meeting Year
+      hint: Which AGM are you attending?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 8
+      name: attendance_type
+      label: Attendance Type
+      hint: How will you attend?
+      type: select_one
+      options:
+      - In Person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 9
+      name: member_status
+      label: Member Status
+      hint: What is your membership status?
+      type: select_one
+      options:
+      - Current Member
+      - New Member
+      - Past Member
+      - Non-Member Guest
+      - Board Member
+      - Staff
+      required: true
+    - id: 10
+      name: voting_eligibility
+      label: Voting Eligibility
+      hint: Are you eligible to vote?
+      type: select_one
+      options:
+      - Yes, Eligible
+      - No, Not Eligible
+      - Proxy Vote
+      required: true
+    - id: 11
+      name: proxy_name
+      label: Proxy Name
+      hint: If sending a proxy, their name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: guest_name
+      label: Guest Name
+      hint: Name of guest if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guest_email
+      label: Guest Email
+      hint: Guest email address
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Shellfish Allergies
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 15
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meal_selection
+      label: Meal Selection
+      hint: Choose your preferred meal
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - No Meal Required
+      required: false
+    - id: 17
+      name: breakout_sessions
+      label: Breakout Sessions
+      hint: Select sessions to attend
+      type: select_multiple
+      options:
+      - Financial Overview
+      - Strategic Planning
+      - Committee Reports
+      - Member Forum
+      - Networking
+      - None
+      required: false
+    - id: 18
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 20
+      name: materials_delivery
+      label: Materials Delivery
+      hint: How should we send materials?
+      type: select_one
+      options:
+      - Email Only
+      - Mail Before Meeting
+      - Pick Up at Meeting
+      - Virtual Download
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: If fees apply, how will you pay?
+      type: select_one
+      options:
+      - No Fee Required
+      - Credit Card
+      - Invoice
+      - Check
+      - Included in Membership
+      required: true
+    - id: 22
+      name: registration_fee
+      label: Registration Fee
+      hint: Amount due if applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Did You Hear About This Meeting?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email Invitation
+      - Website
+      - Social Media
+      - Colleague
+      - Previous Meeting
+      - Other
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs or requests?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Interest Meeting Enrollment Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: meeting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: meeting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: meeting_topic
+      label: meeting_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_location
+      label: meeting_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_interests
+      label: participant_interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_meeting_time
+      label: preferred_meeting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: preferred_meeting_day
+      label: preferred_meeting_day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 11
+      name: participant_preferred_meeting_time
+      label: participant_preferred_meeting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: participant_preferred_meeting_day
+      label: participant_preferred_meeting_day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 13
+      name: participant_agree1
+      label: I agree
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_agree2
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: participant_agree3
+      label: '{''hint'' - None, ''type'' - ''note''}'
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_agree
+      label: '{''type'' - ''note''}'
+      hint: null
+      type: text
+      options: []
+      required: false

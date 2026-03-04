@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: online_community_user_onboarding
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: community_guideline_agreement
+      label: Community Guideline Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Community Rules
+      - Community Etiquette
+      - Community Guidelines
+      required: false
+    - id: 3
+      name: onboarding_choice
+      label: Onboarding prophets
+      hint: null
+      type: select_multiple
+      options:
+      - Forum Onboarding
+      - Private Group Onboarding
+      - Membership Community Onboarding
+      required: false
+    - id: 4
+      name: onboarding_date
+      label: Onboarding Date
+      hint: Enter your onboarding date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_time
+      label: Onboarding Time
+      hint: Enter your onboarding time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: onboarding_comments
+      label: Onboarding Comments
+      hint: Enter your onboarding comments
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: community_type
+      label: Community Type
+      hint: null
+      type: select_one
+      options:
+      - Public Forum
+      - Private Group
+      - Membership Community
+      required: false

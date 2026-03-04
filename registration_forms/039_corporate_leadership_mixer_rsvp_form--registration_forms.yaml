@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Leadership Mixer RSVP Form
+    pages:
+    - id: 1
+      name: name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rsvp
+      label: Will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: guest_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_preferences
+      label: Guest Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guest_relationship
+      label: What's your relationship with the guest?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: rsvp_message
+      label: RSVP Message
+      hint: null
+      type: text
+      options: []
+      required: false

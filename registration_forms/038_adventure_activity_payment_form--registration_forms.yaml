@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Activity Payment Form
+    pages:
+    - id: 1
+      name: payment_header
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payer_name
+      label: Payer full name
+      hint: For receipt
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_name
+      label: Activity name
+      hint: Which adventure activity
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: amount
+      label: Payment amount
+      hint: Enter amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment method
+      hint: Choose available option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Cash
+      required: true
+    - id: 6
+      name: card_last_four
+      label: Card last four digits
+      hint: For manual reconciliation only
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: billing_email
+      label: Billing email
+      hint: For receipt delivery
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: payment_date
+      label: Payment date
+      hint: Date of payment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: refund_policy_acknowledged
+      label: Refund policy acknowledged
+      hint: Agree to event refund terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

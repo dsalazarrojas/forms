@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: cultural_exchange_fair_registration_form
+    pages:
+    - id: 1
+      name: registration_form_details
+      label: Registration Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_additional_info
+      label: Participant Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: participant_cultural_info
+      label: Participant Cultural Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_availability
+      label: Participant Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_event_info
+      label: Participant Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_event_details
+      label: Participant Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_payment_details
+      label: Participant Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_other_info
+      label: Participant Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: participant_submission
+      label: Participant Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

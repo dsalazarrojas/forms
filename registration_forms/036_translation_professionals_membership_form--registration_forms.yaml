@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Translation Professionals Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: profession
+      label: Profession
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bio
+      label: Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English'', ''value'': ''English''}'
+      - '{''label'': ''Spanish'', ''value'': ''Spanish''}'
+      required: false
+    - id: 9
+      name: specialization
+      label: Specialization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Medical'', ''value'': ''Medical''}'
+      - '{''label'': ''Technical'', ''value'': ''Technical''}'
+      - '{''label'': ''Financial'', ''value'': ''Financial''}'
+      - '{''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: certification
+      label: Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Certified'', ''value'': ''Certified''}'
+      - '{''label'': ''Non-Certified'', ''value'': ''Non-Certified''}'
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Stripe'', ''value'': ''Stripe''}'
+      - '{''label'': ''PayPal'', ''value'': ''PayPal''}'
+      required: false
+    - id: 12
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: terms
+      label: Terms of Use
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

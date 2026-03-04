@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Lease Negotiation Workshop Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For workshop updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_professional_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: profession
+      label: Profession
+      hint: What best describes you
+      type: select_one
+      options:
+      - Attorney
+      - Real Estate Agent
+      - Property Manager
+      - Business Owner
+      - Corporate Real Estate
+      - Landlord
+      - Tenant Representative
+      - Student
+      - Other
+      required: true
+    - id: 8
+      name: years_experience
+      label: Years of Experience
+      hint: In real estate or leasing
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 9
+      name: section_header_workshop_selection
+      label: -- Workshop Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: workshop_date
+      label: Workshop Date
+      hint: Select preferred date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: workshop_format
+      label: Workshop Format
+      hint: In-person or online
+      type: select_one
+      options:
+      - In-Person
+      - Live Online
+      - Recorded Session
+      required: true
+    - id: 12
+      name: session_tracks
+      label: Session Tracks
+      hint: Select tracks of interest
+      type: select_multiple
+      options:
+      - Lease Basics
+      - Negotiation Strategies
+      - Legal Considerations
+      - Market Analysis
+      - Tenant Representation
+      - Landlord Representation
+      - Advanced Tactics
+      required: true
+    - id: 13
+      name: section_header_learning_goals
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_goal
+      label: Primary Learning Goal
+      hint: What do you want to learn
+      type: select_one
+      options:
+      - Basic Lease Terms
+      - Negotiation Skills
+      - Market Rates
+      - Legal Issues
+      - Contract Drafting
+      - Dispute Resolution
+      - All of the Above
+      required: true
+    - id: 15
+      name: current_challenges
+      label: Current Challenges
+      hint: What challenges do you face
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_meal_preferences
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: meal_preference
+      label: Meal Preference
+      hint: For in-person events
+      type: select_one
+      options:
+      - Standard
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_payment
+      label: -- Registration Fee --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: registration_type
+      label: Registration Type
+      hint: Select registration level
+      type: select_one
+      options:
+      - Early Bird
+      - Standard
+      - Group Rate
+      - Student Rate
+      - VIP Package
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Wire Transfer
+      - Check
+      - Company Invoice
+      required: true
+    - id: 22
+      name: promo_code
+      label: Promo Code
+      hint: Discount code if any
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you learn about workshop
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email Newsletter
+      - Colleague Referral
+      - Advertisement
+      - Previous Attendee
+      - Other
+      required: true
+    - id: 25
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: ce_credits_needed
+      label: CE Credits Needed
+      hint: Do you need continuing education credits
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

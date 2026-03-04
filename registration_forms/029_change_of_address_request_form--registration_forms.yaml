@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Address Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: person_name
+      label: Person's Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For verification
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: identification_number
+      label: Identification or Account Number
+      hint: Government ID or account
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_address_street
+      label: Current Address - Street
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_address_city
+      label: Current Address - City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_address_state
+      label: Current Address - State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_address_zip
+      label: Current Address - Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_years_at_address
+      label: Years at Current Address
+      hint: How long at this address
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: new_address_street
+      label: New Address - Street
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_address_city
+      label: New Address - City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_address_state
+      label: New Address - State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: new_address_zip
+      label: New Address - Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: effective_date
+      label: Effective Date of Change
+      hint: When does the change take effect
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: reason_for_move
+      label: Reason for Moving
+      hint: Why are you moving
+      type: select_one
+      options:
+      - Personal Choice
+      - Job Transfer
+      - Family Relocation
+      - Retirement
+      - Other
+      required: false
+    - id: 18
+      name: previous_addresses
+      label: List Previous Addresses
+      hint: If requested by organization
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notification_preference
+      label: Notification Preference
+      hint: How should confirmations be sent
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Combination
+      required: false
+    - id: 20
+      name: documentation_attached
+      label: Documentation Attached
+      hint: Proof of address included
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: acknowledgment
+      label: I Verify This Information is Correct
+      hint: Confirm accuracy of information
+      type: select_one
+      options:
+      - Yes, I Confirm
+      - 'No'
+      required: true

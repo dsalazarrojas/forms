@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Underwriting Training Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_multiple
+      options:
+      - Underwriting 1
+      - Underwriting 2
+      - Underwriting 3
+      required: false
+    - id: 8
+      name: training_date
+      label: Training Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: training_hours_ending
+      label: Training Hours Ending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: registration_fee
+      label: Registration Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: registration_method
+      label: Registration Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 15
+      name: registration_date
+      label: Registration Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false

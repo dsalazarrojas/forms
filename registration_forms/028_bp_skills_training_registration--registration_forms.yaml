@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: BP Skills Training Registration
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_training_selection
+      label: -- Training Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: training_course
+      label: Training Course Name
+      hint: Which course do you want to attend?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: course_category
+      label: Course Category
+      hint: null
+      type: select_one
+      options:
+      - Leadership
+      - Technical
+      - Communication
+      - Time Management
+      - Customer Service
+      - Compliance
+      - Safety
+      - Professional Development
+      - Other
+      required: true
+    - id: 11
+      name: session_date
+      label: Preferred Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: session_time
+      label: Session Time Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (1pm-5pm)
+      - Evening (6pm-8pm)
+      - Full Day
+      - Online
+      required: false
+    - id: 13
+      name: delivery_format
+      label: Preferred Delivery Format
+      hint: null
+      type: select_one
+      options:
+      - In-person classroom
+      - Online/Virtual
+      - Hybrid
+      - Self-paced
+      - No preference
+      required: false
+    - id: 14
+      name: section_participation
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: expected_hours
+      label: Expected Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: certifications_earned
+      label: Will This Lead to Certification?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 17
+      name: learning_objectives
+      label: What Are Your Learning Objectives?
+      hint: What do you want to gain from this training?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accommodations_needed
+      label: Accessibility or Accommodation Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If meals are provided
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_approval
+      label: Manager Approval Status
+      hint: Has your manager approved this training?
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not required
+      required: true

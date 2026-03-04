@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aqua Registration And Waiver Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_info
+      label: Program Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Swimming Lessons
+      - Water Aerobics
+      - Aquatic Fitness
+      - Competitive Swimming
+      - Recreational Swimming
+      required: true
+    - id: 8
+      name: skill_level
+      label: Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Competitive
+      required: true
+    - id: 9
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Child (Under 12)
+      - Teen (12-17)
+      - Adult
+      - Senior (65 plus)
+      required: true
+    - id: 10
+      name: waiver_acknowledgment
+      label: Health and Safety Acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: health_conditions
+      label: Any Medical Conditions We Should Know
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies or Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: waiver_agree
+      label: I agree to the waiver and liability release
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

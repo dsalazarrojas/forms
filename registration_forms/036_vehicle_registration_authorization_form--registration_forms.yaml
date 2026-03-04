@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Registration Authorization Form
+    pages:
+    - id: 1
+      name: vehicle_1
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorization_form_1
+      label: Authorization Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_owner_name
+      label: Vehicle Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: authorization_name
+      label: Authorized Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: authorization_signature
+      label: Authorized Person Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_signature
+      label: Time of Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Destination Information Night RSVP Form
+    pages:
+    - id: 1
+      name: travel_information_session
+      label: Travel Information Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Website''}'
+      required: false
+    - id: 4
+      name: destination_address
+      label: Destination Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_arrival_time
+      label: Travel Arrival Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: travel_arrival_date
+      label: Travel Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_method
+      label: Travel Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Train''}'
+      - '{''label'': ''Plane''}'
+      - '{''label'': ''Bus''}'
+      - '{''label'': ''Walking''}'
+      required: false
+    - id: 12
+      name: travel_info_session
+      label: Travel Info Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

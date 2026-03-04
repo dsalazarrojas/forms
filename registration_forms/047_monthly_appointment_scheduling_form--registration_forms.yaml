@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Appointment Scheduling Form
+    pages:
+    - id: 1
+      name: select_date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: select_time
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: select_start_time
+      label: Select Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: select_end_time
+      label: Select End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: select_duration
+      label: Select Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: select_days
+      label: Select Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: select_frequency
+      label: Select Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: select_status
+      label: Select Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: Additional Notes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

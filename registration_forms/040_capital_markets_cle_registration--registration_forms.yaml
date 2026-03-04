@@ -1,0 +1,326 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Markets CLE Registration
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Markets CLE Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Register for our Capital Markets Continuing Legal Education program.
+        Select sessions and provide your professional information.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: attendee_info_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: professional_info_header
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: bar_number
+      label: Bar License Number
+      hint: Your bar license
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_bar
+      label: State Bar or Jurisdiction
+      hint: Which bar licensed in
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: law_firm
+      label: Law Firm or Organization
+      hint: Your employer
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: practice_area
+      label: Primary Practice Area
+      hint: Select one
+      type: select_one
+      options:
+      - Corporate law
+      - Securities law
+      - Banking law
+      - M&A
+      - Capital markets
+      - Real estate
+      - Tax law
+      - Other
+      required: true
+    - id: 14
+      name: years_of_practice
+      label: Years of Legal Practice
+      hint: Approximate years
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: registration_type_header
+      label: -- Registration Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: registration_type
+      label: Registration Type
+      hint: Select one
+      type: select_one
+      options:
+      - In-person
+      - Virtual/Online
+      - Hybrid
+      required: true
+    - id: 17
+      name: session_format_header
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: full_program
+      label: Attending Full Program?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, full day
+      - Yes, half day - morning
+      - Yes, half day - afternoon
+      - No, individual sessions
+      required: true
+    - id: 19
+      name: session_selection
+      label: Sessions of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Capital Markets Fundamentals
+      - Securities Regulations
+      - IPO Process
+      - Private Placements
+      - Derivatives and Hedging
+      - Fintech and Digital Assets
+      - Cross-border Transactions
+      - Compliance and Risk Management
+      - Advanced Topics
+      required: true
+    - id: 20
+      name: time_slots_header
+      label: -- Preferred Time Slots --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: morning_session
+      label: Morning Session (9 AM - 12 PM)?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 22
+      name: afternoon_session
+      label: Afternoon Session (1 PM - 5 PM)?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 23
+      name: lunch_needed
+      label: Will You Attend Lunch?
+      hint: Provided lunch included
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 24
+      name: dietary_restrictions_header
+      label: -- Dietary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Nut allergy
+      - Dairy-free
+      - Other
+      - None
+      required: false
+    - id: 26
+      name: dietary_details
+      label: Dietary Details
+      hint: Describe restrictions
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: cle_credit_header
+      label: -- CLE Credit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: cle_credits_needed
+      label: Number of CLE Credits Needed
+      hint: How many credits seeking
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: credit_types
+      label: Types of CLE Credit Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General credit
+      - Ethical credit
+      - Professionalism credit
+      - Technology credit
+      - Diversity and inclusion
+      required: false
+    - id: 30
+      name: payment_info_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: registration_fee
+      label: Registration Fee Amount
+      hint: Display only
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: payment_method
+      label: Preferred Payment Method
+      hint: Select one
+      type: select_one
+      options:
+      - Credit/Debit card
+      - Check
+      - Bank transfer
+      - Purchase order
+      - Firm billing
+      required: true
+    - id: 33
+      name: firm_billing
+      label: Firm Billing Information
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: special_accommodations_header
+      label: -- Special Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: accessibility_needs
+      label: Do you need accessibility accommodations?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 36
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Describe needs if yes
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: additional_notes
+      label: Additional Information
+      hint: Optional comments or questions
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: confirmation
+      label: I confirm that all information is accurate
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'No'
+      required: true

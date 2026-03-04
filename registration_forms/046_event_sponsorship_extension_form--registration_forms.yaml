@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Sponsorship Extension Form
+    pages:
+    - id: 1
+      name: event_sponsorship_extension_form
+      label: Event Sponsor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_sponsorship_extension_form_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_sponsorship_extension_form_event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_sponsorship_extension_form_sponsorship_type
+      label: Sponsorship Type
+      hint: null
+      type: select_multiple
+      options:
+      - Gold
+      - Silver
+      - Bronze
+      required: false
+    - id: 5
+      name: event_sponsorship_extension_form_sponsorship_amount
+      label: Sponsorship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_sponsorship_extension_form_sponsorship_currency
+      label: Sponsorship Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      required: false

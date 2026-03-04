@@ -1,0 +1,299 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alternate Pick Up Person Form
+    pages:
+    - id: 1
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: Parent, guardian, etc.
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Legal guardian
+      - Foster parent
+      - Other
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: alternate_phone
+      label: Alternate Phone
+      hint: Backup number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: home_address
+      label: Home Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_first_name
+      label: Child First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_last_name
+      label: Child Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: child_grade_class
+      label: Child Grade/Class
+      hint: Grade or classroom
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_year
+      label: School Year
+      hint: Academic year
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alternate_person_1_name
+      label: Alternate Person 1 Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: alternate_person_1_relationship
+      label: Alternate Person 1 Relationship
+      hint: Relationship to child
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: alternate_person_1_phone
+      label: Alternate Person 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: alternate_person_1_email
+      label: Alternate Person 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: alternate_person_1_address
+      label: Alternate Person 1 Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: alternate_person_1_dob
+      label: Alternate Person 1 Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: alternate_person_1_id_type
+      label: Alternate Person 1 ID Type
+      hint: Type of ID they will show
+      type: select_one
+      options:
+      - Driver license
+      - State ID
+      - Passport
+      - Military ID
+      - Other government ID
+      required: true
+    - id: 19
+      name: alternate_person_1_id_number
+      label: Alternate Person 1 ID Number
+      hint: ID number for verification
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: alternate_person_1_authorization_dates
+      label: Alternate Person 1 Authorization Dates
+      hint: When are they authorized?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: alternate_person_2_name
+      label: Alternate Person 2 Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: alternate_person_2_relationship
+      label: Alternate Person 2 Relationship
+      hint: Relationship to child
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: alternate_person_2_phone
+      label: Alternate Person 2 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: alternate_person_2_email
+      label: Alternate Person 2 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: alternate_person_2_id_type
+      label: Alternate Person 2 ID Type
+      hint: Type of ID
+      type: select_one
+      options:
+      - Driver license
+      - State ID
+      - Passport
+      - Military ID
+      - Other government ID
+      - Not applicable
+      required: false
+    - id: 26
+      name: pickup_restrictions
+      label: Pickup Restrictions
+      hint: Any limitations?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: custody_agreement
+      label: Custody Agreement
+      hint: Any custody restrictions?
+      type: select_one
+      options:
+      - No restrictions
+      - Yes, documentation on file
+      - Yes, see attached
+      required: true
+    - id: 28
+      name: custody_documentation
+      label: Custody Documentation
+      hint: Attach if applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: emergency_pickup
+      label: Emergency Pickup Only
+      hint: Is this for emergencies only?
+      type: select_one
+      options:
+      - No, regular pickup allowed
+      - Yes, emergencies only
+      - Yes, specific dates only
+      required: true
+    - id: 30
+      name: password_code
+      label: Password/Code Word
+      hint: Optional security measure
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special notes?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: authorization_duration
+      label: Authorization Duration
+      hint: How long is this valid?
+      type: select_one
+      options:
+      - Entire school year
+      - Current semester only
+      - Specific dates only
+      - Until revoked
+      required: true
+    - id: 33
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: Signature confirmation
+      type: select_one
+      options:
+      - I authorize the above individuals
+      - Not yet signed
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: school_office_use
+      label: For School Office Use Only
+      hint: Staff notes
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: form_received_date
+      label: Form Received Date
+      hint: Date processed
+      type: date
+      options: []
+      required: false
+    - id: 38
+      name: staff_initials
+      label: Staff Initials
+      hint: Processing staff
+      type: text
+      options: []
+      required: false

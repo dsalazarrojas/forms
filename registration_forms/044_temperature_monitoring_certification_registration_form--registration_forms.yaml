@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temperature Monitoring Certification Registration Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: Participant First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_last_name
+      label: Participant Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_company
+      label: Participant Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_job_title
+      label: Participant Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_course
+      label: Participant Course
+      hint: null
+      type: select_one
+      options:
+      - Certified Temperature Monitoring
+      - Certified Refrigeration Monitoring
+      - Certified Energy Monitoring
+      required: false
+    - id: 9
+      name: participant_date
+      label: Participant Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: participant_time
+      label: Participant Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: participant_note
+      label: Participant Note
+      hint: null
+      type: note
+      options: []
+      required: false

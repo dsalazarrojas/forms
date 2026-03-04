@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Combat Sports Participant Registration
+    pages:
+      - id: 1
+        name: header
+        label: -- Participant Registration --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of birth
+        hint: YYYY-MM-DD
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: weight_category
+        label: Weight category
+        hint: Participant weight class
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: emergency_contact
+        label: Emergency contact name and phone
+        hint: Provide contact details
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: medical_conditions
+        label: Medical conditions or allergies
+        hint: Any health conditions organizers should know
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: experience_level
+        label: Experience level
+        hint: Beginner, intermediate, advanced
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+        required: true
+      - id: 8
+        name: consent_to_participate
+        label: Consent to participate
+        hint: Participant agreement to rules and waiver
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+        required: true
+      - id: 9
+        name: coach_name
+        label: Coach or gym name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Anything else to note
+        type: text
+        options: []
+        required: false

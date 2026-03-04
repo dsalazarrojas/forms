@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Group Renewal Form
+    pages:
+    - id: 1
+      name: group_name
+      label: Group Name
+      hint: Official name of your group
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: group_id
+      label: Group ID Number
+      hint: Your existing group ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_first_name
+      label: Contact First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: renewal_period
+      label: Renewal Period
+      hint: Which period are you renewing for?
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      required: true
+    - id: 8
+      name: membership_changes
+      label: Any Changes in Membership
+      hint: Have there been significant changes?
+      type: select_one
+      options:
+      - No Changes
+      - New Members Added
+      - Members Left
+      - Leadership Change
+      - Other Changes
+      required: true
+    - id: 9
+      name: current_member_count
+      label: Current Member Count
+      hint: Total active members
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: group_activities
+      label: Activities This Period
+      hint: What activities did your group hold?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: space_usage
+      label: Space Usage Satisfaction
+      hint: Rate your assigned space
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: space_changes_needed
+      label: Do You Need Different Space
+      hint: Any changes to space requirements?
+      type: select_one
+      options:
+      - No, Current Space is Fine
+      - Yes, Need Larger Space
+      - Yes, Need Smaller Space
+      - Yes, Different Type of Space
+      required: true
+    - id: 13
+      name: new_requirements
+      label: New Requirements
+      hint: Any new needs for upcoming period?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: compliance_status
+      label: Compliance with Group Policies
+      hint: Has your group followed all policies?
+      type: select_one
+      options:
+      - Yes, Fully Compliant
+      - Mostly Compliant
+      - Some Issues
+      - Major Issues
+      required: true
+    - id: 15
+      name: issues_description
+      label: Describe Any Issues
+      hint: Explain any compliance issues
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: renewal_fee
+      label: Renewal Fee Amount
+      hint: Calculated based on membership
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Invoice
+      - Waiver
+      required: true
+    - id: 18
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would your group like to volunteer?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: feedback
+      label: Feedback on Group Program
+      hint: Any suggestions for improvement?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: agreement
+      label: Renewal Agreement
+      hint: I agree to continue following policies
+      type: select_one
+      options:
+      - Yes, I Agree
+      - Other
+      required: true

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Strategy Planning Cohort Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cohort_name
+      label: Cohort Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''name'': ''Financial Strategy Cohort'', ''label'': ''Financial
+        Strategy Cohort'', ''value'': ''Financial Strategy Cohort''}'
+      - '{''id'': 9, ''name'': ''Other Cohort'', ''label'': ''Other Cohort'', ''value'':
+        ''Other Cohort''}'
+      required: false
+    - id: 8
+      name: cohort_details
+      label: Cohort Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 12, ''name'': True, ''label'': True, ''value'': True}'
+      - '{''id'': 13, ''name'': False, ''label'': False, ''value'': False}'
+      required: true

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Success Framework Training Registration
+    pages:
+    - id: 1
+      name: registration_intro
+      label: -- Training Program Registration --
+      hint: Register for Client Success Framework Training
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: experience_level
+      label: Experience Level with Client Success
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 9
+      name: training_program
+      label: Which Training Program Are You Registering For?
+      hint: null
+      type: select_one
+      options:
+      - Fundamentals of Client Success
+      - Advanced Client Success Strategies
+      - Client Retention Best Practices
+      - Team Leadership in Client Success
+      - Other
+      required: true
+    - id: 10
+      name: preferred_date
+      label: Preferred Training Date
+      hint: Select your preferred session date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: training_format
+      label: Preferred Training Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      required: true
+    - id: 12
+      name: timezone
+      label: Your Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Any Dietary Restrictions (if in-person)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: learning_objectives
+      label: What Do You Hope to Learn?
+      hint: Your specific learning goals for this training
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_challenges
+      label: Current Client Success Challenges
+      hint: Issues you want to address in your role
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_attending
+      label: Number of Team Members Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: prior_trainings
+      label: Prior Training Experience with Us
+      hint: Have you taken our trainings before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: additional_requirements
+      label: Any Special Requirements or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: agree_terms
+      label: I agree to the training terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

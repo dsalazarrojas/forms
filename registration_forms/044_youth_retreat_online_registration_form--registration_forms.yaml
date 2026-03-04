@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: youth_retreat_online_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: Select start date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: Select start time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: role
+      label: Role
+      hint: Select role
+      type: select_one
+      options:
+      - Participant
+      - Chaperone
+      - Staff
+      - Other ( specify )
+      required: true
+    - id: 8
+      name: other_role
+      label: Other Role
+      hint: Enter other role
+      type: text
+      options: []
+      required: false

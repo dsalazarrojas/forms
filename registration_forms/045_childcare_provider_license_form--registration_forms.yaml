@@ -1,0 +1,322 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Provider License Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of license application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: Legal first name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: Legal last name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_title
+      label: Applicant Title
+      hint: Your title or role
+      type: select_one
+      options:
+      - Owner
+      - Director
+      - Administrator
+      - Program coordinator
+      - Other
+      required: true
+    - id: 5
+      name: applicant_email
+      label: Applicant Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Organization Name
+      hint: Name of childcare organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization is this?
+      type: select_one
+      options:
+      - Family childcare home
+      - Group childcare home
+      - Childcare center
+      - Preschool
+      - Head Start program
+      - Faith-based organization
+      - Nonprofit organization
+      - For-profit organization
+      - Other
+      required: true
+    - id: 9
+      name: facility_address
+      label: Facility Address
+      hint: Full street address of facility
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: facility_city
+      label: City
+      hint: City where facility is located
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_zip
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_phone
+      label: Facility Phone
+      hint: Phone number for facility
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_email
+      label: Facility Email
+      hint: Email address for facility
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: license_type_requested
+      label: License Type Requested
+      hint: What type of license are you requesting?
+      type: select_one
+      options:
+      - Initial license
+      - Renewal license
+      - Provisional license
+      - Temporary license
+      - Expanded capacity
+      - Change of location
+      - Change of ownership
+      required: true
+    - id: 16
+      name: age_groups_to_serve
+      label: Age Groups to Serve
+      hint: Select all age groups you will serve
+      type: select_multiple
+      options:
+      - Infants (0-12 months)
+      - Toddlers (1-2 years)
+      - Preschool (3-4 years)
+      - Pre-K (4-5 years)
+      - School-age (5-12 years)
+      required: true
+    - id: 17
+      name: proposed_capacity
+      label: Proposed Capacity
+      hint: Maximum number of children you plan to serve
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: hours_of_operation
+      label: Hours of Operation
+      hint: What are your planned hours of operation?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: days_of_operation
+      label: Days of Operation
+      hint: What days will you operate?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 20
+      name: facility_ownership
+      label: Facility Ownership
+      hint: Do you own or lease the facility?
+      type: select_one
+      options:
+      - Own
+      - Lease
+      - Rent
+      - Other arrangement
+      required: true
+    - id: 21
+      name: facility_square_footage
+      label: Facility Square Footage
+      hint: Total square footage of facility
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: outdoor_play_space
+      label: Outdoor Play Space
+      hint: Do you have outdoor play space?
+      type: select_one
+      options:
+      - Yes, on-site
+      - Yes, off-site nearby
+      - false
+      required: true
+    - id: 23
+      name: outdoor_space_square_footage
+      label: Outdoor Space Square Footage
+      hint: Square footage of outdoor play space
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: staff_count_planned
+      label: Planned Staff Count
+      hint: How many staff members will you employ?
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: director_qualifications
+      label: Director Qualifications
+      hint: Describe the director's qualifications
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: compliance_with_regulations
+      label: Compliance with Regulations
+      hint: Will you comply with all state and local regulations?
+      type: select_one
+      options:
+      - Yes, fully comply
+      - Yes, with noted exceptions
+      - Need clarification
+      - false
+      required: true
+    - id: 27
+      name: previous_license_history
+      label: Previous License History
+      hint: Have you ever held a childcare license before?
+      type: select_one
+      options:
+      - Yes, current
+      - Yes, previous
+      - Yes, denied or revoked
+      - No, first time
+      required: true
+    - id: 28
+      name: license_history_details
+      label: License History Details
+      hint: Provide details about previous license history
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: background_checks_completed
+      label: Background Checks Completed
+      hint: Have all required background checks been completed?
+      type: select_one
+      options:
+      - Yes, all completed
+      - In progress
+      - Not yet started
+      required: true
+    - id: 30
+      name: health_fire_safety_inspections
+      label: Health and Fire Safety Inspections
+      hint: Have health and fire safety inspections been completed?
+      type: select_one
+      options:
+      - Yes, both completed
+      - Health only
+      - Fire safety only
+      - Scheduled
+      - Not yet scheduled
+      required: true
+    - id: 31
+      name: liability_insurance
+      label: Liability Insurance
+      hint: Do you have liability insurance?
+      type: select_one
+      options:
+      - Yes, current policy
+      - Yes, pending
+      - No, will obtain
+      - Not applicable
+      required: true
+    - id: 32
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Name of insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_programs_offered
+      label: Additional Programs Offered
+      hint: List any additional programs or services
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: application_fee_payment
+      label: Application Fee Payment
+      hint: How will you pay the application fee?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check enclosed
+      - Money order
+      - Will pay in person
+      required: true
+    - id: 35
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Tryout Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: Player First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_last_name
+      label: Player Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_date_of_birth
+      label: Player Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: player_age
+      label: Player Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: player_gender
+      label: Player Gender
+      hint: Select option
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Legal guardian
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: For tryout communications
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: home_address
+      label: Home Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tryout_date
+      label: Tryout Date
+      hint: Which date attending
+      type: select_one
+      options:
+      - Saturday March 15
+      - Sunday March 16
+      - Saturday March 22
+      - Sunday March 23
+      - Attending multiple dates
+      required: true
+    - id: 14
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 5th grade or below
+      - 6th grade
+      - 7th grade
+      - 8th grade
+      - 9th grade
+      - 10th grade
+      - 11th grade
+      - 12th grade
+      required: true
+    - id: 16
+      name: years_experience
+      label: Years of Baseball Experience
+      hint: How long played
+      type: select_one
+      options:
+      - First year
+      - 1 to 2 years
+      - 3 to 4 years
+      - 5 plus years
+      required: true
+    - id: 17
+      name: positions_played
+      label: Positions Played
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pitcher
+      - Catcher
+      - First base
+      - Second base
+      - Third base
+      - Shortstop
+      - Outfield
+      required: true
+    - id: 18
+      name: bats
+      label: Bats
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Switch
+      required: true
+    - id: 19
+      name: throws
+      label: Throws
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      required: true
+    - id: 20
+      name: previous_team
+      label: Previous Team
+      hint: Last team played for
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_provider
+      label: Medical Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: waiver_agreement
+      label: Liability Waiver Agreement
+      hint: I understand and accept risks
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 27
+      name: code_of_conduct
+      label: Code of Conduct Agreement
+      hint: Will follow all rules
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 28
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Attendance Form
+    pages:
+    - id: 1
+      name: class_name
+      label: Class or Course Name
+      hint: e.g. Mathematics 101
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class_section
+      label: Section Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: Teacher or Instructor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendance_date
+      label: Date of Class
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: class_time
+      label: Class Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: academic_year
+      label: Academic Year
+      hint: School year
+      type: select_one
+      options:
+      - 2025-2026
+      - 2026-2027
+      - 2027-2028
+      required: true
+    - id: 7
+      name: semester_term
+      label: Semester or Term
+      hint: Current term
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Session
+      - Winter Term
+      required: true
+    - id: 8
+      name: student_1_name
+      label: Student 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: student_1_id
+      label: Student 1 ID
+      hint: Student ID number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_1_status
+      label: Student 1 Attendance Status
+      hint: Select status
+      type: select_one
+      options:
+      - Present
+      - Absent - Excused
+      - Absent - Unexcused
+      - Late
+      required: true
+    - id: 11
+      name: student_2_name
+      label: Student 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: student_2_id
+      label: Student 2 ID
+      hint: Student ID number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_2_status
+      label: Student 2 Attendance Status
+      hint: Select status
+      type: select_one
+      options:
+      - Present
+      - Absent - Excused
+      - Absent - Unexcused
+      - Late
+      required: true
+    - id: 14
+      name: student_3_name
+      label: Student 3 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: student_3_id
+      label: Student 3 ID
+      hint: Student ID number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_3_status
+      label: Student 3 Attendance Status
+      hint: Select status
+      type: select_one
+      options:
+      - Present
+      - Absent - Excused
+      - Absent - Unexcused
+      - Late
+      required: true
+    - id: 17
+      name: student_4_name
+      label: Student 4 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: student_4_id
+      label: Student 4 ID
+      hint: Student ID number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_4_status
+      label: Student 4 Attendance Status
+      hint: Select status
+      type: select_one
+      options:
+      - Present
+      - Absent - Excused
+      - Absent - Unexcused
+      - Late
+      required: true
+    - id: 20
+      name: student_5_name
+      label: Student 5 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: student_5_id
+      label: Student 5 ID
+      hint: Student ID number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_5_status
+      label: Student 5 Attendance Status
+      hint: Select status
+      type: select_one
+      options:
+      - Present
+      - Absent - Excused
+      - Absent - Unexcused
+      - Late
+      required: true
+    - id: 23
+      name: total_present
+      label: Total Students Present
+      hint: Count of present students
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: total_absent
+      label: Total Students Absent
+      hint: Count of absent students
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: teacher_notes
+      label: Teacher Notes or Comments
+      hint: Any observations
+      type: text
+      options: []
+      required: false

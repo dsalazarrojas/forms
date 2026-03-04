@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Check Out Form
+    pages:
+    - id: 1
+      name: visitor_feedback
+      label: visitor_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lead_source
+      label: lead_source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Referrals''}'
+      - '{''value'': ''Open House''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 6
+      name: lead_agent
+      label: lead_agent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Real Estate Agent''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Other 2''}'
+      required: true
+    - id: 7
+      name: house_address
+      label: house_address
+      hint: House address, including street, city and state
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_durations
+      label: event_durations
+      hint: Event duration in minutes
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_visitors
+      label: number_of_visitors
+      hint: Number of visitors
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: number_of_leads
+      label: number_of_leads
+      hint: Number of leads
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Qualified''}'
+      - '{''value'': ''Not Qualified''}'
+      - '{''value'': ''Follow up Needed''}'
+      required: true

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior Cricket League Entry Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_names
+      label: team_names
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 3
+      name: league_type
+      label: league_type
+      hint: null
+      type: select_one
+      options:
+      - Cricket League
+      - T20
+      - ODI
+      required: false
+    - id: 4
+      name: managers
+      label: team_managers
+      hint: null
+      type: select_multiple
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 5
+      name: match_preferences
+      label: match_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

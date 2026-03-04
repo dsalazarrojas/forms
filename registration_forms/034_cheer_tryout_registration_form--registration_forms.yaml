@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Tryout Registration Form
+    pages:
+    - id: 1
+      name: section_athlete_id
+      label: -- Athlete Personal Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_full_legal_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: school_grade_upcoming_fall
+      label: Grade in Upcoming Fall
+      hint: null
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 5
+      name: section_primary_contact
+      label: -- Primary Parent / Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_parent_name_field
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_parent_email_field
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: primary_parent_phone_field
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_cheer_skills
+      label: -- Cheer Skills and Position --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_stunt_position
+      label: Preferred Stunt Position
+      hint: null
+      type: select_multiple
+      options:
+      - Flyer
+      - Main Base
+      - Side Base
+      - Backspot
+      - Willing to learn any
+      required: true
+    - id: 11
+      name: highest_tumbling_skill_mastered
+      label: Highest Tumbling Skill (Mastered)
+      hint: e.g. Standing Back Tuck, Running Layout
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: other_tumbling_skills_working
+      label: Tumbling Skills Currently Working On
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: cheer_experience_years_total
+      label: Total Years of Cheer Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: academic_gpa_score
+      label: Current GPA
+      hint: Grade Point Average
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_waivers_auth
+      label: -- Legal and Medical --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tryout_medical_release_ack
+      label: Medical Release and Authorization
+      hint: I certify that the athlete is physically fit to try out
+      type: select_one
+      options:
+      - I Authorize and Release
+      - Other
+      required: true
+    - id: 17
+      name: tryout_non_refundable_fee_ack
+      label: I understand the tryout fee is non-refundable
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 18
+      name: parent_digital_sig_tryout
+      label: Parent / Guardian Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: application_submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

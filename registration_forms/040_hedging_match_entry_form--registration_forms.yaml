@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hedging Match Entry Form
+    pages:
+    - id: 1
+      name: hedging_match_entry_form
+      label: hedging_match_entry_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hedge_type
+      label: hedge_type
+      hint: null
+      type: select_one
+      options:
+      - Hedge Fund
+      - Other
+      - Unknown
+      required: false
+    - id: 3
+      name: underlying_asset
+      label: underlying_asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: underlying_asset_type
+      label: underlying_asset_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: match_type
+      label: match_type
+      hint: null
+      type: select_one
+      options:
+      - Match
+      - Competition
+      - Training
+      required: false
+    - id: 10
+      name: match_timing
+      label: match_timing
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 11
+      name: risk_taker
+      label: risk_taker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_size
+      label: team_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hedged_amount
+      label: hedged_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: team_type
+      label: team_type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Team
+      - Unknown
+      required: false
+    - id: 18
+      name: risk_free
+      label: risk_free
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 19
+      name: risk_free_notes
+      label: risk_free_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hedge_type
+      label: hedge_type
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Long
+      - Short and Long
+      required: false
+    - id: 21
+      name: underlying_asset_type
+      label: underlying_asset_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: entry_status
+      label: entry_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: false
+    - id: 23
+      name: status_notes
+      label: status_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false

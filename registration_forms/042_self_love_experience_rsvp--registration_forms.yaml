@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Self Love Experience RSVP
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: details
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attend
+      label: will_attend
+      hint: null
+      type: select_one
+      options:
+      - Will you be attending?
+      - 'False'
+      - 'True'
+      required: false
+    - id: 9
+      name: guest
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_details
+      label: guest_details
+      hint: null
+      type: text
+      options: []
+      required: false

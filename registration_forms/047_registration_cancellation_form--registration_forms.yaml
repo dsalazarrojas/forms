@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Cancellation Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_info
+      label: Activity Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Cancellation Reason
+      hint: Please explain the reason for cancellation
+      type: select_one
+      options:
+      - Cancelled on doctor's orders
+      - Other
+      - Unable to attend
+      - Unforeseen personal circumstances
+      required: false
+    - id: 4
+      name: confirmation
+      label: Confirm Cancellation
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Cancel
+      required: false
+    - id: 5
+      name: cancellation_date
+      label: Cancellation Date
+      hint: Date of cancellation
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: cancellation_time
+      label: Cancellation Time
+      hint: Time of cancellation
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dream Life Workshop Registration
+    pages:
+    - id: 1
+      name: workshop_title
+      label: Workshop Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Enter phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: Enter workshop date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: Enter workshop time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: workshop_type
+      label: Workshop Type
+      hint: Choose workshop type
+      type: select_one
+      options:
+      - Workshop A
+      - Workshop B
+      - Workshop C
+      required: true
+    - id: 9
+      name: additional_workshop_info
+      label: Additional Workshop Info
+      hint: Enter additional workshop info
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration Date
+      hint: Enter registration date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: registration_time
+      label: Registration Time
+      hint: Enter registration time
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: Choose payment method
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Other
+      required: true
+    - id: 13
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: workshop_location
+      label: Workshop Location
+      hint: Enter workshop location
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: workshop_location_other
+      label: Workshop Location (Other)
+      hint: Enter workshop location
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: workshop_id
+      label: Workshop ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: workshop_duration
+      label: Workshop Duration
+      hint: Enter workshop duration
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: Enter workshop capacity
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: additional_info
+      label: Additional Info
+      hint: Enter additional info
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_email
+      label: Participant Email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: participant_phone
+      label: Participant Phone
+      hint: Enter participant phone
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_address
+      label: Participant Address
+      hint: Enter participant address
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_city
+      label: Participant City
+      hint: Enter participant city
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_state
+      label: Participant State
+      hint: Enter participant state
+      type: text
+      options: []
+      required: false

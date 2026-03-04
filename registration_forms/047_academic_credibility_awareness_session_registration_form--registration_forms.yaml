@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Credibility Awareness Session Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Academic Credibility Awareness Session Registration --
+      hint: Register for an upcoming session on academic integrity and credibility
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: Use your institutional email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institution
+      label: Institution or university name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate Student
+      - Graduate Student
+      - Faculty Member
+      - Researcher
+      - Librarian
+      - Administrator
+      - Other
+      required: true
+    - id: 8
+      name: department
+      label: Department or program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_details
+      label: -- Session Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_date
+      label: Preferred session date
+      hint: Select your preferred session
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: session_format
+      label: Preferred session format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual (live webinar)
+      - Hybrid
+      - No preference
+      required: true
+    - id: 12
+      name: topics_of_interest
+      label: Which topics interest you most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Plagiarism prevention
+      - Proper citation practices
+      - Predatory journals and publishers
+      - Research ethics
+      - Data integrity
+      - AI and academic honesty
+      required: true
+    - id: 13
+      name: prior_training
+      label: Have you previously attended academic integrity training
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - I am not sure
+      required: true
+    - id: 14
+      name: motivation
+      label: What motivated you to register for this session
+      hint: null
+      type: select_one
+      options:
+      - Required by my program
+      - Personal interest
+      - Recommended by advisor or colleague
+      - Preparing for a research project
+      - Professional development
+      required: true
+    - id: 15
+      name: accessibility_needs
+      label: Do you have any accessibility requirements
+      hint: e.g. captioning, wheelchair access, interpreter
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: questions_for_presenter
+      label: Do you have any questions you would like addressed during the session
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Advisory Panel Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sport
+      label: what sport
+      hint: null
+      type: select_one
+      options:
+      - football
+      - hockey
+      - basketball
+      - soccer
+      - tennis
+      required: true
+    - id: 7
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - sports leader
+      - volunteer
+      - committee member
+      - other
+      required: true
+    - id: 8
+      name: bio
+      label: about me
+      hint: Please provide a brief description of your experience and qualifications
+        relevant to this panel.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agree_term
+      label: agree term of service
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: review
+      label: terms of service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: upload
+      label: upload file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agree_privacy
+      label: agree to privacy policy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: agree_terms
+      label: agree to terms of service
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: confirm
+      label: confirm submission
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - cancel
+      required: true
+    - id: 16
+      name: name_of_sportspersonnel
+      label: name of sportspersonnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sportspersonnel_sport
+      label: sport of sportspersonnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sportspersonnel_phone
+      label: phone of sportspersonnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sportspersonnel_email
+      label: email of sportspersonnel
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: sportspersonnel_address
+      label: address of sportspersonnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sportspersonnel_agree_privacy
+      label: agree to privacy policy of sportspersonnel
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: sportspersonnel_agree_terms
+      label: agree to terms of service of sportspersonnel
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: sportspersonnel_confirm
+      label: confirm submission of sportspersonnel
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - cancel
+      required: true
+    - id: 24
+      name: sportspersonnel_other_sport
+      label: other sportspersonnel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sportspersonnel_other_sportspersonnel
+      label: other sportspersonnel
+      hint: null
+      type: text
+      options: []
+      required: false

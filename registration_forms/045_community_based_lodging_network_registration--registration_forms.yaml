@@ -1,0 +1,279 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Based Lodging Network Registration
+    pages:
+    - id: 1
+      name: registration_information
+      label: Registration Information
+      hint: Details about your lodging network registration
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: host_information
+      label: Host Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: host_name
+      label: Host Name
+      hint: Full name of the host
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: host_email
+      label: Host Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: host_phone
+      label: Host Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: host_address
+      label: Host Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: host_city
+      label: Host City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: host_state
+      label: Host State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: host_zip
+      label: Host ZIP Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lodging_information
+      label: Lodging Information
+      hint: Details about the lodging offered
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: lodging_type
+      label: Lodging Type
+      hint: What type of lodging are you offering
+      type: select_one
+      options:
+      - Private Room
+      - Shared Room
+      - Entire Home
+      - Guest House
+      - Apartment
+      - Cottage
+      - Other
+      required: true
+    - id: 14
+      name: number_of_guests
+      label: Number of Guests
+      hint: Maximum number of guests you can host
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: number_of_bedrooms
+      label: Number of Bedrooms
+      hint: How many bedrooms are available
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: number_of_beds
+      label: Number of Beds
+      hint: How many beds are available
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: number_of_bathrooms
+      label: Number of Bathrooms
+      hint: How many bathrooms are available
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: amenities
+      label: Amenities
+      hint: What amenities do you offer
+      type: select_multiple
+      options:
+      - Wi-Fi
+      - Kitchen Access
+      - Laundry
+      - Parking
+      - Air Conditioning
+      - Heating
+      - TV
+      - Workspace
+      - Wheelchair Accessible
+      - Pet Friendly
+      - Breakfast Included
+      - Private Entrance
+      required: true
+    - id: 19
+      name: accessibility_features
+      label: Accessibility Features
+      hint: What accessibility features are available
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair Accessible
+      - Step-Free Entry
+      - Wide Doorways
+      - Accessible Bathroom
+      - Grab Bars
+      - Visual Alarms
+      - Other
+      required: false
+    - id: 20
+      name: availability
+      label: Availability
+      hint: When is your lodging available
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Weekly
+      - Monthly
+      - Short-Term Only
+      - Long-Term OK
+      - Flexible
+      required: true
+    - id: 21
+      name: pricing
+      label: Pricing
+      hint: Information about pricing
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: nightly_rate
+      label: Nightly Rate
+      hint: Rate per night in USD
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: weekly_rate
+      label: Weekly Rate
+      hint: Rate per week in USD
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: monthly_rate
+      label: Monthly Rate
+      hint: Rate per month in USD
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: pricing_type
+      label: Pricing Type
+      hint: What is your pricing model
+      type: select_one
+      options:
+      - Free
+      - Donation Based
+      - Below Market
+      - Market Rate
+      - Sliding Scale
+      required: true
+    - id: 26
+      name: guest_preferences
+      label: Guest Preferences
+      hint: Any preferences for guests
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: house_rules
+      label: House Rules
+      hint: Any house rules guests should know
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: background_check
+      label: Background Check
+      hint: Have you undergone a background check
+      type: select_one
+      options:
+      - Yes - Completed
+      - Pending
+      - No - Willing To
+      - 'No'
+      required: true
+    - id: 29
+      name: references_available
+      label: References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: photos_available
+      label: Photos Available
+      hint: Do you have photos of the lodging
+      type: select_one
+      options:
+      - Yes - Will Upload
+      - Yes - Will Share Later
+      - 'No'
+      required: true
+    - id: 31
+      name: additional_description
+      label: Additional Description
+      hint: Any additional information about your lodging
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: agreement
+      label: Agreement
+      hint: I agree to follow all network guidelines and policies
+      type: select_one
+      options:
+      - Yes - I Agree
+      - 'No'
+      required: true

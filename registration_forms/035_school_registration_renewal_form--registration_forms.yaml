@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Registration Renewal Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      required: true
+    - id: 8
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_multiple
+      options:
+      - First
+      - Second
+      - Third
+      - Fourth
+      - Fifth
+      - Sixth
+      - Seventh
+      - Eighth
+      - Ninth
+      - Tenth
+      required: true
+    - id: 9
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool
+      label: Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_version_history
+      label: Form Version History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_last_updated
+      label: Last Updated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_last_updated_time
+      label: Last Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: form_assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: exam_fees_payment_form
+    pages:
+    - id: 1
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Card Number''}'
+      - '{''Label'': ''Bank Transfer''}'
+      - '{''Label'': ''Check''}'
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount_paid
+      label: amount_paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_success
+      label: payment_success
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: payment_failure
+      label: payment_failure
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: error_message
+      label: error_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: success_message
+      label: success_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Paid''}'
+      - '{''Label'': ''Pending''}'
+      - '{''Label'': ''Failed''}'
+      required: false
+    - id: 13
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: exam_type
+      label: exam_type
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Theory''}'
+      - '{''Label'': ''Practical''}'
+      required: false
+    - id: 15
+      name: exam_section
+      label: exam_section
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Morning''}'
+      - '{''Label'': ''Afternoon''}'
+      required: false
+    - id: 16
+      name: exam_session
+      label: exam_session
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Session 1''}'
+      - '{''Label'': ''Session 2''}'
+      required: false
+    - id: 17
+      name: exam_time
+      label: exam_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: exam_duration
+      label: exam_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: exam_fee
+      label: exam_fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: payment_currency
+      label: payment_currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Card Number''}'
+      - '{''Label'': ''Bank Transfer''}'
+      - '{''Label'': ''Check''}'
+      required: false
+    - id: 23
+      name: bank_transfer_info
+      label: bank_transfer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: check_info
+      label: check_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Stripe''}'
+      - '{''Label'': ''PayPal''}'
+      required: false
+    - id: 26
+      name: error_message
+      label: error_message
+      hint: null
+      type: note
+      options: []
+      required: false

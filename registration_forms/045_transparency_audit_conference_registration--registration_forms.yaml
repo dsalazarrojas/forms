@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: transparency_audit_conference_registration
+    pages:
+    - id: 1
+      name: conference_details
+      label: conference_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendance_mode
+      label: attendance_mode
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On-site''}'
+      - '{''label'': ''Remote''}'
+      required: false
+    - id: 4
+      name: session_preferences
+      label: session_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Session 1''}'
+      - '{''label'': ''Session 2''}'
+      - '{''label'': ''Session 3''}'
+      required: false
+    - id: 5
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: attendee_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_notes
+      label: attendee_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attendee_address
+      label: attendee_address
+      hint: null
+      type: text
+      options: []
+      required: false

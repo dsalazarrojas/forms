@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Access Authorization Form
+    pages:
+    - id: 1
+      name: event_access_authorization_form_data
+      label: Event Access Authorization Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: The email of the event organizer
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: The phone number of the event organizer
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_organizer_name
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff
+      label: Staff Members
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: vendors
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 8
+      name: access_levels
+      label: Access Levels
+      hint: null
+      type: select_one
+      options:
+      - option9
+      - option10
+      - option11
+      - option12
+      required: false
+    - id: 9
+      name: permission
+      label: Permission
+      hint: null
+      type: select_multiple
+      options:
+      - option13
+      - option14
+      - option15
+      required: false
+    - id: 10
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false

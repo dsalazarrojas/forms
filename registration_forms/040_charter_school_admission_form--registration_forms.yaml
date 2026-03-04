@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charter School Admission Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First Name
+      hint: Student's first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last Name
+      hint: Student's last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Student's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: false
+    - id: 6
+      name: grade_applying
+      label: Grade Applying For
+      hint: What grade will student enter
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 7
+      name: section_parent_info
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Primary parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Parent Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_email
+      label: Parent Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_address
+      label: Home Address
+      hint: Student's home address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_state
+      label: State or Province
+      hint: State code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: parent_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_education
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: current_school
+      label: Current or Previous School
+      hint: School student currently attends
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: school_district
+      label: Current School District
+      hint: School district
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: academic_performance
+      label: Academic Performance
+      hint: Approximate GPA or performance level
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Below Average
+      required: false
+    - id: 19
+      name: special_education
+      label: Special Education Services Needed
+      hint: IEP, 504 plan, or other services
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: section_interests
+      label: -- Student Interests and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_interests
+      label: Student's Interests and Strengths
+      hint: What does student excel in
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_support
+      label: Additional Support or Accommodations Needed
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parent_consent
+      label: Parent Consent for Admission Process
+      hint: Agree to proceed
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 24
+      name: submission_date
+      label: Application Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

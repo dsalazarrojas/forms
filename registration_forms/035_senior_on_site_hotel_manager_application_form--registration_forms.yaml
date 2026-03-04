@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Senior On Site Hotel Manager Application Form
+    pages:
+    - id: 1
+      name: senior_on_site_hotel_manager_application_form_page_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: years_of_experience
+      label: Years Of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      required: true
+    - id: 13
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Pending
+      - Unavailable
+      required: true
+    - id: 14
+      name: manager
+      label: Manager
+      hint: null
+      type: time
+      options: []
+      required: false

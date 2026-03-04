@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Collaboration Request Form
+    pages:
+    - id: 1
+      name: event_collaboration_request_form_title
+      label: event_collaboration_request_form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_sponsor_name
+      label: partner_sponsor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_collaboration_request
+      label: event_collaboration_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: proposal_ideas
+      label: proposal_ideas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: successful_events_ideas
+      label: successful_events_ideas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: event_collaboration_request_form_submit
+      label: event_collaboration_request_form_submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: collaboration_details
+      label: collaboration_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_collaboration_request_form_submit_success
+      label: event_collaboration_request_form_submit_success
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

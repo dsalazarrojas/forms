@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Obstacle Race Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Race Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: Team name if applicable
+      hint: Leave blank for individual registration
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: race_category
+      label: Race category
+      hint: Select distance or difficulty
+      type: select_one
+      options:
+      - 5K beginner
+      - 10K intermediate
+      - Obstacle challenge advanced
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required for safety
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: Medical conditions or allergies
+      hint: Important for event staff
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: waiver_agreement
+      label: Waiver agreement
+      hint: Agree to event waiver to participate
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 8
+      name: tshirt_size
+      label: T shirt size
+      hint: Event tee for participants
+      type: select_one
+      options:
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: Choose payment option
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - Cash
+      required: true
+    - id: 10
+      name: registration_date
+      label: Registration date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,343 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anxiety Support Group Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_name
+      label: Preferred Name
+      hint: What should we call you
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For group communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 to 64
+      - 65 or older
+      required: true
+    - id: 7
+      name: gender_identity
+      label: Gender Identity
+      hint: How do you identify
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Genderqueer
+      - Prefer to self-describe
+      - Prefer not to say
+      required: false
+    - id: 8
+      name: occupation
+      label: Occupation
+      hint: What do you do
+      type: select_one
+      options:
+      - Student
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Homemaker
+      - Other
+      required: true
+    - id: 9
+      name: anxiety_experience
+      label: How long have you experienced anxiety
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 10
+      name: diagnosis_status
+      label: Have you been diagnosed with an anxiety disorder
+      hint: By a professional
+      type: select_one
+      options:
+      - Yes, diagnosed
+      - Suspect I have anxiety
+      - No diagnosis
+      - Prefer not to say
+      required: true
+    - id: 11
+      name: anxiety_type
+      label: Type of Anxiety
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Generalized anxiety
+      - Social anxiety
+      - Panic disorder
+      - Specific phobia
+      - Health anxiety
+      - OCD
+      - PTSD
+      - Not sure
+      - Other
+      required: true
+    - id: 12
+      name: current_treatment
+      label: Are you currently receiving treatment
+      hint: For anxiety
+      type: select_one
+      options:
+      - Yes, therapy and medication
+      - Yes, therapy only
+      - Yes, medication only
+      - No, not currently
+      - Never sought treatment
+      required: true
+    - id: 13
+      name: support_group_experience
+      label: Have you attended a support group before
+      hint: Previous experience
+      type: select_one
+      options:
+      - Yes, multiple groups
+      - Yes, one group
+      - No, first time
+      required: true
+    - id: 14
+      name: previous_group_feedback
+      label: How was your previous experience
+      hint: If applicable
+      type: select_one
+      options:
+      - Very helpful
+      - Helpful
+      - Neutral
+      - Not helpful
+      - Negative experience
+      - Not applicable
+      required: false
+    - id: 15
+      name: reason_for_joining
+      label: Why do you want to join this group
+      hint: Your reasons
+      type: select_multiple
+      options:
+      - Feel less alone
+      - Learn coping strategies
+      - Share experiences
+      - Support others
+      - Recommended by therapist
+      - Curious about group therapy
+      - Crisis or difficult time
+      - Other
+      required: true
+    - id: 16
+      name: group_goals
+      label: What do you hope to gain from this group
+      hint: Your goals
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: session_preference
+      label: Session Format Preference
+      hint: How would you like to attend
+      type: select_one
+      options:
+      - In-person
+      - Virtual online
+      - Hybrid
+      - No preference
+      required: true
+    - id: 18
+      name: day_preference
+      label: Preferred Days
+      hint: Select all that work
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Flexible
+      required: true
+    - id: 19
+      name: time_preference
+      label: Preferred Time
+      hint: What time works best
+      type: select_one
+      options:
+      - Morning
+      - Midday
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 20
+      name: group_type_preference
+      label: Group Type Preference
+      hint: What type of group
+      type: select_one
+      options:
+      - Open discussion
+      - Structured program
+      - Skills-based
+      - Peer support
+      - No preference
+      required: true
+    - id: 21
+      name: comfort_sharing
+      label: Comfort Level Sharing in Groups
+      hint: How comfortable are you
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Somewhat comfortable
+      - Nervous but willing
+      - Very nervous
+      required: true
+    - id: 22
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair access
+      - Sign language interpreter
+      - Closed captioning
+      - Large print materials
+      - Quiet space
+      - Other
+      required: true
+    - id: 23
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: crisis_resources
+      label: Do you have crisis support in place
+      hint: Therapist, hotline, etc.
+      type: select_one
+      options:
+      - Yes, multiple resources
+      - Yes, some resources
+      - No, I need resources
+      required: true
+    - id: 27
+      name: group_guidelines_agreement
+      label: I agree to follow group guidelines
+      hint: Confidentiality and respect
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 28
+      name: confidentiality_agreement
+      label: I agree to maintain confidentiality
+      hint: What is shared in group stays in group
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 29
+      name: commitment_level
+      label: Commitment Level
+      hint: How often can you attend
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As able
+      - Trying it out first
+      required: true
+    - id: 30
+      name: additional_information
+      label: Is there anything else we should know
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: how_did_you_hear
+      label: How did you hear about this group
+      hint: Source of referral
+      type: select_one
+      options:
+      - Healthcare provider
+      - Friend or family
+      - Website
+      - Social media
+      - Community organization
+      - Previous participant
+      - Other
+      required: true
+    - id: 32
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

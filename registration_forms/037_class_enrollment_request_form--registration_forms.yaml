@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Enrollment Request Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_school
+      label: Current School or Institution
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: Current Grade Level
+      hint: Select your grade
+      type: select_one
+      options:
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      - College freshman
+      - College sophomore
+      - College junior
+      - College senior
+      - Graduate student
+      - Other
+      required: true
+    - id: 8
+      name: gpa
+      label: Current GPA
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: requested_class
+      label: Class You Want to Enroll In
+      hint: Select from options
+      type: select_one
+      options:
+      - Advanced Mathematics
+      - Advanced Science
+      - Advanced English
+      - Foreign Language
+      - Art and Design
+      - Music
+      - Computer Programming
+      - Robotics
+      - Debate and Public Speaking
+      - Other
+      required: true
+    - id: 10
+      name: class_reason
+      label: Why Do You Want to Take This Class
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: related_experience
+      label: Do You Have Related Experience
+      hint: In this subject area
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, some experience
+      - Yes, limited experience
+      - No experience
+      required: true
+    - id: 12
+      name: experience_details
+      label: Please Describe Your Experience
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_schedule
+      label: Preferred Class Schedule
+      hint: Select your preference
+      type: select_multiple
+      options:
+      - Morning (8AM-12PM)
+      - Afternoon (12PM-4PM)
+      - Evening (4PM-8PM)
+      - Weekend classes
+      - Flexible schedule
+      required: true
+    - id: 14
+      name: enrollment_priority
+      label: Is This Your Top Choice
+      hint: Priority level
+      type: select_one
+      options:
+      - Yes, first choice
+      - Yes, second choice
+      - One of several options
+      - Exploring options
+      required: true
+    - id: 15
+      name: alternative_classes
+      label: What Are Your Alternative Class Choices
+      hint: Other classes you would accept
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: counselor_name
+      label: School Counselor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: counselor_email
+      label: Counselor Email
+      hint: For verification
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: parent_consent
+      label: Do You Have Parent or Guardian Consent
+      hint: If under 18
+      type: select_one
+      options:
+      - Yes, consent given
+      - No, need consent
+      - Not applicable
+      required: true
+    - id: 19
+      name: transportation_plan
+      label: How Will You Get to Class
+      hint: Your transportation plan
+      type: select_one
+      options:
+      - School transportation
+      - Parent drop-off and pick-up
+      - Public transit
+      - Walk or bike
+      - Other
+      required: false
+    - id: 20
+      name: financial_aid
+      label: Do You Need Financial Aid Information
+      hint: For class fees
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

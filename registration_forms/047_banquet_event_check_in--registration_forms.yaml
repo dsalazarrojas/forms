@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banquet Event Check In
+    pages:
+    - id: 1
+      name: guest_full_name
+      label: Guest Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: What event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_in_time
+      label: Check-In Time
+      hint: Arrival time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: party_size
+      label: Party Size
+      hint: Number in group
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: table_assignment
+      label: Table Assignment
+      hint: Table number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meal_selection
+      label: Meal Selection
+      hint: Pre-selected meal
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - No Preference
+      required: true
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Allergies or needs
+      type: select_multiple
+      options:
+      - None
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 12
+      name: special_dietary_notes
+      label: Special Dietary Notes
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: beverage_package
+      label: Beverage Package
+      hint: Drink selection
+      type: select_one
+      options:
+      - Non-Alcoholic
+      - Beer and Wine
+      - Full Bar
+      - Premium Bar
+      - Cash Bar
+      required: false
+    - id: 14
+      name: vip_status
+      label: VIP Status
+      hint: VIP guest
+      type: select_one
+      options:
+      - Yes, VIP
+      - No, General Admission
+      required: true
+    - id: 15
+      name: gift_bag_received
+      label: Gift Bag Received
+      hint: Was gift bag given
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 16
+      name: parking_validated
+      label: Parking Validated
+      hint: Validate parking
+      type: select_one
+      options:
+      - Yes, validate
+      - No, not needed
+      required: false
+    - id: 17
+      name: coat_check_needed
+      label: Coat Check Needed
+      hint: Need coat check
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: seating_preference
+      label: Seating Preference
+      hint: Where to sit
+      type: select_one
+      options:
+      - Near Stage
+      - Near Entrance
+      - Quiet Area
+      - With Specific Group
+      - No Preference
+      required: false
+    - id: 19
+      name: accompanying_guests
+      label: Accompanying Guests
+      hint: Names of others
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photo_consent
+      label: Photo Consent
+      hint: OK to photograph
+      type: select_one
+      options:
+      - Yes, may photograph
+      - No, do not photograph
+      required: true
+    - id: 22
+      name: feedback_card
+      label: Feedback Card
+      hint: Want feedback card
+      type: select_one
+      options:
+      - Yes, please provide
+      - No, thank you
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any needs
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: check_in_notes
+      label: Check-In Notes
+      hint: Staff notes
+      type: text
+      options: []
+      required: false

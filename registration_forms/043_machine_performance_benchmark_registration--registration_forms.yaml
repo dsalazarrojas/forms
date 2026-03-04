@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Performance Benchmark Registration
+    pages:
+    - id: 1
+      name: machine_performance_benchmark_registration_form
+      label: Machine Performance Benchmark Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manufacturer_name
+      label: manufacturer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: machine_model
+      label: machine_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: machine_type
+      label: machine_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: machine_rating
+      label: machine_rating
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: engine_type
+      label: engine_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: horsepower
+      label: horsepower
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: torque
+      label: torque
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: operating_hours
+      label: operating_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: fuel_type
+      label: fuel_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fuel_efficiency
+      label: fuel_efficiency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emissions_standards
+      label: emissions_standards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: emissions_tested
+      label: emissions_tested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transmission_type
+      label: transmission_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: transmission_type_other
+      label: transmission_type_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: engine_number
+      label: engine_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: transmission_number
+      label: transmission_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: engine_capacity
+      label: engine_capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transmission_capacity
+      label: transmission_capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: horsepower_tested
+      label: horsepower_tested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: operating_conditions
+      label: operating_conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: operating_hours_tested
+      label: operating_hours_tested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emissions_certificate
+      label: emissions_certificate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: certification_status
+      label: certification_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

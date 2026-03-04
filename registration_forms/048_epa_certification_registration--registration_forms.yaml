@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: EPA Certification Registration
+    pages:
+    - id: 1
+      name: provider_name
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_program
+      label: Certification Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_dates
+      label: Training Dates
+      hint: Start Date - End Date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: proof_completion
+      label: Proof of Completion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: Name, Email and Phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_provider
+      label: Training Provider Company
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: training_provider_email
+      label: Training Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: training_provider_phone
+      label: Training Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_provider_website
+      label: Training Provider Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: certification_date
+      label: Certification Date
+      hint: Date of certification
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: expiration_date
+      label: Expiration Date
+      hint: Date of expiration
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: training_cost
+      label: Training Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: training_cost_currency
+      label: Training Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - USD CAD EUR CNY JPY
+      - Other
+      required: false
+    - id: 19
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - Certified Pending Cancelled
+      - Other
+      required: false
+    - id: 20
+      name: status_change_reason
+      label: Status Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_provider_address
+      label: Address of Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: training_provider_city
+      label: City of Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_provider_state
+      label: State of Training Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: training_provider_country
+      label: Country of Training Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

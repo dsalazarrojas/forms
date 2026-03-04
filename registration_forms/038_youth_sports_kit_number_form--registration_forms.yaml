@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Sports Kit Number Form
+    pages:
+    - id: 1
+      name: youth_sports_kit_number_form_1
+      label: youth_sports_kit_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: youth_sports_kit_number_2
+      label: sports_kit_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: athlete_name
+      label: athlete_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sport_name
+      label: sport_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: kit_size
+      label: kit_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: kit_location
+      label: kit_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: kit_status
+      label: kit_status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Allocated
+      - Reserved
+      - Lost
+      - Damaged
+      required: false
+    - id: 9
+      name: kit_issue
+      label: kit_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: kit_comments
+      label: kit_comments
+      hint: null
+      type: text
+      options: []
+      required: false

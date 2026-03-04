@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Therapy Client Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_providers
+      label: Medical Providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: massage_history
+      label: Massage History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_history_comments
+      label: Medical History Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 19
+      name: emergency_contacts_services
+      label: Emergency Contacts Services
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Yes with Medical Information
+      required: true
+    - id: 20
+      name: therapist
+      label: Therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: preferred_massage_area
+      label: Preferred Massage Area
+      hint: null
+      type: select_one
+      options:
+      - Head and neck
+      - Shoulders
+      - Back
+      - Feet and hands
+      required: false
+    - id: 23
+      name: massage_intensity
+      label: Massage Intensity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 24
+      name: medical_history_additional
+      label: Medical History Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: therapist_signature
+      label: Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

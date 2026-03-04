@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_nomination_form
+    pages:
+    - id: 1
+      name: user_information
+      label: User information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reason_for_nomination
+      label: Reason for Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: opportunity
+      label: Opportunity
+      hint: null
+      type: text
+      options: []
+      required: false

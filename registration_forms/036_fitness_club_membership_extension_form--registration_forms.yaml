@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Club Membership Extension Form
+    pages:
+    - id: 1
+      name: membership_extension_date
+      label: membership_extension_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: membership_extension_reason
+      label: membership_extension_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_extension_type
+      label: membership_extension_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: membership_extension_length
+      label: membership_extension_length
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: membership_extension_comments
+      label: membership_extension_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: membership_id
+      label: membership_id
+      hint: null
+      type: select_one
+      options:
+      - '20900'
+      - '62838'
+      required: false
+    - id: 7
+      name: member_name
+      label: member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_email
+      label: member_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: member_phone
+      label: member_phone
+      hint: null
+      type: text
+      options: []
+      required: false

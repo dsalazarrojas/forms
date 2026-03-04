@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Fundraiser Vendor Registration
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor or Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website
+      label: Website or Social Media
+      hint: URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When held
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: vendor_type
+      label: Vendor Type
+      hint: What you sell
+      type: select_one
+      options:
+      - Food or beverage
+      - Crafts or handmade
+      - Retail products
+      - Services
+      - Nonprofit organization
+      - Artist or entertainer
+      - Other
+      required: true
+    - id: 10
+      name: booth_size
+      label: Booth Size Preference
+      hint: Space needed
+      type: select_one
+      options:
+      - Small 10x10
+      - Medium 10x15
+      - Large 10x20
+      - Extra large 20x20
+      - Food truck space
+      required: true
+    - id: 11
+      name: power_needed
+      label: Electrical Power Needed
+      hint: Power requirements
+      type: select_one
+      options:
+      - Yes standard outlet
+      - Yes heavy duty
+      - No power needed
+      - Unsure
+      required: true
+    - id: 12
+      name: table_chair_rental
+      label: Table and Chair Rental
+      hint: Need furniture
+      type: select_one
+      options:
+      - Yes need table and chairs
+      - Yes need table only
+      - No bringing my own
+      required: true
+    - id: 13
+      name: product_description
+      label: Products or Services Description
+      hint: What you offer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: previous_vendor
+      label: Have You Vended With Us Before
+      hint: Prior participation
+      type: select_one
+      options:
+      - Yes multiple times
+      - Yes once
+      - No first time
+      required: true
+    - id: 15
+      name: booth_fee
+      label: Booth Fee Selection
+      hint: Payment tier
+      type: select_one
+      options:
+      - $50 - Standard nonprofit
+      - $100 - Small business
+      - $150 - Medium business
+      - $200 - Large business
+      - Sponsored by donor
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - PayPal
+      - Invoice requested
+      required: true
+    - id: 17
+      name: insurance_certificate
+      label: Do You Have Liability Insurance
+      hint: Coverage proof
+      type: select_one
+      options:
+      - Yes will provide
+      - Yes on file
+      - No not required
+      - No but will obtain
+      required: true
+    - id: 18
+      name: setup_time
+      label: Preferred Setup Time
+      hint: Arrival time
+      type: select_one
+      options:
+      - Early morning 6am to 8am
+      - Morning 8am to 10am
+      - Any assigned time
+      required: true
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility etc
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vendor_agreement
+      label: Do You Agree to Vendor Rules
+      hint: Terms acceptance
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Questions or notes
+      type: text
+      options: []
+      required: false

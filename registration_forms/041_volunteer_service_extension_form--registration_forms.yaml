@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Service Extension Form
+    pages:
+    - id: 1
+      name: volunteer_service_extension_form
+      label: Volunteer Service Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_service_extension_form_volunteer_info
+      label: Volunteer Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: volunteer_service_extension_form_volunteer_service
+      label: Volunteer Service
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Service
+      required: false
+    - id: 4
+      name: volunteer_service_extension_form_termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_service_extension_form_termination_time
+      label: Termination Time
+      hint: null
+      type: time
+      options: []
+      required: false

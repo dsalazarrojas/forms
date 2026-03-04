@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Walking Club Pet Owner Membership Form
+    pages:
+    - id: 1
+      name: pet_owners_details
+      label: Pet Owners Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_application
+      label: Membership Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_details
+      label: Pet Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: group_walk_schedule
+      label: Group Walk Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: walker_signature
+      label: Walker Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Monthly'', ''value'': ''Monthly''}'
+      - '{''label'': ''Quarterly'', ''value'': ''Quarterly''}'
+      - '{''label'': ''Annually'', ''value'': ''Annually''}'
+      required: false
+    - id: 13
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online'', ''value'': ''Online''}'
+      - '{''label'': ''Offline'', ''value'': ''Offline''}'
+      - '{''label'': ''Both'', ''value'': ''Both''}'
+      required: false
+    - id: 16
+      name: pet_insurance
+      label: Pet Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 17
+      name: walk_frequency
+      label: Walk Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily'', ''value'': ''Daily''}'
+      - '{''label'': ''3-4 Times a Week'', ''value'': ''3-4 Times a Week''}'
+      - '{''label'': ''2-3 Times a Month'', ''value'': ''2-3 Times a Month''}'
+      required: false
+    - id: 18
+      name: start_date2
+      label: Start Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: walker_email
+      label: Walker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: walker_phone
+      label: Walker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: owner_message
+      label: Owner Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: walker_message
+      label: Walker Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''Active''}'
+      - '{''label'': ''Inactive'', ''value'': ''Inactive''}'
+      - '{''label'': ''Expired'', ''value'': ''Expired''}'
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Action Day Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Label for_goals
+      - Label for_fun
+      - Label for_friends
+      required: false
+    - id: 3
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: child_dob
+      label: Child DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: child_school
+      label: Child School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: child_grade
+      label: Child Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Label for_paypal
+      - Label for_check
+      required: false
+    - id: 13
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: text
+      options: []
+      required: false

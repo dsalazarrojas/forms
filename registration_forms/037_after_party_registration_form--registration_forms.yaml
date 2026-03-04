@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: After Party Registration Form
+    pages:
+    - id: 1
+      name: guest_information_section
+      label: Guest Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Email for event updates and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Phone number for last-minute event updates
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attending_status
+      label: Will You Attend?
+      hint: Will you be attending the after party?
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Might
+      - Cannot Attend
+      required: true
+    - id: 6
+      name: plus_one_option
+      label: Plus One Option
+      hint: Are you bringing a plus one?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: plus_one_details
+      label: Plus One Details
+      hint: If yes, please provide their name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details_section
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: original_event_attendance
+      label: Original Event Attendance
+      hint: Will you be attending the original event before the after party?
+      type: select_one
+      options:
+      - true
+      - false
+      - Already attending
+      required: true
+    - id: 10
+      name: arrival_time
+      label: Expected Arrival Time
+      hint: What time do you expect to arrive at the after party?
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: departure_time
+      label: Expected Departure Time
+      hint: What time do you expect to leave the after party?
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Do you have any dietary restrictions or food allergies?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: beverage_preferences
+      label: Beverage Preferences
+      hint: Do you have any specific beverage preferences?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: party_preferences_section
+      label: Party Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: music_preferences
+      label: Music Preferences
+      hint: What type of music do you enjoy?
+      type: select_multiple
+      options:
+      - Pop
+      - Rock
+      - Electronic
+      - Hip Hop
+      - Jazz
+      - Classical
+      - R&B
+      - Country
+      - No preference
+      required: true
+    - id: 16
+      name: activity_preferences
+      label: Activity Preferences
+      hint: What activities would you like to see at the after party?
+      type: select_multiple
+      options:
+      - Dancing
+      - Games
+      - Karaoke
+      - Photo booth
+      - Silent disco
+      - Casino night
+      - Trivia
+      - None
+      required: true
+    - id: 17
+      name: seating_preference
+      label: Seating Preference
+      hint: Do you have a seating preference?
+      type: select_one
+      options:
+      - Standing/Mingling
+      - Casual Seating
+      - Formal Seating
+      - No preference
+      required: true
+    - id: 18
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you have any accessibility requirements?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes, please specify your accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: transportation_arrangements
+      label: Transportation Arrangements
+      hint: How will you be getting to/from the after party?
+      type: select_one
+      options:
+      - Driving myself
+      - Rideshare
+      - Public transportation
+      - Walking
+      - Other
+      required: true
+    - id: 21
+      name: parking_needs
+      label: Parking Needs
+      hint: Do you need parking arrangements?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: special_requests_section
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Do you have any special requests for the after party?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: gift_contributions
+      label: Gift Contributions
+      hint: Are you planning to bring a gift or contribute to a group gift?
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: false
+    - id: 25
+      name: social_media_consent
+      label: Social Media Consent
+      hint: Do you consent to being photographed or filmed at the event?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: contact_preferences
+      label: Contact Preferences
+      hint: How would you like to be contacted about event updates?
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - Social Media
+      - Any Method
+      required: true
+    - id: 27
+      name: registration_confirmation_section
+      label: Registration Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to the event terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: information_accuracy
+      label: Information Accuracy
+      hint: I confirm that all information provided is accurate
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: signature
+      label: Electronic Signature
+      hint: Sign to confirm your registration
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,297 @@
+inputSchema:
+  type: object
+  properties:
+    title: Convention Press Desk Registration Form
+    pages:
+    - id: 1
+      name: journalist_name
+      label: Journalist Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Professional email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_media_organization
+      label: -- Media Organization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: media_outlet
+      label: Media Outlet Name
+      hint: Name of publication or station
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: media_type
+      label: Type of Media
+      hint: What type of media organization
+      type: select_one
+      options:
+      - Print Newspaper
+      - Magazine
+      - Television
+      - Radio
+      - Online News
+      - Blog
+      - Podcast
+      - News Agency
+      - Freelance
+      - Other
+      required: true
+    - id: 7
+      name: media_website
+      label: Media Website URL
+      hint: Website address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: circulation_or_reach
+      label: Circulation or Audience Reach
+      hint: Approximate audience size
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_credentials
+      label: -- Professional Credentials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: press_card_number
+      label: Press Card Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: press_card_issuing_body
+      label: Press Card Issuing Organization
+      hint: Who issued your press card
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: years_experience
+      label: Years of Journalism Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_coverage_plans
+      label: -- Coverage Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: coverage_type
+      label: Type of Coverage Planned
+      hint: How will you cover the event
+      type: select_multiple
+      options:
+      - News Article
+      - Feature Story
+      - Interview
+      - Live Report
+      - Photo Coverage
+      - Video Coverage
+      - Social Media
+      - Podcast Episode
+      - Review
+      - Other
+      required: true
+    - id: 16
+      name: interview_requests
+      label: Interview Requests
+      hint: Who would you like to interview
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_needed
+      label: Equipment You Will Bring
+      hint: Cameras, recording devices, etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_assignment
+      label: -- Assignment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assignment_type
+      label: Assignment Type
+      hint: null
+      type: select_one
+      options:
+      - Assigned by Editor
+      - Self-Initiated
+      - Agency Assignment
+      - Freelance Pitch
+      required: true
+    - id: 20
+      name: editor_name
+      label: Editor or Supervisor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: editor_contact
+      label: Editor Contact Information
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deadline_info
+      label: Publication or Broadcast Deadline
+      hint: When is your story due
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_press_access
+      label: -- Press Access Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: press_conference_attendance
+      label: Will you attend press conferences
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 25
+      name: press_kit_needed
+      label: Do you need a press kit
+      hint: null
+      type: select_one
+      options:
+      - Yes - Digital
+      - Yes - Physical
+      - false
+      required: true
+    - id: 26
+      name: photo_access_required
+      label: Do you need photo access
+      hint: Special photo areas
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: broadcast_access_required
+      label: Do you need broadcast access
+      hint: For TV or radio
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: section_publication_history
+      label: -- Publication History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: recent_articles
+      label: Recent Relevant Articles
+      hint: Links to recent work
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: portfolio_url
+      label: Online Portfolio URL
+      hint: Link to your portfolio
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: social_media_handles
+      label: Professional Social Media Handles
+      hint: Twitter, LinkedIn, etc
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: section_agreements
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: media_guidelines_accept
+      label: I agree to follow media guidelines
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: credential_accuracy
+      label: I confirm all information is accurate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: embargo_agreement
+      label: I agree to respect embargoes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: additional_notes
+      label: Additional Notes or Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Ethics Discussion Panel Registration
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization or Institution
+      hint: Affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title or Role
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: registration_intro
+      label: Animal Ethics Discussion Panel Registration
+      hint: Join us for an important discussion on animal ethics
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attendance_format
+      label: How Will You Attend
+      hint: Format preference
+      type: select_one
+      options:
+      - In-person
+      - Virtual - online
+      - Hybrid - either
+      required: true
+    - id: 8
+      name: panel_date
+      label: Which Panel Date Will You Attend
+      hint: Select date
+      type: select_one
+      options:
+      - Panel 1 - Date TBD
+      - Panel 2 - Date TBD
+      - Panel 3 - Date TBD
+      - Will attend all
+      required: true
+    - id: 9
+      name: attendee_category
+      label: Your Professional Category
+      hint: Select your field
+      type: select_one
+      options:
+      - Veterinarian
+      - Researcher
+      - Ethics scholar
+      - Animal welfare advocate
+      - Student
+      - General public
+      - Policy maker
+      - Other
+      required: true
+    - id: 10
+      name: experience_level
+      label: Your Experience with Animal Ethics
+      hint: Experience level
+      type: select_one
+      options:
+      - Expert - work in the field
+      - Knowledgeable - studied the topic
+      - Interested - learning more
+      - New to the topic
+      required: true
+    - id: 11
+      name: topics_of_interest
+      label: Topics You Are Most Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animal research ethics
+      - Farm animal welfare
+      - Companion animal ethics
+      - Wildlife conservation ethics
+      - Animal rights philosophy
+      - Veterinary ethics
+      - Policy and legislation
+      - Cultural perspectives
+      required: true
+    - id: 12
+      name: participation_level
+      label: How Would You Like to Participate
+      hint: Participation type
+      type: select_one
+      options:
+      - Attendee only
+      - Attendee with questions
+      - Panelist
+      - Moderator
+      - Presenter
+      required: true
+    - id: 13
+      name: presentation_topic
+      label: If Presenting, What Is Your Topic
+      hint: Topic proposal
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: presentation_abstract
+      label: Brief Abstract or Description
+      hint: 200 words max
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: discussion_questions
+      label: What Questions Would You Like Discussed
+      hint: Your questions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: If attending in-person
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: false
+    - id: 17
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: networking_interest
+      label: Are You Interested in Networking Opportunities
+      hint: Networking
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - somewhat interested
+      - false
+      required: false
+    - id: 19
+      name: continuing_ed
+      label: Do You Need Continuing Education Credits
+      hint: CE requirements
+      type: select_one
+      options:
+      - Yes - please provide
+      - false
+      required: false
+    - id: 20
+      name: ce_type
+      label: What Type of CE Credits
+      hint: Specify
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: registration_fee
+      label: Registration Fee Category
+      hint: Fee tier
+      type: select_one
+      options:
+      - Professional - full price
+      - Student - discounted
+      - Early bird
+      - Group rate
+      - Complimentary
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Invoice
+      - Purchase order
+      - Check
+      - Waived
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Did You Hear About This Panel
+      hint: Referral source
+      type: select_one
+      options:
+      - Email
+      - Social media
+      - Colleague
+      - Website
+      - Organization newsletter
+      - Other
+      required: false
+    - id: 24
+      name: expectations
+      label: What Are Your Expectations
+      hint: Goals
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other info
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_accepted
+      label: I Accept the Event Terms and Conditions
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes - I accept
+      - false
+      required: true
+    - id: 27
+      name: attendee_signature
+      label: Attendee Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

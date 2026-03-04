@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Validation Program Registration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_details
+      label: Machine Details
+      hint: Enter machine details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: machine_type
+      label: Machine Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: machine_model
+      label: Machine Model
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: machine_year
+      label: Machine Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: machine_hours
+      label: Machine Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: machine_location
+      label: Machine Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: machine_image
+      label: Machine Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: machine_notes
+      label: Machine Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

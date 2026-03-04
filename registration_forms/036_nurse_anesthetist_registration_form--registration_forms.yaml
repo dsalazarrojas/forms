@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Anesthetist Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_completion
+      label: Date Of Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: nurse_id_number
+      label: Nurse ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: false
+    - id: 11
+      name: medical_school_attended
+      label: Medical School Attended
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_school_degree
+      label: Medical School Degree
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_board_license
+      label: Medical Board License
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: state_license_issued
+      label: State License Issued
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: state_license_expire_date
+      label: State License Expire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: us_nurse_license_issued
+      label: US Nurse License Issued
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: us_nurse_license_expire_date
+      label: US Nurse License Expire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: medical_malpractice_claim
+      label: Medical Malpractice Claim
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: professional_boards
+      label: Professional Boards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

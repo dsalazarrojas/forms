@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Innovation Workshop Registration
+    pages:
+    - id: 1
+      name: registration_information
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: topic_interests
+      label: topic_interests
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation
+      - R&D
+      required: false
+    - id: 6
+      name: special_needs
+      label: special_needs
+      hint: null
+      type: select_multiple
+      options:
+      - wheelchair_accessible
+      - dietary_restrictions
+      - hearing_impact
+      - mobility_issues
+      - other_special_needs
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

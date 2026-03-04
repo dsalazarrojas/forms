@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pesticide Safety Training Registration
+    pages:
+    - id: 1
+      name: session_selections
+      label: Session Selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select One''}'
+      - '{''id'': 2, ''label'': ''Select Two''}'
+      - '{''id'': 3, ''label'': ''Select Three''}'
+      required: false
+    - id: 3
+      name: sign_ups
+      label: Sign Ups
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: acknowledge
+      label: Acknowledge
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Contact One''}'
+      - '{''id'': 2, ''label'': ''Contact Two''}'
+      - '{''id'': 3, ''label'': ''Contact Three''}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

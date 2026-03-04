@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toastmasters Membership Form
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: mobile_number
+      label: mobile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: club_name
+      label: club_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: club_preferences
+      label: club_preferences
+      hint: null
+      type: select_one
+      options:
+      - Toastmasters
+      - Rotary Club
+      - Other
+      required: false
+    - id: 8
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_multiple
+      options:
+      - Full
+      - Provisional
+      - Honorary
+      - Other
+      required: false
+    - id: 9
+      name: membership_date
+      label: membership_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 11
+      name: membership_level
+      label: membership_level
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Experienced
+      - Charter
+      required: false
+    - id: 12
+      name: membership_committee
+      label: membership_committee
+      hint: null
+      type: select_one
+      options:
+      - Membership Committee
+      - Membership Development
+      - Membership Development Committee
+      required: false
+    - id: 13
+      name: member_since
+      label: member_since
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: member_until
+      label: member_until
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

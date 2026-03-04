@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Interview Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: true
+    - id: 9
+      name: interview_type
+      label: Interview Type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Phone
+      - In-person
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: resume_link
+      label: Resume Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Looking
+      required: true
+    - id: 19
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Senior
+      - Junior
+      - Intern
+      required: false
+    - id: 20
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Freelance
+      required: false
+    - id: 21
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - On-site
+      - Hybrid
+      required: true
+    - id: 22
+      name: job_schedule
+      label: Job Schedule
+      hint: null
+      type: select_one
+      options:
+      - Mon-Fri
+      - 9am-5pm
+      - Flexible
+      required: false
+    - id: 23
+      name: salary
+      label: Salary
+      hint: null
+      type: select_one
+      options:
+      - Negotiable
+      - Fixed
+      - Range
+      required: true
+    - id: 24
+      name: job_openings
+      label: Job Openings
+      hint: null
+      type: select_one
+      options:
+      - Multiple
+      - Single
+      required: false
+    - id: 25
+      name: job_position
+      label: Job Position
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      required: false

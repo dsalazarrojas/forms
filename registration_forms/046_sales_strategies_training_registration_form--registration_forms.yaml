@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_strategies_training_registration_form
+    pages:
+    - id: 1
+      name: training_session
+      label: Training Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Payment Method 1''}'
+      - '{''label'': ''Payment Method 2''}'
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Payment Method 1''}'
+      - '{''label'': ''Payment Method 2''}'
+      - '{''label'': ''Payment Method 3''}'
+      required: false
+    - id: 7
+      name: training_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_postcode
+      label: postcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

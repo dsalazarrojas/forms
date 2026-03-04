@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Club Membership Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birth_date
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: dance_style
+      label: Dance Style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Contemporary
+      - Jazz
+      - Tap
+      - Hip Hop
+      required: true
+    - id: 7
+      name: membership_length
+      label: Membership Length
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: first_name_parent
+      label: Parent's First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: last_name_parent
+      label: Parent's Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: phone_parent
+      label: Parent's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: birth_date_parent
+      label: Parent's Birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: dance_style_parent
+      label: Parent's Dance Style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Contemporary
+      - Jazz
+      - Tap
+      - Hip Hop
+      required: true
+    - id: 14
+      name: membership_length_parent
+      label: Parent's Membership Length
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_birthday
+      label: Emergency Contact Birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_dance_style
+      label: Emergency Contact Dance Style
+      hint: null
+      type: select_one
+      options:
+      - Ballet
+      - Contemporary
+      - Jazz
+      - Tap
+      - Hip Hop
+      required: true
+    - id: 20
+      name: emergency_contact_membership_length
+      label: Emergency Contact Membership Length
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 21
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: first_name_sibling
+      label: First Sibling's First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: last_name_sibling
+      label: Last Sibling's Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: phone_sibling
+      label: Sibling's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: birth_date_sibling
+      label: Sibling's Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: membership_length_sibling
+      label: Sibling's Membership Length
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 27
+      name: emergency_contact_permission
+      label: Emergency Contact Permission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

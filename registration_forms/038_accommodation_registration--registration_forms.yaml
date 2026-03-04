@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accommodation Registration
+    pages:
+    - id: 1
+      name: registrant_full_name
+      label: Registrant Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_email
+      label: Registrant Email
+      hint: Your email address for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: registrant_phone
+      label: Registrant Phone
+      hint: Your phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Name of the event requiring accommodation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: check_in_date
+      label: Check In Date
+      hint: Date of arrival
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_out_date
+      label: Check Out Date
+      hint: Date of departure
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: accommodation_type
+      label: Accommodation Type
+      hint: Type of accommodation preferred
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Twin Room
+      - Suite
+      - Shared Room
+      - Other
+      required: true
+    - id: 8
+      name: smoking_preference
+      label: Smoking Preference
+      hint: Do you prefer smoking or non-smoking accommodation?
+      type: select_one
+      options:
+      - Non-smoking
+      - Smoking
+      - No preference
+      required: true
+    - id: 9
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Do you have any accessibility requirements?
+      type: select_multiple
+      options:
+      - Wheelchair accessible
+      - Visual aids
+      - Hearing accessible
+      - Mobility aids
+      - None
+      - Other
+      required: false
+    - id: 10
+      name: meal_plan_selection
+      label: Meal Plan Selection
+      hint: Which meal plan would you prefer?
+      type: select_one
+      options:
+      - No meals
+      - Breakfast only
+      - Half board (breakfast and dinner)
+      - Full board (all meals)
+      - Flexible dining
+      required: true
+    - id: 11
+      name: special_dietary_requirements
+      label: Special Dietary Requirements
+      hint: Do you have any special dietary requirements?
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Diabetic
+      - Halal
+      - Kosher
+      - Other
+      - None
+      required: false
+    - id: 12
+      name: arrival_transportation
+      label: Arrival Transportation
+      hint: How will you arrive at the accommodation?
+      type: select_one
+      options:
+      - Flight
+      - Train
+      - Bus
+      - Car
+      - Other
+      required: true
+    - id: 13
+      name: arrival_flight_train_number
+      label: Arrival Flight Train Number
+      hint: Flight or train number for arrival
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: arrival_time
+      label: Arrival Time
+      hint: Estimated time of arrival
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: departure_transportation
+      label: Departure Transportation
+      hint: How will you depart from the accommodation?
+      type: select_one
+      options:
+      - Flight
+      - Train
+      - Bus
+      - Car
+      - Other
+      required: true
+    - id: 16
+      name: departure_flight_train_number
+      label: Departure Flight Train Number
+      hint: Flight or train number for departure
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: departure_time
+      label: Departure Time
+      hint: Estimated time of departure
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_requests
+      label: Additional Requests
+      hint: Any additional requests or special arrangements needed
+      type: text
+      options: []
+      required: false

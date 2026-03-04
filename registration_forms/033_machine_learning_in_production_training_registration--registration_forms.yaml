@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Learning In Production Training Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_level
+      label: Experience Level
+      hint: Choose your level of experience
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Beginner''}'
+      - '{''id'': 2, ''name'': ''Intermediate''}'
+      - '{''id'': 3, ''name'': ''Advanced''}'
+      required: false
+    - id: 3
+      name: payments
+      label: Payments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: training_provider_experience
+      label: Training Provider Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: course_length
+      label: Course Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: course_start_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: course_end_date
+      label: Course End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: course_status
+      label: Course Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_participants
+      label: Total Participants
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: payment_received
+      label: Payment Received
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: Please select the payment status from the options above
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Paid''}'
+      - '{''id'': 2, ''name'': ''Paid''}'
+      - '{''id'': 3, ''name'': ''Pending Payment''}'
+      required: false
+    - id: 21
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_provider_notes
+      label: Additional Notes for Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: training_provider_payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_and_conditions
+      label: Terms & Conditions
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Day Camp Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_date_of_birth
+      label: Participant Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: participant_school
+      label: Participant School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_allergies
+      label: Participant Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_medical_notes
+      label: Participant Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: participant_medication
+      label: Participant Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_medication_allergies
+      label: Participant Medication Allergies
+      hint: null
+      type: text
+      options: []
+      required: false

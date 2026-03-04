@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Roundtable Booking Form
+    pages:
+    - id: 1
+      name: executive_roundtable_event
+      label: event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: executive_roundtable_event_id
+      label: event id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: role
+      hint: Select your role
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_date
+      label: registration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: executive_roundtable_booking_form_notes
+      label: executive roundtable booking form notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: participant_additional_info
+      label: participant additional info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Agent Onboarding Form
+    pages:
+    - id: 1
+      name: real_estate_agent_details
+      label: Real Estate Agent Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agency_website
+      label: Agency Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: skills_and_certifications
+      label: Skills and Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: true
+    - id: 10
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accept''}'
+      - '{''label'': ''Decline''}'
+      required: true

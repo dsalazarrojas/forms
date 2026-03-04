@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: mom_s_community_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Enter your date of birth
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: child_names
+      label: Child Names
+      hint: Enter your child's names
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_children
+      label: Number of Children
+      hint: Enter the number of children
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: child_age
+      label: Child Age
+      hint: Enter your children's age
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: family_status
+      label: Family Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: false
+    - id: 11
+      name: occupation
+      label: Occupation
+      hint: Enter your occupation
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: education
+      label: Education
+      hint: Enter your level of education
+      type: select_multiple
+      options:
+      - College
+      - High School
+      - University
+      - Master
+      - PhD
+      required: false
+    - id: 13
+      name: children_ages
+      label: Children's Aged
+      hint: Enter your children ages
+      type: time
+      options: []
+      required: false

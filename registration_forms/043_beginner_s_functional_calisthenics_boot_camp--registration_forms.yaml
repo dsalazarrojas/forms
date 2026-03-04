@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beginner S Functional Calisthenics Boot Camp
+    pages:
+    - id: 1
+      name: section_bootcamp_intro
+      label: -- Denver Bar Squad Registration --
+      hint: Start your functional fitness journey with us
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_fitness_background
+      label: -- Fitness Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_activity_level
+      label: Current physical activity level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary (Little to no exercise)
+      - Lightly active (1-2 times per week)
+      - Moderately active (3-4 times per week)
+      - Very active (Daily exercise)
+      required: true
+    - id: 7
+      name: calisthenics_experience
+      label: Previous experience with calisthenics or bodyweight training?
+      hint: null
+      type: select_one
+      options:
+      - None - Complete beginner
+      - Some basic movements (Pushups, Squats)
+      - Intermediate level
+      required: true
+    - id: 8
+      name: injuries_or_limitations
+      label: Do you have any injuries or physical limitations?
+      hint: Please describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_camp_selection
+      label: -- Boot Camp Selection --
+      hint: Includes 3 specialized classes
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: bootcamp_start_date_choice
+      label: Preferred Start Date
+      hint: null
+      type: select_one
+      options:
+      - Monday, March 2nd
+      - Saturday, March 7th
+      - Monday, April 6th
+      required: true
+    - id: 11
+      name: time_slot_preference
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning (6:00 AM)
+      - Evening (6:30 PM)
+      - Weekend Morning (9:00 AM)
+      required: true
+    - id: 12
+      name: primary_goal
+      label: What is your primary goal for this boot camp?
+      hint: null
+      type: select_one
+      options:
+      - Build Strength
+      - Learn Bodyweight Skills
+      - Weight Loss
+      - General Fitness
+      - Improve Mobility
+      required: true
+    - id: 13
+      name: section_waiver_consent
+      label: -- Liability Waiver and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: fitness_waiver_acceptance
+      label: I assume all risks of participation in high-intensity training
+      hint: null
+      type: select_one
+      options:
+      - I Accept and Agree
+      - Other
+      required: true
+    - id: 15
+      name: photo_video_release
+      label: May we use photos/videos of the training for social media?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: how_did_you_hear_bar_squad
+      label: How did you hear about Denver Bar Squad?
+      hint: null
+      type: select_one
+      options:
+      - Instagram / Social Media
+      - Friend Referral
+      - Local Event
+      - Search Engine
+      - Other
+      required: false

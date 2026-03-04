@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Person Campus Visit Registration Form
+    pages:
+    - id: 1
+      name: in_person_campus_visit_registration_form
+      label: In Person Campus Visit Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campus_visit_preferences
+      label: Campus Visit Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: campus_visit_date
+      label: Campus Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: campus_visit_time
+      label: Campus Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: campus_visit_type
+      label: Campus Visit Type
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Campus Tour
+      - Group Visit
+      - Informational Session
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false

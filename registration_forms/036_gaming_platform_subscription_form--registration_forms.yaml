@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_platform_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the user
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: User email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_info
+      label: User Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - card
+      - bank_transfer
+      - paypal
+      required: false
+    - id: 7
+      name: card_details
+      label: Card Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_multiple
+      options:
+      - gold
+      - silver
+      - bronze
+      required: false
+    - id: 11
+      name: subscription_term
+      label: Subscription Term
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_one
+      options:
+      - weekly
+      - biweekly
+      - monthly
+      required: false
+    - id: 13
+      name: subscription_price
+      label: Subscription Price
+      hint: null
+      type: number
+      options: []
+      required: false

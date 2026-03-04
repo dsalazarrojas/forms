@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing License Application Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fish_license_type
+      label: Fish License Type
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Renewal
+      - Replacement
+      required: false
+    - id: 3
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - Freshwater
+      - Saltwater
+      - Combination
+      required: false
+    - id: 4
+      name: fishing_location
+      label: Fishing Location
+      hint: null
+      type: select_multiple
+      options:
+      - River
+      - Lake
+      - Ocean
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: fish_license_status
+      label: Fish License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - Pending
+      required: false
+    - id: 10
+      name: user_photo
+      label: User Photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: driving_availability_form
+    pages:
+    - id: 1
+      name: trip_details
+      label: trip_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: driving_experience
+      label: driving_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: driving_license
+      label: driving_license
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Valid''}'
+      - '{''label'': ''Invalid''}'
+      required: false
+    - id: 5
+      name: availability
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: trip_duration
+      label: trip_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: trip_type
+      label: trip_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Out of Town''}'
+      - '{''label'': ''Out of Town - Long''}'
+      - '{''label'': ''Local''}'
+      required: false
+    - id: 9
+      name: trip_location
+      label: trip_location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''City''}'
+      - '{''label'': ''Town''}'
+      - '{''label'': ''Country''}'
+      required: false
+    - id: 10
+      name: driver_license_number
+      label: driver_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: driver_experience
+      label: driver_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: driver_rating
+      label: driver_rating
+      hint: null
+      type: number
+      options: []
+      required: false

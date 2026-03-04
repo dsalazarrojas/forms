@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Event Bus Registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rider_details
+      label: Rider Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guardian_details
+      label: Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I am aware and agree to the terms and conditions'', ''value'':
+        True}'
+      - '{''label'': ''I am not aware or disagree'', ''value'': False}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Enter any additional notes or comments about the rider here
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter an email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: rider_name
+      label: Rider Name
+      hint: Enter the rider's name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Enter the date of the event
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: Enter the time of the event
+      type: time
+      options: []
+      required: false

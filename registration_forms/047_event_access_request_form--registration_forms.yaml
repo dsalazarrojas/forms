@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Access Request Form
+    pages:
+    - id: 1
+      name: event_access_request_form
+      label: Event Access Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone
+      label: attendee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendee_type
+      label: attendee_type
+      hint: null
+      type: select_multiple
+      options:
+      - Guest
+      - Speaker
+      - Vendor
+      required: false
+    - id: 6
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false

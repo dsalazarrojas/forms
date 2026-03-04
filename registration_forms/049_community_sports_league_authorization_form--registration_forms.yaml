@@ -1,0 +1,361 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Sports League Authorization Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: Player details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: false
+    - id: 6
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: guardian_info
+      label: Parent or Guardian Information
+      hint: If participant is under 18
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: is_minor
+      label: Is Participant Under 18
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: guardian_first_name
+      label: Guardian First Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: guardian_last_name
+      label: Guardian Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: league_info
+      label: League Information
+      hint: Select your league
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: sport
+      label: Sport
+      hint: null
+      type: select_one
+      options:
+      - Basketball
+      - Soccer
+      - Baseball
+      - Softball
+      - Football
+      - Volleyball
+      - Tennis
+      - Flag Football
+      - Other
+      required: true
+    - id: 23
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: season
+      label: Season
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      required: true
+    - id: 25
+      name: year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: division
+      label: Division or Level
+      hint: null
+      type: select_one
+      options:
+      - Recreational
+      - Competitive
+      - Elite
+      - All-Star
+      required: true
+    - id: 27
+      name: team_preference
+      label: Team Preference
+      hint: null
+      type: select_one
+      options:
+      - No Preference
+      - Request Specific Team
+      - Request to Play with Friend
+      - Request Specific Coach
+      required: false
+    - id: 28
+      name: team_request
+      label: Team or Coach Request
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: medical_info
+      label: Medical Information
+      hint: For safety
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: We should know about
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: medications
+      label: Current Medications
+      hint: If relevant
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: insurance_provider
+      label: Health Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: policy_number
+      label: Policy Number
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: authorization_section
+      label: Authorization and Consent
+      hint: Important agreements
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: participation_consent
+      label: I Consent to Participation
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 36
+      name: risk_acknowledgment
+      label: I Understand There Are Risks
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - I Do Not Understand
+      required: true
+    - id: 37
+      name: liability_release
+      label: I Release the Organization from Liability
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 38
+      name: medical_treatment
+      label: I Authorize Emergency Medical Treatment
+      hint: If needed
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - I Do Not Authorize
+      required: true
+    - id: 39
+      name: photo_consent
+      label: Photo and Video Consent
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Consent
+      - No - I Do Not Consent
+      required: true
+    - id: 40
+      name: transportation
+      label: Transportation Authorization
+      hint: For away games
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - I Do Not Authorize
+      required: false
+    - id: 41
+      name: rules_agreement
+      label: I Agree to Follow League Rules
+      hint: Code of conduct
+      type: select_one
+      options:
+      - Yes - I Agree
+      - No - I Do Not Agree
+      required: true
+    - id: 42
+      name: participant_signature
+      label: Participant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 43
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 44
+      name: guardian_signature
+      label: Guardian Signature
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: guardian_date
+      label: Guardian Date
+      hint: null
+      type: date
+      options: []
+      required: false

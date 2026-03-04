@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booth Sitter Request Form
+    pages:
+    - id: 1
+      name: exhibitor_name
+      label: Exhibitor Name
+      hint: Your company or name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_dates
+      label: Event Dates
+      hint: When is the event
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: booth_number
+      label: Booth Number
+      hint: Your assigned booth
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: sitter_needed_date
+      label: Date Sitter Needed
+      hint: Which day do you need coverage
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: sitter_start_time
+      label: Start Time
+      hint: When should coverage start
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: sitter_end_time
+      label: End Time
+      hint: When should coverage end
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: sitter_responsibilities
+      label: Sitter Responsibilities
+      hint: What should they do
+      type: select_multiple
+      options:
+      - Monitor booth
+      - Greet visitors
+      - Distribute materials
+      - Answer basic questions
+      - Process inquiries
+      - Record leads
+      - Collect feedback
+      - Other
+      required: true
+    - id: 12
+      name: booth_background
+      label: Booth Background Information
+      hint: Brief description of booth
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_messages
+      label: Key Messages for Sitter
+      hint: What should they know
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: materials_location
+      label: Materials Location
+      hint: Where materials are kept
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: Any other important details
+      type: text
+      options: []
+      required: false

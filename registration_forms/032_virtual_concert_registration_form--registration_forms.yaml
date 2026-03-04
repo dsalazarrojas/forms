@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_concert_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: venue_name
+      label: Venue name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: concert_name
+      label: Concert name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: artist_name
+      label: Artist name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: ticket_price
+      label: Ticket price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: ticket_quantity
+      label: Ticket quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Online payment
+      - Offline payment
+      required: false
+    - id: 16
+      name: registration_status
+      label: Registration status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email_confirmation
+      label: Email confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: phone_confirmation
+      label: Phone confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: ticket_details
+      label: Ticket details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: ticket_price_currency
+      label: Ticket price currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 22
+      name: ticket_price_amount
+      label: Ticket price amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: event_location
+      label: Event location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_address
+      label: Event address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: artist_image
+      label: Artist image
+      hint: null
+      type: text
+      options: []
+      required: false

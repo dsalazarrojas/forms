@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_fan_club_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: 10 digits please
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: true
+    - id: 6
+      name: age
+      label: Age
+      hint: Enter your age
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: membership_start_date
+      label: Membership Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: membership_end_date
+      label: Membership End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: membership_level
+      label: Membership Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - VIP
+      required: true
+    - id: 12
+      name: membership_payment_status
+      label: Membership Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: true
+    - id: 13
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: member_since_time
+      label: Member Since Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: agree_terms
+      label: I have read and agree to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms and conditions
+      - I have not read and do not agree to the terms and conditions
+      required: true

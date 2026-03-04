@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: matrimonial_meet_form_jito
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Unmarried
+      - Engaged
+      - Divorced
+      required: true
+    - id: 7
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - Graduated
+      - Post-graduated
+      - Doctorate
+      - Phd
+      required: true
+    - id: 8
+      name: profession
+      label: Profession
+      hint: null
+      type: select_one
+      options:
+      - Doctor
+      - Engineer
+      - Software Developer
+      - Architect
+      required: true
+    - id: 9
+      name: income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: true

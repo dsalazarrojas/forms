@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Registration Form
+    pages:
+    - id: 1
+      name: owner_first_name
+      label: Owner First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_last_name
+      label: Owner Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_email
+      label: Owner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: boat_make
+      label: Boat Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: boat_model
+      label: Boat Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: boat_year
+      label: Boat Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: boat_hull_id
+      label: Boat Hull ID (HIN)
+      hint: 12-character hull number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: boat_length
+      label: Boat Length
+      hint: In feet
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: boat_type
+      label: Boat Type
+      hint: Select category
+      type: select_one
+      options:
+      - Bowrider
+      - Cabin Cruiser
+      - Center Console
+      - Deck Boat
+      - Fishing Boat
+      - Pontoon
+      - Sailboat
+      - Ski Boat
+      - Wakeboard Boat
+      - Yacht
+      - Other
+      required: true
+    - id: 15
+      name: hull_material
+      label: Hull Material
+      hint: Primary material
+      type: select_one
+      options:
+      - Fiberglass
+      - Aluminum
+      - Steel
+      - Wood
+      - Other
+      required: true
+    - id: 16
+      name: propulsion_type
+      label: Propulsion Type
+      hint: Type of engine
+      type: select_one
+      options:
+      - Outboard
+      - Inboard
+      - Sterndrive
+      - Jet Drive
+      - Sail Only
+      - Electric
+      required: true
+    - id: 17
+      name: engine_make
+      label: Engine Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: engine horsepower
+      label: Engine Horsepower
+      hint: HP rating
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: fuel_type
+      label: Fuel Type
+      hint: Type of fuel
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Hybrid
+      required: true
+    - id: 20
+      name: primary_use
+      label: Primary Use
+      hint: How will you use the boat?
+      type: select_one
+      options:
+      - Recreation
+      - Fishing
+      - Commercial
+      - Charter
+      - Racing
+      - Other
+      required: true
+    - id: 21
+      name: home_port
+      label: Home Port
+      hint: Where is it docked?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: marina_name
+      label: Marina Name
+      hint: Where is it stored?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_registration
+      label: Previous Registration Number
+      hint: If transferring
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lien_holder_name
+      label: Lien Holder Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: lien_holder_address
+      label: Lien Holder Address
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: registration_type
+      label: Registration Type
+      hint: Select duration
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - New Registration
+      - Transfer
+      required: true
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Money Order
+      required: true
+    - id: 28
+      name: ownership_certification
+      label: Ownership Certification
+      hint: I certify I am the legal owner
+      type: select_one
+      options:
+      - Yes, I Certify
+      - false
+      required: true
+    - id: 29
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

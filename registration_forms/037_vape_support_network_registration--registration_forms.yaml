@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vape Support Network Registration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: support_needs
+      label: What kind of support do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - Vaping Support
+      - General Support
+      - Mental Health Support
+      - Physical Health Support
+      required: true
+    - id: 5
+      name: group_participating
+      label: Which group are you participating in?
+      hint: null
+      type: select_one
+      options:
+      - Vape Support Network
+      - Peer Support Group 1
+      - Peer Support Group 2
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent
+      label: I consent to be contacted
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 8
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

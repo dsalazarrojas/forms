@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Control Officer Certification Registration
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_intro
+      label: Animal Control Officer Certification Registration
+      hint: Register for ACO certification training and examination
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: DOB
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: employer
+      label: Current Employer
+      hint: Agency or organization
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employer_type
+      label: Type of Employer
+      hint: Organization type
+      type: select_one
+      options:
+      - Municipal animal control
+      - County animal services
+      - Private animal control company
+      - Animal shelter
+      - Humane society
+      - Law enforcement
+      - Other
+      required: true
+    - id: 9
+      name: job_title
+      label: Current Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years in Animal Control or Related Field
+      hint: Experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - More than 15 years
+      required: true
+    - id: 11
+      name: education_level
+      label: Highest Level of Education
+      hint: Education
+      type: select_one
+      options:
+      - High school or equivalent
+      - Some college
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree or higher
+      required: true
+    - id: 12
+      name: degree_field
+      label: Field of Study
+      hint: Major or concentration
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: certification_type
+      label: Type of Certification Sought
+      hint: Certification level
+      type: select_one
+      options:
+      - Basic ACO certification
+      - Advanced ACO certification
+      - Supervisor certification
+      - Instructor certification
+      - Recertification
+      required: true
+    - id: 14
+      name: training_preference
+      label: Preferred Training Format
+      hint: How to attend
+      type: select_one
+      options:
+      - In-person only
+      - Online only
+      - Hybrid - both
+      - No preference
+      required: true
+    - id: 15
+      name: preferred_location
+      label: Preferred Training Location
+      hint: If in-person
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_dates
+      label: Preferred Training Dates
+      hint: When available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_training
+      label: Have You Completed ACO Training Before
+      hint: Previous training
+      type: select_one
+      options:
+      - Yes - certified previously
+      - Yes - partial training
+      - No - first time
+      required: true
+    - id: 18
+      name: previous_certification
+      label: Previous Certification Details
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: relevant_experience
+      label: Describe Relevant Experience
+      hint: Work history
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: skills
+      label: Relevant Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animal handling
+      - Law enforcement
+      - Public education
+      - Report writing
+      - Conflict resolution
+      - First aid
+      - Wildlife management
+      - Legal procedures
+      required: false
+    - id: 21
+      name: physical_ability
+      label: Can You Perform Physical Duties Required
+      hint: Physical capability
+      type: select_one
+      options:
+      - Yes - no limitations
+      - Yes - with accommodations
+      - No - have limitations
+      required: true
+    - id: 22
+      name: background_check
+      label: Are You Willing to Undergo Background Check
+      hint: Screening
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 23
+      name: criminal_history
+      label: Do You Have Any Criminal Convictions
+      hint: Must disclose
+      type: select_one
+      options:
+      - false
+      - Yes - will disclose
+      required: true
+    - id: 24
+      name: conviction_details
+      label: If Yes, Please Explain
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employer_sponsorship
+      label: Is Your Employer Sponsoring This Certification
+      hint: Sponsorship
+      type: select_one
+      options:
+      - Yes - fully sponsored
+      - Yes - partially sponsored
+      - No - self-funded
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Invoice to employer
+      - Purchase order
+      - Check
+      required: true
+    - id: 27
+      name: special_accommodations
+      label: Do You Require Special Accommodations
+      hint: ADA or other
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Contact person
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other info
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

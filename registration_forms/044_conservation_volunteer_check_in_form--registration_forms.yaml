@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Volunteer Check In Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-In Date
+      hint: Date of volunteer service
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-In Time
+      hint: Arrival time
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_id
+      label: Volunteer ID
+      hint: ID number if assigned
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_or_project
+      label: Event or Project
+      hint: What are you volunteering for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_location
+      label: Project Location
+      hint: Where is the work site
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_assignment
+      label: Team Assignment
+      hint: Which team are you on
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_name
+      label: Site Supervisor
+      hint: Name of site leader
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_role
+      label: Your Role Today
+      hint: What will you be doing
+      type: select_one
+      options:
+      - Habitat restoration
+      - Tree planting
+      - Trail maintenance
+      - Invasive species removal
+      - Water quality monitoring
+      - Wildlife survey
+      - Education support
+      - Event support
+      - Data entry
+      - Other
+      required: true
+    - id: 12
+      name: volunteer_role_other
+      label: Other Role
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: first_time_volunteer
+      label: Is This Your First Time
+      hint: First volunteer session
+      type: select_one
+      options:
+      - Yes - First time
+      - No - Returning volunteer
+      required: true
+    - id: 14
+      name: total_sessions
+      label: Total Sessions Volunteered
+      hint: Including today
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_hours
+      label: Total Hours Volunteered
+      hint: Lifetime volunteer hours
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hours_today
+      label: Hours Planned Today
+      hint: Expected hours of service
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: safety_briefing
+      label: Did You Attend Safety Briefing
+      hint: Safety orientation completed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: ppe_received
+      label: PPE Received
+      hint: Personal protective equipment
+      type: select_multiple
+      options:
+      - Gloves
+      - Safety glasses
+      - Hard hat
+      - Vest
+      - Boots
+      - None needed
+      - Using own equipment
+      required: true
+    - id: 19
+      name: health_status
+      label: Are You Feeling Well Today
+      hint: Health check
+      type: select_one
+      options:
+      - Yes - Ready to work
+      - Yes - With minor limitations
+      - No - Should not work
+      required: true
+    - id: 20
+      name: health_limitations
+      label: Health Limitations
+      hint: Any restrictions today
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: waivers_signed
+      label: Are Waivers Signed
+      hint: Liability waivers current
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: photo_release_signed
+      label: Photo Release Signed
+      hint: Media release on file
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: transportation_method
+      label: How Did You Get Here
+      hint: Transportation used
+      type: select_one
+      options:
+      - Personal vehicle
+      - Carpool
+      - Organization vehicle
+      - Public transit
+      - Bicycle
+      - Walked
+      required: false
+    - id: 24
+      name: carpool_interest
+      label: Interested in Carpooling
+      hint: For future events
+      type: select_one
+      options:
+      - Yes - Can offer rides
+      - Yes - Need rides
+      - false
+      required: false
+    - id: 25
+      name: lunch_preference
+      label: Lunch Preference
+      hint: If lunch is provided
+      type: select_one
+      options:
+      - Will bring own
+      - Need lunch provided
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other dietary need
+      required: false
+    - id: 26
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: If shirt is provided
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 27
+      name: skills_to_share
+      label: Special Skills to Share
+      hint: Anything you can teach others
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: availability_next
+      label: Next Availability
+      hint: When can you volunteer again
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: referral_interest
+      label: Will You Refer Others
+      hint: Recommend to friends
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 30
+      name: check_out_time
+      label: Check-Out Time
+      hint: Departure time
+      type: time
+      options: []
+      required: false
+    - id: 31
+      name: actual_hours
+      label: Actual Hours Worked
+      hint: Final hours completed
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: volunteer_signature
+      label: Your Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: supervisor_initials
+      label: Supervisor Initials
+      hint: For office use
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: check_in_status
+      label: Check-In Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Checked in
+      - Checked out
+      - Excused absence
+      required: true

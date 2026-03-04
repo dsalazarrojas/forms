@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Event Participation Waiver Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_consent
+      label: Parent or Legal Guardian Consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 3
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: participant_date_of_birth
+      label: Participant Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: Participant Email Address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_street
+      label: Participant Street
+      hint: Street Address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_city
+      label: Participant City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_state
+      label: Participant State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_zip
+      label: Participant Zip
+      hint: Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms and conditions.
+      - I have not read and do not agree to the terms and conditions.
+      required: true
+    - id: 12
+      name: guardian_info
+      label: Guardian Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: guardian_email
+      label: Guardian Email
+      hint: Guardian Email Address
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: guardian_phone
+      label: Guardian Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: guardian_street
+      label: Guardian Street
+      hint: Street Address
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: guardian_city
+      label: Guardian City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: guardian_state
+      label: Guardian State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: guardian_zip
+      label: Guardian Zip
+      hint: Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_date
+      label: Event Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: event_time
+      label: Event Time
+      hint: "12:00 AM - 12:00 AM"
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: true

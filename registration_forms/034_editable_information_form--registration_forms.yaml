@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Editable Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_first_name
+      label: Emergency contact first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_last_name
+      label: Emergency contact last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Other
+      required: true
+    - id: 7
+      name: primary_phone
+      label: Primary phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: secondary_phone
+      label: Secondary phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: primary_phone_ext
+      label: Primary phone extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_preference
+      label: Communication preference
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Text message
+      - Phone call
+      - Postcard
+      required: true
+    - id: 11
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: school_or_organization
+      label: School or organization
+      hint: null
+      type: select_multiple
+      options:
+      - School A
+      - School B
+      - School C
+      required: true
+    - id: 14
+      name: team_name
+      label: Team name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: team_type
+      label: Team type
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Academic
+      - Other
+      required: true
+    - id: 16
+      name: team_level
+      label: Team level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Other
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_address
+      label: Emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_city
+      label: Emergency contact city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_state
+      label: Emergency contact state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_zip
+      label: Emergency contact zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_country
+      label: Emergency contact country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: team_lead
+      label: Team lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: team_lead_email
+      label: Team lead email
+      hint: null
+      type: text
+      options: []
+      required: true

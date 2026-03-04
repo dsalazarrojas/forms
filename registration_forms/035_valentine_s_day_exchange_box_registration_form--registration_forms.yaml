@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: valentines_day_exchange_box_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birthday
+      label: Birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: exchange_box_interests
+      label: What type of exchange box are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - Small Box
+      - Medium Box
+      - Large Box
+      - Extra Large Box
+      required: false
+    - id: 8
+      name: gift_value
+      label: Gift Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

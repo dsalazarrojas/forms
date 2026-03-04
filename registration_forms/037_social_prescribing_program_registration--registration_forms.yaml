@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_prescribing_program_registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interest_1
+      label: interest_1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: interest_2
+      label: interest_2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: interest_3
+      label: interest_3
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wellbeing_question
+      label: wellbeing_question
+      hint: null
+      type: select_multiple
+      options:
+      - wellbeing_option1
+      - wellbeing_option2
+      required: true
+    - id: 9
+      name: wellbeing_score
+      label: wellbeing_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submission_comment
+      label: submission_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_question
+      label: submission_question
+      hint: null
+      type: select_multiple
+      options:
+      - submission_option1
+      - submission_option2
+      required: false
+    - id: 12
+      name: submission_file
+      label: submission_file
+      hint: null
+      type: text
+      options: []
+      required: false

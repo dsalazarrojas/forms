@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Trial Class Registration Form
+    pages:
+    - id: 1
+      name: trial_class_registration_form
+      label: Trial Class Registration
+      hint: Please register for a trial class
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: class_type
+      label: Class Type
+      hint: null
+      type: select_one
+      options:
+      - Group Class
+      - Private Class
+      - Personal Training
+      required: true
+    - id: 6
+      name: preferred_days
+      label: Preferred Class Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Class Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: exhibitor-wi-fi-access-request-form
+    pages:
+    - id: 1
+      name: exhibitor_wifi
+      label: Exhibitor Wi-Fi Access Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: wifi_req
+      label: Wi-Fi Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: wifi_req_req
+      label: Wi-Fi Request Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: wifi_req_terms
+      label: Wi-Fi Request Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: wifi_req_notes
+      label: Wi-Fi Request Notes
+      hint: null
+      type: note
+      options: []
+      required: false

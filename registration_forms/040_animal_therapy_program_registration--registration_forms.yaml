@@ -1,0 +1,360 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Therapy Program Registration
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Street Address
+      hint: Current address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to participant
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: referral_source
+      label: How Were You Referred to This Program
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Provider
+      - Mental Health Professional
+      - School or Educational Institution
+      - Community Organization
+      - Family or Friend
+      - Online Search
+      - Previous Participant
+      - Other
+      required: true
+    - id: 13
+      name: referring_professional
+      label: Referring Professional Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: program_type
+      label: Type of Therapy Program
+      hint: Select preferred program
+      type: select_one
+      options:
+      - Individual Animal-Assisted Therapy
+      - Group Animal-Assisted Therapy
+      - Family Animal-Assisted Therapy
+      - Equine-Assisted Therapy
+      - Canine-Assisted Therapy
+      - Assessment and Evaluation
+      required: true
+    - id: 15
+      name: therapy_goals
+      label: What Are Your Therapy Goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Reduce Anxiety
+      - Improve Mood
+      - Build Social Skills
+      - Increase Confidence
+      - Process Trauma
+      - Improve Communication
+      - Develop Coping Skills
+      - Enhance Emotional Regulation
+      - Physical Rehabilitation
+      - Other
+      required: true
+    - id: 16
+      name: animal_preference
+      label: Do You Have an Animal Preference
+      hint: null
+      type: select_one
+      options:
+      - Dogs
+      - Cats
+      - Horses
+      - Rabbits
+      - Birds
+      - No Preference
+      - Have Concerns About Certain Animals
+      required: true
+    - id: 17
+      name: animal_concerns
+      label: Please Describe Animal Concerns
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: animal_allergies
+      label: Do You Have Any Animal Allergies
+      hint: null
+      type: select_one
+      options:
+      - No Allergies
+      - Mild Allergies
+      - Moderate Allergies
+      - Severe Allergies
+      required: true
+    - id: 19
+      name: allergy_details
+      label: Allergy Details
+      hint: Describe allergies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: animal_experience
+      label: Previous Experience with Animals
+      hint: null
+      type: select_one
+      options:
+      - Extensive Experience
+      - Some Experience
+      - Limited Experience
+      - No Experience
+      - Negative Experience
+      required: true
+    - id: 21
+      name: experience_details
+      label: Describe Your Experience
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: animal_fears
+      label: Do You Have Any Fears Related to Animals
+      hint: null
+      type: select_one
+      options:
+      - No Fears
+      - Mild Concerns
+      - Significant Fears
+      - Phobia
+      required: true
+    - id: 23
+      name: fear_details
+      label: Please Describe Your Fears
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Relevant Medical or Psychological Conditions
+      hint: That may affect participation
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: current_medications
+      label: Current Medications
+      hint: If relevant
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: session_preference
+      label: Preferred Session Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Flexible
+      required: true
+    - id: 27
+      name: preferred_days
+      label: Preferred Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 28
+      name: session_frequency
+      label: Desired Session Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - As Needed
+      - Intensive - Multiple Per Week
+      required: true
+    - id: 29
+      name: transportation_needs
+      label: Do You Need Transportation Assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: accessibility_needs
+      label: Do You Have Any Accessibility Requirements
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: accessibility_details
+      label: Accessibility Details
+      hint: If yes describe
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: insurance_info
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: insurance_id
+      label: Insurance ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Insurance
+      - Self-Pay
+      - Sliding Scale
+      - Financial Assistance
+      - Other
+      required: true
+    - id: 35
+      name: consent_to_treatment
+      label: I Consent to Participate in Animal-Assisted Therapy
+      hint: null
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 36
+      name: liability_waiver
+      label: I Accept the Liability Waiver
+      hint: Understanding risks involved
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 37
+      name: confidentiality_agreement
+      label: I Understand Confidentiality Policies
+      hint: null
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Clarification
+      required: true
+    - id: 38
+      name: participant_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: guardian_signature
+      label: Guardian Signature
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

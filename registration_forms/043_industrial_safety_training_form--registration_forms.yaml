@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_safety_training_form
+    pages:
+    - id: 1
+      name: training_course
+      label: Training course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: safety_training
+      label: Safety training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_hours
+      label: Training hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: training_date
+      label: Training date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_status
+      label: Training status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: training_facility
+      label: Training facility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training_venue
+      label: Training venue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: training_topic
+      label: Training topic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: training_facility_details
+      label: Training facility details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: training_notes
+      label: Training notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participant_status
+      label: Participant status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: participant_role
+      label: Participant role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false

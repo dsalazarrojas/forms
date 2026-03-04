@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Exchange Program Leave Of Absence Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_information
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Medical Leave'', ''value'': ''Medical Leave''}'
+      - '{''id'': 2, ''label'': ''Personal Leave'', ''value'': ''Personal Leave''}'
+      - '{''id'': 3, ''label'': ''Academic Leave'', ''value'': ''Academic Leave''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: university_name
+      label: University Name
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''University A'', ''value'': ''University A''}'
+      - '{''id'': 2, ''label'': ''University B'', ''value'': ''University B''}'
+      - '{''id'': 3, ''label'': ''University C'', ''value'': ''University C''}'
+      required: false
+    - id: 9
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User 1'', ''value'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2'', ''value'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3'', ''value'': ''User 3''}'
+      required: false
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

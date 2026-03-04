@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Governance Session Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: financial_background
+      label: Financial Background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: financial_expertise
+      label: Financial Expertise
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: financial_experience
+      label: Financial Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: financial_industry
+      label: Financial Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Financial Governance Session''}'
+      - '{''id'': 2, ''name'': ''Other''}'
+      - '{''id'': 3, ''name'': ''Both''}'
+      - '{''id'': 4, ''name'': ''No Preference''}'
+      required: true
+    - id: 15
+      name: session_topics
+      label: Session Topics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Financial Planning''}'
+      - '{''id'': 2, ''name'': ''Risk Management''}'
+      - '{''id'': 3, ''name'': ''Financial Analysis''}'
+      - '{''id'': 4, ''name'': ''Financial Modeling''}'
+      - '{''id'': 5, ''name'': ''Financial Reporting''}'
+      required: true
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 19
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Undisclosed''}'
+      required: true
+    - id: 20
+      name: session_attendance
+      label: Session Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Online''}'
+      - '{''id'': 2, ''name'': ''In-person''}'
+      - '{''id'': 3, ''name'': ''Both''}'
+      required: true
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''Bank Transfer''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 22
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: email_optin
+      label: Email Opt-in
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 25
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false

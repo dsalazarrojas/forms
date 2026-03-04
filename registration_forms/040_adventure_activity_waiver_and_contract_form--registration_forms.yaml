@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adventure Activity Waiver And Contract Form
+    pages:
+    - id: 1
+      name: waiver_header
+      label: -- Waiver and Contract --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contract_terms_acknowledged
+      label: Contract terms acknowledged
+      hint: Read and agree to activity terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 4
+      name: risk_acknowledgement
+      label: Risk acknowledgement
+      hint: Confirm understanding of risks
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 5
+      name: medical_clearance
+      label: Medical clearance provided
+      hint: For high risk activities provide clearance
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not applicable
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Required contact information
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: insurance_information
+      label: Insurance provider and policy
+      hint: For participant coverage
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: signature_name
+      label: Signature name
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature_date
+      label: Signature date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

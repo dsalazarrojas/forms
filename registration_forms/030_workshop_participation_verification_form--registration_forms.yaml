@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Participation Verification Form
+    pages:
+    - id: 1
+      name: workshop_participation_verification_form
+      label: workshop participation verification form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_attended_date
+      label: workshop attended date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 8
+      name: participant_attendance
+      label: participant attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 9
+      name: participant_attendance_confirmed
+      label: participant attendance confirmed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: participant_attendance_reason
+      label: participant attendance reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Late'', ''value'': ''late''}'
+      - '{''label'': ''No Show'', ''value'': ''no show''}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': ''good''}'
+      - '{''label'': ''Bad'', ''value'': ''bad''}'
+      - '{''label'': ''Neutral'', ''value'': ''neutral''}'
+      required: false
+    - id: 12
+      name: participant_feedback
+      label: participant feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': ''good''}'
+      - '{''label'': ''Bad'', ''value'': ''bad''}'
+      - '{''label'': ''Neutral'', ''value'': ''neutral''}'
+      required: false
+    - id: 13
+      name: participant_satisfaction
+      label: participant satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Good'', ''value'': ''good''}'
+      - '{''label'': ''Bad'', ''value'': ''bad''}'
+      - '{''label'': ''Neutral'', ''value'': ''neutral''}'
+      required: false
+    - id: 14
+      name: feedback_reason
+      label: feedback reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_satisfaction_reason
+      label: participant satisfaction reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: participant_rating
+      label: participant rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: participant_survey
+      label: participant survey
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 18
+      name: participant_survey_reason
+      label: participant survey reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_survey_comments
+      label: participant survey comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_survey_rating
+      label: participant survey rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: participant_attendance_date
+      label: participant attendance date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: participant_survey_date
+      label: participant survey date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: participant_survey_time
+      label: participant survey time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: participant_survey_location
+      label: participant survey location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''On-site'', ''value'': ''on-site''}'
+      - '{''label'': ''Off-site'', ''value'': ''off-site''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 25
+      name: participant_survey_additional_comments
+      label: participant survey additional comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

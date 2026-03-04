@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: horse-registration-form
+    pages:
+    - id: 1
+      name: horse_info
+      label: Horse Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_info
+      label: owner-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: horse_breed
+      label: horse-breed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Quarter Horse''}'
+      - '{''id'': 2, ''label'': ''Arabian''}'
+      - '{''id'': 3, ''label'': ''Warmblood''}'
+      required: true
+    - id: 4
+      name: horse_age
+      label: horse-age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: horse_color
+      label: horse-color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Black''}'
+      - '{''id'': 2, ''label'': ''White''}'
+      - '{''id'': 3, ''label'': ''Brown''}'
+      required: true
+    - id: 6
+      name: registration_date
+      label: registration-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: registration_time
+      label: registration-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: registration_comment
+      label: registration-comment
+      hint: null
+      type: note
+      options: []
+      required: false

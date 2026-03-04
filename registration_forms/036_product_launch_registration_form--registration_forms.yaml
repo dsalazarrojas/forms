@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_launch_registration_form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: launch_date
+      label: launch date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: launch_time
+      label: launch time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: registration_type
+      label: registration type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: registration_type_options
+      label: registration types
+      hint: null
+      type: select_multiple
+      options:
+      - in-person
+      - online
+      - remote
+      required: false
+    - id: 10
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: false

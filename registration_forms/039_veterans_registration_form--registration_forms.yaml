@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: branch_of_service
+      label: branch-of-service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: discharge_date
+      label: discharge-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: service_number
+      label: service-number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: veteran_status
+      label: veteran-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

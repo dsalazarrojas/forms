@@ -1,0 +1,420 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amusement Park Access Extension Form
+    pages:
+    - id: 1
+      name: section_request_info
+      label: -- Extension Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_number
+      label: Request Number
+      hint: For office use
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_ticket_info
+      label: -- Current Ticket Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ticket_number
+      label: Ticket Number
+      hint: From current ticket
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ticket_type
+      label: Current Ticket Type
+      hint: null
+      type: select_one
+      options:
+      - Single day pass
+      - Multi-day pass
+      - Season pass
+      - Annual pass
+      - VIP pass
+      - Group ticket
+      - Other
+      required: true
+    - id: 13
+      name: original_date
+      label: Original Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: original_expiry
+      label: Original Expiry Date
+      hint: When current access expires
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: number_in_party
+      label: Number in Party
+      hint: Total guests
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_extension_request
+      label: -- Extension Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: extension_type
+      label: Type of Extension
+      hint: null
+      type: select_one
+      options:
+      - Same day extended hours
+      - Additional day
+      - Multiple additional days
+      - Date change
+      - Season upgrade
+      - Other
+      required: true
+    - id: 18
+      name: requested_extension_date
+      label: Requested Extension Date
+      hint: New date or extended date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: extension_duration
+      label: Extension Duration
+      hint: How long
+      type: select_one
+      options:
+      - 2 hours
+      - 4 hours
+      - Full additional day
+      - 2 additional days
+      - 3 additional days
+      - Other
+      required: false
+    - id: 20
+      name: reason_for_extension
+      label: Reason for Extension Request
+      hint: null
+      type: select_one
+      options:
+      - Did not complete all attractions
+      - Weather issues
+      - Medical emergency
+      - Transportation delay
+      - Special event
+      - Changed travel plans
+      - Other
+      required: true
+    - id: 21
+      name: reason_detail
+      label: Additional Details
+      hint: Explain your reason
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_park_areas
+      label: -- Park Areas Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: current_access_areas
+      label: Areas Currently Accessible
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Main park
+      - Water park
+      - Theme zones
+      - VIP areas
+      - Special attractions
+      - Shows and entertainment
+      - Dining areas
+      - Shopping areas
+      required: false
+    - id: 24
+      name: requested_access_areas
+      label: Additional Areas Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Water park
+      - VIP areas
+      - Special attractions
+      - Backstage tours
+      - Early access areas
+      - Late access areas
+      - All areas
+      - Same as current
+      required: false
+    - id: 25
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: extension_fee
+      label: Extension Fee
+      hint: Calculated amount
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Park credit
+      - Voucher
+      - Other
+      required: true
+    - id: 28
+      name: card_number
+      label: Card Number
+      hint: If paying by card
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: card_expiry
+      label: Card Expiry
+      hint: MM/YY
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: cvv
+      label: CVV
+      hint: Security code
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: section_guest_preferences
+      label: -- Guest Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: preferred_entry_time
+      label: Preferred Entry Time for Extension
+      hint: null
+      type: select_one
+      options:
+      - Park opening
+      - Morning
+      - Afternoon
+      - Evening
+      - Any time
+      required: false
+    - id: 33
+      name: attractions_interest
+      label: Attractions of Interest
+      hint: What do you want to experience
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: dining_reservations
+      label: Dining Reservations Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 35
+      name: section_special_needs
+      label: -- Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: medical_conditions
+      label: Medical Conditions to Note
+      hint: For safety purposes
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If dining
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: section_acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the extension terms
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Other
+      required: true
+    - id: 41
+      name: refund_policy
+      label: Refund Policy Acknowledgment
+      hint: Extensions are non-refundable
+      type: select_one
+      options:
+      - I understand extensions are non-refundable
+      - Other
+      required: true
+    - id: 42
+      name: availability_understanding
+      label: Availability Understanding
+      hint: Subject to park capacity
+      type: select_one
+      options:
+      - I understand extension is subject to availability
+      - Other
+      required: true
+    - id: 43
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: approval_status
+      label: Approval Status
+      hint: For office use
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Requires review
+      required: false
+    - id: 45
+      name: approved_by
+      label: Approved By
+      hint: Staff name
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 47
+      name: confirmation_number
+      label: Confirmation Number
+      hint: For office use
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other requests
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: guest_signature
+      label: Guest Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

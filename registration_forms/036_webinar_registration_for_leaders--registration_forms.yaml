@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Registration For Leaders
+    pages:
+    - id: 1
+      name: webinar_registration_for_leaders
+      label: Webinar Registration For Leaders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
+      required: true
+    - id: 3
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: webinar_registration_for_leaders
+      label: Webinar Registration For Leaders
+      hint: null
+      type: text
+      options: []
+      required: true

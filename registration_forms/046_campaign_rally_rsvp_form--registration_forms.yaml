@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Rally RSVP Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: Full name for event check in
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For event updates and reminders
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people you will bring
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Interested in volunteering at the rally
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: arrival_time_estimate
+      label: Arrival Time Estimate
+      hint: Expected arrival time at the event
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: interest_areas
+      label: Areas of Interest
+      hint: Topics you are most interested in at the rally
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agree_terms
+      label: Agree to Event Terms
+      hint: Consent to abide by event policies
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other notes for organizers
+      type: text
+      options: []
+      required: false

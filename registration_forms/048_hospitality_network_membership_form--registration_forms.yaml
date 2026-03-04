@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Network Membership Form
+    pages:
+    - id: 1
+      name: full_name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: confirm_password
+      label: confirm_password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferences
+      label: preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: terms_of_service
+      label: terms_of_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: member_details
+      label: member_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: member_type
+      label: member_type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Student
+      required: true
+    - id: 11
+      name: how_found
+      label: how_found
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Word of mouth
+      - Advertisement
+      - Other
+      required: true
+    - id: 12
+      name: how_found_others
+      label: how_found_others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      - Bank Transfer
+      required: true
+    - id: 15
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - Not Paid
+      required: true
+    - id: 16
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - One-time
+      required: true
+    - id: 17
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Trial
+      required: true
+    - id: 18
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: member_since
+      label: member_since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: membership_duration
+      label: membership_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: renewal_date
+      label: renewal_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

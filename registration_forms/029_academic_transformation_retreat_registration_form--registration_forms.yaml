@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transformation Retreat Registration Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Transformation Retreat Registration --
+      hint: Register for the upcoming academic transformation retreat. Space is limited
+        so please register early.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institution
+      label: Institution or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+      - Faculty
+      - Department Chair
+      - Dean or Associate Dean
+      - Staff
+      - Graduate Student
+      - Other
+      required: true
+    - id: 9
+      name: retreat_sessions
+      label: Which retreat sessions are you interested in attending (select all that
+        apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Opening keynote
+      - Curriculum innovation workshop
+      - Technology in the classroom
+      - Assessment and evaluation strategies
+      - Student engagement roundtable
+      - Closing reflection and action planning
+      required: true
+    - id: 10
+      name: attendance_dates
+      label: Which days will you attend
+      hint: null
+      type: select_multiple
+      options:
+      - Day 1 only
+      - Day 2 only
+      - Both days
+      required: true
+    - id: 11
+      name: accommodation_needed
+      label: Do you need overnight accommodation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Any dietary restrictions or food allergies
+      hint: Meals are provided during the retreat
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Any accessibility accommodations required
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: topics_of_interest
+      label: What topics are you most interested in exploring at the retreat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: transportation
+      label: How will you be traveling to the retreat
+      hint: null
+      type: select_one
+      options:
+      - Driving
+      - Public transit
+      - Carpooling
+      - Flying
+      - Other
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agreement
+      label: I confirm my registration and agree to the retreat participation guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes - I confirm
+      - Other
+      required: true

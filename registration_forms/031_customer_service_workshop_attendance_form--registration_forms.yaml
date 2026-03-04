@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_service_workshop_attendance_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: participant_phone
+      label: participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_company
+      label: participant company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_department
+      label: participant department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_job_title
+      label: participant job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_position
+      label: participant position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_title
+      label: workshop title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workshop_start_date
+      label: workshop start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: workshop_end_date
+      label: workshop end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: workshop_time
+      label: workshop time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: workshop_location
+      label: workshop location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_attended
+      label: participant attended
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: participant_comments
+      label: participant comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: workshop_host
+      label: workshop host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: workshop_facilitator
+      label: workshop facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: workshop_notes
+      label: workshop notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: participant_notes
+      label: participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: attendance_status
+      label: attendance status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_attended_count
+      label: participant attended count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: participant_absent_count
+      label: participant absent count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: participant_lateny_count
+      label: participant late
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: participant_partially_attended_count
+      label: participant partially attended count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: workshop_capacity
+      label: workshop capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: participant_registration_date
+      label: participant registration date
+      hint: null
+      type: date
+      options: []
+      required: false

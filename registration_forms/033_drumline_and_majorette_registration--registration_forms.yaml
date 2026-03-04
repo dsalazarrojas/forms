@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: drumline_and_majorette_registration
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''9th'', ''value'': ''9th''}'
+      - '{''label'': ''10th'', ''value'': ''10th''}'
+      - '{''label'': ''11th'', ''value'': ''11th''}'
+      - '{''label'': ''12th'', ''value'': ''12th''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Snare'', ''value'': ''snare''}'
+      - '{''label'': ''B-flat'', ''value'': ''b-flat''}'
+      - '{''label'': ''Tenor'', ''value'': ''tenor''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Parent'', ''value'': ''parent''}'
+      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 2}'
+      required: true

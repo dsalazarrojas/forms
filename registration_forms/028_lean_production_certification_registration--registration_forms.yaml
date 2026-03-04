@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lean Production Certification Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_experience
+      label: participant_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: preferred_sessions
+      label: preferred_sessions
+      hint: null
+      type: select_multiple
+      options:
+      - Session A
+      - Session B
+      - Session C
+      required: false
+    - id: 4
+      name: certification_details
+      label: certification_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_provider_info
+      label: training_provider_info
+      hint: null
+      type: text
+      options: []
+      required: false

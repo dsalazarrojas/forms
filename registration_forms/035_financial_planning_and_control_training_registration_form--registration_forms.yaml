@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Planning And Control Training Registration Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_info
+      label: Course Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: registration_info
+      label: Registration Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_info
+      label: Submission Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Visa
+      - Mastercard
+      - American Express
+      required: true
+    - id: 8
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_currency
+      label: Payment Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: true
+    - id: 12
+      name: payment_methods
+      label: Payment Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Cash
+      - Check
+      - Credit Card
+      required: true
+    - id: 13
+      name: bank_transfer_info
+      label: Bank Transfer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: check_info
+      label: Check Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: credit_card_info
+      label: Credit Card Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: bank_branch
+      label: Bank Branch
+      hint: Bank Branch
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: account_number
+      label: Account Number
+      hint: Account Number
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: routing_number
+      label: Routing Number
+      hint: Routing Number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Debit
+      - Credit
+      - American Express
+      required: true
+    - id: 20
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: cvv_number
+      label: CVV Number
+      hint: CVV Number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: cvv_expiration
+      label: CVV Expiration
+      hint: CVV Expiration
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: card_holder_name
+      label: Card Holder Name
+      hint: Card Holder Name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: card_number
+      label: Card Number
+      hint: Card Number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: payment_terms
+      label: Payment Terms
+      hint: Payment Terms
+      type: text
+      options: []
+      required: false

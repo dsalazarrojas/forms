@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Candy Making Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_contact
+      label: Parent Contact
+      hint: Provide contact information for the parent or guardian.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule
+      label: Schedule
+      hint: Select a schedule that fits your needs.
+      type: select_one
+      options:
+      - '{''label'': ''Monday at 2 PM''}'
+      - '{''label'': ''Monday at 4 PM''}'
+      - '{''label'': ''Wednesday at 2 PM''}'
+      required: false
+    - id: 4
+      name: safety_information
+      label: Safety Information
+      hint: Please provide the required safety information for your child.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: youth_name
+      label: Youth Name
+      hint: null
+      type: text
+      options: []
+      required: false

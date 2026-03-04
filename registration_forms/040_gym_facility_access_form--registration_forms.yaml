@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Facility Access Form
+    pages:
+    - id: 1
+      name: gym_facility_access_form
+      label: Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_notes
+      label: Member Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: guest_notes
+      label: Guest Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Manager
+      - Member
+      - Guest
+      required: false
+    - id: 11
+      name: member_date
+      label: Member Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: member_time
+      label: Member Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: gym_facility_access_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Registration Forms
+      - Membership Forms
+      - Access Forms
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: false

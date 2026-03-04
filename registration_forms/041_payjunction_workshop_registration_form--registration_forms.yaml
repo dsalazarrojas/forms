@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayJunction Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Attendee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: workshop_start_time
+      label: Workshop Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: workshop_end_time
+      label: Workshop End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: workshop_duration
+      label: Workshop Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: workshop_description
+      label: Workshop Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workshop_capacity
+      label: Workshop Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      required: true
+    - id: 12
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: true
+    - id: 13
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_location
+      label: Workshop Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_date_time
+      label: Event Date & Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: workshop_language
+      label: Workshop Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 17
+      name: workshop_language_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attendee_interest
+      label: Attendee Interest
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Product Management
+      required: true
+    - id: 19
+      name: attendee_interest_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attendee_notes
+      label: Attendee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organizer_notes
+      label: Organizer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: workshop_speaker
+      label: Workshop Speaker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: workshop_speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: workshop_speaker_email
+      label: Speaker Email
+      hint: null
+      type: text
+      options: []
+      required: false

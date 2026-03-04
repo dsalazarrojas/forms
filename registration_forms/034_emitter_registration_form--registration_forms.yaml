@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emitter Registration Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emission_type
+      label: Emission Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: site_email
+      label: Site Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: site_phone
+      label: Site Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_note
+      label: Site Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: site_note_hint
+      label: Site Note
+      hint: Please add any additional notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: no_code
+      label: Drag and Drop
+      hint: null
+      type: select_one
+      options:
+      - no_code
+      - drag_and_drop
+      required: false
+    - id: 10
+      name: organized_data
+      label: Organized Data
+      hint: null
+      type: select_one
+      options:
+      - organized
+      - unorganized
+      required: false
+    - id: 11
+      name: no_code_hint
+      label: Organized Data
+      hint: Is the data organized in a table format
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Pandemic Preparedness Forum Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Option A''}'
+      - '{''id'': 2, ''text'': ''Option B''}'
+      - '{''id'': 3, ''text'': ''Option C''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      - '{''id'': 3, ''text'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false

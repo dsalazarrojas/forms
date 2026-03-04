@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prayer And Fasting Participation Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prayer_initiative
+      label: Prayer Initiative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fasting_info
+      label: Fasting Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fasting_type
+      label: Fasting Type
+      hint: null
+      type: select_one
+      options:
+      - Prayer
+      - Fasting
+      - Other
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: fasting_duration
+      label: Fasting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fasting_start_time
+      label: Fasting Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: fasting_end_time
+      label: Fasting End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: fasting_participants
+      label: Fasting Participants
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Group
+      - Church
+      required: false
+    - id: 10
+      name: fasting_location
+      label: Fasting Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Church
+      - Public Place
+      required: false
+    - id: 11
+      name: fasting_leaders
+      label: Fasting Leaders
+      hint: null
+      type: select_multiple
+      options:
+      - Self
+      - Other
+      required: false

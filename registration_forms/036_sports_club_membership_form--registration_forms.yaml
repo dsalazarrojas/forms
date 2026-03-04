@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_club_membership_form
+    pages:
+    - id: 1
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Member''}'
+      - New Member
+      - Rejoining Member
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_details
+      label: emergency_contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Active''}'
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 12
+      name: membership_start_date
+      label: membership_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: membership_end_date
+      label: membership_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: membership_status_reason
+      label: membership_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: membership_type_description
+      label: membership_type_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_relationship_description
+      label: emergency_contact_relationship_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: membership_start_date_note
+      label: membership_start_date_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: membership_end_date_note
+      label: membership_end_date_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: membership_status_note
+      label: membership_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_details_note
+      label: emergency_contact_details_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: membership_type
+      label: membership_type
+      hint: null
+      type: select_multiple
+      options:
+      - Member
+      - New Member
+      - Rejoining Member
+      required: false
+    - id: 22
+      name: membership_category
+      label: membership_category
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Social
+      - Trial
+      required: false
+    - id: 23
+      name: membership_fee_paid
+      label: membership_fee_paid
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Not Paid
+      - Partially Paid
+      required: false
+    - id: 24
+      name: membership_fee
+      label: membership_fee
+      hint: null
+      type: text
+      options: []
+      required: false

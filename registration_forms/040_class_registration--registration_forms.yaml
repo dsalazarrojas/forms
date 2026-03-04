@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Registration
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 7
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: academic_header
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_grade
+      label: Current Grade Level or Classification
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      - Other
+      required: true
+    - id: 16
+      name: major_or_program
+      label: Major or Program of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: course_header
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: course_1
+      label: First Course Selection
+      hint: Course code or name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: course_1_section
+      label: Course 1 Section or Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: course_2
+      label: Second Course Selection
+      hint: Course code or name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course_2_section
+      label: Course 2 Section or Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: course_3
+      label: Third Course Selection
+      hint: Course code or name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_3_section
+      label: Course 3 Section or Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_4
+      label: Fourth Course Selection
+      hint: Course code or name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: course_4_section
+      label: Course 4 Section or Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_needs_header
+      label: -- Special Needs and Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: special_accommodations
+      label: Any Special Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: agreement
+      label: I confirm all information is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true

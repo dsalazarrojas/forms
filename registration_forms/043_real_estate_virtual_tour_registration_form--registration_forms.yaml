@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Virtual Tour Registration Form
+    pages:
+    - id: 1
+      name: real_estate_virtual_tour_registration_form
+      label: Real Estate Virtual Tour Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment
+      label: Appointment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: real_estate_type
+      label: Real Estate Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: real_estate_virtual_tour_registration_form_submit_button
+      label: Real Estate Virtual Tour Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false

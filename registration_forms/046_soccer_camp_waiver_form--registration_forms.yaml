@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: soccer_camp_waiver_form
+    pages:
+    - id: 1
+      name: camp_details
+      label: Camp Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: consent_to_participate
+      label: Consent to Participate
+      hint: null
+      type: select_multiple
+      options:
+      - Soccer
+      - Camp Activities
+      - Games
+      required: false
+    - id: 8
+      name: release_of_liability
+      label: Release of Liability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: guardian_info
+      label: Guardian Information
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Both
+      - Other
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

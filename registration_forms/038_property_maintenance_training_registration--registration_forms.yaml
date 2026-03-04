@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: property-maintenance-training-registration
+    pages:
+    - id: 1
+      name: session_choices
+      label: Session Choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sessions
+      label: sessions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: special_requirements
+      label: Special Requirements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

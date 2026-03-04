@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: HMO Enrollment Field Office I Dependent
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip_code
+      label: zip code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: social_security_number
+      label: social security number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_phone
+      label: primary phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: primary_language
+      label: primary language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: marital_status
+      label: marital status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: employment_status
+      label: employment status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dependents_employment_status
+      label: dependents employment status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employer
+      label: employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_description
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: years_in_current_job
+      label: years in current job
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: years_in_current_job
+      label: years in current job
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: hours_worked_in_current_job
+      label: hours worked in current job
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: hours_worked_outside_current_job
+      label: hours worked outside current job
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: job_type
+      label: job type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: hours_worked_in_job_type
+      label: hours worked in job type
+      hint: null
+      type: number
+      options: []
+      required: false

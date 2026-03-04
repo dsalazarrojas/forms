@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Badge Training Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Security
+      - Facilities
+      - Operations
+      - Other
+      required: false
+    - id: 7
+      name: session
+      label: Session
+      hint: null
+      type: select_multiple
+      options:
+      - Security Badge Training 1
+      - Security Badge Training 2
+      - Security Badge Training 3
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJIMMY
+      - Not Assigned
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false

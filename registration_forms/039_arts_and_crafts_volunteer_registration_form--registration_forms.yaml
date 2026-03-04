@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Crafts Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: volunteer_interest_areas
+      label: Areas of Interest for Volunteering
+      hint: null
+      type: select_multiple
+      options:
+      - Event Setup
+      - Vendor Coordination
+      - Participant Registration
+      - Crafts Instruction
+      - Cleanup
+      - Marketing or Promotion
+      - Administrative Support
+      required: true
+    - id: 11
+      name: experience_with_arts
+      label: Experience with Arts and Crafts
+      hint: null
+      type: select_one
+      options:
+      - Extensive
+      - Some Experience
+      - Limited
+      - None
+      required: false
+    - id: 12
+      name: volunteer_skills
+      label: Relevant Skills or Expertise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: availability
+      label: Availability for Volunteering
+      hint: null
+      type: select_one
+      options:
+      - Weekdays Only
+      - Weekends Only
+      - Flexible
+      - Specific Dates Only
+      required: true
+    - id: 14
+      name: hours_per_week
+      label: Hours Available per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_duration
+      label: Duration of Volunteer Commitment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: background_check
+      label: Willing to Undergo Background Check (if required)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: transportation
+      label: Have Your Own Transportation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: motivations
+      label: What Motivates You to Volunteer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

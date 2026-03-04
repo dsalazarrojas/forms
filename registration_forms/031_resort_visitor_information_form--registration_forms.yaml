@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resort Visitor Information Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_arrival
+      label: date of arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_departure
+      label: date of departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purpose_of_visit
+      label: purpose of visit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Leisure''}'
+      - '{''id'': 2, ''name'': ''Business''}'
+      required: true
+    - id: 7
+      name: room_number
+      label: room number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: special_requirements
+      label: special requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: arrival_time
+      label: arrival time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: departure_time
+      label: departure time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: guest_type
+      label: guest type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: special_requirement
+      label: special requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requirements_1
+      label: special requirement 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements_2
+      label: special requirement 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requirements_3
+      label: special requirement 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requirements_4
+      label: special requirement 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_requirements_5
+      label: special requirement 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requirements_6
+      label: special requirement 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requirements_7
+      label: special requirement 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_requirements_8
+      label: special requirement 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_requirements_9
+      label: special requirement 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_requirements_10
+      label: special requirement 10
+      hint: null
+      type: text
+      options: []
+      required: false

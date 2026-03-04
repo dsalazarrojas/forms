@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_event_team_orientation_rsvp
+    pages:
+    - id: 1
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: attendee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_preferences
+      label: session_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_requirements
+      label: special_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: roles
+      label: roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sessions
+      label: sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: attendance
+      label: attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

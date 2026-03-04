@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentor Meetup Registration
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mentor_details
+      label: Mentor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_preferences
+      label: Participant Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_agreement
+      label: Participant Agreement
+      hint: Participant agreement terms of service
+      type: select_one
+      options:
+      - I understand I am agreeing to the terms and conditions of the project
+      - I do not understand, need clarification
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_address
+      label: Participant Address
+      hint: null
+      type: text
+      options: []
+      required: false

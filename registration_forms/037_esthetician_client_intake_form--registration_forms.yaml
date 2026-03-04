@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Esthetician Client Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: Please describe your medical history
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Allergies 1
+      - Allergies 2
+      - Allergies 3
+      required: true
+    - id: 5
+      name: skincare_concerns
+      label: Skincare Concerns
+      hint: null
+      type: select_one
+      options:
+      - Acne
+      - Aging
+      - Rosacea
+      - Sensitive skin
+      - Other
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false

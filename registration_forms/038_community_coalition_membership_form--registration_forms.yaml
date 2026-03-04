@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Coalition Membership Form
+    pages:
+    - id: 1
+      name: section_coalition_membership_info
+      label: -- Coalition Membership --
+      hint: Please fill out your contact information and details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_full_name_coa
+      label: Full Name of Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_email_coa
+      label: Email Address
+      hint: For follow-up and results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: member_phone_coa
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: member_dob_coa
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: member_address_coa
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_coalition_interests_coa
+      label: -- Coalition Interests and Engagement --
+      hint: Select the programs and activities you are interested in.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_coalition_interest_coa
+      label: Which program area are you most interested in for the coalition
+      hint: null
+      type: select_one
+      options:
+      - Youth Advocacy
+      - Senior Health
+      - Arts and Culture
+      - Public Safety
+      - Environmental Sustainability
+      - Economic Development
+      required: true
+    - id: 9
+      name: coalition_membership_type_coa
+      label: Which coalition membership type applies to you
+      hint: null
+      type: select_one
+      options:
+      - Individual Member
+      - Organization Member
+      - Student/Youth Member
+      - Business Member
+      - Community Partner
+      required: true
+    - id: 10
+      name: coalition_engagement_level_coa
+      label: What level of engagement would you like to have with the coalition
+      hint: null
+      type: select_one
+      options:
+      - Active Member (Regular attendance and participation)
+      - Support Member (As-needed participation)
+      - Information Only (Receive updates and newsletters)
+      - Lead Member (Chairing/Co-chairing roles)
+      required: true
+    - id: 11
+      name: section_skills_experience_coa
+      label: -- Skills and Experience --
+      hint: Tell us about your background and why you're a good fit.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: key_skills_expertise_coa
+      label: What key skills or expertise would you bring to the coalition
+      hint: e.g., graphic design, public speaking, budgeting, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_coalition_experience_coa
+      label: Describe any previous coalition or advocacy experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reason_for_joining_coalition_coa
+      label: Why are you interested in joining the coalition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_acknowledgment_coa
+      label: -- Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: member_signature_digital_coa
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_date_final_coa
+      label: Date of Membership
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: newsletter_opt_in_coa
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 19
+      name: referral_source_coa
+      label: How did you hear about this coalition membership form
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false
+    - id: 20
+      name: emergency_contact_full_name_coa
+      label: Emergency Contact Person
+      hint: Someone not living with the member
+      type: text
+      options: []
+      required: true

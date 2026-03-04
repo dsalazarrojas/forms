@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: graduation_magnitude_registration_form
+    pages:
+    - id: 1
+      name: user_name
+      label: full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: university
+      label: university
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: graduation_details
+      label: graduation details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: graduation_date
+      label: graduation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: graduation_month
+      label: graduation month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 10
+      name: graduation_year
+      label: graduation year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: photo
+      label: photo
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 12
+      name: other_details
+      label: other details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual General Meeting Communication Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: Member name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_id
+      label: Membership ID
+      hint: Member identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_year
+      label: Meeting Year
+      hint: Which AGM is this for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 6
+      name: attendance_status
+      label: Will You Attend?
+      hint: Please confirm attendance
+      type: select_one
+      options:
+      - Yes, In Person
+      - Yes, Virtual
+      - No, Sending Proxy
+      - No, Unable to Attend
+      required: true
+    - id: 7
+      name: communication_type
+      label: Communication Type
+      hint: What type of communication?
+      type: select_one
+      options:
+      - Question for Board
+      - Topic Suggestion
+      - Feedback
+      - Concern
+      - Proposal
+      - Other
+      required: true
+    - id: 8
+      name: subject
+      label: Subject
+      hint: Brief subject line
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: Your message or question
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: agenda_item
+      label: Agenda Item
+      hint: Which agenda item does this relate to?
+      type: select_one
+      options:
+      - Financial Report
+      - Board Elections
+      - Strategic Plan
+      - Policy Changes
+      - Member Concerns
+      - New Business
+      - Other
+      - Not Applicable
+      required: false
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 12
+      name: discussion_format
+      label: Preferred Discussion Format
+      hint: How would you like this addressed?
+      type: select_one
+      options:
+      - Open Floor Discussion
+      - Written Response
+      - Private Meeting
+      - Committee Review
+      - Board Discussion
+      - No Preference
+      required: false
+    - id: 13
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Are you attaching documents?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: document_details
+      label: Document Details
+      hint: Describe attached documents
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: presentation_request
+      label: Presentation Request
+      hint: Would you like to present?
+      type: select_one
+      options:
+      - Yes, I Want to Present
+      - No, Written is Fine
+      - Maybe
+      required: false
+    - id: 16
+      name: presentation_time
+      label: Presentation Time Needed
+      hint: How much time do you need?
+      type: select_one
+      options:
+      - 5 minutes
+      - 10 minutes
+      - 15 minutes
+      - 20 minutes
+      - Not Applicable
+      required: false
+    - id: 17
+      name: confidentiality
+      label: Confidentiality
+      hint: Should this be kept confidential?
+      type: select_one
+      options:
+      - Yes, Confidential
+      - No, Can Be Shared
+      - Board Only
+      required: false
+    - id: 18
+      name: response_needed
+      label: Response Needed
+      hint: Do you need a response?
+      type: select_one
+      options:
+      - Yes, Before Meeting
+      - Yes, At Meeting
+      - Yes, After Meeting
+      - No Response Needed
+      required: false
+    - id: 19
+      name: follow_up_contact
+      label: Follow-Up Contact
+      hint: Best way to reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No Contact Needed
+      required: false
+    - id: 20
+      name: previous_communication
+      label: Previous Communication
+      hint: Have you raised this before?
+      type: select_one
+      options:
+      - Yes, This is Ongoing
+      - No, First Time
+      required: false
+    - id: 21
+      name: previous_details
+      label: Previous Details
+      hint: Describe previous communications
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: member_since
+      label: Member Since
+      hint: Year you became a member
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: chapter_location
+      label: Chapter Location
+      hint: Your local chapter if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Golden Ticket Contest Registration
+    pages:
+    - id: 1
+      name: name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: select_multiple
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - '...'
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: eligibility
+      label: Are you 18 or older?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: terms
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: privacy
+      label: Privacy Policy
+      hint: null
+      type: note
+      options: []
+      required: false

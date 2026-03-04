@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spoken Word Event Reservation Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_name
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_organizer
+      label: Event Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_capacity
+      label: Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: event_registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Cancelled
+      required: true
+    - id: 12
+      name: event_registration_limit
+      label: Registration Limit
+      hint: null
+      type: select_multiple
+      options:
+      - Limited
+      - Unlimited
+      required: false

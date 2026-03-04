@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: program_id
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      required: false
+    - id: 7
+      name: program_name_1
+      label: Program 1 name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_name_2
+      label: Program 2 name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: program_name_3
+      label: Program 3 name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_admission
+      label: Date of Admission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_admission
+      label: Time of Admission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department_id
+      label: Department ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_status
+      label: Student Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_status_id
+      label: Student Status ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_status_code
+      label: Student Status Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_status_description
+      label: Student Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Regular''}'
+      - '{''value'': ''International''}'
+      - '{''value'': ''Transfer''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false

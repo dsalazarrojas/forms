@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cadet Program Registration
+    pages:
+    - id: 1
+      name: cadet_info_header
+      label: -- Cadet Applicant Information --
+      hint: Youth Leadership and Academy Enrollment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cadet_full_name
+      label: Cadet Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cadet_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: school_grade
+      label: Current School Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_header
+      label: -- Parent or Guardian Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guardian_name
+      label: Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_phone
+      label: Guardian Contact Phone
+      hint: primary emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_email
+      label: Guardian Email Address
+      hint: for program communications
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: medical_info_header
+      label: -- Medical and Health Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: allergies_medical_conditions
+      label: Known Allergies or Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medications_required
+      label: Any medications required during program hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fitness_level
+      label: Self-Assessed Physical Fitness Level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Need Accommodations
+      required: true
+    - id: 14
+      name: interest_reason
+      label: Why are you interested in the Cadet Program
+      hint: brief statement from the cadet
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: program_selection
+      label: Preferred Program Cycle
+      hint: null
+      type: select_one
+      options:
+      - Spring Semester
+      - Summer Intensive
+      - Fall Semester
+      - Annual Program
+      required: true
+    - id: 16
+      name: uniform_size_pref
+      label: Initial Uniform Size Estimate
+      hint: shirts/trousers
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 17
+      name: code_of_conduct_ack
+      label: I agree to abide by the Cadet Code of Conduct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
