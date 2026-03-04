@@ -1,0 +1,513 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dysphagia Assessment Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: swallowing_difficulties
+      label: Swallowing Difficulties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: swallowing_frequency
+      label: Swallowing Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: swallowing_pain
+      label: Swallowing Pain
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: swallowing_satisfaction
+      label: Swallowing Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: swallowing_frequency_2
+      label: Swallowing Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: swallowing_pain_2
+      label: Swallowing Pain 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: swallowing_satisfaction_2
+      label: Swallowing Satisfaction 2
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: swallowing_frequency_3
+      label: Swallowing Frequency 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: swallowing_pain_3
+      label: Swallowing Pain 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: swallowing_satisfaction_3
+      label: Swallowing Satisfaction 3
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 17
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: swallowing_frequency_4
+      label: Swallowing Frequency 4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: swallowing_pain_4
+      label: Swallowing Pain 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: swallowing_satisfaction_4
+      label: Swallowing Satisfaction 4
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 21
+      name: medical_history_3
+      label: Medical History 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: swallowing_frequency_5
+      label: Swallowing Frequency 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: swallowing_pain_5
+      label: Swallowing Pain 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: swallowing_satisfaction_5
+      label: Swallowing Satisfaction 5
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 25
+      name: additional_comments_3
+      label: Additional Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: swallowing_frequency_6
+      label: Swallowing Frequency 6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: swallowing_pain_6
+      label: Swallowing Pain 6
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: swallowing_satisfaction_6
+      label: Swallowing Satisfaction 6
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 29
+      name: medical_history_4
+      label: Medical History 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: swallowing_frequency_7
+      label: Swallowing Frequency 7
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: swallowing_pain_7
+      label: Swallowing Pain 7
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 32
+      name: swallowing_satisfaction_7
+      label: Swallowing Satisfaction 7
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 33
+      name: additional_comments_4
+      label: Additional Comments 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: swallowing_frequency_8
+      label: Swallowing Frequency 8
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 35
+      name: swallowing_pain_8
+      label: Swallowing Pain 8
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 36
+      name: swallowing_satisfaction_8
+      label: Swallowing Satisfaction 8
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 37
+      name: medical_history_5
+      label: Medical History 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: swallowing_frequency_9
+      label: Swallowing Frequency 9
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 39
+      name: swallowing_pain_9
+      label: Swallowing Pain 9
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 40
+      name: swallowing_satisfaction_9
+      label: Swallowing Satisfaction 9
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 41
+      name: additional_comments_5
+      label: Additional Comments 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: swallowing_frequency_10
+      label: Swallowing Frequency 10
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 43
+      name: swallowing_pain_10
+      label: Swallowing Pain 10
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 44
+      name: swallowing_satisfaction_10
+      label: Swallowing Satisfaction 10
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 45
+      name: medical_history_6
+      label: Medical History 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: swallowing_frequency_11
+      label: Swallowing Frequency 11
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 47
+      name: swallowing_pain_11
+      label: Swallowing Pain 11
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 48
+      name: swallowing_satisfaction_11
+      label: Swallowing Satisfaction 11
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 49
+      name: additional_comments_6
+      label: Additional Comments 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: swallowing_frequency_12
+      label: Swallowing Frequency 12
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 51
+      name: swallowing_pain_12
+      label: Swallowing Pain 12
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 52
+      name: swallowing_satisfaction_12
+      label: Swallowing Satisfaction 12
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 53
+      name: medical_history_7
+      label: Medical History 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: swallowing_frequency_13
+      label: Swallowing Frequency 13
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 55
+      name: swallowing_pain_13
+      label: Swallowing Pain 13
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 56
+      name: swallowing_satisfaction_13
+      label: Swallowing Satisfaction 13
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 57
+      name: additional_comments_7
+      label: Additional Comments 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: swallowing_frequency_14
+      label: Swallowing Frequency 14
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 59
+      name: swallowing_pain_14
+      label: Swallowing Pain 14
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 60
+      name: swallowing_satisfaction_14
+      label: Swallowing Satisfaction 14
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

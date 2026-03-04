@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flu Vaccine Declination Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccination_history
+      label: Vaccination History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: decline_reason
+      label: Decline Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: flu_season
+      label: Flu Season
+      hint: Which flu season would you like to decline vaccination for?
+      type: select_one
+      options:
+      - Spring
+      - Fall
+      required: false
+    - id: 5
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Influenza Type A
+      - Influenza Type B
+      - Pandemic Influenza
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_info
+      label: Doctor's Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_declined
+      label: Date Declined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: doctor_signature
+      label: Doctor's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_signature
+      label: Medical Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: patient_signature
+      label: Patient's Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_title
+      label: Doctor's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_facility
+      label: Doctor's Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_address
+      label: Doctor's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_email
+      label: Doctor's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I understand I will receive the vaccine
+      - I do not understand I will not receive the vaccine
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Verification Form
+    pages:
+    - id: 1
+      name: new_employment
+      label: New Employment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ssn
+      label: Ssn
+      hint: Enter your Social Security number
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_license_state
+      label: Driver License State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Florida
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: Enter your employee ID
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employee_id_type
+      label: Employee ID Type
+      hint: null
+      type: select_one
+      options:
+      - W-2
+      - O-1
+      - O-4
+      required: false
+    - id: 9
+      name: ssn_issue_date
+      label: Ssn Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: driver_license_issue_date
+      label: Driver License Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false

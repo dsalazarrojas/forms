@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Survey
+    pages:
+    - id: 1
+      name: social_media_survey
+      label: Social Media Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketer Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: What are you trying to learn about?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: age_range
+      label: Age Range
+      hint: Select an age range.
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: false
+    - id: 10
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: country_of_residence
+      label: Country of Residence
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - China
+      - Japan
+      - India
+      - Other
+      required: false
+    - id: 12
+      name: social_media_channels
+      label: Social Media Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - Reddit
+      - TikTok
+      - YouTube
+      - Pinterest
+      - Snapchat
+      - Other
+      required: false
+    - id: 13
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: marketing_budget
+      label: Marketing Budget
+      hint: Select an approximate budget range.
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: frequency
+      label: How often do you post on social media?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: false
+    - id: 16
+      name: duration
+      label: How long have you been active on social media?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: false
+    - id: 17
+      name: reasons_for_participation
+      label: Why do you participate in social media?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: primary_device
+      label: Primary Device
+      hint: null
+      type: select_one
+      options:
+      - Desktop
+      - Tablet
+      - Mobile
+      - Other
+      required: false
+    - id: 19
+      name: browser
+      label: Browser
+      hint: null
+      type: select_one
+      options:
+      - Google Chrome
+      - Mozilla Firefox
+      - Safari
+      - Microsoft Edge
+      - Other
+      required: false
+    - id: 20
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      - Other
+      required: false

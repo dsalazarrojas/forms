@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_testimonial_collection_form
+    pages:
+    - id: 1
+      name: testimonial_title
+      label: Website Testimonial Collection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testimonial_description
+      label: Enter your testimonial
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: testimonial_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: testimonial_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: testimonial_message
+      label: Your Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: testimonial_agreement
+      label: I have read and agreed to the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I have read and agreed to the terms and conditions
+      - I have not read or agreed to the terms and conditions
+      required: false
+    - id: 7
+      name: testimonial_terms
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: testimonial_uploads
+      label: Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: testimonial_uploads_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - image/jpeg
+      - image/png
+      - image/bmp
+      required: false
+    - id: 10
+      name: testimonial_uploads_value
+      label: Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: testimonial_uploads_value_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: testimonial_uploads_file
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: testimonial_uploads_file_2
+      label: Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false

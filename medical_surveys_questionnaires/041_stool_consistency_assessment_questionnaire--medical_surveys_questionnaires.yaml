@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stool Consistency Assessment Questionnaire
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Bowel movements frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Stool consistency
+      hint: null
+      type: select_one
+      options:
+      - Liquid
+      - Soft
+      - Medium
+      - Hard
+      - Very hard
+      required: false
+    - id: 4
+      name: question_3
+      label: Stool color
+      hint: null
+      type: select_multiple
+      options:
+      - Brown
+      - Green
+      - Black
+      - Red
+      - Blood-stained
+      - White
+      required: false
+    - id: 5
+      name: question_4
+      label: Stool odors
+      hint: None = not present
+      type: select_multiple
+      options:
+      - Strong
+      - Weak
+      - None
+      - Abnormal
+      required: false
+    - id: 6
+      name: question_5
+      label: Stool mucus amount
+      hint: None = no mucus
+      type: select_multiple
+      options:
+      - Small amount
+      - Moderate amount
+      - Large amount
+      - None
+      required: false
+    - id: 7
+      name: question_6
+      label: Stool shape
+      hint: null
+      type: select_one
+      options:
+      - Normal shape
+      - Sausage shape
+      - Ball or pellet
+      - Amorphous shape
+      required: false
+    - id: 8
+      name: question_7
+      label: Stool size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: Stool texture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: Abdominal pain after bowel movements
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 11
+      name: question_10
+      label: Diarrhea symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 12
+      name: question_11
+      label: Stool passage duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: How often do you experience bowel movements?
+      hint: null
+      type: select_one
+      options:
+      - Less than once a day
+      - Once a day
+      - 2 to 3 times a day
+      - More than 3 times a day
+      required: false
+    - id: 14
+      name: question_13
+      label: Stool color when passing gas?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Brown
+      - Red
+      - Green
+      required: false
+    - id: 15
+      name: question_14
+      label: Do you use fiber supplements?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: question_15
+      label: Do you experience abdominal cramps after bowel movements?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: question_16
+      label: Have you been experiencing any other symptoms?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Abdominal pain
+      - Bloating
+      - Nausea
+      - Vomiting
+      - Diarrhea
+      - Abdominal cramps
+      - Blood in stool
+      - Mucus in stool
+      - Other
+      required: false

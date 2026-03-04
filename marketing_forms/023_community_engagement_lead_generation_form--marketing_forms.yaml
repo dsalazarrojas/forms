@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Engagement Lead Generation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_organization
+      label: Company or Organization
+      hint: Where do you work or volunteer?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: interest_area
+      label: Area of Interest
+      hint: What interests you most?
+      type: select_one
+      options:
+      - Community Events
+      - Volunteer Opportunities
+      - Local Business
+      - Education Programs
+      - Health and Wellness
+      - Arts and Culture
+      - Environmental Initiatives
+      - Youth Programs
+      required: true
+    - id: 10
+      name: engagement_level
+      label: Desired Engagement Level
+      hint: How involved do you want to be?
+      type: select_one
+      options:
+      - Very Active
+      - Moderately Active
+      - Occasionally Active
+      - Just Information
+      required: true
+    - id: 11
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you learn about us?
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family
+      - Event
+      - Advertisement
+      - Email
+      - Other
+      required: true
+    - id: 12
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      required: true
+    - id: 13
+      name: contact_frequency
+      label: Preferred Contact Frequency
+      hint: How often should we contact you?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Only for Major Events
+      required: true
+    - id: 14
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to volunteer?
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Maybe
+      - false
+      required: true
+    - id: 15
+      name: skills_to_offer
+      label: Skills You Can Offer
+      hint: What skills can you contribute?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability
+      label: Availability
+      hint: When are you available?
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      - Weekend Evenings
+      required: false
+    - id: 17
+      name: newsletter_signup
+      label: Sign Up for Newsletter
+      hint: Receive our regular updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: social_media
+      label: Social Media Handles
+      hint: Your social media usernames
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you want to share?
+      type: text
+      options: []
+      required: false

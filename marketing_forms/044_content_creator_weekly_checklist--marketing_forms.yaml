@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Creator Weekly Checklist
+    pages:
+      - id: 1
+        name: section_checklist_info
+        label: -- Weekly Checklist Details --
+        hint: Please complete this checklist for each week of content creation.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: creator_name
+        label: Content Creator Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: week_start_date
+        label: Week Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: section_content_planning
+        label: -- Content Planning and Tracking --
+        hint: Please share details for each piece of content planned for the week.
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: content_item_1_title
+        label: Content Item 1 Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: content_item_1_status
+        label: Content Item 1 Status
+        hint: null
+        type: select_one
+        options: [Planned, In Progress, Completed, Published, Delayed]
+        required: true
+      - id: 7
+        name: content_item_1_publish_date
+        label: Content Item 1 Publish Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: content_item_1_platform
+        label: Content Item 1 Platform
+        hint: null
+        type: select_one
+        options: [Instagram, TikTok, YouTube, Twitter, LinkedIn, Facebook, Blog, Other]
+        required: true
+      - id: 9
+        name: section_collaborators_confirmation
+        label: -- Collaborators and Confirmation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: collaborator_names
+        label: Names of Collaborators for the Week
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: content_item_2_title
+        label: Content Item 2 Title (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: section_confirmation
+        label: -- Confirmation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: checklist_completed
+        label: Checklist Completed?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 14
+        name: signature_confirmation
+        label: I confirm that the information provided is accurate
+        hint: null
+        type: select_one
+        options: [I Agree, I Disagree]
+        required: true
+      - id: 15
+        name: privacy_agreement
+        label: I have read and agree to the privacy policy regarding my data
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 16
+        name: checklist_submission_date
+        label: Date of Checklist Submission
+        hint: null
+        type: date
+        options: []
+        required: true

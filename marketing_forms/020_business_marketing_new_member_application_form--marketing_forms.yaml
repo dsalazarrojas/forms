@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Marketing New Member Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_title
+      label: Job Title
+      hint: Your position in the company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_phone
+      label: Company Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Full website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_email
+      label: Company Email
+      hint: General business email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Primary business category
+      type: select_one
+      options:
+      - Advertising
+      - Consulting
+      - Finance
+      - Healthcare
+      - Legal
+      - Manufacturing
+      - Real estate
+      - Retail
+      - Technology
+      - Other
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: How long has your company operated
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total employees in your company
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: membership_type
+      label: Membership Type
+      hint: Type of membership you are applying for
+      type: select_one
+      options:
+      - Individual
+      - Small business - 1 to 10 employees
+      - Medium business - 11 to 50 employees
+      - Large business - 51 plus employees
+      - Non-profit
+      - Student
+      required: true
+    - id: 12
+      name: marketing_goals
+      label: Marketing Goals
+      hint: What are your primary marketing objectives
+      type: select_multiple
+      options:
+      - Brand awareness
+      - Lead generation
+      - Customer retention
+      - Social media growth
+      - Website traffic
+      - Sales increase
+      - Market expansion
+      - Product launch
+      required: true
+    - id: 13
+      name: current_marketing_channels
+      label: Current Marketing Channels
+      hint: Select all channels you currently use
+      type: select_multiple
+      options:
+      - Social media
+      - Email marketing
+      - Content marketing
+      - SEO
+      - Paid advertising
+      - Print media
+      - Events
+      - Referrals
+      - None
+      required: true
+    - id: 14
+      name: marketing_budget
+      label: Monthly Marketing Budget
+      hint: Approximate monthly marketing spend
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1000
+      - $1000 to $5000
+      - $5000 to $10000
+      - Over $10000
+      required: false
+    - id: 15
+      name: challenges_faced
+      label: Marketing Challenges
+      hint: What marketing challenges do you face
+      type: select_multiple
+      options:
+      - Limited budget
+      - Lack of expertise
+      - Time constraints
+      - Measuring ROI
+      - Generating leads
+      - Competition
+      - Brand recognition
+      - Digital transformation
+      required: true
+    - id: 16
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Member referral
+      - Online search
+      - Social media
+      - Event
+      - Advertisement
+      - Other
+      required: true
+    - id: 17
+      name: referrer_name
+      label: Referrer Name
+      hint: Who referred you if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: networking_interest
+      label: Networking Interest
+      hint: How interested are you in networking opportunities
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not interested
+      required: true
+    - id: 19
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you be interested in volunteering for the organization
+      type: select_one
+      options:
+      - Yes - definitely
+      - Maybe - depends on opportunity
+      - No - not at this time
+      required: false
+    - id: 20
+      name: committee_preferences
+      label: Committee Preferences
+      hint: Select committees you would like to join
+      type: select_multiple
+      options:
+      - Membership
+      - Programs
+      - Marketing
+      - Community outreach
+      - Professional development
+      - Events
+      - None
+      required: false
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

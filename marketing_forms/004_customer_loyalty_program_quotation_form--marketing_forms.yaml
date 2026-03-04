@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Program Quotation Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: Customer First Name
+      hint: Enter the customer's first name.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Customer Last Name
+      hint: Enter the customer's last name.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: Select the type of program you want to offer.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter the customer's email address.
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter the customer's phone number.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_notes
+      label: Customer Notes
+      hint: Enter any additional notes about the customer.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: customer_program_preferences
+      label: Customer Program Preferences
+      hint: Select the customer's preferred program details.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: quotation_quoted_price
+      label: Quotation Quoted Price
+      hint: Enter the quoted price for the loyalty program.
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quotation_terms_and_conditions
+      label: Quotation Terms and Conditions
+      hint: Enter the terms and conditions for the loyalty program.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_notes
+      label: Business Notes
+      hint: Enter any additional business notes.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sales_person
+      label: Sales Person
+      hint: Enter the sales person responsible for the customer.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: customer_program_start_date
+      label: Customer Program Start Date
+      hint: Select the start date for the customer's program.
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: customer_program_end_date
+      label: Customer Program End Date
+      hint: Select the end date for the customer's program.
+      type: date
+      options: []
+      required: true

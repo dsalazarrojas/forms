@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Rejuvenation Assessment
+    pages:
+    - id: 1
+      name: patient_rejuvenation_assessment_page
+      label: Section 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_concerns
+      label: Patient Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rejuvenation_plan
+      label: Rejuvenation Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assistance_needed
+      label: Assistance Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_status
+      label: Patient Status
+      hint: Please provide your current patient status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 9
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: rejuvenation_notes
+      label: Rejuvenation Notes
+      hint: Please provide any other information that will help with the patient's
+        rejuvenation
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: next_contact_date
+      label: Next Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: next_contact_time
+      label: Next Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: provider_notes
+      label: Provider Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: provider_id
+      label: Provider ID
+      hint: Please provide your provider ID
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: assistant_needed
+      label: Assistant Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_follow_up_time
+      label: Next Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: provider_title
+      label: Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: provider_email
+      label: Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false

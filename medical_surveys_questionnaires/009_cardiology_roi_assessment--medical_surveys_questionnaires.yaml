@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology ROI Assessment
+    pages:
+    - id: 1
+      name: institutional_info_header
+      label: -- Institutional Evaluation Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institution_clinic_name
+      label: Institution or Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_assessor_name
+      label: Evaluator/Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_period_dates
+      label: Evaluation Period
+      hint: e.g., FY 2024 or Q1-Q3 2025
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: procedure_metrics_header
+      label: -- Procedure and Volume Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: procedure_volume_total
+      label: Total Procedure Volume
+      hint: Total number of procedures during period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: average_cost_per_procedure
+      label: Average Cost per Procedure
+      hint: Standardized cost including materials and labor
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: outcome_improvement_header
+      label: -- Outcome and Quality Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: outcome_improvement_percent
+      label: Outcome Improvement Percentage
+      hint: Measured by standard clinical benchmarks
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: complication_rate_reduction
+      label: Complication Rate Reduction
+      hint: Percentage decrease compared to baseline
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: staff_productivity_gain_header
+      label: -- Efficiency and Productivity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: staff_productivity_gain_rating
+      label: Staff Productivity Gain
+      hint: Select the observed gain level
+      type: select_one
+      options:
+      - label: Significant Gain (>20%)
+        value: significant
+      - label: Moderate Gain (10-20%)
+        value: moderate
+      - label: Slight Gain (0-10%)
+        value: slight
+      - label: No Change
+        value: none
+      required: true
+    - id: 13
+      name: financial_roi_estimate
+      label: Estimated Financial ROI
+      hint: Total net savings or gain (USD)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: value_based_care_alignment
+      label: Value-Based Care Alignment Rating
+      hint: 1 - Poorly Aligned, 5 - Perfectly Aligned
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: assessment_conclusion_notes
+      label: Assessment Conclusion and Notes
+      hint: Summary of ROI analysis
+      type: text
+      options: []
+      required: false

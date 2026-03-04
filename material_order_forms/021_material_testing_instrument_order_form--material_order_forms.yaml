@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Testing Instrument Order Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument_id
+      label: Instrument ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: instrument_model
+      label: Instrument Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: instrument_price
+      label: Instrument Price
+      hint: Enter instrument price
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: Customer Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: order_note
+      label: Order Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: material_testing
+      label: Material Testing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: instrument_testing
+      label: Instrument Testing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: material_sourcing
+      label: Material Sourcing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: instrument_requisition
+      label: Instrument Requisition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: instrument_return
+      label: Instrument Return
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Please provide any additional comments about this order.
+      type: text
+      options: []
+      required: false

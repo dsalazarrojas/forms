@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Audit Form
+    pages:
+    - id: 1
+      name: marketing_campaign_audit_form
+      label: Marketing Campaign Audit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_strategy
+      label: Strategy
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: marketing_channel
+      label: Marketing Channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: audited_by
+      label: Audited By
+      hint: Enter the name of the person who audited this campaign
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: marketing_objective
+      label: Marketing Objective
+      hint: What was the objective of this campaign?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: marketing_tactics
+      label: Marketing Tactics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: results
+      label: Results
+      hint: Please provide any notable results from this campaign
+      type: text
+      options: []
+      required: false

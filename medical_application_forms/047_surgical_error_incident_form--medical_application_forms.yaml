@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Error Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: surgeon_name
+      label: Surgeon Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: procedure_name
+      label: Procedure Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: error_type
+      label: Error Type
+      hint: Select a type
+      type: select_one
+      options:
+      - Surgical Error
+      - Medical Error
+      - Other
+      required: false
+    - id: 7
+      name: error_description
+      label: Error Description
+      hint: Briefly describe the error
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: error_location
+      label: Error Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: error_cause
+      label: Error Cause
+      hint: Select a cause
+      type: select_multiple
+      options:
+      - Surgeon
+      - Anesthesia
+      - Equipment
+      - Other
+      required: false
+    - id: 10
+      name: corrective_action
+      label: Corrective Action
+      hint: Describe action taken
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporter
+      label: Incident Reporter
+      hint: Select a reporter
+      type: select_one
+      options:
+      - Doctor
+      - Nurse
+      - Other
+      required: false
+    - id: 12
+      name: incident_reporter_name
+      label: Incident Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Select a reviewer
+      type: select_one
+      options:
+      - Doctor
+      - Supervisor
+      required: false
+    - id: 16
+      name: review_comments
+      label: Review Comments
+      hint: Comments
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: incident_review
+      label: Incident Review
+      hint: Select a reviewer
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      required: false
+    - id: 18
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reviewed_by
+      label: Reviewed By
+      hint: Select a reviewer
+      type: select_one
+      options:
+      - Doctor
+      - Supervisor
+      required: false

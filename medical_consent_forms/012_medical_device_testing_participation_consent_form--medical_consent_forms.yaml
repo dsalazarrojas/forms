@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Testing Participation Consent Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: testing_device_details
+      label: Testing Device Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: testing_procedures
+      label: Testing Procedures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: testing_date
+      label: Testing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: testing_time
+      label: Testing Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: testing_duration
+      label: Testing Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: testing_status
+      label: Testing Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Ongoing
+      - Pending
+      required: true
+    - id: 17
+      name: testing_status_notes
+      label: Testing Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: study_description
+      label: Study Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: testing_device_type
+      label: Testing Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - Medical Device
+      - Surgical Device
+      - Diagnostic Device
+      required: true
+    - id: 21
+      name: testing_device_model
+      label: Testing Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: testing_device_manufacturer
+      label: Testing Device Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: testing_device_serial_number
+      label: Testing Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: testing_device_software_version
+      label: Testing Device Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: testing_device_notes
+      label: Testing Device Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Review Checklist
+    pages:
+    - id: 1
+      name: patient_medication_history
+      label: Patient Medication History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medication_side_effects
+      label: Medication Side Effects
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergy_info
+      label: Allergy Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medication_list
+      label: Medication List
+      hint: None
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: dosing_info
+      label: Dosing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_frequency
+      label: Medication Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication_duration
+      label: Medication Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_route
+      label: Medication Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_form
+      label: Medication Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication_strength
+      label: Medication Strength
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_other
+      label: Medication Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_medication_other_info
+      label: Other
+      hint: None
+      type: text
+      options: []
+      required: false

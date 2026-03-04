@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Journal Template
+    pages:
+    - id: 1
+      name: daily_mood
+      label: Daily Mood
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: emotions
+      label: Emotions
+      hint: null
+      type: select_multiple
+      options:
+      - Happy
+      - Anxious
+      - Angry
+      - Sad
+      - Frustrated
+      required: false
+    - id: 3
+      name: thoughts
+      label: Thoughts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: physical_pain
+      label: Physical Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_support
+      label: Social Support
+      hint: null
+      type: select_one
+      options:
+      - Family
+      - Friends
+      - Partner
+      - Alone
+      required: false
+    - id: 7
+      name: sleep
+      label: Sleep
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: exercise
+      label: Exercise
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: mental_health_professional
+      label: Mental Health Professional
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: mental_health_notes
+      label: Mental Health Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: mental_health_progress
+      label: Mental Health Progress
+      hint: null
+      type: select_one
+      options:
+      - Progress
+      - No Progress
+      - Unknown
+      - Stopped Making Progress
+      required: false

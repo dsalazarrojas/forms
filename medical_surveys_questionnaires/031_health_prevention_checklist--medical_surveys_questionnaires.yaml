@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Prevention Checklist
+    pages:
+    - id: 1
+      name: recent_checkups
+      label: Recent Checkups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: healthy_habits
+      label: Healthy Habits
+      hint: null
+      type: select_one
+      options:
+      - habit1
+      - habit2
+      - habit3
+      required: false
+    - id: 3
+      name: lifestyle_behaviors
+      label: Lifestyle Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_procedure
+      label: Medical Procedure
+      hint: Please list medical procedures you have undergone.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: health_club
+      label: Health Club
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_checkup
+      label: Medical Checkup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: health_prevention
+      label: Health Prevention
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: wellness_coaches
+      label: Wellness Coaches
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: clinics
+      label: Clinics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: recent_vaccines
+      label: Recent Vaccines
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

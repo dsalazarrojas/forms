@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal-collection-blogger-engagement
+    pages:
+    - id: 1
+      name: seasonal_collection_blogger_engagement
+      label: seasonal collection blogger engagement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: blog_name
+      label: blog-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: blog_url
+      label: blog-url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: blog_username
+      label: blog-username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: blog_email
+      label: blog-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: blog_phone
+      label: blog-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: social_media
+      label: social-media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - Pinterest
+      required: true
+    - id: 8
+      name: blog_description
+      label: blog-description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: blog_website
+      label: blog-website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: blog_platform
+      label: blog-platform
+      hint: null
+      type: select_one
+      options:
+      - YouTube
+      - TikTok
+      - Twitch
+      - Vimeo
+      - Instagram
+      required: true
+    - id: 11
+      name: outreach_preferences
+      label: outreach-preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

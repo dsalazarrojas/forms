@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Automated Publication Scheduling
+    pages:
+      - id: 1
+        name: section_header_content
+        label: -- Content Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: content_title
+        label: Content Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: content_type
+        label: Content Type
+        hint: null
+        type: select_one
+        options:
+          - Blog Post
+          - Video
+          - Infographic
+          - Podcast
+          - Social Media Post
+          - Whitepaper
+          - Case Study
+          - Other
+        required: true
+      - id: 4
+        name: content_description
+        label: Content Description
+        hint: Brief summary of the content
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_header_author
+        label: -- Author and Department --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: author_name
+        label: Author Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: author_email
+        label: Author Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: department
+        label: Department
+        hint: null
+        type: select_one
+        options:
+          - Marketing
+          - Sales
+          - Product
+          - HR
+          - Communications
+          - Other
+        required: true
+      - id: 9
+        name: section_header_publish
+        label: -- Publication Settings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: publish_date
+        label: Desired Publication Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: publish_time
+        label: Desired Publication Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 12
+        name: publication_channels
+        label: Publication Channels
+        hint: Select all channels where this should be published
+        type: select_multiple
+        options:
+          - Blog
+          - LinkedIn
+          - Twitter
+          - Facebook
+          - Instagram
+          - Email Newsletter
+          - Website Homepage
+        required: true
+      - id: 13
+        name: section_header_seo
+        label: -- SEO and Metadata --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: seo_title
+        label: SEO Title (Page Title)
+        hint: 50-60 characters recommended
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: meta_description
+        label: Meta Description
+        hint: 150-160 characters recommended
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: keywords
+        label: Keywords
+        hint: Comma-separated list
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: section_header_campaign
+        label: -- Campaign Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: campaign_name
+        label: Campaign Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: target_audience
+        label: Target Audience
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: call_to_action
+        label: Call to Action
+        hint: What should readers do after viewing
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: section_header_review
+        label: -- Review and Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: approval_status
+        label: Review Status
+        hint: null
+        type: select_one
+        options:
+          - Ready to Publish
+          - Pending Review
+          - Needs Revision
+          - Approved
+        required: true
+      - id: 23
+        name: reviewer_name
+        label: Assigned Reviewer
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: schedule_email_notification
+        label: Send notification on publish date
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true

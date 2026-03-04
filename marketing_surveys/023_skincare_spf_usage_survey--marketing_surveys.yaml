@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare SPF Usage Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: sunscreens-used
+      hint: null
+      type: select_one
+      options:
+      - Barefoot
+      - Face cream
+      - Hands cream
+      - Hands soap
+      - Lip balm
+      - Make-up
+      - Neck cream
+      - Other (Please specify)
+      - Shaving cream
+      - Skincare products
+      required: true
+    - id: 2
+      name: page_2
+      label: how-often
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 time a week
+      - 1 time a week
+      - 2-3 times a week
+      - 4-5 times a week
+      - More than 5 times a week
+      required: true
+    - id: 3
+      name: page_3
+      label: spf-rating
+      hint: On a scale from 0 to 10
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: page_4
+      label: sunscreen-used-at-night
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: page_5
+      label: sunscreen-ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - Zinc Oxide
+      - Titanium Dioxide
+      - Octocrylene
+      - Octinoxate
+      required: true
+    - id: 6
+      name: page_6
+      label: skin-type
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Combination
+      - Dry
+      - Sensitive
+      - Oily
+      - Other (Please specify)
+      required: true
+    - id: 7
+      name: page_7
+      label: sunscreen-when-outdoors
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: page_8
+      label: sunscreen-when-indoor
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 9
+      name: page_9
+      label: sunscreen-when-sleep
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: page_10
+      label: sunscreen-when-recreate
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: page_11
+      label: sunscreen-when-recharge
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: page_12
+      label: sunscreen-when-physical-activity
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: page_13
+      label: sunscreen-when-summer
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: page_14
+      label: sunscreen-when-weather-is
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 15
+      name: page_15
+      label: sunscreen-when-wet-skin
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: page_16
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: page_17
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: page_18
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: page_19
+      label: confirm-spf
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: page_20
+      label: spf-amount-used
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: page_21
+      label: sunscreen-type
+      hint: null
+      type: select_one
+      options:
+      - Chemical
+      - Physical
+      required: true
+    - id: 22
+      name: page_22
+      label: brand
+      hint: null
+      type: select_one
+      options:
+      - Brand 1
+      - Brand 2
+      - Brand 3
+      required: true
+    - id: 23
+      name: page_23
+      label: other-spf
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: page_24
+      label: spf-questions
+      hint: null
+      type: select_multiple
+      options:
+      - How often do you use sunscreen?
+      - How often do you use sunscreen?
+      - How often do you use sunscreen?
+      - How often do you use sunscreen?
+      required: true
+    - id: 25
+      name: page_25
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: true

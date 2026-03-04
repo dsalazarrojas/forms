@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: UV Water System Installation And Maintenance Request
+    pages:
+    - id: 1
+      name: form_section_1
+      label: uv_water_system_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_section_2
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - Water System Installation
+      - Maintenance Request
+      required: false
+    - id: 3
+      name: form_section_3
+      label: service_details
+      hint: Provide service details, e.g. "Replace UV light"
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_section_4
+      label: schedule_visit
+      hint: Schedule a visit
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_section_5
+      label: service_date
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_section_6
+      label: service_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_section_7
+      label: contact_name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_section_8
+      label: email_address
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: form_section_9
+      label: contact_phone
+      hint: Enter contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_section_10
+      label: form_section_11
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_section_12
+      label: form_section_12
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: form_section_13
+      label: form_section_13
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_section_14
+      label: form_section_14
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

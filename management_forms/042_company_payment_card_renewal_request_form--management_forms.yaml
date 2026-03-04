@@ -1,0 +1,389 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Payment Card Renewal Request Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: For approval
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: card_type
+      label: Type of Card
+      hint: Card type
+      type: select_one
+      options:
+      - Corporate Credit Card
+      - Corporate Debit Card
+      - Purchasing Card (P-Card)
+      - Travel Card
+      - Fuel Card
+      - Other
+      required: true
+    - id: 11
+      name: card_issuer
+      label: Card Issuer/Bank
+      hint: Bank name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: card_last_four
+      label: Current Card Last Four Digits
+      hint: Last 4 digits of expiring card
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: card_expiry_date
+      label: Current Card Expiry Date
+      hint: When does it expire?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: renewal_reason
+      label: Reason for Renewal Request
+      hint: Why renew?
+      type: select_one
+      options:
+      - Card expiring soon
+      - Card damaged
+      - Card lost/stolen
+      - Need replacement
+      - Upgrading card type
+      - Other
+      required: true
+    - id: 15
+      name: renewal_details
+      label: Please provide more details
+      hint: Explanation
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_card_usage
+      label: -- Card Usage --
+      hint: Usage information
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: card_usage_frequency
+      label: How often do you use the card?
+      hint: Usage pattern
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 18
+      name: average_monthly_spend
+      label: Average Monthly Spend
+      hint: Approximate amount
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1,000
+      - $1,001-$2,500
+      - $2,501-$5,000
+      - $5,001-$10,000
+      - Over $10,000
+      required: true
+    - id: 19
+      name: primary_expense_categories
+      label: Primary Expense Categories
+      hint: What do you spend on?
+      type: select_multiple
+      options:
+      - Travel
+      - Meals and entertainment
+      - Office supplies
+      - Software subscriptions
+      - Equipment
+      - Services
+      - Training
+      - Other
+      required: true
+    - id: 20
+      name: expense_compliance
+      label: Have you been compliant with expense policies?
+      hint: Policy adherence
+      type: select_one
+      options:
+      - Yes, fully compliant
+      - Yes, with minor issues
+      - No, some violations
+      - Not sure
+      required: true
+    - id: 21
+      name: outstanding_expenses
+      label: Do you have outstanding expense reports?
+      hint: Pending reports
+      type: select_one
+      options:
+      - No, all submitted
+      - Yes, 1 pending
+      - Yes, multiple pending
+      required: true
+    - id: 22
+      name: section_renewal
+      label: -- Renewal Preferences --
+      hint: Renewal options
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: request_same_limits
+      label: Do you want to keep the same credit limit?
+      hint: Credit limit
+      type: select_one
+      options:
+      - Yes, keep same limit
+      - No, request increase
+      - No, request decrease
+      required: true
+    - id: 24
+      name: current_limit
+      label: Current Credit Limit
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: requested_limit
+      label: Requested Credit Limit
+      hint: If changing
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: limit_increase_justification
+      label: Justification for Limit Increase
+      hint: Why increase needed?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: delivery_preference
+      label: How should the new card be delivered?
+      hint: Delivery method
+      type: select_one
+      options:
+      - Mail to office
+      - Mail to home
+      - Pick up at Finance
+      - Pick up at HR
+      required: true
+    - id: 28
+      name: home_address
+      label: Home Address (if mailing to home)
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: name_on_card
+      label: Name as it should appear on card
+      hint: Exactly as you want it
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: section_old_card
+      label: -- Old Card Disposition --
+      hint: Returning old card
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: old_card_status
+      label: What is the status of your old card?
+      hint: Card condition
+      type: select_one
+      options:
+      - Still in possession
+      - Will return to Finance
+      - Already returned
+      - Lost
+      - Stolen
+      required: true
+    - id: 32
+      name: card_return_date
+      label: When will you return the old card?
+      hint: Return date
+      type: date
+      options: []
+      required: false
+    - id: 33
+      name: section_declaration
+      label: -- Declaration --
+      hint: Cardholder agreement
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: agree_card_policy
+      label: I have read and agree to the card policy
+      hint: Policy agreement
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Need to Review
+      required: true
+    - id: 35
+      name: agree_responsible_use
+      label: I agree to use the card responsibly
+      hint: Responsible use
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 36
+      name: agree_timely_reporting
+      label: I agree to submit expense reports on time
+      hint: Timely reporting
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 37
+      name: employee_signature
+      label: Employee Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: section_manager_approval
+      label: -- Manager Approval --
+      hint: For manager
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: manager_approval_status
+      label: Manager Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 40
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 41
+      name: manager_comments
+      label: Manager Comments
+      hint: Any notes
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: section_finance
+      label: -- Finance Processing --
+      hint: For finance use
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: finance_approval_status
+      label: Finance Approval
+      hint: Finance review
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 44
+      name: new_card_requested_date
+      label: Date New Card Requested
+      hint: When requested from bank
+      type: date
+      options: []
+      required: false
+    - id: 45
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: When expected
+      type: date
+      options: []
+      required: false
+    - id: 46
+      name: processed_by
+      label: Processed By
+      hint: Finance staff
+      type: text
+      options: []
+      required: false

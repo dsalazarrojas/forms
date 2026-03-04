@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insomnia Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sleep_time
+      label: sleep_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: difficulty_falling_asleep
+      label: difficulty_falling_asleep
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Almost every night''}'
+      - '{''id'': 3, ''label'': ''1-2 nights a week''}'
+      - '{''id'': 4, ''label'': ''3-5 nights a week''}'
+      - '{''id'': 5, ''label'': ''Every night''}'
+      required: true
+    - id: 4
+      name: wake_up_time
+      label: wake_up_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sleep_disorder
+      label: sleep_disorder
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Insomnia''}'
+      - '{''id'': 3, ''label'': ''Sleep Apnea''}'
+      - '{''id'': 4, ''label'': ''Sleep Movement Disorder''}'
+      - '{''id'': 5, ''label'': ''Restless Legs Syndrome''}'
+      required: true
+    - id: 6
+      name: anxiety_fear
+      label: anxiety_fear
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stress_level
+      label: stress_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Almost always''}'
+      - '{''id'': 3, ''label'': ''Some days''}'
+      - '{''id'': 4, ''label'': ''Most days''}'
+      required: true
+    - id: 8
+      name: physical_discomfort
+      label: physical_discomfort
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Back pain''}'
+      - '{''id'': 2, ''label'': ''Headache''}'
+      - '{''id'': 3, ''label'': ''Cough''}'
+      - '{''id'': 4, ''label'': ''Muscle fatigue''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: medication
+      label: medication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Melatonin''}'
+      - '{''id'': 3, ''label'': ''Sleeping pill''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''High Blood Pressure''}'
+      - '{''id'': 3, ''label'': ''Heart disease''}'
+      - '{''id'': 4, ''label'': ''Diabetes''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: smoking_status
+      label: smoking_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never smoked''}'
+      - '{''id'': 2, ''label'': ''Currently a smoker''}'
+      - '{''id'': 3, ''label'': ''Former smoker''}'
+      required: true
+    - id: 12
+      name: doctor_visit
+      label: doctor_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: doctor_visit_note
+      label: doctor_visit_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false

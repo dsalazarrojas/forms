@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Rehabilitation Progress Assessment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Initial
+      - Follow-up
+      - Discharge
+      required: false
+    - id: 5
+      name: assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: pain_score
+      label: Pain Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: functional_ability
+      label: Functional Ability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_goal
+      label: Treatment Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: therapist_goals
+      label: Therapist Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: false

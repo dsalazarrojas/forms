@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Exchanger Assembly Order Form
+    pages:
+    - id: 1
+      name: form_1
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: heat_exchanger_assembly
+      hint: null
+      type: select_one
+      options:
+      - Heat Exchanger Assembly 1
+      - Heat Exchanger Assembly 2
+      - Heat Exchanger Assembly 3
+      required: false
+    - id: 6
+      name: form_6
+      label: material_type
+      hint: null
+      type: select_multiple
+      options:
+      - Material 1
+      - Material 2
+      - Material 3
+      required: false
+    - id: 7
+      name: form_7
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: form_10
+      hint: null
+      type: select_multiple
+      options:
+      - Select Option 1
+      - Select Option 2
+      - Select Option 3
+      required: false
+    - id: 11
+      name: form_11
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

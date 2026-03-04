@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_visit
+      label: Date of Visit
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'null'
+      - Peanut Allergy
+      - Latex Allergy
+      - Other (specify)
+      required: false
+    - id: 10
+      name: preferred_treatment
+      label: Preferred Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Facials
+      - Massage
+      - Manicures
+      - Pedicures
+      required: false
+    - id: 11
+      name: preferred_staff
+      label: Preferred Staff
+      hint: null
+      type: select_one
+      options:
+      - Esthetician
+      - Therapist
+      - Trainer
+      - Hydrapist
+      required: false

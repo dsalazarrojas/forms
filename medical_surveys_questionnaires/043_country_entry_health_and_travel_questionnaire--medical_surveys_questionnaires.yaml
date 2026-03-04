@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Country Entry Health And Travel Questionnaire
+    pages:
+    - id: 1
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_past_2_years
+      label: Travel Past 2 Years
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Unvaccinated
+      - Partially Vaccinated
+      - Fully Vaccinated
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: health_issue
+      label: Health Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_documentation
+      label: Medical Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: travel_accident
+      label: Travel Accident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: travel_accident_description
+      label: Travel Accident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions_since_birth
+      label: Medical Conditions Since Birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_organization
+      label: Contact Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_department
+      label: Contact Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_extension
+      label: Contact Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_fax
+      label: Contact Fax
+      hint: null
+      type: text
+      options: []
+      required: false

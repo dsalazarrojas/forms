@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Statement Form
+    pages:
+    - id: 1
+      name: title
+      label: Incident Statement Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Manager Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

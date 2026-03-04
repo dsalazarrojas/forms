@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy And Development Survey
+    pages:
+    - id: 1
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: null
+      type: select_one
+      options:
+      - Pregnant
+      - Not Pregnant
+      required: false
+    - id: 2
+      name: months_of_pregnancy
+      label: Months Pregnant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gestational_age
+      label: Gestational Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: prenatal_care_habits
+      label: Prenatal Care Habits
+      hint: null
+      type: select_multiple
+      options:
+      - Regular prenatal care
+      - Irregular prenatal care
+      required: false
+    - id: 5
+      name: experiences
+      label: Experiences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_team
+      label: Healthcare Team
+      hint: null
+      type: select_one
+      options:
+      - Primary care physician
+      - OB/GYN specialist
+      - Midwife
+      required: false
+    - id: 7
+      name: prenatal_test_results
+      label: Prenatal Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pregnancy_complications
+      label: Pregnancy Complications
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - High blood pressure
+      - Diabetes
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: hospitalization
+      label: Hospitalization
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Home
+      - Clinic
+      required: false
+    - id: 11
+      name: birth_weight
+      label: Birth Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: birth_length
+      label: Birth Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Natural
+      - C-section
+      required: false
+    - id: 15
+      name: infant_weight
+      label: Infant Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: infant_length
+      label: Infant Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: infant_birth_date
+      label: Infant Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: breastfeeding
+      label: Breastfeeding
+      hint: null
+      type: select_multiple
+      options:
+      - Started breastfeeding
+      - Never breastfed
+      - Currently breastfeeding
+      required: false

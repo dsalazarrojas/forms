@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Cleanliness Audit Report
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: areas_checked
+      label: Areas Checked
+      hint: null
+      type: select_multiple
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: cleanliness_scale
+      label: Cleanliness Scale
+      hint: null
+      type: select_one
+      options:
+      - 1 - 2
+      - 3 - 4
+      - 5 - 6
+      - 7 - 8
+      required: false
+    - id: 6
+      name: cleanliness_rating_score
+      label: Cleanliness Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspector
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

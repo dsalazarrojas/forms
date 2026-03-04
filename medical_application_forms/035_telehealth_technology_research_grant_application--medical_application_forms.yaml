@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: telehealth-technology-research-grant-application
+    pages:
+    - id: 1
+      name: applicant
+      label: applicant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project
+      label: project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding
+      label: funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: funding_type
+      label: funding_type
+      hint: null
+      type: select_one
+      options:
+      - University
+      - Hospital
+      - Nonprofit
+      required: false
+    - id: 9
+      name: funding_duration
+      label: funding_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: funding_amount
+      label: funding_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: output_format
+      label: output_format
+      hint: null
+      type: select_multiple
+      options:
+      - Excel
+      - CSV
+      - PDF
+      required: false
+    - id: 12
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Submit
+      required: false
+    - id: 13
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Reviewing
+      - Approved
+      required: false
+    - id: 17
+      name: review_by
+      label: review_by
+      hint: null
+      type: text
+      options: []
+      required: false

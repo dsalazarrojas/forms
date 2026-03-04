@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Campaign Plan Form Template
+    pages:
+    - id: 1
+      name: campaign_goals
+      label: Email Campaign Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''Marketing''}'
+      - '{''id'': 12, ''name'': ''Sales''}'
+      - '{''id'': 13, ''name'': ''None''}'
+      required: false
+    - id: 3
+      name: target_segments
+      label: target_segments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': ''Segment 1''}'
+      - '{''id'': 22, ''name'': ''Segment 2''}'
+      required: false
+    - id: 4
+      name: key_message_points
+      label: Key Message Points
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: key_message_points_2
+      label: Key Message Point 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: key_message_points_3
+      label: Key Message Point 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: target_audience_location
+      label: Target Audience Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_audience_location_2
+      label: Target Audience 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: target_audience_location_3
+      label: Target Audience 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: Date of the campaign
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: Time of the campaign
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: duration
+      label: Duration
+      hint: Duration of the campaign
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: email_channels
+      label: Email Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 31, ''name'': ''Email 1''}'
+      - '{''id'': 32, ''name'': ''Email 2''}'
+      - '{''id'': 33, ''name'': ''Email 3''}'
+      required: false
+    - id: 17
+      name: email_channels_2
+      label: Email Channels 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 34, ''name'': ''Email 4''}'
+      - '{''id'': 35, ''name'': ''Email 5''}'
+      - '{''id'': 36, ''name'': ''Email 6''}'
+      required: false
+    - id: 18
+      name: email_channels_3
+      label: Email Channels 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 37, ''name'': ''Email 7''}'
+      - '{''id'': 38, ''name'': ''Email 8''}'
+      required: false
+    - id: 19
+      name: social_media_channels
+      label: Social Media Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 39, ''name'': ''Facebook''}'
+      - '{''id'': 40, ''name'': ''Twitter''}'
+      - '{''id'': 41, ''name'': ''LinkedIn''}'
+      required: false
+    - id: 20
+      name: social_media_channels_2
+      label: Social Media Channels 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 42, ''name'': ''Instagram''}'
+      - '{''id'': 43, ''name'': ''YouTube''}'
+      - '{''id'': 44, ''name'': ''Facebook''}'
+      required: false
+    - id: 21
+      name: social_media_channels_3
+      label: Social Media Channels 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 45, ''name'': ''Twitter''}'
+      - '{''id'': 46, ''name'': ''LinkedIn''}'
+      - '{''id'': 47, ''name'': ''YouTube''}'
+      required: false
+    - id: 22
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 51, ''name'': ''Email''}'
+      - '{''id'': 52, ''name'': ''Social Media''}'
+      - '{''id'': 53, ''name'': ''SMS''}'
+      required: false
+    - id: 23
+      name: marketing_channels_2
+      label: Marketing Channels 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 54, ''name'': ''Email 2''}'
+      - '{''id'': 55, ''name'': ''Social Media 2''}'
+      - '{''id'': 56, ''name'': ''SMS 2''}'
+      required: false
+    - id: 24
+      name: marketing_channels_3
+      label: Marketing Channels 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 57, ''name'': ''Email 3''}'
+      - '{''id'': 58, ''name'': ''Social Media 3''}'
+      - '{''id'': 59, ''name'': ''SMS 3''}'
+      required: false
+    - id: 25
+      name: email_list
+      label: Email List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: email_list_2
+      label: Email List 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: email_list_3
+      label: Email List 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: email_list_4
+      label: Email List 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: email_list_5
+      label: Email List 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: email_list_6
+      label: Email List 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: email_list_7
+      label: Email List 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: email_list_8
+      label: Email List 8
+      hint: null
+      type: text
+      options: []
+      required: false

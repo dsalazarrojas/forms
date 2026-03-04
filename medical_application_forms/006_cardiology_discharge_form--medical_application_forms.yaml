@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology Discharge Form
+    pages:
+      - id: 1
+        name: discharge_overview
+        label: -- Discharge Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient name
+        hint: Full legal patient name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: discharge_date
+        label: Discharge date
+        hint: Date patient is discharged
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: diagnosis_at_discharge
+        label: Diagnosis at discharge
+        hint: Primary diagnosis being discharged for
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: discharge_medications
+        label: Medications at discharge
+        hint: List meds and dosages to take at home
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: follow_up_instructions
+        label: Follow up instructions
+        hint: Appointments tests and red flag signs
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: emergency_contact
+        label: Emergency contact
+        hint: Name and phone of emergency contact
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: activity_restrictions
+        label: Activity restrictions
+        hint: Physical activity and work limitations
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: discharge_coordinator
+        label: Discharge coordinator name
+        hint: Staff member overseeing discharge
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: patient_understands_instructions
+        label: Patient understands discharge instructions
+        hint: Confirm comprehension
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

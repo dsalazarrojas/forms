@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Market Research Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 5
+      name: product_category
+      label: product_category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Electronics''}'
+      - '{''value'': ''Food''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: shopping_frequency
+      label: shopping_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very satisfied''}'
+      - '{''value'': ''Somewhat satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat dissatisfied''}'
+      - '{''value'': ''Very dissatisfied''}'
+      required: false
+    - id: 9
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In-person''}'
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

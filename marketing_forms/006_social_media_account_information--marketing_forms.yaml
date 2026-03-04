@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Account Information
+    pages:
+    - id: 1
+      name: social_media_account_information
+      label: Social Media Account Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_type
+      label: Social Media Type
+      hint: null
+      type: select_one
+      options:
+      - Twitter
+      - Facebook
+      - Instagram
+      - TikTok
+      required: false
+    - id: 3
+      name: social_media_url
+      label: Social Media URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_media_username
+      label: Social Media Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: social_media_password
+      label: Social Media Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media_email
+      label: Social Media Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: social_media_phone
+      label: Social Media Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media_notes
+      label: Social Media Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: social_media_email_opt_in
+      label: Social Media Email Opt-in
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: social_media_phone_opt_in
+      label: Social Media Phone Opt-in
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: social_media_notes_opt_in
+      label: Social Media Notes Opt-in
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

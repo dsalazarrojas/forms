@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Health Waiver Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Waiver Purpose --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: waiver_type
+      label: Type of Waiver
+      hint: null
+      type: select_one
+      options:
+      - Vaccination waiver
+      - Testing waiver
+      - Treatment waiver
+      - Liability waiver
+      - Other
+      required: true
+    - id: 9
+      name: section_header_3
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: previous_covid
+      label: Previous COVID-19 Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 11
+      name: covid_diagnosis_date
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: current_health_status
+      label: Current Health Status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: chronic_conditions
+      label: Chronic Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Physician Consultation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: physician_consulted
+      label: Consulted with Physician About Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: physician_recommendation
+      label: Physician Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Understanding and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: risks_understood
+      label: I understand the risks of declining vaccination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: benefits_understood
+      label: I understand the benefits of vaccination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: waiver_acknowledged
+      label: I voluntarily waive my right to vaccination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: liability_accepted
+      label: I accept responsibility for my health decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: waiver_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: waiver_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true

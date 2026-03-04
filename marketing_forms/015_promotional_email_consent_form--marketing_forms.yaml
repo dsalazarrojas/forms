@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_email_consent_form
+    pages:
+    - id: 1
+      name: email_address
+      label: Email address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_preferences
+      label: Email preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: contact_preferences
+      label: Contact me
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 4
+      name: email_frequency
+      label: Email frequency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 5
+      name: email_frequency_option_1
+      label: Daily
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_frequency_option_2
+      label: Weekly
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contact_method_option_1
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_method_option_2
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_method_option_3
+      label: Mail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 12
+      name: consent_option_1
+      label: 'True'
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: consent_option_2
+      label: 'False'
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_preferences_option_1
+      label: Marketing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email_preferences_option_2
+      label: Non-marketing
+      hint: null
+      type: text
+      options: []
+      required: false

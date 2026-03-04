@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Management Representation Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''HR''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: What is your feedback
+      hint: Please share your thoughts on how your manager represents the company
+        culture
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trend_analytics
+      label: Trend
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Increase''}'
+      - '{''value'': ''Decrease''}'
+      - '{''value'': ''No change''}'
+      required: false
+    - id: 6
+      name: department_trend
+      label: Department Trend
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''HR''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      required: false
+    - id: 7
+      name: employee_name2
+      label: Employee Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name2
+      label: Manager Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false

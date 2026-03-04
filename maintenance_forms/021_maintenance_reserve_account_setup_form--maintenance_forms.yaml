@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Reserve Account Setup Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_2
+      label: Properties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_3
+      label: Organizations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: form_4
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: requester_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_7
+      label: requester_contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: property_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: property_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: request_approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

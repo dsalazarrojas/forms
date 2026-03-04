@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech/Language Pathology Progress Note
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_session
+      label: Date Of Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Delayed speech development
+      - Language disorder
+      - Speech impairment
+      - Other
+      required: false
+    - id: 7
+      name: speech_goal
+      label: Speech Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_level
+      label: Current Level
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Emerging
+      - Developing
+      - Proficient
+      - Fluency
+      - Articulation
+      - Other
+      required: false
+    - id: 9
+      name: speech_goal_target_date
+      label: Speech Goal Target Date
+      hint: null
+      type: date
+      options: []
+      required: false

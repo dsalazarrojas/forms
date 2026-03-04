@@ -1,0 +1,325 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Candy Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: respondent_age
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or older
+        required: true
+      - id: 4
+        name: respondent_gender
+        label: Gender
+        hint: Gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+          - Other
+        required: false
+      - id: 5
+        name: candy_consumption_frequency
+        label: How Often Do You Eat Candy
+        hint: Consumption frequency
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - 2 to 3 times a month
+          - Once a month
+          - Rarely
+          - Never
+        required: true
+      - id: 6
+        name: favorite_candy_type
+        label: Favorite Type of Candy
+        hint: Preferred category
+        type: select_one
+        options:
+          - Chocolate
+          - Gummy or chewy
+          - Hard candy
+          - Caramel or taffy
+          - Licorice
+          - Mint
+          - Sour candy
+          - Nougat
+        required: true
+      - id: 7
+        name: favorite_chocolate_type
+        label: Favorite Chocolate Type
+        hint: If applicable
+        type: select_one
+        options:
+          - Milk chocolate
+          - Dark chocolate
+          - White chocolate
+          - Bittersweet
+          - No preference
+          - Not applicable
+        required: false
+      - id: 8
+        name: favorite_flavors
+        label: Favorite Flavors
+        hint: Preferred flavors
+        type: select_multiple
+        options:
+          - Strawberry
+          - Cherry
+          - Lemon
+          - Orange
+          - Grape
+          - Apple
+          - Watermelon
+          - Blue raspberry
+          - Mint
+          - Caramel
+        required: true
+      - id: 9
+        name: least_favorite_flavors
+        label: Least Favorite Flavors
+        hint: Flavors you dislike
+        type: select_multiple
+        options:
+          - Strawberry
+          - Cherry
+          - Lemon
+          - Orange
+          - Grape
+          - Apple
+          - Watermelon
+          - Blue raspberry
+          - Mint
+          - Caramel
+          - Licorice
+        required: false
+      - id: 10
+        name: preferred_brands
+        label: Preferred Candy Brands
+        hint: Favorite brands
+        type: select_multiple
+        options:
+          - Hershey
+          - Mars
+          - Nestle
+          - Ferrero
+          - Lindt
+          - Godiva
+          - Jelly Belly
+          - Haribo
+          - Local or artisan
+          - No preference
+        required: false
+      - id: 11
+        name: purchase_location
+        label: Where Do You Usually Buy Candy
+        hint: Shopping location
+        type: select_multiple
+        options:
+          - Grocery store
+          - Convenience store
+          - Candy specialty store
+          - Online
+          - Drugstore
+          - Warehouse club
+          - Dollar store
+          - Other
+        required: true
+      - id: 12
+        name: monthly_candy_spending
+        label: How Much Do You Spend on Candy Monthly
+        hint: Average spending
+        type: select_one
+        options:
+          - Less than $10
+          - $10 to $25
+          - $26 to $50
+          - $51 to $100
+          - More than $100
+        required: true
+      - id: 13
+        name: occasion_for_purchase
+        label: When Do You Buy Candy
+        hint: Purchase occasions
+        type: select_multiple
+        options:
+          - Holidays
+          - Birthdays
+          - Movie nights
+          - As a treat
+          - For guests
+          - Office snacks
+          - Gifts
+          - Impulse buy
+        required: true
+      - id: 14
+        name: sugar_free_interest
+        label: Interest in Sugar-Free Options
+        hint: Do you buy sugar-free
+        type: select_one
+        options:
+          - Always choose sugar-free
+          - Sometimes choose sugar-free
+          - Rarely choose sugar-free
+          - Never choose sugar-free
+        required: true
+      - id: 15
+        name: organic_candy_interest
+        label: Interest in Organic Candy
+        hint: Do you buy organic
+        type: select_one
+        options:
+          - Always choose organic
+          - Sometimes choose organic
+          - Rarely choose organic
+          - Never choose organic
+        required: true
+      - id: 16
+        name: dietary_restrictions
+        label: Dietary Restrictions
+        hint: Any restrictions
+        type: select_multiple
+        options:
+          - Vegan
+          - Gluten-free
+          - Dairy-free
+          - Nut-free
+          - Kosher
+          - Halal
+          - None
+        required: false
+      - id: 17
+        name: packaging_importance
+        label: How Important Is Packaging
+        hint: Packaging priority
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Neutral
+          - Not very important
+          - Not important at all
+        required: true
+      - id: 18
+        name: sharing_habits
+        label: Do You Share Your Candy
+        hint: Sharing behavior
+        type: select_one
+        options:
+          - Always share
+          - Often share
+          - Sometimes share
+          - Rarely share
+          - Never share
+        required: true
+      - id: 19
+        name: seasonal_candy_preference
+        label: Favorite Seasonal Candy
+        hint: Holiday favorites
+        type: select_one
+        options:
+          - Halloween candy
+          - Christmas chocolate
+          - Easter candy
+          - Valentine candy
+          - No preference
+        required: false
+      - id: 20
+        name: new_flavors_interest
+        label: Interest in Trying New Flavors
+        hint: Openness to new products
+        type: select_one
+        options:
+          - Always willing to try
+          - Sometimes willing
+          - Rarely try new
+          - Prefer familiar brands
+        required: true
+      - id: 21
+        name: candy_for_children
+        label: Do You Buy Candy for Children
+        hint: Purchase for kids
+        type: select_one
+        options:
+          - Yes - frequently
+          - Yes - occasionally
+          - No - never
+          - No children
+        required: false
+      - id: 22
+        name: brand_loyalty
+        label: How Loyal Are You to Brands
+        hint: Brand loyalty level
+        type: select_one
+        options:
+          - Very loyal - buy same brands
+          - Somewhat loyal
+          - Neutral
+          - Like to try different brands
+        required: true
+      - id: 23
+        name: favorite_candy_memory
+        label: Favorite Candy-Related Memory
+        hint: Share a memory
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: suggestions_for_improvement
+        label: Suggestions for Candy Manufacturers
+        hint: Improvement ideas
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Other thoughts
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: survey_date
+        label: Survey Date
+        hint: Date completed
+        type: date
+        options: []
+        required: true

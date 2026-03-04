@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year's Marketing Campaign Evaluation Form
+    pages:
+    - id: 1
+      name: new_years_campaign_info
+      label: New Year's Campaign Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_goal
+      label: Marketing Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_budget
+      label: Campaign Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Email
+      - Email
+      required: false
+    - id: 5
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: campaign_status
+      label: Campaign Status
+      hint: null
+      type: select_one
+      options:
+      - Launched
+      - Completed
+      - Cancelled
+      - Ongoing
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

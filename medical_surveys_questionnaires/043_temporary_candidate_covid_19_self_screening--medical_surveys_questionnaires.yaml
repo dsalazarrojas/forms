@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Candidate COVID 19 Self Screening
+    pages:
+    - id: 1
+      name: have_you_been_in_contact_with_someone_diagnosed_with_covid_19
+      label: Have you been in contact with someone diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: temporary_candidate_covid_19_self_screening_temperature
+      label: Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: do_you_have_any_symptoms_of_covid_19
+      label: Do you have any symptoms of COVID-19?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, Fever
+      - Yes, Cough
+      - Yes, Shortness of Breath
+      required: true
+    - id: 4
+      name: other_symptoms
+      label: Other Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_history
+      label: Travel History?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: select_one
+      options:
+      - Country
+      - City
+      - Airport
+      required: true
+    - id: 7
+      name: days_since_travel
+      label: Days since travel
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: last_travel_location
+      label: Last Travel Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country_of_origin
+      label: Country of origin?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: last_travel_city
+      label: Last Travel City
+      hint: null
+      type: select_one
+      options:
+      - City
+      - City 2
+      required: false
+    - id: 11
+      name: airport_name
+      label: Airport Name?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: last_travel_airport
+      label: Last Travel Airport
+      hint: null
+      type: select_one
+      options:
+      - Airport
+      - Other
+      required: false

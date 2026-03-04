@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Interest Profile
+    pages:
+    - id: 1
+      name: customer_interest_profile_form
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_interest_profile_form_customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      required: false
+    - id: 3
+      name: customer_interest_profile_form_interest
+      label: Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_interest_profile_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_interest_profile_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_interest_profile_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_interest_profile_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      required: false
+    - id: 8
+      name: customer_interest_profile_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

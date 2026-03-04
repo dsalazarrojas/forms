@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Timber Building Advertising Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: what-is-timber-building
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: what-features-does-timber-building-offer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_3
+      label: what-is-your-favorite-feature-of-timber-building
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_4
+      label: what-else-does-timber-building-offer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: what-is-the-most-important-feature
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 7
+      name: question_6
+      label: what-is-the-second-most-important-feature
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 8
+      name: question_7
+      label: what-is-the-third-most-important-feature
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 9
+      name: question_8
+      label: what-is-your-current-experience-with-timber-building
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_9
+      label: what-is-your-future-experience-with-timber-building
+      hint: null
+      type: text
+      options: []
+      required: false

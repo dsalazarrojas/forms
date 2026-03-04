@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_analytics_in_medicine_research_evaluation
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_studies_outcomes
+      label: medical_studies_outcomes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: data_analytics_challenges
+      label: data_analytics_challenges
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: improvement_suggestions
+      label: improvement_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: hospitals
+      label: hospitals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: universities
+      label: universities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: research_teams
+      label: research_teams
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_to_complete
+      label: time_to_complete
+      hint: null
+      type: number
+      options: []
+      required: false

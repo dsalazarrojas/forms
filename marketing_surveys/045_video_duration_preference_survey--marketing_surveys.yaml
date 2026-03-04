@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Duration Preference Survey
+    pages:
+    - id: 1
+      name: video_length
+      label: Video Length
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 2
+      name: platforms
+      label: Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - YouTube
+      - Facebook
+      - Instagram
+      - TikTok
+      - Twitter
+      - Other
+      required: false
+    - id: 3
+      name: viewership_habits
+      label: Viewership Habits
+      hint: Describe how you usually watch videos
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date of Last Video Watch
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of Last Video Watch
+      hint: null
+      type: time
+      options: []
+      required: false

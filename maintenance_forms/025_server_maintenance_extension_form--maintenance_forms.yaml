@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Server Maintenance Extension Form
+    pages:
+    - id: 1
+      name: server_maintenance_request
+      label: Server Maintenance Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: duration
+      label: Duration
+      hint: Enter duration in hours
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: Enter start time in 24-hour format
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: Enter end time in 24-hour format
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: server_maintenance_status
+      label: Server Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Scheduled
+      - In Progress
+      - Completed
+      required: true

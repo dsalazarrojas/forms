@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chargify Magazine Subscription
+    pages:
+    - id: 1
+      name: subscriber_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subscriber_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subscriber_email
+      label: Email Address
+      hint: For subscription confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: subscriber_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mailing_address
+      label: Mailing Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 10
+      name: magazine_selection
+      label: Select Magazine Subscription
+      hint: Choose your magazine
+      type: select_one
+      options:
+      - Tech Monthly
+      - Home and Garden
+      - Cooking Essentials
+      - Fashion Forward
+      - Sports Illustrated
+      - National Geographic
+      - Time Magazine
+      - Entertainment Weekly
+      required: true
+    - id: 11
+      name: subscription_term
+      label: Subscription Term
+      hint: Duration
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 years
+      required: true
+    - id: 12
+      name: subscription_type
+      label: Subscription Type
+      hint: Format preference
+      type: select_one
+      options:
+      - Print only
+      - Digital only
+      - Print and digital bundle
+      required: true
+    - id: 13
+      name: gift_subscription
+      label: Is this a gift subscription
+      hint: Gift or personal
+      type: select_one
+      options:
+      - No for myself
+      - Yes it is a gift
+      required: true
+    - id: 14
+      name: gift_recipient_name
+      label: Gift Recipient Name
+      hint: If gift subscription
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: gift_message
+      label: Gift Message
+      hint: Optional message
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - PayPal
+      - Bank transfer
+      required: true
+    - id: 17
+      name: auto_renewal
+      label: Enable auto-renewal
+      hint: Continue after term ends
+      type: select_one
+      options:
+      - Yes enable
+      - No one-time only
+      required: true
+    - id: 18
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_heard
+      label: How did you hear about us
+      hint: Marketing source
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend or family
+      - Print advertisement
+      - Email newsletter
+      - Other
+      required: false

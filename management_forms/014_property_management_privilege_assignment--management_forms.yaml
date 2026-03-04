@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Privilege Assignment
+    pages:
+    - id: 1
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: privilege_type
+      label: privilege_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assigned_time
+      label: assigned_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_contact
+      label: assigned_contact
+      hint: null
+      type: text
+      options: []
+      required: false

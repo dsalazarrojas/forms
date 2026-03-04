@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Campaign Plan Form Template
+    pages:
+    - id: 1
+      name: campaign_goals
+      label: Campaign Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_strategy
+      label: Campaign Strategy
+      hint: A good email marketing campaign plan should include a clear and specific
+        strategy.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_marketing_channels
+      label: Email Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Social Media
+      - Text Message
+      required: true
+    - id: 5
+      name: target_audience_gender
+      label: Target Audience Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Both
+      required: true
+    - id: 6
+      name: target_audience_age
+      label: Target Audience Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email_marketing_budget
+      label: Email Marketing Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: email_marketing_tactics
+      label: Email Marketing Tactics
+      hint: Include specific tactics to be used in email marketing campaign, e.g.,
+        email subject line.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_marketing_scheduling
+      label: Email Marketing Scheduling
+      hint: Include scheduling details for the campaign.
+      type: time
+      options: []
+      required: false

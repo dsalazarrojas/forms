@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: SEO Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Client Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: website
+      label: Website
+      hint: Enter website URL
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: keywords
+      label: Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: seo_strategy
+      label: Seo Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''SEO 1'': ''Page 1''}'
+      - '{''SEO 2'': ''Page 2''}'
+      - '{''SEO 3'': ''Page 3''}'
+      required: true
+    - id: 10
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_one
+      options:
+      - Company
+      - Individual
+      - Agency
+      required: true

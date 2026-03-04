@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Factory Workstation Order Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workstation_request
+      label: Workstation Request
+      hint: null
+      type: select_one
+      options:
+      - Workstation 1
+      - Workstation 2
+      - Workstation 3
+      required: false
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Request 1
+      - Request 2
+      required: false
+    - id: 4
+      name: workstation_location
+      label: Workstation Location
+      hint: Enter the name of the location where the workstation will be installed.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Please include any additional comments or notes for the workstation installation.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: workstation_model
+      label: Workstation Model
+      hint: null
+      type: select_one
+      options:
+      - Model 1
+      - Model 2
+      - Model 3
+      required: false
+    - id: 14
+      name: workstation_serial
+      label: Workstation Serial
+      hint: Enter the serial number of the workstation.
+      type: text
+      options: []
+      required: false

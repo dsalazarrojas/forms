@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Usage Form
+    pages:
+    - id: 1
+      name: facility_usage_form_1
+      label: usage_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_usage_form_2
+      label: user_requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: facility_usage_form_3
+      label: access_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: facility_usage_form_4
+      label: start_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_usage_form_5
+      label: end_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_usage_form_6
+      label: facility_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: facility_usage_form_7
+      label: access_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: facility_usage_form_8
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

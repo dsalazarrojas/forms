@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Vision Inspection System Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: machine_vision_inspection_system_request_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Machine Vision Inspection'', ''label'': ''Machine
+        Vision Inspection''}'
+      - '{''id'': 2, ''name'': ''Automated Vision Inspection'', ''label'': ''Automated
+        Vision Inspection''}'
+      - '{''id'': 3, ''name'': ''Vision Inspection'', ''label'': ''Vision Inspection''}'
+      required: false
+    - id: 3
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_duration
+      label: project_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 8
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_date
+      label: created_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_date
+      label: updated_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Guide
+    pages:
+      - id: 1
+        name: project_name
+        label: Project Name
+        hint: Name of the content project
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: project_manager
+        label: Project Manager
+        hint: Name of person managing this project
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: content_creator
+        label: Content Creator
+        hint: Who will be creating the content?
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: request_date
+        label: Request Date
+        hint: Date of this content request
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: content_type
+        label: Content Type
+        hint: What type of content is needed?
+        type: select_one
+        options:
+          - Blog Post
+          - Social Media Post
+          - Video Script
+          - Podcast Script
+          - Email Newsletter
+          - Landing Page Copy
+          - Product Description
+          - Case Study
+          - White Paper
+          - Infographic
+        required: true
+      - id: 6
+        name: content_objective
+        label: Content Objective
+        hint: What is the main goal of this content?
+        type: select_one
+        options:
+          - Brand Awareness
+          - Lead Generation
+          - Customer Education
+          - Product Promotion
+          - Thought Leadership
+          - Customer Retention
+          - SEO Improvement
+          - Engagement
+        required: true
+      - id: 7
+        name: target_audience
+        label: Target Audience
+        hint: Who is this content for?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: audience_demographics
+        label: Audience Demographics
+        hint: Age, gender, location, interests
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: key_message
+        label: Key Message
+        hint: What is the main message to convey?
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: tone_of_voice
+        label: Tone of Voice
+        hint: What tone should the content have?
+        type: select_one
+        options:
+          - Professional
+          - Casual
+          - Friendly
+          - Authoritative
+          - Humorous
+          - Inspirational
+          - Educational
+          - Persuasive
+        required: true
+      - id: 11
+        name: brand_guidelines
+        label: Brand Guidelines
+        hint: Are there specific brand guidelines to follow?
+        type: select_one
+        options:
+          - Yes, attached
+          - Yes, will provide
+          - No guidelines exist
+          - Not Applicable
+        required: true
+      - id: 12
+        name: word_count
+        label: Target Word Count
+        hint: Desired length of content
+        type: select_one
+        options:
+          - Under 500 words
+          - 500-1000 words
+          - 1000-1500 words
+          - 1500-2000 words
+          - 2000+ words
+          - Not Applicable
+        required: true
+      - id: 13
+        name: seo_keywords
+        label: SEO Keywords
+        hint: Keywords to include for SEO
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: call_to_action
+        label: Call to Action
+        hint: What action should readers take?
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: reference_materials
+        label: Reference Materials
+        hint: Links or documents for reference
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: competitor_examples
+        label: Competitor Examples
+        hint: Links to competitor content for reference
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: distribution_channels
+        label: Distribution Channels
+        hint: Where will this content be published?
+        type: select_multiple
+        options:
+          - Company Website
+          - Company Blog
+          - Facebook
+          - Instagram
+          - LinkedIn
+          - Twitter
+          - YouTube
+          - Email Newsletter
+          - Third-Party Sites
+        required: true
+      - id: 18
+        name: deadline
+        label: Content Deadline
+        hint: When is the content due?
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: review_process
+        label: Review Process
+        hint: Who needs to review before publication?
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: budget
+        label: Budget
+        hint: Budget for this content piece
+        type: select_one
+        options:
+          - Under $100
+          - $100-$500
+          - $500-$1000
+          - $1000-$2500
+          - $2500+
+          - Internal Creation
+        required: false
+      - id: 21
+        name: success_metrics
+        label: Success Metrics
+        hint: How will success be measured?
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other important information
+        type: text
+        options: []
+        required: false

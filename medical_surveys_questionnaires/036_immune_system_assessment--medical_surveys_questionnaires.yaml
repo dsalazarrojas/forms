@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: immune_system_assessment
+    pages:
+    - id: 1
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Ibuprofen''}'
+      - '{''value'': ''Acetaminophen''}'
+      required: false
+    - id: 5
+      name: immunizations
+      label: Immunizations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_immunity_boosters
+      label: Other Immunity Boosters
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: immune_system_status
+      label: Immune System Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Normal''}'
+      - '{''value'': ''Abnormal''}'
+      required: true
+    - id: 10
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: doctor_email
+      label: Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: doctor_note
+      label: Doctor Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_note
+      label: Patient Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_doctor_phone
+      label: Follow-up Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_doctor_email
+      label: Follow-up Doctor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_patient_name
+      label: Follow-up Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_patient_phone
+      label: Follow-up Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_patient_email
+      label: Follow-up Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false

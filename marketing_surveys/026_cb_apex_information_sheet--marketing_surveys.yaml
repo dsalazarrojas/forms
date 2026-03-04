@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: CB Apex Information Sheet
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information and Testimonial --
+      hint: Help us keep our records updated and share your success story.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_org_name
+      label: Business or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_contact
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: services_received_list
+      label: Services Received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Consulting
+      - Training
+      - Managed Services
+      - Project Implementation
+      - Software Support
+      required: true
+    - id: 7
+      name: service_duration
+      label: Length of time working with CB Apex
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 3 plus years
+      required: true
+    - id: 8
+      name: testimonial_narrative
+      label: Your Success Story
+      hint: Please describe your experience and the results you achieved.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: permission_to_publish
+      label: Permission to use testimonial for marketing
+      hint: This includes website, brochures, and social media.
+      type: select_one
+      options:
+      - Yes, with my name and company
+      - Yes, with my name only
+      - Yes, with company name only
+      - No, keep it internal
+      required: true
+    - id: 10
+      name: experience_rating_star
+      label: Overall Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: referral_intent
+      label: Would you refer CB Apex to a colleague?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: current_project_status
+      label: Current project status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - On Hold
+      - Completed
+      required: false
+    - id: 13
+      name: additional_needs_request
+      label: Are there any other areas where we can support you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: info_sheet_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: verification_acknowledgment
+      label: I certify the information provided is current
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true

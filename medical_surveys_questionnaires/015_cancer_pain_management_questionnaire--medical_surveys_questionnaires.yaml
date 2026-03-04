@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Pain Management Questionnaire
+    pages:
+    - id: 1
+      name: patient_info_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: Your unique patient ID from the clinic
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: Your specific type of cancer diagnosis
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_stage
+      label: Current Treatment Stage
+      hint: Where are you in your care journey
+      type: select_one
+      options:
+      - Newly Diagnosed
+      - Active Treatment
+      - Maintenance
+      - Remission
+      - Palliative Care
+      required: true
+    - id: 8
+      name: pain_assessment_section
+      label: -- Pain Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: worst_pain_rating
+      label: Rate your pain at its worst
+      hint: 0 (No Pain) to 10 (Worst Pain)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: best_pain_rating
+      label: Rate your pain at its best
+      hint: 0 (No Pain) to 10 (Worst Pain)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pain_sensation_type
+      label: Describe the pain sensation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sharp
+      - Dull
+      - Burning
+      - Aching
+      - Shooting
+      - Throbbing
+      - Other
+      required: true
+    - id: 12
+      name: pain_location
+      label: Location of the pain
+      hint: List the areas of your body where you feel pain
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: pain_duration
+      label: How long has this pain been present
+      hint: Overall time since the pain began
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-4 weeks
+      - 1-6 months
+      - Over 6 months
+      required: true
+    - id: 14
+      name: life_impact_section
+      label: -- Impact on Daily Life --
+      hint: How pain affects your routine
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: sleep_interference
+      label: Pain interference with sleep
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Significantly
+      - Completely
+      required: true
+    - id: 16
+      name: appetite_interference
+      label: Pain interference with appetite
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Significantly
+      - Completely
+      required: true
+    - id: 17
+      name: mood_interference
+      label: Pain interference with mood
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Significantly
+      - Completely
+      required: true
+    - id: 18
+      name: current_medications
+      label: Current medications for pain
+      hint: List names and dosages if known
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medication_side_effects
+      label: Side effects from current medications
+      hint: Briefly describe any unpleasant effects
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: management_goals
+      label: Goals for pain management
+      hint: What outcome are you hoping for
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: final_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

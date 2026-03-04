@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Medicine Billing Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_amount
+      label: payment amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit/Debit Card
+      - Check
+      - Insurance
+      required: false
+    - id: 4
+      name: patient_email
+      label: patient email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: patient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_time
+      label: payment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: billing_info
+      label: billing info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Survey
+    pages:
+      - id: 1
+        name: respondent_type
+        label: Respondent Type
+        hint: What best describes you
+        type: select_one
+        options:
+          - Current Customer
+          - Former Customer
+          - Prospect
+          - Industry Professional
+          - General Public
+        required: true
+      - id: 2
+        name: brand_familiarity
+        label: Brand Familiarity
+        hint: How familiar are you with this brand
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Heard of It
+          - Not Familiar at All
+        required: true
+      - id: 3
+        name: first_discovery
+        label: First Discovery
+        hint: How did you first discover this brand
+        type: select_one
+        options:
+          - Social Media
+          - Search Engine
+          - Friend or Family
+          - Advertisement
+          - In Store
+          - Event
+          - Other
+        required: true
+      - id: 4
+        name: brand_qualities
+        label: Brand Qualities
+        hint: What qualities describe this brand
+        type: select_multiple
+        options:
+          - Innovative
+          - Reliable
+          - Affordable
+          - Premium
+          - Trustworthy
+          - Friendly
+          - Professional
+          - Creative
+          - Sustainable
+          - Outdated
+        required: true
+      - id: 5
+        name: product_satisfaction
+        label: Product Satisfaction
+        hint: How satisfied are you with the products
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - Not Applicable
+        required: true
+      - id: 6
+        name: service_satisfaction
+        label: Service Satisfaction
+        hint: How satisfied are you with customer service
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - Not Applicable
+        required: true
+      - id: 7
+        name: price_perception
+        label: Price Perception
+        hint: How do you feel about the pricing
+        type: select_one
+        options:
+          - Very Expensive
+          - Somewhat Expensive
+          - Fair
+          - Good Value
+          - Very Affordable
+        required: true
+      - id: 8
+        name: quality_perception
+        label: Quality Perception
+        hint: How do you rate the quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 9
+        name: brand_loyalty
+        label: Brand Loyalty
+        hint: How loyal are you to this brand
+        type: select_one
+        options:
+          - Very Loyal
+          - Somewhat Loyal
+          - Neutral
+          - Not Very Loyal
+          - Not Loyal at All
+        required: true
+      - id: 10
+        name: purchase_frequency
+        label: Purchase Frequency
+        hint: How often do you purchase from this brand
+        type: select_one
+        options:
+          - First Time
+          - Rarely
+          - Occasionally
+          - Regularly
+          - Very Frequently
+        required: true
+      - id: 11
+        name: recommend_likelihood
+        label: Recommend Likelihood
+        hint: How likely are you to recommend this brand
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 12
+        name: competitor_comparison
+        label: Compared to Competitors
+        hint: How does this brand compare
+        type: select_one
+        options:
+          - Much Better
+          - Better
+          - Same
+          - Worse
+          - Much Worse
+        required: true
+      - id: 13
+        name: brand_improvement
+        label: What Could Improve
+        hint: What should this brand improve
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: favorite_products
+        label: Favorite Products or Services
+        hint: What do you like most
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: overall_opinion
+        label: Overall Opinion
+        hint: Share your overall opinion of this brand
+        type: text
+        options: []
+        required: true

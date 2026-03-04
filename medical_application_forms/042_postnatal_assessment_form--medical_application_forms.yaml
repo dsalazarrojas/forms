@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postnatal Assessment Form
+    pages:
+    - id: 1
+      name: mother_name
+      label: Mother's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mother_date_of_birth
+      label: Mother's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: baby_name
+      label: Baby's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: baby_date_of_birth
+      label: Baby's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: mother_weight
+      label: Mother's Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: mother_height
+      label: Mother's Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: baby_weight
+      label: Baby's Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: baby_length
+      label: Baby's Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feeding_method
+      label: Feeding method
+      hint: null
+      type: select_one
+      options:
+      - Breast
+      - Formula
+      required: false
+    - id: 10
+      name: breastfeeding_duration
+      label: Breastfeeding duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 24 hours or more
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: vaccination
+      label: Vaccination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: birth_weight
+      label: Birth Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: birth_length
+      label: Birth Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - AB
+      - O
+      required: false
+    - id: 19
+      name: baby_gender
+      label: Baby's Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 20
+      name: gestational_age
+      label: Gestational Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: baby_temperature
+      label: Baby's Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: mother_temperature
+      label: Mother's Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: feeding_frequency
+      label: Feeding Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: medical_team
+      label: Medical Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

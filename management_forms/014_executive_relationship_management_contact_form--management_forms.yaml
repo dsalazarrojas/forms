@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Relationship Management Contact Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relationship_type
+      label: Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''value'': ''Client''}'
+      - '{''id'': 7, ''value'': ''Vendor''}'
+      - '{''id'': 8, ''value'': ''Partner''}'
+      required: false
+    - id: 5
+      name: interests
+      label: Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

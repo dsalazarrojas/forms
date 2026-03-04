@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insertion Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Print'', ''label'': ''Print''}'
+      - '{''value'': ''Digital'', ''label'': ''Digital''}'
+      required: false
+    - id: 3
+      name: ad_size
+      label: Ad Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ad_color
+      label: Ad Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full Color'', ''label'': ''Full Color''}'
+      - '{''value'': ''Black & White'', ''label'': ''Black & White''}'
+      required: false
+    - id: 5
+      name: ad_type
+      label: Ad Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Billboard'', ''label'': ''Billboard''}'
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''TV'', ''label'': ''TV''}'
+      - '{''value'': ''Print'', ''label'': ''Print''}'
+      required: false
+    - id: 6
+      name: ad_media
+      label: Ad Media
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Print'', ''label'': ''Print''}'
+      - '{''value'': ''Digital'', ''label'': ''Digital''}'
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      required: false
+    - id: 7
+      name: ad_frequency
+      label: Ad Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New'', ''label'': ''New''}'
+      - '{''value'': ''Reorder'', ''label'': ''Reorder''}'
+      - '{''value'': ''Pending'', ''label'': ''Pending''}'
+      required: false
+    - id: 9
+      name: reorder_reason
+      label: Reorder Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ad_size_unit
+      label: Ad Size Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Square Foot'', ''label'': ''Square Foot''}'
+      - '{''value'': ''Page Count'', ''label'': ''Page Count''}'
+      - '{''value'': ''Column Inch'', ''label'': ''Column Inch''}'
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Edge Banding Checklist
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment type
+      hint: null
+      type: select_one
+      options:
+      - Edge banding machine
+      - Edge banding line
+      - Hand tool
+      required: false
+    - id: 3
+      name: machine_model
+      label: Machine model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: edge_width
+      label: Edge width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: edge_length
+      label: Edge length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: thickness
+      label: Thickness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inspection_result
+      label: Inspection result
+      hint: Pass or Fail
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: operator_signature
+      label: Operator signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_signature
+      label: Supervisor signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: qa_signature
+      label: Quality assurance signature
+      hint: null
+      type: text
+      options: []
+      required: false

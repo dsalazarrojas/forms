@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Project Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: First Name
+      hint: First and Last name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Email address of the contact person
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_manager_first_name
+      label: Project Manager First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_manager_last_name
+      label: Project Manager Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager_title
+      label: Project Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_details_section
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_research
+      label: Project Research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

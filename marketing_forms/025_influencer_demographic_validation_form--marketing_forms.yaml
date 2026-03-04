@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: influencer_demographic_validation_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info_section
+      label: Demographic Information Section
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - value1
+      - value2
+      - value3
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: timezone
+      label: Timezone
+      hint: null
+      type: time
+      options: []
+      required: false

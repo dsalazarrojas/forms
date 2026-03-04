@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: manufacturing_process_records_release_form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: Date of release
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: manufacturing_process_id
+      label: Manufacturing Process
+      hint: null
+      type: select_multiple
+      options:
+      - Process 1
+      - Process 2
+      - Process 3
+      required: true
+    - id: 4
+      name: product_id
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: true
+    - id: 6
+      name: reason_for_release
+      label: Reason for Release
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: true
+    - id: 11
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: project_completion_forecast
+    pages:
+    - id: 1
+      name: project_forecast
+      label: Project Forecast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_scope
+      label: project_scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_timeline
+      label: project_timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_delivery_confidence
+      label: project_delivery_confidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Delayed
+      - Completed
+      - On Hold
+      required: false
+    - id: 6
+      name: project_manager_name
+      label: project_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_manager_email
+      label: project_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: project_manager_phone
+      label: project_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false

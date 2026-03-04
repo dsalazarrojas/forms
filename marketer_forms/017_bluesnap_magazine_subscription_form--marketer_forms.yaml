@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Magazine Subscription Form
+    pages:
+      - id: 1
+        name: subscriber_info
+        label: -- Subscriber Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: subscriber_name
+        label: Subscriber name
+        hint: Full name for subscription
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: Delivery notifications and digital access
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: mailing_address
+        label: Mailing address
+        hint: For print delivery
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: subscription_length
+        label: Subscription length
+        hint: Choose desired subscription period
+        type: select_one
+        options:
+          - 6 months
+          - 12 months
+          - 24 months
+        required: true
+      - id: 6
+        name: format_preference
+        label: Format preference
+        hint: Print or digital
+        type: select_one
+        options:
+          - Print
+          - Digital
+          - Both
+        required: true
+      - id: 7
+        name: payment_method
+        label: Payment method
+        hint: Preferred payment option
+        type: select_one
+        options:
+          - Credit card
+          - PayPal
+          - Bank transfer
+        required: true
+      - id: 8
+        name: gift_subscription
+        label: Is this a gift subscription
+        hint: Provide recipient details if applicable
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: recipient_details
+        label: Recipient details
+        hint: Fill only if gift subscription selected
+        type: text
+        options: []
+        required: false

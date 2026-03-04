@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Trace Error Report Form
+    pages:
+    - id: 1
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: error_description
+      label: Error Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: batch_time
+      label: Batch Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: material_id
+      label: Material ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_name
+      label: Material Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: material_type
+      label: Material Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: unit_of_measurement
+      label: Unit of Measurement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: error_date
+      label: Error Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: error_time
+      label: Error Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: cause_of_error
+      label: Cause of Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: action_by
+      label: Action Taken By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: batch_status
+      label: Batch Status
+      hint: null
+      type: select_one
+      options:
+      - Batch Status 1
+      - Batch Status 2
+      - Batch Status 3
+      required: true
+    - id: 20
+      name: batch_status_date
+      label: Batch Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: batch_status_time
+      label: Batch Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: reported_by_who
+      label: Reported By Who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reported_time
+      label: Reported Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

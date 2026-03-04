@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infinity Marketing Onboarding Questionnaire
+    pages:
+    - id: 1
+      name: new_client_info
+      label: New Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Client Email
+      hint: Client email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Client Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Client Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: marketing_agency
+      label: Marketing Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: onboarding_time
+      label: Onboarding Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: onboarding_notes
+      label: onboarding_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_budget
+      label: Marketing Budget
+      hint: Marketing budget
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: marketing_budget_note
+      label: Marketing Budget Note
+      hint: Marketing budget note
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: email_frequency_note
+      label: Email Frequency Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: content_creation
+      label: Content Creation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: content_creation_note
+      label: Content Creation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lead_generation
+      label: Lead Generation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: lead_generation_note
+      label: Lead Generation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: lead_conversion
+      label: Lead Conversion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

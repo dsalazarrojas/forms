@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transportation Vehicle Maintenance Audit Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mileage_reading
+      label: Mileage Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_location
+      label: Maintenance Location
+      hint: null
+      type: select_one
+      options:
+      - Central
+      - Northern
+      - Southern
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

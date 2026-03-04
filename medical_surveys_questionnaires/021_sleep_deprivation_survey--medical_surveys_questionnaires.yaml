@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Deprivation Survey
+    pages:
+    - id: 1
+      name: sleep_deprivation_survey_questions
+      label: What time do you go to bed?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: sleep_deprivation_survey_questions_2
+      label: Do you work night shifts?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 3
+      name: sleep_deprivation_survey_questions_3
+      label: On average, how many hours of sleep do you get at night?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sleep_deprivation_survey_questions_4
+      label: What time do you wake up?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: sleep_deprivation_survey_questions_5
+      label: Do you take naps?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 6
+      name: sleep_deprivation_survey_questions_6
+      label: On average, how many hours do you take naps for?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sleep_deprivation_survey_questions_7
+      label: Do you use any sleep aids?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 8
+      name: sleep_deprivation_survey_questions_8
+      label: On average, how many hours do you use sleep aids for?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sleep_deprivation_survey_questions_9
+      label: Do you take any medications for sleep?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 10
+      name: sleep_deprivation_survey_questions_10
+      label: On average, how many hours do you take medications for sleep?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sleep_deprivation_survey_questions_11
+      label: Do you drink caffeine?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 12
+      name: sleep_deprivation_survey_questions_12
+      label: On average, how many cups of caffeine do you consume?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sleep_deprivation_survey_questions_13
+      label: Do you smoke?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 14
+      name: sleep_deprivation_survey_questions_14
+      label: How long have you been experiencing sleep issues?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Less than 1 month'', ''value'': ''1''}'
+      - '{''label'': ''1-2 months'', ''value'': ''2''}'
+      - '{''label'': ''2-3 months'', ''value'': ''3''}'
+      - '{''label'': ''More than 3 months'', ''value'': ''4''}'
+      required: false
+    - id: 15
+      name: sleep_deprivation_survey_questions_15
+      label: Do you take naps during the day?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 16
+      name: sleep_deprivation_survey_questions_16
+      label: What time do you wake up to go to work/school?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: sleep_deprivation_survey_questions_17
+      label: Do you feel tired when waking up?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 18
+      name: sleep_deprivation_survey_questions_18
+      label: Do you use any white noise apps?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 19
+      name: sleep_deprivation_survey_questions_19
+      label: On average, how many hours do you use white noise apps?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: sleep_deprivation_survey_questions_20
+      label: Do you use any blue light?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 21
+      name: sleep_deprivation_survey_questions_21
+      label: On average, how many hours do you use blue light?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: sleep_deprivation_survey_questions_22
+      label: Do you exercise regularly?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 23
+      name: sleep_deprivation_survey_questions_23
+      label: On average, how often do you exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Less than 1 day a week'', ''value'': ''1''}'
+      - '{''label'': ''1 day or more a week'', ''value'': ''2''}'
+      required: false
+    - id: 24
+      name: sleep_deprivation_survey_questions_24
+      label: Do you use any earplugs/ earbuds?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''1''}'
+      - '{''label'': False, ''value'': ''0''}'
+      required: false
+    - id: 25
+      name: sleep_deprivation_survey_questions_25
+      label: On average, how many hours do you use earplugs/ earbuds?
+      hint: null
+      type: number
+      options: []
+      required: false

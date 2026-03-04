@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_food_photos
+    pages:
+    - id: 1
+      name: photo_title
+      label: Photo Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photo_url
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: menu_item
+      label: Menu Item
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: date
+      label: Date Taken
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time Taken
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form_fields
+      label: How do you like our service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suggestion_box
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_message
+      label: What do you want to say?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address (if you wish to receive a response)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number (if you wish to contact you)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_form_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

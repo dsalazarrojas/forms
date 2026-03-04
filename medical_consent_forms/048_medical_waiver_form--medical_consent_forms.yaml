@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Waiver Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_activity
+      label: Medical Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: acknowledge
+      label: I Acknowledge
+      hint: I acknowledge that I have read and understand the above
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Relationship To Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_supervision
+      label: Medical Supervision
+      hint: null
+      type: select_one
+      options:
+      - '{''Medical supervision'': ''Dr.''}'
+      - Other
+      required: false
+    - id: 17
+      name: medical_supervision_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: doctor_contact_phone
+      label: Doctor Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: doctor_supervising
+      label: Doctor Supervising
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. John
+      - Dr. Jane
+      - Dr. Smith
+      required: true
+    - id: 23
+      name: doctor_supervising_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: true

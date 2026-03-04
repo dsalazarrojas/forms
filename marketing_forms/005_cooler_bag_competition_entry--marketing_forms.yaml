@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cooler Bag Competition Entry
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_consent
+      label: Do you agree with the terms of the service?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree''}'
+      - '{''label'': ''I do not understand and do not agree''}'
+      - '{''label'': ''I understand but do not agree''}'
+      required: false
+    - id: 3
+      name: delivery_info
+      label: Delivery Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New York''}'
+      - '{''label'': ''California''}'
+      - '{''label'': ''Florida''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

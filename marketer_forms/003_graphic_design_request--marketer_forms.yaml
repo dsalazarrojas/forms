@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Graphic Design Request
+    pages:
+    - id: 1
+      name: graphic_design_request_form
+      label: Graphic Design Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Logo Design''}'
+      - '{''id'': 2, ''label'': ''Brochure Design''}'
+      - '{''id'': 3, ''label'': ''Print Design''}'
+      - '{''id'': 4, ''label'': ''Web Design''}'
+      - '{''id'': 5, ''label'': ''Branding''}'
+      required: true
+    - id: 4
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Mail''}'
+      - '{''id'': 4, ''label'': ''In person''}'
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

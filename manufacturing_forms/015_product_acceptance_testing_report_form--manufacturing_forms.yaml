@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Product Acceptance Testing Report Form
+    pages:
+    - id: 1
+      name: test_criteria
+      label: test_criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_results
+      label: test_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issues_encountered
+      label: issues_encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: final_decision
+      label: final_decision
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accept''}'
+      - '{''label'': ''Reject''}'
+      - '{''label'': ''Not Applicable''}'
+      required: true
+    - id: 5
+      name: date_completed
+      label: date_completed
+      hint: Date completed
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: time_completed
+      hint: Time completed
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false

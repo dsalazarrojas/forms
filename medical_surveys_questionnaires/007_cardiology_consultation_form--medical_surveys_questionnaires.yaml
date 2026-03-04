@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology Consultation Form
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient and Referral Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: referring_physician_name
+      label: Referring Physician
+      hint: Please list the doctor who referred you
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultation_reason_header
+      label: -- Reason for Consultation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: chest_pain_severity_rating
+      label: Chest Pain Severity (1-10)
+      hint: Rate your current pain level (1 - Least, 10 - Most Severe)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: shortness_of_breath_status
+      label: Do you experience shortness of breath?
+      hint: Select one
+      type: select_one
+      options:
+      - label: Never
+        value: never
+      - label: Only with exertion
+        value: exertion
+      - label: At rest
+        value: rest
+      - label: During sleep
+        value: sleep
+      required: true
+    - id: 8
+      name: medical_history_header
+      label: -- Medical & Family History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: high_blood_pressure_history
+      label: History of High Blood Pressure
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      - label: Not Sure
+        value: unknown
+      required: true
+    - id: 10
+      name: family_heart_disease_history
+      label: Family History of Heart Disease
+      hint: Specifically first-degree relatives
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 11
+      name: smoking_history_status
+      label: Smoking History
+      hint: Select your current status
+      type: select_one
+      options:
+      - label: Current Smoker
+        value: current
+      - label: Former Smoker
+        value: former
+      - label: Never Smoked
+        value: never
+      required: true
+    - id: 12
+      name: medications_list
+      label: Current Medications
+      hint: List all prescriptions and supplements
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: surgical_history_list
+      label: Surgical History
+      hint: List any past surgeries or procedures
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_exam_notes
+      label: Physical Examination Notes
+      hint: For physician use only
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: clinical_diagnosis_initial
+      label: Preliminary Diagnosis
+      hint: For physician use only
+      type: text
+      options: []
+      required: false

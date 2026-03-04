@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agency Request Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Enter the name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Enter the name of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_title
+      label: Contact Person Title
+      hint: Enter the title of the contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Enter the email address for the primary contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter the phone number for the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Enter the complete business address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_industry
+      label: Business Industry
+      hint: Select the industry your business operates in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Hospitality
+      - Real Estate
+      - Automotive
+      - Other
+      required: true
+    - id: 8
+      name: business_description
+      label: Business Description
+      hint: Provide a brief description of your business
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: marketing_goals_header
+      label: -- Marketing Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: marketing_objectives
+      label: Marketing Objectives
+      hint: What are your primary marketing objectives?
+      type: select_multiple
+      options:
+      - Increase Brand Awareness
+      - Generate Leads
+      - Drive Sales
+      - Improve Online Presence
+      - Expand Market Reach
+      - Launch New Product
+      - Reputation Management
+      - Social Media Growth
+      required: true
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: Describe your target audience
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_marketing_channels
+      label: Current Marketing Channels
+      hint: What marketing channels are you currently using?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marketing_budget_range
+      label: Marketing Budget Range
+      hint: What is your approximate monthly marketing budget?
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - $10,000-$25,000
+      - $25,000-$50,000
+      - Over $50,000
+      required: true
+    - id: 14
+      name: preferred_services
+      label: Preferred Services
+      hint: Which services are you most interested in?
+      type: select_multiple
+      options:
+      - Social Media Management
+      - Content Creation
+      - SEO/SEM
+      - PPC Advertising
+      - Email Marketing
+      - PR Services
+      - Brand Strategy
+      - Website Development
+      - Analytics & Reporting
+      required: true
+    - id: 15
+      name: timeline_expectations
+      label: Timeline Expectations
+      hint: When would you like to start working with an agency?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - Uncertain
+      required: true
+    - id: 16
+      name: previous_agency_experience
+      label: Previous Agency Experience
+      hint: Have you worked with a marketing agency before?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: previous_agency_details
+      label: Previous Agency Details
+      hint: If yes, which agency did you work with and what was your experience?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: success_metrics
+      label: Success Metrics
+      hint: How do you measure marketing success?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other requirements or information for the agency
+      type: text
+      options: []
+      required: false

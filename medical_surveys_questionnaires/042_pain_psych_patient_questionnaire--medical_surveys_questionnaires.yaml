@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: pain-psych-patient-questionnaire
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pain_duration
+      label: Pain Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pain_locations
+      label: Pain Locations
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Back
+      - Abdomen
+      - Pelvis
+      - Lower back
+      - Upper back
+      required: false
+    - id: 4
+      name: pain_locations_2
+      label: Pain Locations 2
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Back
+      - Abdomen
+      - Pelvis
+      - Lower back
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: psychological_symptoms
+      label: Psychological Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: psychological_symptoms_2
+      label: Psychological Symptoms 2
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety
+      - Depression
+      - Stress
+      - Anger
+      - Frustration
+      - Fear
+      - Phobias
+      - Sleeplessness
+      - Suicidal thoughts
+      - Mood swings
+      required: false
+    - id: 12
+      name: psychological_symptoms_3
+      label: Psychological Symptoms 3
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety
+      - Depression
+      - Stress
+      - Anger
+      - Frustration
+      - Fear
+      - Phobias
+      - Sleeplessness
+      - Suicidal thoughts
+      - Mood swings
+      required: false
+    - id: 13
+      name: pain_symptoms
+      label: Pain Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: pain_symptoms_2
+      label: Pain Symptoms 2
+      hint: null
+      type: select_one
+      options:
+      - Headache
+      - Fatigue
+      - Nausea
+      - Dizziness
+      required: false
+    - id: 15
+      name: medical_symptoms
+      label: Medical Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_symptoms_2
+      label: Medical Symptoms 2
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Dizziness
+      - Cough
+      - Diarrhea
+      required: false
+    - id: 17
+      name: pain_frequency
+      label: Pain Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: pain_intensity
+      label: Pain Intensity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: pain_duration_2
+      label: Pain Duration 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: pain_symptoms_2_2
+      label: Pain Symptoms 2 2
+      hint: null
+      type: select_one
+      options:
+      - Fatigue
+      - Nausea
+      - Dizziness
+      required: false
+    - id: 21
+      name: pain_symptoms_2_3
+      label: Pain Symptoms 2 3
+      hint: null
+      type: select_multiple
+      options:
+      - Fatigue
+      - Nausea
+      - Dizziness
+      required: false
+    - id: 22
+      name: medical_symptoms_2
+      label: Medical Symptoms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_symptoms_2_2
+      label: Medical Symptoms 2 2
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Dizziness
+      - Cough
+      - Diarrhea
+      required: false
+    - id: 24
+      name: medical_symptoms_3
+      label: Medical Symptoms 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_symptoms_3_2
+      label: Medical Symptoms 3 2
+      hint: null
+      type: select_multiple
+      options:
+      - Nausea
+      - Dizziness
+      - Cough
+      - Diarrhea
+      required: false

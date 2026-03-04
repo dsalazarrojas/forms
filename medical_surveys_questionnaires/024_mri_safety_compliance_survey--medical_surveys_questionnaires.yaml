@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: mri_safety_compliance_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mr_number
+      label: patient_mri_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: mr_date
+      label: date_of_scan
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Claustrophobia''}'
+      - '{''label'': ''Ferromagnetic materials''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: claustrophobia
+      label: claustrophobia
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: ferromagnetic_materials
+      label: ferromagnetic_materials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: other_risks
+      label: other_risks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: claustrophobia_question
+      label: claustrophobia_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claustrophobia_question_other
+      label: other_risks_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: claustrophobia_question_other_other
+      label: other_risks_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ferromagnetic_materials_question
+      label: ferromagnetic_materials_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mr_date_question
+      label: date_of_scan_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_question
+      label: date_question
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_question
+      label: time_of_scan
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: claustrophobia_answer
+      label: claustrophobia_answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unable to answer''}'
+      required: false
+    - id: 16
+      name: ferromagnetic_answer
+      label: ferromagnetic_answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unable to answer''}'
+      required: false
+    - id: 17
+      name: other_answer
+      label: other_answer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unable to answer''}'
+      required: false
+    - id: 18
+      name: claustrophobia_answer_other
+      label: other_risks_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: ferromagnetic_answer_other
+      label: ferromagnetic_answer_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_answer_other
+      label: other_risks_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: claustrophobia_answer_reason
+      label: claustrophobia_answer_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ferromagnetic_answer_reason
+      label: ferromagnetic_answer_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_answer_reason
+      label: other_risks_answer_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claustrophobia_other_answer
+      label: other_risks_other_answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ferromagnetic_other_answer
+      label: other_risks_ferromagnetic_answer
+      hint: null
+      type: text
+      options: []
+      required: false

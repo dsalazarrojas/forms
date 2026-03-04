@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Care Knowledge Quiz
+    pages:
+    - id: 1
+      name: sepsis_question
+      label: How many of these are signs of sepsis?
+      hint: None
+      type: select_multiple
+      options:
+      - Sepsis Sepsis Sepsis Sepsis Sepsis Sepsis Sepsis Sepsis Sepsis Sepsis Sepsis
+        Sepsis
+      - Other
+      required: false
+    - id: 2
+      name: vent_question
+      label: Which of these are indications for ventilation?
+      hint: None
+      type: select_multiple
+      options:
+      - Oxygen therapy Mechanical ventilation Cardiac arrest Pneumonia Sepsis
+      - Other
+      required: false
+    - id: 3
+      name: cc_question
+      label: Which of these are critical care skills?
+      hint: None
+      type: select_multiple
+      options:
+      - Sepsis management Ventilator care Fluid management Pain management Cardiac
+        arrest management
+      - Other
+      required: false
+    - id: 4
+      name: sepsis_question_2
+      label: What is the definition of sepsis?
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vent_question_2
+      label: What is the definition of mechanical ventilation?
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_1
+      label: What is your role in the hospital?
+      hint: None
+      type: select_one
+      options:
+      - Doctor Nurse Medical Resident Other
+      - Other
+      required: false
+    - id: 7
+      name: question_2
+      label: How many years have you been working as a clinician?
+      hint: None
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question_3
+      label: Which of these hospitals have you worked in?
+      hint: None
+      type: select_multiple
+      options:
+      - Hospital A Hospital B Hospital C Hospital D
+      - Other
+      required: false
+    - id: 9
+      name: question_4
+      label: What is the highest level of education completed?
+      hint: None
+      type: select_one
+      options:
+      - Bachelor Master Doctorate
+      - Other
+      required: false
+    - id: 10
+      name: question_5
+      label: What is your certification status?
+      hint: None
+      type: select_one
+      options:
+      - Certified Not Certified Currently certified but not currently certified
+      - Other
+      required: false
+    - id: 11
+      name: question_6
+      label: What is your certification status in critical care?
+      hint: None
+      type: select_one
+      options:
+      - Certified Not Certified Currently certified but not currently certified
+      - Other
+      required: false
+    - id: 12
+      name: question_7
+      label: Do you have any certifications in emergency medicine?
+      hint: None
+      type: select_multiple
+      options:
+      - Certified Not Certified
+      - Other
+      required: false
+    - id: 13
+      name: question_8
+      label: What type of critical care do you work in?
+      hint: None
+      type: select_multiple
+      options:
+      - Adult Pediatric Neonatal
+      - Other
+      required: false
+    - id: 14
+      name: question_9
+      label: What type of medical device do you use in your critical care practice?
+      hint: None
+      type: select_multiple
+      options:
+      - Ventilator Cardiac Dialysis Central line
+      - Other
+      required: false
+    - id: 15
+      name: question_10
+      label: What type of critical care do you practice?
+      hint: None
+      type: select_multiple
+      options:
+      - ICU ER OR ICU
+      - Other
+      required: false
+    - id: 16
+      name: question_11
+      label: How much critical care do you practice?
+      hint: None
+      type: select_multiple
+      options:
+      - High Low Some None
+      - Other
+      required: false
+    - id: 17
+      name: question_12
+      label: How do you practice critical care?
+      hint: None
+      type: select_multiple
+      options:
+      - Clinical Research Both
+      - Other
+      required: false
+    - id: 18
+      name: question_13
+      label: Do you practice critical care in a hospital setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false
+    - id: 19
+      name: question_14
+      label: Do you practice critical care in an emergency setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false
+    - id: 20
+      name: question_15
+      label: Do you practice critical care in a surgical setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false
+    - id: 21
+      name: question_16
+      label: Do you practice critical care in an office setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false
+    - id: 22
+      name: question_17
+      label: Do you practice critical care in an ambulatory setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false
+    - id: 23
+      name: question_18
+      label: Do you practice critical care in a telehealth setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false
+    - id: 24
+      name: question_19
+      label: Do you practice critical care in an urgent care setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false
+    - id: 25
+      name: question_20
+      label: Do you practice critical care in a long term care setting?
+      hint: None
+      type: select_one
+      options:
+      - Yes No
+      - Other
+      required: false

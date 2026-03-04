@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Planter Collection Naming Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: planter_name
+      label: Planters
+      hint: What do you like about the name of the planter?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_suggestions
+      label: Name Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - Rose Garden
+      - Flower Power
+      - Garden Delight
+      - Petite Planter
+      - Nature's Nook
+      required: false
+    - id: 4
+      name: favorite_suggestion
+      label: Your Favorite Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_preferences
+      label: How would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: false
+    - id: 7
+      name: contact_preferences_2
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: State Eligibility Check
+    pages:
+    - id: 1
+      name: state_eligibility_check_form
+      label: State Eligibility Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: state_name
+      label: State Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: zip_code
+      label: zip code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: city_name
+      label: city name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state_eligibility_check_comments
+      label: State Eligibility Check Comments
+      hint: null
+      type: note
+      options: []
+      required: false

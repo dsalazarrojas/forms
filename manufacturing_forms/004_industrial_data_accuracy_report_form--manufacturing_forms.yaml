@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_data_accuracy_report_form
+    pages:
+    - id: 1
+      name: discrepancy
+      label: discrepancy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: severity
+      label: severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: evidence
+      label: evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: actions
+      label: corrective_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: severity_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: evidence_description
+      label: evidence_description
+      hint: null
+      type: text
+      options: []
+      required: false

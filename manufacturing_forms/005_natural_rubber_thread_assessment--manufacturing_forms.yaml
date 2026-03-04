@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Natural Rubber Thread Assessment
+    pages:
+    - id: 1
+      name: sample_received_label
+      label: Sample Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sample_id_label
+      label: Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_1_label
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_2_label
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_3_label
+      label: Rating 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: defect_1_label
+      label: Defect 1
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': None}'
+      - '{''label'': ''Wrinkling'', ''value'': ''wrinkling''}'
+      - '{''label'': ''Puckering'', ''value'': ''pucker''}'
+      - '{''label'': ''Cracking'', ''value'': ''cracking''}'
+      required: false
+    - id: 7
+      name: defect_2_label
+      label: Defect 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': None}'
+      - '{''label'': ''Wrinkling'', ''value'': ''wrinkling''}'
+      - '{''label'': ''Puckering'', ''value'': ''pucker''}'
+      - '{''label'': ''Cracking'', ''value'': ''cracking''}'
+      required: false
+    - id: 8
+      name: defect_3_label
+      label: Defect 3
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': None}'
+      - '{''label'': ''Wrinkling'', ''value'': ''wrinkling''}'
+      - '{''label'': ''Puckering'', ''value'': ''pucker''}'
+      - '{''label'': ''Cracking'', ''value'': ''cracking''}'
+      required: false
+    - id: 9
+      name: signed_evaluation_label
+      label: Signed Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature_label
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

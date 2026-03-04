@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Campaign Quote Request
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: email_confirmation
+      label: confirm email
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 5
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: campaign_name
+      label: campaign name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: services_needed
+      label: services needed
+      hint: null
+      type: select_multiple
+      options:
+      - video production
+      - graphic design
+      - content creation
+      required: false
+    - id: 10
+      name: services_description
+      label: services description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_team
+      label: assigned team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_date
+      label: created date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 22
+      name: updated
+      label: updated
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 23
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: form id
+      hint: null
+      type: text
+      options: []
+      required: false

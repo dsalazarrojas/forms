@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispatch Checklist For Cutting Boxes
+    pages:
+    - id: 1
+      name: dispatch_checklist_for_cutting_boxes_1
+      label: cut_box
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: cut_box_confirmed
+      label: is_cut_box_confirmed
+      hint: null
+      type: select_one
+      options:
+      - confirmed
+      - not_confirmed
+      required: false
+    - id: 3
+      name: cut_box_signatures
+      label: capture_signatures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cut_box_dispatch_notes
+      label: cut_box_dispatch_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cut_box_dispatch_date
+      label: cut_box_dispatch_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: cut_box_dispatch_time
+      label: cut_box_dispatch_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: cut_box_signature_capture
+      label: capture_cut_box_signatures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cut_box_dispatched_at
+      label: cut_box_dispatched_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: cut_box_dispatched_by
+      label: cut_box_dispatched_by
+      hint: null
+      type: text
+      options: []
+      required: false

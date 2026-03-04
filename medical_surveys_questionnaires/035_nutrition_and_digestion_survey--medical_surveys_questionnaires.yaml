@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition and Digestion Survey
+    pages:
+    - id: 1
+      name: survey_welcome
+      label: Welcome Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intake_frequency
+      label: How often do you drink liquids?
+      hint: null
+      type: select_one
+      options:
+      - Water
+      - Soda
+      - Juice
+      - Other
+      required: false
+    - id: 3
+      name: liquid_intake
+      label: How much liquid do you drink per day?
+      hint: null
+      type: select_one
+      options:
+      - 0-100ml
+      - 101-250ml
+      - 251-500ml
+      - 501-1000ml
+      - 1001-2000ml
+      - 2001ml+
+      required: false
+    - id: 4
+      name: food_intake_frequency
+      label: How often do you eat?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 5
+      name: food_intake_type
+      label: What do you eat?
+      hint: null
+      type: select_multiple
+      options:
+      - Meat
+      - Fish
+      - Fruits
+      - Vegetables
+      - Grains
+      - Snacks
+      required: false
+    - id: 6
+      name: digestive_health
+      label: What are your current digestive health issues?
+      hint: Please be as specific as possible.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hydration_frequency
+      label: How often do you drink?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 8
+      name: sleep_quality
+      label: Sleep quality
+      hint: Rate from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: exercise_frequency
+      label: Exercise frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 10
+      name: stress_levels
+      label: Stress levels
+      hint: Rate from 1-5
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: medication_use
+      label: Medication use
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 12
+      name: medication_type
+      label: What type of medication do you take?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Prescription
+      - Over-the-counter
+      - Dietary supplements
+      required: false
+    - id: 13
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 14
+      name: digestive_system_symptoms
+      label: Digestive system symptoms
+      hint: Please be as specific as possible.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Diabetes
+      - Hypertension
+      - High Cholesterol
+      - Heart Disease
+      - Cancer
+      - Other
+      required: false
+    - id: 16
+      name: nutrition_info
+      label: Nutrition info
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Nutritional Supplements
+      - Low-calorie food
+      - High-calorie food
+      - Low-fat foods
+      - High-fat foods
+      required: false
+    - id: 17
+      name: exercise_frequency_type
+      label: How often do you exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 18
+      name: exercise_type
+      label: What type of exercise do you do?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Aerobic
+      - Anaerobic
+      - Strength Training
+      - Flexibility
+      required: false
+    - id: 19
+      name: nutrition_info_type
+      label: What type of nutrition do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - High Protein
+      - High Fat
+      - High Carb
+      - High Fiber
+      required: false
+    - id: 20
+      name: digestive_system_hydration
+      label: Digestive system hydration level
+      hint: Rate from 1-5
+      type: select_one
+      options:
+      - Normal
+      - Low
+      - High
+      required: false
+    - id: 21
+      name: digestive_system_frequency
+      label: How often do you eat?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 22
+      name: digestive_system_symptoms_frequency
+      label: How often do you experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 23
+      name: digestive_system_symptoms_type
+      label: What symptoms do you experience?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Bloating
+      - Diarrhea
+      - Nausea
+      - Abdominal pain
+      required: false
+    - id: 24
+      name: digestive_system_symptoms_frequency_2
+      label: Frequency of symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 25
+      name: digestive_system_symptoms_type_2
+      label: Type of symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Bloating
+      - Diarrhea
+      - Nausea
+      - Abdominal pain
+      required: false

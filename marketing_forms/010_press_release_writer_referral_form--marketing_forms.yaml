@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: press_release_writer_referral_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: company_website
+      label: company_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_type
+      label: company_type
+      hint: null
+      type: select_one
+      options:
+      - Public Relations
+      - Private Relations
+      - Other
+      required: true
+    - id: 8
+      name: industry
+      label: industry
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Financial
+      - Healthcare
+      - Technology
+      - Other
+      required: true
+    - id: 9
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      - Other
+      required: true
+    - id: 10
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia
+      - Africa
+      - Other
+      required: true
+    - id: 11
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Marketing Manager
+      - Press Release Writer
+      - Other
+      required: true
+    - id: 12
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_opening
+      label: job_opening
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: job_opening_description
+      label: job_opening_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 17
+      name: job_start_date
+      label: job_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: job_end_date
+      label: job_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part Time
+      - Contract
+      - Other
+      required: true
+    - id: 20
+      name: job_hours
+      label: job_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false

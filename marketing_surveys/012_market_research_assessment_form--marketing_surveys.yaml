@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Research Assessment Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: product_name
+      label: product-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: overall-rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: rating_2
+      label: overall-rating-2
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_zone
+      label: time-zone
+      hint: null
+      type: select_multiple
+      options:
+      - Pacific Time
+      - Mountain Time
+      - Central Time
+      - Eastern Time
+      required: false
+    - id: 14
+      name: timezone
+      label: time-zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: comments_2
+      label: comments-2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: comments_3
+      label: comments-3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: rating_3
+      label: overall-rating-3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: rating_4
+      label: overall-rating-4
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 20
+      name: rating_5
+      label: overall-rating-5
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 21
+      name: rating_6
+      label: rating-6
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: rating_7
+      label: rating-7
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 23
+      name: rating_8
+      label: overall-rating-8
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 24
+      name: rating_9
+      label: rating-9
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 25
+      name: rating_10
+      label: overall-rating-10
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false

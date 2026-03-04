@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Staff Check Out Form
+    pages:
+    - id: 1
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: check_out_date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: check_out_time
+      label: Check Out Time
+      hint: 12h Minimalist
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: reason
+      label: Reason
+      hint: "\u0E1B\u0E23\u0E30\u0E01"
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_staff
+      label: Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 9
+      name: check_out_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - confirmed
+      required: true
+    - id: 10
+      name: checked_out_by
+      label: Checked Out By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: checked_out_to
+      label: Checked Out To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: checked_out_time
+      label: Checked Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: checked_in_by
+      label: Checked In By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: checked_in_time
+      label: Checked In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: remarks2
+      label: Remarks2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: remarks3
+      label: Remarks3
+      hint: null
+      type: text
+      options: []
+      required: false

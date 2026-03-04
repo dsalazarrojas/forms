@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient History Declaration Form
+    pages:
+    - id: 1
+      name: patient_medical_history
+      label: Patient Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: Provide detailed information about your medical history.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: family_history
+      label: Family History
+      hint: Provide detailed information about your family medical history.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_history_declaration
+      label: Patient History Declaration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

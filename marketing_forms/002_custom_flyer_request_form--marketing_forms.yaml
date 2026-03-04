@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Flyer Request Form
+    pages:
+    - id: 1
+      name: form_info
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_required
+      label: Date Required
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_required
+      label: Time Required
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_one
+      options:
+      - Flyer
+      - Brochure
+      - Poster
+      - Other
+      required: true
+    - id: 11
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      required: true
+    - id: 12
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_one
+      options:
+      - Arial
+      - Times New Roman
+      - Helvetica
+      - Courier New
+      required: true
+    - id: 13
+      name: paper_size
+      label: Paper Size
+      hint: null
+      type: select_multiple
+      options:
+      - A3
+      - A4
+      - A5
+      required: true
+    - id: 14
+      name: design_type
+      label: Design Type
+      hint: null
+      type: select_one
+      options:
+      - Digital
+      - Print
+      required: true
+    - id: 15
+      name: design_notes
+      label: Design Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: true

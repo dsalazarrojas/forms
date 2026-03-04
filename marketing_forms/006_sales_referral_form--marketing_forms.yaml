@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Referral Form
+    pages:
+    - id: 1
+      name: sales_referral_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_referral_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_referral_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: sales_referral_form_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_referral_form_sales_person
+      label: Sales Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sales_referral_form_referrer
+      label: Referrer
+      hint: null
+      type: select_one
+      options:
+      - Auto Sales Person 1
+      - Auto Sales Person 2
+      - Auto Sales Person 3
+      - Auto Sales Person 4
+      required: false
+    - id: 7
+      name: sales_referral_form_referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sales_referral_form_referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false

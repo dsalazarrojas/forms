@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Ad Sentiment Survey
+    pages:
+    - id: 1
+      name: ad_effectiveness
+      label: What is the overall effect of this ad?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 2
+      name: emotional_impact
+      label: How does this ad make you feel?
+      hint: null
+      type: select_one
+      options:
+      - Happy
+      - Angry
+      - Sad
+      - Bored
+      - Excited
+      - Relaxed
+      required: false
+    - id: 3
+      name: donation_intent
+      label: Are you more likely to donate as a result of seeing this ad?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 4
+      name: emotional_impact_scale
+      label: How strongly do you feel the ad's emotional impact?
+      hint: null
+      type: select_one
+      options:
+      - 1 - 2 - 3 - 4 - 5 - 6 - 7
+      - Other
+      required: false
+    - id: 5
+      name: positive_thoughts
+      label: What positive thoughts does this ad evoke?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: negative_thoughts
+      label: What negative thoughts does this ad evoke?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_amount
+      label: If yes, how much are you willing to donate?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_spent
+      label: How much time do you spend looking at this ad?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_day
+      label: Time of day?
+      hint: null
+      type: time
+      options: []
+      required: false

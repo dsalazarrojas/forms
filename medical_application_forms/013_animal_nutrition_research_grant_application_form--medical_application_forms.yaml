@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Nutrition Research Grant Application Form
+    pages:
+    - id: 1
+      name: lead_researcher
+      label: Lead Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: academic_institution
+      label: Academic Institution or Research Center
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_title
+      label: Research Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: research_abstract
+      label: Abstract of Proposed Research
+      hint: Maximum 500 words
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nutrients_studied
+      label: Specific Nutrients or Diets under Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: study_duration_months
+      label: Estimated Study Duration - Months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_budget_requested
+      label: Total Budget Requested
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: budget_breakdown
+      label: Use of Funds Breakdown
+      hint: Briefly list major expense categories
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ethical_approval_status
+      label: IACUC or Ethical Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not yet submitted
+      - Not applicable
+      required: true
+    - id: 10
+      name: publication_history
+      label: Recent Publications in Animal Nutrition
+      hint: List top 3 recent papers
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: researcher_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true

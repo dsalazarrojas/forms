@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_demo_and_freebie_sample_request_form
+    pages:
+    - id: 1
+      name: product_demo_and_freebie_sample_request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_demo_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: demo_type
+      label: Demo Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''product-demo-and-freebie-sample-request-form-demo-type-choices'',
+        ''label'': ''Product Demo'', ''value'': ''product_demo''}'
+      - '{''id'': 5, ''name'': ''product-demo-and-freebie-sample-request-form-demo-type-choices-2'',
+        ''label'': ''Freebie Sample'', ''value'': ''freebie_sample''}'
+      required: false
+    - id: 4
+      name: demo_date
+      label: Demo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: demo_time
+      label: Demo Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: sample_amount
+      label: Sample Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_amount
+      label: Shipping Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

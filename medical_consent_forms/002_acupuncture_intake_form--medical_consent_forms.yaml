@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: chief_complaint
+      label: Chief Complaint
+      hint: What brings you in today
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: symptom_onset
+      label: When did symptoms begin?
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 weeks ago
+      - 2 to 4 weeks ago
+      - 1 to 3 months ago
+      - 3 to 6 months ago
+      - More than 6 months ago
+      required: true
+    - id: 8
+      name: symptom_frequency
+      label: How often do you experience symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Constant
+      - Several times daily
+      - Daily
+      - Several times weekly
+      - Weekly or less
+      required: true
+    - id: 9
+      name: pain_severity
+      label: Pain Severity on Scale 1-10
+      hint: 1 is minimal, 10 is worst imaginable
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: past_treatments
+      label: Previous treatments attempted
+      hint: What treatments have you tried for this condition
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history_section
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: serious_illnesses
+      label: Serious illnesses or surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_medications
+      label: Current medications and supplements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Known allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Are you pregnant or could you be pregnant?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Uncertain
+      required: true
+    - id: 16
+      name: recent_vaccinations
+      label: Recent vaccinations
+      hint: Any in the past 3 months
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lifestyle_section
+      label: Lifestyle and Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: sleep_quality
+      label: Sleep quality and hours per night
+      hint: null
+      type: select_one
+      options:
+      - Excellent - 8 plus hours
+      - Good - 7-8 hours
+      - Fair - 5-7 hours
+      - Poor - Less than 5 hours
+      required: false
+    - id: 19
+      name: stress_level
+      label: Current stress level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: false
+    - id: 20
+      name: exercise_frequency
+      label: Exercise frequency
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-7 times per week
+      required: false
+    - id: 21
+      name: consent_acknowledgment
+      label: I acknowledge that I have read and understand the risks and benefits
+        of acupuncture treatment
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 22
+      name: medical_provider_consent
+      label: I consent to contact my medical provider if necessary
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clubfoot Assessment Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: clinician_name
+      label: Clinician Name
+      hint: Healthcare provider conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: affected_side
+      label: Affected Side
+      hint: Left, right, or bilateral
+      type: select_one
+      options:
+      - Left Foot Only
+      - Right Foot Only
+      - Both Feet
+      required: true
+    - id: 7
+      name: age_at_diagnosis
+      label: Age at Diagnosis
+      hint: In years or months
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_treatment
+      label: Current Treatment Status
+      hint: Select current treatment
+      type: select_one
+      options:
+      - Pre-Treatment
+      - In Progress
+      - Post-Surgical
+      - Completed
+      - Maintenance
+      required: true
+    - id: 9
+      name: pain_level
+      label: Current Pain Level
+      hint: Rate pain on 0-10 scale
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: range_of_motion
+      label: Range of Motion Status
+      hint: Assess flexibility
+      type: select_one
+      options:
+      - Severely Limited
+      - Limited
+      - Moderate
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: walking_ability
+      label: Walking or Mobility Ability
+      hint: Current functional status
+      type: select_one
+      options:
+      - Non-Ambulatory
+      - Assisted Devices Required
+      - Limited Mobility
+      - Independent Walking
+      - Full Mobility
+      required: true
+    - id: 12
+      name: gait_pattern
+      label: Gait Pattern Assessment
+      hint: How does patient walk
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skin_condition
+      label: Skin Condition
+      hint: Any irritation or breakdown
+      type: select_one
+      options:
+      - Normal
+      - Mild Irritation
+      - Moderate Breakdown
+      - Severe Breakdown
+      - Other
+      required: true
+    - id: 14
+      name: footwear_fit
+      label: Footwear Fit and Comfort
+      hint: Any fit issues
+      type: select_one
+      options:
+      - Excellent Fit
+      - Good Fit
+      - Adequate Fit
+      - Poor Fit
+      - No Orthotic Device
+      required: false
+    - id: 15
+      name: complications_noted
+      label: Any Complications or Concerns
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: treatment_recommendations
+      label: Recommendations for Next Visit
+      hint: Treatment plan notes
+      type: text
+      options: []
+      required: false

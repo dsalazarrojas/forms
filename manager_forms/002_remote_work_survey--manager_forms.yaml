@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Survey
+    pages:
+    - id: 1
+      name: remote_work_survey
+      label: Remote Work Survey
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 2
+      name: work_from_home_policy
+      label: Work From Home Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_from_home_days
+      label: Work From Home Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      required: false
+    - id: 5
+      name: remote_work_survey_comments
+      label: Remote Work Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - Other
+      required: false
+    - id: 11
+      name: remote_work_survey_date
+      label: Remote Work Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: work_from_home_hours
+      label: Work From Home Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: remote_work_survey_time
+      label: Remote Work Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: remote_work_survey_status
+      label: Remote Work Survey Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - Other
+      required: false
+    - id: 16
+      name: synced_applications
+      label: Synced Applications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      required: false
+    - id: 17
+      name: employee_comment
+      label: Employee Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: synced_apps
+      label: Synced Apps
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      required: false
+    - id: 19
+      name: survey_type
+      label: Survey Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 20
+      name: remote_work_survey_id
+      label: Remote Work Survey ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sync_with
+      label: Sync With
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - Other
+      required: false
+    - id: 22
+      name: remote_work_survey_link
+      label: Remote Work Survey Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sync_with_app
+      label: Sync With App
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - Other
+      required: false
+    - id: 24
+      name: synced_app
+      label: Synced App
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option3''}'
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - Other
+      required: false
+    - id: 26
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - Other
+      required: false
+    - id: 27
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 29
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - Other
+      required: false
+    - id: 30
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: submitted_time_to
+      label: Submitted Time To
+      hint: null
+      type: time
+      options: []
+      required: false

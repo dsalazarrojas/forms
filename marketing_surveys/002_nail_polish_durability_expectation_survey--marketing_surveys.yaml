@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Polish Durability Expectation Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Welcome to the Nail Polish Durability Expectation Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: polish_color
+      label: What is the color of the polish you're using?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: polish_brand
+      label: Which nail polish brand are you using?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wear_time
+      label: How long did it take for the polish to wear off?
+      hint: null
+      type: select_one
+      options:
+      - 1-5 days
+      - 5-10 days
+      - 10+ days
+      required: false
+    - id: 5
+      name: quality_score
+      label: How would you rate the overall quality of the polish?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: finish_scratch
+      label: How many times have you had to reapply the polish due to chipping or
+        fading?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: chip_factors
+      label: What causes the polish to chip?
+      hint: null
+      type: select_multiple
+      options:
+      - Finger nail care (nail biting, picking, etc.)
+      - Environmental factors (water, chemicals, etc.)
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: chip_reasons
+      label: Please specify other chip factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: finish_duration
+      label: How long did the polish last?
+      hint: null
+      type: select_one
+      options:
+      - 1-5 days
+      - 5-10 days
+      - 10+ days
+      required: false
+    - id: 10
+      name: finish_quality
+      label: How would you rate the finish quality of the polish?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: How satisfied are you with the polish?
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false

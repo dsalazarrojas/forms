@@ -1,0 +1,154 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Compliance Check Request Form
+    pages:
+      - id: 1
+        name: requestor_name
+        label: Requestor Full Name
+        hint: Enter your full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: requestor_email
+        label: Requestor Email Address
+        hint: We will send updates to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Select your department
+        type: select_one
+        options:
+          - Marketing
+          - Legal
+          - Product
+          - Sales
+          - Communications
+          - Other
+        required: true
+      - id: 4
+        name: project_name
+        label: Project Name
+        hint: Name of the project requiring compliance review
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: compliance_type
+        label: Type of Compliance Check
+        hint: What type of review do you need
+        type: select_one
+        options:
+          - Brand Guidelines Review
+          - Legal Compliance
+          - Regulatory Compliance
+          - Trademark Review
+          - Copyright Review
+          - Full Compliance Audit
+        required: true
+      - id: 6
+        name: materials_description
+        label: Materials Description
+        hint: Describe the materials requiring review
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: target_audience
+        label: Target Audience
+        hint: Who will see these materials
+        type: select_one
+        options:
+          - Internal Employees
+          - General Public
+          - B2B Clients
+          - B2C Consumers
+          - Partners and Vendors
+          - Media and Press
+        required: false
+      - id: 8
+        name: distribution_channels
+        label: Distribution Channels
+        hint: Where will these materials be used
+        type: select_multiple
+        options:
+          - Website
+          - Social Media
+          - Print Advertising
+          - Email Campaigns
+          - Trade Shows
+          - Television
+          - Radio
+          - Outdoor Advertising
+        required: false
+      - id: 9
+        name: deadline_date
+        label: Review Deadline
+        hint: When do you need this review completed
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: priority_level
+        label: Priority Level
+        hint: How urgent is this request
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 11
+        name: brand_guidelines_attached
+        label: Have you attached brand guidelines
+        hint: Upload any relevant brand guideline documents
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 12
+        name: previous_review_reference
+        label: Previous Review Reference
+        hint: Reference number if this was reviewed before
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other information that would help the review
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: signature
+        label: Electronic Signature
+        hint: Type your full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: submission_date
+        label: Submission Date
+        hint: Date of this request
+        type: date
+        options: []
+        required: true

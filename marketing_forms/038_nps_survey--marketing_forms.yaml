@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: NPS Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: On a scale of 0-10, how likely are you to recommend our products or services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: what do you like about our products or services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: what do you dislike about our products or services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: How likely are you to recommend our competitors?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: page_2
+      label: Follow up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: What would make you more likely to use our products or services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_6
+      label: What would make you less likely to use our products or services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_7
+      label: Any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Notepad Theme
+    pages:
+    - id: 1
+      name: welcome_message
+      label: Welcome - Leave Us a Message
+      hint: We would love to hear from you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sender_name
+      label: Your Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_email
+      label: Email Address
+      hint: So we can get back to you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sender_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subject
+      label: Subject
+      hint: What is this regarding
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: Select the category that best fits
+      type: select_one
+      options:
+      - General Question
+      - Product Information
+      - Service Inquiry
+      - Partnership Opportunity
+      - Feedback
+      - Other
+      required: true
+    - id: 8
+      name: message
+      label: Your Message
+      hint: Write your message here
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need a response
+      type: select_one
+      options:
+      - Not Urgent
+      - Somewhat Urgent
+      - Urgent
+      - Very Urgent
+      required: false
+    - id: 10
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: When should we reach out
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 11
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Would you like to receive updates
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: false
+    - id: 12
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Optional referral source
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Friend or Colleague
+      - Advertisement
+      - Website Link
+      - Other
+      required: false

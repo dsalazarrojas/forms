@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: J Pouch Survey
+    pages:
+    - id: 1
+      name: survey_participation
+      label: What is your medical condition?
+      hint: null
+      type: select_multiple
+      options:
+      - Pouchitis
+      - Diarrhea
+      - Abdominal Pain
+      - Bloating
+      - Other
+      - None
+      required: false
+    - id: 2
+      name: symptoms_duration
+      label: How long have you experienced symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1 week to 1 year
+      - More than 1 year
+      - None
+      required: false
+    - id: 3
+      name: treatment_plan
+      label: What kind of treatment plan is this?
+      hint: null
+      type: select_multiple
+      options:
+      - Medication
+      - Diet
+      - Surgery
+      - Other
+      - None
+      required: true
+    - id: 4
+      name: medical_history
+      label: Do you have a pre-existing medical condition?
+      hint: null
+      type: select_multiple
+      options:
+      - Pouchitis
+      - IBS
+      - Ulcerative Colitis
+      - Crohn's Disease
+      - Other
+      - None
+      required: true
+    - id: 5
+      name: symptoms_frequency
+      label: How often do you experience symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - Occasionally
+      - Rarely
+      - None
+      required: true
+    - id: 6
+      name: impact_on_life
+      label: How do you rate the impact on your daily life?
+      hint: null
+      type: select_one
+      options:
+      - Severe
+      - Moderate
+      - Slight
+      - None
+      required: false
+    - id: 7
+      name: medical_history_other
+      label: Other medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications_taking
+      label: Are you currently taking any medications?
+      hint: null
+      type: select_multiple
+      options:
+      - Medication A
+      - Medication B
+      - Other
+      - None
+      required: false
+    - id: 9
+      name: medication_frequency
+      label: How often do you take medication?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - Occasionally
+      - Rarely
+      - None
+      required: true
+    - id: 10
+      name: doctor_visits
+      label: How often do you visit the doctor?
+      hint: null
+      type: select_one
+      options:
+      - Every time
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 11
+      name: medical_team
+      label: Who is your medical team?
+      hint: null
+      type: select_multiple
+      options:
+      - Specialist
+      - General Practitioner
+      - Family Doctor
+      - Other
+      - None
+      required: false
+    - id: 12
+      name: comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: survey_participation
+      label: How did you find this survey?
+      hint: null
+      type: select_one
+      options:
+      - Helpful
+      - Unhelpful
+      - Not applicable
+      required: false
+    - id: 14
+      name: age
+      label: Age
+      hint: Enter your age
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      - None
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_method
+      label: How would you like to contact us?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Other
+      - None
+      required: false
+    - id: 18
+      name: phone
+      label: Phone number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: survey_date
+      label: Survey date
+      hint: Enter the date of the survey
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: consent
+      label: Do you agree to the terms of the survey?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: survey_time
+      label: Time of the survey
+      hint: Enter the time of the survey
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history_ibs
+      label: Have you ever had IBS?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: medical_history_crohns_disease
+      label: Have you ever had Crohns Disease?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

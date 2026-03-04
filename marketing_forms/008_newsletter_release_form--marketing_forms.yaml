@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Release Form
+    pages:
+    - id: 1
+      name: publish_date
+      label: Publish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: approval_date
+      label: approval_date
+      hint: The date of approval
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: published_channel
+      label: Published Channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: approval_level
+      label: approval_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: issue_number
+      label: Issue Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: issue_title
+      label: Issue Title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: estimate_advertising_budget_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Video Ad''}'
+      - '{''id'': 2, ''label'': ''Image Ad''}'
+      - '{''id'': 3, ''label'': ''Social Media Ad''}'
+      required: false
+    - id: 3
+      name: ad_budget
+      label: Ad Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 10
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: estimated_cost_breakdown
+      label: Estimated Cost Breakdown
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Digital''}'
+      - '{''id'': 2, ''label'': ''Print''}'
+      - '{''id'': 3, ''label'': ''Social Media''}'
+      required: true

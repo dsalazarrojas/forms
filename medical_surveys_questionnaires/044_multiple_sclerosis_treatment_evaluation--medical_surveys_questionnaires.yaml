@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Sclerosis Treatment Evaluation
+    pages:
+    - id: 1
+      name: ms_treatment_experience
+      label: What was your experience like with the treatment?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ms_treatment_effectiveness
+      label: How would you rate the effectiveness of the treatment?
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Neutral
+      - Somewhat Ineffective
+      - Not at All Effective
+      required: false
+    - id: 3
+      name: ms_side_effects
+      label: Did you experience any side effects?
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'Yes'
+      required: false
+    - id: 4
+      name: ms_treatment_outcome
+      label: What was the outcome of your treatment experience?
+      hint: null
+      type: select_one
+      options:
+      - Improved
+      - No change
+      - Worsened
+      required: false
+    - id: 5
+      name: ms_additional_comments
+      label: Additional comments or concerns about your treatment experience?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_disease_status
+      label: What is your disease status?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Remission
+      - Relapsing
+      - Primary Progressive
+      required: false
+    - id: 7
+      name: treatment_dose
+      label: What was your treatment dose?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 8
+      name: treatment_duration
+      label: How long did you receive the treatment?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: treatment_frequency
+      label: How often did you receive the treatment?
+      hint: null
+      type: select_one
+      options:
+      - Once a day
+      - Once a week
+      - Once a month
+      required: true
+    - id: 10
+      name: treatment_duration_unit
+      label: What unit of time did you receive the treatment?
+      hint: null
+      type: select_one
+      options:
+      - Days
+      - Weeks
+      - Months
+      required: false

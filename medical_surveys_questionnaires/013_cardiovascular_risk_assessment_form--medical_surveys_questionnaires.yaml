@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_risk_header
+      label: -- Patient Information & Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name_full
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: physical_measurements_header
+      label: -- Physical Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: patient_height_cm
+      label: Height (cm)
+      hint: Enter height in centimeters
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: patient_weight_kg
+      label: Weight (kg)
+      hint: Enter weight in kilograms
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: physical_bmi_value
+      label: Body Mass Index (BMI)
+      hint: Calculated as Weight (kg) / [Height (m) * Height (m)]
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_factors_header
+      label: -- Health Risk Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: family_history_cad_diagnosis
+      label: Family History of Coronary Artery Disease (CAD)
+      hint: Male relatives <55 or female relatives <65
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 10
+      name: diabetes_diagnosis_history
+      label: History of Diabetes Mellitus
+      hint: Select one
+      type: select_one
+      options:
+      - label: Type 1
+        value: type_1
+      - label: Type 2
+        value: type_2
+      - label: None
+        value: none
+      required: true
+    - id: 11
+      name: cholesterol_levels_header
+      label: -- Laboratory Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cholesterol_total_mg_dl
+      label: Total Cholesterol (mg/dL)
+      hint: Measured during recent blood panel
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: cholesterol_hdl_mg_dl
+      label: HDL Cholesterol (mg/dL)
+      hint: Measured during recent blood panel
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: blood_pressure_systolic_value
+      label: Systolic Blood Pressure (mmHg)
+      hint: Top number of recent reading
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: asc_vd_risk_score_calculated
+      label: Calculated 10-Year ASCVD Risk Score (%)
+      hint: Calculated from standardized risk tool
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: cardiovascular_risk_category_assigned
+      label: Assigned Cardiovascular Risk Category
+      hint: Based on clinical assessment and risk score
+      type: select_one
+      options:
+      - label: Low (<5%)
+        value: low
+      - label: Borderline (5-7.5%)
+        value: borderline
+      - label: Intermediate (7.5-20%)
+        value: intermediate
+      - label: High (>20%)
+        value: high
+      required: true

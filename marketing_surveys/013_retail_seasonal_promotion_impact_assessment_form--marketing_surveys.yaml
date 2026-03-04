@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Seasonal Promotion Impact Assessment Form
+    pages:
+    - id: 1
+      name: retail_seasonal_promotion_impact_assessment
+      label: retail seasonal promotion impact assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: store_id
+      label: store id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_id
+      label: product id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: product_type_id
+      label: product type id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: promotion_type
+      label: promotion type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: promotion_start_date
+      label: promotion start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: promotion_end_date
+      label: promotion end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: sales_increase
+      label: sales increase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_feedback
+      label: customer feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: store_manager_id
+      label: store manager id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: regional_manager_id
+      label: regional manager id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_channel_id
+      label: sales channel id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_region_id
+      label: sales region id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: store_name
+      label: store name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: promotion_budget
+      label: promotion budget
+      hint: null
+      type: number
+      options: []
+      required: false

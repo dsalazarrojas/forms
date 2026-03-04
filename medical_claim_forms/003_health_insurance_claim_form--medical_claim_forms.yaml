@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Insurance Claim Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: provider_name
+      label: provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: provider_license_number
+      label: provider_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_relationship
+      label: patient_relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''value1''}'
+      - '{''option2'': ''value2''}'
+      required: false
+    - id: 8
+      name: insurance_id
+      label: insurance_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

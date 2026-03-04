@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Maintenance Log Form
+    pages:
+    - id: 1
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details about your vehicle
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: license_plate
+      label: License Plate
+      hint: Plate number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: owner_name
+      label: Owner Name
+      hint: Vehicle owner
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: maintenance_record
+      label: Maintenance Record
+      hint: Service details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_date
+      label: Service Date
+      hint: When was service performed?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_type
+      label: Service Type
+      hint: What type of service?
+      type: select_one
+      options:
+      - Oil Change
+      - Tire Rotation
+      - Brake Service
+      - Transmission Service
+      - Engine Tune-Up
+      - Battery Replacement
+      - Filter Replacement
+      - Fluid Top-Up
+      - Inspection
+      - Repair
+      - Other
+      required: true
+    - id: 12
+      name: service_category
+      label: Service Category
+      hint: Category of maintenance
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Preventive Maintenance
+      - Corrective Repair
+      - Emergency Repair
+      - Recall Service
+      - Warranty Work
+      required: true
+    - id: 13
+      name: service_mileage
+      label: Mileage at Service
+      hint: Odometer at time of service
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: service_provider
+      label: Service Provider
+      hint: Who performed the service?
+      type: select_one
+      options:
+      - Dealership
+      - Independent Shop
+      - Chain Service Center
+      - DIY
+      - Mobile Service
+      - Other
+      required: true
+    - id: 15
+      name: service_provider_name
+      label: Service Provider Name
+      hint: Name of shop or technician
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: service_location
+      label: Service Location
+      hint: City and state
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parts_replaced
+      label: Parts Replaced
+      hint: List parts that were replaced
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parts_cost
+      label: Parts Cost
+      hint: Cost of parts
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: labor_cost
+      label: Labor Cost
+      hint: Cost of labor
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_cost
+      label: Total Cost
+      hint: Total service cost
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: warranty_coverage
+      label: Warranty Coverage
+      hint: Was warranty used?
+      type: select_one
+      options:
+      - Yes - fully covered
+      - Yes - partially covered
+      - No - not covered
+      - Not applicable
+      required: false
+    - id: 22
+      name: next_service_due
+      label: Next Service Due
+      hint: When is next service due?
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_service_mileage
+      label: Next Service Mileage
+      hint: Mileage for next service
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: service_notes
+      label: Service Notes
+      hint: Additional notes from service
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: issues_found
+      label: Issues Found
+      hint: Any issues discovered?
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Major issues
+      - Needs follow-up
+      required: true
+    - id: 26
+      name: issues_description
+      label: Issues Description
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: recommendations
+      label: Technician Recommendations
+      hint: Recommended future services
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: receipt_attached
+      label: Receipt Attached
+      hint: Do you have the receipt?
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will upload
+      - false
+      required: false
+    - id: 29
+      name: fluid_levels_checked
+      label: Fluid Levels Checked
+      hint: Were fluids checked?
+      type: select_one
+      options:
+      - Yes - all good
+      - Yes - some low
+      - false
+      required: false
+    - id: 30
+      name: fluids_toped_up
+      label: Fluids Topped Up
+      hint: Which fluids were added?
+      type: select_multiple
+      options:
+      - Engine Oil
+      - Coolant
+      - Brake Fluid
+      - Transmission Fluid
+      - Power Steering Fluid
+      - Windshield Washer Fluid
+      - None
+      required: false
+    - id: 31
+      name: tire_condition
+      label: Tire Condition
+      hint: Current tire condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor - needs replacement
+      - Not checked
+      required: false
+    - id: 32
+      name: tire_pressure
+      label: Tire Pressure
+      hint: PSI reading
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: brake_condition
+      label: Brake Condition
+      hint: Current brake condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor - needs service
+      - Not checked
+      required: false
+    - id: 34
+      name: battery_condition
+      label: Battery Condition
+      hint: Current battery condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor - needs replacement
+      - Not checked
+      required: false
+    - id: 35
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other notes
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: log_entry_date
+      label: Log Entry Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

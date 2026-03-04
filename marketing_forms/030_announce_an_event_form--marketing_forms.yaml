@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Announce An Event Form
+    pages:
+    - id: 1
+      name: organizer_header
+      label: -- Event Organizer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organizer_name
+      label: Organizer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization or Company Name
+      hint: Name of the organizing entity
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_url
+      label: Organization Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_title
+      label: Event Title
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_description
+      label: Event Description
+      hint: Detailed description of your event
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_category
+      label: Event Category
+      hint: What type of event
+      type: select_one
+      options:
+      - Conference
+      - Workshop or Seminar
+      - Concert or Music Event
+      - Sports Event
+      - Art or Cultural Event
+      - Community Event
+      - Networking Event
+      - Charity or Fundraiser
+      - Festival or Fair
+      - Lecture or Presentation
+      - Other
+      required: true
+    - id: 11
+      name: event_date_header
+      label: -- Event Date and Time --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: event_start_date
+      label: Event Start Date
+      hint: When does the event begin
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: event_start_time
+      label: Event Start Time
+      hint: What time does it start
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: event_end_date
+      label: Event End Date
+      hint: When does the event end
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: event_end_time
+      label: Event End Time
+      hint: What time does it end
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: location_header
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: location_type
+      label: Event Location Type
+      hint: Where is the event
+      type: select_one
+      options:
+      - In-person venue
+      - Virtual or Online
+      - Hybrid - Both in-person and virtual
+      - TBD - To be determined
+      required: true
+    - id: 18
+      name: venue_name
+      label: Venue Name
+      hint: Name of the venue or location
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: street_address
+      label: Street Address
+      hint: Physical address of venue
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: city
+      label: City
+      hint: City where event takes place
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: country
+      label: Country
+      hint: Country where event is held
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ticket_info_header
+      label: -- Ticketing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: admission_type
+      label: Admission Type
+      hint: Is there an entry fee
+      type: select_one
+      options:
+      - Free admission
+      - Paid tickets required
+      - Donation based
+      - RSVP only
+      - Membership required
+      required: true
+    - id: 25
+      name: ticket_price
+      label: Ticket Price
+      hint: Cost per ticket if applicable
+      type: number
+      options: []
+      required: false

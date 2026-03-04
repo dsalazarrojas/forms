@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Client Intake Form
+    pages:
+    - id: 1
+      name: digital_marketing_client_intake_form
+      label: digitalMarketingClientIntakeForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: jobTitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: clientName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_start_date
+      label: jobStartDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: job_deadline
+      label: jobDeadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_status
+      label: jobStatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Cancelled
+      required: false
+    - id: 9
+      name: client_location
+      label: clientLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_type
+      label: jobType
+      hint: null
+      type: select_one
+      options:
+      - Social Media Management
+      - Content Creation
+      - SEO
+      - PPC
+      - Video Production
+      - Graphic Design
+      - Photography
+      - Branding
+      - Other
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_budget
+      label: clientBudget
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Valve Inspection Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: valve_details
+      label: Valve Details
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Leaking
+      - Closed
+      - Open
+      - Sticky
+      - Stuck
+      required: false
+    - id: 3
+      name: photo_evidence
+      label: Photo Evidence
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: valve_status
+      label: Valve Status
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Warning
+      - Critical
+      - Emergency
+      required: false
+    - id: 5
+      name: maintenance_plan
+      label: Maintenance Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: asset_name
+      label: Asset Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: technician
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: recommended_replacements
+      label: Recommended Replacements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: maintenance_schedule
+      label: Maintenance Schedule
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 30 days
+      - Within 1 week
+      - Within 1 month
+      - Within 6 months
+      - Within 1 year
+      required: false
+    - id: 15
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: false

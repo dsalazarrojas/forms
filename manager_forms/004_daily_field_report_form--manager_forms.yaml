@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_field_report_form
+    pages:
+    - id: 1
+      name: date_of_work
+      label: Date of work
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: crew_id
+      label: crew_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_status
+      label: work_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: work_status_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false

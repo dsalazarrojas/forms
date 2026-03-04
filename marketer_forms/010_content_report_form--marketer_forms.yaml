@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Report Form
+    pages:
+      - id: 1
+        name: reporter_info_header
+        label: -- Reporter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporter_email
+        label: Your Email Address
+        hint: We will notify you when the issue is resolved
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: content_issue_header
+        label: -- Issue Details --
+        hint: Tell us what is wrong with the content
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: content_url
+        label: URL of the Content
+        hint: Link to the specific page or post
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: issue_category
+        label: Issue Category
+        hint: null
+        type: select_one
+        options:
+          - Broken Link or Media
+          - Typographical or Grammar Error
+          - Outdated Information
+          - Technical Bug/Formatting Issue
+          - Offensive or Inappropriate Content
+          - Factually Incorrect Statement
+        required: true
+      - id: 7
+        name: issue_description
+        label: Detailed Description of the Issue
+        hint: Please explain the problem clearly
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: priority_level
+        label: Reported Priority
+        hint: How much does this affect the user experience
+        type: select_one
+        options:
+          - Low - Minor cosmetic issue
+          - Medium - Information is still readable
+          - High - Critical error or misinformation
+        required: true
+      - id: 9
+        name: suggested_fix
+        label: Suggested Fix (Optional)
+        hint: If you have the correct information, please provide it
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: screenshot_taken
+        label: Did you take a screenshot of the issue
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 11
+        name: report_date
+        label: Date Reported
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 12
+        name: device_info
+        label: Device or Browser Used
+        hint: e.g., Chrome on Android, Safari on Mac
+        type: text
+        options: []
+        required: false

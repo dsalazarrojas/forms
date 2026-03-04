@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Robotics Trial Registration Form
+    pages:
+    - id: 1
+      name: trial_request
+      label: Trial Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_info
+      label: site_details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Site 1''}'
+      - '{''value'': ''Site 2''}'
+      - '{''value'': ''Site 3''}'
+      required: false
+    - id: 3
+      name: trial_details
+      label: Trial Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trial_status
+      label: Trial Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 7
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Scheduled''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 8
+      name: trial_site
+      label: trial_site
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Site 1''}'
+      - '{''value'': ''Site 2''}'
+      - '{''value'': ''Site 3''}'
+      required: false

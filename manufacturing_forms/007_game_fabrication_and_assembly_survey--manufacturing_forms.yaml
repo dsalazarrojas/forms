@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Fabrication And Assembly Survey
+    pages:
+    - id: 1
+      name: game_fabrication_and_assembly_survey_form
+      label: game_fabrication_and_assembly_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_build_quality_rating
+      label: game_build_quality_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: manufacturing_process_performance_rating
+      label: manufacturing_process_performance_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback_on_process_improvement
+      label: feedback_on_process_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Process Improvement
+      - Quality Improvement
+      - Other
+      required: false
+    - id: 5
+      name: build_performance_risks
+      label: build_performance_risks
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - None
+      required: true
+    - id: 6
+      name: root_cause_analysis
+      label: root_cause_analysis
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: production_planning_team_name
+      label: production_planning_team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_planning_team_email
+      label: production_planning_team_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: production_planning_team_phone
+      label: production_planning_team_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: production_planning_team_department
+      label: production_planning_team_department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Production
+      - Quality Assurance
+      - Other
+      required: false
+    - id: 11
+      name: production_planning_team_manager_name
+      label: production_planning_team_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_planning_team_manager_email
+      label: production_planning_team_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: production_planning_team_manager_phone
+      label: production_planning_team_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: production_planning_team_manager_department
+      label: production_planning_team_manager_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: production_planning_team_leader_name
+      label: production_planning_team_leader_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: production_planning_team_leader_email
+      label: production_planning_team_leader_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: production_planning_team_leader_phone
+      label: production_planning_team_leader_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: production_planning_team_leader_department
+      label: production_planning_team_leader_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: production_planning_team_leader_title
+      label: production_planning_team_leader_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback_on_game_assembly_form
+      label: feedback_on_game_assembly_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: game_assembly_performance
+      label: game_assembly_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: game_assembly_process_rating
+      label: game_assembly_process_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: production_process_rating
+      label: production_process_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: process_performance_rating
+      label: process_performance_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: root_cause_of_performance_problem
+      label: root_cause_of_performance_problem
+      hint: null
+      type: select_one
+      options:
+      - Material
+      - Machine
+      - Process
+      - Other
+      required: false

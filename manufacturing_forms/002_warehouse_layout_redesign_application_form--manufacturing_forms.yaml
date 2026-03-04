@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Layout Redesign Application Form
+    pages:
+    - id: 1
+      name: warehouse_id
+      label: Warehouse ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: layout_issues
+      label: Layout Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Cramped
+      - Too much empty space
+      - Poor layout
+      - Insufficient storage
+      required: true
+    - id: 4
+      name: layout_goals
+      label: Layout Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: required_improvements
+      label: Required Improvements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

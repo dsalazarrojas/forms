@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acupuncture Informed Consent Form
+    pages:
+    - id: 1
+      name: --patient_information
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_history_summary
+      label: Medical history summary
+      hint: Major conditions allergies medications
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: treatment_risks
+      label: Acknowledgement of treatment risks
+      hint: Confirm you understand common risks
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: consent_to_treatment
+      label: Consent to acupuncture treatment
+      hint: Select to provide consent
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 8
+      name: contact_in_case_of_emergency
+      label: Emergency contact name and relation
+      hint: Name relation and phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: practitioner_notes
+      label: Practitioner notes and recommendations
+      hint: For clinician use
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_name
+      label: Signature name
+      hint: Typed name serves as signature
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_signed
+      label: Date signed
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

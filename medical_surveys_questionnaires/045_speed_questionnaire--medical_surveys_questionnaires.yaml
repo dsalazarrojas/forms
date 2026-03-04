@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speed Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 4
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: patient_gender_other
+      label: Other Gender
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: eye_problems
+      label: Eye Problems
+      hint: null
+      type: select_multiple
+      options:
+      - Dry Eyes
+      - Eye Strain
+      - Vision Disturbance
+      - Other
+      required: false
+    - id: 10
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: eye_disease
+      label: Eye Disease
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false

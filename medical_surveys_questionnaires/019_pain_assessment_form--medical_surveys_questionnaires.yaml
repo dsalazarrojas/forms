@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pain Assessment Form
+    pages:
+    - id: 1
+      name: body_location
+      label: Head
+      hint: null
+      type: select_one
+      options:
+      - Head
+      - Face
+      - Neck
+      - Chest
+      - Back
+      - Abdomen
+      - Pelvis
+      - Legs
+      - Genital
+      - Arms
+      - Hips
+      required: true
+    - id: 2
+      name: pain_intensity_head
+      label: Pain intensity in head
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pain_intensity_face
+      label: Pain intensity in face
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pain_intensity_neck
+      label: Pain intensity in neck
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pain_intensity_chest
+      label: Pain intensity in chest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pain_intensity_back
+      label: Pain intensity in back
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pain_intensity_abdomen
+      label: Pain intensity in abdomen
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: pain_intensity_pelvis
+      label: Pain intensity in pelvis
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pain_intensity_genital
+      label: Pain intensity in genital
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pain_intensity_arms
+      label: Pain intensity in arms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: pain_intensity_hips
+      label: Pain intensity in hips
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pain_intensity_legs
+      label: Pain intensity in legs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: pain_level
+      label: How much pain do you feel?
+      hint: On a scale of 0 to 10
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pain_level_frequency
+      label: How frequent is your pain?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-6 hours
+      - 6-8 hours
+      - 8-10 hours
+      - 10 hours or more
+      required: true
+    - id: 15
+      name: pain_level_duration
+      label: How long do you feel pain?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 minute
+      - 1-2 minutes
+      - 2-5 minutes
+      - 5-10 minutes
+      - 10-30 minutes
+      - 30 minutes or more
+      required: true
+    - id: 16
+      name: other_location
+      label: Other location(s)
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Face
+      - Neck
+      - Chest
+      - Back
+      - Abdomen
+      - Pelvis
+      - Legs
+      - Genital
+      - Arms
+      required: false
+    - id: 17
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

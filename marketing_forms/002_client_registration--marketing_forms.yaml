@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Registration
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will never share your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Including country code if applicable
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: business_information_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Type of Business
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - LLC
+      - Corporation
+      - Nonprofit
+      - Other
+      required: true
+    - id: 10
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: website
+      label: Business Website
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: billing_address_section
+      label: -- Billing Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: billing_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: billing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: billing_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: billing_zip
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: billing_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_address_section
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: same_as_billing
+      label: Same as billing address?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: shipping_street
+      label: Shipping Street Address
+      hint: Leave blank if same as billing
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_requirements
+      label: Any special requirements or preferences?
+      hint: Optional
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Rebate Form Template
+    pages:
+    - id: 1
+      name: rebate_intro
+      label: Black Friday Rebate Submission Form
+      hint: Submit your rebate claim for Black Friday purchases
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For rebate confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address_line_1
+      label: Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address_line_2
+      label: Address Line 2
+      hint: Apartment or suite
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you make the purchase
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: store_name
+      label: Store Name
+      hint: Where did you purchase
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: product_name
+      label: Product Name
+      hint: Name of product purchased
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: model_number
+      label: Model Number
+      hint: Product model or SKU
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: serial_number
+      label: Serial Number
+      hint: Product serial number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: purchase_price
+      label: Purchase Price
+      hint: Amount paid
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: rebate_amount
+      label: Rebate Amount Claimed
+      hint: Rebate amount from offer
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: receipt_number
+      label: Receipt Number
+      hint: Transaction or receipt number
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: receipt_upload
+      label: Receipt Upload URL
+      hint: Link to uploaded receipt image
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: upc_code
+      label: UPC Code
+      hint: Product barcode number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: rebate_method
+      label: Rebate Payment Method
+      hint: How do you want to receive rebate
+      type: select_one
+      options:
+      - Prepaid Card
+      - Check by Mail
+      - Direct Deposit
+      - Store Credit
+      required: true
+    - id: 22
+      name: terms_agreement
+      label: Terms Agreement
+      hint: I agree to rebate terms and conditions
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any notes about your submission
+      type: text
+      options: []
+      required: false

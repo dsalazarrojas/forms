@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Cost Adjustment Request Form
+    pages:
+    - id: 1
+      name: base_product
+      label: base_product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: adjustment_type
+      label: adjustment_type
+      hint: null
+      type: select_one
+      options:
+      - Item
+      - Process
+      required: false
+    - id: 3
+      name: adjustment_date
+      label: adjustment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: adjustment_description
+      label: adjustment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: proposed_cost_change
+      label: proposed_cost_change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_adjustment
+      label: reason_for_adjustment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: justification_for_change
+      label: justification_for_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      - Pending
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approved_date
+      label: approved_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: adjustment_status
+      label: adjustment_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 13
+      name: closed_date
+      label: closed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: closed_by
+      label: closed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: adjustment_value
+      label: adjustment_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: adjustment_value_change
+      label: adjustment_value_change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: adjustment_value_original
+      label: adjustment_value_original
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: adjustment_value_new
+      label: adjustment_value_new
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: adjustment_value_delta
+      label: adjustment_value_delta
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: adjustment_value_percentage
+      label: adjustment_value_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: adjustment_value_percentage_change
+      label: adjustment_value_percentage_change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approved_by_title
+      label: approved_by_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false

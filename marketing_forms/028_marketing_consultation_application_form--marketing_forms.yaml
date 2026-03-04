@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Consultation Application Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term goals
+      - Medium-term goals
+      - Long-term goals
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      - Video call
+      required: false
+    - id: 5
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: consultation_details
+      label: Consultation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

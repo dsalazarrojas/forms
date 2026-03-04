@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: nursing_home_communication_form
+    pages:
+    - id: 1
+      name: resident_info
+      label: resident_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: plan_of_care
+      label: plan_of_care
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: health_care_provider
+      label: health_care_provider
+      hint: null
+      type: select_one
+      options:
+      - Nurse
+      - Doctor
+      - Occupational Therapist
+      - Physical Therapist
+      - Social Worker
+      required: true
+    - id: 4
+      name: condition
+      label: condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: care_provider
+      label: care_provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

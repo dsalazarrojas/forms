@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Health Metrics Monitoring Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mental_health_status
+      label: mental_health_status
+      hint: null
+      type: select_one
+      options:
+      - Anxiety
+      - Bipolar Disorder
+      - Depressive Disorder
+      - Eating Disorder
+      - Post Traumatic Stress Disorder
+      required: false
+    - id: 4
+      name: treatment_goals
+      label: treatment_goals
+      hint: null
+      type: select_multiple
+      options:
+      - Mood regulation
+      - Anxiety reduction
+      - Sleep enhancement
+      - Energy level improvement
+      required: false
+    - id: 5
+      name: symptoms
+      label: symptoms
+      hint: Please specify any current mental health symptoms.
+      type: select_one
+      options:
+      - Anxiety
+      - Concentration problems
+      - Fatigue
+      - Insomnia
+      required: false
+    - id: 6
+      name: wellness_scale
+      label: wellness_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: treatment_outcome
+      label: treatment_outcome
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: mental_health_professional
+      label: mental_health_professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mental_health_professional_phone
+      label: mental_health_professional_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_health_professional_email
+      label: mental_health_professional_email
+      hint: null
+      type: email
+      options: []
+      required: false

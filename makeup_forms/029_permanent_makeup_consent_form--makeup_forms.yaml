@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Makeup Consent Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Microblading
+      - Eyebrow Correction
+      - Eyebrow Microshading
+      - Lip Liner
+      - Microshading
+      - Eyeliner
+      - Eyeliner Microshading
+      - Scalp Micropigmentation
+      - Lash Lifting
+      - Lash Lamination
+      - Lash Curling
+      - Lash Tinting
+      - Lash Lift
+      - Lash Curl
+      - Lash Perming
+      - Eyebrow Feathering
+      - Eyebrow Threading
+      - Eyebrow Lifting
+      - Eyebrow Lamination
+      - Eyebrow Perming
+      - Eyebrow Tinting
+      - Eyebrow Shading
+      - Eyebrow Shaping
+      - Eyebrow Lifting Perming
+      - Eyebrow Feathering Perming
+      - Eyebrow Shading Perming
+      - Scalp Microshading
+      - Scalp Microblading
+      - Scalp Toning
+      - Eyeliner Microshading
+      - Microshading
+      - Eyeliner Lifting Perming
+      - Lash Shading
+      required: false
+    - id: 4
+      name: permanent_makeup_services_location
+      label: Location
+      hint: Location of the service
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: permanent_makeup_services_date
+      label: Date
+      hint: Date of service
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: permanent_makeup_services_time
+      label: Time
+      hint: Time of service
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: permanent_makeup_services_duration
+      label: Duration
+      hint: Duration of service
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: permanent_makeup_services_price
+      label: Price
+      hint: Price of the service
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: permanent_makeup_services_terms
+      label: Terms of Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: permanent_makeup_services_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Climate Impact Awareness Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Healthcare Climate Impact Awareness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observed_impacts
+      label: Observed Impacts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: staff_priorities
+      label: Staff Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: action_items
+      label: Climate Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: observed_change
+      label: Observed Change
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_change
+      label: Expected Change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: climate_action_items
+      label: Climate Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: observed_impacts_2
+      label: Observed Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: staff_priorities_2
+      label: Staff Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

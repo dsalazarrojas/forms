@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Evaluation Form
+    pages:
+    - id: 1
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lifestyle
+      label: Lifestyle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: Please list all your medications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: health_status
+      label: Health Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''None''}'
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Private''}'
+      - '{''value'': ''Public''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Info
+      hint: Please provide your contact info
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_service
+      label: Medical Service
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 11
+      name: patient_lifestyle
+      label: Patient Lifestyle
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_lifestyle_question
+      label: Patient Lifestyle Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_lifestyle_answer
+      label: Patient Lifestyle Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_lifestyle_answer_2
+      label: Patient Lifestyle Answer 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_services
+      label: Health Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medical_professionals
+      label: Medical Professionals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_service_type
+      label: Medical Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Doctor''}'
+      - '{''value'': ''Nurse''}'
+      - '{''value'': ''Lab''}'
+      required: false
+    - id: 19
+      name: medical_service_location
+      label: Medical Service Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 20
+      name: patient_health
+      label: Patient Health
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_service_address
+      label: Medical Service Address
+      hint: null
+      type: text
+      options: []
+      required: false

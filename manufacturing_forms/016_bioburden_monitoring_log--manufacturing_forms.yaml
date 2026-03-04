@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bioburden Monitoring Log
+    pages:
+    - id: 1
+      name: facility_information
+      label: Facility Information
+      hint: Enter facility and location details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: Name of manufacturing facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_id
+      label: Facility ID
+      hint: Facility identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or area name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cleanroom_classification
+      label: Cleanroom Classification
+      hint: ISO class or cleanroom level
+      type: select_one
+      options:
+      - ISO Class 5
+      - ISO Class 6
+      - ISO Class 7
+      - ISO Class 8
+      - Non-Classified Area
+      - Other
+      required: true
+    - id: 6
+      name: monitoring_information
+      label: Monitoring Information
+      hint: Enter sampling details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sample_date
+      label: Sample Date
+      hint: Date sample was collected
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: sample_time
+      label: Sample Time
+      hint: Time sample was collected
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: sample_id
+      label: Sample ID
+      hint: Unique sample identifier
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sample_type
+      label: Sample Type
+      hint: Type of sample collected
+      type: select_one
+      options:
+      - Surface Swab
+      - Air Sample
+      - Water Sample
+      - Personnel Glove Print
+      - Equipment Swab
+      - Product Sample
+      required: true
+    - id: 11
+      name: sampling_location
+      label: Sampling Location
+      hint: Specific location where sample was taken
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location_id
+      label: Location ID
+      hint: Location identification code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: personnel_information
+      label: Personnel Information
+      hint: Enter collector details
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: collector_name
+      label: Collector Name
+      hint: Name of person who collected sample
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: collector_id
+      label: Collector ID
+      hint: Employee ID of collector
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: test_results
+      label: Test Results
+      hint: Enter bioburden test results
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: test_method
+      label: Test Method
+      hint: Method used for testing
+      type: select_one
+      options:
+      - Plate Count Method
+      - Membrane Filtration
+      - Most Probable Number
+      - ATP Bioluminescence
+      - Rapid Microbial Method
+      required: true
+    - id: 18
+      name: incubation_temperature
+      label: Incubation Temperature
+      hint: Temperature in Celsius
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: incubation_time
+      label: Incubation Time
+      hint: Duration in hours
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: bioburden_count
+      label: Bioburden Count
+      hint: Colony forming units per mL or cm2
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: action_limit
+      label: Action Limit
+      hint: Maximum acceptable count
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: result_status
+      label: Result Status
+      hint: Pass or fail status
+      type: select_one
+      options:
+      - Pass - Within Limits
+      - Alert Level Exceeded
+      - Action Level Exceeded
+      - Fail - Out of Specification
+      required: true
+    - id: 23
+      name: organisms_identified
+      label: Organisms Identified
+      hint: List any organisms found
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: corrective_actions
+      label: Corrective Actions
+      hint: Actions taken if out of specification
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: corrective_action_required
+      label: Corrective Action Required
+      hint: Is corrective action needed
+      type: select_one
+      options:
+      - No Action Required
+      - Investigation Required
+      - Re-Sampling Required
+      - Area Re-Cleaning Required
+      - Production Hold
+      required: true
+    - id: 26
+      name: corrective_action_description
+      label: Corrective Action Description
+      hint: Describe actions taken
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: review_information
+      label: Review Information
+      hint: Enter reviewer details
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of QA reviewer
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: review_status
+      label: Review Status
+      hint: Review outcome
+      type: select_one
+      options:
+      - Approved
+      - Approved with Comments
+      - Pending Additional Information
+      - Rejected
+      required: true
+    - id: 31
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Item Definition For Market Analysis
+    pages:
+    - id: 1
+      name: new_item
+      label: New Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Product''}'
+      - '{''id'': 2, ''label'': ''Service''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Development''}'
+      - '{''id'': 2, ''label'': ''In Production''}'
+      - '{''id'': 3, ''label'': ''Retired''}'
+      required: true
+    - id: 5
+      name: competitor
+      label: Competitor
+      hint: List competitors
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

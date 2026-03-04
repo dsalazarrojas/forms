@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: lymphedema_device_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What do you think about your device?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction
+      label: How satisfied are you with your device?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not At All Satisfied
+      required: false
+    - id: 3
+      name: usage_patterns
+      label: How often do you use your device?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Several times a week
+      - A few times a month
+      - Rarely
+      required: false
+    - id: 4
+      name: improvements
+      label: What do you think could be improved on your device?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: What is your contact information?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

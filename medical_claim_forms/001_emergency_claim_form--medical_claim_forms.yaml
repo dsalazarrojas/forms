@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Claim Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Info Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: claim_details
+      label: Claim Details
+      hint: Please provide as much information as you can
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_injury
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_injury
+      label: Time of Injury
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: injury_description
+      label: Description of Injury
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_report
+      label: Medical Report
+      hint: Please attach the report
+      type: text
+      options: []
+      required: false

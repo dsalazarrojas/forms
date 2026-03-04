@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Maintenance Renewal Agreement
+    pages:
+    - id: 1
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: maintenance_contract_start_date
+      label: Maintenance Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: maintenance_contract_end_date
+      label: Maintenance Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: renewal_frequency
+      label: Renewal Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      required: false
+    - id: 5
+      name: renewal_start_date
+      label: Renewal Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Payment
+      - Ongoing Payments
+      required: false
+    - id: 7
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms_details
+      label: Payment Terms Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cheque
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 12
+      name: maintenance_agreement_signed
+      label: Maintenance Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

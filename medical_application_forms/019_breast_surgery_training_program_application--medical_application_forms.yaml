@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast Surgery Training Program Application
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: medical_degree
+      label: Medical Degree
+      hint: Type of medical degree held
+      type: select_one
+      options:
+      - MD - Doctor of Medicine
+      - DO - Doctor of Osteopathic Medicine
+      - MBBS - Bachelor of Medicine
+      - Other medical degree
+      required: true
+    - id: 6
+      name: medical_school
+      label: Medical School Attended
+      hint: Name of medical school
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: graduation_year
+      label: Year of Medical Degree Completion
+      hint: Graduation year
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: current_position
+      label: Current Professional Position
+      hint: Your current role or title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_institution
+      label: Current Institution
+      hint: Hospital or practice name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: surgical_experience
+      label: Years of Surgical Experience
+      hint: Total years in surgical field
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: breast_surgery_experience
+      label: Years of Breast Surgery Experience
+      hint: Specific experience in breast surgery
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: surgical_specialization
+      label: Primary Surgical Specialization
+      hint: Your surgical specialty
+      type: select_one
+      options:
+      - General Surgery
+      - Surgical Oncology
+      - Plastic Surgery
+      - Gynecologic Surgery
+      - Other
+      required: true
+    - id: 13
+      name: board_certification
+      label: Board Certification Status
+      hint: Are you board certified
+      type: select_one
+      options:
+      - Board certified in specialty
+      - Board eligible
+      - Not yet eligible
+      - In progress
+      - Not pursuing certification
+      required: false
+    - id: 14
+      name: board_specialty
+      label: Board Certification Specialty
+      hint: If applicable, which specialty
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: surgical_volume
+      label: Estimated Annual Breast Surgeries
+      hint: Number of procedures per year
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: training_focus
+      label: Desired Training Focus
+      hint: What would you like to focus on
+      type: select_multiple
+      options:
+      - Oncoplastic techniques
+      - Reconstruction
+      - Aesthetic breast surgery
+      - Minimally invasive procedures
+      - Advanced diagnostics
+      - Sentinel lymph node biopsy
+      - Implant techniques
+      required: true
+    - id: 17
+      name: motivation_statement
+      label: Why are you interested in this program
+      hint: Describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: program_duration
+      label: Preferred Program Duration
+      hint: How long can you commit
+      type: select_one
+      options:
+      - 1 month
+      - 2-3 months
+      - 3-6 months
+      - 6-12 months
+      - 12+ months
+      required: true
+    - id: 19
+      name: start_date
+      label: Preferred Start Date
+      hint: When would you like to begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: professional_references
+      label: Professional References
+      hint: Names and contact of references
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cv_attached
+      label: Curriculum Vitae - File Upload
+      hint: Please submit your CV or resume
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_documents
+      label: Additional Documents
+      hint: Any other supporting documents
+      type: text
+      options: []
+      required: false

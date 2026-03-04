@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influential Companies Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_scale
+      label: Company Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - Automotive
+      - Banking
+      - Technology
+      required: true
+    - id: 4
+      name: question1
+      label: What is your impression of this company?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Positive
+      - Somewhat Positive
+      - Neutral
+      - Somewhat Negative
+      - Very Negative
+      required: true
+    - id: 5
+      name: question2
+      label: What is the main reason why you chose to use this company?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question3
+      label: What is your expectation of their customer service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question4
+      label: What is your opinion on their products/services?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: question5
+      label: What is your expectation of their future products/services?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: question6
+      label: What is your opinion on their customer support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question7
+      label: How much do you value their company culture?
+      hint: null
+      type: select_one
+      options:
+      - Very Much
+      - Somewhat
+      - Not at All
+      required: false
+    - id: 13
+      name: question8
+      label: What is your opinion on their company mission?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question9
+      label: Would you recommend this company to a friend?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: question10
+      label: How likely are you to continue using this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: question11
+      label: What is your opinion on their company reputation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question12
+      label: How likely are you to recommend this company to others?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: question13
+      label: What is your opinion on their company website?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question14
+      label: What is the main reason why you did not continue using this company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: question15
+      label: Would you use this company again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: question16
+      label: How satisfied are you with this company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: question17
+      label: How likely are you to use this company again?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: question18
+      label: Would you be interested in working with this company in the future?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: question19
+      label: What is your opinion on their company social media presence?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: question20
+      label: Is there anything else you would like to say about this company?
+      hint: null
+      type: text
+      options: []
+      required: false

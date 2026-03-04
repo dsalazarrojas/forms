@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ask Live Form
+    pages:
+      - id: 1
+        name: user_nickname_live
+        label: Your Name or Pseudonym
+        hint: How should we address you
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: personality_type_live
+        label: How would you describe yourself
+        hint: null
+        type: select_one
+        options:
+          - Definitely an Introvert
+          - Mostly Introverted
+          - Ambivert - A bit of both
+          - Mostly Extroverted
+          - Definitely an Extrovert
+        required: true
+      - id: 3
+        name: connection_style_live
+        label: What is your favorite way to connect with new people
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: past_experience_live
+        label: Have you ever participated in a live Q and A session
+        hint: null
+        type: select_one
+        options:
+          - Yes, as a participant
+          - Yes, as a host
+          - No, never
+        required: true
+      - id: 5
+        name: icebreaker_question_live
+        label: What is one question you have always wanted to ask a stranger
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: communication_pref_live
+        label: Preferred Communication Mode
+        hint: null
+        type: select_one
+        options:
+          - Text Chat Only
+          - Audio Only
+          - Video and Audio
+        required: true
+      - id: 7
+        name: live_stream_consent_live
+        label: Would you be willing to join a live stream
+        hint: null
+        type: select_one
+        options:
+          - Yes, I would love to
+          - Maybe, with more info
+          - No, I prefer to watch
+        required: true
+      - id: 8
+        name: engaging_topics_live
+        label: Which topics do you find most engaging
+        hint: null
+        type: select_multiple
+        options:
+          - Personal Growth
+          - Creative Arts
+          - Technology and Future
+          - Social Issues
+          - Just for Fun/Random
+        required: true
+      - id: 9
+        name: anxiety_notes_live
+        label: Any social anxieties or preferences we should be aware of
+        hint: We want to make this comfortable for you
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: invite_email_live
+        label: Email for Event Invitation
+        hint: null
+        type: email
+        options: []
+        required: true

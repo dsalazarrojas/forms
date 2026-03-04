@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Raw Material Requisition Form
+    pages:
+    - id: 1
+      name: material_request
+      label: Material Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Material 1
+      - Material 2
+      - Material 3
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: material_vendor
+      label: Material Vendor
+      hint: null
+      type: select_one
+      options:
+      - Vendor 1
+      - Vendor 2
+      required: false
+    - id: 7
+      name: material_note
+      label: Material Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: route_to
+      label: Route To
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 9
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: material_note
+      label: Material Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - User 3
+      - User 4
+      required: false
+    - id: 17
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: approved_time
+      label: Approved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: rejected_by
+      label: Rejected By
+      hint: null
+      type: select_one
+      options:
+      - User 5
+      - User 6
+      required: false
+    - id: 20
+      name: rejected_date
+      label: Rejected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: rejected_time
+      label: Rejected Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - User 7
+      - User 8
+      required: true
+    - id: 23
+      name: material_category
+      label: Material Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      required: true
+    - id: 24
+      name: material_status
+      label: Material Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: false
+    - id: 25
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

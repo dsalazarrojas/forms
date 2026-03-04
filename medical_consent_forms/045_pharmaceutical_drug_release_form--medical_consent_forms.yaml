@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Drug Release Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: prescriber_name
+      label: Prescriber Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prescriber_role
+      label: Prescriber Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: prescriber_license_number
+      label: Prescriber License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pharmacy'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Clinic'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Lab'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Distributor'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Hospital'', ''value'': 5}'
+      required: false
+    - id: 8
+      name: drug_name
+      label: Drug Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dosage
+      label: Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: prescriber_signature
+      label: Prescriber Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_signature
+      label: User Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_signature
+      label: Facility Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: release_note
+      label: Release Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_number
+      label: Contact Number
+      hint: Please include phone number or email
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_zip
+      label: Facility Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: release_date_time
+      label: Release Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false

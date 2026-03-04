@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pallet Receipt Confirmation
+    pages:
+    - id: 1
+      name: pallet_id
+      label: Pallet Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pallet_type
+      label: Pallet Type
+      hint: null
+      type: select_one
+      options:
+      - Pallet
+      - Crate
+      - Box
+      - Carton
+      required: false
+    - id: 3
+      name: pallet_contents
+      label: Pallet Contents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pallet_weight
+      label: Pallet Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pallet_length
+      label: Pallet Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pallet_width
+      label: Pallet Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pallet_height
+      label: Pallet Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: receipt_date
+      label: Receipt Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: receipt_time
+      label: Receipt Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: received_by
+      label: Received By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

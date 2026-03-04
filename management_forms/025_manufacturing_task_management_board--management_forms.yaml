@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Task Management Board
+    pages:
+    - id: 1
+      name: task_description
+      label: Manufacturing Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      required: false
+    - id: 4
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 5
+      name: task_due_date
+      label: Task Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: task_completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: task_comments
+      label: Task Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: task_category
+      label: Task Category
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Plastics
+      - Metals
+      required: false
+    - id: 9
+      name: task_responsible
+      label: Responsible
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Doe
+      required: false
+    - id: 10
+      name: task_start_date
+      label: Task Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: task_end_date
+      label: Task End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

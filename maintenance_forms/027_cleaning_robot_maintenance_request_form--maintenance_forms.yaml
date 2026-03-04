@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Robot Maintenance Request Form
+    pages:
+    - id: 1
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name of the robot owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Email for contact and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Service Address
+      hint: Address where robot is located
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_robot
+      label: -- Robot Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: robot_model
+      label: Robot Model
+      hint: Brand and model of the cleaning robot
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: robot_serial_number
+      label: Serial Number
+      hint: Serial number or product ID
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: purchase_date
+      label: Date of Purchase
+      hint: When was the robot purchased?
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: warranty_status
+      label: Warranty Status
+      hint: Is the robot under warranty?
+      type: select_one
+      options:
+      - Under Warranty
+      - Extended Warranty
+      - Warranty Expired
+      - Unknown
+      required: true
+    - id: 11
+      name: section_header_issue
+      label: -- Issue Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: issue_type
+      label: Type of Issue
+      hint: What is wrong with the robot?
+      type: select_one
+      options:
+      - Not Starting
+      - Poor Suction/Cleaning Performance
+      - Navigation Problems
+      - Battery Issues
+      - Brush Problems
+      - Water Tank Issues
+      - Noise/Vibration
+      - Error Messages
+      - Other
+      required: true
+    - id: 13
+      name: detailed_issue
+      label: Detailed Description of Issue
+      hint: Provide specific details about the problem
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: when_issue_started
+      label: When Did the Problem Start?
+      hint: Approximate date or how long ago
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: error_messages
+      label: Error Messages or Codes
+      hint: Any error messages displayed?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: troubleshooting_attempted
+      label: Troubleshooting Steps Already Attempted
+      hint: What have you already tried?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_service
+      label: -- Service Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: service_type
+      label: Type of Service Needed
+      hint: What type of repair/service?
+      type: select_one
+      options:
+      - Repair
+      - Maintenance
+      - Cleaning
+      - Inspection
+      - Warranty Service
+      - Other
+      required: true
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly do you need service?
+      type: select_one
+      options:
+      - Emergency - Same Day
+      - High - Within 3 Days
+      - Medium - Within 1 Week
+      - Low - Whenever Convenient
+      required: true
+    - id: 20
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When would you like service?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: preferred_service_time
+      label: Preferred Service Time
+      hint: Morning, afternoon, or evening?
+      type: select_one
+      options:
+      - Early Morning (6-9 AM)
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-8 PM)
+      - Flexible
+      required: true
+    - id: 22
+      name: section_header_request
+      label: -- Request Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: service_location
+      label: Service Location Preference
+      hint: Where would you like service?
+      type: select_one
+      options:
+      - At Home (In-home service)
+      - At Service Center (Drop-off)
+      - Pickup and Delivery
+      required: true
+    - id: 24
+      name: replacement_unit
+      label: Need a Replacement Unit While Yours Is Serviced?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: Any other information we should know?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_contact
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Either
+      required: true
+    - id: 28
+      name: best_contact_time
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: request_date
+      label: Request Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

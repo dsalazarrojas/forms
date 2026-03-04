@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Blogger Collaboration Registration
+    pages:
+    - id: 1
+      name: influencer_header
+      label: -- Influencer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: blogger_name
+      label: Blogger/Influencer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: real_name
+      label: Real Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location/Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: platforms_header
+      label: -- Social Media Platforms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_platform
+      label: Primary Platform
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - TikTok
+      - YouTube
+      - Blog
+      - Facebook
+      - LinkedIn
+      - Twitter
+      required: true
+    - id: 9
+      name: instagram_handle
+      label: Instagram Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instagram_followers
+      label: Instagram Follower Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: youtube_channel
+      label: YouTube Channel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: youtube_subscribers
+      label: YouTube Subscriber Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tiktok_handle
+      label: TikTok Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tiktok_followers
+      label: TikTok Follower Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: blog_url
+      label: Blog URL
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: audience_header
+      label: -- Audience Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: audience_age
+      label: Primary Audience Age Group
+      hint: null
+      type: select_one
+      options:
+      - 13-18
+      - 18-25
+      - 25-35
+      - 35-45
+      - 45+
+      required: true
+    - id: 18
+      name: audience_gender
+      label: Primary Audience Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Mixed
+      required: true
+    - id: 19
+      name: audience_location
+      label: Primary Audience Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: content_header
+      label: -- Content Focus --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: content_specialty
+      label: Content Specialty
+      hint: null
+      type: select_one
+      options:
+      - Makeup
+      - Skincare
+      - Hair Care
+      - Nail Art
+      - General Beauty
+      - Lifestyle
+      - Fashion
+      required: true
+    - id: 22
+      name: engagement_rate
+      label: Average Engagement Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: collaboration_types
+      label: Types of Collaboration Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Sponsored Posts
+      - Product Reviews
+      - Unboxing Videos
+      - Takeovers
+      - Tutorials
+      - Affiliate Marketing
+      required: true
+    - id: 24
+      name: collaboration_header
+      label: -- Collaboration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: rate_per_post
+      label: Rate per Post
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: posting_frequency
+      label: Maximum Posting Frequency per Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: previous_collaborations
+      label: Previous Beauty Brand Collaborations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: media_kit
+      label: Media Kit Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: portfolio_link
+      label: Portfolio or Website Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: terms_accepted
+      label: I agree to the collaboration terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Your Free Item
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: To verify eligibility
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: how_heard
+      label: How Did You Hear About This Offer
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Email newsletter
+      - Website
+      - Friend or family
+      - In-store signage
+      - Advertisement
+      - Radio
+      - Other
+      required: false
+    - id: 8
+      name: item_selection
+      label: Select Your Free Item
+      hint: Choose one item from the options
+      type: select_one
+      options:
+      - Premium Sample Pack
+      - Branded Tote Bag
+      - Travel-Size Product Set
+      - Gift Card $10 Value
+      - Exclusive Sticker Pack
+      - Welcome Kit
+      - Mystery Gift
+      required: true
+    - id: 9
+      name: item_quantity
+      label: Quantity
+      hint: Limit one per customer
+      type: select_one
+      options:
+      - 1
+      - Other
+      required: true
+    - id: 10
+      name: color_preference
+      label: Color Preference
+      hint: If applicable to your item
+      type: select_one
+      options:
+      - No preference
+      - Red
+      - Blue
+      - Green
+      - Black
+      - White
+      - Pink
+      - Purple
+      required: false
+    - id: 11
+      name: shipping_address_line1
+      label: Shipping Address Line 1
+      hint: Street address or PO Box
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_address_line2
+      label: Shipping Address Line 2
+      hint: Apartment, suite, unit, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: shipping_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: shipping_zip
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: shipping_country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 17
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: Gate code, leave at door, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: eligibility_confirmation
+      label: Do You Confirm You Are Eligible
+      hint: New customers only, one per household
+      type: select_one
+      options:
+      - Yes, I confirm eligibility
+      - No, I am not eligible
+      required: true
+    - id: 19
+      name: terms_acceptance
+      label: Do You Accept the Terms and Conditions
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 20
+      name: newsletter_signup
+      label: Would You Like to Join Our Newsletter
+      hint: Receive exclusive offers and updates
+      type: select_one
+      options:
+      - Yes, sign me up
+      - No, thank you
+      required: true
+    - id: 21
+      name: sms_notifications
+      label: Would You Like SMS Notifications
+      hint: Get text updates about your order
+      type: select_one
+      options:
+      - Yes, opt me in
+      - No, thank you
+      required: true
+    - id: 22
+      name: referral_source
+      label: Who Referred You
+      hint: Friend or family member name
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

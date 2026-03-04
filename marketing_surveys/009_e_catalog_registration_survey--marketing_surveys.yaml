@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_catalog_registration_survey
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: street_address
+      label: street_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_interests
+      label: what_are_you_interested_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email_frequency
+      label: email_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''daily''}'
+      - '{''label'': ''weekly''}'
+      - '{''label'': ''monthly''}'
+      required: false
+    - id: 8
+      name: communication_preferences
+      label: how_would_you_like_to_be_contacted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''email''}'
+      - '{''label'': ''phone''}'
+      - '{''label'': ''post''}'
+      - '{''label'': ''mail''}'
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

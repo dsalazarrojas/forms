@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental procedure consent form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: procedure_details
+      label: Procedure Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Dental Implant''}'
+      - '{''id'': 2, ''label'': ''Dental Bridge''}'
+      - '{''id'': 3, ''label'': ''Root Canal''}'
+      - '{''id'': 4, ''label'': ''Crown and Bridge''}'
+      - '{''id'': 5, ''label'': ''Extractions''}'
+      required: true
+    - id: 3
+      name: procedure_risks
+      label: Procedure Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_consent
+      label: Patient Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Patient agrees to the procedure''}'
+      - '{''id'': 2, ''label'': ''Patient declines the procedure''}'
+      required: true
+    - id: 5
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: dentist_information
+      label: Dentist Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_risks
+      label: Treatment Risks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_schedule
+      label: Follow-up Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: procedure_status
+      label: Procedure Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Complete''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''chatjane''}'
+      required: false
+    - id: 16
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: procedure_time
+      label: Procedure Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: patient_sex
+      label: Patient Sex
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      required: false
+    - id: 24
+      name: patient_ethnicity
+      label: Patient Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Asian''}'
+      - '{''id'': 2, ''label'': ''White''}'
+      - '{''id'': 3, ''label'': ''Black''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: number
+      options: []
+      required: false

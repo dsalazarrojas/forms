@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Downtime Acknowledgement Form
+    pages:
+    - id: 1
+      name: maintenance_downtime_acknowledgement_form
+      label: maintenance_downtime_acknowledgement_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: maintenance_activity
+      label: maintenance_activity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: maintenance_details
+      label: maintenance_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: maintenance_start_date
+      label: maintenance_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_end_date
+      label: maintenance_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_duration
+      label: maintenance_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_start_time
+      label: maintenance_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_end_time
+      label: maintenance_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false

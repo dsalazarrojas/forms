@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Follower Management Survey
+    pages:
+    - id: 1
+      name: follower_management_survey_form
+      label: Follower Management Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: followers_demographics
+      label: Follower Demographics
+      hint: null
+      type: select_one
+      options:
+      - '{''Follower Type'': ''Male''}'
+      - '{''Follower Type'': ''Female''}'
+      - '{''Follower Type'': ''Other''}'
+      required: true
+    - id: 3
+      name: follower_age_group
+      label: Follower Age Group
+      hint: null
+      type: select_one
+      options:
+      - 13-18
+      - 19-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 and up
+      required: false
+    - id: 4
+      name: follower_education_level
+      label: Follower Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Some College
+      - College
+      - Graduate
+      - Postgraduate
+      required: false
+    - id: 5
+      name: follower_occupation
+      label: Follower Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follower_average_time_spent
+      label: Follower Average Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: follower_awareness_about_followers
+      label: Follower Awareness About Followers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: follower_engagement_level
+      label: Follower Engagement Level
+      hint: null
+      type: select_one
+      options:
+      - 0-10
+      - 11-20
+      - 21-30
+      - 31-40
+      - 41-50
+      - 51 and above
+      required: true
+    - id: 9
+      name: follower_notes
+      label: Follower Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follower_important_dates
+      label: Follower Important Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follower_phone_number
+      label: Follower Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follower_email_address
+      label: Follower Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: follower_comments
+      label: Follower Comments
+      hint: null
+      type: text
+      options: []
+      required: false

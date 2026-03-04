@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childhood ADHD Collateral Questionnaire
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name of the person completing this questionnaire
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_relationship
+      label: Your Relationship to the Child
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Teacher
+      - School Counselor
+      - Other Caregiver
+      required: true
+    - id: 4
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: child_information
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Age
+      hint: In years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: child_grade
+      label: School Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: observation_period
+      label: How long have you observed this child
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 10
+      name: attention_section
+      label: -- Attention and Concentration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sustaining_attention
+      label: Difficulty sustaining attention in tasks or activities
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: task_completion
+      label: Fails to complete assigned tasks without supervision
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: listening_skills
+      label: Appears not to listen when spoken to directly
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: organization_skills
+      label: Difficulty organizing tasks and activities
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: forgetfulness
+      label: Forgetful in daily activities
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: hyperactivity_section
+      label: -- Hyperactivity and Impulsivity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fidgeting
+      label: Fidgets with hands, feet, or squirms in seat
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: leaving_seat
+      label: Leaves seat when expected to remain seated
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: excessive_talking
+      label: Talks excessively
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: impulsive_answers
+      label: Blurts out answers before questions are finished
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: turn_taking
+      label: Difficulty waiting turns in activities
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: interrupting
+      label: Interrupts or intrudes on others
+      hint: Rate on scale 1 (not at all) to 5 (very often)
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: clinical_impression
+      label: -- Overall Impression --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: symptom_severity
+      label: Overall severity of observed symptoms
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 25
+      name: additional_concerns
+      label: Any additional concerns or observations
+      hint: Optional comments
+      type: text
+      options: []
+      required: false

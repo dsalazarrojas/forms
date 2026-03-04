@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Positioning Readiness Survey
+    pages:
+    - id: 1
+      name: target_segments
+      label: Target Segments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: brand_positioning
+      label: Brand Positioning
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: strategy_maturity
+      label: Strategy Maturity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: target_segment
+      label: Target Segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_pain_points
+      label: Customer Pain Points
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: brand_equity
+      label: Brand Equity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: target_segment_awareness
+      label: Target Segment Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: target_segment_attractiveness
+      label: Target Segment Attractiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: market_positioning_decision
+      label: Market Positioning Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: target_segment_attractiveness_score
+      label: Target Segment Attractiveness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: market_positioning_readiness_score
+      label: Market Positioning Readiness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: target_segments_score
+      label: Target Segments Score
+      hint: null
+      type: number
+      options: []
+      required: false

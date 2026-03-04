@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Spending Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: Age range
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 and over
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non binary
+      - Prefer not to say
+      required: false
+    - id: 4
+      name: household_income
+      label: Household income range
+      hint: Annual household income
+      type: select_one
+      options:
+      - Under 25k
+      - 25k to 50k
+      - 50k to 100k
+      - Over 100k
+      required: false
+    - id: 5
+      name: purchase_frequency
+      label: Purchase frequency for category
+      hint: How often do you purchase products in this category
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Rarely
+      required: true
+    - id: 6
+      name: average_spend_per_purchase
+      label: Average spend per purchase
+      hint: Typical amount spent in local currency
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: preferred_purchase_channel
+      label: Preferred purchase channel
+      hint: Where do you usually buy this product or service
+      type: select_one
+      options:
+      - Online marketplace
+      - Brand website
+      - Physical store
+      - Mobile app
+      required: true
+    - id: 8
+      name: brand_loyalty
+      label: Brand loyalty
+      hint: How loyal are you to a specific brand
+      type: select_one
+      options:
+      - Very loyal
+      - Somewhat loyal
+      - Neutral
+      - Not loyal
+      required: false
+    - id: 9
+      name: factors_influencing_purchase
+      label: Factors influencing purchase
+      hint: Select up to three key factors
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Reviews
+      - Convenience
+      - Sustainability
+      required: true
+    - id: 10
+      name: open_feedback
+      label: Additional comments
+      hint: Any other feedback about purchasing habits
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_permission
+      label: Permission to contact for follow up
+      hint: If yes provide preferred contact method
+      type: select_one
+      options:
+      - Yes email only
+      - Yes phone only
+      - Yes email or phone
+      - false
+      required: false

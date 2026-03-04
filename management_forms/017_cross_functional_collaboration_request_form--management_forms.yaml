@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Functional Collaboration Request Form
+    pages:
+    - id: 1
+      name: team_id
+      label: Team ID
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 2
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - active
+      - closed
+      required: false
+    - id: 7
+      name: department_request
+      label: Department Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false

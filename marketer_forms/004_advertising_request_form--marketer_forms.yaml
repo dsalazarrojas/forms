@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Name of person making the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Department or team name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: campaign_objective
+      label: Campaign Objective
+      hint: What the campaign should achieve
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_start_date
+      label: Preferred Start Date
+      hint: When the campaign should start
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: estimated_budget
+      label: Estimated Budget
+      hint: Budget in USD
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: creative_requirements
+      label: Creative Requirements
+      hint: Size, format, and copy requirements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approval_needed
+      label: Approval Needed From
+      hint: Name of approver if required
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_files
+      label: Supporting Files Note
+      hint: Indicate file types to attach externally
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_instructions
+      label: Additional Instructions
+      hint: Any other details for the marketing team
+      type: text
+      options: []
+      required: false

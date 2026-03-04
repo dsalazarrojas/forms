@@ -1,0 +1,280 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Presentation Follow Up Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Clinical Presentation Follow-Up Survey
+      hint: This survey helps us monitor your progress after your recent clinical
+        visit
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or MRN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: visit_date
+      label: Original Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Today Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: provider_name
+      label: Provider You Saw
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_diagnosis
+      label: Primary Diagnosis or Reason for Visit
+      hint: As you understood it
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: symptom_improvement
+      label: How Have Your Symptoms Changed Since the Visit
+      hint: null
+      type: select_one
+      options:
+      - Completely Resolved
+      - Significantly Improved
+      - Moderately Improved
+      - Slightly Improved
+      - No Change
+      - Slightly Worse
+      - Significantly Worse
+      required: true
+    - id: 9
+      name: current_symptom_severity
+      label: Current Symptom Severity
+      hint: 1 means minimal 10 means severe
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: symptom_severity_before
+      label: Symptom Severity Before Treatment
+      hint: 1 means minimal 10 means severe
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: symptoms_experienced
+      label: Which Symptoms Are You Still Experiencing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pain
+      - Fatigue
+      - Nausea
+      - Headache
+      - Dizziness
+      - Shortness of Breath
+      - Cough
+      - Fever
+      - Swelling
+      - Digestive Issues
+      - Sleep Problems
+      - Mood Changes
+      - None
+      - Other
+      required: true
+    - id: 12
+      name: medication_prescribed
+      label: Were You Prescribed Medication
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: medication_adherence
+      label: Have You Been Taking Medication as Directed
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes Always
+      - Yes Mostly
+      - Sometimes
+      - Rarely
+      - false
+      - Not Applicable
+      required: false
+    - id: 14
+      name: medication_effectiveness
+      label: How Effective Has the Medication Been
+      hint: If applicable
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not Effective at All
+      - Not Applicable
+      required: false
+    - id: 15
+      name: side_effects
+      label: Have You Experienced Any Side Effects
+      hint: null
+      type: select_one
+      options:
+      - Yes Severe
+      - Yes Moderate
+      - Yes Mild
+      - false
+      - Not Applicable
+      required: false
+    - id: 16
+      name: side_effects_details
+      label: Side Effects Details
+      hint: Describe any side effects
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: treatment_plan_followed
+      label: Have You Followed the Treatment Plan
+      hint: Diet exercise therapy etc.
+      type: select_one
+      options:
+      - Yes Completely
+      - Yes Mostly
+      - Partially
+      - Minimally
+      - false
+      required: true
+    - id: 18
+      name: barriers_to_following_plan
+      label: Any Barriers to Following the Plan
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Cost
+      - Time Constraints
+      - Side Effects
+      - Lack of Understanding
+      - Physical Limitations
+      - Lack of Support
+      - Forgetfulness
+      - Other
+      required: false
+    - id: 19
+      name: follow_up_appointment
+      label: Do You Have a Follow-Up Appointment Scheduled
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-Up Appointment Date
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: additional_care_needed
+      label: Have You Sought Additional Care Since the Visit
+      hint: ER urgent care another provider
+      type: select_one
+      options:
+      - Yes Emergency Room
+      - Yes Urgent Care
+      - Yes Another Provider
+      - false
+      required: false
+    - id: 22
+      name: additional_care_reason
+      label: Reason for Additional Care
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: understanding_of_condition
+      label: How Well Do You Understand Your Condition Now
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Well
+      - Moderately Well
+      - Slightly
+      - Not Well at All
+      required: true
+    - id: 24
+      name: confidence_in_management
+      label: How Confident Are You in Managing Your Condition
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident at All
+      required: true
+    - id: 25
+      name: questions_or_concerns
+      label: Do You Have Any Unanswered Questions or Concerns
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: questions_details
+      label: Please Describe Your Questions or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: overall_satisfaction
+      label: Overall Satisfaction with Your Care
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

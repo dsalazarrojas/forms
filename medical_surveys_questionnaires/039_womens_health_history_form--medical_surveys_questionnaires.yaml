@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Womens Health History Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Asthma''}'
+      - '{''label'': ''Diabetes''}'
+      - '{''label'': ''Cancer''}'
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Asthma''}'
+      - '{''label'': ''Peanuts''}'
+      - '{''label'': ''Penicillin''}'
+      required: false
+    - id: 6
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Surgery''}'
+      - '{''label'': ''Medication''}'
+      - '{''label'': ''Consultation''}'
+      required: false
+    - id: 7
+      name: medical_procedure_other
+      label: Medical Procedure Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false

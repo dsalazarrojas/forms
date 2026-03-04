@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Science In Medicine Research Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Provide a valid email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: institution_affiliation
+      label: Institution or Organization Affiliation
+      hint: Name of your university, hospital, or research center
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department or Division
+      hint: Specify your department within the institution
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position_title
+      label: Current Position or Title
+      hint: e.g., Research Assistant, Professor, Medical Student
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_project_title
+      label: Research Project Title
+      hint: Provide a concise title for your proposed research
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: research_summary
+      label: Research Summary
+      hint: Briefly describe your research objectives and methodology
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: behavioral_science_focus
+      label: Behavioral Science Focus Area
+      hint: Select the primary behavioral science domain
+      type: select_one
+      options:
+      - Health Psychology
+      - Behavioral Medicine
+      - Psychosomatic Medicine
+      - Neuropsychology
+      - Public Health Behavior
+      - Addiction Studies
+      - Other
+      required: true
+    - id: 10
+      name: medical_application_area
+      label: Medical Application Area
+      hint: Which medical field does your research apply to
+      type: select_one
+      options:
+      - Primary Care
+      - Chronic Disease Management
+      - Mental Health Integration
+      - Preventive Medicine
+      - Rehabilitation
+      - Palliative Care
+      - Pediatrics
+      - Geriatrics
+      - Other
+      required: true
+    - id: 11
+      name: research_duration
+      label: Expected Research Duration
+      hint: How long will your research project take
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 12
+      name: funding_required
+      label: Is Funding Required
+      hint: Will you need financial support for this research
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 13
+      name: funding_amount
+      label: Estimated Funding Amount Needed
+      hint: Specify amount in USD if funding is required
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ethics_approval_status
+      label: Ethics Approval Status
+      hint: Have you obtained or applied for ethics committee approval
+      type: select_one
+      options:
+      - Already Approved
+      - Application Submitted
+      - Planning to Apply
+      - Not Required
+      required: true
+    - id: 15
+      name: previous_research_experience
+      label: Previous Research Experience
+      hint: Describe your relevant research background
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: publications
+      label: Relevant Publications
+      hint: List any related publications or presentations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_name
+      label: Research Supervisor Name
+      hint: If applicable, provide your supervisor full name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_contact
+      label: Supervisor Contact Email
+      hint: Provide supervisor email for verification
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: collaboration_interest
+      label: Interest in Collaboration
+      hint: Are you interested in collaborating with other researchers
+      type: select_one
+      options:
+      - Yes, actively seeking
+      - Open to opportunities
+      - Prefer to work independently
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

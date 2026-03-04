@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Health Literacy Level Survey
+    pages:
+    - id: 1
+      name: intro
+      label: -- Health Literacy Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_age
+      label: Age
+      hint: Enter age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: highest_education_level
+      label: Highest education level
+      hint: Select the highest level completed
+      type: select_one
+      options:
+      - Less than high school
+      - High school diploma
+      - Some college
+      - College degree
+      - Graduate degree
+      required: true
+    - id: 4
+      name: confidence_finding_health_information
+      label: Confidence finding health information
+      hint: How confident are you on a scale
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Not at all confident
+      required: true
+    - id: 5
+      name: ability_understand_prescriptions
+      label: Ability to understand prescription instructions
+      hint: Select best fit
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      required: true
+    - id: 6
+      name: frequency_healthcare_visits
+      label: Frequency of healthcare visits
+      hint: Past 12 months
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Rarely
+      required: false
+    - id: 7
+      name: preferred_health_information_format
+      label: Preferred health information format
+      hint: Choose formats that work best
+      type: select_multiple
+      options:
+      - Printed materials
+      - Videos
+      - Websites
+      - In person
+      - Phone calls
+      required: false
+    - id: 8
+      name: barriers_to_accessing_care
+      label: Barriers to accessing care
+      hint: Check any that apply
+      type: select_multiple
+      options:
+      - Transportation
+      - Cost
+      - Language
+      - Childcare
+      - Scheduling
+      required: false
+    - id: 9
+      name: suggestions_for_improvement
+      label: Suggestions for improving health information
+      hint: Open ended feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_for_follow_up
+      label: Contact email for follow up
+      hint: Optional email if follow up is preferred
+      type: email
+      options: []
+      required: false

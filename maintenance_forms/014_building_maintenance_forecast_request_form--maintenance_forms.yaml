@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Forecast Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: When is this request submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Building location
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_id
+      label: Property ID
+      hint: Reference number for property
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_name
+      label: Requester Name
+      hint: Who is making this request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_email
+      label: Email Address
+      hint: Contact for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department or Building Section
+      hint: Which area of property
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_type
+      label: Type of Maintenance
+      hint: Category of work needed
+      type: select_one
+      options:
+      - Preventive Maintenance
+      - Corrective Maintenance
+      - Emergency Repair
+      - Upgrade or Improvement
+      - Inspection
+      required: true
+    - id: 9
+      name: issue_description
+      label: Description of Issue
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: affected_systems
+      label: Affected Systems or Areas
+      hint: What part of building
+      type: select_multiple
+      options:
+      - HVAC
+      - Plumbing
+      - Electrical
+      - Structural
+      - Roof
+      - Exterior
+      - Interior Finishes
+      - Parking Lot
+      required: true
+    - id: 11
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon is this needed
+      type: select_one
+      options:
+      - Emergency - Immediate
+      - High - Within 1 Week
+      - Medium - Within 1 Month
+      - Low - Planned Maintenance
+      required: true
+    - id: 12
+      name: forecast_date
+      label: Preferred Completion Date
+      hint: Target date for maintenance
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: estimated_budget
+      label: Estimated Budget Range
+      hint: Cost expectation
+      type: select_one
+      options:
+      - Under 1000
+      - 1000 - 5000
+      - 5000 - 10000
+      - 10000 - 25000
+      - Over 25000
+      - Unknown
+      required: false
+    - id: 14
+      name: historical_issues
+      label: Has This Issue Occurred Before
+      hint: Past problems with this
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 15
+      name: frequency
+      label: How Often Does This Occur
+      hint: Is it recurring
+      type: select_one
+      options:
+      - One-time Issue
+      - Occasional
+      - Regularly
+      - Constantly
+      required: false
+    - id: 16
+      name: occupancy_impact
+      label: Impact on Building Occupancy
+      hint: Does this affect operations
+      type: select_one
+      options:
+      - No Impact
+      - Affects Some Areas
+      - Affects Multiple Departments
+      - Building-wide Impact
+      required: false
+    - id: 17
+      name: equipment_info
+      label: Equipment or System Information
+      hint: Model number, age, details
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: documentation
+      label: Supporting Documentation
+      hint: Photos or reports available
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

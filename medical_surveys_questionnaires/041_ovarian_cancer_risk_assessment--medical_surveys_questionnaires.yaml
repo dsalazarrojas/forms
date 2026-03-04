@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ovarian Cancer Risk Assessment
+    pages:
+    - id: 1
+      name: risk_factors
+      label: What are the risk factors?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menstrual_history
+      label: Menstrual History
+      hint: null
+      type: select_multiple
+      options:
+      - Ovarian Cancer Risk Assessment Form Templates by Jotform help clinics, counselors,
+        and health organizations collect pre-visit screening information online and
+        organize each form submission for follow-up and data collection.
+      - Family history of ovarian cancer
+      - Early menarche or menopause
+      - Obesity
+      - Never given birth
+      - Never breastfed
+      - Family history of breast cancer
+      - Family history of colon cancer
+      - Family history of uterine cancer
+      - Other
+      required: true
+    - id: 3
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_one
+      options:
+      - First-degree relative with ovarian cancer
+      - Second-degree relative with ovarian cancer
+      - Third-degree relative with ovarian cancer
+      - No relative with ovarian cancer
+      required: true
+    - id: 4
+      name: cancer_type
+      label: Cancer Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: previous_screening
+      label: Previous Screening
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: smoking_history
+      label: Smoking History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_surgeries
+      label: Previous Surgeries
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: previous_cancers
+      label: Previous Cancers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: family_history_cancer
+      label: Family History Cancer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: cancer_screening
+      label: Cancer Screening
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: cancer_family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: ovarian_cancer_risk
+      label: Ovarian Cancer Risk
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: cancer_stage
+      label: Cancer Stage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: cancer_treatment
+      label: Cancer Treatment
+      hint: null
+      type: text
+      options: []
+      required: true

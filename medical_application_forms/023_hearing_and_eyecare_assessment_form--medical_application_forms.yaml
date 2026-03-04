@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hearing And Eyecare Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Patient Phone
+      hint: Enter a 10 digit US phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: patient_eyecare_assessment
+      label: Patient Eyecare Assessment
+      hint: null
+      type: select_one
+      options:
+      - Hearing Loss
+      - Visual Disturbance
+      - Color Perception
+      - Other
+      required: false
+    - id: 7
+      name: hearing_loss
+      label: Hearing Loss
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Normal
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 8
+      name: visual_disturbance
+      label: Visual Disturbance
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Normal
+      - Mild
+      - Moderate
+      - Severe
+      required: false

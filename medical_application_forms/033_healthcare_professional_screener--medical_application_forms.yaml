@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Professional Screener
+    pages:
+    - id: 1
+      name: medical_staff
+      label: Medical Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Nurse
+      - Doctor
+      - Dentist
+      - Physician
+      - Other
+      required: false
+    - id: 3
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_one
+      options:
+      - Anesthesia
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Emergency Medicine
+      required: false
+    - id: 4
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Residency
+      - Fellowship
+      - Clinical Experience
+      - Other
+      required: false
+    - id: 6
+      name: experience_years
+      label: Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Private Practice
+      - Telehealth
+      required: false
+    - id: 8
+      name: credentials
+      label: Credentials
+      hint: e.g., MD, DO, RN, etc.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_status
+      label: Work Status
+      hint: null
+      type: text
+      options: []
+      required: false

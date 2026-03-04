@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nervous System Wellness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stress_management
+      label: stress-management
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety
+      - Burnout
+      - Depression
+      - Insomnia
+      - Trauma
+      required: true
+    - id: 3
+      name: physical_symptoms
+      label: physical-symptoms
+      hint: null
+      type: select_one
+      options:
+      - Fatigue
+      - Headaches
+      - Muscle aches
+      - Nausea
+      - Dizziness
+      required: true
+    - id: 4
+      name: mental_symptoms
+      label: mental-symptoms
+      hint: null
+      type: select_one
+      options:
+      - Mood changes
+      - Irritability
+      - Memory loss
+      - Concentration problems
+      required: true
+    - id: 5
+      name: social_interactions
+      label: social-interactions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: stress_frequency
+      label: stress-frequency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: self_care_practices
+      label: self-care-practices
+      hint: null
+      type: select_multiple
+      options:
+      - Meditation
+      - Exercise
+      - Journaling
+      - Mindfulness
+      required: true
+    - id: 8
+      name: emotional_support
+      label: emotional-support
+      hint: null
+      type: select_multiple
+      options:
+      - Friends
+      - Family
+      - Therapist
+      - Online support
+      required: true
+    - id: 9
+      name: coping_mechanisms
+      label: coping-mechanisms
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Exercise
+      - Hobbies
+      - Relaxation
+      required: true

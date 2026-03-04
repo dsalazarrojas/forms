@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Covergirl Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: portfolio
+      label: portfolio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: social_links
+      label: social links
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - LinkedIn
+      - YouTube
+      - TikTok
+      - Twitch
+      - Pinterest
+      - Reddit
+      - Snapchat
+      required: false
+    - id: 8
+      name: search_terms
+      label: search terms
+      hint: null
+      type: select_multiple
+      options:
+      - makeup
+      - beauty
+      - model
+      - brand ambassador
+      - search terms
+      required: false
+    - id: 9
+      name: search_keywords
+      label: search keywords
+      hint: null
+      type: text
+      options: []
+      required: false

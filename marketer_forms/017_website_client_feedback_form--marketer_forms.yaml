@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_client_feedback_form
+    pages:
+    - id: 1
+      name: website_client_feedback_form_fields
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_score
+      label: experience_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: what_did_you_like
+      label: what_did_you_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: what_did_you_dislike
+      label: what_did_you_dislike
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: how_did_you_find
+      label: how_did_you_find_us
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: how_did_you_find_us_why
+      label: how_did_you_find_us_why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: what_would_improve
+      label: what_would_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Office Covid 19 Prescreening Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New'', ''label'': ''New''}'
+      - '{''value'': ''Current'', ''label'': ''Current''}'
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_history
+      label: Travel History
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_trace
+      label: Contact Trace
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 7
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Vaccinated'', ''label'': ''Not Vaccinated''}'
+      - '{''value'': ''Partially Vaccinated'', ''label'': ''Partially Vaccinated''}'
+      - '{''value'': ''Fully Vaccinated'', ''label'': ''Fully Vaccinated''}'
+      required: false
+    - id: 8
+      name: vaccination_received
+      label: Vaccination Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: next_action
+      label: Next Action
+      hint: null
+      type: text
+      options: []
+      required: false

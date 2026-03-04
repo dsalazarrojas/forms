@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Opt In Form Template
+    pages:
+    - id: 1
+      name: opt_in_intro
+      label: -- Join Our Black Friday List --
+      hint: Get exclusive early access to our best deals
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send exclusive Black Friday offers to this email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: confirm_email
+      label: Confirm Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number (optional)
+      hint: For SMS notifications about deals
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shopping_interests
+      label: What products interest you most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Electronics
+      - Fashion
+      - Home & Garden
+      - Sports & Outdoors
+      - Beauty & Health
+      - Food & Beverage
+      - Jewelry & Accessories
+      required: true
+    - id: 8
+      name: discount_preference
+      label: Preferred discount range
+      hint: null
+      type: select_one
+      options:
+      - 10-25% off
+      - 25-50% off
+      - 50% or more off
+      - Free shipping
+      - Bundle deals
+      required: false
+    - id: 9
+      name: communication_preference
+      label: How would you like to receive updates?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - SMS
+      - Push notifications
+      required: true
+    - id: 10
+      name: opt_in_consent
+      label: I consent to receive marketing emails about Black Friday deals
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 11
+      name: privacy_accepted
+      label: I have read and accept the privacy policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 12
+      name: subscriber_since
+      label: Subscription Date
+      hint: null
+      type: date
+      options: []
+      required: true

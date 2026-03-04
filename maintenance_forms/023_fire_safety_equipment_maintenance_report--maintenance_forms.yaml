@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Equipment Maintenance Report
+    pages:
+    - id: 1
+      name: site_visited
+      label: Site Visited
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 2
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Inspection''}'
+      - '{''id'': 2, ''name'': ''Maintenance''}'
+      required: false
+    - id: 3
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Working''}'
+      - '{''id'': 2, ''name'': ''Offline''}'
+      - '{''id'': 3, ''name'': ''Broken''}'
+      required: false
+    - id: 5
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_time
+      label: Maintenance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: next_maintenance_date
+      label: Next Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      required: false
+    - id: 9
+      name: maintenance_by
+      label: Maintenance By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facility Team''}'
+      - '{''id'': 2, ''name'': ''External Contractor''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: site_comments
+      label: Site Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: safety_equipment_count
+      label: Number of Fire Safety Equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_maintenance_frequency
+      label: Next Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      required: false
+    - id: 15
+      name: next_maintenance_by
+      label: Next Maintenance By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facility Team''}'
+      - '{''id'': 2, ''name'': ''External Contractor''}'
+      required: false
+    - id: 16
+      name: maintenance_hours
+      label: Maintenance Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: equipment_status_description
+      label: Equipment Status Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_maintenance_notes
+      label: Next Maintenance Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_equipment_model
+      label: Safety Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_equipment_make
+      label: Safety Equipment Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: safety_equipment_serial_number
+      label: Safety Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_equipment_year_of_purchase
+      label: Safety Equipment Year of Purchase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: safety_equipment_year_of_last_maintenance
+      label: Safety Equipment Year of Last Maintenance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

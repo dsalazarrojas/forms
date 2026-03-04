@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Deal Submission Form
+    pages:
+    - id: 1
+      name: form_intro
+      label: -- Submit Your Black Friday Deal --
+      hint: Help us feature your best Black Friday offers
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email Address
+      hint: We will contact you at this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: website_url
+      label: Website URL
+      hint: https://example.com
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: deal_title
+      label: Deal Title
+      hint: Short, catchy title for your offer
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: deal_description
+      label: Deal Description
+      hint: Explain what the deal includes and any terms
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: discount_percentage
+      label: Discount Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: original_price
+      label: Original Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: deal_start_date
+      label: Deal Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: deal_end_date
+      label: Deal End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Fashion
+      - Home & Garden
+      - Sports & Outdoors
+      - Beauty & Health
+      - Books & Media
+      - Other
+      required: true
+    - id: 14
+      name: deal_highlights
+      label: Key deal highlights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: promotional_image_url
+      label: Deal Image URL
+      hint: Link to product or promotional image
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coupon_code
+      label: Coupon Code (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

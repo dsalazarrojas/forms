@@ -1,0 +1,277 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Brand Loyalty Poll
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up - optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 5
+        name: household_income
+        label: Household Income
+        hint: Select your income bracket
+        type: select_one
+        options:
+          - Under $25,000
+          - $25,000 - $49,999
+          - $50,000 - $74,999
+          - $75,000 - $99,999
+          - $100,000 - $149,999
+          - $150,000+
+          - Prefer Not to Say
+        required: false
+      - id: 6
+        name: favorite_brand
+        label: Favorite Brand in Category
+        hint: What is your top brand
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: brand_category
+        label: Product Category
+        hint: Which category
+        type: select_one
+        options:
+          - Electronics
+          - Clothing
+          - Food and Beverage
+          - Personal Care
+          - Home Products
+          - Automotive
+          - Sports and Fitness
+          - Other
+        required: true
+      - id: 8
+        name: loyalty_duration
+        label: How Long Have You Been Loyal
+        hint: Duration of brand loyalty
+        type: select_one
+        options:
+          - Less than 1 Year
+          - 1-3 Years
+          - 3-5 Years
+          - 5-10 Years
+          - 10+ Years
+        required: true
+      - id: 9
+        name: loyalty_reason
+        label: Why Are You Loyal
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Product Quality
+          - Price
+          - Brand Reputation
+          - Customer Service
+          - Convenience
+          - Habit
+          - Recommendations
+          - Values Alignment
+          - Product Variety
+          - Other
+        required: true
+      - id: 10
+        name: switch_likelihood
+        label: Likelihood to Switch Brands
+        hint: How likely to try competitors
+        type: select_one
+        options:
+          - Very Unlikely
+          - Unlikely
+          - Neutral
+          - Likely
+          - Very Likely
+        required: true
+      - id: 11
+        name: switch_trigger
+        label: What Would Make You Switch
+        hint: Select factors that would cause switching
+        type: select_multiple
+        options:
+          - Lower Price
+          - Better Quality
+          - Better Service
+          - Innovation
+          - Negative Experience
+          - Recommendations
+          - Availability Issues
+          - Better Values
+          - Nothing Would Make Me Switch
+        required: true
+      - id: 12
+        name: brand_trust
+        label: Trust in Brand
+        hint: How much do you trust the brand
+        type: select_one
+        options:
+          - Completely Trust
+          - Mostly Trust
+          - Somewhat Trust
+          - Slightly Trust
+          - Do Not Trust
+        required: true
+      - id: 13
+        name: brand_recommendation
+        label: Would You Recommend This Brand
+        hint: Select if you would recommend
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 14
+        name: price_sensitivity
+        label: Price Sensitivity
+        hint: How important is price
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 15
+        name: quality_vs_price
+        label: Quality vs Price Priority
+        hint: What matters more
+        type: select_one
+        options:
+          - Quality Always
+          - Quality Usually
+          - Depends on Product
+          - Price Usually
+          - Price Always
+        required: true
+      - id: 16
+        name: emotional_connection
+        label: Emotional Connection to Brand
+        hint: Do you feel connected to the brand
+        type: select_one
+        options:
+          - Very Strong Connection
+          - Strong Connection
+          - Moderate Connection
+          - Weak Connection
+          - No Connection
+        required: true
+      - id: 17
+        name: brand_perception
+        label: Brand Perception
+        hint: How do you perceive the brand
+        type: select_multiple
+        options:
+          - Innovative
+          - Reliable
+          - Affordable
+          - Premium
+          - Trustworthy
+          - Fun
+          - Sustainable
+          - Traditional
+          - Trendy
+          - Other
+        required: true
+      - id: 18
+        name: social_media_following
+        label: Do You Follow Brand on Social Media
+        hint: Select if you follow the brand
+        type: select_one
+        options:
+          - Yes, Multiple Platforms
+          - Yes, One Platform
+          - No
+        required: false
+      - id: 19
+        name: newsletter_subscription
+        label: Subscribed to Brand Newsletter
+        hint: Select if subscribed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 20
+        name: purchase_frequency
+        label: Purchase Frequency
+        hint: How often do you buy from this brand
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Twice a Year
+          - Once a Year
+          - Rarely
+        required: true
+      - id: 21
+        name: brand_experience_rating
+        label: Overall Brand Experience
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 22
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other thoughts on brand loyalty
+        type: text
+        options: []
+        required: false

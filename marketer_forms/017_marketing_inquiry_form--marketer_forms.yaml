@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Inquiry Form
+    pages:
+    - id: 1
+      name: marketing_inquiry_form_page_1
+      label: Marketing Inquiry Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: marketing_inquiry_form_page_2
+      label: Marketing Inquiry Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: marketing_inquiry_form_page_3
+      label: Marketing Inquiry Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

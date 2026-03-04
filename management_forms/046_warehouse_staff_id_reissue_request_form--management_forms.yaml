@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Staff ID Reissue Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: Employee ID number
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_reissue
+      label: Reason for Reissue
+      hint: Please enter the reason why you are requesting a reissue of your Warehouse
+        ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_method
+      label: How would you like to be contacted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      required: true
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: Enter your contact email, phone number, or address
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Warehouse Operations'', ''label'': ''Warehouse Operations''}'
+      - '{''value'': ''HR'', ''label'': ''HR''}'
+      - '{''value'': ''Operations Management'', ''label'': ''Operations Management''}'
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager's Name
+      hint: Enter your manager's name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager's Email
+      hint: Enter your manager's email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: manager_phone
+      label: Manager's Phone
+      hint: Enter your manager's phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_request
+      label: Date of Request
+      hint: Request date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_request
+      label: Time of Request
+      hint: Request time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Warehouse Staff'', ''label'': ''Warehouse Staff''}'
+      - '{''value'': ''Operations'', ''label'': ''Operations''}'
+      - '{''value'': ''HR'', ''label'': ''HR''}'
+      required: true
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''approved'', ''label'': ''Approved''}'
+      - '{''value'': ''denied'', ''label'': ''Denied''}'
+      required: true
+    - id: 13
+      name: remarks
+      label: Remarks
+      hint: Enter your remarks
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: warehouse_staff_id_reissue_request_form_id
+      label: Warehouse Staff ID Reissue Request Form
+      hint: This field is automatically generated
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orthopedic Surgery Patient Summary
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: procedure_type
+      label: Procedure Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: surgical_team_name
+      label: Surgical Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surgeon_specialty
+      label: Surgeon Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: operating_room_number
+      label: Operating Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: patient_height
+      label: Patient Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: procedure_length
+      label: Procedure Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_dose
+      label: Patient Dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: surgical_procedure
+      label: Surgical Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_supervising_provider
+      label: Medical Supervising Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: operating_room_time
+      label: Operating Room Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: anesthesia
+      label: Anesthesia
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: surgical_approach
+      label: Surgical Approach
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: postoperative_care
+      label: Postoperative Care
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

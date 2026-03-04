@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermal Filler Aftercare Form
+    pages:
+    - id: 1
+      name: dermal_filler_aftercare_form
+      label: dermal filler aftercare form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dermal_filler_injection_date
+      label: dermal filler injection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: dermal_filler_injection_site
+      label: dermal filler injection site
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Face'', ''value'': ''face''}'
+      - '{''label'': ''Lips'', ''value'': ''lips''}'
+      - '{''label'': ''Hands'', ''value'': ''hands''}'
+      - '{''label'': ''Feet'', ''value'': ''feet''}'
+      required: false
+    - id: 4
+      name: dermal_filler_injection_time
+      label: dermal filler injection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: dermal_filler_injection_duration
+      label: dermal filler injection duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: dermal_filler_aftercare_products_used
+      label: dermal filler aftercare products
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Moisturizer'', ''value'': ''moisturizer''}'
+      - '{''label'': ''Sunscreen'', ''value'': ''sunscreen''}'
+      - '{''label'': ''Antioxidant'', ''value'': ''antioxidant''}'
+      required: false
+    - id: 7
+      name: dermal_filler_aftercare_instructions
+      label: dermal filler aftercare instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dermal_filler_aftercare_adverse_effects
+      label: dermal filler aftercare adverse effects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Redness'', ''value'': ''redness''}'
+      - '{''label'': ''Swelling'', ''value'': ''swelling''}'
+      - '{''label'': ''Blisters'', ''value'': ''blisters''}'
+      - '{''label'': ''Pain'', ''value'': ''pain''}'
+      - '{''label'': ''Redness'', ''value'': ''redness''}'
+      - '{''label'': ''Swelling'', ''value'': ''swelling''}'
+      - '{''label'': ''Blisters'', ''value'': ''blisters''}'
+      - '{''label'': ''Pain'', ''value'': ''pain''}'
+      required: false
+    - id: 9
+      name: dermal_filler_aftercare_contact_info
+      label: contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dermal_filler_aftercare_follow_up
+      label: follow up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''In Office'', ''value'': ''in_office''}'
+      required: false

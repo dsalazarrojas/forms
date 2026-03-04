@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Risk Review Request Form
+    pages:
+    - id: 1
+      name: manufacturing_risk_review_request_form_page_1
+      label: risk_review_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_category
+      label: risk_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Operational'', ''label'': ''Operational'', ''value'':
+        ''operational''}'
+      - '{''id'': 2, ''name'': ''Quality'', ''label'': ''Quality'', ''value'': ''quality''}'
+      required: false
+    - id: 3
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''label'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''label'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 4
+      name: risk_description
+      label: risk_description
+      hint: Please provide a detailed description of the risk.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_impact
+      label: risk_impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_probability
+      label: risk_probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''label'': ''High'', ''value'': ''high''}'
+      - '{''id'': 2, ''name'': ''low'', ''label'': ''Low'', ''value'': ''low''}'
+      required: false
+    - id: 8
+      name: review_request
+      label: review_request
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: long_term_medication_safety_evaluation_form
+    pages:
+    - id: 1
+      name: medication_safety
+      label: medication_safety
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: side_effects
+      label: side_effects
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: adherence_patterns
+      label: adherence_patterns
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_feedback
+      label: patient_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medication_dosage
+      label: medication_dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_team_feedback
+      label: medical_team_feedback
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: medical_team_comments
+      label: medical_team_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false

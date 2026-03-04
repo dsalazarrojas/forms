@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgery Recovery Assessment
+    pages:
+    - id: 1
+      name: surgery_recovery
+      label: How did you feel today?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      required: false
+    - id: 2
+      name: pain_level_1
+      label: pain level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 3
+      name: surgery_type
+      label: Surgery type
+      hint: null
+      type: select_one
+      options:
+      - General Surgery
+      - Cardiovascular Surgery
+      - Orthopedic Surgery
+      - Plastic Surgery
+      required: false
+    - id: 4
+      name: current_medications_1
+      label: Are you currently taking any medications?
+      hint: List each medication separately
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vital_signs_1
+      label: Vital Signs
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Pressure
+      - Temperature
+      - Pulse
+      - Oxygen Saturation
+      required: false
+    - id: 6
+      name: vital_signs_values_1
+      label: Vital Sign Values
+      hint: null
+      type: select_multiple
+      options:
+      - BP
+      - Temp
+      - Pulse
+      - O2 Sat
+      required: false
+    - id: 7
+      name: medication_side_effects_1
+      label: Medication Side Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: surgical_site_1
+      label: Surgical Site
+      hint: null
+      type: select_one
+      options:
+      - Left Arm
+      - Right Arm
+      - Chest
+      - Legs
+      required: false
+    - id: 9
+      name: current_medication_list_1
+      label: Current Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Pain medication
+      - Antibiotics
+      - Blood thinner
+      - Anti-inflammatory
+      required: false
+    - id: 10
+      name: pain_location_1
+      label: Pain Location
+      hint: null
+      type: select_one
+      options:
+      - Face
+      - Back
+      - Stomach
+      - Throat
+      required: false
+    - id: 11
+      name: vital_signs_2
+      label: Vital Signs 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: vital_sign_values_2
+      label: Vital Sign Values 2
+      hint: null
+      type: select_multiple
+      options:
+      - BP
+      - Temp
+      - Pulse
+      - O2 Sat
+      required: false
+    - id: 13
+      name: pain_location_2
+      label: Pain Location 2
+      hint: null
+      type: select_one
+      options:
+      - Face
+      - Back
+      - Stomach
+      - Throat
+      required: false
+    - id: 14
+      name: medication_side_effects_2
+      label: Medication Side Effects 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: surgical_site_2
+      label: Surgical Site 2
+      hint: null
+      type: select_one
+      options:
+      - Left Arm
+      - Right Arm
+      - Chest
+      - Legs
+      required: false
+    - id: 16
+      name: vital_signs_3
+      label: Vital Signs 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: vital_sign_values_3
+      label: Vital Sign Values 3
+      hint: null
+      type: select_multiple
+      options:
+      - BP
+      - Temp
+      - Pulse
+      - O2 Sat
+      required: false
+    - id: 18
+      name: medication_side_effects_3
+      label: Medication Side Effects 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: surgical_site_3
+      label: Surgical Site 3
+      hint: null
+      type: select_one
+      options:
+      - Left Arm
+      - Right Arm
+      - Chest
+      - Legs
+      required: false
+    - id: 20
+      name: surgical_site_4
+      label: Surgical Site 4
+      hint: null
+      type: select_one
+      options:
+      - Left Arm
+      - Right Arm
+      - Chest
+      - Legs
+      required: false
+    - id: 21
+      name: medication_side_effects_4
+      label: Medication Side Effects 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pain_level_2
+      label: Pain Level 2
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Equipment Loan Request Form
+    pages:
+    - id: 1
+      name: loan_request
+      label: Loan Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loan_date
+      label: Loan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: borrower_details
+      label: Borrower Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_list
+      label: Equipment List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: loan_period
+      label: Loan Period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: loaner_fee
+      label: Loaner Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      - In Use
+      required: false
+    - id: 11
+      name: status_update
+      label: Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: borrower_info
+      label: Borrower Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: loaner_contact
+      label: Loaner Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: loaner_email
+      label: Loaner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

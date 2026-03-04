@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charger Market Research Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up surveys
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 44
+      - 45 to 54
+      - 55 or older
+      required: true
+    - id: 4
+      name: tech_proficiency
+      label: How tech-savvy are you
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Very tech-savvy
+      - Somewhat tech-savvy
+      - Average
+      - Not very tech-savvy
+      - Not tech-savvy at all
+      required: true
+    - id: 5
+      name: total_chargers
+      label: How many phone chargers do you own
+      hint: Total count
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: charger_types
+      label: What types of chargers do you own
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wired USB-A
+      - Wired USB-C
+      - Wired Lightning
+      - Wireless charging pad
+      - Wireless charging stand
+      - Car charger
+      - Portable power bank
+      - Wall adapter only
+      required: true
+    - id: 7
+      name: prefer_wireless
+      label: Do you prefer wireless over wired chargers
+      hint: Your preference
+      type: select_one
+      options:
+      - Strongly prefer wireless
+      - Slightly prefer wireless
+      - No preference
+      - Slightly prefer wired
+      - Strongly prefer wired
+      required: true
+    - id: 8
+      name: wireless_reason
+      label: Why do you prefer that type
+      hint: Explain your preference
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purchase_frequency
+      label: How often do you buy new chargers
+      hint: Purchase pattern
+      type: select_one
+      options:
+      - Every year
+      - Every 2 years
+      - Every 3 to 5 years
+      - Only when broken
+      - Never buy separately
+      required: true
+    - id: 10
+      name: price_range
+      label: What price range do you typically spend
+      hint: Per charger
+      type: select_one
+      options:
+      - Under $10
+      - $10 to $20
+      - $21 to $35
+      - $36 to $50
+      - Over $50
+      required: true
+    - id: 11
+      name: brand_importance
+      label: How important is brand name
+      hint: Brand loyalty
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Neutral
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 12
+      name: preferred_brands
+      label: Which brands do you prefer
+      hint: Select favorites
+      type: select_multiple
+      options:
+      - Apple
+      - Samsung
+      - Anker
+      - Belkin
+      - Mophie
+      - Aukey
+      - Generic or no preference
+      required: false
+    - id: 13
+      name: purchase_likelihood
+      label: How likely to buy aftermarket chargers
+      hint: Future purchase intent
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat unlikely
+      - Very unlikely
+      required: true
+    - id: 14
+      name: important_features
+      label: What features matter most
+      hint: Select top priorities
+      type: select_multiple
+      options:
+      - Fast charging
+      - Durability
+      - Cable length
+      - Compact size
+      - Multiple ports
+      - Wireless capability
+      - Price
+      - Brand reputation
+      required: true
+    - id: 15
+      name: charging_pain_points
+      label: What frustrations do you have with current chargers
+      hint: Common problems
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: eco_friendly
+      label: Would you pay more for eco-friendly chargers
+      hint: Sustainability preference
+      type: select_one
+      options:
+      - Yes definitely
+      - Maybe
+      - false
+      required: true

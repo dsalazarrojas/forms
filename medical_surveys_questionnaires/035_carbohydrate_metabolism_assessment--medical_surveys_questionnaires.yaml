@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbohydrate Metabolism Assessment
+    pages:
+    - id: 1
+      name: client_information
+      label: -- CLIENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: health_history
+      label: -- HEALTH HISTORY --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Current medical conditions
+      hint: Diabetes, pre-diabetes, thyroid issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_history
+      label: Family history of diabetes or metabolic issues?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 10
+      name: family_history_details
+      label: Details of family history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: carbohydrate_intake
+      label: -- CARBOHYDRATE INTAKE --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: daily_carb_intake
+      label: Estimate your daily carbohydrate intake
+      hint: Grams per day if known
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: carb_sources
+      label: Primary carbohydrate sources (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Whole Grains
+      - Refined Grains
+      - Fruits
+      - Vegetables
+      - Legumes
+      - Dairy
+      - Sugar/Sweets
+      - Processed Foods
+      required: false
+    - id: 14
+      name: refined_carb_frequency
+      label: How often do you consume refined carbohydrates?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Few Times Weekly
+      - Daily
+      - Multiple Times Daily
+      required: true
+    - id: 15
+      name: fiber_intake
+      label: Estimate daily fiber intake
+      hint: Grams per day if known
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: blood_sugar_symptoms
+      label: -- BLOOD SUGAR SYMPTOMS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: fatigue_levels
+      label: Do you experience fatigue or low energy?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Constantly
+      required: true
+    - id: 18
+      name: energy_timing
+      label: When do you experience energy dips?
+      hint: null
+      type: select_multiple
+      options:
+      - After Meals
+      - Mid-Morning
+      - Afternoon Slump
+      - Evening
+      - Throughout Day
+      - No Specific Pattern
+      required: false
+    - id: 19
+      name: cravings_frequency
+      label: Sugar or carb cravings frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      - Constantly
+      required: true
+    - id: 20
+      name: cravings_timing
+      label: When do cravings typically occur?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mood_changes
+      label: Mood swings or irritability related to eating?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 22
+      name: activity_levels
+      label: -- ACTIVITY AND LIFESTYLE --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: exercise_frequency
+      label: Exercise frequency per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: exercise_duration
+      label: Average exercise duration
+      hint: Minutes per session
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: sleep_quality
+      label: Sleep quality assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false

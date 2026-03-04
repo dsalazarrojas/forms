@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Marketing Material Usage Consent Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: marketing_materials
+      label: marketing_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - I consent for my data to be shared
+      - Do not share my data
+      required: true
+    - id: 8
+      name: marketing_content
+      label: marketing_content
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: social_media
+      label: social_media
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email_list
+      label: email_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: email_frequency
+      label: email_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email_list_source
+      label: email_list_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_list_note
+      label: email_list_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: phone_list_source
+      label: phone_list_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: phone_list
+      label: phone_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: phone_list_note
+      label: phone_list_note
+      hint: null
+      type: note
+      options: []
+      required: false

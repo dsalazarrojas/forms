@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Driver Analysis Survey
+    pages:
+    - id: 1
+      name: survey_name
+      label: Survey Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: market_segment
+      label: Market Segment
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: impact_description
+      label: Impact Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: impact_score
+      label: Impact Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: impact
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: drivers
+      label: Drivers
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: impact_description2
+      label: Impact Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: priority_ranking
+      label: Priority Ranking
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: priority_description
+      label: Priority Description
+      hint: null
+      type: text
+      options: []
+      required: false

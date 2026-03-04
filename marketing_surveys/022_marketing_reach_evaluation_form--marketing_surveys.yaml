@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Reach Evaluation Form
+    pages:
+    - id: 1
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: marketing_channels
+      label: marketing_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: performance_indicators
+      label: performance_indicators
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: performance_score
+      label: performance_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: growth_challenges
+      label: growth_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reach_indicators
+      label: reach_indicators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: audience_size
+      label: audience_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: channel_performance
+      label: channel_performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: growth_opportunities
+      label: growth_opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: ongoing_analysis
+      label: ongoing_analysis
+      hint: null
+      type: text
+      options: []
+      required: false

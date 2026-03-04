@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Brand Mission Awareness Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Your gender
+        type: select_one
+        options:
+          - Female
+          - Male
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: true
+      - id: 5
+        name: brand_familiarity
+        label: How Familiar Are You With Our Brand
+        hint: Awareness level
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Heard of It
+          - Not Familiar At All
+        required: true
+      - id: 6
+        name: brand_usage
+        label: Have You Used Our Products
+        hint: Usage status
+        type: select_one
+        options:
+          - Current Customer
+          - Past Customer
+          - Never Used
+        required: true
+      - id: 7
+        name: mission_awareness
+        label: Are You Aware of Our Brand Mission
+        hint: Do you know our mission
+        type: select_one
+        options:
+          - Yes - Very Aware
+          - Yes - Somewhat Aware
+          - No - Not Aware
+        required: true
+      - id: 8
+        name: mission_understanding
+        label: How Well Do You Understand Our Mission
+        hint: Understanding level
+        type: select_one
+        options:
+          - Very Well
+          - Somewhat
+          - Not Very Well
+          - Not At All
+          - Not Aware of Mission
+        required: true
+      - id: 9
+        name: mission_association
+        label: What Do You Associate Our Brand With
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Quality
+          - Innovation
+          - Sustainability
+          - Affordability
+          - Luxury
+          - Natural Ingredients
+          - Cruelty-Free
+          - Diversity and Inclusion
+          - Not Sure
+        required: true
+      - id: 10
+        name: values_alignment
+        label: Do Our Brand Values Align With Yours
+        hint: Values match
+        type: select_one
+        options:
+          - Yes - Completely
+          - Yes - Somewhat
+          - Neutral
+          - No - Not Really
+          - No - Not At All
+        required: true
+      - id: 11
+        name: brand_perception
+        label: How Do You Perceive Our Brand
+        hint: Your perception
+        type: select_one
+        options:
+          - Premium
+          - Mid-Range
+          - Budget-Friendly
+          - Luxury
+          - Not Sure
+        required: true
+      - id: 12
+        name: trust_level
+        label: How Much Do You Trust Our Brand
+        hint: Trust level
+        type: select_one
+        options:
+          - Trust Completely
+          - Trust Somewhat
+          - Neutral
+          - Distrust Somewhat
+          - Distrust Completely
+        required: true
+      - id: 13
+        name: recommendation_likelihood
+        label: How Likely to Recommend Our Brand
+        hint: Likelihood score
+        type: select_one
+        options:
+          - Very Likely
+          - Somewhat Likely
+          - Neutral
+          - Somewhat Unlikely
+          - Very Unlikely
+        required: true
+      - id: 14
+        name: message_clarity
+        label: How Clear Is Our Brand Message
+        hint: Message clarity
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 15
+        name: communication_channels
+        label: Where Have You Seen Our Brand
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Social Media
+          - TV Advertising
+          - Print Media
+          - In-Store
+          - Website
+          - Influencers
+          - Friends or Family
+          - Have Not Seen
+        required: true
+      - id: 16
+        name: improvement_suggestions
+        label: How Can We Improve Our Mission Communication
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

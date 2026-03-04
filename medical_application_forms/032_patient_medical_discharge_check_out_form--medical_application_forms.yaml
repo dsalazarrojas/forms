@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_medical_discharge_check_out_form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: discharge_doctors_name
+      label: Discharge Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - Discharged
+      - Admitted
+      - Transferred
+      required: false
+    - id: 8
+      name: care_instructions
+      label: Care Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_appointment
+      label: Follow up Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: patient_medical_condition
+      label: Patient Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Stable
+      - Improved
+      - Critical
+      - Declined
+      required: true
+    - id: 11
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: discharge_caregiver
+      label: Discharge Caregiver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_phone
+      label: Follow Up Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_email
+      label: Follow Up Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: discharge_comments
+      label: Discharge Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_address
+      label: Follow Up Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false

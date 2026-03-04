@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bottling Services Quote Request
+    pages:
+    - id: 1
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_product
+      label: -- Product Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: Name of product to be bottled
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_type
+      label: Product Type
+      hint: Category or classification
+      type: select_one
+      options:
+      - Beverage
+      - Personal Care
+      - Chemical
+      - Pharmaceutical
+      - Food Product
+      - Other
+      required: true
+    - id: 9
+      name: bottle_size
+      label: Bottle Size (mL)
+      hint: Volume capacity needed
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: estimated_volume
+      label: Estimated Monthly Volume
+      hint: Approximate number of bottles
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_specifications
+      label: -- Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: bottle_material
+      label: Bottle Material
+      hint: Glass, plastic, aluminum, etc.
+      type: select_one
+      options:
+      - Glass
+      - Plastic (PET)
+      - HDPE Plastic
+      - Aluminum
+      - Other
+      required: true
+    - id: 13
+      name: cap_type
+      label: Cap/Closure Type
+      hint: Screw cap, pump dispenser, cork, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: labeling_required
+      label: Custom Labeling Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: section_header_timeline
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_start_date
+      label: Desired Project Start Date
+      hint: When can bottling begin
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need finished products
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget for project
+      type: select_one
+      options:
+      - Under 5000
+      - 5000 - 15000
+      - 15000 - 50000
+      - 50000 - 100000
+      - Over 100000
+      required: true
+    - id: 19
+      name: additional_services
+      label: Additional Services Needed
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Filling only
+      - Labeling
+      - Quality control testing
+      - Storage
+      - Logistics
+      - Design consultation
+      required: false
+    - id: 20
+      name: special_requirements
+      label: Special Requirements or Notes
+      hint: Any specific concerns or requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company_history
+      label: How did you hear about us
+      hint: Referral source
+      type: select_one
+      options:
+      - Internet search
+      - Referral
+      - Trade show
+      - Previous customer
+      - Other
+      required: false

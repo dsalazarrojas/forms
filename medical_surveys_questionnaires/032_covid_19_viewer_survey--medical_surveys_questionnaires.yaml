@@ -1,0 +1,284 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Viewer Survey
+    pages:
+    - id: 1
+      name: viewer_demographics_header
+      label: -- Demographic Information --
+      hint: Please provide your background information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: viewer_age_group
+      label: Age Group
+      hint: Your age category
+      type: select_one
+      options:
+        - Under 18
+        - 18-25
+        - 26-35
+        - 36-50
+        - 51-65
+        - 65+
+      required: true
+    - id: 3
+      name: viewer_gender
+      Label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+        - Male
+        - Female
+        - Other
+        - Prefer Not to Say
+      required: false
+    - id: 4
+      name: viewer_state
+      label: State or Region
+      hint: Where you live
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: viewer_education
+      Label: Education Level
+      hint: Your highest education completed
+      type: select_one
+      options:
+        - High school or less
+        - Some college
+        - College degree
+        - Graduate degree
+        - Other
+      required: false
+    - id: 6
+      name: pandemic_perception_header
+      label: -- COVID-19 Perception --
+      hint: Your views on the pandemic
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pandemic_severity
+      Label: How Severe is the COVID-19 Pandemic
+      hint: Your perception of severity
+      type: select_one
+      options:
+        - Extremely serious threat
+        - Very serious threat
+        - Moderately serious
+        - Somewhat serious
+        - Not serious
+        - Overblown threat
+      required: true
+    - id: 8
+      name: pandemic_personal_impact
+      label: How Much Has COVID-19 Affected Your Life
+      hint: Personal impact level
+      type: select_one
+      options:
+        - Extremely affected
+        - Very affected
+        - Moderately affected
+        - Slightly affected
+        - Not affected at all
+      required: true
+    - id: 9
+      name: pandemic_deaths_perception
+      Label: How Serious Are COVID-19 Deaths
+      hint: Your view on mortality risk
+      type: select_one
+      options:
+        - Very serious concern
+        - Somewhat serious concern
+        - Minor concern
+        - No concern
+        - Overblown concern
+      required: true
+    - id: 10
+      name: pandemic_media_coverage
+      label: How Adequate is Media Coverage
+      hint: Your view on media reporting
+      type: select_one
+      options:
+        - Under-reported
+        - Fairly reported
+        - Over-reported
+        - Sensationalized
+        - Cannot judge
+      required: false
+    - id: 11
+      name: government_response_header
+      Label: -- Government Response --
+      hint: Your views on government actions
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: government_response_effectiveness
+      label: Effectiveness of Government Response
+      hint: Rating of government actions
+      type: select_one
+      options:
+        - Very effective
+        - Somewhat effective
+        - Neutral
+        - Somewhat ineffective
+        - Very ineffective
+      required: true
+    - id: 13
+      name: lockdown_measures_opinion
+      Label: Opinion on Lockdown Measures
+      hint: Your view on lockdowns
+      type: select_one
+      options:
+        - Strongly support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly oppose
+      required: true
+    - id: 14
+      name: mask_mandate_opinion
+      label: Opinion on Mask Mandates
+      hint: Your view on mask requirements
+      type: select_one
+      options:
+        - Strongly support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly oppose
+      required: true
+    - id: 15
+      name: school_closures_opinion
+      Label: Opinion on School Closures
+      hint: Your view on school closures
+      type: select_one
+      options:
+        - Strongly support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly oppose
+      required: false
+    - id: 16
+      name: personal_behavior_header
+      label: -- Personal Behavior --
+      hint: Your pandemic safety practices
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: mask_wearing_frequency
+      Label: How Often Do You Wear a Mask
+      hint: Your mask wearing frequency
+      type: select_one
+      options:
+        - Always
+        - Usually
+        - Sometimes
+        - Rarely
+        - Never
+      required: true
+    - id: 18
+      name: social_distancing_practice
+      label: Do You Practice Social Distancing
+      hint: Your distancing practices
+      type: select_one
+      options:
+        - Yes, always
+        - Yes, usually
+        - Sometimes
+        - Rarely
+        - No
+      required: true
+    - id: 19
+      name: activities_modification
+      Label: How Much Have You Modified Activities
+      hint: Your activity changes
+      type: select_one
+      options:
+        - Completely stopped
+        - Mostly stopped
+        - Somewhat modified
+        - Minimal changes
+        - No changes
+      required: true
+    - id: 20
+      name: information_sources_header
+      label: -- Information Sources --
+      hint: Where you get COVID-19 information
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: trusted_information_sources
+      Label: Most Trusted Information Sources
+      hint: Select sources you trust
+      type: select_multiple
+      options:
+        - Government health agencies
+        - Healthcare providers
+        - Medical research
+        - News media
+        - Social media
+        - Friends and family
+        - Online forums
+        - Alternative sources
+      required: false
+    - id: 22
+      name: concern_about_misinformation
+      label: Are You Concerned About COVID-19 Misinformation
+      hint: Your concern level
+      type: select_one
+      options:
+        - Very concerned
+        - Somewhat concerned
+        - Not very concerned
+        - Not at all concerned
+      required: false
+    - id: 23
+      name: personal_impact_header
+      Label: -- Personal Impact Areas --
+      hint: Areas of your life affected
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: affected_life_areas
+      label: Which Areas of Your Life Have Been Affected
+      hint: Select all applicable areas
+      type: select_multiple
+      options:
+        - Work or employment
+        - Education
+        - Mental health
+        - Physical health
+        - Finances
+        - Relationships
+        - Travel
+        - Social activities
+        - Healthcare access
+        - None
+      required: false
+    - id: 25
+      name: viewer_additional_comments
+      Label: Additional Comments or Concerns
+      hint: Any other thoughts about the pandemic
+      type: text
+      options: []
+      required: false

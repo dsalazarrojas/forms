@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Customer Feedback Form Template
+    pages:
+      - id: 1
+        name: feedback_intro
+        label: Customer Feedback Survey
+        hint: Help us improve your Black Friday shopping experience
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: customer_name
+        label: Your Name
+        hint: Optional - for follow-up contact
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: So we can send you a thank you discount
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: shopping_date
+        label: Shopping Date
+        hint: When did you shop with us
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: shopping_location
+        label: Shopping Location
+        hint: Where did you shop
+        type: select_one
+        options:
+          - Online Store
+          - Physical Store - Downtown
+          - Physical Store - Mall
+          - Physical Store - Outlet
+          - Mobile App
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall Black Friday experience
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: website_ease_of_use
+        label: Website Ease of Use
+        hint: How easy was it to navigate and find products
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: false
+      - id: 8
+        name: checkout_experience
+        label: Checkout Experience
+        hint: Rate the checkout process
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 9
+        name: product_availability
+        label: Product Availability
+        hint: Were the items you wanted in stock
+        type: select_one
+        options:
+          - All Items Available
+          - Most Items Available
+          - Some Items Available
+          - Few Items Available
+          - Nothing Available
+        required: true
+      - id: 10
+        name: deal_satisfaction
+        label: Deal Satisfaction
+        hint: How satisfied were you with the discounts
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 11
+        name: shipping_speed
+        label: Shipping Speed
+        hint: Rate the delivery time
+        type: select_one
+        options:
+          - Faster Than Expected
+          - As Expected
+          - Slower Than Expected
+          - Not Yet Received
+          - Not Applicable
+        required: false
+      - id: 12
+        name: customer_service_rating
+        label: Customer Service Rating
+        hint: Quality of support received
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Did Not Contact
+        required: false
+      - id: 13
+        name: likelihood_to_recommend
+        label: Likelihood to Recommend
+        hint: Would you recommend us to friends
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 14
+        name: will_shop_again
+        label: Will You Shop Again
+        hint: Do you plan to return for future deals
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 15
+        name: best_part
+        label: Best Part of Experience
+        hint: What did you enjoy most
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could we do better
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_feedback
+        label: Additional Comments
+        hint: Any other feedback to share
+        type: text
+        options: []
+        required: false

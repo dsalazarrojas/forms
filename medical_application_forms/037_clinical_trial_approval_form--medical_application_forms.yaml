@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Trial Approval Form
+    pages:
+    - id: 1
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: protocol_number
+      label: Trial ID or Protocol Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_status
+      label: -- Application Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: approval_stage
+      label: Current Approval Stage
+      hint: null
+      type: select_one
+      options:
+      - Internal Review
+      - Ethics Committee
+      - Regulatory Body
+      - Final Approval
+      required: true
+    - id: 5
+      name: section_trial_details
+      label: -- Trial Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: trial_title
+      label: Full Clinical Trial Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: trial_phase
+      label: Phase of Clinical Trial
+      hint: null
+      type: select_one
+      options:
+      - Phase I
+      - Phase II
+      - Phase III
+      - Phase IV
+      required: true
+    - id: 8
+      name: target_enrollment
+      label: Target Participant Enrollment Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: trial_duration_estimate
+      label: Estimated Total Trial Duration
+      hint: null
+      type: select_one
+      options:
+      - 6 months
+      - 1 year
+      - 2 years
+      - 3 or more years
+      required: false
+    - id: 10
+      name: section_safety_ethics
+      label: -- Safety and Ethics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ae_plan_attached
+      label: Adverse Event Reporting Plan successfully attached?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: consent_template_approved
+      label: Informed Consent Template successfully approved?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: conflict_interest_declared
+      label: Conflict of Interest successfully declared?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: section_approvals
+      label: -- Approvals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: institutional_approval_date
+      label: Date of Institutional Approval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: signatory_name
+      label: Authorized Signatory Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signatory_signature
+      label: Authorized Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

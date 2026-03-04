@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Survey Form
+    pages:
+    - id: 1
+      name: feedback_questions
+      label: What can we improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_feedback
+      label: Rate your experience
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 3
+      name: contact_details
+      label: How can we contact you?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Social Media
+      required: false
+    - id: 4
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Today's date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: rating_score
+      label: Overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating_comment
+      label: Why do you think this is your rating?
+      hint: null
+      type: note
+      options: []
+      required: false

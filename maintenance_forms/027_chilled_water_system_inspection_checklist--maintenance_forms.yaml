@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chilled Water System Inspection Checklist
+    pages:
+    - id: 1
+      name: inspection_information
+      label: -- Inspection Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspector_license
+      label: License or Certification Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_type
+      label: Type of Inspection
+      hint: null
+      type: select_one
+      options:
+      - Routine maintenance
+      - Annual inspection
+      - Pre-season check
+      - Post-repair verification
+      - Emergency assessment
+      required: true
+    - id: 7
+      name: chiller_information
+      label: -- Chiller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: chiller_model
+      label: Chiller Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: chiller_serial
+      label: Chiller Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: refrigerant_type
+      label: Refrigerant Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: operating_hours
+      label: Current Operating Hours
+      hint: Total hours of operation
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: visual_inspection
+      label: -- Visual Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: physical_condition
+      label: Overall Physical Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: visible_damage
+      label: Any visible damage or leaks
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: damage_description
+      label: Description of damage if present
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pipe_insulation
+      label: Pipe Insulation Condition
+      hint: null
+      type: select_one
+      options:
+      - Intact
+      - Damaged
+      - Missing
+      - Not applicable
+      required: true
+    - id: 18
+      name: operational_checks
+      label: -- Operational Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: startup_check
+      label: Unit starts and operates normally
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not tested
+      required: true
+    - id: 20
+      name: temperature_control
+      label: Temperature control functioning properly
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Minor adjustment needed
+      required: true
+    - id: 21
+      name: pressure_readings
+      label: Pressure readings within normal range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not checked
+      required: true
+    - id: 22
+      name: refrigerant_level
+      label: Refrigerant level appropriate
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Low
+      - High
+      - Not checked
+      required: true
+    - id: 23
+      name: maintenance_records
+      label: -- Maintenance Records --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: last_service_date
+      label: Date of Last Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: recommendations
+      label: Recommendations and Notes
+      hint: Any needed repairs or maintenance
+      type: text
+      options: []
+      required: false

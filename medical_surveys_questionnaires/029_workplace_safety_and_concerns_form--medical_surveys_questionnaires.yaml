@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety And Concerns Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question1
+      label: Have you experienced any of the following symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      required: false
+    - id: 4
+      name: question2
+      label: What type of symptoms do you experience?
+      hint: null
+      type: select_one
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      - Other
+      required: false
+    - id: 5
+      name: symptoms
+      label: What symptoms are you experiencing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: Have you had any contact with someone who has COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: contact_name
+      label: Name of contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question4
+      label: Do you feel safe at work?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: concern
+      label: Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question5
+      label: Would you like to report anything else?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: notes
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question6
+      label: Do you want to be contacted for further assistance?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Phone number to contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Email address to contact
+      hint: null
+      type: email
+      options: []
+      required: false

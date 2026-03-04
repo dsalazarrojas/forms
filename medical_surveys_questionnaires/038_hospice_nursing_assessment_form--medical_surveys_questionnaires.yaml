@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: hospice_nursing_assessment_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: care_level
+      label: care_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medication_current_use
+      label: medication_current_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pain_level
+      label: pain_level
+      hint: null
+      type: select_one
+      options:
+      - 0-2
+      - 3-5
+      - 6-8
+      - 9-10
+      required: true
+    - id: 8
+      name: vital_signs
+      label: vital_signs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: medical_notes
+      label: medical_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hospice_care_needed
+      label: hospice_care_needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: hospice_care_type
+      label: hospice_care_type
+      hint: null
+      type: select_one
+      options:
+      - Medical
+      - Social
+      - Spiritual
+      - Emotional
+      required: true
+    - id: 12
+      name: hospice_care_plan
+      label: hospice_care_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: hospice_care_goal
+      label: hospice_care_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hospice_care_frequency
+      label: hospice_care_frequency
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 2-3 days
+      - 4-7 days
+      - More than 7 days
+      required: true
+    - id: 15
+      name: hospice_care_duration
+      label: hospice_care_duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hospice_care_frequency_2
+      label: hospice_care_frequency_2
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Less than weekly
+      - Weekly
+      - Monthly
+      required: true
+    - id: 17
+      name: hospice_care_frequency_3
+      label: hospice_care_frequency_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hospice_care_frequency_4
+      label: hospice_care_frequency_4
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes - 1 hour
+      - 1-2 hours
+      - More than 2 hours
+      required: true
+    - id: 19
+      name: hospice_care_frequency_5
+      label: hospice_care_frequency_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hospice_care_frequency_6
+      label: hospice_care_frequency_6
+      hint: null
+      type: select_one
+      options:
+      - Every 15 minutes
+      - Every 30 minutes
+      - Every 1 hour
+      - Every 2 hours
+      required: true
+    - id: 21
+      name: hospice_care_frequency_7
+      label: hospice_care_frequency_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hospice_care_frequency_8
+      label: hospice_care_frequency_8
+      hint: null
+      type: select_one
+      options:
+      - Continuous
+      - Non-continuous
+      required: true
+    - id: 23
+      name: hospice_care_frequency_9
+      label: hospice_care_frequency_9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: hospice_care_frequency_10
+      label: hospice_care_frequency_10
+      hint: null
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      required: true
+    - id: 25
+      name: hospice_care_frequency_11
+      label: hospice_care_frequency_11
+      hint: null
+      type: text
+      options: []
+      required: false

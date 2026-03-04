@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pregnancy Therapies Consultation Form
+    pages:
+    - id: 1
+      name: client_id
+      label: Client Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: week_of_pregnancy
+      label: Week of Pregnancy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_state_of_health
+      label: Current State of Health
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: further_details
+      label: Further Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_to_terms_and_conditions
+      label: I consent to the treatment terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: consent_date
+      label: Date of consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: consent_time
+      label: Time of consent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: date_of_signature
+      label: Date of signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: initials
+      label: Initials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: printed_name
+      label: Printed name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: hospital_name
+      label: Hospital name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: doctor_name
+      label: Doctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_number
+      label: Medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_record_date
+      label: Medical record date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Site Size Survey
+    pages:
+    - id: 1
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Chicago
+      - New York
+      - Los Angeles
+      required: false
+    - id: 3
+      name: floor_area
+      label: Floor Area
+      hint: Square feet
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: length
+      label: Length
+      hint: Feet
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: width
+      label: Width
+      hint: Feet
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: height
+      label: Height
+      hint: Feet
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: production_capacity
+      label: Production Capacity
+      hint: Units
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: production_capacity_unit
+      label: Production Capacity Unit
+      hint: null
+      type: select_one
+      options:
+      - Tons
+      - Pieces
+      - Units
+      required: false
+    - id: 9
+      name: site_area
+      label: Site Area
+      hint: Square feet
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: site_area_unit
+      label: Site Area Unit
+      hint: null
+      type: select_one
+      options:
+      - Square Feet
+      - Square Meters
+      required: false
+    - id: 11
+      name: building_area
+      label: Building Area
+      hint: Square feet
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: building_area_unit
+      label: Building Area Unit
+      hint: null
+      type: select_one
+      options:
+      - Square Feet
+      - Square Meters
+      required: false
+    - id: 13
+      name: production_area
+      label: Production Area
+      hint: Square feet
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: production_area_unit
+      label: Production Area Unit
+      hint: null
+      type: select_one
+      options:
+      - Square Feet
+      - Square Meters
+      required: false
+    - id: 15
+      name: production_capacity_factor
+      label: Production Capacity Factor
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: production_capacity_factor_unit
+      label: Production Capacity Factor Unit
+      hint: null
+      type: select_one
+      options:
+      - Percentage
+      - Units
+      required: false
+    - id: 17
+      name: max_production_capacity
+      label: Max Production Capacity
+      hint: Units
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: production_capacity_factor_max
+      label: Max Production Capacity Factor
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: site_assessment_date
+      label: Site Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: site_assessment_time
+      label: Site Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: production_capacity
+      label: Production Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: production_capacity_unit
+      label: Production Capacity Unit
+      hint: null
+      type: select_one
+      options:
+      - Units
+      - Tons
+      - Pieces
+      required: false
+    - id: 23
+      name: production_capacity_factor
+      label: Production Capacity Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: production_area
+      label: Production Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: expansion_planning_status
+      label: Expansion Planning Status
+      hint: null
+      type: select_multiple
+      options:
+      - Planning
+      - Approved
+      - In Progress
+      - Completed
+      required: false

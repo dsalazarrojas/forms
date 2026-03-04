@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitalization Authorization Request
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_approvals
+      label: Patient Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Patient's family
+      - Patient's friend
+      - Patient's relative
+      required: false
+    - id: 3
+      name: admission_info
+      label: Admission Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_stay
+      label: Date of Stay
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: hospitalization_reason
+      label: Hospitalization Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hospital_info
+      label: Hospital Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_signature
+      label: Doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. John
+      - Dr. Jane
+      - Dr. Joe
+      required: false
+    - id: 11
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_name
+      label: Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_admission
+      label: Date of Admission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_specialty
+      label: Doctor's Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hospital_name
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hospital_address
+      label: Hospital Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_phone
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_phone
+      label: Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: hospital_phone
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_email
+      label: Doctor
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: patient_email
+      label: Patient
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: hospital_email
+      label: Hospital
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: doctor_license
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hospital_license
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false

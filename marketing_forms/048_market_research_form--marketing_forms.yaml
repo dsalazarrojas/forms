@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Research Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_objective
+      label: Research Objective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_questions
+      label: Research Questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_methods
+      label: Research Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_collection_tools
+      label: Data Collection Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Online surveys
+      - Face-to-face
+      - Phone
+      - Mail
+      required: false
+    - id: 10
+      name: data_analysis_techniques
+      label: Data Analysis Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - Descriptive Statistics
+      - Inferential Statistics
+      - Data Mining
+      required: false
+    - id: 11
+      name: timeframes
+      label: Timeframes
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: research_scope
+      label: Research Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: budget_allocation
+      label: Budget Allocation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_budget
+      label: Total Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: research_location
+      label: Research Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: research_status
+      label: Research Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      - Cancelled
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

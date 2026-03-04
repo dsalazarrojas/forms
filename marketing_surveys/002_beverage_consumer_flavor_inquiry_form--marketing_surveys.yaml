@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Consumer Flavor Inquiry Form
+    pages:
+      - id: 1
+        name: section_header_demographics
+        label: -- Demographics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+        required: true
+      - id: 3
+        name: gender
+        label: Gender
+        hint: null
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+        required: true
+      - id: 4
+        name: location
+        label: Geographic Location
+        hint: What is your primary location?
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: consumption_frequency
+        label: Beverage Consumption Frequency
+        hint: How often do you consume flavored beverages?
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Once a week
+          - A few times a month
+          - Rarely
+        required: true
+      - id: 6
+        name: section_header_preferences
+        label: -- Flavor Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: favorite_flavors
+        label: Favorite Flavors (Select all that apply)
+        hint: Which flavors do you enjoy most?
+        type: select_multiple
+        options:
+          - Citrus
+          - Berry
+          - Tropical
+          - Cherry
+          - Apple
+          - Grape
+          - Watermelon
+          - Mango
+        required: true
+      - id: 8
+        name: sweetness_preference
+        label: Sweetness Preference
+        hint: How sweet do you prefer your beverages?
+        type: select_one
+        options:
+          - Very sweet
+          - Moderately sweet
+          - Lightly sweet
+          - Not sweet at all
+          - No preference
+        required: true
+      - id: 9
+        name: flavor_intensity
+        label: Flavor Intensity Preference
+        hint: Do you prefer bold or subtle flavors?
+        type: select_one
+        options:
+          - Very bold and intense
+          - Moderately bold
+          - Subtle and light
+          - No preference
+        required: true
+      - id: 10
+        name: section_header_purchase
+        label: -- Purchase Behavior --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: purchase_triggers
+        label: What drives your beverage purchases (Select all that apply)
+        hint: Which factors influence your buying decisions?
+        type: select_multiple
+        options:
+          - Taste and flavor
+          - Health benefits
+          - Brand reputation
+          - Price
+          - Packaging design
+          - Ingredient quality
+          - Sustainability
+        required: true
+      - id: 12
+        name: price_sensitivity
+        label: Price Sensitivity
+        hint: How important is price in your decision?
+        type: select_one
+        options:
+          - Very important
+          - Somewhat important
+          - Neutral
+          - Not very important
+          - Not important
+        required: true
+      - id: 13
+        name: new_flavor_likelihood
+        label: Likelihood to Try New Flavors
+        hint: Would you try a new flavor?
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 14
+        name: section_header_concepts
+        label: -- Product Concepts --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: concept_interest
+        label: Interest in Limited Edition Flavors
+        hint: How interested are you in seasonal or limited flavors?
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Not at all interested
+        required: true
+      - id: 16
+        name: health_attributes
+        label: Important Health Attributes
+        hint: What health aspects matter to you (Select all that apply)?
+        type: select_multiple
+        options:
+          - Low sugar
+          - Natural ingredients
+          - No artificial colors
+          - Organic
+          - Vitamin enriched
+          - Probiotic
+        required: false
+      - id: 17
+        name: brand_preference
+        label: Preferred Beverage Brands
+        hint: List your go-to brands
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Comments or Suggestions
+        hint: Any other thoughts about beverages or flavors?
+        type: text
+        options: []
+        required: false

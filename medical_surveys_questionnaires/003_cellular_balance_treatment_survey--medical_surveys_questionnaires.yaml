@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cellular Balance Treatment Survey
+    pages:
+      - id: 1
+        name: patient_info_header
+        label: -- Patient Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: treatment_date
+        label: Treatment Date
+        hint: Select the date you received the treatment
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: treatment_type
+        label: Type of Cellular Balance Treatment Received
+        hint: Which specific service was provided
+        type: select_one
+        options:
+          - Ionic Detox
+          - Microcurrent Therapy
+          - PEMF (Pulsed Electromagnetic Field)
+          - Bio-Resonance
+          - Other
+        required: true
+      - id: 5
+        name: treatment_experience_header
+        label: -- Treatment Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: comfort_level
+        label: Comfort Level During Session
+        hint: How comfortable were you during the procedure
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Slightly Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 7
+        name: post_treatment_feedback_header
+        label: -- Post-Treatment Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: energy_level_rating
+        label: Energy Level After Session
+        hint: How would you rate your immediate energy level
+        type: select_one
+        options:
+          - Significantly Higher
+          - Slightly Higher
+          - No Change
+          - Slightly Lower
+          - Significantly Lower
+        required: true
+      - id: 9
+        name: post_session_effects
+        label: Effects Experienced Since Treatment
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Increased focus
+          - Better sleep
+          - Reduced pain
+          - Improved digestion
+          - Headache
+          - Fatigue
+          - Other
+        required: false
+      - id: 10
+        name: practitioner_feedback_header
+        label: -- Practitioner Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: explanation_clarity
+        label: Practitioner Explanation Clarity
+        hint: How well did the practitioner explain the procedure
+        type: select_one
+        options:
+          - Very well
+          - Somewhat well
+          - Not very well
+        required: true
+      - id: 12
+        name: overall_satisfaction_header
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: recommendation_likelihood
+        label: Likelihood to Recommend
+        hint: How likely are you to recommend this treatment to others
+        type: select_one
+        options:
+          - Extremely likely
+          - Likely
+          - Unlikely
+          - Extremely unlikely
+        required: true
+      - id: 14
+        name: additional_comments_header
+        label: -- Additional Comments --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: feedback_suggestions
+        label: Additional Feedback or Suggestions
+        hint: Please share any other thoughts
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: contact_email
+        label: Your Email
+        hint: Optional - for follow-up regarding your feedback
+        type: email
+        options: []
+        required: false

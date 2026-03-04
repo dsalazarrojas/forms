@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organic Supplier Renewal Application Form
+    pages:
+    - id: 1
+      name: supplier_details
+      label: Supplier Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: certification
+      label: Certification
+      hint: Please select the applicable certifications
+      type: select_one
+      options:
+      - Organic 1.2
+      - Organic 1.3
+      - Organic 2
+      required: false
+    - id: 3
+      name: product_categories
+      label: Product Categories
+      hint: Select all applicable product categories
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      required: false
+    - id: 4
+      name: certifications
+      label: Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

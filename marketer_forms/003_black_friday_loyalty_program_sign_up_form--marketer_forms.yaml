@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Loyalty Program Sign Up Form
+    pages:
+    - id: 1
+      name: personal_info_section
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Used for account setup and rewards
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional for SMS alerts
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: For age based offers
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: mailing_address
+      label: Mailing address
+      hint: Optional for physical rewards
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: loyalty_tier_preference
+      label: Loyalty tier preference
+      hint: Choose initial tier if applicable
+      type: select_one
+      options:
+      - Standard
+      - Silver
+      - Gold
+      - Platinum
+      required: true
+    - id: 8
+      name: marketing_consent
+      label: Receive promotional emails
+      hint: Opt in to marketing communications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: referral_code
+      label: Referral code
+      hint: Code provided by friend if any
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional notes
+      hint: Accessibility needs or special requests
+      type: text
+      options: []
+      required: false

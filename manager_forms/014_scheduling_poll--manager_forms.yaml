@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scheduling Poll
+    pages:
+    - id: 1
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: attendees_list
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: poll_start_time
+      label: Poll Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: poll_start_date
+      label: Poll Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: poll_end_time
+      label: Poll End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: poll_end_date
+      label: Poll End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: poll_duration
+      label: Poll Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: poll_duration_unit
+      label: Poll Duration Unit
+      hint: null
+      type: select_one
+      options:
+      - seconds
+      - minutes
+      - hours
+      - days
+      - weeks
+      - months
+      - years
+      required: false
+    - id: 15
+      name: poll_description
+      label: Poll Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: poll_location
+      label: Poll Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: poll_attendees
+      label: Poll Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: poll_attendees_list
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Budget Cover Design Submission
+    pages:
+      - id: 1
+        name: designer_name
+        label: Designer name
+        hint: Full name of designer
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: Email for submission status
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: project_title
+        label: Project title
+        hint: Title of cover design brief
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: design_files
+        label: Design files
+        hint: Attach or link design files
+        type: note
+        options: []
+        required: true
+      - id: 5
+        name: format_specifications
+        label: Format specifications
+        hint: Required file formats dimensions and color mode
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: licensing_terms
+        label: Licensing terms
+        hint: Confirm you grant required usage rights
+        type: select_one
+        options:
+          - I grant rights
+          - I retain rights
+        required: true
+      - id: 7
+        name: submission_date
+        label: Submission date
+        hint: Date of design submission
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: comments
+        label: Comments
+        hint: Any notes for the reviewer
+        type: text
+        options: []
+        required: false

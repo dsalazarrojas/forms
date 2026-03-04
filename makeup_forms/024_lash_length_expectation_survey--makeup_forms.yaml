@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Length Expectation Survey
+    pages:
+    - id: 1
+      name: lash_length_survey
+      label: Lash Length Expectation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lash_style
+      label: Lash Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: expected_lash_length
+      label: Expected Lash Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: actual_lash_length
+      label: Actual Lash Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lash_technique
+      label: Lash Technique
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

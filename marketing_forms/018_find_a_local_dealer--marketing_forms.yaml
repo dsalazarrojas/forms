@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Find A Local Dealer
+    pages:
+    - id: 1
+      name: dealer_name
+      label: Dealer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_interests
+      label: Product Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Dealers in my Area
+      - Dealers near me
+      - Dealers online
+      - Other
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

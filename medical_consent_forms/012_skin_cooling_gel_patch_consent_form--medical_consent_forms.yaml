@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Cooling Gel Patch Consent Form
+    pages:
+    - id: 1
+      name: consent
+      label: Parent Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Please enter your medical conditions
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: consent_date
+      label: Date of Consent
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent_time
+      label: Time of Consent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: categories
+      label: Categories
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_tags
+      label: Form Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: assigned_username
+      label: Assigned Username
+      hint: null
+      type: text
+      options: []
+      required: false

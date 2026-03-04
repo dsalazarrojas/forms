@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Experience Survey
+    pages:
+    - id: 1
+      name: user_experience_survey_1
+      label: What is your current website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_accessibility_score_1
+      label: Accessibility score
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: content_relevance_1
+      label: How relevant is the content on your website
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: presentation_score_1
+      label: Presentation score
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: website_navigation_score_1
+      label: How easy is it to navigate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: website_usability_score_1
+      label: Usability score
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: comments_1
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_information_1
+      label: Contact information
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - mail
+      required: true

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_safety_shield_replacement_request_form
+    pages:
+    - id: 1
+      name: maintenance_form
+      label: Maintenance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_shield_details
+      label: Safety Shield Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: recommended_replacement
+      label: Recommended Replacement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

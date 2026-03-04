@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geriatric Care Discharge Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_list_item
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 5
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: test_results
+      label: Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: medical_provider_info
+      label: Medical Provider Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: discharge_care_plans
+      label: Discharge Care Plans
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: discharge_care_plans_item
+      label: Discharge Care Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_service
+      label: Social Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_service_item
+      label: Social Service Item
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: facility
+      label: Facility
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 16
+      name: facility_info
+      label: Facility Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_info_item
+      label: Other Info Item
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

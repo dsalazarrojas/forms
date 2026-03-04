@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hypertension Communication Survey
+    pages:
+    - id: 1
+      name: hypertension_communication_survey_page_1
+      label: how_people_receive_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hypertension_communication_survey_page_2
+      label: satisfaction_measures
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: suggestions_for_improvement
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

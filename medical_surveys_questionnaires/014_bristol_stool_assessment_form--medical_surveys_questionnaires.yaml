@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bristol Stool Assessment Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Enter the full name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: Enter the patient identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Select the patients date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select the patients gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Select the date of this assessment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_assessment
+      label: -- Bristol Stool Scale Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: stool_type
+      label: Bristol Stool Type
+      hint: Select the corresponding Bristol Stool Scale type
+      type: select_one
+      options:
+      - Type 1 - Separate hard lumps
+      - Type 2 - Lumpy sausage shape
+      - Type 3 - Sausage with cracks
+      - Type 4 - Smooth soft sausage
+      - Type 5 - Soft blobs with clear edges
+      - Type 6 - Fluffy ragged pieces
+      - Type 7 - Watery no solid pieces
+      required: true
+    - id: 9
+      name: consistency_description
+      label: Consistency Description
+      hint: Provide additional details about stool consistency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: color
+      label: Stool Color
+      hint: Select the observed color
+      type: select_one
+      options:
+      - Brown
+      - Light Brown
+      - Dark Brown
+      - Black
+      - Red
+      - Green
+      - Yellow
+      - Clay Colored
+      required: true
+    - id: 11
+      name: odor_description
+      label: Odor Description
+      hint: Describe any notable odor characteristics
+      type: select_one
+      options:
+      - Normal
+      - Mildly Abnormal
+      - Strongly Abnormal
+      - Foul
+      required: true
+    - id: 12
+      name: presence_of_blood
+      label: Presence of Blood
+      hint: Indicate if blood is visible
+      type: select_one
+      options:
+      - None
+      - Bright Red Blood
+      - Dark Blood
+      - Occult Blood
+      required: true
+    - id: 13
+      name: presence_of_mucus
+      label: Presence of Mucus
+      hint: Indicate if mucus is present
+      type: select_one
+      options:
+      - None
+      - Small Amount
+      - Moderate Amount
+      - Large Amount
+      required: true
+    - id: 14
+      name: section_symptoms
+      label: -- Associated Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: bowel_movement_frequency
+      label: Bowel Movement Frequency
+      hint: Select how often bowel movements occur
+      type: select_one
+      options:
+      - Multiple times per day
+      - Once daily
+      - Every 2-3 days
+      - Less than 3 times per week
+      required: true
+    - id: 16
+      name: associated_symptoms
+      label: Associated Symptoms
+      hint: Select all symptoms present
+      type: select_multiple
+      options:
+      - Abdominal Pain
+      - Bloating
+      - Nausea
+      - Vomiting
+      - Constipation
+      - Diarrhea
+      - Urgency
+      - Incontinence
+      required: false
+    - id: 17
+      name: dietary_factors
+      label: Relevant Dietary Factors
+      hint: Describe any relevant dietary factors
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medications
+      label: Current Medications
+      hint: List any medications that may affect bowel function
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_clinical
+      label: -- Clinical Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: clinical_interpretation
+      label: Clinical Interpretation
+      hint: Provide clinical interpretation of findings
+      type: select_one
+      options:
+      - Normal
+      - Constipation Indicated
+      - Diarrhea Indicated
+      - Possible Malabsorption
+      - Requires Further Investigation
+      required: true
+    - id: 21
+      name: recommended_actions
+      label: Recommended Actions
+      hint: Describe recommended follow-up or treatment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: examiner_name
+      label: Examiner Name
+      hint: Enter the name of the healthcare provider
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Clinical Notes
+      hint: Enter any additional notes
+      type: text
+      options: []
+      required: false

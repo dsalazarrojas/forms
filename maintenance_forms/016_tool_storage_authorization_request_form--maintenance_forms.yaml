@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: tool_storage_authorization_request_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Tool Storage Authorization Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjanet
+      - chatjim
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: Enter a brief description
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_email
+      label: submitter_email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: submitter_phone
+      label: submitter_phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_date
+      label: submitter_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitter_time
+      label: submitter_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitter_note
+      label: submitter_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 016_tool_storage_authorization_request_form--maintenance_forms
+      - 017_tool_storage_authorization_request_form--maintenance_forms
+      required: false

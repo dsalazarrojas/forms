@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Maintenance Partner Contact Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Support
+      - Technical
+      required: false
+    - id: 7
+      name: partner_type
+      label: partner_type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Support
+      - Technical
+      required: false
+    - id: 8
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false

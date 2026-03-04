@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: usability_survey
+    pages:
+    - id: 1
+      name: product_name
+      label: Product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_satisfied
+      label: How satisfied
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not satisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 3, ''label'': ''Very satisfied''}'
+      required: false
+    - id: 3
+      name: how_satisfied_why
+      label: Why not satisfied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: how_satisfied_what
+      label: What not satisfied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggest improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false

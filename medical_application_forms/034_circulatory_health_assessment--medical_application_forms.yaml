@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circulatory Health Assessment
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_vital_signs
+      label: -- Vital Signs and Measurements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: systolic_bp
+      label: Systolic Blood Pressure (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: diastolic_bp
+      label: Diastolic Blood Pressure (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: heart_rate
+      label: Heart Rate (beats per minute)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: height
+      label: Height (cm or inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: weight
+      label: Weight (kg or lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: bmi
+      label: Body Mass Index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_header_symptoms
+      label: -- Current Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: chest_pain
+      label: Experiencing Chest Pain or Discomfort
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Occasionally
+      required: true
+    - id: 15
+      name: chest_pain_description
+      label: Description of Chest Pain
+      hint: Location, type, severity
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shortness_of_breath
+      label: Shortness of Breath
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - At rest
+      - With minimal exertion
+      - With normal activity
+      - With strenuous activity
+      required: true
+    - id: 17
+      name: dizziness_fainting
+      label: Dizziness or Fainting Episodes
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Frequent
+      - Upon standing
+      - During activity
+      required: false
+    - id: 18
+      name: swelling
+      label: Leg or Ankle Swelling
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 19
+      name: palpitations
+      label: Heart Palpitations or Irregular Heartbeat
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Occasionally
+      required: false
+    - id: 20
+      name: section_header_history
+      label: -- Medical and Family History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: hypertension_history
+      label: History of High Blood Pressure
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Being treated
+      required: true
+    - id: 22
+      name: high_cholesterol
+      label: High Cholesterol
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Being treated
+      required: true
+    - id: 23
+      name: diabetes
+      label: Diabetes
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Type 1
+      - Type 2
+      - Prediabetic
+      - Being treated
+      required: true
+    - id: 24
+      name: family_heart_disease
+      label: Family History of Heart Disease
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      - Unknown
+      required: true
+    - id: 25
+      name: previous_cardiac_events
+      label: Previous Heart Attack or Cardiac Event
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 26
+      name: cardiac_event_details
+      label: Details of Previous Cardiac Events
+      hint: Date, type, treatment
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_lifestyle
+      label: -- Lifestyle Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      required: true
+    - id: 29
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Moderate
+      - Heavy
+      required: false
+    - id: 30
+      name: physical_activity
+      label: Physical Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Light activity
+      - Moderate activity
+      - Vigorous activity
+      required: true
+    - id: 31
+      name: exercise_tolerance
+      label: Exercise Tolerance
+      hint: How much physical activity can you do before symptoms
+      type: text
+      options: []
+      required: false

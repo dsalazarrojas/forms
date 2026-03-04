@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Audit Scheduling Application Form
+    pages:
+    - id: 1
+      name: audit_request_details
+      label: Request Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: key_details
+      label: Key Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: auditor_details
+      label: Auditor Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: audit_request_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: audit_request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Request for Review
+      - Request for Adjustment
+      - Request for Verification
+      required: false
+    - id: 8
+      name: preferred_date_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: auditor_name
+      label: Auditor Name
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Mary Smith
+      required: false
+    - id: 10
+      name: audit_request_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: audit_start_date
+      label: Audit Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: audit_finish_date
+      label: Audit Finish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: audit_duration
+      label: Audit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: audit_status
+      label: Audit Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Finished
+      required: false
+    - id: 15
+      name: audit_notes
+      label: Audit Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: review_request
+      label: Review Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: adjustment_request
+      label: Adjustment Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: verification_request
+      label: Verification Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: preferred_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Location A
+      - Location B
+      - Location C
+      required: false
+    - id: 20
+      name: preferred_location_details
+      label: Location Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_location_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: location_details
+      label: Location Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: audit_request_date_range
+      label: Audit Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: finish_audit_request
+      label: Finish Audit Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

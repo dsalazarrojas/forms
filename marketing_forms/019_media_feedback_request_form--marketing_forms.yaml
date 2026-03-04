@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Feedback Request Form
+    pages:
+    - id: 1
+      name: media_feedback_request_form_fields
+      label: media_feedback_request_form_fields_label
+      hint: Please provide feedback on this media content
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: media_title
+      label: media_title_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: media_rating
+      label: media_rating_label
+      hint: Select a rating between 1 and 10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: media_description
+      label: media_description_label
+      hint: null
+      type: text
+      options: []
+      required: false

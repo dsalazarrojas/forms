@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complication And Mortality Survey
+    pages:
+    - id: 1
+      name: survey_id
+      label: Survey ID Number
+      hint: Unique identifier for this survey
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: Name of healthcare facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select the department
+      type: select_one
+      options:
+      - Intensive Care Unit
+      - Emergency Department
+      - Surgery
+      - Internal Medicine
+      - Cardiology
+      - Oncology
+      - Neurology
+      - Pediatrics
+      - Obstetrics
+      - Other
+      required: true
+    - id: 4
+      name: reporting_physician
+      label: Reporting Physician
+      hint: Name of physician completing this survey
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_id
+      label: Patient ID
+      hint: Patient identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_age
+      label: Patient Age
+      hint: Age of patient in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: patient_gender
+      label: Patient Gender
+      hint: Select patient gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 8
+      name: admission_date
+      label: Admission Date
+      hint: Date patient was admitted
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: outcome_date
+      label: Outcome Date
+      hint: Date of complication or mortality event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: primary_diagnosis
+      label: Primary Diagnosis
+      hint: Main diagnosis on admission
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comorbidities
+      label: Comorbidities
+      hint: Select all existing conditions
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - Chronic Kidney Disease
+      - Chronic Obstructive Pulmonary Disease
+      - Cancer
+      - Immunocompromised State
+      - Obesity
+      - None
+      required: true
+    - id: 12
+      name: outcome_type
+      label: Outcome Type
+      hint: Select the type of outcome
+      type: select_one
+      options:
+      - Complication - Recovered
+      - Complication - Ongoing
+      - Complication - Contributed to Death
+      - Mortality - Expected
+      - Mortality - Unexpected
+      - Mortality - Under Investigation
+      required: true
+    - id: 13
+      name: complication_category
+      label: Complication Category
+      hint: If applicable, select complication type
+      type: select_one
+      options:
+      - Not Applicable
+      - Infection
+      - Bleeding
+      - Organ Failure
+      - Adverse Drug Reaction
+      - Surgical Complication
+      - Cardiac Event
+      - Respiratory Complication
+      - Neurological Complication
+      - Other
+      required: true
+    - id: 14
+      name: severity_rating
+      label: Severity Rating
+      hint: Rate the severity of the complication or event
+      type: select_one
+      options:
+      - Minor - No Additional Treatment Needed
+      - Moderate - Additional Treatment Required
+      - Severe - Life Threatening
+      - Critical - Resulted in Death
+      required: true
+    - id: 15
+      name: contributing_factors
+      label: Contributing Factors
+      hint: Select all factors that may have contributed
+      type: select_multiple
+      options:
+      - Patient Non-Compliance
+      - Delayed Diagnosis
+      - Treatment Complications
+      - Medication Error
+      - Equipment Failure
+      - Communication Issues
+      - Resource Limitations
+      - Underlying Disease Progression
+      - Unknown
+      - Other
+      required: false
+    - id: 16
+      name: interventions_performed
+      label: Interventions Performed
+      hint: Describe interventions taken in response
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: length_of_stay
+      label: Length of Stay in Days
+      hint: Total days in facility
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: readmission_within_30_days
+      label: Readmission Within 30 Days
+      hint: Was patient readmitted within 30 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 19
+      name: root_cause_analysis_required
+      label: Root Cause Analysis Required
+      hint: Is a root cause analysis needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Under Review
+      required: true
+    - id: 20
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Describe any lessons learned or improvements identified
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: preventive_measures
+      label: Preventive Measures Recommended
+      hint: What measures could prevent similar outcomes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: case_review_status
+      label: Case Review Status
+      hint: Current status of case review
+      type: select_one
+      options:
+      - Pending Review
+      - Under Review
+      - Review Complete
+      - Referred to Committee
+      - Closed
+      required: true

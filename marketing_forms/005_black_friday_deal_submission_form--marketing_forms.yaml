@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Deal Submission Form
+    pages:
+    - id: 1
+      name: submission_intro
+      label: Deal Submission Form
+      hint: Submit your Black Friday deals for featured listing
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Official business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Business email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_url
+      label: Website URL
+      hint: Link to your online store
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_category
+      label: Product Category
+      hint: Main category for your deal
+      type: select_one
+      options:
+      - Electronics
+      - Fashion and Apparel
+      - Home and Kitchen
+      - Beauty and Health
+      - Sports and Fitness
+      - Toys and Kids
+      - Books and Media
+      - Food and Beverage
+      - Services
+      - Other
+      required: true
+    - id: 8
+      name: deal_title
+      label: Deal Title
+      hint: Catchy title for your promotion
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: deal_description
+      label: Deal Description
+      hint: Detailed description of the offer
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: discount_type
+      label: Discount Type
+      hint: What kind of discount are you offering
+      type: select_one
+      options:
+      - Percentage Off
+      - Fixed Amount Off
+      - Buy One Get One
+      - Free Gift with Purchase
+      - Free Shipping
+      - Bundle Deal
+      required: true
+    - id: 11
+      name: discount_value
+      label: Discount Value
+      hint: The discount percentage or amount
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: original_price
+      label: Original Price
+      hint: Regular price before discount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: sale_price
+      label: Sale Price
+      hint: Price after discount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: deal_start_date
+      label: Deal Start Date
+      hint: When does the deal begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: deal_start_time
+      label: Deal Start Time
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: deal_end_date
+      label: Deal End Date
+      hint: When does the deal end
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: deal_end_time
+      label: Deal End Time
+      hint: End time
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: stock_quantity
+      label: Available Stock Quantity
+      hint: How many units are available
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: product_image_url
+      label: Product Image URL
+      hint: Link to main product image
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: Any restrictions or special terms
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: featured_listing
+      label: Interested in Featured Listing
+      hint: Premium placement available
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for our team
+      type: text
+      options: []
+      required: false

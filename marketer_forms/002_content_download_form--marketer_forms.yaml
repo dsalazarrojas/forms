@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Download Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send the download link here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Marketing
+      - Retail
+      - Manufacturing
+      - Other
+      required: false
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 7
+      name: content_selection
+      label: Select Content to Download
+      hint: Choose the resource you want
+      type: select_one
+      options:
+      - eBook
+      - Whitepaper
+      - Research Report
+      - Case Study
+      - Template Guide
+      - Checklist
+      required: true
+    - id: 8
+      name: topic_interest
+      label: Topic of Interest
+      hint: What topic are you most interested in?
+      type: select_one
+      options:
+      - Digital Marketing
+      - Business Strategy
+      - Technology Trends
+      - Leadership
+      - Sales
+      - Customer Service
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: how_did_you_find_us
+      label: How Did You Find Us?
+      hint: Source of discovery
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Email Newsletter
+      - Colleague Referral
+      - Website
+      - Conference or Event
+      - Other
+      required: false
+    - id: 11
+      name: marketing_consent
+      label: Marketing Communications
+      hint: May we send you related content and updates?
+      type: select_one
+      options:
+      - Yes, send me updates
+      - No, just this download
+      required: true
+    - id: 12
+      name: additional_requests
+      label: Additional Requests
+      hint: Any specific topics you would like to learn about?
+      type: text
+      options: []
+      required: false

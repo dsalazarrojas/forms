@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Sugar Risk Assessment
+    pages:
+    - id: 1
+      name: assessment_header
+      label: Blood Sugar Risk Assessment
+      hint: Assess your risk for blood sugar issues
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: For risk assessment
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 5
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: family_history_diabetes
+      label: Family History of Diabetes
+      hint: Do any family members have diabetes
+      type: select_one
+      options:
+      - Yes Parent or Sibling
+      - Yes Other Relative
+      - false
+      - Not Sure
+      required: true
+    - id: 8
+      name: physical_activity
+      label: Physical Activity Level
+      hint: How active are you weekly
+      type: select_one
+      options:
+      - Very Active 5 plus days
+      - Moderately Active 3-4 days
+      - Lightly Active 1-2 days
+      - Sedentary
+      required: true
+    - id: 9
+      name: diet_quality
+      label: Diet Quality
+      hint: How would you describe your diet
+      type: select_one
+      options:
+      - Very Healthy
+      - Mostly Healthy
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: sugary_drinks
+      label: Sugary Drink Consumption
+      hint: How often do you have sugary drinks
+      type: select_one
+      options:
+      - Daily
+      - Several Times Weekly
+      - Once Weekly
+      - Rarely
+      - Never
+      required: true
+    - id: 11
+      name: processed_food_intake
+      label: Processed Food Intake
+      hint: How often do you eat processed foods
+      type: select_one
+      options:
+      - Most Meals
+      - Daily
+      - Several Times Weekly
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 12
+      name: previous_high_reading
+      label: Previous High Blood Sugar
+      hint: Have you ever had high reading
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 13
+      name: gestational_diabetes
+      label: History of Gestational Diabetes
+      hint: If female had during pregnancy
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 14
+      name: pcos_history
+      label: PCOS History
+      hint: If female diagnosed with PCOS
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 15
+      name: blood_pressure
+      label: High Blood Pressure
+      hint: Have you been diagnosed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 16
+      name: cholesterol_issues
+      label: High Cholesterol
+      hint: Have you been diagnosed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 17
+      name: smoking_status
+      label: Smoking Status
+      hint: Do you smoke
+      type: select_one
+      options:
+      - Current Smoker
+      - Former Smoker
+      - Never Smoked
+      required: true
+    - id: 18
+      name: sleep_quality
+      label: Sleep Quality
+      hint: How well do you sleep
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: stress_level
+      label: Stress Level
+      hint: Rate your typical stress
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 20
+      name: current_medications
+      label: Current Medications
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_conditions
+      label: Other Medical Conditions
+      hint: Any other health issues
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: risk_category
+      label: Risk Category
+      hint: Assessment result
+      type: select_one
+      options:
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Very High Risk
+      required: true
+    - id: 23
+      name: recommendation
+      label: Recommendation
+      hint: Suggested next steps
+      type: select_one
+      options:
+      - Maintain Healthy Lifestyle
+      - Lifestyle Changes Recommended
+      - Consult Healthcare Provider
+      - Testing Recommended
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

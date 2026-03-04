@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Authenticity Validation Form
+    pages:
+    - id: 1
+      name: audience_demographics
+      label: Audience Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: audience_demographics_1
+      label: Age Group
+      hint: Select the age group of your audience
+      type: select_one
+      options:
+      - '{''value'': ''13-18'', ''label'': ''13-18''}'
+      - '{''value'': ''19-24'', ''label'': ''19-24''}'
+      - '{''value'': ''25-34'', ''label'': ''25-34''}'
+      - '{''value'': ''35-44'', ''label'': ''35-44''}'
+      - '{''value'': ''45-54'', ''label'': ''45-54''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: audience_demographics_2
+      label: Geographic Location
+      hint: Select your audience's geographic location
+      type: select_multiple
+      options:
+      - '{''value'': ''USA'', ''label'': ''USA''}'
+      - '{''value'': ''Canada'', ''label'': ''Canada''}'
+      - '{''value'': ''Mexico'', ''label'': ''Mexico''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: engagement_metrics
+      label: Engagement Metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: engagement_metrics_1
+      label: Followers count
+      hint: Number of followers
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: engagement_metrics_2
+      label: Engagement Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engagement_metrics_3
+      label: Reach
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: engagement_metrics_4
+      label: Engagement Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: audience_diversity
+      label: Audience Diversity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: audience_diversity_1
+      label: Audience Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Asian'', ''label'': ''Asian''}'
+      - '{''value'': ''Black'', ''label'': ''Black''}'
+      - '{''value'': ''Hispanic'', ''label'': ''Hispanic''}'
+      - '{''value'': ''White'', ''label'': ''White''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: audience_diversity_2
+      label: Audience Gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Male'', ''label'': ''Male''}'
+      - '{''value'': ''Female'', ''label'': ''Female''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: content_type
+      label: Content Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: content_type_1
+      label: Video
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''video'', ''label'': ''Video''}'
+      - '{''value'': ''photo'', ''label'': ''Photo''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: content_type_2
+      label: Post Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''post'', ''label'': ''Post''}'
+      - '{''value'': ''live_stream'', ''label'': ''Live Stream''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: content_type_3
+      label: Content Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: content_type_4
+      label: Content Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: brand_awareness
+      label: Brand Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: brand_awareness_1
+      label: Brand Recognition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 19
+      name: brand_awareness_2
+      label: Top-of-Mind
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 20
+      name: brand_awareness_3
+      label: Brand Recall
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 21
+      name: brand_awareness_4
+      label: Brand Association
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''strong'', ''label'': ''Strong''}'
+      - '{''value'': ''weak'', ''label'': ''Weak''}'
+      - '{''value'': ''none'', ''label'': ''None''}'
+      required: false
+    - id: 22
+      name: brand_favorability
+      label: Brand Favorability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: brand_favorability_1
+      label: Brand Positive
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 24
+      name: brand_favorability_2
+      label: Brand Negative
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      required: false
+    - id: 25
+      name: brand_favorability_3
+      label: Brand Neutral
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''high'', ''label'': ''High''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      required: false

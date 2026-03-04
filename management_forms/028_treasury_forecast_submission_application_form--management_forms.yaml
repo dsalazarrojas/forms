@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Forecast Submission Application Form
+    pages:
+    - id: 1
+      name: department_id
+      label: Department Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: period_id
+      label: Period Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: cash_inflow_id
+      label: Cash Inflow Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: forecast_start_date
+      label: Forecast Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: forecast_end_date
+      label: Forecast End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: actual_start_date
+      label: Actual Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: actual_end_date
+      label: Actual End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: forecast
+      label: Forecast
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: actual
+      label: Actual
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: period
+      label: Period
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: user_id
+      label: User Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: entity_id
+      label: Entity Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

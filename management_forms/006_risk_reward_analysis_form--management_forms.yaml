@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Reward Analysis Form
+    pages:
+    - id: 1
+      name: risk_reward_analysis
+      label: Risk Reward Analysis
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_factors_list
+      label: Risk Factors List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_factors_frequency
+      label: Risk Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_factors_impact
+      label: Risk Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reward_analysis
+      label: Reward Analysis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: mitigation_strategies
+      label: Mitigation Strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: mitigation_strategies_list
+      label: Mitigation Strategies List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mitigation_strategies_effectiveness
+      label: Effectiveness of Mitigation Strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

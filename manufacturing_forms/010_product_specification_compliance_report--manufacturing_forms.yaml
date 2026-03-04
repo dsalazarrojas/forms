@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Specification Compliance Report
+    pages:
+    - id: 1
+      name: product_specification_compliance_report_form
+      label: Product Specification Compliance Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: specification_id
+      label: Specification ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Compliance
+      - Non-Compliance
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: supplier_comments
+      label: Supplier Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: qa_comments
+      label: QA Comments
+      hint: null
+      type: text
+      options: []
+      required: false

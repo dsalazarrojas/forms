@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: new_product_evaluation
+    pages:
+    - id: 1
+      name: form_title
+      label: New Product Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_employees
+      label: Customer or Employees
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Customer'', ''value'': ''Customer''}'
+      - '{''id'': 20, ''label'': ''Employees'', ''value'': ''Employees''}'
+      required: false
+    - id: 3
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 30, ''label'': ''New'', ''value'': ''New''}'
+      - '{''id'': 31, ''label'': ''Existing'', ''value'': ''Existing''}'
+      required: false
+    - id: 4
+      name: launch_status
+      label: Launch Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 40, ''label'': ''Not Yet Launched'', ''value'': ''Not Yet Launched''}'
+      - '{''id'': 41, ''label'': ''Launching'', ''value'': ''Launching''}'
+      - '{''id'': 42, ''label'': ''Launched'', ''value'': ''Launched''}'
+      required: false
+    - id: 5
+      name: launch_date
+      label: Launch Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collected_by
+      label: Collected By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 50, ''label'': ''Customer'', ''value'': ''Customer''}'
+      - '{''id'': 51, ''label'': ''Employees'', ''value'': ''Employees''}'
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 60, ''label'': ''Excellent'', ''value'': ''Excellent''}'
+      - '{''id'': 61, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 62, ''label'': ''Average'', ''value'': ''Average''}'
+      - '{''id'': 63, ''label'': ''Poor'', ''value'': ''Poor''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating_comments
+      label: Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: collected_by
+      label: Collected By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 64, ''label'': ''Customer'', ''value'': ''Customer''}'
+      - '{''id'': 65, ''label'': ''Employees'', ''value'': ''Employees''}'
+      required: false

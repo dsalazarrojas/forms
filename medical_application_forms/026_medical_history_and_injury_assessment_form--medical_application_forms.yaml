@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical History And Injury Assessment Form
+    pages:
+    - id: 1
+      name: general_medical_history
+      label: General Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Heart Conditions
+      - Cancer
+      - Other
+      required: false
+    - id: 3
+      name: injury_description
+      label: Injury Description
+      hint: Provide a detailed description of your injury
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_history
+      label: Treatment History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Aspirin
+      - Other
+      required: false
+    - id: 6
+      name: medication_list
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: medical_team
+      label: Medical Team
+      hint: List all of the healthcare providers you are currently seeing
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: injury_date
+      label: Injury Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: injury_time
+      label: Injury Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: injury_pain
+      label: Injury Pain Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very High
+      required: false
+    - id: 11
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_history_additional
+      label: Additional Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_history_additional_2
+      label: Additional Medical History 2
+      hint: null
+      type: note
+      options: []
+      required: false

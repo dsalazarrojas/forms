@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_market_update_request
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: delivery_frequency
+      label: Delivery frequency
+      hint: How often would you like to receive market updates?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 4
+      name: topic_interest
+      label: Topic of interest
+      hint: Which topic are you interested in learning more about?
+      type: select_multiple
+      options:
+      - Market Trends
+      - Product Updates
+      - Promotions
+      required: false
+    - id: 5
+      name: subscribe_to
+      label: Subscription options
+      hint: How would you like to stay subscribed to our market insights?
+      type: select_multiple
+      options:
+      - Newsletter
+      - Email
+      - SMS
+      required: false
+    - id: 6
+      name: delivery_medium
+      label: Delivery method
+      hint: How would you like to receive market insights?
+      type: select_multiple
+      options:
+      - Email
+      - SMS
+      - Phone call
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional note
+      hint: null
+      type: note
+      options: []
+      required: false

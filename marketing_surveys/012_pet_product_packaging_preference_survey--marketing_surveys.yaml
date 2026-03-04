@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Packaging Preference Survey
+    pages:
+    - id: 1
+      name: pet_product_packaging_preference_survey_form
+      label: Pet Product Packaging Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: packaging_materials
+      label: What type of material do you prefer for pet food packaging?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cardboard''}'
+      - '{''id'': 2, ''label'': ''Paper''}'
+      - '{''id'': 3, ''label'': ''Plastic''}'
+      required: false
+    - id: 3
+      name: eco_friendly_priorities
+      label: Which of the following is most important to you when making decisions
+        about pet food packaging?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Reducing waste''}'
+      - '{''id'': 2, ''label'': ''Environmental concerns''}'
+      - '{''id'': 3, ''label'': ''Cost''}'
+      - '{''id'': 4, ''label'': ''Convenience''}'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with the current packaging?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: additional_info
+      label: Do you have any additional comments or suggestions for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Please provide your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

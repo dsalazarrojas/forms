@@ -1,0 +1,303 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Sales Strategy Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Respondent Email
+        hint: Email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: organization_type
+        label: Organization Type
+        hint: Type of organization
+        type: select_one
+        options:
+          - Individual Artist
+          - Commercial Gallery
+          - Non-Profit Gallery
+          - Art Fair Organizer
+          - Art Consultant
+          - Art Advisor
+          - Auction House
+          - Online Platform
+          - Other
+        required: true
+      - id: 5
+        name: years_in_business
+        label: Years in Business
+        hint: How long have you been selling art
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - More than 10 years
+        required: true
+      - id: 6
+        name: annual_sales_range
+        label: Annual Sales Range
+        hint: Approximate annual art sales
+        type: select_one
+        options:
+          - Under $50,000
+          - $50,000-$100,000
+          - $100,000-$500,000
+          - $500,000-$1M
+          - $1M-$5M
+          - Over $5M
+        required: false
+      - id: 7
+        name: primary_sales_channel
+        label: Primary Sales Channel
+        hint: Main channel for art sales
+        type: select_one
+        options:
+          - Physical Gallery
+          - Online Website
+          - Art Fairs
+          - Social Media
+          - Auctions
+          - Direct to Collector
+          - Art Advisors
+          - Other
+        required: true
+      - id: 8
+        name: sales_channels_used
+        label: Sales Channels Used
+        hint: Select all channels you use
+        type: select_multiple
+        options:
+          - Physical Gallery
+          - Online Website
+          - Art Fairs
+          - Instagram
+          - Facebook
+          - Other Social Media
+          - Online Marketplaces
+          - Auctions
+          - Art Consultants
+          - Corporate Sales
+          - Direct Sales
+        required: true
+      - id: 9
+        name: marketing_budget
+        label: Marketing Budget
+        hint: Percentage of revenue spent on marketing
+        type: select_one
+        options:
+          - Under 5%
+          - 5-10%
+          - 10-20%
+          - 20-30%
+          - Over 30%
+        required: false
+      - id: 10
+        name: marketing_tactics
+        label: Marketing Tactics
+        hint: Select tactics you use
+        type: select_multiple
+        options:
+          - Social Media Marketing
+          - Email Marketing
+          - Content Marketing
+          - Paid Advertising
+          - SEO
+          - Public Relations
+          - Influencer Partnerships
+          - Art Fair Participation
+          - Gallery Openings
+          - Collector Events
+        required: true
+      - id: 11
+        name: most_effective_tactic
+        label: Most Effective Tactic
+        hint: Which tactic is most effective
+        type: select_one
+        options:
+          - Social Media
+          - Email Marketing
+          - Art Fairs
+          - Gallery Events
+          - Word of Mouth
+          - Paid Advertising
+          - Public Relations
+          - Other
+        required: true
+      - id: 12
+        name: social_media_platforms
+        label: Social Media Platforms
+        hint: Select platforms you use
+        type: select_multiple
+        options:
+          - Instagram
+          - Facebook
+          - Pinterest
+          - Twitter
+          - LinkedIn
+          - TikTok
+          - YouTube
+          - None
+        required: false
+      - id: 13
+        name: website_features
+        label: Website Features
+        hint: Select features your website has
+        type: select_multiple
+        options:
+          - E-Commerce
+          - Artist Bios
+          - Virtual Tours
+          - Blog
+          - Newsletter Signup
+          - Inquiry Form
+          - Online Viewing Room
+          - None
+        required: false
+      - id: 14
+        name: pricing_strategy
+        label: Pricing Strategy
+        hint: How do you price artwork
+        type: select_one
+        options:
+          - Fixed Pricing
+          - Negotiable
+          - Tiered Pricing
+          - Market-Based
+          - Cost-Plus
+          - Other
+        required: true
+      - id: 15
+        name: average_price_point
+        label: Average Price Point
+        hint: Average artwork price
+        type: select_one
+        options:
+          - Under $500
+          - $500-$1,000
+          - $1,000-$5,000
+          - $5,000-$10,000
+          - $10,000-$50,000
+          - Over $50,000
+        required: true
+      - id: 16
+        name: collector_database_size
+        label: Collector Database Size
+        hint: Size of your collector database
+        type: select_one
+        options:
+          - Under 100
+          - 100-500
+          - 500-1,000
+          - 1,000-5,000
+          - Over 5,000
+        required: false
+      - id: 17
+        name: client_retention_rate
+        label: Client Retention Rate
+        hint: Approximate repeat buyer rate
+        type: select_one
+        options:
+          - Under 25%
+          - 25-50%
+          - 50-75%
+          - Over 75%
+        required: false
+      - id: 18
+        name: biggest_challenges
+        label: Biggest Challenges
+        hint: Select your biggest challenges
+        type: select_multiple
+        options:
+          - Finding New Collectors
+          - Pricing Artwork
+          - Marketing Budget
+          - Online Competition
+          - Art Fair Costs
+          - Gallery Traffic
+          - Economic Conditions
+          - Artist Representation
+          - Cash Flow
+          - Other
+        required: true
+      - id: 19
+        name: technology_adoption
+        label: Technology Adoption
+        hint: How do you view technology
+        type: select_one
+        options:
+          - Early Adopter
+          - Moderate Adopter
+          - Cautious Adopter
+          - Resistant to Change
+        required: true
+      - id: 20
+        name: online_sales_percentage
+        label: Online Sales Percentage
+        hint: Percentage of sales that are online
+        type: select_one
+        options:
+          - Under 10%
+          - 10-25%
+          - 25-50%
+          - 50-75%
+          - Over 75%
+        required: true
+      - id: 21
+        name: future_focus
+        label: Future Focus
+        hint: Where will you focus efforts
+        type: select_multiple
+        options:
+          - Online Sales
+          - Social Media
+          - Art Fairs
+          - Collector Relations
+          - New Markets
+          - Artist Development
+          - Technology Investment
+          - Other
+        required: true
+      - id: 22
+        name: industry_trends
+        label: Industry Trends
+        hint: Most important trends to watch
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights to share
+        type: text
+        options: []
+        required: false

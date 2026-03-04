@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Triage Assessment
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment
+      label: Assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: physical_therapy_plan
+      label: Physical Therapy Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_outcome
+      label: Patient Outcome
+      hint: null
+      type: text
+      options: []
+      required: false

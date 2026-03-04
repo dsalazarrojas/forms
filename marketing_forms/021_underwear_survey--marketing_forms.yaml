@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Underwear Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income
+      label: income
+      hint: null
+      type: select_one
+      options:
+      - high
+      - low
+      - medium
+      required: false
+    - id: 5
+      name: type
+      label: type
+      hint: null
+      type: select_multiple
+      options:
+      - brief
+      - boxer
+      - boxer_brief
+      required: false
+    - id: 6
+      name: size
+      label: size
+      hint: null
+      type: select_multiple
+      options:
+      - large
+      - small
+      - medium
+      required: false
+    - id: 7
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - red
+      - blue
+      - black
+      required: false
+    - id: 8
+      name: material
+      label: material
+      hint: null
+      type: select_multiple
+      options:
+      - cotton
+      - poly
+      - microfiber
+      required: false

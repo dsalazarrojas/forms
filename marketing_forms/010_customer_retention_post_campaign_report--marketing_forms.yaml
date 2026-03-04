@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Retention Post Campaign Report
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: campaign_outcome
+      label: How was the customer retained?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: campaign_outcome_reason
+      label: Why were they retained or not?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: campaign_outcome_date
+      label: Date of outcome
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: campaign_outcome_time
+      label: Time of outcome
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: campaign_outcome_note
+      label: Note about outcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: campaign_outcome_1
+      label: Campaign Outcome 1
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 10
+      name: campaign_outcome_2
+      label: Campaign Outcome 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 11
+      name: campaign_outcome_3
+      label: Campaign Outcome 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 12
+      name: comparison_period
+      label: How many periods do you compare?
+      hint: 1 or more
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: comparison_period_2
+      label: Second Period to Compare
+      hint: 1 or more
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: performance_metric
+      label: Performance Metric
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: second_period_metric
+      label: Second Period Metric
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: second_period_metric_value
+      label: Value of second period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: comparison_period_value
+      label: Value of comparison period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: performance_change
+      label: Change in Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: performance_change_value
+      label: Value of change
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: share_with_stakeholders
+      label: Share with stakeholders?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: share_with_stakeholders_note
+      label: Why or why not?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: share_with_stakeholders_email
+      label: Stakeholders' Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: share_with_stakeholders_time
+      label: When to share?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: share_with_stakeholders_note2
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: share_with_stakeholders_time2
+      label: Time to share
+      hint: null
+      type: time
+      options: []
+      required: false

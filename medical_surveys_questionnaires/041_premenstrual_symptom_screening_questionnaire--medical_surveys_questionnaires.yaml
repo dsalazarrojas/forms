@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Premenstrual Symptom Screening Questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: Premenstrual Symptom Screening Questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How many days have you experienced these symptoms?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: What is the duration of your symptoms (days)?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: Do you experience physical symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 5
+      name: question4
+      label: Do you experience emotional symptoms?
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 6
+      name: question5
+      label: Do you experience anxiety?
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety
+      - Fear
+      - Anger
+      - Racing thoughts
+      - Restlessness
+      required: false
+    - id: 7
+      name: question6
+      label: Do you experience depression?
+      hint: null
+      type: select_multiple
+      options:
+      - Depression
+      - Sadness
+      - Hopelessness
+      - Lethargy
+      required: false
+    - id: 8
+      name: question7
+      label: Do you experience fatigue?
+      hint: null
+      type: select_multiple
+      options:
+      - Fatigue
+      - Loss of energy
+      - Tiredness
+      - Lethargy
+      required: false

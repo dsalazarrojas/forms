@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Consultation Questionare
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: website_url
+      label: Business Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_challenges
+      label: What are your current marketing challenges?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_services
+      label: -- Services Interested In --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: seo_services
+      label: Interested in Search Engine Optimization (SEO)?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 7
+      name: social_media_mgmt
+      label: Interested in Social Media Management?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 8
+      name: content_marketing
+      label: Interested in Content Marketing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 9
+      name: ppc_advertising
+      label: Interested in PPC Advertising?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 10
+      name: email_marketing
+      label: Interested in Email Marketing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 11
+      name: monthly_budget
+      label: Monthly Marketing Budget
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: target_audience
+      label: Please describe your target audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: success_metrics
+      label: What metrics will define success for this project?
+      hint: null
+      type: text
+      options: []
+      required: false

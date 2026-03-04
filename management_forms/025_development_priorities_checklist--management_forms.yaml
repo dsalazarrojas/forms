@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Development Priorities Checklist
+    pages:
+    - id: 1
+      name: project_overview
+      label: Project Overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: project_team_size
+      label: Project Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stakeholders_involved
+      label: Stakeholders Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: business_stakeholder
+      label: Business Stakeholder
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: tech_stakeholder
+      label: Tech Stakeholder
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

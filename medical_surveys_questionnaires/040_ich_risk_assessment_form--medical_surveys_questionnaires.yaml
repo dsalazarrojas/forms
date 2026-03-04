@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: ICH Risk Assessment Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ictus_characteristics
+      label: Ictus Characteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: neuro_imaging
+      label: Neuro Imaging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: laboratory_findings
+      label: Laboratory Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: clinical_evaluation
+      label: Clinical Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ictus_outcomes
+      label: Ictus Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      - '{''id'': 4, ''label'': ''Critical''}'
+      required: true
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Save and submit''}'
+      - '{''id'': 2, ''label'': ''Save''}'
+      - '{''id'': 3, ''label'': ''Reset''}'
+      required: true

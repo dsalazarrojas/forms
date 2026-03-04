@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Team Huddle Checklist
+    pages:
+    - id: 1
+      name: standup_notes
+      label: Standup Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Late
+      - Absent
+      - Work from Home
+      required: false
+    - id: 3
+      name: progress_updates
+      label: Progress Updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: blockers
+      label: Blockers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members_attendance
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      - Alice
+      required: false
+    - id: 7
+      name: team_leads
+      label: Team Leads
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 8
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_actions
+      label: Next Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_deadline
+      label: Next Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_review
+      label: Next Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_follow_up
+      label: Next Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: follow_up_reminders
+      label: Follow Up Reminders
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Chat
+      - Phone Call
+      required: true
+    - id: 16
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Scheduled
+      - Deferred
+      - Cancelled
+      required: false
+    - id: 19
+      name: follow_up_due_date
+      label: Follow Up Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_assigned_to
+      label: Follow Up Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 21
+      name: follow_up_assigned_by
+      label: Follow Up Assigned By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 22
+      name: follow_up_assigned_to_comments
+      label: Follow Up Assigned To Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_completed_by
+      label: Follow Up Completed By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 24
+      name: follow_up_completed_by_comments
+      label: Follow Up Completed By Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_completed_status
+      label: Follow Up Completed Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Scheduled
+      - Deferred
+      - Cancelled
+      required: false

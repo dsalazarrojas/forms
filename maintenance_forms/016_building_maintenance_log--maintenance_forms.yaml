@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Log
+    pages:
+    - id: 1
+      name: log_entry_date
+      label: Log Entry Date
+      hint: Date of maintenance work
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: work_order_number
+      label: Work Order Number
+      hint: Reference number for this work
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: Building or facility location
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: area_maintained
+      label: Area or System Maintained
+      hint: Which part of building
+      type: select_one
+      options:
+      - HVAC
+      - Plumbing
+      - Electrical
+      - Structural
+      - Roof
+      - Exterior
+      - Interior
+      - Parking Lot
+      - Landscaping
+      - Other
+      required: true
+    - id: 5
+      name: specific_location
+      label: Specific Location
+      hint: Floor, room, section details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_type
+      label: Type of Maintenance
+      hint: Category of work performed
+      type: select_one
+      options:
+      - Preventive
+      - Corrective
+      - Emergency
+      - Routine Inspection
+      - Installation
+      - Upgrade
+      required: true
+    - id: 7
+      name: issue_description
+      label: Issue or Work Description
+      hint: What was the problem
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: work_performed
+      label: Work Performed
+      hint: Describe the work done
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: technician_name
+      label: Technician or Contractor Name
+      hint: Person performing work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: technician_company
+      label: Technician Company
+      hint: If contractor or vendor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_time
+      label: Work Start Time
+      hint: When work began
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: end_time
+      label: Work End Time
+      hint: When work was completed
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: hours_spent
+      label: Hours Spent
+      hint: Total labor hours
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: materials_used
+      label: Materials Used
+      hint: What was installed or replaced
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parts_replaced
+      label: Parts Replaced
+      hint: Any component replacements
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cost_estimate
+      label: Estimated or Actual Cost
+      hint: Dollar amount for work
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: warranty_provided
+      label: Warranty Provided
+      hint: Any warranty on work
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: false
+    - id: 18
+      name: warranty_period
+      label: Warranty Period
+      hint: Length of warranty coverage
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_needed
+      label: Follow-Up Needed
+      hint: Is another visit required
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Scheduled Follow-Up Date
+      hint: When to return if needed
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: inspection_notes
+      label: Inspection Notes
+      hint: Additional observations
+      type: text
+      options: []
+      required: false

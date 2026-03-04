@@ -1,0 +1,288 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication Style Survey
+    pages:
+      - id: 1
+        name: survey_introduction
+        label: Survey Introduction
+        hint: Discover your communication style preferences
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Which age group do you belong to
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 5
+        name: gender
+        label: Gender
+        hint: Your gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer to Self-Describe
+          - Prefer Not to Say
+        required: false
+      - id: 6
+        name: occupation
+        label: Occupation
+        hint: Your current occupation
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: communication_style_assessment
+        label: Communication Style Assessment
+        hint: Questions about how you communicate
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: directness_level
+        label: Directness Level
+        hint: How direct are you in communication
+        type: select_one
+        options:
+          - Very Direct
+          - Somewhat Direct
+          - Balanced
+          - Somewhat Indirect
+          - Very Indirect
+        required: true
+      - id: 9
+        name: emotional_expression
+        label: Emotional Expression
+        hint: How do you express emotions
+        type: select_one
+        options:
+          - Very Expressive
+          - Expressive
+          - Moderate
+          - Reserved
+          - Very Reserved
+        required: true
+      - id: 10
+        name: listening_style
+        label: Listening Style
+        hint: What type of listener are you
+        type: select_one
+        options:
+          - Active Listener
+          - Analytical Listener
+          - Supportive Listener
+          - Time-Oriented Listener
+          - Mixed Style
+        required: true
+      - id: 11
+        name: conflict_approach
+        label: Conflict Approach
+        hint: How do you handle communication conflicts
+        type: select_one
+        options:
+          - Confront Directly
+          - Discuss Calmly
+          - Seek Compromise
+          - Avoid When Possible
+          - Withdraw Completely
+        required: true
+      - id: 12
+        name: feedback_style
+        label: Feedback Style
+        hint: How do you prefer to give feedback
+        type: select_one
+        options:
+          - Direct and Honest
+          - Gentle and Supportive
+          - Balanced Approach
+          - Only When Asked
+          - Rarely Give Feedback
+        required: true
+      - id: 13
+        name: feedback_reception
+        label: Feedback Reception
+        hint: How do you prefer to receive feedback
+        type: select_one
+        options:
+          - Direct and Immediate
+          - Private and Thoughtful
+          - With Examples
+          - Written First Then Discuss
+          - Only Positive Feedback
+        required: true
+      - id: 14
+        name: communication_medium
+        label: Communication Medium
+        hint: Questions about your preferred mediums
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: preferred_medium
+        label: Preferred Medium
+        hint: What is your favorite communication medium
+        type: select_one
+        options:
+          - Face-to-Face
+          - Video Call
+          - Phone Call
+          - Text Message
+          - Email
+          - Social Media
+          - Written Letters
+        required: true
+      - id: 16
+        name: response_time
+        label: Response Time
+        hint: How quickly do you typically respond
+        type: select_one
+        options:
+          - Immediately
+          - Within an Hour
+          - Within a Day
+          - Within a Few Days
+          - When I Get Around to It
+        required: true
+      - id: 17
+        name: message_length
+        label: Message Length
+        hint: What is your typical message length
+        type: select_one
+        options:
+          - Very Brief
+          - Brief and To the Point
+          - Moderate Length
+          - Detailed and Lengthy
+          - Very Detailed
+        required: true
+      - id: 18
+        name: social_preferences
+        label: Social Preferences
+        hint: Questions about social communication
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: group_comfort
+        label: Group Communication Comfort
+        hint: How comfortable are you in group settings
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 20
+        name: small_talk
+        label: Small Talk
+        hint: How do you feel about small talk
+        type: select_one
+        options:
+          - Love It
+          - Enjoy It
+          - Tolerate It
+          - Dislike It
+          - Avoid It
+        required: true
+      - id: 21
+        name: networking
+        label: Networking
+        hint: How do you approach networking
+        type: select_one
+        options:
+          - Very Actively
+          - Actively
+          - When Necessary
+          - Reluctantly
+          - Avoid It
+        required: true
+      - id: 22
+        name: communication_strengths
+        label: Communication Strengths
+        hint: What are your communication strengths
+        type: select_multiple
+        options:
+          - Clear Speaking
+          - Active Listening
+          - Empathy
+          - Persuasion
+          - Written Communication
+          - Public Speaking
+          - Conflict Resolution
+          - Building Rapport
+        required: true
+      - id: 23
+        name: communication_challenges
+        label: Communication Challenges
+        hint: What challenges do you face
+        type: select_multiple
+        options:
+          - Public Speaking
+          - Difficult Conversations
+          - Writing
+          - Listening
+          - Assertiveness
+          - Small Talk
+          - Digital Communication
+          - Cross-Cultural
+        required: true
+      - id: 24
+        name: improvement_goals
+        label: Improvement Goals
+        hint: What would you like to improve
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts about your communication style
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: survey_date
+        label: Survey Date
+        hint: Date you completed this survey
+        type: date
+        options: []
+        required: true

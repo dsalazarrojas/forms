@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Viewing Activity Log Form
+    pages:
+    - id: 1
+      name: --campaign_information
+      label: -- Campaign Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: Observer name
+      hint: Person logging the view
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ad_campaign
+      label: Ad campaign name
+      hint: Name or ID of campaign
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: channel
+      label: Channel
+      hint: Platform where ad was seen
+      type: select_one
+      options:
+      - Web
+      - Mobile app
+      - Social media
+      - TV
+      required: true
+    - id: 5
+      name: view_date
+      label: View date
+      hint: Date ad was observed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: view_time
+      label: View time
+      hint: Approximate time of day
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: audience_estimate
+      label: Audience estimate
+      hint: Estimated number of viewers
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: ad_version
+      label: Ad version or creative id
+      hint: Identifier for creative
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes on placement and context
+      hint: Any notable environment details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment_reference
+      label: Attachment reference
+      hint: Link to screenshot or log
+      type: text
+      options: []
+      required: false

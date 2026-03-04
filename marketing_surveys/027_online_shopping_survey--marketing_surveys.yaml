@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Shopping Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: store_type
+      label: What type of store do you shop at most often?
+      hint: null
+      type: select_multiple
+      options:
+      - Book store
+      - Magazine store
+      - Clothing store
+      - Online store
+      required: true
+    - id: 5
+      name: shopping_frequency
+      label: How often do you shop online?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 6
+      name: purchase_frequency
+      label: How often do you make purchases online?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
+    - id: 7
+      name: purchase_amount
+      label: What is the average amount you spend online?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: purchase_category
+      label: What category do you usually purchase online?
+      hint: null
+      type: select_multiple
+      options:
+      - Books
+      - Clothing
+      - Furniture
+      - Online courses
+      required: true
+    - id: 9
+      name: feedback
+      label: Any feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

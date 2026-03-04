@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Locate Medical Professionals Form
+    pages:
+    - id: 1
+      name: user_preferences
+      label: user_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: specialty
+      label: specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: availability
+      label: availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: experience_years
+      label: experience_years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_days
+      label: work_days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: patient_referrals
+      label: patient_referrals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

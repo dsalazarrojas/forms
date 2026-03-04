@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Gift Card Claim
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gift_code
+      label: Gift Code
+      hint: Enter a valid code from your email
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: Enter your project goal and description
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goal
+      label: Project Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_code_confirmation
+      label: Verify Gift Code
+      hint: null
+      type: select_multiple
+      options:
+      - Code 1
+      - Code 2
+      - Code 3
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

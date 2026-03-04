@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_potential_survey
+    pages:
+    - id: 1
+      name: user_input_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number_type
+      label: contact_type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Landline
+      - Email
+      required: false
+    - id: 7
+      name: contact_number2
+      label: contact_number2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: market_base
+      label: market_base
+      hint: null
+      type: select_multiple
+      options:
+      - B2B
+      - B2C
+      - C2C
+      - C2B
+      required: false
+    - id: 12
+      name: customer_base
+      label: customer_base
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Existing
+      - Both
+      required: false
+    - id: 13
+      name: product_category
+      label: product_category
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: false
+    - id: 14
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: market_potential
+      label: market_potential
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: survey_date
+      label: survey_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: survey_time
+      label: survey_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_team
+      label: assigned_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: output_directory
+      label: output_directory
+      hint: null
+      type: text
+      options: []
+      required: false

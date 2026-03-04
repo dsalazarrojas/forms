@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Daily Production Submission Form
+    pages:
+    - id: 1
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: line_numbers
+      label: Line Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: production_output
+      label: Production Output
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: defects
+      label: Defects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: downtime
+      label: Downtime
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_shift_id
+      label: Production Shift ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: line_id
+      label: Line ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: defect_cause
+      label: Defect Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: defect_location
+      label: Defect Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: defect_description
+      label: Defect Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: total_parts_made
+      label: Total Parts Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_parts_scrap
+      label: Total Parts Scrap
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: total_defective_parts
+      label: Total Defective Parts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_defects
+      label: Total Defects
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_parts_in_process
+      label: Total Parts In Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: total_parts_completed
+      label: Total Parts Completed
+      hint: null
+      type: text
+      options: []
+      required: false

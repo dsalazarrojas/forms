@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Coverage Verification Form
+    pages:
+    - id: 1
+      name: organization
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_publication
+      label: Date of Publication
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: url
+      label: Publication URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: publication_image
+      label: Publication Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: publication_type
+      label: Type of Publication
+      hint: null
+      type: select_multiple
+      options:
+      - Print
+      - Online
+      - Social Media
+      - Television
+      - Other
+      required: true
+    - id: 6
+      name: publication_name
+      label: Name of PublicationchartInstance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: publication_location
+      label: Location of Publication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: publication_citations
+      label: Number of Citations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: publication_citation_sources
+      label: Citation Sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: publication_impact
+      label: Impact of Publication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: publication_frequency
+      label: Frequency of Publication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - user1
+      - user2
+      required: true

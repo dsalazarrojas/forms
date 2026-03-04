@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seints-Artist-Program-Positively-Gorgeous
+    pages:
+    - id: 1
+      name: contact_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_question
+      label: Question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: artist_program_interesting
+      label: How did you hear about Seint's Artist Program?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Google
+      - Other
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_artist_program_interesting
+      label: What interests you about Seint's Artist Program?
+      hint: null
+      type: select_one
+      options:
+      - Art Direction
+      - Illustration
+      - Printmaking
+      - Sculpture
+      - Photography
+      - Graphic Design
+      - Web Design
+      - Video
+      - Animation
+      - Game Development
+      required: false
+    - id: 9
+      name: contact_artist_program_interesting2
+      label: What interests you about Seint's Artist Program? 2
+      hint: null
+      type: select_multiple
+      options:
+      - Art Direction
+      - Illustration
+      - Printmaking
+      - Sculpture
+      - Photography
+      - Graphic Design
+      - Web Design
+      - Video
+      - Animation
+      - Game Development
+      required: false

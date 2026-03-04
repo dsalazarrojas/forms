@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: free 5 day trial form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Marketer Forms''}'
+      - '{''value'': ''General Forms''}'
+      - '{''value'': ''User Forms''}'
+      required: true
+    - id: 5
+      name: form_url
+      label: Form URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      required: true
+    - id: 8
+      name: form_assigned_tool
+      label: Form Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 9
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_last_modified
+      label: Form Last Modified
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: form_last_modified_by
+      label: Form Last Modified By
+      hint: null
+      type: text
+      options: []
+      required: true

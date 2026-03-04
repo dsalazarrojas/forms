@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Referral Partner Signup Form
+    pages:
+    - id: 1
+      name: form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: form_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: form_6
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Referral URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: Referral Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: Referral Partner
+      hint: null
+      type: select_one
+      options:
+      - Referral Partner 1
+      - Referral Partner 2
+      - Referral Partner 3
+      required: true
+    - id: 10
+      name: form_10
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: form_11
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

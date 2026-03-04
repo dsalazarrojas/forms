@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition And General Health Questionnaire
+    pages:
+    - id: 1
+      name: client_onboarding
+      label: Client Onboarding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: health_history
+      label: health_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nutrition_habits
+      label: nutrition_habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_risks
+      label: health_risks
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Diabetes''}'
+      - '{''id'': 3, ''label'': ''High Blood Pressure''}'
+      - '{''id'': 4, ''label'': ''High Cholesterol''}'
+      - '{''id'': 5, ''label'': ''Obesity''}'
+      required: false
+    - id: 5
+      name: health_history_2
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: care_plans
+      label: care_plans
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_tests
+      label: medical_tests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Blood Tests''}'
+      - '{''id'': 2, ''label'': ''Urine Tests''}'
+      - '{''id'': 3, ''label'': ''Imaging Studies''}'
+      required: false
+    - id: 8
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false

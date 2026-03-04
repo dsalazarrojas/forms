@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: W4 Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employer_city
+      label: Employer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer_state
+      label: Employer State
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employer_zip
+      label: Employer Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_city
+      label: Employee City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_state
+      label: Employee State
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employee_zip
+      label: Employee Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_of_last_payroll
+      label: Date of Last Payroll
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: employee_employer_tax_filing_status
+      label: Employee Employer Tax Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: employee_marital_status
+      label: Employee Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: employee_number_of_dependents
+      label: Employee Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: employee_w4_form_signed
+      label: Employee W4 Form Signed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: employee_w4_form_signed_date
+      label: Employee W4 Form Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: employee_w4_form_certified
+      label: Employee W4 Form Certified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: employee_w4_form_certified_by
+      label: Employee W4 Form Certified by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employer_w4_form_signed
+      label: Employer W4 Form Signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: employer_w4_form_signed_date
+      label: Employer W4 Form Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: employer_w4_form_certified
+      label: Employer W4 Form Certified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

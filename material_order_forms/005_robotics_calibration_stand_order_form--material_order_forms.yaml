@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robotics Calibration Stand Order Form
+    pages:
+    - id: 1
+      name: calibration_request_form
+      label: Calibration Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_selection
+      label: Select Materials
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Aluminum'', ''value'': 1}'
+      - Other
+      required: false
+    - id: 3
+      name: calibration_stand_specifications
+      label: Calibration Stand Specifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_receipt
+      label: Date of Receipt
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_po_number
+      label: Customer PO Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: internal_po_number
+      label: Internal PO Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: purchase_order
+      label: Purchase Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Shipped'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Completed'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Cancelled'', ''value'': 5}'
+      - '{''id'': 6, ''label'': ''Returned'', ''value'': 6}'
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: modified_at
+      label: Modified At
+      hint: null
+      type: date
+      options: []
+      required: false

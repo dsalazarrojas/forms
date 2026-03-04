@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Vent Noise Elimination Survey
+    pages:
+    - id: 1
+      name: vent_noise_report
+      label: Vent Noise Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: fix_attempted
+      label: Has Fix Attempted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 3
+      name: fix_status
+      label: Fix Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Complete''}'
+      - '{''value'': ''Incomplete''}'
+      required: true
+    - id: 4
+      name: date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: vent_type
+      label: Vent Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Squeaking''}'
+      - '{''value'': ''Hissing''}'
+      - '{''value'': ''Rattling''}'
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 12
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_by
+      label: Follow-up By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Quiz
+    pages:
+      - id: 1
+        name: quiz_intro
+        label: Black Friday Shopping Quiz
+        hint: Test your Black Friday knowledge and win discounts
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For results and prize notification
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: question_1
+        label: Question 1 - When is Black Friday 2024
+        hint: Select the correct date
+        type: select_one
+        options:
+          - November 24
+          - November 29
+          - December 1
+          - November 15
+        required: true
+      - id: 5
+        name: question_2
+        label: Question 2 - What Day Follows Black Friday
+        hint: The day after Black Friday is known as
+        type: select_one
+        options:
+          - Cyber Monday
+          - Small Business Saturday
+          - Giving Tuesday
+          - Super Saturday
+        required: true
+      - id: 6
+        name: question_3
+        label: Question 3 - Best Time to Shop
+        hint: When do most stores open on Black Friday
+        type: select_one
+        options:
+          - Midnight or Early Morning
+          - Noon
+          - Evening Only
+          - All Day Same as Normal
+        required: true
+      - id: 7
+        name: question_4
+        label: Question 4 - Popular Black Friday Item
+        hint: Which item typically has the biggest discounts
+        type: select_one
+        options:
+          - Electronics
+          - Groceries
+          - Books
+          - Garden Supplies
+        required: true
+      - id: 8
+        name: question_5
+        label: Question 5 - Online Shopping Tip
+        hint: What should you do before Black Friday
+        type: select_one
+        options:
+          - Create Accounts and Save Payment Info
+          - Wait Until the Day Of
+          - Only Shop In Store
+          - Ignore Deal Alerts
+        required: true
+      - id: 9
+        name: question_6
+        label: Question 6 - Price Matching
+        hint: Do most stores offer price matching
+        type: select_one
+        options:
+          - Yes Many Do
+          - Never
+          - Only on Electronics
+          - Only for VIP Members
+        required: true
+      - id: 10
+        name: question_7
+        label: Question 7 - Return Policies
+        hint: What should you check before buying
+        type: select_one
+        options:
+          - Return Policy and Warranty
+          - Only the Price
+          - Just the Brand
+          - Nothing Special
+        required: true
+      - id: 11
+        name: question_8
+        label: Question 8 - Budget Planning
+        hint: Best practice for Black Friday shopping
+        type: select_one
+        options:
+          - Set a Budget and Stick to It
+          - Buy Everything on Sale
+          - Use All Credit Available
+          - Shop Without a List
+        required: true
+      - id: 12
+        name: shopping_experience
+        label: Your Shopping Experience
+        hint: How experienced are you with Black Friday
+        type: select_one
+        options:
+          - First Timer
+          - Some Experience
+          - Regular Shopper
+          - Black Friday Expert
+        required: true
+      - id: 13
+        name: favorite_category
+        label: Favorite Shopping Category
+        hint: What do you most like to buy
+        type: select_one
+        options:
+          - Electronics
+          - Clothing
+          - Home Goods
+          - Beauty Products
+          - Toys
+          - Sports Equipment
+        required: true
+      - id: 14
+        name: newsletter_signup
+        label: Join Newsletter
+        hint: Get quiz results and future deals
+        type: select_one
+        options:
+          - Yes Sign Me Up
+          - No Thanks
+        required: true
+      - id: 15
+        name: score_display
+        label: Thank You
+        hint: Your results will be emailed to you
+        type: note
+        options: []
+        required: false

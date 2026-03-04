@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Covid Contact Tracing Form Template
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exposure_details
+      label: Exposure Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_tracing
+      label: Contact Tracing
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''In-person'', ''value'': ''in-person''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_exposure
+      label: Date of Exposure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_exposure
+      label: Time of Exposure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: medical_org_info
+      label: Medical Organization Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_tracing_status
+      label: Contact Tracing Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Not Active'', ''value'': ''not_active''}'
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''label'': ''Not Completed'', ''value'': ''not_completed''}'
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

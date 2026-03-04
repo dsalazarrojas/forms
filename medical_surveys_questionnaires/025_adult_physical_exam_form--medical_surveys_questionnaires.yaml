@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Physical Exam Form
+    pages:
+    - id: 1
+      name: section_vitals
+      label: -- Vital Signs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: body_temperature_fahrenheit
+      label: Body Temperature - Fahrenheit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: blood_pressure_systolic
+      label: Blood Pressure Systolic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: blood_pressure_diastolic
+      label: Blood Pressure Diastolic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: heart_rate_bpm
+      label: Heart Rate - BPM
+      hint: beats per minute
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: body_weight_lbs
+      label: Body Weight - lbs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_exam
+      label: -- Physical Examination Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: head_and_neck_exam
+      label: Head and Neck Exam
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: true
+    - id: 9
+      name: head_and_neck_notes
+      label: Head and Neck Notes
+      hint: Describe any abnormalities
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cardiovascular_exam
+      label: Cardiovascular Exam
+      hint: heart sounds and rhythm
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: true
+    - id: 11
+      name: cardiovascular_notes
+      label: Cardiovascular Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: respiratory_exam
+      label: Respiratory Exam
+      hint: lung sounds
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: true
+    - id: 13
+      name: respiratory_notes
+      label: Respiratory Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: abdominal_exam
+      label: Abdominal Exam
+      hint: tenderness or masses
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: true
+    - id: 15
+      name: abdominal_notes
+      label: Abdominal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: musculoskeletal_exam
+      label: Musculoskeletal Exam
+      hint: range of motion and strength
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: true
+    - id: 17
+      name: musculoskeletal_notes
+      label: Musculoskeletal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_clinical
+      label: -- Clinical Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: primary_diagnosis_or_finding
+      label: Primary Diagnosis or Finding
+      hint: Summary of the exam
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: recommended_follow_up_plan
+      label: Recommended Follow-Up Plan
+      hint: e.g. Lab tests, specialist referral
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: physician_name_and_credentials
+      label: Physician Name and Credentials
+      hint: null
+      type: text
+      options: []
+      required: true

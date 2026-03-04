@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sexual Health Wellness Check In
+    pages:
+    - id: 1
+      name: sexual_health_wellness_check_in
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender_identity
+      label: Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sexual_orientation
+      label: Sexual Orientation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Gay''}'
+      - '{''label'': ''Lesbian''}'
+      - '{''label'': ''Bisexual''}'
+      - '{''label'': ''Heterosexual''}'
+      - '{''label'': ''Asexual''}'
+      - '{''label'': ''Aromantic''}'
+      - '{''label'': ''Pansexual''}'
+      - '{''label'': ''Polysex''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Prefer Not to Say''}'
+      required: false
+    - id: 5
+      name: sexual_activity
+      label: Sexual Activity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 6
+      name: pain
+      label: Pain
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 9
+      name: drug_use
+      label: Drug Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Frequently''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 10
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''In a Relationship''}'
+      - '{''label'': ''Married''}'
+      - '{''label'': ''In a Partnership''}'
+      - '{''label'': ''Prefer Not to Say''}'
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

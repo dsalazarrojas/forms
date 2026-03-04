@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Effort Estimation Form
+    pages:
+    - id: 1
+      name: effort_estimation_form
+      label: project_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: effort_estimation
+      label: effort_estimation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_required
+      label: time_required
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: manpower_needed
+      label: manpower_needed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-2'', ''label'': ''1-2 people''}'
+      - '{''value'': ''3-5'', ''label'': ''3-5 people''}'
+      - '{''value'': ''6-10'', ''label'': ''6-10 people''}'
+      - '{''value'': ''more_than_10'', ''label'': ''more than 10 people''}'
+      required: false
+    - id: 6
+      name: resources_needed
+      label: resources_needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: estimated_completion_date
+      label: estimated_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: effort_level
+      label: effort_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

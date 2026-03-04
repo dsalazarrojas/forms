@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Physicist Estimate Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estimate_type
+      label: Estimate Type
+      hint: null
+      type: select_one
+      options:
+      - Equipment Upgrades
+      - Recalibration
+      - Educational Programs
+      - Research Projects
+      required: false
+    - id: 3
+      name: cost_type
+      label: Cost Type
+      hint: null
+      type: select_multiple
+      options:
+      - Labor
+      - Material
+      - Other
+      required: false
+    - id: 4
+      name: total_labor_cost
+      label: Total Labor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_material_cost
+      label: Total Material Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_other_costs
+      label: Total Other Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

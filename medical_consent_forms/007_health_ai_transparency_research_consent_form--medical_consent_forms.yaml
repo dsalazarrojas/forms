@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health AI Transparency Research Consent Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: Enter your Participant ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: study_name
+      label: Study Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: researcher_name
+      label: Researcher Name
+      hint: Enter your Researcher Name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_institution
+      label: Research Institution
+      hint: Enter your Research Institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: research_location
+      label: Research Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: consent_signature
+      label: Consent Signature
+      hint: Sign with your signature
+      type: select_one
+      options:
+      - I have read and understand the above statements.
+      - I have not read and do not understand the above statements.
+      required: true
+    - id: 10
+      name: ai_developer_name
+      label: AI Developer Name
+      hint: Enter your AI Developer Name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: study_description
+      label: Study Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: research_institution_email
+      label: Research Institution Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: participant_contact
+      label: Participant Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: research_institution_phone
+      label: Research Institution Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: research_institution_website
+      label: Research Institution Website
+      hint: null
+      type: text
+      options: []
+      required: false

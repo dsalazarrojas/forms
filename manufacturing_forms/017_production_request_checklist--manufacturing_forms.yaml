@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Request Checklist
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_request_page
+      label: Job Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_request_date_page
+      label: Job Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: job_request_time_page
+      label: Job Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: job_requester_name_page
+      label: Job Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_description_page
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: production_operator_page
+      label: Production Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_machine_page
+      label: Production Machine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_date_page
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: production_time_page
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: production_status_page
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Complete''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 12
+      name: production_notes_page
+      label: Production Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: production_attachments_page
+      label: Production Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

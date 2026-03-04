@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arm And Hand Health Survey
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_symptoms
+      label: -- Symptom Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: affected_side
+      label: Which side is affected
+      hint: null
+      type: select_one
+      options:
+      - Left
+      - Right
+      - Both
+      required: true
+    - id: 8
+      name: symptom_onset
+      label: When did symptoms start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: primary_complaint
+      label: Primary complaint or chief complaint
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: symptom_characteristics
+      label: What symptoms are you experiencing
+      hint: null
+      type: select_multiple
+      options:
+      - Pain
+      - Numbness
+      - Tingling
+      - Weakness
+      - Stiffness
+      - Swelling
+      - Loss of grip strength
+      - Limited range of motion
+      required: true
+    - id: 11
+      name: pain_severity
+      label: Pain severity - 0 to 10
+      hint: 0 is no pain, 10 is worst pain
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_activities
+      label: -- Functional Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: activities_affected
+      label: Activities that trigger or worsen symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Gripping
+      - Pinching
+      - Fine motor tasks
+      - Reaching overhead
+      - Repetitive motions
+      - Heavy lifting
+      - Writing
+      - Keyboard use
+      required: false
+    - id: 14
+      name: work_impact
+      label: Impact on work or daily activities
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Mild impact
+      - Moderate impact
+      - Severe impact
+      - Unable to perform
+      required: true
+    - id: 15
+      name: self_care_difficulty
+      label: Difficulty with self-care activities
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 16
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: previous_injury
+      label: History of arm or hand injury
+      hint: null
+      type: select_one
+      options:
+      - No history
+      - Minor injury
+      - Moderate injury
+      - Severe injury
+      required: false
+    - id: 18
+      name: previous_treatment
+      label: Previous treatment for this condition
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Physical therapy
+      - Medication
+      - Surgery
+      - Other
+      required: false
+    - id: 19
+      name: section_treatment
+      label: -- Current Treatment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_medication
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_goals
+      label: What are your treatment goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or concerns
+      hint: null
+      type: text
+      options: []
+      required: false

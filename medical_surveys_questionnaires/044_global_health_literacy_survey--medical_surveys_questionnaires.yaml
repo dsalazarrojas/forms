@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_health_literacy_survey
+    pages:
+    - id: 1
+      name: general_health_info
+      label: What is general health information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: what_are_your_age_group
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''18-24''}'
+      - '{''id'': 2, ''label'': ''25-34''}'
+      - '{''id'': 3, ''label'': ''35-44''}'
+      - '{''id'': 4, ''label'': ''45-54''}'
+      - '{''id'': 5, ''label'': ''55 or above''}'
+      required: false
+    - id: 3
+      name: health_literacy_level
+      label: How would you rate your health literacy level?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_low''}'
+      - '{''id'': 2, ''label'': ''low''}'
+      - '{''id'': 3, ''label'': ''fair''}'
+      - '{''id'': 4, ''label'': ''good''}'
+      - '{''id'': 5, ''label'': ''very_good''}'
+      - '{''id'': 6, ''label'': ''extremely_good''}'
+      required: false
+    - id: 4
+      name: health_conceptual_understanding
+      label: Which of the following best describes your health conceptual understanding?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''I have a good understanding''}'
+      - '{''id'': 2, ''label'': ''I have some understanding''}'
+      - '{''id'': 3, ''label'': ''I have very little understanding''}'
+      - '{''id'': 4, ''label'': ''I do not understand''}'
+      required: false
+    - id: 5
+      name: risk_benefit_assessment
+      label: Which of the following best describes your general risk-benefit assessment?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_high_risk''}'
+      - '{''id'': 2, ''label'': ''high''}'
+      - '{''id'': 3, ''label'': ''moderate''}'
+      - '{''id'': 4, ''label'': ''low''}'
+      - '{''id'': 5, ''label'': ''very_low''}'
+      - '{''id'': 6, ''label'': ''not_applicable''}'
+      required: false
+    - id: 6
+      name: health_conceptual_understanding_scale
+      label: Which of the following best describes your health conceptual understanding
+        on the scale?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''0-25''}'
+      - '{''id'': 2, ''label'': ''26-50''}'
+      - '{''id'': 3, ''label'': ''51-75''}'
+      - '{''id'': 4, ''label'': ''76-100''}'
+      required: false
+    - id: 7
+      name: health_systems_navigating
+      label: Which of the following best describes your ability to navigate health
+        systems?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''very_easy''}'
+      - '{''id'': 2, ''label'': ''easy''}'
+      - '{''id'': 3, ''label'': ''moderate''}'
+      - '{''id'': 4, ''label'': ''difficult''}'
+      - '{''id'': 5, ''label'': ''very_difficult''}'
+      required: false
+    - id: 8
+      name: health_literacy_score
+      label: health_literacy_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_score
+      label: total_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: health_conceptual_understanding_submitted
+      label: health_conceptual_understanding_submitted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: risk_benefit_assessment_submitted
+      label: risk_benefit_assessment_submitted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: health_literacy_score_submitted
+      label: health_literacy_score_submitted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: navigation_score
+      label: navigation_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: conceptual_understanding_submitted_score
+      label: conceptual_understanding_submitted_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: navigation_submitted_score
+      label: navigation_submitted_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: health_systems_navigating_submitted
+      label: health_systems_navigating_submitted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: submitted_score_1
+      label: submitted_score_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: submitted_score_2
+      label: submitted_score_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: navigation_submitted_score_1
+      label: navigation_submitted_score_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: submitted_score_3
+      label: submitted_score_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: submitted_score_4
+      label: submitted_score_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submitted_score_5
+      label: submitted_score_5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: submitted_score_6
+      label: submitted_score_6
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submitted_score_7
+      label: submitted_score_7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_score_8
+      label: submitted_score_8
+      hint: null
+      type: number
+      options: []
+      required: false

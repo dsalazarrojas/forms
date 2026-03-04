@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Income Opportunities Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: income_level
+      label: What is your current income?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: income_source
+      label: How do you earn money through gaming?
+      hint: null
+      type: select_one
+      options:
+      - esports
+      - streaming
+      - youtube
+      - other
+      required: false
+    - id: 4
+      name: income_level_breakdown
+      label: What is your current income level?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than $1000
+      - $1000-$2000
+      - $2000-$5000
+      - $5000-$10,000
+      - $10,000+
+      required: false
+    - id: 5
+      name: income_motivation
+      label: What motivates you to play games?
+      hint: null
+      type: select_multiple
+      options:
+      - Fun
+      - Escapist
+      - Competition
+      - Social
+      - Other
+      required: false
+    - id: 6
+      name: income_reason
+      label: Why do you play games?
+      hint: null
+      type: select_multiple
+      options:
+      - Escape
+      - Socialize
+      - Challenge
+      - Exploration
+      - Other
+      required: false
+    - id: 7
+      name: income_frequency
+      label: How often do you play games?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - A couple times a month
+      - Rarely
+      required: false
+    - id: 8
+      name: income_duration
+      label: How long do you play games each session?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
+      required: false
+    - id: 9
+      name: income_gaming_frequency
+      label: How many hours do you spend playing games per week?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-8 hours
+      - 9-16 hours
+      - More than 16 hours
+      required: false
+    - id: 10
+      name: income_earnings
+      label: How much do you earn from gaming?
+      hint: null
+      type: select_one
+      options:
+      - Less than $100
+      - $100-$500
+      - $500-$1000
+      - $1000-$5000
+      - More than $5000
+      required: false
+    - id: 11
+      name: income_streaming
+      label: Do you earn money from streaming?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: income_youtube
+      label: Do you earn money from YouTube?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: income_other
+      label: Do you earn money from other sources?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: income_motivation_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: income_frequency_other
+      label: How often do you do this other income activity?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - A couple times a month
+      - Rarely
+      required: false
+    - id: 16
+      name: income_duration_other
+      label: How long do you do this other income activity per session?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
+      required: false
+    - id: 17
+      name: income_gaming_frequency_other
+      label: How many hours do you spend doing this other income activity per week?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-8 hours
+      - 9-16 hours
+      - More than 16 hours
+      required: false
+    - id: 18
+      name: income_earnings_other
+      label: How much do you earn from this other income activity?
+      hint: null
+      type: select_one
+      options:
+      - Less than $100
+      - $100-$500
+      - $500-$1000
+      - $1000-$5000
+      - More than $5000
+      required: false
+    - id: 19
+      name: introduction2
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submission
+      label: Thank you for taking the time to complete this survey!
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory IoT Sensor Network Registration
+    pages:
+    - id: 1
+      name: factory_iot_sensor_network_registration_form_page_1
+      label: Locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: network_identifier
+      label: Network Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sensor_type
+      label: Sensor Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sensor_deployment_date
+      label: Sensor Deployment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: installation_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sensor_status
+      label: Sensor Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: sensor_notes
+      label: Sensor Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

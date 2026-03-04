@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: storage_humidity_control_report_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: temperature_check
+      label: Temperature Check
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': 6872}'
+      - '{''id'': 2.2, ''name'': 7276}'
+      - '{''id'': 2.3, ''name'': 7680}'
+      required: true
+    - id: 3
+      name: humidity_check
+      label: Humidity Check
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 3.1, ''name'': 60}'
+      - '{''id'': 3.2, ''name'': 70}'
+      - '{''id'': 3.3, ''name'': 80}'
+      - '{''id'': 3.4, ''name'': 90}'
+      required: true
+    - id: 4
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8.1, ''name'': ''John Doe''}'
+      - '{''id'': 8.2, ''name'': ''Jane Doe''}'
+      required: true
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9.1, ''name'': ''Open''}'
+      - '{''id'': 9.2, ''name'': ''In Progress''}'
+      - '{''id'': 9.3, ''name'': ''Completed''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: environment_monitoring_data
+      label: Environment Monitoring Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14.1, ''name'': ''Good''}'
+      - '{''id'': 14.2, ''name'': ''Bad''}'
+      required: true
+    - id: 15
+      name: temperature_sensor_calibration_frequency
+      label: Temperature Sensor Calibration Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15.1, ''name'': ''Daily''}'
+      - '{''id'': 15.2, ''name'': ''Weekly''}'
+      - '{''id'': 15.3, ''name'': ''Monthly''}'
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Records Release Form
+    pages:
+    - id: 1
+      name: pet_owners_name
+      label: Pet Owner's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_address
+      label: Owner's Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_name
+      label: Pet's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: veterinary_clinic
+      label: Veterinary Clinic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: date_of_transfer
+      label: Date of Transfer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_transfer
+      label: Reason for Transfer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: veterinary_clinic_name
+      label: Name of New Veterinary Clinic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_person_at_new_clinic
+      label: Contact Person at New Clinic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Person's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Person's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: veterinarian_signature
+      label: Veterinarian's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: clinic_signature_date
+      label: Clinic Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: clinic_signature
+      label: Clinic Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: authorization
+      label: Authorization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: transfer_type
+      label: Type of Transfer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: owner_acknowledgement
+      label: Owner Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: clinic_acknowledgement
+      label: Clinic Acknowledgement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: clinic_contact
+      label: Clinic Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: owner_contact
+      label: Owner Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: veterinary_license
+      label: Veterinary License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: clinic_license
+      label: Clinic License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

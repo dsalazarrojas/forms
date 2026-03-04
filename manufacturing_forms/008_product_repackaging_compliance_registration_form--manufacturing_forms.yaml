@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Repackaging Compliance Registration Form
+    pages:
+    - id: 1
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: repackaging_activity_start_date
+      label: repackaging activity start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: packaging_date
+      label: packaging date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: packaging_location
+      label: packaging location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_id
+      label: facility id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: facility_name
+      label: facility name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_line_id
+      label: production line id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: production_line_name
+      label: production line name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: repackaging_quantity
+      label: repackaging quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: repackaging_unit
+      label: repackaging unit
+      hint: null
+      type: select_one
+      options:
+      - case
+      - carton
+      - bag
+      - pail
+      - drum
+      - box
+      - canister
+      - pallet
+      - other
+      required: false
+    - id: 12
+      name: repackaging_method
+      label: repackaging method
+      hint: null
+      type: select_one
+      options:
+      - manual reprocessing
+      - refurbishing
+      - repackaging
+      - no change
+      - other
+      required: false
+    - id: 13
+      name: storage_location
+      label: storage location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspection_result
+      label: inspection result
+      hint: null
+      type: select_multiple
+      options:
+      - passed
+      - failed
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

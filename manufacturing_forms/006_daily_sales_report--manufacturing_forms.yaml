@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_sales_report
+    pages:
+    - id: 1
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product
+      label: Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sales_amount_hint
+      label: Sales Amount Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitted
+      label: Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitted_hint
+      label: Submitted Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: sales_manager_hint
+      label: Sales Manager Hint
+      hint: null
+      type: note
+      options: []
+      required: false

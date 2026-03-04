@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botox Vial Guessing Game
+    pages:
+    - id: 1
+      name: participant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: For contest notifications and winner announcement
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: For winner notification
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_dob
+      label: Date of Birth
+      hint: Must be 18 or older to participate
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 18 years of age or older
+      type: select_one
+      options:
+      - Yes, I am 18 or older
+      - No, I am under 18
+      required: true
+    - id: 7
+      name: clinic_patient_status
+      label: Are You a Current Patient
+      hint: Do you receive treatments at our clinic
+      type: select_one
+      options:
+      - Yes, current patient
+      - No, new to the clinic
+      - Former patient
+      required: true
+    - id: 8
+      name: vial_guess
+      label: Your Guess
+      hint: How many vials of Botox do you guess are in the display
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guess_explanation
+      label: Guess Explanation
+      hint: Optional - explain your reasoning for fun
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entry_date
+      label: Entry Date
+      hint: Date of contest entry
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: entry_location
+      label: Entry Location
+      hint: Where did you submit your guess
+      type: select_one
+      options:
+      - In-clinic event
+      - Online submission
+      - Social media
+      - Referral from friend
+      required: true
+    - id: 12
+      name: referral_source
+      label: How Did You Hear About This Event
+      hint: What brought you to participate
+      type: select_one
+      options:
+      - Social media
+      - Email newsletter
+      - Friend or family
+      - Walk-in
+      - Website
+      - In-clinic signage
+      - Other
+      required: false
+    - id: 13
+      name: interested_in_treatment
+      label: Interest in Botox Treatment
+      hint: Are you interested in learning more about Botox
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe, considering it
+      - Just participating for fun
+      - No, not interested
+      required: true
+    - id: 14
+      name: consultation_request
+      label: Request Free Consultation
+      hint: Would you like a complimentary consultation
+      type: select_one
+      options:
+      - Yes, please contact me
+      - No, thank you
+      required: true
+    - id: 15
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive updates on future events and promotions
+      type: select_one
+      options:
+      - Yes, add me to the list
+      - No, thank you
+      required: false
+    - id: 16
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Optional - Instagram or Facebook username
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the contest rules and terms
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 18
+      name: privacy_consent
+      label: Privacy Consent
+      hint: I consent to my information being used for contest purposes
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 19
+      name: marketing_consent
+      label: Marketing Communications
+      hint: I agree to receive marketing communications from this clinic
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, thank you
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or questions
+      type: text
+      options: []
+      required: false

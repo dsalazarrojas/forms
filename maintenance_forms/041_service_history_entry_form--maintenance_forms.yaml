@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service History Entry Form
+    pages:
+    - id: 1
+      name: service_history_entry
+      label: Service History
+      hint: Record the service history
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_id
+      label: vehicle
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Car''}'
+      - '{''id'': ''2'', ''label'': ''Truck''}'
+      - '{''id'': ''3'', ''label'': ''Motorcycle''}'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: maintenance_type
+      label: maintenance_type
+      hint: Select type of maintenance
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''Preventative''}'
+      - '{''id'': ''2'', ''label'': ''Corrective''}'
+      required: true
+    - id: 7
+      name: cost
+      label: cost
+      hint: Cost of maintenance
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: technician_id
+      label: technician
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Jimmy''}'
+      - '{''id'': ''2'', ''label'': ''Jill''}'
+      - '{''id'': ''3'', ''label'': ''Bob''}'
+      required: true
+    - id: 11
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Complete''}'
+      - '{''id'': ''2'', ''label'': ''In Progress''}'
+      - '{''id'': ''3'', ''label'': ''Cancelled''}'
+      required: true
+    - id: 12
+      name: next_service_date
+      label: next_service_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: last_service_date
+      label: last_service_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: last_service_description
+      label: last_service_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: last_service_miles
+      label: last_service_miles
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: last_service_cost
+      label: last_service_cost
+      hint: null
+      type: number
+      options: []
+      required: true

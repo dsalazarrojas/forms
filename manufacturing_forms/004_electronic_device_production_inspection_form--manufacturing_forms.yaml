@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electronic Device Production Inspection Form
+    pages:
+    - id: 1
+      name: production_batch
+      label: Production Batch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: defect_count
+      label: Defect Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: defect_description
+      label: Defect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_result
+      label: Inspection Result
+      hint: Select one of the options below
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspector_name
+      label: Inspector Name
+      hint: Full Name of the Person Inspecting
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_role
+      label: Inspector Role
+      hint: Select one of the options below
+      type: select_one
+      options:
+      - QA Engineer
+      - Production Manager
+      - Quality Manager
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Symptom Screening Form
+    pages:
+    - id: 1
+      name: medical_application_forms
+      label: Medical Application Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tracking_forms
+      label: Tracking Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: symptom_screening_form
+      label: Symptom Screening Form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: no_hint_field
+      label: No Hint Field
+      hint: null
+      type: text
+      options: []
+      required: false

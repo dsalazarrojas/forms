@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Market Insights Survey Form
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic_questions
+      label: Demographic Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Age Group 18-24''}'
+      - '{''value'': ''Age Group 25-34''}'
+      - '{''value'': ''Age Group 35-44''}'
+      - '{''value'': ''Age Group 45-54''}'
+      - '{''value'': ''Age Group 55-64''}'
+      - '{''value'': ''Age Group 65 or above''}'
+      required: false
+    - id: 3
+      name: income_range
+      label: Income Range
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than $25,000''}'
+      - '{''value'': ''$25,000-$49,999''}'
+      - '{''value'': ''$50,000-$74,999''}'
+      - '{''value'': ''$75,000-$99,999''}'
+      - '{''value'': ''$100,000 or more''}'
+      required: false
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Less than High School''}'
+      - '{''value'': ''High School''}'
+      - '{''value'': ''Some college''}'
+      - '{''value'': ''College''}'
+      - '{''value'': ''Postgraduate''}'
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Female''}'
+      - '{''value'': ''Male''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Single''}'
+      - '{''value'': ''Married''}'
+      - '{''value'': ''Divorced''}'
+      - '{''value'': ''Widowed''}'
+      - '{''value'': ''In a domestic partnership''}'
+      required: false
+    - id: 8
+      name: family_size
+      label: Family Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': ''5 or more''}'
+      required: false
+    - id: 9
+      name: children
+      label: Children
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 0}'
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': ''5 or more''}'
+      required: false
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''Chinese''}'
+      - '{''value'': ''Japanese''}'
+      - '{''value'': ''Arabic''}'
+      - '{''value'': ''Hindi''}'
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

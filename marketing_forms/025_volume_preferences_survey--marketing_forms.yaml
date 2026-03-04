@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volume Preferences Survey
+    pages:
+    - id: 1
+      name: volume_preferences_survey
+      label: What type of customer volume data do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales Data''}'
+      - '{''id'': 2, ''label'': ''Order Data''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 2
+      name: customer_volume
+      label: customer_volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: volume_frequency
+      label: how Often do you have customer volume data?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: volume_averagedaily
+      label: What volume frequency averagedaily?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: volume_frequency_type
+      label: volume_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 6
+      name: customer_segment
+      label: Which customer segment do you work with?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Enterprise''}'
+      - '{''id'': 2, ''label'': ''Small Business''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: volume_data_source
+      label: volume_data_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volume_data_source_type
+      label: volume_data_source_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CRM''}'
+      - '{''id'': 2, ''label'': ''ERP''}'
+      - '{''id'': 3, ''label'': ''Database''}'
+      required: false
+    - id: 9
+      name: volume_data_last_updated
+      label: volume_data_last_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: volume_data_last_updated_time
+      label: volume_data_last_updated_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: volume_data_last_updated_by
+      label: volume_data_last_updated_by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Automated''}'
+      - '{''id'': 2, ''label'': ''Manual''}'
+      required: false
+    - id: 12
+      name: volume_data_last_updated_by_who
+      label: volume_data_last_updated_by_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: volume_data_last_updated_who
+      label: volume_data_last_updated_who
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales Manager''}'
+      - '{''id'': 2, ''label'': ''Account Manager''}'
+      required: false
+    - id: 14
+      name: volume_data_last_updated_who_who
+      label: volume_data_last_updated_who_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: volume_data_last_updated_who_who_who
+      label: volume_data_last_updated_who_who_who
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sales Manager''}'
+      - '{''id'': 2, ''label'': ''Account Manager''}'
+      required: false
+    - id: 16
+      name: volume_data_last_updated_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: volume_data_last_updated_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales Manager''}'
+      - '{''id'': 2, ''label'': ''Account Manager''}'
+      required: false
+    - id: 18
+      name: volume_data_last_updated_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: volume_data_last_updated_who_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who_who
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: volume_data_last_updated_who_who_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who_who_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: volume_data_last_updated_who_who_who_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who_who_who_who
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who_who
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who_who_who
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who_who_who_who_who_who
+      label: volume_data_last_updated_who_who_who_who_who_who_who_who_who_who_who_who_who_who_who
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Request Form
+    pages:
+    - id: 1
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: building_material
+      label: Building Material
+      hint: null
+      type: select_multiple
+      options:
+      - Cement
+      - Lumber
+      - Steel
+      - Glass
+      - Aluminum
+      required: false
+    - id: 3
+      name: project_stage
+      label: Project Stage
+      hint: null
+      type: select_one
+      options:
+      - Pre-Construction
+      - Underway
+      - Post-Construction
+      required: false
+    - id: 4
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - Builder
+      - Architect
+      - Development Director
+      - Property Manager
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: requested_item
+      label: Requested Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Builder
+      - Architect
+      - Development Director
+      - Property Manager
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: project_manager_note
+      label: Project Manager Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 18
+      name: project_manager_id
+      label: Project Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false

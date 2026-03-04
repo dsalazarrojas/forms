@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marker Order And Layout Approval Form
+    pages:
+    - id: 1
+      name: order_and_layout_request
+      label: Order and layout request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: marker_order
+      label: Marker order
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: material_order
+      label: Material order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: layout_request
+      label: Layout request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_signature
+      label: Customer signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_submission
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_submission
+      label: Time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: customer_comments
+      label: Customer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_approval
+      label: Customer approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer_rejection
+      label: Customer rejection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: approval_reason
+      label: Approval reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approval_comments
+      label: Approval comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: layout_approval
+      label: Layout approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: customer_request
+      label: Customer request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_layout
+      label: Customer layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marker_id
+      label: Marker ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: marker_name
+      label: Marker name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: marker_number
+      label: Marker number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_number
+      label: Order number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false

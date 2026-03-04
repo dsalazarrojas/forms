@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wine And Meal News
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meal_selection
+      label: Select A Meal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: wine_selection
+      label: Select A Wine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: wine_and_meal_pairing
+      label: Wine And Meal Pairing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wine_and_meal_info
+      label: Wine And Meal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: first_wine
+      label: First Wine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_wine_price
+      label: First Wine Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: second_wine
+      label: Second Wine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: second_wine_price
+      label: Second Wine Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: third_wine
+      label: Third Wine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: third_wine_price
+      label: Third Wine Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: meal_type
+      label: Meal Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false

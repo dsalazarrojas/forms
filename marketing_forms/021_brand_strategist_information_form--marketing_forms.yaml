@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Strategist Information Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Current website URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Professional Services
+      - Creative Industry
+      - Food and Beverage
+      - Other
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo Entrepreneur
+      - 2-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 200+ employees
+      required: true
+    - id: 8
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 to $500,000
+      - $500,000 to $1 Million
+      - $1 Million to $5 Million
+      - $5 Million+
+      required: false
+    - id: 9
+      name: current_branding_status
+      label: Current Branding Status
+      hint: Do you have existing branding
+      type: select_one
+      options:
+      - No Branding Yet
+      - Basic Logo Only
+      - Partial Branding
+      - Full Brand Guidelines
+      - Need Complete Rebrand
+      required: true
+    - id: 10
+      name: main_business_challenge
+      label: Main Business Challenge
+      hint: What is your biggest challenge right now
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: brand_goals
+      label: Brand Goals
+      hint: What do you want to achieve with branding
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Describe your ideal customer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: competitors
+      label: Main Competitors
+      hint: Who are your top 3 competitors
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: unique_differentiator
+      label: Unique Differentiator
+      hint: What makes you different from competitors
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: brand_values
+      label: Core Brand Values
+      hint: List 3-5 core values
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: brand_personality
+      label: Desired Brand Personality
+      hint: How should your brand be perceived
+      type: select_multiple
+      options:
+      - Professional
+      - Friendly
+      - Innovative
+      - Trustworthy
+      - Luxurious
+      - Affordable
+      - Bold
+      - Creative
+      - Sustainable
+      - Playful
+      required: true
+    - id: 17
+      name: previous_brand_work
+      label: Previous Brand Work
+      hint: Have you worked with a brand strategist before
+      type: select_one
+      options:
+      - Yes, Multiple Times
+      - Yes, Once
+      - No, First Time
+      required: true
+    - id: 18
+      name: project_timeline
+      label: Project Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - Just Exploring
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for branding
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 to $15,000
+      - $15,000 to $30,000
+      - $30,000 to $50,000
+      - $50,000+
+      required: true
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Where did you find us
+      type: select_one
+      options:
+      - Referral
+      - Website
+      - Social Media
+      - Search Engine
+      - Podcast
+      - Event
+      - Other
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

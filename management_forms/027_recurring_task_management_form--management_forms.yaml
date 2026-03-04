@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recurring Task Management Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recurring_task_properties
+      label: Recurring Task Properties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assignee_properties
+      label: Assignee Properties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reminder
+      label: Reminder
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assignee_list
+      label: Assignee List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: recurrence_properties
+      label: Recurrence Properties
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: recurrence_pattern
+      label: Recurrence Pattern
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: recurrence_frequency
+      label: Recurrence Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: recurrence_start_date
+      label: Recurrence Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: recurrence_end_date
+      label: Recurrence End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: recurrence_end_time
+      label: Recurrence End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: recurrence_end_time_repeats
+      label: Recurrence End Time Repeats
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: recurrence_end_time_repeats_options
+      label: Recurrence End Time Repeats Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: recurrence_end_time_until
+      label: Recurrence End Time Until
+      hint: null
+      type: time
+      options: []
+      required: false

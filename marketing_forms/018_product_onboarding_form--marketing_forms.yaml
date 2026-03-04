@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Onboarding Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: What is your role?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: role_options
+      label: Select one option
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Account Management
+      - IT
+      required: true
+    - id: 9
+      name: preferred_communication_channel
+      label: Preferred Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-app messages
+      - Other
+      required: true
+    - id: 10
+      name: timezone
+      label: Timezone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: timezone_options
+      label: Select a timezone
+      hint: null
+      type: select_multiple
+      options:
+      - America/New York
+      - America/Los Angeles
+      - America/Denver
+      - America/Chicago
+      - America/Phoenix
+      - America/Seattle
+      - America/Denver
+      - America/Indianapolis
+      - America/Los Angeles
+      - America/Indianapolis
+      - America/Anchorage
+      - Pacific
+      - Pacific
+      - Pacific
+      - Pacific
+      - Pacific
+      required: true
+    - id: 12
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_preferences
+      label: Product Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: product_preferences_options
+      label: Select product preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      - Feature 4
+      - Feature 5
+      required: true
+    - id: 15
+      name: product_use_case
+      label: Product Use Case
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_use_case_options
+      label: Select product use case
+      hint: null
+      type: select_multiple
+      options:
+      - Use case 1
+      - Use case 2
+      - Use case 3
+      - Use case 4
+      - Use case 5
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments_options
+      label: Select additional comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      required: true
+    - id: 19
+      name: product_onboarding_form_comments
+      label: Product Onboarding Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_onboarding_form_comments_options
+      label: Select product onboarding form comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company_name_options
+      label: Select company name
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 23
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: company_type_options
+      label: Select company type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 25
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: company_size_options
+      label: Select company size
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false

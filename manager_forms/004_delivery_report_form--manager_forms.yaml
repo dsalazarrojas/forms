@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Report Form
+    pages:
+    - id: 1
+      name: delivery_report_form_page
+      label: Delivery Report Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time_zone
+      label: delivery_time_zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_location
+      label: delivery_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: package_details
+      label: package_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_signature_image
+      label: customer_signature_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_person
+      label: delivery_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: delivery_person_phone
+      label: delivery_person_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_person_email
+      label: delivery_person_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Player Medical Screening Form
+    pages:
+    - id: 1
+      name: team_player_medical_screening_form_page
+      label: Team Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_player_medical_screening_form_page_2
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_player_medical_screening_form_page_3
+      label: Medical History Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_player_medical_screening_form_page_4
+      label: Online Consent
+      hint: null
+      type: select_one
+      options:
+      - I do not have a valid medical insurance
+      - I have a valid medical insurance
+      - I have a valid medical insurance with a copay
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: team_player_medical_screening_form_page_5
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: text
+      options: []
+      required: true

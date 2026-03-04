@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre_execution_checklist
+    pages:
+    - id: 1
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: step_1_description
+      label: Step 1 Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: step_2_description
+      label: Step 2 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Not started
+      required: true
+    - id: 5
+      name: task_deadline
+      label: Task Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: confirm_readiness
+      label: Confirm Readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assignee
+      label: Assignee
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sign_off_date
+      label: Sign-Off Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: team_location
+      label: Team Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: confirm_completion
+      label: Confirm Completion
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Not complete
+      required: true
+    - id: 14
+      name: confirm_safety
+      label: Confirm Safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: team_lead_signature
+      label: Team Lead Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assignee_phone
+      label: Assignee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: team_name_2
+      label: Team Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_location_2
+      label: Team Location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: task_priority
+      label: Task Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 21
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: task_description_2
+      label: Task Description 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: step_3_description
+      label: Step 3 Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: step_4_description
+      label: Step 4 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: step_5_description
+      label: Step 5 Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: softgel_capsule_quality_inspection_checklist
+    pages:
+    - id: 1
+      name: batch_id
+      label: Batch ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: capsule_color
+      label: Capsule Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Green
+      - Red
+      required: false
+    - id: 3
+      name: capsule_shape
+      label: Capsule Shape
+      hint: null
+      type: select_multiple
+      options:
+      - Sphere
+      - Oval
+      - Elliptical
+      required: false
+    - id: 4
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      - Reject
+      required: false
+    - id: 5
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 7
+      name: inspection_shift
+      label: Inspection Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 8
+      name: production_line
+      label: Production Line
+      hint: null
+      type: select_one
+      options:
+      - Line 1
+      - Line 2
+      - Line 3
+      required: false
+    - id: 9
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: shift_time
+      label: Shift Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: production_shift_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: production_shift_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: production_duration
+      label: Production Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: inspection_result_time
+      label: Inspection Result Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: quality_control
+      label: Quality Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: capsule_weight
+      label: Capsule Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: capsule_size
+      label: Capsule Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: capsule_diameter
+      label: Capsule Diameter
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: capsule_color_consistency
+      label: Capsule Color Consistency
+      hint: null
+      type: select_multiple
+      options:
+      - Uniform
+      - Inconsistent
+      required: false
+    - id: 23
+      name: capsule_shape_consistency
+      label: Capsule Shape Consistency
+      hint: null
+      type: select_multiple
+      options:
+      - Uniform
+      - Inconsistent
+      required: false
+    - id: 24
+      name: capsule_texture
+      label: Capsule Texture
+      hint: null
+      type: select_multiple
+      options:
+      - Smooth
+      - Rough
+      required: false
+    - id: 25
+      name: capsule_packaging
+      label: Capsule Packaging
+      hint: null
+      type: select_multiple
+      options:
+      - Proper
+      - Improper
+      required: false

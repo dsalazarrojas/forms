@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_keyword_promotion_request_form
+    pages:
+    - id: 1
+      name: keyword_request
+      label: keyword_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: keyword_list
+      label: keyword_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: promotion_type
+      label: promotion_type
+      hint: null
+      type: select_one
+      options:
+      - keyword
+      - link
+      - image
+      - description
+      required: false
+    - id: 6
+      name: keyword
+      label: keyword
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: target_url
+      label: target_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: target_description
+      label: target_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: keywords_list
+      label: keywords_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: promotion_status
+      label: promotion_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 11
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false

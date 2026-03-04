@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Health Study Parental Consent Form
+    pages:
+    - id: 1
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent form submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Parent or Guardian Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 11
+      name: study_title
+      label: Health Study Title
+      hint: Title or name of the health study
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: study_sponsor
+      label: Study Sponsor or Institution
+      hint: Name of the sponsoring institution
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: principal_investigator
+      label: Principal Investigator Name
+      hint: Name of the lead researcher
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: investigator_contact
+      label: Investigator Contact Information
+      hint: Email or phone for the research team
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: study_purpose_understanding
+      label: Study Purpose Understanding
+      hint: Do you understand the purpose of this health study?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 16
+      name: study_procedures_understanding
+      label: Study Procedures Understanding
+      hint: Do you understand the procedures your child will undergo?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 17
+      name: study_duration
+      label: Study Duration Understanding
+      hint: Do you understand how long the study will last?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 18
+      name: potential_risks_understanding
+      label: Potential Risks Understanding
+      hint: Do you understand the potential risks of participation?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 19
+      name: potential_benefits_understanding
+      label: Potential Benefits Understanding
+      hint: Do you understand the potential benefits of participation?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No benefits expected
+      - No, I need more information
+      required: true
+    - id: 20
+      name: confidentiality_understanding
+      label: Confidentiality Understanding
+      hint: Do you understand how your child's health data will be protected?
+      type: select_one
+      options:
+      - Yes, completely
+      - Mostly
+      - Somewhat
+      - No, I need more information
+      required: true
+    - id: 21
+      name: voluntary_participation_understanding
+      label: Voluntary Participation Understanding
+      hint: Do you understand that participation is voluntary and you can withdraw
+        at any time?
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 22
+      name: compensation_information
+      label: Compensation Information
+      hint: Do you understand any compensation or costs involved?
+      type: select_one
+      options:
+      - Yes, compensation is provided
+      - Yes, there are no costs
+      - Yes, I understand the cost structure
+      - No, I need more information
+      - Not applicable
+      required: true
+    - id: 23
+      name: consent_to_participate
+      label: Consent to Participate
+      hint: Do you consent to your child's participation in this health study?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 24
+      name: consent_for_blood_samples
+      label: Consent for Blood Samples
+      hint: Do you consent to collection of blood samples from your child?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Only if medically necessary
+      required: true
+    - id: 25
+      name: consent_for_data_sharing
+      label: Consent for Data Sharing
+      hint: Do you consent to sharing anonymized data with research partners?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Only with approved institutions
+      required: true
+    - id: 26
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness to consent (if applicable)
+      type: text
+      options: []
+      required: false

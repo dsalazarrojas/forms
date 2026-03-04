@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Support Portal Functionality Evaluation
+    pages:
+    - id: 1
+      name: portal_usage
+      label: Portal Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issues
+      label: Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_portal_features
+      label: Patient Portal Features
+      hint: null
+      type: select_one
+      options:
+      - Patient Portal Features
+      - Portal Navigation
+      - Secure Login
+      - Contact Support
+      - Patient Portal Access
+      required: false
+    - id: 6
+      name: patient_portal_satisfaction
+      label: Patient Portal Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 7
+      name: issue_severity
+      label: Issue Severity
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Minor
+      required: false
+    - id: 8
+      name: patient_portal_ideas
+      label: Patient Portal Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portal_issues
+      label: Portal Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: support_contact
+      label: Support Contact
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      required: false
+    - id: 15
+      name: support_contact_type
+      label: Support Contact Type
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false

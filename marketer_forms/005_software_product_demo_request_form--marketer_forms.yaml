@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_product_demo_request_form
+    pages:
+    - id: 1
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: software
+      label: software
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: product
+      label: Software Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: demo_time
+      label: Demo Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: demo_date
+      label: Demo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: demo_note
+      label: Demo Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: demo_agenda
+      label: Demo Agendas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: chat_id
+      label: Chat ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: category_title
+      label: Category Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_category
+      label: Assigned Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: description_title
+      label: Description Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: demo_title
+      label: Demo Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: demo_category
+      label: Demo Category
+      hint: null
+      type: text
+      options: []
+      required: false

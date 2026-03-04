@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Filtration System Maintenance Checklist
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician name
+      hint: Name of the maintenance technician
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: maintenance_date
+      label: Maintenance date
+      hint: Date of the maintenance activity
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: filter_replacement
+      label: Filter replacement performed
+      hint: Indicate which filters were replaced
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: true
+    - id: 4
+      name: fan_inspection
+      label: Fan inspection results
+      hint: Note any issues or confirmations
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: airflow_measurement
+      label: Airflow measurement reading
+      hint: Enter measured cubic meters per hour if available
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: leak_test
+      label: Leak test performed
+      hint: Confirm seals and duct integrity
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 7
+      name: safety_checks
+      label: Safety checks completed
+      hint: Electrical and mechanical safety checks
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recommendations
+      label: Recommendations and next steps
+      hint: Suggested repairs or future maintenance schedule
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_signature
+      label: Supervisor acknowledgement
+      hint: Name of supervisor approving maintenance
+      type: note
+      options: []
+      required: true

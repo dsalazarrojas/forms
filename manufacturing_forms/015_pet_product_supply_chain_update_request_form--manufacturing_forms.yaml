@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Supply Chain Update Request Form
+    pages:
+    - id: 1
+      name: pet_product_update
+      label: Pet Product Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shipment_details
+      label: Shipment Details
+      hint: Please enter your shipment details here
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inventory_update
+      label: Inventory Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - Delivered
+      required: true
+    - id: 8
+      name: shipment_location
+      label: Shipment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: update_reason
+      label: Update Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Manufacturing Wearable Order Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wearable_selections
+      label: Wearable Selections
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: company_details_2
+      label: Additional Company Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

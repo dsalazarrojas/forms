@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: IHUK COVID 19 Athlete/Coach Questionnaire
+    pages:
+    - id: 1
+      name: form_page_one
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: athlete_status
+      label: have_you_had_covid_19_vaccination
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: true
+    - id: 3
+      name: contact
+      label: have_you_had_contact_with_confirmed_covid_19_case
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: true
+    - id: 4
+      name: symptoms
+      label: are_you_experiencing_any_of_the_following_covid_19_symptoms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: travel
+      label: have_you_traveled_outside_your_country_in_the_last_14_days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 6
+      name: medical_attention
+      label: have_you_had_any_covid_19_medical_attention_in_last_30_days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 7
+      name: hospitalization
+      label: have_you_been_hospitalized_during_covid_19_pandemic
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: true
+    - id: 8
+      name: recovery
+      label: are_you_currently_recovering_from_covid_19
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 9
+      name: form_submit
+      label: submit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: form_end
+      label: end_of_form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note_section
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_condition
+      label: do_you_have_any_medical_condition_that_might_be_relevant_to_your_covid_19_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_history
+      label: travel_history_last_14_days
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_trace
+      label: have_you_been_contact_traced
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 17
+      name: testing_status
+      label: have_you_been_tested_for_covid_19
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 18
+      name: vaccination_status
+      label: have_you_received_any_vaccination
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 19
+      name: medical_attention
+      label: medical_attention_received
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 20
+      name: hospitalization_status
+      label: have_you_been_hospitalized
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 21
+      name: recovery_status
+      label: are_you_currently_recovering
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 22
+      name: medical_condition_status
+      label: do_you_have_any_medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_attention_status
+      label: have_you_received_any_medical_attention
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 24
+      name: vaccination_status
+      label: have_you_received_vaccination
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 25
+      name: form_end
+      label: end_of_form
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''end_of_form'', ''value'': 1}'
+      - '{''label'': ''back'', ''value'': 2}'
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: IVF Cost Assessment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurance_coverage
+      label: insurance_coverage
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: treatment_interests
+      label: treatment_interests
+      hint: Please select all that apply
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: financial_situation
+      label: financial_situation
+      hint: Please describe your current financial situation.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: treatment_options
+      label: treatment_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: estimated_costs
+      label: estimated_costs
+      hint: Please provide estimated costs for IVF treatments.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

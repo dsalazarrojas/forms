@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Relevance Feedback Form
+    pages:
+    - id: 1
+      name: ad_id_header
+      label: -- Advertisement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ad_identification
+      label: Ad Reference / ID
+      hint: If known, or describe the product/brand
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: platform_seen
+      label: Where did you see this ad?
+      hint: null
+      type: select_one
+      options:
+      - Social Media Feed
+      - Video Streaming Site
+      - Search Results Page
+      - Mobile App / Game
+      - Website Sidebar / Banner
+      required: true
+    - id: 4
+      name: feedback_header
+      label: -- Your Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: relevance_rating
+      label: How relevant was this ad to your interests?
+      hint: 1 = Not at all, 5 = Highly relevant
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ad_perception
+      label: What was your primary impression of this ad?
+      hint: null
+      type: select_one
+      options:
+      - Helpful and informative
+      - Entertaining / Interesting
+      - Neutral / Unremarkable
+      - Repetitive / Annoying
+      - Offensive or Inappropriate
+      required: true
+    - id: 7
+      name: action_taken
+      label: Did you take any action after seeing this ad?
+      hint: null
+      type: select_one
+      options:
+      - Clicked to learn more
+      - Made a purchase
+      - Saved for later
+      - None
+      - Reported / Blocked the ad
+      required: true
+    - id: 8
+      name: improvement_suggestion
+      label: How could we make our advertisements more relevant to you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: demographic_header
+      label: -- Optional Demographic Info --
+      hint: Helps us improve our targeting
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: age_range
+      label: Your Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: false
+    - id: 11
+      name: interests_selection
+      label: Select topics you are interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Health and Wellness
+      - Travel and Leisure
+      - Education and Careers
+      - Finance and Investing
+      - Entertainment and Gaming
+      required: false
+    - id: 12
+      name: feedback_consent
+      label: I agree to let this feedback be used to personalize my ad experience
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

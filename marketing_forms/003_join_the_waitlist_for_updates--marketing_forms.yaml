@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Join The Waitlist
+    pages:
+    - id: 1
+      name: waitlist_for_updates
+      label: Join The Waitlist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 6
+      name: contact
+      label: Contact
+      hint: Choose one or more of the following methods of contact
+      type: select_multiple
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Mail''}'
+      required: false
+    - id: 7
+      name: updates
+      label: Updates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''_goals Weekly''}'
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      required: false
+    - id: 8
+      name: preferences
+      label: Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: minimalist
+      label: Minimalist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: none
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_maintenance_partner_contact_form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_coverage
+      label: Service Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - AM/PM
+      - 24/7
+      - Weekends
+      required: false
+    - id: 3
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: service_availability
+      label: Service Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: coverage_areas
+      label: Coverage Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Building 1
+      - Building 2
+      - Building 3
+      required: false
+    - id: 6
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_service_email
+      label: Vendor Service Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: vendor_service_phone
+      label: Vendor Service Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_record_type
+      label: Medical Record Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New Patient''}'
+      - '{''id'': 2, ''label'': ''Existing Patient''}'
+      - '{''id'': 3, ''label'': ''Unknown Patient''}'
+      required: false
+    - id: 5
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cardiology''}'
+      - '{''id'': 2, ''label'': ''Dermatology''}'
+      - '{''id'': 3, ''label'': ''Endocrinology''}'
+      - '{''id'': 4, ''label'': ''Gastroenterology''}'
+      - '{''id'': 5, ''label'': ''General Practice''}'
+      - '{''id'': 6, ''label'': ''Nephrology''}'
+      required: false
+    - id: 6
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Private''}'
+      - '{''id'': 2, ''label'': ''Medicare''}'
+      - '{''id'': 3, ''label'': ''Medicaid''}'
+      - '{''id'': 4, ''label'': ''Tricare''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: medical_record_notes
+      label: Medical Record Notes
+      hint: null
+      type: note
+      options: []
+      required: false

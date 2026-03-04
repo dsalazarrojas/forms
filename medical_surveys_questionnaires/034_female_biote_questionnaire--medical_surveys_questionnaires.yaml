@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Female BioTe Questionnaire
+    pages:
+    - id: 1
+      name: female_bio_te_info
+      label: female bio te info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: current_medications
+      label: current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: health_history
+      label: health history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: birth date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: current_medications_details
+      label: current medications details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions_details
+      label: medical conditions details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_insurance_provider
+      label: health insurance provider
+      hint: null
+      type: select_one
+      options:
+      - Aetna
+      - Blue Cross
+      - Cigna
+      - Humana
+      - Kaiser
+      required: true
+    - id: 16
+      name: primary_care_physician
+      label: primary care physician
+      hint: null
+      type: select_one
+      options:
+      - Dentist
+      - GP
+      - Pediatrician
+      - Psychologist
+      - Surgeon
+      required: true
+    - id: 17
+      name: blood_pressure
+      label: blood pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: body_mass_index
+      label: body mass index
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: blood_glucose
+      label: blood glucose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: blood_lipid
+      label: blood lipid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: medical_insurance_status
+      label: medical insurance status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 22
+      name: medical_history_date
+      label: medical history date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_details
+      label: medical history details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: menstrual_cycle
+      label: menstrual cycle
+      hint: null
+      type: select_one
+      options:
+      - irregular
+      - regular
+      required: false
+    - id: 25
+      name: medical_condition_status
+      label: medical condition status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - resolved
+      required: false

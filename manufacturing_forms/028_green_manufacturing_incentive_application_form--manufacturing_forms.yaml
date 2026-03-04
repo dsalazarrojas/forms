@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Manufacturing Incentive Application Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incentive
+      label: Incentive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: type_of_incentive
+      label: Type of Incentive
+      hint: null
+      type: select_one
+      options:
+      - Incentive 1
+      - Incentive 2
+      - Incentive 3
+      - Incentive 4
+      - Incentive 5
+      - Incentive 6
+      - Incentive 7
+      - Incentive 8
+      required: true
+    - id: 7
+      name: date_time_of_submission
+      label: Date/Time of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: manufacturing_process
+      label: Manufacturing Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_capacity
+      label: Production Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: green_practices
+      label: Green Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      required: false
+    - id: 11
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: upload_certificate
+      label: Upload Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_certificate
+      label: Uploaded Certificate
+      hint: null
+      type: text
+      options: []
+      required: false

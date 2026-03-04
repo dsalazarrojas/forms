@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_marketing_strategy_questionnaire
+    pages:
+    - id: 1
+      name: form_heading
+      label: form_heading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_channels
+      label: marketing_channels
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''channel'': ''print''}'
+      - '{''channel'': ''email''}'
+      - '{''channel'': ''social_media''}'
+      - '{''channel'': ''web''}'
+      required: true
+    - id: 3
+      name: target_audience
+      label: target_audience
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''target'': ''real_estate_agents''}'
+      - '{''target'': ''real_estate_companies''}'
+      - '{''target'': ''real_estate_clients''}'
+      required: true
+    - id: 4
+      name: preferred_language
+      label: preferred_language
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''language'': ''English''}'
+      - '{''language'': ''Spanish''}'
+      - '{''language'': ''Other''}'
+      required: true
+    - id: 5
+      name: communication_channels
+      label: communication_channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''channel'': ''email''}'
+      - '{''channel'': ''phone''}'
+      - '{''channel'': ''in_person''}'
+      - '{''channel'': ''web''}'
+      required: true
+    - id: 6
+      name: communication_frequency
+      label: communication_frequency
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''frequency'': ''weekly''}'
+      - '{''frequency'': ''biweekly''}'
+      - '{''frequency'': ''monthly''}'
+      - '{''frequency'': ''quarterly''}'
+      required: true
+    - id: 7
+      name: preferred_time
+      label: preferred_time
+      hint: Select a time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: preferred_date
+      label: preferred_date
+      hint: Select a date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: Enter any additional comments
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: Enter email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: Enter phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: real_estate_type
+      label: real_estate_type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''type'': ''residential''}'
+      - '{''type'': ''commercial''}'
+      - '{''type'': ''industrial''}'
+      - '{''type'': ''other''}'
+      required: true
+    - id: 14
+      name: real_estate_location
+      label: real_estate_location
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''location'': ''city''}'
+      - '{''location'': ''state''}'
+      - '{''location'': ''region''}'
+      - '{''location'': ''country''}'
+      required: true
+    - id: 15
+      name: form_heading_2
+      label: form_heading_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marketing_channels_2
+      label: marketing_channels_2
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''channel'': ''print''}'
+      - '{''channel'': ''email''}'
+      - '{''channel'': ''social_media''}'
+      - '{''channel'': ''web''}'
+      required: true
+    - id: 17
+      name: target_audience_2
+      label: target_audience_2
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''target'': ''real_estate_agents''}'
+      - '{''target'': ''real_estate_companies''}'
+      - '{''target'': ''real_estate_clients''}'
+      required: true
+    - id: 18
+      name: preferred_language_2
+      label: preferred_language_2
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''language'': ''English''}'
+      - '{''language'': ''Spanish''}'
+      - '{''language'': ''Other''}'
+      required: true
+    - id: 19
+      name: communication_channels_2
+      label: communication_channels_2
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - '{''channel'': ''email''}'
+      - '{''channel'': ''phone''}'
+      - '{''channel'': ''in_person''}'
+      - '{''channel'': ''web''}'
+      required: true
+    - id: 20
+      name: communication_frequency_2
+      label: communication_frequency_2
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''frequency'': ''weekly''}'
+      - '{''frequency'': ''biweekly''}'
+      - '{''frequency'': ''monthly''}'
+      - '{''frequency'': ''quarterly''}'
+      required: true
+    - id: 21
+      name: form_heading_3
+      label: form_heading_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: real_estate_marketing_strategy
+      label: real_estate_marketing_strategy
+      hint: Select all that apply
+      type: select_one
+      options:
+      - '{''strategy'': ''social_media''}'
+      - '{''strategy'': ''online_ads''}'
+      - '{''strategy'': ''print_media''}'
+      - '{''strategy'': ''offline_media''}'
+      required: true
+    - id: 23
+      name: real_estate_budget
+      label: real_estate_budget
+      hint: Enter budget
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: notes_2
+      label: notes_2
+      hint: Enter any additional comments
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: form_subheading
+      label: form_subheading
+      hint: null
+      type: text
+      options: []
+      required: false

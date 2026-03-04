@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Ambassador Program Template
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_location
+      label: -- Location and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Where you are located
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Country
+      hint: Your state or country
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: availability
+      label: Availability to Represent Brand
+      hint: Can you commit to program
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 month
+      - Within 2-3 months
+      - Within 6 months
+      - Flexible
+      required: true
+    - id: 10
+      name: section_header_influence
+      label: -- Influence and Reach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_platform
+      label: Primary Social Media Platform
+      hint: Main platform for promotion
+      type: select_one
+      options:
+      - Instagram
+      - YouTube
+      - TikTok
+      - Facebook
+      - Twitter
+      - LinkedIn
+      - Multiple platforms
+      required: true
+    - id: 12
+      name: follower_count
+      label: Follower Count
+      hint: Total followers on main platform
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: audience_demographics
+      label: Your Audience Demographics
+      hint: Age range and interests
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_header_experience
+      label: -- Experience and Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: brand_experience
+      label: Previous Brand Collaboration Experience
+      hint: Have you worked with brands before
+      type: select_one
+      options:
+      - Extensive experience
+      - Moderate experience
+      - Limited experience
+      - No experience
+      required: true
+    - id: 16
+      name: content_expertise
+      label: Content Creation Expertise
+      hint: What types of content you excel at
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_header_program
+      label: -- Program Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: program_awareness
+      label: How You Learned About Program
+      hint: Where you found this opportunity
+      type: select_one
+      options:
+      - Social media advertisement
+      - Word of mouth
+      - Brand website
+      - Influencer network
+      - Search engine
+      - Other
+      required: true
+    - id: 19
+      name: section_header_motivation
+      label: -- Motivation and Commitment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: why_join
+      label: Why You Want to Join Our Ambassador Program
+      hint: Your motivation and passion
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: application_submit
+      label: I submit this brand ambassador application
+      hint: Check to apply
+      type: select_one
+      options:
+      - Submit application
+      - Save and continue later
+      - Cancel
+      required: true

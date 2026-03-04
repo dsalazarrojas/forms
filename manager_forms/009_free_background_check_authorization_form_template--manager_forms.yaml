@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: free-background-check-authorization-form-template
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: background_check_authorization
+      label: Background Check Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Other
+      required: true
+    - id: 4
+      name: background_check_authorization_date
+      label: background-check-authorization-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: background_check_authorization_time
+      label: background-check-authorization-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: background_check_authorization_note
+      label: background-check-authorization-note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: user_consent
+      label: User Consent
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: true
+    - id: 8
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_updated
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

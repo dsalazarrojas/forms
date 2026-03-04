@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Antenna Maintenance Checklist
+    pages:
+    - id: 1
+      name: site_information
+      label: -- Site Information --
+      hint: Record site and equipment identifiers
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_id
+      label: Site id or name
+      hint: Enter the tower or location identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: technician_name
+      label: Technician name
+      hint: Person completing the checklist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection date
+      hint: Date of maintenance check
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: antenna_condition
+      label: Antenna physical condition
+      hint: Visual condition assessment
+      type: select_one
+      options:
+        - Good
+        - Minor wear
+        - Damaged
+        - Requires replacement
+      required: true
+    - id: 6
+      name: connectors_and_cables
+      label: Connectors and cables status
+      hint: Check for corrosion or loose connections
+      type: select_one
+      options:
+        - Good
+        - Repair needed
+        - Replace
+      required: true
+    - id: 7
+      name: grounding_status
+      label: Grounding and bonding status
+      hint: Confirm proper grounding per standards
+      type: select_one
+      options:
+        - Compliant
+        - Non compliant
+        - Not applicable
+      required: true
+    - id: 8
+      name: signal_test_results
+      label: Signal test results summary
+      hint: Include measured parameters or attach report
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_actions
+      label: Corrective actions required
+      hint: Describe repairs or parts needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow up date
+      hint: Schedule for repairs if needed
+      type: date
+      options: []
+      required: false

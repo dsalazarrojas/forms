@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Lift Retouch Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Full name of client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: procedure_date
+      label: Procedure date
+      hint: Scheduled date for retouch
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: previous_procedure_date
+      label: Previous procedure date
+      hint: Date of original lift
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: known_allergies
+      label: Known allergies
+      hint: Allergy information relevant to procedure
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_given
+      label: Consent given
+      hint: Client acknowledgement of risks and benefits
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for appointment confirmation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: aftercare_agreement
+      label: Aftercare agreement
+      hint: Client agrees to follow aftercare instructions
+      type: select_one
+      options:
+      - Agrees
+      - Does not agree
+      required: true
+    - id: 8
+      name: clinician_notes
+      label: Clinician notes
+      hint: For provider use only
+      type: text
+      options: []
+      required: false

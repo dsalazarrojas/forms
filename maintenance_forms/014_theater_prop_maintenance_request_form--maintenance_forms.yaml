@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Prop Maintenance Request Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: prop_id
+      label: Prop Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: problem_area
+      label: Problem Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Repair
+      - Maintenance
+      required: true
+    - id: 6
+      name: submitter_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: submitter_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 13
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitter_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Done
+      required: true

@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Refer A Friend Form
+    pages:
+    - id: 1
+      name: friend_name
+      label: friend_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_name
+      label: referrer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

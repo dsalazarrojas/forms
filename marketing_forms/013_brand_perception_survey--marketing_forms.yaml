@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Perception Survey
+    pages:
+      - id: 1
+        name: customer_status
+        label: Customer Status
+        hint: Are you a customer of this brand
+        type: select_one
+        options:
+          - Current Customer
+          - Former Customer
+          - Never Purchased
+        required: true
+      - id: 2
+        name: first_impression
+        label: First Impression
+        hint: What was your first impression of this brand
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: brand_descriptors
+        label: Brand Descriptors
+        hint: Select words that describe this brand
+        type: select_multiple
+        options:
+          - Innovative
+          - Traditional
+          - Luxurious
+          - Affordable
+          - Reliable
+          - Exciting
+          - Trustworthy
+          - Confusing
+          - Modern
+          - Outdated
+        required: true
+      - id: 4
+        name: quality_perception
+        label: Quality Perception
+        hint: How do you perceive the quality
+        type: select_one
+        options:
+          - Very High Quality
+          - High Quality
+          - Average Quality
+          - Below Average
+          - Low Quality
+        required: true
+      - id: 5
+        name: price_perception
+        label: Price Perception
+        hint: How do you perceive the pricing
+        type: select_one
+        options:
+          - Very Expensive
+          - Somewhat Expensive
+          - Fairly Priced
+          - Good Value
+          - Very Affordable
+        required: true
+      - id: 6
+        name: customer_service_experience
+        label: Customer Service Experience
+        hint: Rate your customer service experience
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - No Experience
+        required: true
+      - id: 7
+        name: brand_uniqueness
+        label: Brand Uniqueness
+        hint: How unique is this brand compared to others
+        type: select_one
+        options:
+          - Very Unique
+          - Somewhat Unique
+          - Average
+          - Not Very Unique
+          - Not Unique at All
+        required: true
+      - id: 8
+        name: emotional_connection
+        label: Emotional Connection
+        hint: Do you feel emotionally connected to this brand
+        type: select_one
+        options:
+          - Strong Connection
+          - Some Connection
+          - Neutral
+          - Little Connection
+          - No Connection
+        required: true
+      - id: 9
+        name: social_status
+        label: Social Status
+        hint: Does using this brand enhance your social image
+        type: select_one
+        options:
+          - Significantly Enhances
+          - Somewhat Enhances
+          - No Effect
+          - Somewhat Negative
+          - Very Negative
+        required: true
+      - id: 10
+        name: loyalty_level
+        label: Loyalty Level
+        hint: How loyal are you to this brand
+        type: select_one
+        options:
+          - Very Loyal
+          - Somewhat Loyal
+          - Neutral
+          - Not Very Loyal
+          - Not Loyal at All
+        required: true
+      - id: 11
+        name: repurchase_intention
+        label: Repurchase Intention
+        hint: Will you purchase from this brand again
+        type: select_one
+        options:
+          - Definitely Will
+          - Probably Will
+          - Might or Might Not
+          - Probably Will Not
+          - Definitely Will Not
+        required: true
+      - id: 12
+        name: recommend_to_others
+        label: Recommend to Others
+        hint: Would you recommend this brand
+        type: select_one
+        options:
+          - Definitely Would
+          - Probably Would
+          - Might or Might Not
+          - Probably Would Not
+          - Definitely Would Not
+        required: true
+      - id: 13
+        name: brand_strengths
+        label: Brand Strengths
+        hint: What does this brand do well
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: brand_weaknesses
+        label: Brand Weaknesses
+        hint: What could this brand improve
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: overall_opinion
+        label: Overall Opinion
+        hint: Summarize your overall opinion of this brand
+        type: text
+        options: []
+        required: true

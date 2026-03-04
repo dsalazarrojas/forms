@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Satisfaction Survey
+    pages:
+    - id: 1
+      name: it_satisfaction_survey_page_1
+      label: what_is_your_general_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Somewhat Dissatisfied
+      - 3 - Neutral
+      - 4 - Somewhat Satisfied
+      - 5 - Very Satisfied
+      required: false
+    - id: 3
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: resolution
+      label: how_would_you_rate_our_resolution_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: it_support_team
+      label: it_support_team
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Somewhat Good
+      - Somewhat Good
+      - Good
+      - Very Good
+      required: false
+    - id: 7
+      name: it_satisfaction_score
+      label: it_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

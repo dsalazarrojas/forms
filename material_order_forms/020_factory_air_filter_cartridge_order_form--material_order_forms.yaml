@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Air Filter Cartridge Order Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Credit Card''}'
+      - '{''id'': 2, ''label'': ''Bank Transfer''}'
+      - '{''id'': 3, ''label'': ''PayPal''}'
+      required: true
+    - id: 8
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: product_type
+      label: Product Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: customer_reference
+      label: Customer Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: salesperson
+      label: Salesperson
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_po
+      label: Customer PO
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_date_time
+      label: Order Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: order_submitted_by
+      label: Order Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: true
+    - id: 23
+      name: sales_region
+      label: Sales Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sales_area
+      label: Sales Area
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Load Testing Report Form
+    pages:
+    - id: 1
+      name: equipment_load_testing_report_form
+      label: Equipment Load Testing Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_name
+      label: equipment-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_date
+      label: test-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_time
+      label: test-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: test_duration
+      label: test-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: test_location
+      label: test-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_jim
+      required: false
+    - id: 9
+      name: test_result
+      label: test-result
+      hint: null
+      type: select_multiple
+      options:
+      - passed
+      - failed
+      - pending
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission-date
+      hint: null
+      type: date
+      options: []
+      required: false

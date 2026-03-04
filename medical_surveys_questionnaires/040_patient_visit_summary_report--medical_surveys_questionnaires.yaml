@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Visit Summary Report
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - New Patient
+      - Returning Patient
+      required: false
+    - id: 5
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_comments
+      label: Provider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: insurance
+      label: Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Credit
+      - Insurance
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Not Paid
+      required: false
+    - id: 16
+      name: visit_location
+      label: Visit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 18
+      name: visit_status
+      label: Visit Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Scheduled
+      - Cancelled
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 21
+      name: visit_date_of_last_checkup
+      label: Visit Date of Last Checkup
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: visit_date_of_last_visit
+      label: Visit Date of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: next_visit_date
+      label: Next Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: last_visit_date
+      label: Last Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Never
+      required: false
+    - id: 26
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false

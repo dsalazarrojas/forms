@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complementary Medicine Treatment Consent
+    pages:
+    - id: 1
+      name: clinic_name
+      label: Clinic or Practice Name
+      hint: Name of facility
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: practitioner_name
+      label: Practitioner Name
+      hint: Name of treating practitioner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: practitioner_credentials
+      label: Practitioner Credentials
+      hint: Qualifications and licenses
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name of patient
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_email
+      label: Patient Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: patient_phone
+      label: Patient Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_address
+      label: Patient Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to patient
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 12
+      name: treatment_type
+      label: Type of Treatment
+      hint: What treatment is proposed
+      type: select_one
+      options:
+      - Acupuncture
+      - Chiropractic care
+      - Massage therapy
+      - Herbal medicine
+      - Naturopathy
+      - Homeopathy
+      - Energy healing
+      - Aromatherapy
+      - Other complementary therapy
+      required: true
+    - id: 13
+      name: treatment_description
+      label: Treatment Description
+      hint: Description of proposed treatment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: treatment_purpose
+      label: Purpose of Treatment
+      hint: What condition is being treated
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: treatment_duration
+      label: Expected Treatment Duration
+      hint: How long will treatment last
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: treatment_frequency
+      label: Treatment Frequency
+      hint: How often will treatment occur
+      type: select_one
+      options:
+      - One-time session
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      - Other
+      required: true
+    - id: 17
+      name: benefits_explained
+      label: Benefits Have Been Explained
+      hint: Do you understand potential benefits
+      type: select_one
+      options:
+      - Yes - fully explained
+      - Yes - partially explained
+      - No - need more information
+      required: true
+    - id: 18
+      name: risks_explained
+      label: Risks Have Been Explained
+      hint: Do you understand potential risks
+      type: select_one
+      options:
+      - Yes - fully explained
+      - Yes - partially explained
+      - No - need more information
+      required: true
+    - id: 19
+      name: alternatives_explained
+      label: Alternatives Have Been Explained
+      hint: Do you understand other options
+      type: select_one
+      options:
+      - Yes - fully explained
+      - Yes - partially explained
+      - No - need more information
+      required: true
+    - id: 20
+      name: potential_benefits
+      label: Potential Benefits
+      hint: What benefits are expected
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: potential_risks
+      label: Potential Risks
+      hint: What risks are possible
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Any health conditions
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: Any allergies
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: pregnant_or_nursing
+      label: Are you pregnant or nursing
+      hint: If applicable
+      type: select_one
+      options:
+      - Yes - pregnant
+      - Yes - nursing
+      - false
+      - Not applicable
+      required: true
+    - id: 26
+      name: conventional_treatment
+      label: Are you receiving conventional treatment
+      hint: Other medical care
+      type: select_one
+      options:
+      - Yes - currently
+      - Yes - in the past
+      - No - never
+      - Prefer not to say
+      required: true
+    - id: 27
+      name: provider_communication
+      label: May we contact your healthcare provider
+      hint: For coordination of care
+      type: select_one
+      options:
+      - Yes - please contact
+      - Yes - with my permission each time
+      - No - do not contact
+      required: true
+    - id: 28
+      name: treatment_consent
+      label: I consent to the proposed treatment
+      hint: Agreement to proceed
+      type: select_one
+      options:
+      - Yes I consent
+      - No I do not consent
+      required: true
+    - id: 29
+      name: withdrawal_rights
+      label: I understand I can withdraw consent
+      hint: Right to stop treatment
+      type: select_one
+      options:
+      - Yes I understand
+      - No I need clarification
+      required: true
+    - id: 30
+      name: financial_responsibility
+      label: I accept financial responsibility
+      hint: Payment agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 31
+      name: privacy_policy
+      label: I have read the privacy policy
+      hint: HIPAA and privacy agreement
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 32
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: witness_name
+      label: Witness Name
+      hint: Name of witness
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness types name
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: guardian_signature
+      label: Guardian Signature
+      hint: If patient is minor
+      type: text
+      options: []
+      required: false

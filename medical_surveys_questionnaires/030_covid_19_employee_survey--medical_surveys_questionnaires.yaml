@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Employee Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_header_1
+      label: -- Work and Safety Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: workplace_safety
+      label: How safe do you feel in the workplace?
+      hint: null
+      type: select_one
+      options:
+      - Very safe
+      - Safe
+      - Somewhat safe
+      - Not safe
+      required: true
+    - id: 7
+      name: safety_concerns
+      label: Main workplace safety concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Insufficient PPE
+      - Poor ventilation
+      - Overcrowding
+      - Lack of social distancing
+      - Inadequate cleaning
+      - Lack of testing
+      - Other
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Health and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: personal_impact
+      label: How has COVID-19 impacted you personally?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: work_ability
+      label: Ability to perform job duties
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      required: true
+    - id: 11
+      name: work_arrangement
+      label: Work arrangement preference
+      hint: null
+      type: select_one
+      options:
+      - On-site only
+      - Remote only
+      - Hybrid
+      - Flexible arrangement
+      required: true
+    - id: 12
+      name: section_header_3
+      label: -- Mental Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: stress_level
+      label: Current stress level
+      hint: null
+      type: select_one
+      options:
+      - Not stressed
+      - Mildly stressed
+      - Moderately stressed
+      - Highly stressed
+      - Extremely stressed
+      required: true
+    - id: 14
+      name: mental_health_support
+      label: Need mental health support
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Company Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: company_measures_awareness
+      label: Aware of company COVID-19 measures
+      hint: null
+      type: select_one
+      options:
+      - Very aware
+      - Aware
+      - Somewhat aware
+      - Not aware
+      required: true
+    - id: 17
+      name: measure_effectiveness
+      label: Effectiveness of company measures
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Ineffective
+      required: true
+    - id: 18
+      name: improvement_suggestions
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Vaccination and Testing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated without booster
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
+      required: true
+    - id: 21
+      name: testing_access
+      label: Access to COVID-19 testing
+      hint: null
+      type: select_one
+      options:
+      - Easy access
+      - Accessible
+      - Difficult
+      - No access
+      required: true
+    - id: 22
+      name: section_header_6
+      label: -- Overall Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: company_support_rating
+      label: Rate company support during pandemic
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_for_followup
+      label: May we contact you for follow-up?
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true

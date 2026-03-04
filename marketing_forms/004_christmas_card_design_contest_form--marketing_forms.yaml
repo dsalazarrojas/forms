@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Card Design Contest Form
+    pages:
+    - id: 1
+      name: section_artist_information
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist name
+      hint: Full name of submitter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for contest updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional for quick contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: design_title
+      label: Design title
+      hint: Short descriptive title for entry
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medium_used
+      label: Medium used
+      hint: Techniques or materials used
+      type: select_one
+      options:
+      - Digital
+      - Watercolor
+      - Acrylic or oil
+      - Pen and ink
+      - Mixed media
+      required: true
+    - id: 7
+      name: upload_link
+      label: Upload link or image URL
+      hint: Provide a public link to your entry
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: age_group
+      label: Age group
+      hint: For category assignment
+      type: select_one
+      options:
+      - Youth under 18
+      - Adult 18-35
+      - Adult 36 and above
+      required: true
+    - id: 9
+      name: agreement_terms
+      label: Agreement to contest rules
+      hint: Confirm you accept the contest terms
+      type: select_one
+      options:
+      - I agree to the rules
+      - Other
+      required: true
+    - id: 10
+      name: artist_statement
+      label: Artist statement
+      hint: Optional brief description of your design
+      type: text
+      options: []
+      required: false

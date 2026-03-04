@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 2021 Registration Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to send updates and receipts
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the U.S.
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: 'Format: MM/DD/YYYY'
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Optional
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Street, City, State ZIP
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_contact
+      label: '--- Emergency Contact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Full name of the person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if outside the U.S.
+      type: phone
+      options: []
+      required: false
+    - id: 11
+      name: section_header_dance_experience
+      label: '--- Dance Experience ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: experience_level
+      label: Experience level
+      hint: Select your current skill level
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 13
+      name: preferred_style
+      label: Preferred dance style
+      hint: Choose the style you are most interested in
+      type: select_one
+      options:
+      - Ballet
+      - Hip-Hop
+      - Contemporary
+      - Jazz
+      - Tap
+      - Ballroom
+      required: false
+    - id: 14
+      name: previous_classes
+      label: Number of dance classes attended
+      hint: Total classes completed in the past 12 months
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: section_header_marketing
+      label: '--- Marketing & Promotion ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: how_heard
+      label: How did you hear about us?
+      hint: Select one
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - Flyer/Poster
+      - Other
+      required: false
+    - id: 17
+      name: social_media_follow
+      label: Which social media platforms do you follow us on? (select all that apply)
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - TikTok
+      - YouTube
+      - Other
+      required: false
+    - id: 18
+      name: section_header_additional
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: e.g., dietary restrictions, accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other info you'd like us to know
+      type: text
+      options: []
+      required: false

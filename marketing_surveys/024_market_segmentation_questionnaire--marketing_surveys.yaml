@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_segmentation_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: what_did_you_like_about_the_experience
+      label: what_did_you_like_about_the_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: why_did_you_choose_to_visit
+      label: Why_did_you_choose_to_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_did_you_do_before_visiting
+      label: what_did_you_do_before_visiting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: what_did_you_do_during_visit
+      label: what_did_you_do_during_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: what_did_you_do_after_visiting
+      label: what_did_you_do_after_visiting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: what_did_you_like
+      label: what_did_you_like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: what_did_you_dislike
+      label: what_did_you_dislike
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: what_did_you_expect
+      label: what_did_you_expect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: how_satisfied_are_you
+      label: how_satisfied_are_you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_hear
+      label: how_did_you_hear
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''friend''}'
+      - '{''value'': ''social_media''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''online_search''}'
+      - '{''value'': ''offline_event''}'
+      - '{''value'': ''referral''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 14
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''male''}'
+      - '{''value'': ''female''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 15
+      name: other_info
+      label: other_info
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: visit_frequency
+      label: visit_frequency
+      hint: null
+      type: text
+      options: []
+      required: false

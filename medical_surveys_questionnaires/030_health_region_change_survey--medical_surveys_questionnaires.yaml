@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Region Change Survey
+    pages:
+    - id: 1
+      name: region_transfered
+      label: What region have you moved to?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction_with_region_transfer
+      label: How would you rate your satisfaction with the region transfer?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_with_previous_region
+      label: How would you rate your satisfaction with the previous region?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_region_transfer
+      label: Why did you transfer to this region?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expected_outcome
+      label: What was your expected outcome of this region transfer?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: actual_outcome
+      label: What was your actual outcome of this region transfer?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: improvement_opportunities
+      label: What improvement opportunities do you see for the region transfer process?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Do you have any additional comments about your region transfer experience?
+      hint: null
+      type: text
+      options: []
+      required: false

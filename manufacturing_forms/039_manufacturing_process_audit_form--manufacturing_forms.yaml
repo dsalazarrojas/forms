@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Process Audit Form
+    pages:
+    - id: 1
+      name: production_process
+      label: production_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_frequency
+      label: inspection_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''daily'', ''label'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      required: false
+    - id: 3
+      name: production_capacity
+      label: production_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: production_capacity_value
+      label: production_capacity_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inspection_item
+      label: inspection_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspection_item_value
+      label: inspection_item_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspection_frequency_value
+      label: inspection_frequency_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_process_description
+      label: production_process_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: critical_control_points
+      label: critical_control_points
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''critical_control_points'', ''label'': ''Critical
+        Control Points 1''}'
+      - '{''id'': 2, ''name'': ''critical_control_points'', ''label'': ''Critical
+        Control Points 2''}'
+      required: false
+    - id: 10
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''corrective_action'', ''label'': ''Corrective Action
+        1''}'
+      - '{''id'': 2, ''name'': ''corrective_action'', ''label'': ''Corrective Action
+        2''}'
+      - '{''id'': 3, ''name'': ''corrective_action'', ''label'': ''Corrective Action
+        3''}'
+      required: false

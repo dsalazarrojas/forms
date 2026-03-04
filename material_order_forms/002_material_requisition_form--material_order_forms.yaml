@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Requisition Form
+    pages:
+    - id: 1
+      name: material_requisition_form
+      label: material_requisition_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: order_number_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: equipment_requested
+      label: equipment_requested_label
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      - Equipment 4
+      required: false
+    - id: 5
+      name: quantity_requested
+      label: quantity_requested_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supplier
+      label: supplier_label
+      hint: null
+      type: select_one
+      options:
+      - Supplier 1
+      - Supplier 2
+      - Supplier 3
+      - Supplier 4
+      required: false
+    - id: 7
+      name: comments
+      label: comments_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fax
+      label: fax_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requisitioned_by
+      label: requisitioned_by_label
+      hint: null
+      type: select_one
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      - Employee 4
+      required: false

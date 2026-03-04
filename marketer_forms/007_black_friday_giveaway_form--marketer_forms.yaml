@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Giveaway Form
+    pages:
+    - id: 1
+      name: giveaway_intro
+      label: Black Friday Giveaway Entry
+      hint: Enter for a chance to win amazing Black Friday prizes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will contact winners here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: For winner notification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 18 or older to enter
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address_line_1
+      label: Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address_line_2
+      label: Address Line 2
+      hint: Apartment or suite number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: prize_preference
+      label: Prize Preference
+      hint: Which prize would you like to win
+      type: select_one
+      options:
+      - Grand Prize - $1000 Gift Card
+      - Electronics Bundle
+      - Fashion Package
+      - Home Goods Set
+      - Beauty Box
+      - Surprise Mystery Box
+      required: true
+    - id: 13
+      name: follow_social_media
+      label: Follow Us on Social Media
+      hint: Do you follow our accounts
+      type: select_one
+      options:
+      - Yes on All Platforms
+      - Yes on Some Platforms
+      - Not Yet But I Will
+      - false
+      required: false
+    - id: 14
+      name: share_with_friends
+      label: Shared with Friends
+      hint: Did you share this giveaway
+      type: select_one
+      options:
+      - Yes Shared
+      - Not Yet
+      - Will Share Soon
+      required: false
+    - id: 15
+      name: newsletter_signup
+      label: Join Newsletter
+      hint: Get updates on future giveaways
+      type: select_one
+      options:
+      - Yes Sign Me Up
+      - No Thanks
+      required: true
+    - id: 16
+      name: how_did_you_hear
+      label: How Did You Hear About This Giveaway
+      hint: Source of information
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - Email
+      - Friend Referral
+      - Website
+      - Other
+      required: false
+    - id: 17
+      name: terms_agreement
+      label: Terms and Conditions
+      hint: I agree to official rules and eligibility requirements
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 18
+      name: additional_entries
+      label: Additional Entry Notes
+      hint: Any bonus entry codes or notes
+      type: text
+      options: []
+      required: false

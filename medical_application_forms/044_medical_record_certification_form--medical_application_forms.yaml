@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Record Certification Form
+    pages:
+    - id: 1
+      name: medical_record_certification_form_first_page_first_field
+      label: field_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_certification_form_first_page_second_field
+      label: second_field
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_certification_form_first_page_third_field
+      label: third_field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_record_certification_form_second_page_first_field
+      label: field_4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_record_certification_form_second_page_second_field
+      label: fifth_field
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: medical_record_certification_form_second_page_third_field
+      label: sixth_field
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

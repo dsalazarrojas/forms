@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Optimization Roadmap Request Form
+    pages:
+    - id: 1
+      name: operation_team
+      label: operation_team
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - Team
+      required: false
+    - id: 2
+      name: goal
+      label: goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: process
+      label: process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: consultant
+      label: consultant
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: false
+    - id: 7
+      name: consultant_name
+      label: consultant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consultant_email
+      label: consultant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: consultant_phone
+      label: consultant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raw Material Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: material_id
+      label: material_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: supplier_id
+      label: supplier_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: material_notes
+      label: Material Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false

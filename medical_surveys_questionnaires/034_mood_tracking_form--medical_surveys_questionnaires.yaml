@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mood Tracking Form
+    pages:
+    - id: 1
+      name: mood
+      label: Mood
+      hint: null
+      type: select_multiple
+      options:
+      - Very Sad
+      - Somewhat Sad
+      - Neither Sad nor Happy
+      - Somewhat Happy
+      - Very Happy
+      required: false
+    - id: 2
+      name: energy_level
+      label: Energy Level
+      hint: null
+      type: select_one
+      options:
+      - Extremely Low
+      - Low
+      - Neutral
+      - High
+      - Extremely High
+      required: false
+    - id: 3
+      name: motivation_level
+      label: Motivation Level
+      hint: null
+      type: select_one
+      options:
+      - Extremely Low
+      - Low
+      - Neutral
+      - High
+      - Extremely High
+      required: false
+    - id: 4
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: select_one
+      options:
+      - Extremely High
+      - High
+      - Moderate
+      - Low
+      - Extremely Low
+      required: false
+    - id: 5
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: appetite
+      label: Appetite
+      hint: null
+      type: select_one
+      options:
+      - Not Hungry
+      - A Little Hungry
+      - Hungry
+      - Very Hungry
+      required: false
+    - id: 7
+      name: social_interaction
+      label: Social Interaction
+      hint: null
+      type: select_multiple
+      options:
+      - Not at all
+      - A little
+      - Some
+      - Almost Every Day
+      - Every Day
+      required: false
+    - id: 8
+      name: mood_tracker_note
+      label: Mood Tracker Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter patient's email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter patient's phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr Smith
+      - Dr Johnson
+      - Dr Wilson
+      required: false
+    - id: 16
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Friend
+      - Other
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: Enter emergency contact's email address
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: medical_history_note
+      label: Medical History Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: mood_tracker_form_id
+      label: Mood Tracker Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false

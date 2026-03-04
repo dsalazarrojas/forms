@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsorship Collaboration Inquiry Form
+    pages:
+    - id: 1
+      name: sponsorship_collaboration_inquiry_form
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sponsorship_collaboration_inquiry_form_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsorship_collaboration_inquiry_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: sponsorship_collaboration_inquiry_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sponsorship_collaboration_inquiry_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sponsorship_collaboration_inquiry_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing Forms
+      - Other
+      required: true
+    - id: 7
+      name: sponsorship_collaboration_inquiry_form_tags
+      label: Tags
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sponsorship_collaboration_inquiry_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

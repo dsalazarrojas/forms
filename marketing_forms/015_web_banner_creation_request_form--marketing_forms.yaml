@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Banner Creation Request Form
+    pages:
+    - id: 1
+      name: web_banner_creation_request_form
+      label: Web Banner Creation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: banner_description
+      label: Banner Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: web_designer
+      label: Web Designer
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''value'': ''Option 1''}'
+      - '{''name'': ''option2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 4
+      name: web_designer_email
+      label: Web Designer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: web_designer_phone
+      label: Web Designer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: web_banner_image
+      label: Web Banner Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: banner_due_date
+      label: Banner Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: banner_due_time
+      label: Banner Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: web_designer_note
+      label: Web Designer Note
+      hint: null
+      type: text
+      options: []
+      required: false

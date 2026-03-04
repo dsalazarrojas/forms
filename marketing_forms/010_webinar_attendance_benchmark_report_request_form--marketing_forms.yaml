@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Attendance Benchmark Report Request Form
+    pages:
+    - id: 1
+      name: webinar_attendance_benchmark_report_request_form_page_1
+      label: Webinar attendance benchmark report request form page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: webinar_attendance_benchmark_report_request_form_page_2
+      label: Request benchmark report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: webinar_attendance_benchmark_report_request_form_page_2
+      label: Benchmark report details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: webinar_attendance_benchmark_report_request_form_page_3
+      label: Virtual events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: webinar_attendance_benchmark_report_request_form_page_4
+      label: Education events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: webinar_attendance_benchmark_report_request_form_page_5
+      label: Marketing events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: webinar_attendance_benchmark_report_request_form_page_6
+      label: Benchmark report request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: webinar_attendance_benchmark_report_request_form_page_7
+      label: Date and time of the webinar
+      hint: null
+      type: date
+      options: []
+      required: false

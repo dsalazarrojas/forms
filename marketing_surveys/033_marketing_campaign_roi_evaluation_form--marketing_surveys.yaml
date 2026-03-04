@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign ROI Evaluation Form
+    pages:
+    - id: 1
+      name: form_intro
+      label: Marketing Campaign ROI Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Campaign Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: objective
+      label: Objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campaign_duration
+      label: Campaign Duration
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: campaign_budget
+      label: Campaign Budget
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: campaign_channels
+      label: Campaign Channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: campaign_strategy
+      label: Campaign Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: campaign_performance
+      label: Campaign Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: roi
+      label: ROI
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: roi_calculation_method
+      label: ROI Calculation Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Social Media
+      required: false
+    - id: 13
+      name: marketing_channels_2
+      label: Marketing Channels 2
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - SMS
+      - Print
+      required: false
+    - id: 14
+      name: target_audience_2
+      label: Target Audience 2
+      hint: null
+      type: select_one
+      options:
+      - Young Adults
+      - Seniors
+      - Adults
+      required: false
+    - id: 15
+      name: campaign_channels_2
+      label: Campaign Channels 2
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 16
+      name: campaign_strategy_2
+      label: Campaign Strategy 2
+      hint: null
+      type: select_one
+      options:
+      - ROI
+      - Cost
+      - Revenue
+      required: false

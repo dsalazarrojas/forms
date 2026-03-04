@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Medication Information Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: medication_name
+      label: Medication Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medication_dosage
+      label: Medication Dosage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: prescriber_name
+      label: Prescriber Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: prescriber_info
+      label: Prescriber Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: prescriber_relationship
+      label: Prescriber Relationship
+      hint: null
+      type: select_one
+      options:
+      - Primary Care Physician
+      - Secondary Care Physician
+      - Tertiary Care Physician
+      required: true
+    - id: 11
+      name: prescriber_phone
+      label: Prescriber Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 14
+      name: medication_frequency
+      label: Medication Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: prescriber_address
+      label: Prescriber Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medication_route
+      label: Medication Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medication_dosage_form
+      label: Medication Dosage Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medication_strength
+      label: Medication Strength
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medication_route_duration
+      label: Medication Route Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medication_frequency_unit
+      label: Medication Frequency Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_dose
+      label: Medication Dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medication_frequency_unit_2
+      label: Medication Frequency Unit 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medication_instructions
+      label: Medication Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 26
+      name: prescriber_signature
+      label: Prescriber Signature
+      hint: null
+      type: note
+      options: []
+      required: true

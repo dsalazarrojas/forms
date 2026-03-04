@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: lab_test_referral_form
+    pages:
+    - id: 1
+      name: lab_test_referral
+      label: lab test referral
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: patient age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: test_requested
+      label: test requested
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 5
+      name: test_date
+      label: test date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: test_time
+      label: test time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider
+      label: medical provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: test_type
+      label: test type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 9
+      name: test_location
+      label: test location
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: medical_surveys_questionnaire
+      label: Research Surveys And Questionnaires
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_health_forms
+      label: Student Health Forms
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 3
+      name: ageing_and_physical_inactivity
+      label: Ageing And Physical Inactivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ageing_and_physical_inactivity_among_leaders
+      label: Ageing And Physical Inactivity Among Leaders
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: ageing
+      label: Ageing
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: inactivity
+      label: Inactivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: research_questionnaire
+      label: Research Questionnaire
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 8
+      name: research_questionnaire_description
+      label: Research Questionnaire Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ageing_among_leaders
+      label: Ageing Among Leaders
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false

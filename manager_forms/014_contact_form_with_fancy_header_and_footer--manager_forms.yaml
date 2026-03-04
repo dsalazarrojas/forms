@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Fancy Header And Footer
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact Us --
+      hint: Use this form to submit a message to management
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Full name for correspondence
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Provide an email for responses
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: Website
+      hint: Your company website if relevant
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department should receive this
+      type: select_one
+      options:
+      - Sales
+      - Operations
+      - HR
+      - Marketing
+      - Other
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: Provide details for management review
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: urgency
+      label: Urgency level
+      hint: Select urgent if immediate attention is required
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - Critical
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information management should know
+      type: text
+      options: []
+      required: false

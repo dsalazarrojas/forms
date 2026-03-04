@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_awareness_material_request_form
+    pages:
+    - id: 1
+      name: brochure_request
+      label: Brochure Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: poster_request
+      label: Poster Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: digital_asset_request
+      label: Digital Asset Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: brochure_format
+      label: Brochure Format
+      hint: null
+      type: select_one
+      options:
+      - Poster
+      - Brochure
+      - Digital
+      required: true
+    - id: 7
+      name: poster_size
+      label: Poster Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: request_priority
+      label: Request Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_multiple
+      options:
+      - Brochure
+      - Poster
+      - Digital
+      required: true
+    - id: 10
+      name: request_prophet
+      label: Request Prophet
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Mary
+      - David
+      required: true
+    - id: 11
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: true

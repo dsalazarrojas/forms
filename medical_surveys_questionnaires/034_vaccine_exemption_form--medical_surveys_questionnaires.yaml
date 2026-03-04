@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vaccine Exemption Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason_for_exemption
+      label: reason_for_exemption
+      hint: Please provide the reason for the exemption
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: doctor_signoff
+      label: Doctor Signoff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: doctor_license
+      label: Doctor License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: birth_date
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: vaccine_name
+      label: Vaccine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: exemption_date
+      label: Exemption Date
+      hint: null
+      type: date
+      options: []
+      required: true

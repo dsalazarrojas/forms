@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Planning Matrix Form
+    pages:
+    - id: 1
+      name: departments
+      label: departments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staffing_priorities
+      label: staffingpriorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: next_steps
+      label: nextsteps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: document
+      label: document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: needs
+      label: needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_step
+      label: nextstep
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: needs_department
+      label: needsdepartment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: needs_priorities
+      label: needspriorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: next_steps_department
+      label: nextstepsdepartment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: priorities
+      label: priorities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

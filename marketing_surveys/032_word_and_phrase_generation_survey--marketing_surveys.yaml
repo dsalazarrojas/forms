@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Word And Phrase Generation Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Welcome to the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: word_generation
+      label: What type of word generation would you like to learn?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 3
+      name: preference_scale
+      label: How do you prefer words to be generated?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 4
+      name: phrase_length
+      label: How many words would you like to generate?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-10''}'
+      - '{''label'': ''11-20''}'
+      - '{''label'': ''21-50''}'
+      - '{''label'': ''51-100''}'
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: language
+      label: What is your preferred language to use in the word generation?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''Mandarin''}'
+      required: false
+    - id: 7
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_role
+      label: What is your job role?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Manager''}'
+      - '{''label'': ''Developer''}'
+      - '{''label'': ''Customer Service Representative''}'
+      required: false
+    - id: 10
+      name: company_size
+      label: What is the company size?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 10''}'
+      - '{''label'': ''10-50''}'
+      - '{''label'': ''50-200''}'
+      - '{''label'': ''200 or more''}'
+      required: false
+    - id: 11
+      name: job_type
+      label: What kind of work do you do?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Management''}'
+      - '{''label'': ''Development''}'
+      - '{''label'': ''Customer Service''}'
+      - '{''label'': ''Marketing''}'
+      required: false
+    - id: 12
+      name: work_location
+      label: Where do you work?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Office''}'
+      - '{''label'': ''Home''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 13
+      name: industry
+      label: What is your industry?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Healthcare''}'
+      - '{''label'': ''Finance''}'
+      - '{''label'': ''Marketing''}'
+      required: false
+    - id: 14
+      name: years_in_industry
+      label: How many years do you have in your industry?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: SARC F Sarcopenia Screening Questionnaire
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_1_1
+      label: Have you experienced any of the following symptoms recently?
+      hint: null
+      type: select_one
+      options:
+      - Fatigue
+      - Muscle weakness
+      - Difficulty swallowing
+      - Difficulty walking
+      - Dizziness or drowsiness
+      - Difficulty speaking
+      - Memory loss
+      - Sleep disturbances
+      - Decreased appetite
+      - Poor concentration
+      - Difficulty with daily activities
+      required: true
+    - id: 4
+      name: question_1_2
+      label: Fatigue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_1_3
+      label: Muscle weakness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_1_4
+      label: Difficulty swallowing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: question_1_5
+      label: Difficulty walking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_1_6
+      label: Dizziness or drowsiness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: question_1_7
+      label: Difficulty speaking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_1_8
+      label: Memory loss
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: question_1_9
+      label: Sleep disturbances
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: question_1_10
+      label: Decreased appetite
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: question_1_11
+      label: Poor concentration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: question_1_12
+      label: Difficulty with daily activities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: page_2
+      label: Additional Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question_2_1
+      label: What is your current level of physical activity?
+      hint: null
+      type: select_one
+      options:
+      - Very active
+      - Moderately active
+      - Less active
+      - Unable to perform activities
+      required: true
+    - id: 17
+      name: question_2_2
+      label: What is the best time to contact you?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: question_2_3
+      label: Do you experience difficulty with any of the following?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: question_2_4
+      label: Fatigue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: question_2_4
+      label: Muscle weakness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: question_2_5
+      label: Difficulty swallowing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: question_2_6
+      label: Difficulty walking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: question_2_7
+      label: Dizziness or drowsiness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: question_2_8
+      label: Difficulty speaking
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: page_3
+      label: Summary
+      hint: Please enter a brief summary of your screening responses.
+      type: text
+      options: []
+      required: false

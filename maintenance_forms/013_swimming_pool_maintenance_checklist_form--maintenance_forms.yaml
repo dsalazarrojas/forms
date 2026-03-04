@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: swimming_pool_maintenance_checklist_form
+    pages:
+    - id: 1
+      name: maintenance_tasks
+      label: Maintenance Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: water_testing
+      label: Water Testing
+      hint: Check the pH and chlorine levels
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: skimmer_cleaning
+      label: Skimmer Cleaning
+      hint: Clean the skimmer basket and ensure it is free of debris
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pump_maintenance
+      label: Pump Maintenance
+      hint: Check and clean the pool pump
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tile_cleaning
+      label: Tile Cleaning
+      hint: Clean the pool tile to prevent staining
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: chemical_levels
+      label: Chemical Levels
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: true
+    - id: 7
+      name: pool_water_temp
+      label: Pool Water Temp
+      hint: Check the pool water temperature
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: pool_depth
+      label: Pool Depth
+      hint: Check the pool depth
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pool_surface_area
+      label: Pool Surface Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pool_location
+      label: Pool Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: Select the user assigned to the pool maintenance task
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''chatjimmy2''}'
+      required: true
+    - id: 12
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: true

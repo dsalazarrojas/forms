@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_content_request_form
+    pages:
+    - id: 1
+      name: social_media_channel
+      label: social_media_channel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_media_post
+      label: social_media_post
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: content_type
+      label: content_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: content_details
+      label: content_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Public''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Twitter''}'
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''LinkedIn''}'
+      - '{''label'': ''YouTube''}'
+      - '{''label'': ''Pinterest''}'
+      - '{''label'': ''TikTok''}'
+      - '{''label'': ''Snapchat''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: content_requester
+      label: content_requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Text Message''}'
+      required: true
+    - id: 8
+      name: social_media_post_type
+      label: social_media_post_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Photo''}'
+      - '{''label'': ''Video''}'
+      - '{''label'': ''Story''}'
+      - '{''label'': ''Reel''}'
+      - '{''label'': ''Live''}'
+      - '{''label'': ''Carousel''}'
+      required: false
+    - id: 9
+      name: preferred_post_time
+      label: preferred_post_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: priority
+      label: priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: content_requestor_email
+      label: content_requestor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: content_requestor_phone
+      label: content_requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: content_requestor_comments
+      label: content_requestor_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: content_requestor_department
+      label: content_requestor_department
+      hint: null
+      type: text
+      options: []
+      required: true

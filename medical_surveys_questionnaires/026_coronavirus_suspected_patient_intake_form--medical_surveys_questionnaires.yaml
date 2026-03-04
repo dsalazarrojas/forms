@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coronavirus Suspected Patient Intake Form
+    pages:
+    - id: 1
+      name: symptoms
+      label: coronavirus_symptoms
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_age
+      label: patient_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: None
+      type: select_multiple
+      options:
+      - Emergency Contact
+      - Primary Care
+      - Insurance
+      required: true
+    - id: 4
+      name: medical_condition
+      label: medical_condition
+      hint: Please choose one
+      type: select_one
+      options:
+      - Hypertension
+      - Diabetes
+      - None
+      required: true
+    - id: 5
+      name: date_visited_doctor
+      label: date_visited_doctor
+      hint: None
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: doctor_name
+      label: doctor_name
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_info
+      label: doctor_info
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: medical_history
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergies
+      label: allergies
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance
+      label: insurance
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition_other
+      label: medical_condition_other
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_specialty
+      label: doctor_specialty
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_condition_other_spec
+      label: medical_condition_other_spec
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication
+      label: medication
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact
+      label: emergency_contact
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_phone
+      label: emergency_phone
+      hint: None
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_email
+      label: emergency_email
+      hint: None
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: medical_condition
+      label: medical_condition
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition_other_spec2
+      label: medical_condition_other_spec2
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_visit_date
+      label: doctor_visit_date
+      hint: None
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: doctor_visit_time
+      label: doctor_visit_time
+      hint: None
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: patient_status
+      label: patient_status
+      hint: Please choose
+      type: select_one
+      options:
+      - Active
+      - Recovered
+      - Deceased
+      required: true
+    - id: 23
+      name: doctor_info2
+      label: doctor_info2
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history2
+      label: medical_history2
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_info3
+      label: doctor_info3
+      hint: None
+      type: text
+      options: []
+      required: false

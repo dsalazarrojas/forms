@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Conflict Awareness Survey
+    pages:
+    - id: 1
+      name: awareness_and_perception
+      label: awareness_and_perception
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: information_source
+      label: information_source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: sources_of_influence
+      label: sources_of_influence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: awareness_level
+      label: awareness_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: conflict_type
+      label: conflict_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sources
+      label: sources
+      hint: null
+      type: text
+      options: []
+      required: false

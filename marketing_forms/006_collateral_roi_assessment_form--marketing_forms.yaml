@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collateral ROI Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of ROI evaluation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: campaign_name
+      label: Campaign or Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campaign_manager
+      label: Campaign Manager
+      hint: Name of responsible person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: collateral_types
+      label: Types of Marketing Collateral Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brochures
+      - Flyers
+      - Business Cards
+      - Posters
+      - Direct Mail
+      - Email Templates
+      - Social Media Graphics
+      - Digital Ads
+      required: true
+    - id: 6
+      name: distribution_channels
+      label: Distribution Channels
+      hint: How was the collateral distributed
+      type: select_multiple
+      options:
+      - Email
+      - Social Media
+      - Direct Mail
+      - In-person Events
+      - Online Advertising
+      - Partner Distribution
+      required: true
+    - id: 7
+      name: campaign_duration
+      label: Campaign Duration - days
+      hint: How long was the campaign active
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_production_cost
+      label: Total Production Cost
+      hint: Design, printing, and material costs
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: distribution_cost
+      label: Distribution Cost
+      hint: Shipping, delivery, or digital distribution costs
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_investment
+      label: Total Investment
+      hint: Sum of all campaign expenses
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: impressions
+      label: Total Impressions
+      hint: How many people saw the collateral
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: engagements
+      label: Total Engagements
+      hint: Clicks, opens, interactions
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: leads_generated
+      label: Leads Generated
+      hint: Qualified leads from campaign
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: conversions
+      label: Number of Conversions
+      hint: Sales or completed actions
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: conversion_value
+      label: Revenue Generated
+      hint: Total sales or contract value
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: engagement_rate
+      label: Engagement Rate - percent
+      hint: Engagements divided by impressions
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: conversion_rate
+      label: Conversion Rate - percent
+      hint: Conversions divided by leads
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: cost_per_lead
+      label: Cost Per Lead
+      hint: Total investment divided by leads
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: roi_percentage
+      label: Return on Investment - percent
+      hint: Net profit divided by investment
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: target_audience_feedback
+      label: Target Audience Feedback
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Not Measured
+      required: true
+    - id: 21
+      name: quality_assessment
+      label: Design and Message Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      required: true
+    - id: 22
+      name: future_recommendations
+      label: Recommendations for Future Campaigns
+      hint: What worked, what to improve
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: elevator_pitch_generator_form
+    pages:
+    - id: 1
+      name: pitch_details
+      label: Pitch Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: List team members and their roles
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: false
+    - id: 3
+      name: pitch_length
+      label: Pitch Length
+      hint: null
+      type: select_one
+      options:
+      - Brief (1-2 minutes)
+      - 3-5 minutes
+      - 5-7 minutes
+      - More than 7 minutes
+      required: false
+    - id: 4
+      name: value_proposition
+      label: Value Proposition
+      hint: Describe your value proposition
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pitch_tone
+      label: Pitch Tone
+      hint: null
+      type: select_one
+      options:
+      - Inspirational
+      - Solution-oriented
+      - Problem-focused
+      - Neutral
+      required: true
+    - id: 6
+      name: elevator_pitch
+      label: Elevator Pitch
+      hint: A quick, memorable summary of your project or pitch
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: followup_steps
+      label: Follow-up Steps
+      hint: Describe follow-up steps after meeting
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_details
+      label: Meeting Details
+      hint: Include meeting date, location, and attendees
+      type: text
+      options: []
+      required: false

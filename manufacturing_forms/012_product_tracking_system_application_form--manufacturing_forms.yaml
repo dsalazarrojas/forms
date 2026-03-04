@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Tracking System Application Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tracking_setup
+      label: Tracking Setup
+      hint: null
+      type: select_multiple
+      options:
+      - Setup 1
+      - Setup 2
+      - Setup 3
+      required: false
+    - id: 4
+      name: tracking_method
+      label: Tracking Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: date_tracked
+      label: Date Tracked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_tracked
+      label: Time Tracked
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tracking_status
+      label: Tracking Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 8
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false

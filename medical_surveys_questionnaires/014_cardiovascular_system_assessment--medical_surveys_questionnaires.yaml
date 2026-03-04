@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular System Assessment
+    pages:
+    - id: 1
+      name: patient_exam_header
+      label: -- Patient & Examination Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name_full
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: examination_date_conducted
+      label: Date of Examination
+      hint: Select the current date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: symptom_presentation_header
+      label: -- Presenting Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: symptoms_presenting_list
+      label: Presenting Cardiovascular Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Palpitations
+        value: palpitations
+      - label: Syncope
+        value: syncope
+      - label: Orthopnea
+        value: orthopnea
+      - label: Paroxysmal Nocturnal Dyspnea
+        value: pnd
+      - label: Fatigue
+        value: fatigue
+      required: true
+    - id: 6
+      name: symptom_duration_timeline
+      label: Duration of Symptoms
+      hint: Days, Weeks, or Months
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cardiac_exam_header
+      label: -- Cardiac Physical Examination --
+      hint: For physician or clinical use
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: heart_sounds_auscultation
+      label: Heart Sounds Auscultation
+      hint: S1, S2, murmurs, clicks, or rubs
+      type: select_one
+      options:
+      - label: Normal S1/S2
+        value: normal
+      - label: Abnormal Heart Sounds
+        value: abnormal
+      - label: Murmur Detected
+        value: murmur
+      - label: Distant Heart Sounds
+        value: distant
+      required: true
+    - id: 9
+      name: peripheral_pulses_palpation
+      label: Peripheral Pulses (Radial/Dorsalis Pedis)
+      hint: Rate/Rhythm/Equality
+      type: select_one
+      options:
+      - label: Normal/Equal (+2)
+        value: normal
+      - label: Diminished/Weak (+1)
+        value: weak
+      - label: Absent (0)
+        value: absent
+      - label: Bounding (+3)
+        value: bounding
+      required: true
+    - id: 10
+      name: peripheral_edema_presence
+      label: Presence of Peripheral Edema
+      hint: Pitting or non-pitting
+      type: select_one
+      options:
+      - label: Absent (No Swelling)
+        value: none
+      - label: Pitting Edema (Mild)
+        value: pitting_mild
+      - label: Pitting Edema (Severe)
+        value: pitting_severe
+      - label: Non-Pitting Edema
+        value: non_pitting
+      required: true
+    - id: 11
+      name: jugular_venous_distension_jvd
+      label: Jugular Venous Distension (JVD)
+      hint: Measured at 45 degrees
+      type: select_one
+      options:
+      - label: Absent
+        value: absent
+      - label: Present
+        value: present
+      required: true
+    - id: 12
+      name: capillary_refill_time_seconds
+      label: Capillary Refill Time (Seconds)
+      hint: Measure at fingernail or toe
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: examination_findings_summary
+      label: Summary of Clinical Findings
+      hint: Detailed notes on examination results
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: clinical_recommendations_action
+      label: Clinical Recommendations and Next Steps
+      hint: Referrals, imaging, or lab tests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: examiner_professional_initials
+      label: Examiner Initials for confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

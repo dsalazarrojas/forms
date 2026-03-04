@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: EMDR Session Feedback Form
+    pages:
+    - id: 1
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Positive Feedback
+      - Neutral Feedback
+      - Negative Feedback
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: rating_5
+      label: Rating 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: rating_4
+      label: Rating 4
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: feedback_notes
+      label: Feedback Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Save
+      - Cancel
+      - Save and Submit
+      required: true
+    - id: 17
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

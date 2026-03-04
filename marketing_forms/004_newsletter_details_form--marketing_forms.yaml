@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Details Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: confirm_email
+      label: Confirm email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: interest_in_newsletter
+      label: Interest prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interest_in_newsletter_type
+      label: Interest in the newsletter
+      hint: null
+      type: select_multiple
+      options:
+      - Newsletter
+      - Blog updates
+      - Promotions
+      - Other
+      required: false
+    - id: 7
+      name: preferred_contact
+      label: Preferred contact
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - None
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - Mail
+      - Call
+      - None
+      required: false
+    - id: 9
+      name: subscribe
+      label: Subscribe
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: agree_terms
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: agree_terms_text
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accept_terms
+      label: Accept terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: accept_terms_text
+      label: Accept terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirm_accept
+      label: Confirm accept
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: email_frequency
+      label: Email frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 20
+      name: confirm_email_frequency
+      label: Confirm email frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 21
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 22
+      name: confirm_contact_method
+      label: Confirm contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: true
+    - id: 23
+      name: confirm_interest_in_newsletter
+      label: Confirm interest in newsletter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: confirm_preferred_contact
+      label: Confirm preferred contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

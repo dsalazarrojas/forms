@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_emergency_incident_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_emergency_type
+      label: Medical Emergency Type
+      hint: Select the type of medical emergency
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: medical_treatments
+      label: Medical treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_time
+      label: Incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_description
+      label: Incident description
+      hint: null
+      type: text
+      options: []
+      required: false

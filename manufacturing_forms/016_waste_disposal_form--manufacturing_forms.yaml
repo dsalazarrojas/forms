@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: waste_disposal_form
+    pages:
+    - id: 1
+      name: waste_disposal_request
+      label: Waste Disposal Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waste_disposal_location
+      label: Waste Disposal Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: hazardous_waste
+      label: Hazardous Waste
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Hazardous'', ''value'': True}'
+      - '{''label'': ''Non-Hazardous'', ''value'': False}'
+      required: true
+    - id: 4
+      name: waste_disposal_date
+      label: Disposal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: waste_disposal_time
+      label: Disposal Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: waste_description
+      label: Description of Waste
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 8
+      name: waste_disposal_status
+      label: Disposal Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending'', ''value'': ''pending''}'
+      - '{''label'': ''Completed'', ''value'': ''completed''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

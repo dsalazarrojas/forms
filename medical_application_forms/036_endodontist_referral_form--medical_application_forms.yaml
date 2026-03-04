@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Endodontist Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referring_dentist_info
+      label: Referring Dentist Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: select_one
+      options:
+      - Cavitation
+      - Abscess
+      - Fracture
+      - Other
+      required: false
+    - id: 4
+      name: treatment_needed
+      label: Treatment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - root_canal
+      - crown
+      - filling
+      - other
+      required: false
+    - id: 5
+      name: treatment_plan
+      label: Treatment Plan
+      hint: Describe the recommended treatment plan for the patient.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: dentist_info
+      label: Dentist Information
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Lee
+      required: false
+    - id: 7
+      name: date_needed
+      label: Date Needed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_needed
+      label: Time Needed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

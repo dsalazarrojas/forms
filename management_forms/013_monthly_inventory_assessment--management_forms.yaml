@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Inventory Assessment
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: Where is the stock located
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: month
+      label: Month
+      hint: What month is the stock count for
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 4
+      name: stock_count
+      label: Stock Count
+      hint: Enter stock count
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stock_incoming
+      label: Stock Incoming
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 6
+      name: stock_outgoing
+      label: Stock Outgoing
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: Reason for stock movement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: Quantity of stock moving
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: location_type
+      label: Location Type
+      hint: What type of location
+      type: select_one
+      options:
+      - Warehouse
+      - Retail Store
+      - Restaurant
+      - Manufacturer
+      - Other
+      required: false
+    - id: 10
+      name: issue
+      label: Issue
+      hint: Issue with stock
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_details
+      label: Issue Details
+      hint: Details about issue
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: stock_location
+      label: Stock Location
+      hint: Location of stock
+      type: select_multiple
+      options:
+      - Warehouse
+      - Retail Store
+      - Restaurant
+      - Manufacturer
+      - Other
+      required: false
+    - id: 13
+      name: location_notes
+      label: Location Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stock_status
+      label: Stock Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Reserved
+      - Lost
+      - Destroyed
+      required: false
+    - id: 15
+      name: stock_date
+      label: Stock Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: stock_time
+      label: Stock Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: stock_note
+      label: Stock Note
+      hint: Any notes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: follow_up
+      label: Follow up
+      hint: Follow up action
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_by
+      label: Follow Up By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

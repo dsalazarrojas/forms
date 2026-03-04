@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Temperature Log
+    pages:
+    - id: 1
+      name: body_temperature
+      label: Body Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: recorded_at
+      label: Recorded At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: temperature_units
+      label: Temperature Units
+      hint: null
+      type: select_one
+      options:
+      - Celsius
+      - Fahrenheit
+      required: false
+    - id: 4
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: temperature_read
+      label: Temperature Read
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: temperature_read_unit
+      label: Temperature Read Unit
+      hint: null
+      type: select_one
+      options:
+      - Celsius
+      - Fahrenheit
+      required: false
+    - id: 11
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: false
+    - id: 12
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

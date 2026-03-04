@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infinity Marketing Onboarding Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: companyName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_type
+      label: companyType
+      hint: What type of company do you represent?
+      type: select_one
+      options:
+      - Small Business
+      - Medium Business
+      - Large Business
+      required: false
+    - id: 4
+      name: contact_email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contactName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: marketing_manager
+      label: marketingManager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: primary_goal
+      label: primaryGoal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_channels
+      label: marketingChannels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ad_budget
+      label: adBudget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ad_budget_currency
+      label: adBudgetCurrency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      required: false
+    - id: 12
+      name: ad_budget_amount
+      label: adBudgetAmount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: ad_budget_frequency
+      label: adBudgetFrequency
+      hint: When would you like to start the campaign?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: ad_budget_time
+      label: adBudgetTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: ad_budget_duration
+      label: adBudgetDuration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: ad_budget_frequency
+      label: adBudgetFrequency
+      hint: null
+      type: select_one
+      options:
+      - One time
+      - Ongoing
+      required: false
+    - id: 17
+      name: ad_budget_timezone
+      label: adBudgetTimezone
+      hint: null
+      type: select_one
+      options:
+      - UTC
+      - PST
+      - EST
+      - CST
+      required: false
+    - id: 18
+      name: ad_budget_time_format
+      label: adBudgetTimeformat
+      hint: null
+      type: select_one
+      options:
+      - 24h
+      - 12h
+      required: false
+    - id: 19
+      name: ad_budget_timezone_offset
+      label: adBudgetTimezoneoffset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: ad_budget_timezone_offset_unit
+      label: adBudgetTimezoneoffsetunit
+      hint: null
+      type: select_one
+      options:
+      - minutes
+      - hours
+      required: false
+    - id: 21
+      name: ad_budget_timezone_offset_minutes
+      label: adBudgetTimezoneoffsetminutes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: ad_budget_timezone_offset_hours
+      label: adBudgetTimezoneoffsethours
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 23
+      name: ad_budget_timezone_offset_minutes_unit
+      label: adBudgetTimezoneoffsetminutesunit
+      hint: null
+      type: select_one
+      options:
+      - minutes
+      - hours
+      required: false
+    - id: 24
+      name: ad_budget_timezone_offset_minutes_value
+      label: adBudgetTimezoneoffsetminutesvalue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: terms_conditions
+      label: termsAndConditions
+      hint: null
+      type: note
+      options: []
+      required: false

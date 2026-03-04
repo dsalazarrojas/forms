@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Guideline Compliance Checklist
+    pages:
+      - id: 1
+        name: project_name
+        label: Project Name
+        hint: Name of the project being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: project_manager
+        label: Project Manager Name
+        hint: Person responsible for this project
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Marketing
+          - Design
+          - Communications
+          - Product
+          - Sales
+          - External Agency
+        required: true
+      - id: 4
+        name: review_date
+        label: Review Date
+        hint: Date of this compliance review
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: material_type
+        label: Material Type
+        hint: What type of material is being reviewed
+        type: select_one
+        options:
+          - Print Advertisement
+          - Digital Advertisement
+          - Social Media Post
+          - Website Content
+          - Brochure or Flyer
+          - Business Card
+          - Presentation
+          - Email Campaign
+          - Video Content
+          - Packaging
+        required: true
+      - id: 6
+        name: logo_usage_correct
+        label: Logo Usage
+        hint: Is the logo used correctly per guidelines
+        type: select_one
+        options:
+          - Yes - Compliant
+          - No - Non-Compliant
+          - Not Applicable
+        required: true
+      - id: 7
+        name: logo_spacing
+        label: Logo Spacing and Clear Space
+        hint: Is proper logo spacing maintained
+        type: select_one
+        options:
+          - Compliant
+          - Non-Compliant
+          - Not Applicable
+        required: true
+      - id: 8
+        name: color_accuracy
+        label: Color Accuracy
+        hint: Are brand colors used correctly
+        type: select_one
+        options:
+          - Compliant
+          - Non-Compliant
+          - Not Applicable
+        required: true
+      - id: 9
+        name: typography_compliance
+        label: Typography Compliance
+        hint: Are brand fonts used correctly
+        type: select_one
+        options:
+          - Compliant
+          - Non-Compliant
+          - Not Applicable
+        required: true
+      - id: 10
+        name: tone_of_voice
+        label: Tone of Voice
+        hint: Does content match brand voice guidelines
+        type: select_one
+        options:
+          - Compliant
+          - Non-Compliant
+          - Not Applicable
+        required: true
+      - id: 11
+        name: imagery_style
+        label: Imagery Style
+        hint: Do images match brand style
+        type: select_one
+        options:
+          - Compliant
+          - Non-Compliant
+          - Not Applicable
+        required: true
+      - id: 12
+        name: messaging_consistency
+        label: Messaging Consistency
+        hint: Is messaging consistent with brand values
+        type: select_one
+        options:
+          - Compliant
+          - Non-Compliant
+          - Not Applicable
+        required: true
+      - id: 13
+        name: legal_disclaimers
+        label: Legal Disclaimers
+        hint: Are required disclaimers included
+        type: select_one
+        options:
+          - Included and Correct
+          - Missing
+          - Incorrect
+          - Not Required
+        required: true
+      - id: 14
+        name: accessibility_check
+        label: Accessibility Check
+        hint: Does material meet accessibility standards
+        type: select_one
+        options:
+          - Compliant
+          - Non-Compliant
+          - Pending Review
+        required: true
+      - id: 15
+        name: overall_compliance
+        label: Overall Compliance Status
+        hint: Final compliance determination
+        type: select_one
+        options:
+          - Fully Compliant
+          - Minor Issues - Approved with Changes
+          - Major Issues - Revise and Resubmit
+          - Non-Compliant - Rejected
+        required: true
+      - id: 16
+        name: issues_description
+        label: Issues Description
+        hint: Describe any compliance issues found
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Name of person conducting review
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: reviewer_signature
+        label: Reviewer Signature
+        hint: Type your name as signature
+        type: text
+        options: []
+        required: true

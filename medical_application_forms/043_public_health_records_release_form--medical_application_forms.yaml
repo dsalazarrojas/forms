@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Health Records Release Form
+    pages:
+    - id: 1
+      name: form_provider
+      label: Select provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: patient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: provider_contact
+      label: provider contact information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: record_access_date
+      label: date of record access
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: record_access_time
+      label: record access time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: record_access_duration
+      label: record access duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: authorization_type
+      label: authorization type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: authorization_reason
+      label: authorization reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: provider_signature
+      label: provider signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_record
+      label: medical record
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medical_record_number
+      label: medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: record_access_location
+      label: record access location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: record_access_status
+      label: record access status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

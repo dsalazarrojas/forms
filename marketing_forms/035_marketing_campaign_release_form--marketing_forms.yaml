@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketing_campaign_release_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Marketing Campaign Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Marketing Forms
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Product
+      required: false
+    - id: 3
+      name: description
+      label: Collect essential details for your marketing campaigns
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: align_objectives
+      label: Align Objectives
+      hint: null
+      type: select_multiple
+      options:
+      - Align Objectives 1
+      - Align Objectives 2
+      required: false
+    - id: 5
+      name: target_audiences
+      label: Target Audiences
+      hint: null
+      type: select_multiple
+      options:
+      - Target Audience 1
+      - Target Audience 2
+      required: false
+    - id: 6
+      name: budgets
+      label: Budgets
+      hint: null
+      type: select_multiple
+      options:
+      - Budget 1
+      - Budget 2
+      required: false
+    - id: 7
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - file 1
+      - file 2
+      required: false

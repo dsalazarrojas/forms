@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: BCI Market Pro Intake Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Primary Contact Name
+      hint: Full name of main contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: Your business website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_address
+      label: Company Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry_type
+      label: Industry Type
+      hint: Primary industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Education
+      - Other
+      required: true
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10
+      - 11 to 50
+      - 51 to 200
+      - 201 to 500
+      - 500 plus
+      required: true
+    - id: 10
+      name: current_marketing_spend
+      label: Current Monthly Marketing Budget
+      hint: Select your budget range
+      type: select_one
+      options:
+      - Under 1000
+      - 1000 to 5000
+      - 5000 to 10000
+      - 10000 to 25000
+      - Over 25000
+      required: true
+    - id: 11
+      name: marketing_goals
+      label: Primary Marketing Goals
+      hint: Select your main objectives
+      type: select_multiple
+      options:
+      - Brand awareness
+      - Lead generation
+      - Customer retention
+      - Website traffic
+      - Social media growth
+      - Sales increase
+      - Product launch
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience Description
+      hint: Describe your ideal customer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_challenges
+      label: Current Marketing Challenges
+      hint: What obstacles are you facing
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: competitors
+      label: Main Competitors
+      hint: List your top competitors
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: marketing_channels
+      label: Current Marketing Channels
+      hint: Select channels you currently use
+      type: select_multiple
+      options:
+      - Social media
+      - Email marketing
+      - Search engine optimization
+      - Pay-per-click advertising
+      - Content marketing
+      - Print advertising
+      - Radio or TV
+      - Events or trade shows
+      required: true
+    - id: 16
+      name: services_needed
+      label: Marketing Services Needed
+      hint: Select services you are interested in
+      type: select_multiple
+      options:
+      - Strategy development
+      - Social media management
+      - Content creation
+      - SEO optimization
+      - PPC management
+      - Email campaigns
+      - Analytics and reporting
+      - Brand design
+      required: true
+    - id: 17
+      name: timeline
+      label: Project Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - Just researching
+      required: true
+    - id: 18
+      name: previous_agencies
+      label: Previously Worked with Marketing Agencies
+      hint: Have you used agencies before
+      type: select_one
+      options:
+      - Yes, currently working with one
+      - Yes, in the past
+      - No, never
+      required: true
+    - id: 19
+      name: success_metrics
+      label: How Do You Measure Success
+      hint: What metrics matter most to you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

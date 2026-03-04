@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Technique Comfort Level Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Makeup Technique Comfort Level Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_question
+      label: Introductory
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: comfort_level
+      label: Comfort Level
+      hint: null
+      type: select_one
+      options:
+      - Very Comfortable
+      - Somewhat Comfortable
+      - Somewhat Uncomfortable
+      - Very Uncomfortable
+      required: false
+    - id: 4
+      name: confidence
+      label: Confidence
+      hint: null
+      type: select_multiple
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Somewhat Unconfident
+      - Very Unconfident
+      required: false
+    - id: 5
+      name: skill_level
+      label: Skill Level
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 6
+      name: learning_interests
+      label: Learning Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Product Knowledge
+      - Technique
+      - Application
+      required: false
+    - id: 7
+      name: practice
+      label: Practice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: training
+      label: Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: training_hours
+      label: Training Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: classes
+      label: Classes
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: content
+      label: Content
+      hint: null
+      type: select_multiple
+      options:
+      - Blog
+      - Video
+      - Live
+      - Social Media
+      - Other
+      required: false
+    - id: 14
+      name: blog_hours
+      label: Blog Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_multiple
+      options:
+      - Blog
+      - Video
+      - Live
+      - Social Media
+      - Other
+      required: false
+    - id: 16
+      name: product_knowledge
+      label: Product Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: application
+      label: Application
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 20
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: review
+      label: Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: review_location
+      label: Review Location
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 25
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

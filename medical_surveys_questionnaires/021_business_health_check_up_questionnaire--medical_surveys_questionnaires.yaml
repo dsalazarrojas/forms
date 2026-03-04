@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Health Check Up Questionnaire
+    pages:
+    - id: 1
+      name: section_business_background
+      label: -- Business Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_entity_name_checkup
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_industry_sector
+      label: Industry Sector
+      hint: e.g. Healthcare, Retail, Technology
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_performance_metrics
+      label: -- Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: financial_health_rating_score
+      label: Financial Health Rating
+      hint: Rate based on cash flow and profitability (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: market_position_relative_rating
+      label: Market Position Rating
+      hint: How strong is your position relative to competitors (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: innovation_capability_level
+      label: Innovation Capability
+      hint: Ability to develop new products or services
+      type: select_one
+      options:
+      - High (Industry leader)
+      - Moderate (Follower)
+      - Low (Lagging behind)
+      - Minimal (No current innovation)
+      required: true
+    - id: 8
+      name: customer_satisfaction_level_feedback
+      label: Customer Satisfaction Level
+      hint: Based on recent feedback or reviews
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: employee_retention_rate_category
+      label: Employee Retention Rate
+      hint: null
+      type: select_one
+      options:
+      - Over 90%
+      - 75% - 90%
+      - 50% - 74%
+      - Below 50%
+      required: true
+    - id: 10
+      name: swot_top_strength_desc
+      label: Identified Top Strength
+      hint: What is the single best thing about your business
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: swot_top_weakness_desc
+      label: Identified Top Weakness
+      hint: What is the primary area needing improvement
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: identified_growth_opportunity
+      label: Immediate Growth Opportunity
+      hint: A specific path for expansion or improvement
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: improvement_action_plan_brief
+      label: Action Plan for Improvement
+      hint: Briefly describe the next steps to address weaknesses
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_scheduled_review_date
+      label: Next Review Date
+      hint: When will you re-evaluate these metrics
+      type: date
+      options: []
+      required: true

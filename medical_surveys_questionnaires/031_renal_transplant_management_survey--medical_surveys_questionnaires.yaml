@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renal Transplant Management Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_birthday
+      label: patient_birthday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: surgery_date
+      label: surgery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transplant_date
+      label: transplant_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: transplant_doctor
+      label: transplant_doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      required: false
+    - id: 6
+      name: transplant_location
+      label: transplant_location
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital A
+      - Hospital B
+      - Hospital C
+      required: false
+    - id: 7
+      name: follow_up_doctor
+      label: follow_up_doctor
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      required: false
+    - id: 8
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: transplant_dosage
+      label: transplant_dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_duration
+      label: follow_up_duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - Side effect 1
+      - Side effect 2
+      - Side effect 3
+      required: false
+    - id: 13
+      name: medication_tolerability
+      label: medication_tolerability
+      hint: null
+      type: select_multiple
+      options:
+      - Tolerable
+      - Not Tolerable
+      required: false
+    - id: 14
+      name: medication_dosage
+      label: medication_dosage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: patient_comments
+      label: patient_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: note
+      options: []
+      required: false

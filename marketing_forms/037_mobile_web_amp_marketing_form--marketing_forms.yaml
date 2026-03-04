@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Web & Marketing Form
+    pages:
+    - id: 1
+      name: mobile_web_amp_marketing_form_1
+      label: Mobile Web & Marketing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_forms_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing Forms
+      - Other Form Type
+      required: true
+    - id: 3
+      name: marketing_forms_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: here_s_a_great_way_to_create_a_form
+      label: Here's a great way to create a form for use with advertising and marketing
+        of mobile websites.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing Forms
+      - Other
+      required: true
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

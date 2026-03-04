@@ -1,0 +1,265 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitive Analysis Form
+    pages:
+      - id: 1
+        name: analysis_date
+        label: Analysis Date
+        hint: Date of competitive analysis
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: analyst_name
+        label: Analyst Name
+        hint: Person conducting analysis
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: analyst_email
+        label: Analyst Email
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Strategy
+          - Marketing
+          - Sales
+          - Product
+          - Business Development
+          - Executive
+          - Other
+        required: true
+      - id: 5
+        name: company_name
+        label: Your Company
+        hint: Your organization name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: industry_sector
+        label: Industry Sector
+        hint: Your industry
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Manufacturing
+          - Retail
+          - Consumer Goods
+          - Services
+          - Education
+          - Media and Entertainment
+          - Other
+        required: true
+      - id: 7
+        name: analysis_scope
+        label: Analysis Scope
+        hint: What is being analyzed
+        type: select_one
+        options:
+          - Single competitor
+          - Multiple competitors
+          - Entire market
+          - Specific product category
+          - Geographic market
+        required: true
+      - id: 8
+        name: competitor_1
+        label: Primary Competitor Name
+        hint: Main competitor
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: competitor_1_market_share
+        label: Competitor 1 Market Share
+        hint: Estimated percentage
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: competitor_1_strengths
+        label: Competitor 1 Strengths
+        hint: What they do well
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: competitor_1_weaknesses
+        label: Competitor 1 Weaknesses
+        hint: Where they are vulnerable
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: competitor_1_products
+        label: Competitor 1 Products or Services
+        hint: Key offerings
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: competitor_1_pricing
+        label: Competitor 1 Pricing Strategy
+        hint: Price positioning
+        type: select_one
+        options:
+          - Premium - high prices
+          - Above average
+          - Market average
+          - Below average
+          - Low cost leader
+        required: true
+      - id: 14
+        name: competitor_2
+        label: Secondary Competitor Name
+        hint: Another key competitor
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: competitor_2_strengths
+        label: Competitor 2 Strengths
+        hint: What they do well
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: competitor_2_weaknesses
+        label: Competitor 2 Weaknesses
+        hint: Where they are vulnerable
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: competitor_2_pricing
+        label: Competitor 2 Pricing Strategy
+        hint: Price positioning
+        type: select_one
+        options:
+          - Premium - high prices
+          - Above average
+          - Market average
+          - Below average
+          - Low cost leader
+          - Not applicable
+        required: false
+      - id: 18
+        name: our_market_position
+        label: Our Market Position
+        hint: Where do we stand
+        type: select_one
+        options:
+          - Market leader
+          - Strong challenger
+          - Follower
+          - Niche player
+          - New entrant
+        required: true
+      - id: 19
+        name: our_competitive_advantage
+        label: Our Competitive Advantage
+        hint: What makes us unique
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: market_trends
+        label: Key Market Trends
+        hint: Industry trends affecting competition
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: customer_preferences
+        label: Customer Preferences
+        hint: What customers value
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: barriers_to_entry
+        label: Barriers to Entry
+        hint: How easy is it for new competitors
+        type: select_one
+        options:
+          - Very high - difficult to enter
+          - High
+          - Moderate
+          - Low
+          - Very low - easy to enter
+        required: true
+      - id: 23
+        name: threat_of_substitutes
+        label: Threat of Substitutes
+        hint: Alternative solutions available
+        type: select_one
+        options:
+          - Very high
+          - High
+          - Moderate
+          - Low
+          - Very low
+        required: true
+      - id: 24
+        name: competitive_intensity
+        label: Competitive Intensity
+        hint: How fierce is competition
+        type: select_one
+        options:
+          - Very high - cutthroat
+          - High
+          - Moderate
+          - Low
+          - Very low - cooperative
+        required: true
+      - id: 25
+        name: swot_analysis
+        label: SWOT Analysis Summary
+        hint: Strengths weaknesses opportunities threats
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: strategic_recommendations
+        label: Strategic Recommendations
+        hint: Recommended actions
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: next_review_date
+        label: Next Review Date
+        hint: When to update analysis
+        type: date
+        options: []
+        required: false
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

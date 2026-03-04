@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management Waiver Form Template
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: waiver_type
+      label: Waiver Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3''}'
+      required: true
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_team
+      label: Project Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Member 1''}'
+      - '{''id'': 2, ''name'': ''Member 2''}'
+      - '{''id'': 3, ''name'': ''Member 3''}'
+      required: true
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Status 1''}'
+      - '{''id'': 2, ''name'': ''Status 2''}'
+      - '{''id'': 3, ''name'': ''Status 3''}'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_member_1
+      label: Team Member 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_member_2
+      label: Team Member 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_member_3
+      label: Team Member 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_member_4
+      label: Team Member 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_member_5
+      label: Team Member 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_member_6
+      label: Team Member 6
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: long_covid_care_assessment
+    pages:
+    - id: 1
+      name: long_covid_care_assessment_page_1
+      label: long_covid_care_assessment_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: long_covid_care_needs
+      label: long_covid_care_needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: long_covid_care_providers
+      label: long_covid_care_providers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: long_covid_symptoms_duration
+      label: long_covid_symptoms_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: long_covid_symptoms_description
+      label: long_covid_symptoms_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: long_covid_care_goals
+      label: long_covid_care_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: long_covid_care_support_services
+      label: long_covid_care_support_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: long_covid_symptoms_frequency
+      label: long_covid_symptoms_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: long_covid_care_referral
+      label: long_covid_care_referral
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: long_covid_care_additional_info
+      label: long_covid_care_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: long_covid_care_additional_comments
+      label: long_covid_care_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: long_covid_care_additional_notes
+      label: long_covid_care_additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: long_covid_care_provider_specialty
+      label: long_covid_care_provider_specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: long_covid_care_provider_location
+      label: long_covid_care_provider_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: long_covid_care_provider_phone
+      label: long_covid_care_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: long_covid_care_provider_email
+      label: long_covid_care_provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: long_covid_care_provider_notes
+      label: long_covid_care_provider_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: long_covid_care_assessment_date
+      label: long_covid_care_assessment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: long_covid_care_assessment_time
+      label: long_covid_care_assessment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: long_covid_care_assessment_by
+      label: long_covid_care_assessment_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: long_covid_care_assessment_completed
+      label: long_covid_care_assessment_completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heart Health Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: heart_health_risk_factors
+      label: Heart Health Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Heart failure
+      - High blood pressure
+      - Diabetes
+      - Smoking
+      - Family history of heart disease
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: smoking_history
+      label: Smoking History
+      hint: null
+      type: select_multiple
+      options:
+      - Current smoker
+      - Former smoker
+      - Never smoked
+      required: false
+    - id: 6
+      name: alcohol_use
+      label: Alcohol Use
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 7
+      name: physical_activity
+      label: Physical Activity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_multiple
+      options:
+      - First degree relative
+      - Second degree relative
+      - Third degree relative
+      required: false
+    - id: 10
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: heart_disease_family_history
+      label: Heart Disease Family History
+      hint: null
+      type: select_multiple
+      options:
+      - First degree relative
+      - Second degree relative
+      - Third degree relative
+      required: false
+    - id: 12
+      name: date_of_baby_last
+      label: Date of Last Baby Born
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_of_last_hospitalization
+      label: Date of Last Hospitalization
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: date_of_last_medications
+      label: Date of Last Medications
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: date_of_last_smoking
+      label: Date of Last Smoking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_of_last_alcohol_use
+      label: Date of Last Alcohol Use
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: physical_activity_last_6_months
+      label: Physical Activity Last 6 Months
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: physical_activity_last_1_year
+      label: Physical Activity Last 1 Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: height_feet
+      label: Height in Feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: height_inches
+      label: Height in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: bmi
+      label: BMI
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: blood_glucose
+      label: Blood Glucose
+      hint: null
+      type: number
+      options: []
+      required: false

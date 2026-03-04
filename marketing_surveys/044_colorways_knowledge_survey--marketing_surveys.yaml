@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Colorways Knowledge Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Knowledge Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: role
+        label: Role in design or marketing
+        hint: Job title
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: familiarity_with_colorways
+        label: Familiarity with colorways
+        hint: Rate familiarity 1 to 5
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 5
+        name: frequency_of_use
+        label: Frequency of use of colorways
+        hint: How often used in projects
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+        required: false
+      - id: 6
+        name: tools_used
+        label: Tools used for colorway creation
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Design software
+          - Spreadsheets
+          - Physical samples
+          - Collaboration platforms
+        required: false
+      - id: 7
+        name: pain_points
+        label: Top pain points
+        hint: Describe main challenges
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: need_for_training
+        label: Need for training on colorways
+        hint: Do you want training
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 9
+        name: preferred_content_format
+        label: Preferred content format for training
+        hint: Choose format
+        type: select_one
+        options:
+          - Workshop
+          - Video tutorial
+          - Documentation
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Free text
+        type: text
+        options: []
+        required: false

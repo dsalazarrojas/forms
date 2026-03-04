@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Launch Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: feedback_comment
+      label: Feedback Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_launch_date
+      label: Product Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: product_launch_time
+      label: Product Launch Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: review_comment
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_rating
+      label: Review Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_multiple
+      options:
+      - Electronics
+      - Software
+      - Books
+      - Clothing
+      - Others
+      required: true
+    - id: 13
+      name: review_comment
+      label: Review Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Collaboration Approval Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Content Creator''}'
+      - '{''value'': ''Brand Ambassador''}'
+      - '{''value'': ''Influencer''}'
+      required: true
+    - id: 6
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Sponsored Content''}'
+      - '{''value'': ''Product Placement''}'
+      - '{''value'': ''Event Partnership''}'
+      required: true
+    - id: 10
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Video''}'
+      - '{''value'': ''Image/Photo''}'
+      - '{''value'': ''Live Stream''}'
+      required: true
+    - id: 11
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: file_uploader
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Tremor Assessment Form
+    pages:
+    - id: 1
+      name: symptom_history
+      label: Symptom History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tremor_severity
+      label: Tremor Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: daily_impact
+      label: Daily Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: voice_samples
+      label: Voice Samples
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

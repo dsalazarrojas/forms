@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliate Dashboard Access Request
+    pages:
+    - id: 1
+      name: affiliate_information_section
+      label: Affiliate Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: affiliate_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: affiliate_username
+      label: Preferred Username
+      hint: Choose a username for your dashboard access
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: affiliate_email
+      label: Email Address
+      hint: Primary email for account access and notifications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: affiliate_phone
+      label: Phone Number
+      hint: Phone number for account verification
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affiliate_company
+      label: Company Name
+      hint: Name of your company or business (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: affiliate_website
+      label: Website or Platform
+      hint: URL of your website, blog, or social media platform
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: affiliate_program_details_section
+      label: Affiliate Program Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: affiliate_program_name
+      label: Affiliate Program Name
+      hint: Name of the affiliate program you're associated with
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: affiliate_id
+      label: Affiliate ID
+      hint: Your unique affiliate identifier
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: join_date
+      label: Join Date
+      hint: Date when you joined the affiliate program
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: traffic_sources
+      label: Traffic Sources
+      hint: What are your primary sources of traffic?
+      type: select_multiple
+      options:
+      - Social Media
+      - Blog/Website
+      - Email Marketing
+      - Paid Ads
+      - SEO
+      - YouTube
+      - Podcasts
+      - Forums
+      - Other
+      required: true
+    - id: 13
+      name: average_monthly_traffic
+      label: Average Monthly Traffic
+      hint: Approximately how much traffic do you generate monthly?
+      type: select_one
+      options:
+      - Under 1,000 visitors
+      - 1,000-5,000 visitors
+      - 5,000-10,000 visitors
+      - 10,000-50,000 visitors
+      - 50,000-100,000 visitors
+      - Over 100,000 visitors
+      required: true
+    - id: 14
+      name: access_request_section
+      label: Access Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: requested_access_level
+      label: Requested Access Level
+      hint: What level of access are you requesting?
+      type: select_one
+      options:
+      - Basic View Only
+      - Standard Access
+      - Advanced Analytics
+      - Full Access
+      - Custom Permissions
+      required: true
+    - id: 16
+      name: requested_access_reason
+      label: Reason for Requesting Access
+      hint: Why do you need dashboard access?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: intended_use
+      label: Intended Use of Dashboard
+      hint: How do you plan to use the dashboard information?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: specific_reports_needed
+      label: Specific Reports or Data Needed
+      hint: Which reports or data points do you need access to?
+      type: select_multiple
+      options:
+      - Conversion Rates
+      - Revenue Tracking
+      - Click-Through Rates
+      - Traffic Sources
+      - Commission Details
+      - Performance Metrics
+      - Campaign Analytics
+      - Payment History
+      - All Reports
+      required: true
+    - id: 19
+      name: security_compliance_section
+      label: Security and Compliance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: security_measures_acknowledged
+      label: Security Measures Acknowledged
+      hint: I acknowledge that I will follow all security protocols and protect sensitive
+        data
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: data_usage_agreement
+      label: Data Usage Agreement
+      hint: I agree to use the data solely for legitimate affiliate marketing purposes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: privacy_policy_acknowledged
+      label: Privacy Policy Acknowledged
+      hint: I have read and agree to the privacy policy regarding data access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: terms_of_service_agreement
+      label: Terms of Service Agreement
+      hint: I agree to the terms of service for dashboard access
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: authorization_verification_section
+      label: Authorization and Verification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: identity_verification_documents
+      label: Identity Verification Documents
+      hint: Are you prepared to provide identity verification documents?
+      type: select_one
+      options:
+      - true
+      - false
+      - Need More Information
+      required: true
+    - id: 26
+      name: business_verification_documents
+      label: Business Verification Documents
+      hint: Are you prepared to provide business verification documents (if applicable)?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 27
+      name: authorization_representative
+      label: Authorization Representative
+      hint: Are you authorized to request dashboard access on behalf of your organization?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Contact person in case of account issues
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: signature_authorization
+      label: Signature Authorization
+      hint: Electronic signature to authorize this request
+      type: text
+      options: []
+      required: true

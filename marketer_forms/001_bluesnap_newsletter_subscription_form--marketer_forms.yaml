@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Newsletter Subscription Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will send newsletters to this email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_preference
+      label: Preferred Subscription Format
+      hint: Choose how you prefer to receive our newsletters
+      type: select_one
+      options:
+      - Print Only
+      - Digital Only
+      - Both Print and Digital
+      required: true
+    - id: 6
+      name: subscription_duration
+      label: Subscription Duration
+      hint: How long would you like to subscribe
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - Indefinite
+      required: true
+    - id: 7
+      name: interests
+      label: Areas of Interest
+      hint: Select all topics that interest you
+      type: select_multiple
+      options:
+      - Finance
+      - Marketing
+      - Technology
+      - Business Strategy
+      - Product Updates
+      required: true
+    - id: 8
+      name: frequency
+      label: Newsletter Frequency
+      hint: How often would you like to receive newsletters
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 9
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Phone Number (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: communication_consent
+      label: I agree to receive marketing communications
+      hint: We respect your privacy
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, do not contact me
+      required: true
+    - id: 12
+      name: terms_acceptance
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Constipation Chief Complaint Intake Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best phone number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: For appointment confirmations and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: symptom_duration
+      label: How Long Have You Experienced Constipation
+      hint: Duration of current symptoms
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1 to 2 weeks
+      - 2 to 4 weeks
+      - 1 to 3 months
+      - More than 3 months
+      - Chronic (6+ months)
+      required: true
+    - id: 7
+      name: bowel_movement_frequency
+      label: Bowel Movement Frequency
+      hint: How often do you have bowel movements
+      type: select_one
+      options:
+      - Less than once per week
+      - 1 to 2 times per week
+      - 3 to 4 times per week
+      - Daily
+      - Multiple times daily
+      required: true
+    - id: 8
+      name: stool_consistency
+      label: Stool Consistency
+      hint: Typical consistency of stool
+      type: select_one
+      options:
+      - Hard lumps like nuts
+      - Lumpy and sausage-like
+      - Cracked sausage-like
+      - Smooth and soft
+      - Watery with no solid pieces
+      required: true
+    - id: 9
+      name: straining_required
+      label: Do You Experience Straining
+      hint: During bowel movements
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: associated_symptoms
+      label: Associated Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Abdominal pain or cramping
+      - Bloating
+      - Nausea
+      - Loss of appetite
+      - Rectal pain
+      - Bleeding
+      - Feeling of incomplete evacuation
+      - None of the above
+      required: true
+    - id: 11
+      name: pain_level
+      label: Pain Level
+      hint: Rate your pain from 0 to 10
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: dietary_habits
+      label: Dietary Habits
+      hint: Describe your typical daily diet
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fluid_intake
+      label: Daily Fluid Intake
+      hint: Approximate amount of fluids per day
+      type: select_one
+      options:
+      - Less than 4 glasses
+      - 4 to 6 glasses
+      - 7 to 8 glasses
+      - More than 8 glasses
+      required: true
+    - id: 14
+      name: physical_activity
+      label: Physical Activity Level
+      hint: How active are you on a typical day
+      type: select_one
+      options:
+      - Sedentary (mostly sitting)
+      - Light activity (walking occasionally)
+      - Moderate activity (regular exercise)
+      - Very active (daily exercise)
+      required: true
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List all medications and supplements you take
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_history
+      label: Relevant Medical History
+      hint: Any conditions like diabetes, thyroid issues, IBS
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_treatments
+      label: Previous Treatments Tried
+      hint: Medications, remedies, or lifestyle changes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: urgency_level
+      label: How Urgent Is This Issue
+      hint: Select the urgency of your condition
+      type: select_one
+      options:
+      - Routine (can wait for regular appointment)
+      - Soon (within 1 week)
+      - Urgent (within 24-48 hours)
+      - Emergency (need immediate care)
+      required: true

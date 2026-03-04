@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bathtub Safety Equipment Installation Request
+    pages:
+    - id: 1
+      name: homeowner_name
+      label: Homeowner Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Installation address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: Type of residence
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Mobile Home
+      - Senior Living Facility
+      required: true
+    - id: 6
+      name: equipment_type
+      label: Equipment Type Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Grab Bars
+      - Transfer Bench
+      - Bathtub Seat
+      - Handheld Shower
+      - Non-Slip Mats
+      - Raised Toilet Seat
+      - Walk-in Tub Conversion
+      - Tub Cut Conversion
+      required: true
+    - id: 7
+      name: bathtub_type
+      label: Current Bathtub Type
+      hint: What type of tub do you have
+      type: select_one
+      options:
+      - Standard Tub
+      - Tub Shower Combo
+      - Corner Tub
+      - Freestanding Tub
+      - Jetted Tub
+      - Not Sure
+      required: true
+    - id: 8
+      name: mobility_challenges
+      label: Mobility Challenges
+      hint: What difficulties are experienced
+      type: select_multiple
+      options:
+      - Difficulty Stepping Over Tub Edge
+      - Balance Issues
+      - Limited Leg Strength
+      - Arthritis
+      - Post-Surgery Recovery
+      - Wheelchair User
+      - Walker or Cane User
+      - Other
+      required: true
+    - id: 9
+      name: user_age_group
+      label: Primary User Age Group
+      hint: Age range of primary user
+      type: select_one
+      options:
+      - Under 50
+      - 50-64
+      - 65-74
+      - 75-84
+      - 85+
+      required: true
+    - id: 10
+      name: bathroom_access
+      label: Bathroom Access
+      hint: Any access considerations
+      type: select_one
+      options:
+      - Standard Doorway
+      - Narrow Doorway
+      - Stairs to Bathroom
+      - Elevator Access
+      - Ground Floor
+      required: false
+    - id: 11
+      name: preferred_installation_date
+      label: Preferred Installation Date
+      hint: When would you like installation
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: Morning or afternoon
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Any Time
+      required: false
+    - id: 13
+      name: home_ownership
+      label: Home Ownership
+      hint: Do you own or rent
+      type: select_one
+      options:
+      - Owner
+      - Renter
+      - Family Member
+      required: true
+    - id: 14
+      name: landlord_approval
+      label: Landlord Approval Obtained
+      hint: If renting
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 15
+      name: budget_consideration
+      label: Budget Consideration
+      hint: How will this be paid
+      type: select_one
+      options:
+      - Private Pay
+      - Insurance
+      - Medicare
+      - Medicaid
+      - VA Benefits
+      - Need Financial Assistance
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

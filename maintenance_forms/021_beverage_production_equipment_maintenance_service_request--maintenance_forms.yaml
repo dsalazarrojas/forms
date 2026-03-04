@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Production Equipment Maintenance Service Request
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Name of Requester
+      hint: Person submitting the maintenance request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_title
+      label: Position or Title
+      hint: Your role in the facility
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Date of Request
+      hint: When is this being submitted?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_facility
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: facility_name
+      label: Facility or Plant Name
+      hint: Name of the production facility
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_location
+      label: Facility Location
+      hint: City, state, or address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: production_area
+      label: Production Area or Line
+      hint: Which area needs service?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_equipment
+      label: -- Equipment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: equipment_type
+      label: Type of Equipment
+      hint: What equipment needs service?
+      type: select_one
+      options:
+      - Mixing equipment
+      - Filling machine
+      - Capping machine
+      - Labeling equipment
+      - Conveyor system
+      - Cooling/refrigeration
+      - Filtering system
+      - Quality control equipment
+      - Bottling line
+      - Other
+      required: true
+    - id: 13
+      name: equipment_brand
+      label: Equipment Brand or Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: equipment_model
+      label: Equipment Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_serial
+      label: Serial Number or Asset ID
+      hint: For identification purposes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_age
+      label: Equipment Age or Installation Year
+      hint: Approximate year
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_issue
+      label: -- Issue Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: issue_type
+      label: Type of Issue
+      hint: What is the problem?
+      type: select_one
+      options:
+      - Equipment not operating
+      - Reduced performance
+      - Unusual noise or vibration
+      - Leakage
+      - Quality issues
+      - Safety concern
+      - Wear and tear
+      - Preventive maintenance
+      - Other
+      required: true
+    - id: 19
+      name: issue_description
+      label: Detailed Description of Problem
+      hint: Please explain the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: first_noticed
+      label: When Was This Issue First Noticed
+      hint: Date or time period
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: frequency
+      label: Frequency of Issue
+      hint: How often does it occur?
+      type: select_one
+      options:
+      - Constantly
+      - Frequently
+      - Intermittently
+      - Once in a while
+      - Single incident
+      required: true
+    - id: 22
+      name: section_header_impact
+      label: -- Impact & Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: production_impact
+      label: Impact on Production
+      hint: How does this affect operations?
+      type: select_one
+      options:
+      - Complete shutdown - no production
+      - Significant reduction in production
+      - Minor reduction in production
+      - No impact on production
+      - Safety concern only
+      required: true
+    - id: 24
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly is service needed?
+      type: select_one
+      options:
+      - Emergency - within 2 hours
+      - Urgent - within 24 hours
+      - High - within 3 days
+      - Standard - within 1 week
+      - Low - no specific timeline
+      required: true
+    - id: 25
+      name: section_header_maintenance
+      label: -- Maintenance History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: last_service
+      label: Date of Last Maintenance Service
+      hint: When was it last serviced?
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: maintenance_contract
+      label: Is There a Maintenance Contract
+      hint: null
+      type: select_one
+      options:
+      - Yes, active contract
+      - Yes, expired contract
+      - No contract
+      - Unknown
+      required: true
+    - id: 28
+      name: service_provider
+      label: Current Service Provider or Vendor
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_header_scheduling
+      label: -- Service Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: preferred_service_time
+      label: Preferred Time for Service
+      hint: When should technician arrive?
+      type: select_one
+      options:
+      - During production hours
+      - During break between shifts
+      - After production hours
+      - Weekend
+      - Flexible/ASAP
+      required: true
+    - id: 31
+      name: technician_access
+      label: Will Someone Be Available for Technician Access
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, during business hours
+      - No, key/access to be provided
+      - Uncertain
+      required: true
+    - id: 32
+      name: additional_notes
+      label: Additional Notes or Special Instructions
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false

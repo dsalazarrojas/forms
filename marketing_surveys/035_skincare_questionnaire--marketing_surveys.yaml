@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Questionnaire
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_type
+      label: skin_type
+      hint: null
+      type: select_multiple
+      options:
+      - Dry Skin
+      - Oily Skin
+      - Combination Skin
+      - Sensitive Skin
+      - Normal Skin
+      required: false
+    - id: 3
+      name: skincare_products
+      label: Skincare Products
+      hint: null
+      type: select_one
+      options:
+      - Moisturizer
+      - Serum
+      - Toner
+      - Exfoliator
+      - Cleanser
+      required: false
+    - id: 4
+      name: skin_concerns
+      label: Skin Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Fine Lines
+      - Hyper-Pigmentation
+      - Dark Circles
+      - Redness
+      required: false
+    - id: 5
+      name: skin_frequency_use
+      label: How Frequently Do You Use Skincare?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Every Other Day
+      - Twice A Week
+      - Less Than Once A Week
+      required: false
+    - id: 6
+      name: skincare_goal
+      label: What's Your Skincare Goal?
+      hint: null
+      type: select_one
+      options:
+      - Preventative Maintenance
+      - Corrective Treatment
+      - Anti-Aging
+      required: false
+    - id: 7
+      name: skin_problems
+      label: Which Skin Problems Do You Have?
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Fine Lines
+      - Hyper-Pigmentation
+      - Dark Circles
+      required: false
+    - id: 8
+      name: current_products_used
+      label: What Skincare Products Are You Currently Using?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: product_satisfaction
+      label: How Satisfied Are You With Current Products?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 10
+      name: skincare_frequency_of_use
+      label: How Frequently Do You Use Current Skincare Products?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Every Other Day
+      - Twice A Week
+      - Less Than Once A Week
+      required: false

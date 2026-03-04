@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Needs Assessment Form
+    pages:
+    - id: 1
+      name: marketing_needs_assessment_form
+      label: marketing_needs_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_goals
+      label: marketing_goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: current_activities
+      label: current_activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: target_markets
+      label: target_markets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: target_segments
+      label: target_segments
+      hint: null
+      type: text
+      options: []
+      required: false

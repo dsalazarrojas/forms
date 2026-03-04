@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Management Strategies Survey
+    pages:
+    - id: 1
+      name: section_header_demographics
+      label: -- Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      required: false
+    - id: 4
+      name: section_header_pain_experience
+      label: -- Pain Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pain_condition
+      label: Type of Chronic Pain Condition
+      hint: null
+      type: select_one
+      options:
+      - Back pain
+      - Arthritis
+      - Fibromyalgia
+      - Neuropathic pain
+      - Migraine or headache
+      - Cancer-related pain
+      - Other
+      required: true
+    - id: 6
+      name: pain_duration
+      label: How long have you had chronic pain
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: true
+    - id: 7
+      name: pain_severity
+      label: Current Pain Severity (0-10 scale)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_header_strategies
+      label: -- Management Strategies Used --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: strategies_currently_using
+      label: Pain Management Strategies Currently Using (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Prescription medications
+      - Over-the-counter medications
+      - Physical therapy
+      - Occupational therapy
+      - Exercise or movement
+      - Relaxation techniques
+      - Meditation or mindfulness
+      - Heat or cold therapy
+      - Massage therapy
+      - Acupuncture
+      - Counseling or therapy
+      - Support groups
+      required: true
+    - id: 10
+      name: most_helpful_strategy
+      label: Which strategy is MOST helpful for you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_medication
+      label: -- Medication Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medication_satisfaction
+      label: Satisfaction with Current Medication (if using)
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat unsatisfied
+      - Very unsatisfied
+      - Not using medications
+      required: false
+    - id: 13
+      name: medication_side_effects
+      label: Experience Side Effects from Pain Medications
+      hint: null
+      type: select_one
+      options:
+      - No side effects
+      - Minor side effects
+      - Moderate side effects
+      - Severe side effects
+      - Not using medications
+      required: false
+    - id: 14
+      name: section_header_barriers
+      label: -- Barriers and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: management_barriers
+      label: Barriers to Effective Pain Management (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Cost of treatment
+      - Limited access to providers
+      - Time constraints
+      - Medication side effects
+      - Lack of knowledge about options
+      - Stigma or fear of addiction
+      - Previous treatment failures
+      - Difficulty with consistency
+      required: false
+    - id: 16
+      name: section_header_impact
+      label: -- Impact on Quality of Life --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: quality_of_life_impact
+      label: How much does pain affect your quality of life
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - A little bit
+      - Moderately
+      - Quite a bit
+      - Severely
+      required: true
+    - id: 18
+      name: emotional_impact
+      label: Emotional Impact of Chronic Pain
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety
+      - Depression
+      - Frustration
+      - Social isolation
+      - Loss of identity
+      - Loss of independence
+      - No emotional impact
+      required: false
+    - id: 19
+      name: work_functioning
+      label: Ability to Work or Perform Daily Tasks
+      hint: null
+      type: select_one
+      options:
+      - No limitations
+      - Slight limitations
+      - Moderate limitations
+      - Severe limitations
+      - Unable to work
+      required: true
+    - id: 20
+      name: section_header_support
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: professional_support
+      label: Are you currently working with a pain management specialist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Planning to
+      required: false
+    - id: 22
+      name: support_needs
+      label: Types of Support You Need (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Better pain medications
+      - More access to therapy
+      - Financial assistance
+      - Peer support
+      - Information about options
+      - Workplace accommodations
+      - Family education
+      required: false
+    - id: 23
+      name: interested_in_program
+      label: Would you be interested in a pain management program
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not interested
+      required: false

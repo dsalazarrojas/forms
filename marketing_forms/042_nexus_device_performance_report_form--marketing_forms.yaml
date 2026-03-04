@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: nexus_device_performance_report_form
+    pages:
+    - id: 1
+      name: device_selection
+      label: Device Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''tool1''}'
+      - '{''value'': ''tool2''}'
+      - '{''value'': ''tool3''}'
+      required: true
+    - id: 8
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_role
+      label: User Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: false

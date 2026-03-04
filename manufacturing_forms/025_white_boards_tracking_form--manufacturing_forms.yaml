@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: white_boards_tracking_form
+    pages:
+    - id: 1
+      name: manufacturing_form_header
+      label: manufacturing_form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manufacturing_form_whiteboard_id
+      label: whiteboard_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manufacturing_form_name
+      label: manufacturing_form_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manufacturing_form_description
+      label: manufacturing_form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manufacturing_form_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: manufacturing_form_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: manufacturing_form_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: manufacturing_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manufacturing_form_tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 10
+      name: manufacturing_form_created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false

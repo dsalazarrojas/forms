@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: garage_maintenance_checklist_form
+    pages:
+    - id: 1
+      name: vehicle_maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Semi-Annually''}'
+      - '{''label'': ''Yearly''}'
+      required: false
+    - id: 2
+      name: vehicle_maintenance_type
+      label: Type of Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Oil Change''}'
+      - '{''label'': ''Tire Rotation''}'
+      - '{''label'': ''Brake Pad Replacement''}'
+      - '{''label'': ''Battery Check''}'
+      - '{''label'': ''Fluid Check''}'
+      - '{''label'': ''Air Filter Replacement''}'
+      required: false
+    - id: 3
+      name: vehicle_maintenance_location
+      label: Maintenance Location
+      hint: Where the maintenance task is performed
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_maintenance_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Incomplete''}'
+      - '{''label'': ''Not Started''}'
+      required: false
+    - id: 5
+      name: vehicle_maintenance_notes
+      label: Notes
+      hint: Additional comments about this maintenance task
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_date
+      label: Maintenance Date
+      hint: Date of last maintenance
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_time
+      label: Maintenance Time
+      hint: Time of day for last maintenance
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_maintenance_frequency_id
+      label: Vehicle Maintenance Frequency ID
+      hint: null
+      type: number
+      options: []
+      required: false

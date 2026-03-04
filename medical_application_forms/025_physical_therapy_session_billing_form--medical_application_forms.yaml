@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Therapy Session Billing Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Patient Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: Payment Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: third_page
+      label: Session Details
+      hint: Select your session details
+      type: select_one
+      options:
+      - Initial Assessment
+      - Treatment Plan
+      - Rehabilitation
+      required: true
+    - id: 4
+      name: further_page
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: another_page
+      label: Patient Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: yet_another_page
+      label: Payment Status
+      hint: null
+      type: number
+      options: []
+      required: false

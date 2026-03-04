@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Consent Form
+    pages:
+    - id: 1
+      name: marketing_consent_form
+      label: marketing_consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: marketing_preference
+      label: marketing_pref
+      hint: null
+      type: select_multiple
+      options:
+      - Text Message
+      - Email
+      - Phone
+      required: false
+    - id: 4
+      name: call_info
+      label: call_info
+      hint: null
+      type: select_one
+      options:
+      - Yes, allow calls
+      - 'False'
+      required: false
+    - id: 5
+      name: email_info
+      label: email_info
+      hint: Your email address for marketing info will be saved and we will send updates
+        and info regarding new products, special deals, and news.
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_info
+      label: phone_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_info
+      label: address_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: marketing_materials
+      label: marketing_materials
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Brochures
+      - Emails
+      - Phone calls
+      required: false
+    - id: 9
+      name: save_info
+      label: save_info
+      hint: null
+      type: note
+      options: []
+      required: false

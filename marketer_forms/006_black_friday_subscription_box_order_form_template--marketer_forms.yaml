@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Subscription Box Order Form Template
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for shipping
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_address
+      label: Shipping address
+      hint: Street address city and postal code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: subscription_plan
+      label: Subscription plan
+      hint: Choose a subscription duration
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 6
+      name: box_variant
+      label: Box variant
+      hint: Select the box theme or size
+      type: select_one
+      options:
+      - Standard
+      - Deluxe
+      - Collector
+      required: true
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: Number of boxes to order
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: billing_method
+      label: Billing method
+      hint: Payment preference
+      type: select_one
+      options:
+      - Credit card
+      - PayPal
+      - Invoice
+      required: true
+    - id: 9
+      name: promo_code
+      label: Promo code
+      hint: Enter promotional code if available
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special requests
+      hint: Dietary or preference notes for box items
+      type: text
+      options: []
+      required: false

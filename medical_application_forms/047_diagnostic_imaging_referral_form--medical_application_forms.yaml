@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diagnostic Imaging Referral Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Imaging Referral
+      - Other
+      required: false
+    - id: 3
+      name: imaging_services
+      label: Imaging Services
+      hint: null
+      type: select_multiple
+      options:
+      - MRI
+      - CT Scan
+      - Ultrasound
+      - X-Ray
+      required: false
+    - id: 4
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: radiologist_recommendation
+      label: Radiologist Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: radiologist_recommendation_additional_info
+      label: Radiologist Recommendation Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Primary Care
+      - Specialist
+      required: false
+    - id: 12
+      name: referral_requesting_provider
+      label: Referral Requesting Provider
+      hint: null
+      type: text
+      options: []
+      required: false

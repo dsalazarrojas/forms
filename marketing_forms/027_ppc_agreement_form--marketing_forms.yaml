@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: PPC Agreement Form
+    pages:
+    - id: 1
+      name: campaign_scope
+      label: What is the campaign scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_expectations
+      label: reporting_expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: timeline
+      label: What is the expected timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: approval
+      label: approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: marketing_channel
+      label: Which marketing channel will you be using
+      hint: null
+      type: select_multiple
+      options:
+      - google
+      - facebook
+      - instagram
+      - twitter
+      - snapchat
+      required: false
+    - id: 6
+      name: reporting_frequency
+      label: How often will you be reporting results
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: agency_info
+      label: Agency Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter_info
+      label: Submitter Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: client_info
+      label: Client Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: debt_freedom_grant_application
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: debt_type
+      label: Debt Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card Debt
+      - Medical Debt
+      - Personal Loan
+      required: true
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing Forms
+      - Lead Generation
+      required: true
+    - id: 9
+      name: agent
+      label: Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: Unique identifier of the form
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file
+      label: Output File
+      hint: Output file name of the form
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Tool used to generate the form
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: description
+      label: Description
+      hint: Description of the form
+      type: text
+      options: []
+      required: false

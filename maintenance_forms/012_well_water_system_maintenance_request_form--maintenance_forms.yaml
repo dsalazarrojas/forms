@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Well Water System Maintenance Request Form
+    pages:
+    - id: 1
+      name: well_water_system_maintenance_request_form
+      label: Maintenance Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_service_request
+      label: System Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: urgency_level
+      label: Urgency Level
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Urgent
+      - Not Urgent
+      - Low Priority
+      required: false
+    - id: 4
+      name: service_visit_scheduled_date
+      label: Service Visit Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_visit_scheduled_time
+      label: Service Visit Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: well_system_data
+      label: Well System Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_teams
+      label: Maintenance Teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: well_system_status
+      label: Well System Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

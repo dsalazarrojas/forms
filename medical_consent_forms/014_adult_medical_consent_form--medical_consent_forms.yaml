@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adult Medical Consent Form
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Medical Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient full name
+      hint: Legal name as on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: treatment_description
+      label: Treatment or procedure description
+      hint: Explain intended treatment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risks_and_benefits_acknowledged
+      label: Risks and benefits acknowledged
+      hint: Confirm understanding of risks and benefits
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 6
+      name: alternative_options_explained
+      label: Alternative options explained
+      hint: Confirm discussion of alternatives
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Name and relation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent_signature_name
+      label: Signature name
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent_date
+      label: Consent date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: provider_name
+      label: Provider name
+      hint: Name of treating clinician
+      type: text
+      options: []
+      required: false

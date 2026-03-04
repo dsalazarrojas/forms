@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Analytics Filter Form
+    pages:
+    - id: 1
+      name: website_analytics_filter_form_1
+      label: website_analytics_filter_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filter_type
+      label: filter_type_label
+      hint: null
+      type: select_one
+      options:
+      - Analytics
+      - Conversion
+      - Engagement
+      required: false
+    - id: 3
+      name: date_range
+      label: date_range_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_range
+      label: time_range_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: timezone
+      label: timezone_label
+      hint: null
+      type: select_one
+      options:
+      - PST
+      - EST
+      - CST
+      - MST
+      required: false
+    - id: 8
+      name: time_zone
+      label: time_zone_label
+      hint: null
+      type: select_multiple
+      options:
+      - PST
+      - EST
+      - CST
+      - MST
+      required: false
+    - id: 9
+      name: timezone_offset
+      label: timezone_offset_label
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: timezone_offset_minutes
+      label: timezone_offset_minutes_label
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Platform Access Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: access_level
+      label: Select Access Level
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - User
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: marketing_tools
+      label: Marketing Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Google Ads
+      - Facebook Ads
+      required: true
+    - id: 6
+      name: confirm_access
+      label: Confirm Access
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 7
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

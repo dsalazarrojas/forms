@@ -1,0 +1,317 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Maintenance Checklist
+    pages:
+      - id: 1
+        name: checklist_id
+        label: Checklist ID
+        hint: Unique checklist identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: maintenance_date
+        label: Maintenance Date
+        hint: Date of maintenance
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: technician_name
+        label: Technician Name
+        hint: Name of technician
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: technician_id
+        label: Technician ID
+        hint: Technician identification number
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: computer_owner
+        label: Computer Owner
+        hint: Name of computer owner or user
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: department
+        label: Department
+        hint: Select department
+        type: select_one
+        options:
+          - Human Resources
+          - Finance
+          - Sales
+          - Marketing
+          - Operations
+          - Information Technology
+          - Customer Service
+          - Research and Development
+          - Executive
+          - Other
+        required: true
+      - id: 7
+        name: computer_type
+        label: Computer Type
+        hint: Type of computer
+        type: select_one
+        options:
+          - Desktop
+          - Laptop
+          - Workstation
+          - Server
+          - All-in-One
+          - Other
+        required: true
+      - id: 8
+        name: computer_brand
+        label: Computer Brand
+        hint: Brand or manufacturer
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: computer_model
+        label: Computer Model
+        hint: Model number
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: serial_number
+        label: Serial Number
+        hint: Equipment serial number
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: asset_tag
+        label: Asset Tag
+        hint: Company asset tag number
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: operating_system
+        label: Operating System
+        hint: Select operating system
+        type: select_one
+        options:
+          - Windows 11
+          - Windows 10
+          - macOS
+          - Linux
+          - Chrome OS
+          - Other
+        required: true
+      - id: 13
+        name: maintenance_type
+        label: Maintenance Type
+        hint: Type of maintenance being performed
+        type: select_one
+        options:
+          - Routine Maintenance
+          - Preventive Maintenance
+          - Corrective Maintenance
+          - Emergency Repair
+          - Upgrade or Installation
+          - Other
+        required: true
+      - id: 14
+        name: exterior_cleaning
+        label: Exterior Cleaning
+        hint: Was exterior cleaned
+        type: select_one
+        options:
+          - Completed
+          - Not Required
+          - Not Applicable
+        required: true
+      - id: 15
+        name: interior_cleaning
+        label: Interior Cleaning
+        hint: Was interior dust and debris removed
+        type: select_one
+        options:
+          - Completed
+          - Not Required
+          - Not Applicable
+        required: true
+      - id: 16
+        name: screen_cleaning
+        label: Screen Cleaning
+        hint: Was screen cleaned
+        type: select_one
+        options:
+          - Completed
+          - Not Required
+          - Not Applicable
+        required: true
+      - id: 17
+        name: keyboard_cleaning
+        label: Keyboard Cleaning
+        hint: Was keyboard cleaned
+        type: select_one
+        options:
+          - Completed
+          - Not Required
+          - Not Applicable
+        required: true
+      - id: 18
+        name: software_updates
+        label: Software Updates
+        hint: Were software updates applied
+        type: select_one
+        options:
+          - All Updates Applied
+          - Partial Updates Applied
+          - No Updates Available
+          - Updates Deferred
+        required: true
+      - id: 19
+        name: antivirus_scan
+        label: Antivirus Scan
+        hint: Was antivirus scan performed
+        type: select_one
+        options:
+          - Completed - No Threats
+          - Completed - Threats Found and Removed
+          - Not Required
+          - Failed
+        required: true
+      - id: 20
+        name: disk_cleanup
+        label: Disk Cleanup
+        hint: Was disk cleanup performed
+        type: select_one
+        options:
+          - Completed
+          - Not Required
+          - Not Applicable
+        required: true
+      - id: 21
+        name: disk_defragmentation
+        label: Disk Defragmentation
+        hint: Was disk defragmentation performed
+        type: select_one
+        options:
+          - Completed
+          - Not Required
+          - Not Applicable (SSD)
+        required: true
+      - id: 22
+        name: memory_test
+        label: Memory Test
+        hint: Was memory tested
+        type: select_one
+        options:
+          - Passed
+          - Failed
+          - Not Performed
+        required: true
+      - id: 23
+        name: hard_drive_health
+        label: Hard Drive Health
+        hint: What is the health status of drive
+        type: select_one
+        options:
+          - Good
+          - Fair
+          - Poor
+          - Failed
+          - Not Checked
+        required: true
+      - id: 24
+        name: fan_operation
+        label: Fan Operation
+        hint: Are all fans working properly
+        type: select_one
+        options:
+          - All Fans Working
+          - Some Fans Not Working
+          - Fans Need Cleaning
+          - Not Checked
+        required: true
+      - id: 25
+        name: cable_management
+        label: Cable Management
+        hint: Is cable management satisfactory
+        type: select_one
+        options:
+          - Good
+          - Fair
+          - Poor
+          - Not Applicable
+        required: true
+      - id: 26
+        name: peripheral_check
+        label: Peripheral Check
+        hint: Were peripherals tested
+        type: select_one
+        options:
+          - All Working
+          - Some Issues Found
+          - Not Performed
+        required: true
+      - id: 27
+        name: issues_found
+        label: Issues Found
+        hint: Describe any issues discovered
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: parts_replaced
+        label: Parts Replaced
+        hint: List any parts that were replaced
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: recommendations
+        label: Recommendations
+        hint: List any recommendations
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: next_maintenance_date
+        label: Next Maintenance Date
+        hint: When is next maintenance due
+        type: date
+        options: []
+        required: false
+      - id: 31
+        name: maintenance_status
+        label: Maintenance Status
+        hint: Overall maintenance status
+        type: select_one
+        options:
+          - Complete
+          - Partially Complete
+          - Incomplete
+          - Requires Follow Up
+        required: true
+      - id: 32
+        name: technician_signature
+        label: Technician Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true

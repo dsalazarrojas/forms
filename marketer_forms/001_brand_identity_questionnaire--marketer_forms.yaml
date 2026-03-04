@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Identity Questionnaire
+    pages:
+      - id: 1
+        name: company_name
+        label: Company or Brand Name
+        hint: Full legal name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: industry_sector
+        label: Industry or Business Sector
+        hint: What industry does your brand operate in
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Retail
+          - Manufacturing
+          - Entertainment
+          - Other
+        required: true
+      - id: 3
+        name: brand_mission
+        label: What is your brand mission
+        hint: Describe the core purpose and values of your brand
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: target_audience
+        label: Primary Target Audience
+        hint: Who are your main customers or users
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: main_problems
+        label: What problems does your brand solve
+        hint: List the key problems your products or services address
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: brand_personality
+        label: Brand Personality Traits
+        hint: Select characteristics that define your brand
+        type: select_multiple
+        options:
+          - Innovative
+          - Trustworthy
+          - Playful
+          - Professional
+          - Friendly
+          - Bold
+          - Sustainable
+        required: true
+      - id: 7
+        name: key_concerns
+        label: Current Business Concerns
+        hint: What challenges is your brand facing
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: competitors
+        label: Main Competitors
+        hint: Who are your primary competitors
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: unique_value
+        label: Unique Value Proposition
+        hint: What makes your brand different from competitors
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: brand_goals_short
+        label: Short-term Brand Goals (6-12 months)
+        hint: What do you want to achieve
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: brand_goals_long
+        label: Long-term Brand Vision (2+ years)
+        hint: Where do you see your brand in the future
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: brand_colors
+        label: Preferred Brand Colors
+        hint: Any specific colors associated with your brand
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: brand_tone
+        label: Brand Tone of Voice
+        hint: How should your brand communicate
+        type: select_one
+        options:
+          - Formal and Professional
+          - Casual and Friendly
+          - Creative and Artistic
+          - Educational and Informative
+          - Humorous and Light-hearted
+        required: true
+      - id: 14
+        name: current_branding
+        label: How would you rate your current branding
+        hint: 1 - Needs major overhaul, 5 - Excellent and consistent
+        type: select_one
+        options:
+          - 1 - Needs major overhaul
+          - 2 - Significant changes needed
+          - 3 - Some improvements needed
+          - 4 - Good foundation
+          - 5 - Excellent and consistent
+        required: true
+      - id: 15
+        name: budget_available
+        label: Estimated Budget for Brand Development
+        hint: Approximate budget in USD
+        type: select_one
+        options:
+          - Under 5000
+          - 5000 - 15000
+          - 15000 - 50000
+          - 50000 - 100000
+          - Over 100000
+        required: false
+      - id: 16
+        name: timeline
+        label: Project Timeline
+        hint: When do you need this completed
+        type: date
+        options: []
+        required: true

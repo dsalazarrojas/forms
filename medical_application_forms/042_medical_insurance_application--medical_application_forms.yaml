@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Insurance Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: birth_date
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: medical_plan
+      label: Medical Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: insurance_type
+      label: Type of Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: insurance_start_date
+      label: Start Date
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: insurance_id
+      label: Insurance ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_provider_phone
+      label: Medical Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_provider_license
+      label: Medical Provider License
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_provider_type
+      label: Medical Provider Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: medical_provider_specialty
+      label: Medical Provider Specialty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_provider_notes
+      label: Medical Provider Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_group_description
+      label: Medical Group Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_group_address
+      label: Medical Group Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_provider_license_number
+      label: Medical Provider License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

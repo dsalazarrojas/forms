@@ -1,0 +1,270 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Candy Survey
+    pages:
+      - id: 1
+        name: intro_header
+        label: -- Candy Consumer Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: intro_text
+        label: Help us understand your candy preferences and consumption habits by completing this quick survey.
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 3
+        name: respondent_info_header
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: age_group
+        label: What is your age group?
+        hint: Select one
+        type: select_one
+        options:
+          - Under 13
+          - 13-18
+          - 19-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65 plus
+        required: true
+      - id: 5
+        name: gender
+        label: Gender
+        hint: Select one
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+          - Other
+        required: false
+      - id: 6
+        name: location
+        label: What is your location?
+        hint: City or region
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: consumption_header
+        label: -- Candy Consumption Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: consumption_frequency
+        label: How often do you consume candy?
+        hint: Select one
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - A few times per month
+          - Monthly
+          - Rarely
+          - Never
+        required: true
+      - id: 9
+        name: typical_quantity
+        label: On average, how much candy do you consume per week?
+        hint: Estimate in ounces or servings
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: consumption_occasions
+        label: When do you typically eat candy?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - After meals
+          - As a snack
+          - Before bed
+          - At social events
+          - Stress relief
+          - Movie/entertainment
+          - Holiday seasons
+          - Never
+        required: false
+      - id: 11
+        name: favorite_types_header
+        label: -- Candy Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: favorite_candy_type
+        label: What is your favorite type of candy?
+        hint: Select one
+        type: select_one
+        options:
+          - Chocolate
+          - Gummies
+          - Hard Candies
+          - Lollipops
+          - Licorice
+          - Taffy
+          - Caramels
+          - Mints
+          - Other
+        required: true
+      - id: 13
+        name: candy_preferences
+        label: Which of these candy characteristics appeal to you?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Sweet taste
+          - Fruity flavor
+          - Chocolate flavor
+          - Sour taste
+          - Chewy texture
+          - Crunchy texture
+          - Long-lasting flavor
+          - Natural ingredients
+          - Low sugar
+          - Novelty/Fun packaging
+        required: false
+      - id: 14
+        name: brand_loyalty
+        label: Do you have a favorite candy brand?
+        hint: Select one
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - "Multiple favorites"
+        required: true
+      - id: 15
+        name: favorite_brands
+        label: If yes, which brand(s) do you prefer?
+        hint: Optional - list brands
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: health_header
+        label: -- Health and Dietary Considerations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: dietary_restrictions
+        label: Do you have any dietary restrictions affecting candy consumption?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Allergies
+          - Vegetarian/Vegan
+          - Low sugar diet
+          - Dairy-free
+          - Gluten-free
+          - Kosher
+          - Halal
+          - No restrictions
+        required: false
+      - id: 18
+        name: sugar_awareness
+        label: How important is sugar content when choosing candy?
+        hint: Select one
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+          - Not Considered
+        required: true
+      - id: 19
+        name: health_conscious
+        label: Are you interested in healthier candy alternatives?
+        hint: Select one
+        type: select_one
+        options:
+          - Very Interested
+          - Interested
+          - Somewhat Interested
+          - Not Interested
+        required: false
+      - id: 20
+        name: purchasing_header
+        label: -- Purchasing Behavior --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: purchase_location
+        label: Where do you typically purchase candy?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Grocery stores
+          - Convenience stores
+          - Candy shops
+          - Online retailers
+          - Movie theaters
+          - Gas stations
+          - Other
+        required: false
+      - id: 22
+        name: price_sensitivity
+        label: How price-sensitive are you when buying candy?
+        hint: Select one
+        type: select_one
+        options:
+          - Very sensitive
+          - Sensitive
+          - Neutral
+          - Not sensitive
+          - Buy premium regardless of price
+        required: true
+      - id: 23
+        name: feedback_header
+        label: -- Feedback and Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: improvement_suggestions
+        label: What would improve your candy shopping experience?
+        hint: Please share suggestions
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Any other comments about candy?
+        hint: Optional
+        type: text
+        options: []
+        required: false

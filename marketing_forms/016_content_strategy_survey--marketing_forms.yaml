@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Strategy Survey
+    pages:
+      - id: 1
+        name: respondent_profile_header
+        label: -- About You --
+        hint: This helps us tailor our content to your profile
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: job_role
+        label: What is your current job role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: industry_sector
+        label: Which industry do you work in
+        hint: null
+        type: select_one
+        options:
+          - Technology
+          - Marketing/Advertising
+          - Healthcare
+          - Finance
+          - Education
+          - Manufacturing
+          - Other
+        required: true
+      - id: 4
+        name: content_consumption_header
+        label: -- Content Consumption --
+        hint: Tell us how you interact with content
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: preferred_consumption_time
+        label: When do you usually consume professional content
+        hint: null
+        type: select_one
+        options:
+          - Early morning (before 9 AM)
+          - During work hours
+          - Lunch break
+          - Evening (after 6 PM)
+          - Weekends
+        required: true
+      - id: 6
+        name: preferred_channels
+        label: Which channels do you use most for learning
+        hint: Select your top 3
+        type: select_multiple
+        options:
+          - LinkedIn
+          - Specialized Blogs
+          - YouTube
+          - Podcasts
+          - Newsletter
+          - Webinars/Live Events
+        required: true
+      - id: 7
+        name: content_format_preference
+        label: What content format do you find most valuable
+        hint: Choose one
+        type: select_one
+        options:
+          - Short, punchy articles (5-min read)
+          - Deep-dive whitepapers/E-books
+          - Video tutorials
+          - Interactive tools/Calculators
+          - Case studies with data
+        required: true
+      - id: 8
+        name: content_feedback_header
+        label: -- Feedback and Ideas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: current_content_satisfaction
+        label: How satisfied are you with our current content
+        hint: 1 = Not at all, 5 = Extremely satisfied
+        type: select_one
+        options:
+          - 1 - Not Satisfied
+          - 2 - Slightly Satisfied
+          - 3 - Neutral
+          - 4 - Satisfied
+          - 5 - Extremely Satisfied
+        required: true
+      - id: 10
+        name: missing_topics
+        label: What topics would you like us to cover more
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: suggested_improvements
+        label: One thing we could do better with our content
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: survey_completion_date
+        label: Date of Completion
+        hint: null
+        type: date
+        options: []
+        required: true

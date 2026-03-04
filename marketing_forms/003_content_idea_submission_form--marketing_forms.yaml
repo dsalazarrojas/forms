@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Idea Submission Form
+    pages:
+    - id: 1
+      name: contributor_info_header
+      label: -- Contributor Information --
+      hint: Tell us who is submitting this pitch
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contributor_email
+      label: Contributor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department_or_agency
+      label: Department or Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: content_pitch_header
+      label: -- Content Pitch Details --
+      hint: Provide the core concept of your idea
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pitch_title
+      label: Proposed Title or Headline
+      hint: Make it catchy and relevant
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: content_category
+      label: Content Category
+      hint: null
+      type: select_one
+      options:
+      - Industry News
+      - How-to Guide
+      - Case Study
+      - Opinion Piece
+      - Product Update
+      - Interview
+      required: true
+    - id: 8
+      name: pitch_summary
+      label: Pitch Summary
+      hint: Briefly describe the content and its value (2-3 sentences)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_persona
+      label: Target Persona
+      hint: Which customer segment is this for
+      type: select_one
+      options:
+      - Small Business Owners
+      - Enterprise IT Managers
+      - Marketing Directors
+      - Freelance Designers
+      - General Consumers
+      required: true
+    - id: 10
+      name: suggested_visuals
+      label: Suggested Visuals
+      hint: What images, videos, or charts are needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this content
+      type: select_one
+      options:
+      - Low - Seasonal or evergreen
+      - Medium - Timely but not urgent
+      - High - Urgent news or product launch
+      required: true
+    - id: 12
+      name: estimated_completion_time
+      label: Estimated Time to Create (Hours)
+      hint: Your best guess for total production time
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: additional_resources
+      label: Required Resources or Data
+      hint: What data points or expert interviews are needed
+      type: text
+      options: []
+      required: false

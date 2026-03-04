@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: High Dose IV Therapy Assessment
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_info
+      label: Treatment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: med_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: med_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Hypertension
+      - Diabetes
+      - Cardiovascular Disease
+      - Chronic Obstructive Pulmonary Disease
+      - Chronic Kidney Disease
+      - Chronic Liver Disease
+      - Rheumatoid Arthritis
+      - Osteoarthritis
+      - Other (please specify)
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: med_conditions_others
+      label: Other Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: med_prescriptions
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Anticoagulant Medication
+      - Insulin
+      - Beta Blockers
+      - Chronic Kidney Disease Medication
+      - Pain Management Medication
+      - Other (please specify)
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: pain
+      label: Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: anxiety
+      label: Anxiety
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: oxygen_saturation
+      label: Oxygen Saturation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_device_info
+      label: Medical Device Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: device_id
+      label: ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: device_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: device_serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: device_serial_number_other
+      label: Other Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_device_location
+      label: Medical Device Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_device_location_other
+      label: Other Medical Device Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_device_frequency
+      label: Medical Device Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: medical_device_battery_life
+      label: Medical Device Battery Life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: medical_device_status
+      label: Medical Device Status
+      hint: null
+      type: select_one
+      options:
+      - Functional
+      - Non-Functional
+      - Lost
+      - Other (please specify)
+      required: false
+    - id: 24
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: treatment_notes
+      label: Treatment Notes
+      hint: null
+      type: note
+      options: []
+      required: false

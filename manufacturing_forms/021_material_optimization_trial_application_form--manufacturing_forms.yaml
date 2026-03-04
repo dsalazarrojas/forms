@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Optimization Trial Application Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Material Optimization Trial
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_2
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_3
+      label: Manufacturing Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: Trial Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

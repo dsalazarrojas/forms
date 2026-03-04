@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mental Capacity Assessment Form
+    pages:
+    - id: 1
+      name: mental_capacity_form_1
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_provider_name
+      label: healthcare_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_last_assessment
+      label: date_of_last_assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone_number
+      label: patient_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_referral
+      label: reason_for_referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mental_state_at_last_assessment
+      label: mental_state_at_last_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_diagnosis
+      label: medical_diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_treatment_plan
+      label: medical_treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mental_capacity_level
+      label: mental_capacity_level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      - Level 5
+      required: true
+    - id: 12
+      name: capacity_to_make_healthcare_decisions
+      label: capacity_to_make_healthcare_decisions
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: capacity_to_manage_daily_living
+      label: capacity_to_manage_daily_living
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: capacity_to_understand_medical_information
+      label: capacity_to_understand_medical_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: capacity_to_understand_medical_instructions
+      label: capacity_to_understand_medical_instructions
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: capacity_to_understand_own_condition
+      label: capacity_to_understand_own_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: capacity_to_understand_the_effects_of_medications
+      label: capacity_to_understand_the_effects_of_medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: capacity_to_understand_medical_treatment_options
+      label: capacity_to_understand_medical_treatment_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: capacity_to_understand_medical_treatment_alternatives
+      label: capacity_to_understand_medical_treatment_alternatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: capacity_to_understand_medical_risks_and_benefits
+      label: capacity_to_understand_medical_risks_and_benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: capacity_to_understand_medical_consequences
+      label: capacity_to_understand_medical_consequences
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: capacity_to_make_healthcare_decisions_with_support
+      label: capacity_to_make_healthcare_decisions_with_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: capacity_to_manage_money
+      label: capacity_to_manage_money
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: capacity_to_manage_medical_condition
+      label: capacity_to_manage_medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: capacity_to_understand_disease_management
+      label: capacity_to_understand_disease_management
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true

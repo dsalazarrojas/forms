@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Recovery Outcome Assessment Form
+    pages:
+    - id: 1
+      name: patient_recovery_outcome_assessment_form_1
+      label: How are you feeling today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pain_level_1
+      label: pain_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_recover_progress_1
+      label: Patient Recover Progress
+      hint: null
+      type: select_one
+      options:
+      - 1 - Excellent
+      - 2 - Good
+      - 3 - Slightly Difficult
+      - 4 - Moderately Difficult
+      - 5 - Very Difficult
+      required: false
+    - id: 4
+      name: recovery_timeframe_1
+      label: Recovery Timeframe
+      hint: When will you recover?
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: recovery_expectation_1
+      label: Recovery Expectation
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Complete Recovery
+      - 2 - Partial Recovery
+      - 3 - No Recovery
+      - 4 - Improvement
+      required: false
+    - id: 6
+      name: follow_up_frequency_1
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1 - Daily
+      - 2 - Weekly
+      - 3 - Monthly
+      required: false
+    - id: 7
+      name: patient_comments_1
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_team_comments_1
+      label: Medical Team Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_date_1
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_frequency_2
+      label: Follow Up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1 - Daily
+      - 2 - Weekly
+      - 3 - Monthly
+      required: false
+    - id: 11
+      name: patient_comments_1
+      label: Additional Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false

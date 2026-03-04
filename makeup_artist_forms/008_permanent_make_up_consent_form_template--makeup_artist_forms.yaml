@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: permanent_make_up_consent_form_template
+    pages:
+    - id: 1
+      name: permanent_make_up_consent_form_template_page_1
+      label: client_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: client_information
+      label: client_information
+      hint: Enter all of the following information about the client
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_signature
+      label: artist_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_consent
+      label: date_of_consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_of_consent
+      label: time_of_consent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: permanent_make_up_design
+      label: permanent_make_up_design
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

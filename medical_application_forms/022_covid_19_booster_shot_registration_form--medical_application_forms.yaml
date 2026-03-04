@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Shot Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: insurance_carrier
+      label: Insurance Carrier
+      hint: Name of your health insurance company
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance_member_id
+      label: Insurance Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Name of your doctor
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: initial_vaccine_type
+      label: Initial COVID-19 Vaccine Type
+      hint: What vaccine did you initially receive?
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Other
+      - Not sure
+      required: true
+    - id: 13
+      name: initial_vaccine_date
+      label: Date of Initial Vaccination
+      hint: When did you complete the primary series?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: booster_eligibility
+      label: Booster Eligibility Status
+      hint: Do you qualify for a booster dose?
+      type: select_one
+      options:
+      - Yes - 6+ months after primary
+      - Yes - 3+ months if immunocompromised
+      - Not sure
+      - Need to check
+      required: true
+    - id: 15
+      name: previous_boosters
+      label: Number of Previous Booster Doses
+      hint: Boosters already received
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: preferred_vaccine
+      label: Preferred Booster Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Same as initial
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - No preference
+      required: false
+    - id: 17
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like your booster shot?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: preferred_time
+      label: Preferred Time
+      hint: What time works best for you?
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 5pm
+      - Evening - 5pm to 8pm
+      - Flexible
+      required: false
+    - id: 19
+      name: location_preference
+      label: Preferred Clinic Location
+      hint: If multiple locations available
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: accessibility_needs
+      label: Any Accessibility Needs
+      hint: Wheelchair accessible, parking, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: allergies
+      label: Known Vaccine Allergies
+      hint: Any allergies to vaccine components?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Diabetes, heart disease, cancer, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

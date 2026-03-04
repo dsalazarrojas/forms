@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Styling Questionaire
+    pages:
+    - id: 1
+      name: party_details
+      label: party_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: party_style
+      label: party_style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Style 1''}'
+      - '{''id'': 2, ''label'': ''Style 2''}'
+      - '{''id'': 3, ''label'': ''Style 3''}'
+      required: false
+    - id: 3
+      name: party_theme
+      label: party_theme
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Theme_goals''}'
+      - '{''id'': 2, ''label'': ''Theme_goals''}'
+      - '{''id'': 3, ''label'': ''Theme_goals''}'
+      required: false
+    - id: 4
+      name: party_size
+      label: party_size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      required: false
+    - id: 5
+      name: party_date
+      label: party_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: party_time
+      label: party_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: party_location
+      label: party_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      - '{''id'': 3, ''label'': ''Location 3''}'
+      required: false
+    - id: 8
+      name: party_details2
+      label: party_details2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: party_time2
+      label: party_time2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Time 1''}'
+      - '{''id'': 2, ''label'': ''Time 2''}'
+      - '{''id'': 3, ''label'': ''Time 2''}'
+      required: false

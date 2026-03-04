@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: radiology_order_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: imaging_info
+      label: Imaging Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergy_list
+      label: Allergy List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_reason
+      label: Order Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exam_type
+      label: Exam Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: imaging_requested
+      label: Imaging Requested
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: imaging_procedure
+      label: Imaging Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: imaging_location
+      label: Imaging Location
+      hint: null
+      type: text
+      options: []
+      required: false

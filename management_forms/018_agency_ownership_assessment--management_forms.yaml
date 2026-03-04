@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agency Ownership Assessment
+    pages:
+    - id: 1
+      name: agency_name
+      label: Agency Name
+      hint: Enter the full name of the agency
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Enter the date of this ownership assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: prepared_by
+      label: Prepared By
+      hint: Enter the name of the person preparing this assessment
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_period
+      label: Assessment Period
+      hint: Enter the period covered by this assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ownership_structure_header
+      label: -- Ownership Structure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: entity_type
+      label: Entity Type
+      hint: Select the type of entity for the agency
+      type: select_one
+      options:
+      - Corporation
+      - Limited Liability Company
+      - Partnership
+      - Sole Proprietorship
+      - Non-profit Organization
+      - Government Entity
+      - Other
+      required: true
+    - id: 7
+      name: total_ownership_percentage
+      label: Total Ownership Percentage
+      hint: Enter the total percentage of ownership (should equal 100%)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: ownership_breakdown_header
+      label: -- Ownership Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: owner_name_1
+      label: Owner Name 1
+      hint: Enter the name of the first owner
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: owner_percentage_1
+      label: Ownership Percentage 1
+      hint: Enter the percentage of ownership for the first owner
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: owner_type_1
+      label: Owner Type 1
+      hint: Select the type of the first owner
+      type: select_one
+      options:
+      - Individual
+      - Corporate Entity
+      - Trust
+      - Partnership
+      - Other
+      required: true
+    - id: 12
+      name: owner_name_2
+      label: Owner Name 2
+      hint: Enter the name of the second owner (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_percentage_2
+      label: Ownership Percentage 2
+      hint: Enter the percentage of ownership for the second owner (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: owner_type_2
+      label: Owner Type 2
+      hint: Select the type of the second owner (if applicable)
+      type: select_one
+      options:
+      - Individual
+      - Corporate Entity
+      - Trust
+      - Partnership
+      - Other
+      required: false
+    - id: 15
+      name: owner_name_3
+      label: Owner Name 3
+      hint: Enter the name of the third owner (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_percentage_3
+      label: Ownership Percentage 3
+      hint: Enter the percentage of ownership for the third owner (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: owner_type_3
+      label: Owner Type 3
+      hint: Select the type of the third owner (if applicable)
+      type: select_one
+      options:
+      - Individual
+      - Corporate Entity
+      - Trust
+      - Partnership
+      - Other
+      required: false
+    - id: 18
+      name: ownership_changes_recent
+      label: Recent Ownership Changes
+      hint: Have there been any ownership changes in the past year?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: ownership_change_details
+      label: Ownership Change Details
+      hint: If yes, provide details about recent ownership changes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documents_attached
+      label: Supporting Documents Attached
+      hint: List any supporting documents attached to this assessment
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Digital signature of the authorized official
+      type: text
+      options: []
+      required: true

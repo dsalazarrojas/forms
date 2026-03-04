@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Allergy Form
+    pages:
+    - id: 1
+      name: allery_form_fields
+      label: Allergy Form Fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: allergy_type
+      label: Allergy Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergy_name
+      label: Allergy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergy_description
+      label: Allergy Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergy_status
+      label: Allergy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: allergy_onset_date
+      label: Allergy Onset Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: allergy_reaction
+      label: Allergy Reaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergy_medication
+      label: Allergy Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: allergy_treatment
+      label: Allergy Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergy_allergy_medication_administered
+      label: Allergy Allergy Medication Administered
+      hint: null
+      type: text
+      options: []
+      required: false

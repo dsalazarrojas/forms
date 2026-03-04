@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Safety Evaluation Registration
+    pages:
+    - id: 1
+      name: machine_id
+      label: machine_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: inspection_frequency
+      label: inspection_frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-Annual
+      - Monthly
+      - Annually
+      required: true
+    - id: 3
+      name: inspection_status
+      label: inspection_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: machine_model
+      label: machine_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: safety_hazard
+      label: safety_hazard
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: compliance_status
+      label: compliance_status
+      hint: null
+      type: select_one
+      options:
+      - Not compliant
+      - Compliant
+      - Partially compliant
+      required: true
+    - id: 7
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true

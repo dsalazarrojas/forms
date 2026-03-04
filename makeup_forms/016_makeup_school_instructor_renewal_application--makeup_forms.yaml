@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup School Instructor Renewal Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: documents_list
+      label: Documents List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: document_1
+      label: Document 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: document_2
+      label: Document 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_3
+      label: Document 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_documents
+      label: Confirm Documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: confirm_name
+      label: Confirm Name
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: confirm_address
+      label: Confirm Address
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 17
+      name: confirm_school
+      label: Confirm School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: confirm_school_name
+      label: Confirm School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirm_school_address
+      label: Confirm School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: confirm_document_1
+      label: Confirm Document 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: confirm_document_2
+      label: Confirm Document 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: confirm_document_3
+      label: Confirm Document 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: confirm_document_4
+      label: Confirm Document 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: confirm_document_5
+      label: Confirm Document 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

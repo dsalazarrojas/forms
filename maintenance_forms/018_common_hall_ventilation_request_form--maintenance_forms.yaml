@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Common Hall Ventilation Request Form
+    pages:
+    - id: 1
+      name: request_information
+      label: Request Information
+      hint: Details about the ventilation request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of this ventilation request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_id
+      label: Request ID
+      hint: Unique request reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_information
+      label: Requester Information
+      hint: Details about the person making the request
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the requester
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_email
+      label: Requester Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_information
+      label: Property Information
+      hint: Details about the building location
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: building_name
+      label: Building Name
+      hint: Name of the building
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: building_address
+      label: Building Address
+      hint: Full address of the building
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: location_details
+      label: Location Details
+      hint: Specific location of ventilation issue
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: hall_location
+      label: Hall Location
+      hint: Which hall has the ventilation issue
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: floor_level
+      label: Floor Level
+      hint: Which floor is affected
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zone_area
+      label: Zone Area
+      hint: Specific zone or area within the hall
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_details
+      label: Issue Details
+      hint: Information about the ventilation problem
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: issue_type
+      label: Issue Type
+      hint: What type of ventilation issue is occurring
+      type: select_one
+      options:
+      - Poor Air Circulation
+      - Unpleasant Odors
+      - Excessive Heat
+      - Excessive Cold
+      - High Humidity
+      - Stuffiness
+      - Draft Issues
+      - Noise from Vents
+      - No Airflow
+      required: true
+    - id: 18
+      name: issue_severity
+      label: Issue Severity
+      hint: How severe is the ventilation issue
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Severe
+      - Critical
+      required: true
+    - id: 19
+      name: issue_duration
+      label: Issue Duration
+      hint: How long has this issue existed
+      type: select_one
+      options:
+      - Less than 1 day
+      - 1-3 days
+      - 4-7 days
+      - 1-2 weeks
+      - More than 2 weeks
+      - More than 1 month
+      required: true
+    - id: 20
+      name: affected_population
+      label: Affected Population
+      hint: Approximately how many people are affected
+      type: select_one
+      options:
+      - 1-5 people
+      - 6-20 people
+      - 21-50 people
+      - 50+ people
+      required: true
+    - id: 21
+      name: health_concerns
+      label: Health Concerns
+      hint: Are there any health concerns related to this issue
+      type: select_one
+      options:
+      - Yes - Urgent
+      - Yes - Moderate
+      - 'No'
+      required: true
+    - id: 22
+      name: health_concern_details
+      label: Health Concern Details
+      hint: Describe the health concerns
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_reports
+      label: Previous Reports
+      hint: Has this issue been reported before
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: priority_request
+      label: Priority Request
+      hint: Requested priority level
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Emergency
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information or comments
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: When is the best time to contact you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Appliance Issue Report Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: appliance_name
+      label: appliance-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appliance_location
+      label: appliance-location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_description
+      label: issue-description
+      hint: Briefly describe the problem with your appliance
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_requested
+      label: service-requested
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 6
+      name: scheduled_service
+      label: scheduled-service
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 7
+      name: preferred_date_time
+      label: preferred-date-time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time
+      label: preferred-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned-tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: created_by
+      label: created-by
+      hint: null
+      type: text
+      options: []
+      required: true

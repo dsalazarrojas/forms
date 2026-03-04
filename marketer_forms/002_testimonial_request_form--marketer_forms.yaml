@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Testimonial Request Form
+    pages:
+    - id: 1
+      name: testimonial_request
+      label: testimonial_request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_request
+      label: rate_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: consent
+      label: consent_consent
+      hint: null
+      type: select_one
+      options:
+      - I am willing to give my testimonial
+      - I am not willing to give my testimonial
+      required: true
+    - id: 4
+      name: testimonial
+      label: testimonial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_services
+      label: customer_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

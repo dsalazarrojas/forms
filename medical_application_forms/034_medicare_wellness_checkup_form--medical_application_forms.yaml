@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: medicare_wellness_checkup_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: Enter patient email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''ABC Medical Group''}'
+      - '{''id'': 2, ''text'': ''DEF Medical Group''}'
+      required: true
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: Please enter your medical condition
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''A'', ''label'': ''A''}'
+      - '{''id'': 2, ''text'': ''B'', ''label'': ''B''}'
+      required: true
+    - id: 16
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''A'', ''label'': ''A''}'
+      - '{''id'': 2, ''text'': ''B'', ''label'': ''B''}'
+      - '{''id'': 3, ''text'': ''C'', ''label'': ''C''}'
+      required: true
+    - id: 17
+      name: medical_providers
+      label: Medical Providers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Provider 1'', ''label'': ''Provider 1''}'
+      - '{''id'': 2, ''text'': ''Provider 2'', ''label'': ''Provider 2''}'
+      required: true
+    - id: 18
+      name: medical_conditions_list
+      label: Medical Conditions List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Condition 1'', ''label'': ''Condition 1''}'
+      - '{''id'': 2, ''text'': ''Condition 2'', ''label'': ''Condition 2''}'
+      required: true
+    - id: 19
+      name: medical_providers_list
+      label: Medical Providers List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: medical_conditions_list
+      label: Medical Conditions List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: patient_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: patient_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: patient_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true

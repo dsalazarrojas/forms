@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Commission Adjustment Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amount_type
+      label: Amount Type
+      hint: null
+      type: select_one
+      options:
+      - increase
+      - decrease
+      required: true
+    - id: 9
+      name: amount_value
+      label: Amount Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: reason_value
+      label: Reason Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: supporting_documents_value
+      label: Supporting Documents Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_value
+      label: Manager Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_rep_value
+      label: Sales Rep Value
+      hint: null
+      type: text
+      options: []
+      required: false

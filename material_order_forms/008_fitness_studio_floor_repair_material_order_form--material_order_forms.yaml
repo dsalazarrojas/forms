@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Studio Floor Repair Material Order Form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact
+      label: customer contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery
+      label: delivery details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: materials
+      label: materials needed
+      hint: null
+      type: select_multiple
+      options:
+      - epoxy
+      - cement
+      - sealant
+      - paint
+      - sanding
+      - other
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - john
+      - jane
+      required: true
+    - id: 11
+      name: created_by
+      label: created by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - john
+      - jane
+      required: false
+    - id: 12
+      name: updated_by
+      label: updated by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - john
+      - jane
+      required: false
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 14
+      name: form_version
+      label: form version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: created
+      label: created date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated
+      label: updated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted
+      label: submitted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email_to
+      label: email to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone_to
+      label: phone to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments_to
+      label: comments to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: created_by_label
+      label: created by label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments_to
+      label: comments to
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - chat
+      required: false
+    - id: 25
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false

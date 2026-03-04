@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Compliance Document Upload Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Compliance Documents
+      - Product Data Sheets
+      - Certificates
+      required: true
+    - id: 3
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: document_number
+      label: Document Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: document_version
+      label: Document Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: document_comments
+      label: Document Comments
+      hint: null
+      type: text
+      options: []
+      required: false

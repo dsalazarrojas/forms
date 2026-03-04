@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Powdered Juice Consumption Survey
+    pages:
+    - id: 1
+      name: powdered_juice_consumption_survey
+      label: Powdered Juice Consumption
+      hint: Tell us about your powdered juice consumption habits
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''18-24''}'
+      - '{''label'': ''25-34''}'
+      - '{''label'': ''35-44''}'
+      - '{''label'': ''45-54''}'
+      - '{''label'': ''55-64''}'
+      - '{''label'': ''65+''}'
+      required: false
+    - id: 3
+      name: purchase_frequency
+      label: How often do you purchase powdered juice?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Semiannually''}'
+      - '{''label'': ''Yearly''}'
+      required: false
+    - id: 4
+      name: preferred_flavor
+      label: Preferred Flavor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Original''}'
+      - '{''label'': ''Mixed''}'
+      - '{''label'': ''Fruit Punch''}'
+      - '{''label'': ''Berry''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: purchase_reason
+      label: Why do you purchase powdered juice?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 7
+      name: recommendation_intent
+      label: Will you recommend powdered juice to a friend?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: false
+    - id: 8
+      name: other_flavor_specify
+      label: Other Flavor
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_purpose_specify
+      label: Other Purpose
+      hint: Please describe
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

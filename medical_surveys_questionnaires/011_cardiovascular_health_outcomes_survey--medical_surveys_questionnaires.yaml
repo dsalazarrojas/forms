@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiovascular Health Outcomes Survey
+    pages:
+    - id: 1
+      name: demographics_header
+      label: -- Participant Demographics & Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_id_reference
+      label: Participant ID
+      hint: Enter your assigned study ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age_years
+      label: Current Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender_identity
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - label: Male
+        value: male
+      - label: Female
+        value: female
+      - label: Non-binary
+        value: non_binary
+      - label: Prefer not to say
+        value: skip
+      required: true
+    - id: 5
+      name: diagnosis_history_header
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: hypertension_diagnosis_status
+      label: Have you been diagnosed with hypertension?
+      hint: High blood pressure
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      - label: Not Sure
+        value: unsure
+      required: true
+    - id: 7
+      name: lifestyle_activity_header
+      label: -- Lifestyle Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: daily_physical_activity_minutes
+      label: Average Daily Physical Activity (minutes)
+      hint: Brisk walking, cycling, swimming, etc.
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fruit_vegetable_intake_servings
+      label: Daily Fruit and Vegetable Intake (servings)
+      hint: 1 serving = 1/2 cup or 1 medium fruit
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: smoking_status_current
+      label: Current Smoking Status
+      hint: Select one
+      type: select_one
+      options:
+      - label: Never Smoked
+        value: never
+      - label: Former Smoker (Quit >1 year ago)
+        value: former
+      - label: Recent Quitter (Quit <1 year ago)
+        value: recent_quit
+      - label: Current Smoker
+        value: current
+      required: true
+    - id: 11
+      name: symptoms_frequency_header
+      label: -- Symptom Frequency (Past 30 Days) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: chest_pain_frequency_level
+      label: Frequency of Chest Pain or Pressure
+      hint: null
+      type: select_one
+      options:
+      - label: Never
+        value: never
+      - label: Rarely (1-2 times)
+        value: rarely
+      - label: Sometimes (Weekly)
+        value: sometimes
+      - label: Often (Daily)
+        value: often
+      required: true
+    - id: 13
+      name: shortness_of_breath_frequency_level
+      label: Frequency of Shortness of Breath
+      hint: During normal daily activities
+      type: select_one
+      options:
+      - label: Never
+        value: never
+      - label: Rarely
+        value: rarely
+      - label: Sometimes
+        value: sometimes
+      - label: Often
+        value: often
+      required: true
+    - id: 14
+      name: recent_hospitalizations_count
+      label: Number of Cardiac Hospitalizations (Past Year)
+      hint: Count all emergency or scheduled admissions
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: quality_of_life_rating_overall
+      label: Overall Health-Related Quality of Life Rating (1-10)
+      hint: 1 - Poor, 10 - Excellent
+      type: number
+      options: []
+      required: true

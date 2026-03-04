@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Rejection Summary Report Form
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Batch Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: batch_id
+      label: Batch ID
+      hint: Unique identifier for the rejected batch
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: batch_date
+      label: Batch Production Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: batch_size
+      label: Total Units in Batch
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: units_rejected
+      label: Units Rejected
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rejection_percentage
+      label: Rejection Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reporting_section
+      label: -- Report Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: quality_inspector
+      label: Quality Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Manufacturing Department
+      hint: null
+      type: select_one
+      options:
+      - Assembly
+      - Fabrication
+      - Welding
+      - Testing
+      - Packaging
+      - Finishing
+      required: true
+    - id: 11
+      name: defect_section
+      label: -- Defect Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_defect
+      label: Primary Defect Type
+      hint: null
+      type: select_one
+      options:
+      - Dimensional Error
+      - Surface Defect
+      - Material Flaw
+      - Assembly Error
+      - Functional Failure
+      - Color/Finish Issue
+      required: true
+    - id: 13
+      name: defect_description
+      label: Detailed Defect Description
+      hint: Explain the specific issues found
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: root_cause
+      label: Root Cause Analysis
+      hint: What caused this batch to be rejected
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: severity_level
+      label: Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 16
+      name: corrective_action
+      label: Corrective Action Taken
+      hint: What steps are being implemented
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: preventive_section
+      label: -- Prevention Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preventive_measures
+      label: Preventive Measures
+      hint: How will this be prevented in future batches
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_required
+      label: Follow-up Inspection Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: follow_up_date
+      label: Follow-up Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any supplementary information
+      type: text
+      options: []
+      required: false

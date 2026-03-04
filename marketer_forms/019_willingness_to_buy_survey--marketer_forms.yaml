@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Willingness To Buy Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness
+      label: Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: interest
+      label: Interest
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: true
+    - id: 4
+      name: preferences
+      label: Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: purchase_intent
+      label: Purchase Intent
+      hint: null
+      type: select_one
+      options:
+      - -.report - -
+      - Other
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

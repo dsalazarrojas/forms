@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID Daily Health Screening Form For School
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: screening_date
+      label: Date of Screening
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: fever_check
+      label: Temperature - 100.4F or Higher
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: actual_temperature
+      label: Temperature Reading
+      hint: In Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cough
+      label: New or Worsening Cough
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: shortness_of_breath
+      label: Shortness of Breath or Difficulty Breathing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: sore_throat
+      label: Sore Throat
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: fatigue
+      label: Extreme Fatigue or Lethargy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: headache
+      label: Headache or Body Aches
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: taste_smell
+      label: Loss of Taste or Smell
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: nausea_vomiting
+      label: Nausea, Vomiting, or Diarrhea
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: covid_contact
+      label: Known Contact with COVID-19 Case
+      hint: Within past 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 14
+      name: contact_details
+      label: Contact Details
+      hint: Relationship and date of contact
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prior_diagnosis
+      label: Prior COVID-19 Diagnosis
+      hint: Within past 3 months
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: clearance_to_attend
+      label: Clearance to Attend School
+      hint: Based on screening results
+      type: select_one
+      options:
+      - Cleared - may attend
+      - Not cleared - stay home
+      - Conditional - consult parent or physician
+      required: true
+    - id: 17
+      name: health_pass_issued
+      label: Health Screening Pass Issued
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: screening_staff_name
+      label: Screened By - Staff Name
+      hint: Name of person conducting screening
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: screening_time
+      label: Time of Screening
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Health Notes
+      hint: Any observations or concerns
+      type: text
+      options: []
+      required: false

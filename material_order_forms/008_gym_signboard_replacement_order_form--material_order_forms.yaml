@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Signboard Replacement Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Gym Signboard Replacement Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''new_signboard'', ''label'': ''New Gym Signboard''}'
+      - '{''value'': ''replacement_signboard'', ''label'': ''Replacement Gym Signboard''}'
+      required: false
+    - id: 3
+      name: order_details
+      label: order_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,281 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post-Vaccination Questionnaire
+    pages:
+    - id: 1
+      name: vaccination_details
+      label: Post-vaccination Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vaccine_administered
+      label: Vaccine Administered
+      hint: null
+      type: select_one
+      options:
+      - COVID-19
+      - Pfizer
+      - Moderna
+      - AstraZeneca
+      - Janssen
+      - Johnson & Johnson
+      required: false
+    - id: 3
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_time
+      label: Vaccination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: side_effects
+      label: Common Side Effects
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Fever
+      - Pain
+      - Fatigue
+      - Headache
+      - Nausea
+      - Vomiting
+      - Dizziness
+      - Rash
+      - Allergic Reaction
+      - Swollen Lymph Node
+      required: false
+    - id: 6
+      name: medication_takes
+      label: Medication Takes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_contact
+      label: Follow up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Sulfa
+      - Ester-2
+      - Painkillers
+      - Aspirin
+      - Tylenol
+      - Advil
+      - Bayer
+      - Ibuprofen
+      - Motrin
+      - Aleve
+      - Motrin
+      - Excedrin
+      - Excedrin
+      required: false
+    - id: 12
+      name: medical_condition
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Asthma
+      - Hypertension
+      - Kidney disease
+      - Heart disease
+      - Stroke
+      - Thyroid disease
+      - Cancer
+      - Pulmonary disease
+      - Chronic bronchitis
+      - Chronic asthma
+      - Chronic bronchitis
+      - Chronic obstructive pulmonary disease
+      - Chronic kidney disease
+      - Chronic liver disease
+      - Liver disease
+      - Gastrointestinal disorder
+      required: false
+    - id: 13
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_name
+      label: Patient's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_dob
+      label: Patient's DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: patient_gender
+      label: Patient's Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 18
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_address
+      label: Patient's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_phone
+      label: Patient's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_email
+      label: Patient's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_number_state
+      label: Medical License Number State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - District of Columbia
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Puerto Rico
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: false
+    - id: 23
+      name: doctor_address
+      label: Doctor's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: doctor_license_number
+      label: Doctor's License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false

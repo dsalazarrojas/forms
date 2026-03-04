@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Board Meeting Performance Review
+    pages:
+    - id: 1
+      name: review_period
+      label: Review Period
+      hint: Time period being reviewed
+      type: select_one
+      options:
+      - Q1 2026
+      - Q2 2026
+      - Q3 2026
+      - Q4 2026
+      - Annual 2025
+      - Custom Period
+      required: true
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of person completing review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_role
+      label: Reviewer Role
+      hint: Your position
+      type: select_one
+      options:
+      - Board Chair
+      - Vice Chair
+      - Board Member
+      - Executive Director
+      - External Evaluator
+      required: true
+    - id: 4
+      name: meetings_held
+      label: Number of Meetings Held
+      hint: Total meetings in this period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: average_attendance_rate
+      label: Average Attendance Rate
+      hint: Overall attendance percentage
+      type: select_one
+      options:
+      - 100%
+      - 90-99%
+      - 80-89%
+      - 70-79%
+      - Below 70%
+      required: true
+    - id: 6
+      name: board_preparedness
+      label: Board Preparedness
+      hint: How well prepared were members?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 7
+      name: strategic_discussions
+      label: Strategic Discussions Quality
+      hint: Quality of strategic conversations
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 8
+      name: financial_oversight
+      label: Financial Oversight
+      hint: Quality of financial review
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 9
+      name: risk_management_review
+      label: Risk Management Review
+      hint: How well were risks addressed?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: executive_director_support
+      label: Executive Director Support
+      hint: How well did the board support leadership?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 11
+      name: committee_effectiveness
+      label: Committee Effectiveness
+      hint: How effective were committee reports?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - No Committees
+      required: false
+    - id: 12
+      name: decision_quality
+      label: Decision Quality
+      hint: Quality of decisions made
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 13
+      name: follow_through_on_actions
+      label: Follow-Through on Actions
+      hint: Were action items completed?
+      type: select_one
+      options:
+      - All actions completed
+      - Most actions completed
+      - Some actions completed
+      - Few actions completed
+      - No actions completed
+      required: true
+    - id: 14
+      name: board_dynamics
+      label: Board Dynamics
+      hint: How would you describe board interactions?
+      type: select_one
+      options:
+      - Highly Collaborative
+      - Collaborative
+      - Neutral
+      - Somewhat Contentious
+      - Highly Contentious
+      required: true
+    - id: 15
+      name: governance_compliance
+      label: Governance Compliance
+      hint: Adherence to governance policies
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: overall_performance_rating
+      label: Overall Performance Rating
+      hint: Rate overall board performance
+      type: select_one
+      options:
+      - 5 - Outstanding
+      - 4 - Exceeds Expectations
+      - 3 - Meets Expectations
+      - 2 - Below Expectations
+      - 1 - Unsatisfactory
+      required: true
+    - id: 17
+      name: key_strengths
+      label: Key Strengths
+      hint: What did the board do well?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What needs improvement?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: priorities_next_period
+      label: Priorities for Next Period
+      hint: What should be the focus?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_recommendations
+      label: Additional Recommendations
+      hint: Any other suggestions
+      type: text
+      options: []
+      required: false

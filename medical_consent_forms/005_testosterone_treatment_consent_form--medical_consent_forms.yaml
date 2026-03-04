@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Testosterone Treatment Consent Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: Check this box to give permission for hormone replacement therapy.
+      type: select_multiple
+      options:
+      - I understand that testosterone therapy may have risks and side effects.
+      - I understand that hormone replacement may interfere with other medical conditions.
+      - I understand that hormone replacement therapy may have risks and side effects.
+      required: false
+    - id: 6
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_group_location
+      label: Medical Group Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Monitoring Alarm Setup
+    pages:
+    - id: 1
+      name: setup_page
+      label: Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: alarm_frequency
+      label: Alarm frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: alarm_type
+      label: Alarm type
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 4
+      name: alarm_threshold
+      label: Alarm threshold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: alarm_duration
+      label: Alarm duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medication_reminders
+      label: Medication reminders
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 7
+      name: alarm_sound
+      label: Alarm sound
+      hint: null
+      type: select_multiple
+      options:
+      - Slight
+      - Loud
+      - Silent
+      required: false
+    - id: 8
+      name: alarm_volume
+      label: Alarm volume
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: alarm_message
+      label: Alarm message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: setup_completed
+      label: Setup completed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: setup_instructions
+      label: Setup instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: setup_comments
+      label: Setup comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

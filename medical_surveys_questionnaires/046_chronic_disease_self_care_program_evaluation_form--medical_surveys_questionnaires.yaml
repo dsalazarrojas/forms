@@ -1,0 +1,333 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Disease Self-Care Program Evaluation Form
+    pages:
+      - id: 1
+        name: participant_name
+        label: Full Name
+        hint: Optional - your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For survey follow-up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: participant_id
+        label: Participant ID
+        hint: If you have one
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: program_name
+        label: Program Name
+        hint: Which program did you complete
+        type: select_one
+        options:
+          - Diabetes Self-Management
+          - Hypertension Management
+          - Heart Disease Self-Care
+          - COPD Self-Management
+          - Chronic Pain Management
+          - Multiple Conditions Program
+          - Other
+        required: true
+      - id: 5
+        name: program_duration
+        label: Program Duration
+        hint: How long was your program
+        type: select_one
+        options:
+          - 4 weeks
+          - 6 weeks
+          - 8 weeks
+          - 12 weeks
+          - 6 months
+          - Other
+        required: true
+      - id: 6
+        name: completion_status
+        label: Completion Status
+        hint: Did you complete the program
+        type: select_one
+        options:
+          - Completed fully
+          - Mostly completed
+          - Partially completed
+          - Did not complete
+        required: true
+      - id: 7
+        name: section_program_info
+        label: -- Program Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: chronic_condition
+        label: Chronic Condition
+        hint: Your primary condition
+        type: select_one
+        options:
+          - Type 2 Diabetes
+          - Hypertension
+          - Heart Disease
+          - COPD
+          - Arthritis
+          - Chronic Pain
+          - Depression
+          - Multiple Conditions
+          - Other
+        required: true
+      - id: 9
+        name: self_care_confidence_before
+        label: Self-Care Confidence Before
+        hint: How confident were you before program
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 10
+        name: self_care_confidence_after
+        label: Self-Care Confidence After
+        hint: How confident are you now
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not very confident
+          - Not confident at all
+        required: true
+      - id: 11
+        name: section_confidence
+        label: -- Self-Care Confidence --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: symptom_management_improvement
+        label: Symptom Management Improvement
+        hint: How much has symptom management improved
+        type: select_one
+        options:
+          - Significantly improved
+          - Moderately improved
+          - Slightly improved
+          - No change
+          - Worse
+        required: true
+      - id: 13
+        name: medication_adherence_improvement
+        label: Medication Adherence Improvement
+        hint: How has medication adherence changed
+        type: select_one
+        options:
+          - Much better
+          - Somewhat better
+          - No change
+          - Somewhat worse
+          - Much worse
+        required: true
+      - id: 14
+        name: lifestyle_changes_made
+        label: Lifestyle Changes Made
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Healthier eating
+          - Regular exercise
+          - Better sleep habits
+          - Stress management
+          - Smoking cessation
+          - Reduced alcohol
+          - Weight management
+          - Regular monitoring
+          - None
+        required: true
+      - id: 15
+        name: section_health_outcomes
+        label: -- Health Outcomes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: quality_of_life_rating
+        label: Quality of Life Rating
+        hint: How would you rate your quality of life now
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: quality_of_life_change
+        label: Quality of Life Change
+        hint: How has your quality of life changed
+        type: select_one
+        options:
+          - Much improved
+          - Somewhat improved
+          - No change
+          - Somewhat worse
+          - Much worse
+        required: true
+      - id: 18
+        name: healthcare_utilization_change
+        label: Healthcare Utilization Change
+        hint: How has your healthcare use changed
+        type: select_one
+        options:
+          - Fewer doctor visits
+          - Fewer ER visits
+          - Fewer hospitalizations
+          - No change
+          - More visits needed
+        required: true
+      - id: 19
+        name: section_quality_of_life
+        label: -- Quality of Life --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: program_content_rating
+        label: Program Content Rating
+        hint: Rate the program content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 21
+        name: facilitator_rating
+        label: Facilitator Rating
+        hint: Rate your facilitator
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: materials_quality
+        label: Materials Quality
+        hint: Rate the program materials
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 23
+        name: section_program_quality
+        label: -- Program Quality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: most_helpful_component
+        label: Most Helpful Component
+        hint: What was most helpful
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: least_helpful_component
+        label: Least Helpful Component
+        hint: What was least helpful
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: section_feedback
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you overall
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 28
+        name: would_recommend
+        label: Would You Recommend
+        hint: Would you recommend this program
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 29
+        name: continue_practices
+        label: Continue Practices
+        hint: Will you continue what you learned
+        type: select_one
+        options:
+          - Yes definitely
+          - Yes probably
+          - Maybe
+          - Probably not
+          - No
+        required: true
+      - id: 30
+        name: suggestions_improvement
+        label: Suggestions for Improvement
+        hint: How can we improve the program
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

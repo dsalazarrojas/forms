@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beautician Job Application Form Template
+    pages:
+    - id: 1
+      name: personal_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employment_header
+      label: -- Employment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: position_applied
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Makeup Artist
+      - Hair Stylist
+      - Nail Technician
+      - Esthetician
+      - Colorist
+      - Receptionist
+      required: true
+    - id: 13
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: employment_type
+      label: Employment Type Preferred
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Freelance
+      required: true
+    - id: 15
+      name: experience_header
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: years_experience
+      label: Years of Beauty Industry Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: certifications
+      label: Professional Certifications
+      hint: List relevant licenses and certifications
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: specializations
+      label: Areas of Specialization
+      hint: Bridal makeup, color correction, hair styling, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_salons
+      label: Previous Salon Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: skills_header
+      label: -- Skills and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: makeup_expertise
+      label: Makeup Application Expertise Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 22
+      name: client_service
+      label: Customer Service Experience
+      hint: null
+      type: select_one
+      options:
+      - Limited
+      - Some
+      - Extensive
+      required: true
+    - id: 23
+      name: retail_knowledge
+      label: Product Knowledge and Retail Sales
+      hint: null
+      type: select_one
+      options:
+      - Limited
+      - Some
+      - Extensive
+      required: true
+    - id: 24
+      name: social_media
+      label: Social Media and Marketing Skills
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 25
+      name: references
+      label: Professional References
+      hint: Name and contact information
+      type: text
+      options: []
+      required: true

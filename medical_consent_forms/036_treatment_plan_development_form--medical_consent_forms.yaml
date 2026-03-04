@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treatment Plan Development Form
+    pages:
+    - id: 1
+      name: treatment_plan_development_form
+      label: treatment_plan_development_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_information
+      label: patient_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_options
+      label: treatment_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: treatment_plan_development_form_comments
+      label: treatment_plan_development_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history_comments
+      label: medical_history_comments
+      hint: null
+      type: text
+      options: []
+      required: false

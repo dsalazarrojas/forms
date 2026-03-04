@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: hipaa_medical_history_form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: Please list any current symptoms, such as colds, flu, etc.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: List any medications you are currently taking
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drug_use
+      label: Drug Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: family_medical_history
+      label: Family Medical History
+      hint: Provide a brief description of any family medical history
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Heart condition
+      - Diabetes
+      - Hypertension
+      - Other
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: Patient ID number for your medical records
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Other
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_insurance_purpose
+      label: Medical Insurance Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_provider_phone
+      label: Medical Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_provider_facsimilie
+      label: Medical Provider Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_provider_website
+      label: Medical Provider Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_provider_license
+      label: Medical Provider License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_provider_board_certification
+      label: Medical Provider Board Certification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false

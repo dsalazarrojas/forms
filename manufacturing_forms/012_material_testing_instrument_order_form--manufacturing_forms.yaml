@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Testing Instrument Order Form
+    pages:
+    - id: 1
+      name: instrument_order_form_page_1
+      label: Material Testing Instrument Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: instrument_type_options
+      label: Instrument Options
+      hint: null
+      type: select_multiple
+      options:
+      - Instrument 1
+      - Instrument 2
+      - Instrument 3
+      required: false
+    - id: 4
+      name: material_testing_date
+      label: Material Testing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: instrument_quantity
+      label: Instrument Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: instrument_price
+      label: Instrument Price
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNC Project Registration Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client or Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Aluminum
+      - Steel
+      - Stainless Steel
+      - Brass
+      - Plastic
+      - Composite
+      - Other
+      required: true
+    - id: 7
+      name: material_quantity
+      label: Material Quantity and Dimensions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: part_quantity
+      label: Number of Parts Required
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: tolerance_requirements
+      label: Tolerance Requirements
+      hint: Specify precision level needed
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: surface_finish
+      label: Surface Finish Specifications
+      hint: null
+      type: select_one
+      options:
+      - As machined
+      - Polished
+      - Anodized
+      - Painted
+      - Coated
+      - Custom finish
+      required: false
+    - id: 11
+      name: drawing_file
+      label: CAD Drawing File Format
+      hint: null
+      type: select_multiple
+      options:
+      - DWG
+      - STEP
+      - IGES
+      - STL
+      - PDF
+      - Other
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: delivery_deadline
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: estimated_hours
+      label: Estimated Machine Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: special_equipment
+      label: Special Equipment or Processes Required
+      hint: null
+      type: select_multiple
+      options:
+      - Threading
+      - Tapping
+      - Grinding
+      - Engraving
+      - Inspection
+      - Heat treatment
+      required: false
+    - id: 16
+      name: budget_approval
+      label: Budget/Quote Approved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 17
+      name: project_priority
+      label: Project Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Additional Requirements or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

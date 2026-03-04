@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Recommendation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_interest
+      label: product_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recommended_products
+      label: recommended_products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: preferred_products
+      label: preferred_products
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_preferences
+      label: customer_preferences
+      hint: null
+      type: text
+      options: []
+      required: false

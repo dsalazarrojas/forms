@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Maintenance Team Task Risk Assessment
+    pages:
+    - id: 1
+      name: site_maintenance_team_task_risk_assessment_page
+      label: site_maintenance_team_task_risk_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_maintenance_team_task
+      label: site maintenance team task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_assessment
+      label: site maintenance team risk assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''high'', ''label'': ''High''}'
+      required: false
+    - id: 4
+      name: risk_level
+      label: site maintenance team risk level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''low'', ''label'': ''Low''}'
+      - '{''value'': ''medium'', ''label'': ''Medium''}'
+      - '{''value'': ''high'', ''label'': ''High''}'
+      required: false
+    - id: 5
+      name: risk_level_note
+      label: site maintenance team risk level note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: site_maintenance_team_task_risk_assessment_date
+      label: site maintenance team task risk assessment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: site_maintenance_team_task_risk_assessment_time
+      label: site maintenance team risk assessment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: site_maintenance_team_task_risk_assessment_note
+      label: site maintenance team task risk assessment note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: site maintenance team task risk assessment assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''team_1'', ''label'': ''Team 1''}'
+      - '{''value'': ''team_2'', ''label'': ''Team 2''}'
+      - '{''value'': ''team_3'', ''label'': ''Team 3''}'
+      required: false
+    - id: 10
+      name: email_to
+      label: site maintenance team task risk assessment email to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_to
+      label: site maintenance team task risk assessment phone to
+      hint: null
+      type: text
+      options: []
+      required: false

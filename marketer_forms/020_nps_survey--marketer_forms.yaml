@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: NPS Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How likely are you to recommend our company?
+      hint: null
+      type: select_one
+      options:
+      - 2 - Not Likely
+      - 3 - Maybe
+      - 4 - Very Likely
+      required: false
+    - id: 3
+      name: question1_score
+      label: On a scale of 0-10, how likely are you to recommend our company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: How do you feel about our company's products or services?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 5
+      name: question3
+      label: How likely is it that you will recommend our company to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - Not Likely
+      - Somewhat Likely
+      - Very Likely
+      required: false
+    - id: 6
+      name: question4
+      label: What do you think is the main reason you wouldn't recommend our company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question5
+      label: On a scale of 0-10, how would you rate the quality of our service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question6
+      label: Have you used our company's products or services in the past 30 days?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: question7
+      label: If yes, how recently did you use our company's products or services?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: question8
+      label: How would you rate your overall experience with our company?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 11
+      name: question9
+      label: Do you have any suggestions or comments for our company?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question10
+      label: How can we improve?
+      hint: null
+      type: note
+      options: []
+      required: false

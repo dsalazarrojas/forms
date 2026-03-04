@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Consistency Validation Report Form
+    pages:
+    - id: 1
+      name: report_id
+      label: Report ID
+      hint: Unique report identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: batch_id
+      label: Batch ID
+      hint: Batch being validated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: Product manufactured
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: production_date
+      label: Production Date
+      hint: When batch was produced
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: batch_size
+      label: Batch Size
+      hint: Quantity produced
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quality_inspector
+      label: Quality Inspector Name
+      hint: Inspector responsible
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consistency_check_date
+      label: Consistency Check Date
+      hint: When validation was performed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: visual_inspection
+      label: Visual Inspection Result
+      hint: Pass or fail
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Conditional Pass
+      required: true
+    - id: 10
+      name: weight_consistency
+      label: Weight Consistency
+      hint: Weight variation check
+      type: select_one
+      options:
+      - Within Tolerance
+      - Outside Tolerance
+      - Not Applicable
+      required: true
+    - id: 11
+      name: color_consistency
+      label: Color Consistency
+      hint: Color variation check
+      type: select_one
+      options:
+      - Consistent
+      - Minor Variation
+      - Significant Variation
+      - Not Applicable
+      required: true
+    - id: 12
+      name: texture_consistency
+      label: Texture Consistency
+      hint: Texture variation check
+      type: select_one
+      options:
+      - Consistent
+      - Minor Variation
+      - Significant Variation
+      - Not Applicable
+      required: true
+    - id: 13
+      name: sample_tested_count
+      label: Number of Samples Tested
+      hint: How many units tested
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pass_rate
+      label: Pass Rate Percentage
+      hint: Percentage of samples passing
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: deviations_found
+      label: Were Deviations Found
+      hint: Any inconsistencies
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: deviation_details
+      label: Deviation Details
+      hint: Describe any deviations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: corrective_action
+      label: Corrective Action Required
+      hint: What action is needed
+      type: select_one
+      options:
+      - None - Batch Approved
+      - Rework Required
+      - Partial Rejection
+      - Full Batch Rejection
+      - Further Testing Needed
+      required: true
+    - id: 18
+      name: final_disposition
+      label: Final Disposition
+      hint: Batch status
+      type: select_one
+      options:
+      - Approved for Release
+      - Hold for Review
+      - Rejected
+      - Pending Additional Testing
+      required: true
+    - id: 19
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Digital signature or name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other comments
+      type: text
+      options: []
+      required: false

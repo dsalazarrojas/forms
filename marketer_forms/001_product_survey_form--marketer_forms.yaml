@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Survey Form
+    pages:
+    - id: 1
+      name: how_long_have_you_been_using
+      label: How long have you been using
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: how_do_you_compete
+      label: How do you compete
+      hint: null
+      type: select_one
+      options:
+      - Compete with others
+      - Don't compete
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: impression_of_competition
+      label: impression of competition
+      hint: null
+      type: select_multiple
+      options:
+      - Stronger
+      - Weaker
+      - Similar
+      required: false
+    - id: 4
+      name: satisfaction_of_product
+      label: Satisfaction of product
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: false
+    - id: 5
+      name: impression_of_service
+      label: impression of service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

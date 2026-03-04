@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Capture Form
+    pages:
+    - id: 1
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: confirm_email
+      label: Confirm Email Address
+      hint: null
+      type: select_one
+      options:
+      - email
+      - confirm_email
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

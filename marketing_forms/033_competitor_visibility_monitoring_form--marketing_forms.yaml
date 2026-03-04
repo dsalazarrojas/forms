@@ -1,0 +1,288 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitor Visibility Monitoring Form
+    pages:
+      - id: 1
+        name: monitoring_date
+        label: Monitoring Date
+        hint: Date of observation
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: observer_name
+        label: Observer Name
+        hint: Person making observation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: observer_email
+        label: Observer Email
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Marketing
+          - Sales
+          - Business Development
+          - Strategy
+          - Product
+          - Customer Service
+          - Other
+        required: true
+      - id: 5
+        name: competitor_name
+        label: Competitor Name
+        hint: Which competitor observed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: observation_type
+        label: Type of Observation
+        hint: What did you observe
+        type: select_one
+        options:
+          - Marketing campaign
+          - Product launch
+          - Pricing change
+          - Partnership announcement
+          - Hiring activity
+          - Event participation
+          - Social media activity
+          - Website changes
+          - Customer feedback
+          - Other
+        required: true
+      - id: 7
+        name: observation_channel
+        label: Channel or Platform
+        hint: Where did you observe this
+        type: select_one
+        options:
+          - Company website
+          - Social media - LinkedIn
+          - Social media - Twitter
+          - Social media - Facebook
+          - Social media - Instagram
+          - Email newsletter
+          - Industry publication
+          - Trade show or event
+          - Customer conversation
+          - Sales call
+          - Other
+        required: true
+      - id: 8
+        name: observation_details
+        label: Observation Details
+        hint: Describe what you saw
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: observation_date
+        label: When Did This Occur
+        hint: Date of activity
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: visibility_rating
+        label: Visibility Level
+        hint: How prominent was this
+        type: select_one
+        options:
+          - Very high - major presence
+          - High - noticeable
+          - Moderate - some presence
+          - Low - minimal presence
+          - Very low - barely visible
+        required: true
+      - id: 11
+        name: message_clarity
+        label: Message Clarity
+        hint: How clear was their message
+        type: select_one
+        options:
+          - Very clear - strong message
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear - confusing
+        required: true
+      - id: 12
+        name: target_audience
+        label: Target Audience
+        hint: Who were they targeting
+        type: select_one
+        options:
+          - Enterprise customers
+          - Small business
+          - Consumers
+          - Developers
+          - Partners
+          - Investors
+          - Media
+          - General public
+          - Not clear
+        required: true
+      - id: 13
+        name: geographic_focus
+        label: Geographic Focus
+        hint: Which markets targeted
+        type: select_one
+        options:
+          - Global
+          - North America
+          - United States
+          - Europe
+          - Asia Pacific
+          - Latin America
+          - Specific region or city
+          - Not clear
+        required: true
+      - id: 14
+        name: competitive_impact
+        label: Competitive Impact
+        hint: How does this affect us
+        type: select_one
+        options:
+          - High impact - major threat
+          - Moderate impact - some concern
+          - Low impact - minor issue
+          - No impact - not relevant
+          - Positive - opportunity for us
+        required: true
+      - id: 15
+        name: urgency_level
+        label: Urgency Level
+        hint: How quickly should we respond
+        type: select_one
+        options:
+          - Critical - respond immediately
+          - High - respond soon
+          - Medium - planned response
+          - Low - monitor only
+          - No response needed
+        required: true
+      - id: 16
+        name: evidence_url
+        label: Evidence URL or Link
+        hint: Link to observation
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: evidence_attachment
+        label: Evidence Attachment
+        hint: Screenshot or document
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: related_products
+        label: Related Products or Services
+        hint: Which offerings affected
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: estimated_investment
+        label: Estimated Investment
+        hint: How much did they invest
+        type: select_one
+        options:
+          - Major investment - significant
+          - Moderate investment
+          - Minor investment
+          - Minimal investment
+          - Unknown
+        required: false
+      - id: 20
+        name: expected_duration
+        label: Expected Duration
+        hint: How long will this run
+        type: select_one
+        options:
+          - One-time event
+          - Short-term - weeks
+          - Medium-term - months
+          - Long-term - ongoing
+          - Unknown
+        required: false
+      - id: 21
+        name: our_response_needed
+        label: Response Needed
+        hint: Should we respond
+        type: select_one
+        options:
+          - Yes - immediate response
+          - Yes - planned response
+          - Maybe - under review
+          - No - no response needed
+        required: true
+      - id: 22
+        name: recommended_response
+        label: Recommended Response
+        hint: How should we respond
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: stakeholders_to_notify
+        label: Stakeholders to Notify
+        hint: Who should know about this
+        type: select_multiple
+        options:
+          - Executive team
+          - Marketing team
+          - Sales team
+          - Product team
+          - Strategy team
+          - PR team
+          - Other
+        required: false
+      - id: 24
+        name: follow_up_required
+        label: Follow-up Required
+        hint: Is ongoing monitoring needed
+        type: select_one
+        options:
+          - Yes - continuous monitoring
+          - Yes - periodic checks
+          - Yes - one follow-up
+          - No - observation complete
+        required: true
+      - id: 25
+        name: follow_up_date
+        label: Follow-up Date
+        hint: When to check again
+        type: date
+        options: []
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

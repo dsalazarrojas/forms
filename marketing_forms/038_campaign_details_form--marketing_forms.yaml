@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Details Form
+    pages:
+    - id: 1
+      name: campaign_name
+      label: Campaign Name
+      hint: Official campaign or project name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: Campaign Manager Name
+      hint: Primary contact for the campaign
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: Campaign Start Date
+      hint: Planned launch date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: Campaign End Date
+      hint: Planned end date
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: target_audience
+      label: Target Audience
+      hint: Brief description of the target demographic
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_estimate
+      label: Budget Estimate
+      hint: Estimated campaign budget
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: primary_channels
+      label: Primary Channels
+      hint: Channels to be used for the campaign
+      type: select_multiple
+      options:
+      - Email
+      - Social Media
+      - Print
+      - Events
+      - Broadcast
+      required: true
+    - id: 8
+      name: key_messages
+      label: Key Messages
+      hint: Core messages or calls to action
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: success_metrics
+      label: Success Metrics
+      hint: How success will be measured
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other planning details
+      type: text
+      options: []
+      required: false

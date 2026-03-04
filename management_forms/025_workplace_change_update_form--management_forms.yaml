@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Change Update Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: current_manager
+      label: Current Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: new_manager
+      label: New Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_change
+      label: Reason for change
+      hint: Please provide a reason for the change
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_change
+      label: Date of Change
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: new_location
+      label: New Location
+      hint: Please provide the new location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: new_department
+      label: New Department
+      hint: Please provide the new department
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approval_level
+      label: Approval Level
+      hint: Please select the approval level
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 10
+      name: approval_date
+      label: Approval Date
+      hint: Please select the date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

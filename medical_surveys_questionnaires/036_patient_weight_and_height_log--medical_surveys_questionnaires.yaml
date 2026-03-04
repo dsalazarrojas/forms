@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Weight And Height Log
+    pages:
+    - id: 1
+      name: patient_weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: patient_weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - lb
+      - kg
+      - oz
+      - st
+      required: false
+    - id: 5
+      name: patient_height_unit
+      label: Height Unit
+      hint: null
+      type: select_one
+      options:
+      - cm
+      - m
+      - in
+      - ft
+      required: false
+    - id: 6
+      name: patient_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_dob
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

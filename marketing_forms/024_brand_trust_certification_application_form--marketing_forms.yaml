@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Trust Certification Application Form
+    pages:
+      - id: 1
+        name: organization_name
+        label: Organization name
+        hint: Legal name of applying organization
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: Email for certification correspondence
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: trust_practices_summary
+        label: Trust practices summary
+        hint: Describe policies and practices that build trust
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: supporting_documents
+        label: Supporting documents
+        hint: List documents provided with application
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: certification_level_requested
+        label: Certification level requested
+        hint: Level of certification sought
+        type: select_one
+        options:
+          - Bronze
+          - Silver
+          - Gold
+        required: true
+      - id: 6
+        name: primary_contact
+        label: Primary contact
+        hint: Name of person responsible for application
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: declaration
+        label: Declaration
+        hint: Confirm accuracy of information provided
+        type: select_one
+        options:
+          - I confirm
+          - I do not confirm
+        required: true
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Any extra notes for the certifying body
+        type: text
+        options: []
+        required: false

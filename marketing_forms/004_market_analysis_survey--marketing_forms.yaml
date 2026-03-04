@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Analysis Survey
+    pages:
+    - id: 1
+      name: demographic_info
+      label: customer_demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: customer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferences
+      label: customer_preferences
+      hint: What are your favorite hobbies?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: market_trends
+      label: market_trends
+      hint: null
+      type: select_multiple
+      options:
+      - Market Trend 1
+      - Market Trend 2
+      - Market Trend 3
+      required: false
+    - id: 5
+      name: product_interest
+      label: products_and_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_experience
+      label: customer_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_history
+      label: purchase_history
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false

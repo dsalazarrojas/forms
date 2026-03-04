@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: maintenance_cost_report_form
+    pages:
+    - id: 1
+      name: maintenance_cost_form
+      label: maintenance_cost_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: cost_type
+      label: cost_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''labor''}'
+      - '{''id'': 2, ''name'': ''material''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 4
+      name: cost_amount
+      label: cost_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cost_frequency
+      label: cost_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''weekly''}'
+      - '{''id'': 2, ''name'': ''biweekly''}'
+      - '{''id'': 3, ''name'': ''monthly''}'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_id
+      label: assigned_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_ek
+      label: assigned_ek
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_u
+      label: assigned_u
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_jimmy
+      label: assigned_jimmy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_ek
+      label: submitted_ek
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_jimmy
+      label: submitted_jimmy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_u
+      label: submitted_u
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_t
+      label: submitted_t
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_i
+      label: submitted_i
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_form_id
+      label: submitted_form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_jimmy_id
+      label: submitted_jimmy_id
+      hint: null
+      type: text
+      options: []
+      required: false

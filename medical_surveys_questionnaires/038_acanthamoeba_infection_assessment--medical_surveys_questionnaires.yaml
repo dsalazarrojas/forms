@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acanthamoeba Infection Assessment
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Acanthamoeba Infection Assessment --
+      hint: This clinical assessment form collects symptoms and contact lens history
+        for evaluation of possible Acanthamoeba keratitis.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: patient_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Date of assessment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: referring_provider
+      label: Referring provider name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_lens_section
+      label: -- Contact Lens History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_lens_wearer
+      label: Do you wear contact lenses
+      hint: null
+      type: select_one
+      options:
+      - Yes - currently
+      - Yes - previously but not currently
+      - No - never worn contact lenses
+      required: true
+    - id: 10
+      name: contact_lens_type
+      label: Type of contact lenses used
+      hint: null
+      type: select_one
+      options:
+      - Daily disposable
+      - Extended wear (weekly or monthly)
+      - Rigid gas permeable
+      - Cosmetic or decorative
+      - Not applicable
+      required: true
+    - id: 11
+      name: lens_hygiene
+      label: How do you typically clean your contact lenses
+      hint: null
+      type: select_one
+      options:
+      - Multipurpose solution
+      - Hydrogen peroxide system
+      - Saline solution only
+      - Tap water (not recommended)
+      - Do not clean - daily disposable
+      - Not applicable
+      required: true
+    - id: 12
+      name: water_exposure
+      label: Have you exposed your contact lenses to water (swimming, showering, hot
+        tubs)
+      hint: null
+      type: select_one
+      options:
+      - Yes - frequently
+      - Yes - occasionally
+      - No - never
+      - Not applicable
+      required: true
+    - id: 13
+      name: symptoms_section
+      label: -- Current Symptoms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: affected_eye
+      label: Which eye is affected
+      hint: null
+      type: select_one
+      options:
+      - Left eye
+      - Right eye
+      - Both eyes
+      required: true
+    - id: 15
+      name: symptoms_present
+      label: Which symptoms are you currently experiencing (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Severe eye pain
+      - Redness
+      - Blurred vision
+      - Light sensitivity
+      - Excessive tearing
+      - Foreign body sensation
+      - Discharge
+      required: true
+    - id: 16
+      name: symptom_onset
+      label: When did symptoms first begin
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: pain_severity
+      label: Rate your current pain level (1-10)
+      hint: 1 = minimal, 10 = worst pain imaginable
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: previous_treatment
+      label: Have you received any prior treatment for this condition
+      hint: null
+      type: select_one
+      options:
+      - Yes - prescribed medication
+      - Yes - over the counter drops
+      - false
+      required: true
+    - id: 19
+      name: treatment_details
+      label: If you received treatment, please describe what was prescribed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_history
+      label: Any relevant medical history (immune conditions, eye surgeries, etc.)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Any additional information for the clinical team
+      hint: null
+      type: text
+      options: []
+      required: false

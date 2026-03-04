@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Informed Consent Form
+    pages:
+    - id: 1
+      name: medical_informed_consent_form
+      label: Medical Informed Consent Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_information
+      label: patient_information
+      hint: Please provide the following information about the patient.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: doctor_information
+      label: doctor_information
+      hint: Please provide the following information about the doctor.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: doctor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_address
+      label: patient_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: patient_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: emergency_contact
+      hint: If the patient is unable to provide consent, please provide an emergency
+        contact.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_relationship
+      label: contact_relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent/Guardian
+      - Spouse
+      - Family member
+      - Other
+      required: false
+    - id: 16
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: doctor_signature
+      label: doctor_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: medical_license_number
+      label: medical_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_state
+      label: medical_license_state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - MA
+      - ME
+      - MI
+      - MN
+      - MS
+      - MO
+      - MT
+      - NE
+      - NV
+      - NH
+      - NJ
+      - NM
+      - NY
+      - NC
+      - ND
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VT
+      - VA
+      - WA
+      - WI
+      - WV
+      - WY
+      - Other
+      required: false
+    - id: 23
+      name: medical_license
+      label: medical_license
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_institution
+      label: medical_institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medical_department
+      label: medical_department
+      hint: null
+      type: text
+      options: []
+      required: true

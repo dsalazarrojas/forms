@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Handling Equipment Maintenance Log
+    pages:
+    - id: 1
+      name: material_handling_equipment_maintenance_log
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - Forklift
+      - Hand Truck
+      - Pallet Jack
+      - Pallet Jack
+      - Scissor Lift
+      - Scaffolding
+      required: true
+    - id: 3
+      name: make_model_year
+      label: make_model_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - Preventive
+      - Corrective
+      - Emergency
+      required: true
+    - id: 9
+      name: hours
+      label: hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: repair_costs
+      label: repair_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: repair_notes
+      label: repair_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preventative_maintenance_schedule
+      label: preventative_maintenance_schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: maintenance_by
+      label: maintenance_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: asset_tag
+      label: asset_tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: true
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: asset_number
+      label: asset_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: equipment_type_id
+      label: equipment_type_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: asset_tag_id
+      label: asset_tag_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: location_id
+      label: location_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

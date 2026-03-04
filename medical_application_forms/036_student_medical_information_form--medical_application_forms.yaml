@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_medical_information_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter student's first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Condition 1
+      - Condition 2
+      - Condition 3
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - Allergie 1
+      - Allergie 2
+      - Allergie 3
+      required: false
+    - id: 6
+      name: medication
+      label: Medication
+      hint: Enter student's medications
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_facility
+      label: Medical Facility
+      hint: Enter medical facility name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact person
+      hint: Enter emergency contact person
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

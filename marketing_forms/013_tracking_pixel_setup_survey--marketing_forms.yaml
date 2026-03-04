@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: tracking_pixel_setup_survey
+    pages:
+    - id: 1
+      name: tracking_pixel_survey_id
+      label: tracking_pixel_survey_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: website_domain
+      label: website_domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: implementation_status
+      label: implementation_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Started'', ''value'': ''Not Started''}'
+      - '{''id'': 2, ''name'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Implemented'', ''value'': ''Implemented''}'
+      required: false
+    - id: 5
+      name: google_pixel_id
+      label: google_pixel_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: google_tag_id
+      label: google_tag_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facebook_pixel_id
+      label: facebook_pixel_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: google_pixel_tracking_status
+      label: google_pixel_tracking_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Enabled'', ''value'': ''Enabled''}'
+      - '{''id'': 2, ''name'': ''Disabled'', ''value'': ''Disabled''}'
+      - '{''id'': 3, ''name'': ''Not Required'', ''value'': ''Not Required''}'
+      required: false
+    - id: 9
+      name: facebook_pixel_tracking_status
+      label: facebook_pixel_tracking_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Enabled'', ''value'': ''Enabled''}'
+      - '{''id'': 2, ''name'': ''Disabled'', ''value'': ''Disabled''}'
+      - '{''id'': 3, ''name'': ''Not Required'', ''value'': ''Not Required''}'
+      required: false
+    - id: 10
+      name: google_pixel_tracking_error_messages
+      label: google_pixel_tracking_error_messages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facebook_pixel_tracking_error_messages
+      label: facebook_pixel_tracking_error_messages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tracking_report_frequency
+      label: tracking_report_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tracking_pixel_setup_comments
+      label: tracking_pixel_setup_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tracking_pixel_setup_report_frequency
+      label: tracking_pixel_setup_report_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Daily'', ''value'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly'', ''value'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly'', ''value'': ''Monthly''}'
+      required: false
+    - id: 19
+      name: tracking_pixel_setup_report_timezone
+      label: tracking_pixel_setup_report_timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''UTC'', ''value'': ''UTC''}'
+      - '{''id'': 2, ''name'': ''GMT'', ''value'': ''GMT''}'
+      - '{''id'': 3, ''name'': ''Local Time'', ''value'': ''Local Time''}'
+      required: false
+    - id: 20
+      name: tracking_pixel_setup_report_start_time
+      label: tracking_pixel_setup_report_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: tracking_pixel_setup_report_time
+      label: tracking_pixel_setup_report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: tracking_pixel_setup_report_end_time
+      label: tracking_pixel_setup_report_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: tracking_pixel_setup_report_timezone
+      label: tracking_pixel_setup_report_timezone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''UTC'', ''value'': ''UTC''}'
+      - '{''id'': 2, ''name'': ''GMT'', ''value'': ''GMT''}'
+      - '{''id'': 3, ''name'': ''Local Time'', ''value'': ''Local Time''}'
+      required: false
+    - id: 24
+      name: tracking_pixel_setup_report_timezone_offset
+      label: tracking_pixel_setup_report_timezone_offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: tracking_pixel_setup_report_timezone_offset_unit
+      label: tracking_pixel_setup_report_timezone_offset_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Hours'', ''value'': ''Hours''}'
+      - '{''id'': 2, ''name'': ''Minutes'', ''value'': ''Minutes''}'
+      - '{''id'': 3, ''name'': ''Seconds'', ''value'': ''Seconds''}'
+      required: false

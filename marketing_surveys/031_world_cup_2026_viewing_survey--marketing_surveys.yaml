@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: World Cup 2026 Viewing Survey
+    pages:
+    - id: 1
+      name: world_cup_2026_viewing_survey
+      label: What will you be watching on television?
+      hint: null
+      type: select_multiple
+      options:
+      - BBC
+      - ESPN
+      - Fox Sports
+      - YouTube
+      - Local TV
+      - Other
+      required: false
+    - id: 2
+      name: viewing_plans
+      label: Which of the following viewing plans have you purchased for the World
+        Cup 2026?
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly Plan
+      - Quarterly Plan
+      - Yearly Plan
+      - No Plan
+      required: true
+    - id: 3
+      name: viewing_platforms
+      label: On what platform will you be watching the World Cup 2026?
+      hint: null
+      type: select_multiple
+      options:
+      - Smartphone
+      - Tablet
+      - Desktop
+      - Smart TV
+      - Other
+      required: false
+    - id: 4
+      name: excitement_levels
+      label: How excited are you about the upcoming World Cup 2026?
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: watching_with_friends
+      label: Will you be watching with friends and family?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: favorite_team
+      label: Who is your favorite team to win?
+      hint: null
+      type: select_multiple
+      options:
+      - Brazil
+      - Spain
+      - Germany
+      - Argentina
+      - England
+      - Italy
+      required: false
+    - id: 7
+      name: watching_with_children
+      label: Will you be watching with children?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: favorite_player
+      label: Who is your favorite player?
+      hint: null
+      type: select_multiple
+      options:
+      - Lionel Messi
+      - Cristiano Ronaldo
+      - Neymar
+      - Harry Kane
+      - Kylian Mbappe
+      required: false
+    - id: 9
+      name: will_you_share_on_social_media
+      label: Will you share your viewing experience on social media?
+      hint: e.g. Twitter, Instagram, Facebook
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: will_you_participate_in_a_discussion
+      label: Will you participate in a discussion about the World Cup 2026?
+      hint: e.g. online forum, social media, in-person
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: other_comments
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone number
+      hint: e.g. 123-456-7890
+      type: text
+      options: []
+      required: true

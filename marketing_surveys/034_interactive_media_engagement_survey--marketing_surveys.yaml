@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interactive Media Engagement Survey
+    pages:
+    - id: 1
+      name: media_type
+      label: What type of media do you engage with the most?
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Podcast
+      - Blog
+      - Social media
+      - Email newsletter
+      - None
+      required: false
+    - id: 2
+      name: engagement_level
+      label: How often do you engage with the media?
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: time_spent_engaging
+      label: How much time do you spend on the media per day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: content_quality
+      label: How would you describe the quality of the media content?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: relevance_to_interests
+      label: How relevant is the media content to your interests?
+      hint: null
+      type: select_one
+      options:
+      - Very relevant
+      - Somewhat relevant
+      - Not very relevant
+      - Not at all relevant
+      required: false
+    - id: 6
+      name: media_value
+      label: How valuable is the media content to you?
+      hint: null
+      type: select_one
+      options:
+      - Very valuable
+      - Somewhat valuable
+      - Not very valuable
+      - Not at all valuable
+      required: false
+    - id: 7
+      name: user_suggestions
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

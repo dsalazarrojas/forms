@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: physical-therapy-appointment-form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: Enter patient details here
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Select an appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: physician_preference
+      label: Physician preference
+      hint: Select a physician preference
+      type: select_one
+      options:
+      - Cardiovascular
+      - Neurology
+      - Orthopedic
+      required: false
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: time_slots
+      label: Select time slots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: appointment_time
+      label: Select an appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Enter comments about the appointment
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_notes
+      label: Patient Notes
+      hint: Enter notes for the physician
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: physician_notes
+      label: Physician Notes
+      hint: null
+      type: note
+      options: []
+      required: false

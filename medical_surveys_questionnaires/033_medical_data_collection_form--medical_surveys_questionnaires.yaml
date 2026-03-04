@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Data Collection Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_practitioner
+      label: Medical Practitioner
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Dr Smith''}'
+      - '{''id'': 200, ''label'': ''Dr Johnson''}'
+      required: true
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medical_record_id
+      label: Medical Record ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_date_of_birth
+      label: Medical Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: medical_time_of_birth
+      label: Medical Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: medical_survey
+      label: Medical Survey
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 300, ''label'': ''Question 1''}'
+      - '{''id'': 301, ''label'': ''Question 2''}'
+      - '{''id'': 302, ''label'': ''Question 3''}'
+      required: false
+    - id: 10
+      name: medical_email
+      label: Medical Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medical_form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false

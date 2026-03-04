@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Services Referral Campaign Form
+    pages:
+    - id: 1
+      name: referral_question
+      label: What can we help you with today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Services
+      - Insurance
+      - Banking
+      required: false
+    - id: 3
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referral_email
+      label: Referral Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: referral_phone
+      label: Referral Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

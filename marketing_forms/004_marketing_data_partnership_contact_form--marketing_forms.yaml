@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Data Partnership Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partnership_interest
+      label: Partnership Interest
+      hint: null
+      type: select_one
+      options:
+      - Partnership
+      - Collaboration
+      - Sales
+      - Other
+      required: true
+    - id: 8
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - Chat
+      - Other
+      required: false
+    - id: 9
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evenings
+      - Weekends
+      required: false
+    - id: 10
+      name: message_2
+      label: Message 2
+      hint: null
+      type: text
+      options: []
+      required: false

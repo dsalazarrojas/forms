@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: management_effectiveness_review_registration_form
+    pages:
+    - id: 1
+      name: register_leader
+      label: Register Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: expectations
+      label: Expectations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_of_review
+      label: Date Of Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time_of_review
+      label: Start Time Of Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time_of_review
+      label: End Time Of Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location_of_review
+      label: Location Of Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

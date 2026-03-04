@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Rapid Test Appointment And Consent Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob_val
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_mobile_no
+      label: Mobile Phone Number
+      hint: For appointment confirmation SMS
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_appointment
+      label: -- Appointment Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: appt_date_pref
+      label: Preferred Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appt_time_pref
+      label: Preferred Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_test_cat
+      label: Reason for Test
+      hint: null
+      type: select_one
+      options:
+      - Symptoms
+      - Travel
+      - Exposure
+      - Work/School Requirement
+      - Screening
+      required: true
+    - id: 9
+      name: symptoms_present_yn
+      label: Are you currently experiencing any symptoms?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_consent
+      label: -- Informed Consent --
+      hint: Please read carefully before agreeing
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: testing_consent_ack
+      label: I consent to the collection of a specimen for COVID-19 rapid testing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I consent
+      required: true
+    - id: 12
+      name: result_sharing_consent
+      label: I consent to my results being shared with public health authorities as
+        required by law
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I consent
+      required: true
+    - id: 13
+      name: fee_ack_statement
+      label: I acknowledge that I am responsible for any fees not covered by insurance
+      hint: null
+      type: select_one
+      options:
+      - I acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: privacy_policy_ack
+      label: I have read and agree to the HIPPA privacy policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

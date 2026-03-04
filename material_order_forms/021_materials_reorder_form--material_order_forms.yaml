@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Materials Reorder Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: additional_materials
+      label: additional_materials
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Level 1'', ''value'': 1}'
+      - '{''label'': ''Level 2'', ''value'': 2}'
+      - '{''label'': ''Level 3'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: exam_booklet_levels
+      label: exam_booklet_levels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Level 1'', ''value'': 1}'
+      - '{''label'': ''Level 2'', ''value'': 2}'
+      - '{''label'': ''Level 3'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false

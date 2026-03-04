@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Consent Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: practitioner_address
+      label: Practitioner Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fee_amount
+      label: Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: agreement
+      label: Agreement
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 9
+      name: signed_date
+      label: Signed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: practitioner_phone
+      label: Practitioner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: practitioner_license
+      label: Practitioner License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: practitioner_address
+      label: Practitioner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: fee_terms
+      label: Fee Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: date_of_service_end
+      label: Date of Service End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_of_service_start
+      label: Date of Service Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: practitioner_signature
+      label: Practitioner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_of_service_end_note
+      label: Date of Service End Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: date_of_service_start_note
+      label: Date of Service Start Note
+      hint: null
+      type: text
+      options: []
+      required: false

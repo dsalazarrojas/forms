@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Support Coordinator Survey
+    pages:
+    - id: 1
+      name: medical_support_coordinator_survey_form
+      label: What was your experience with our Medical Support Team
+      hint: Please provide a detailed response.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_support_team_member_sensitivity
+      label: How sensitive is your interaction with our Medical Support Team
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: medical_support_team_member_response_time
+      label: How long did you have to wait for your call to be answered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: call_quality
+      label: How would you rate the quality of our call
+      hint: null
+      type: select_multiple
+      options:
+      - Very poor
+      - Fair
+      - Good
+      - Excellent
+      - Not applicable
+      required: true
+    - id: 5
+      name: medical_support_team_member_knowledge
+      label: How confident are you that our support team had the necessary knowledge
+        to address your question
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat unconfident
+      - Not confident at all
+      required: true
+    - id: 6
+      name: communication_effectiveness
+      label: How would you rate the communication effectiveness of our support team
+        member
+      hint: null
+      type: select_multiple
+      options:
+      - Very poor
+      - Fair
+      - Good
+      - Excellent
+      - Not applicable
+      required: true
+    - id: 7
+      name: follow_up_contact
+      label: How quickly would you like to be contacted for follow-up on your issue
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Never
+      - Only if the issue is urgent
+      required: true
+    - id: 8
+      name: medical_support_team_member_care_plan
+      label: How confident are you that we took your medical needs into account
+      hint: null
+      type: select_multiple
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Somewhat unconfident
+      - Not confident at all
+      required: true
+    - id: 9
+      name: follow_up_call
+      label: Would you like to receive a follow-up call from us
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 10
+      name: medical_support_team_member_care_plan
+      label: How likely are you to recommend our services to a friend or family member
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_experience
+      label: What is your overall experience with us
+      hint: null
+      type: select_multiple
+      options:
+      - Very poor
+      - Fair
+      - Good
+      - Excellent
+      - Not applicable
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Do you have any additional comments or feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_satisfaction
+      label: How would you rate your overall satisfaction with our care team
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: contact_details
+      label: How would you like to be contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Not applicable
+      required: true
+    - id: 15
+      name: contact_frequency
+      label: How often would you like to be contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      - Not applicable
+      required: true
+    - id: 16
+      name: medical_support_team_member_sensitivity
+      label: How sensitive is your issue to contact frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Very sensitive
+      - Somewhat sensitive
+      - Not sensitive at all
+      required: true
+    - id: 17
+      name: medical_support_team_member_satisfaction
+      label: How satisfied are you with the support team member
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Not satisfied at all
+      required: true
+    - id: 18
+      name: medical_support_team_member_knowledge
+      label: How knowledgeable do you think the support team member was
+      hint: null
+      type: select_multiple
+      options:
+      - Very knowledgeable
+      - Somewhat knowledgeable
+      - Neutral
+      - Somewhat unconfident
+      - Not confident at all
+      required: true
+    - id: 19
+      name: follow_up_call_frequency
+      label: How often would you like to be contacted for follow-up on your issue
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      - Not applicable
+      required: true
+    - id: 20
+      name: medical_support_team_member_satisfaction
+      label: How satisfied are you with your call
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Not satisfied at all
+      required: true
+    - id: 21
+      name: follow_up_survey
+      label: Would you like to receive follow-up surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 22
+      name: follow_up_contact_details
+      label: How would you like to be contacted for follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Not applicable
+      required: true
+    - id: 23
+      name: medical_support_member_response_time
+      label: How long did you have to wait for your call to be answered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Do you have any additional comments or feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with our care team
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Project Plan Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: Name of the campaign project
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: Person responsible for delivery
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: objectives
+      label: Objectives
+      hint: Primary goals of the project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: key_milestones
+      label: Key Milestones
+      hint: Major milestones and target dates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resources_required
+      label: Resources Required
+      hint: Staff, budget and tools required
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stakeholders
+      label: Stakeholders
+      hint: List of primary stakeholders
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Key risks and mitigation plans
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: success_criteria
+      label: Success Criteria
+      hint: How success will be defined and measured
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: budget_estimate
+      label: Budget Estimate
+      hint: Estimated budget for the project
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any further planning information
+      type: text
+      options: []
+      required: false

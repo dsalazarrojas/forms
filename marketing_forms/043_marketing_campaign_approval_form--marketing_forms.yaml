@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Approval Form
+    pages:
+    - id: 1
+      name: campaign_details
+      label: Campaign details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: campaign_status
+      label: Campaign status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - On Hold
+      required: false
+    - id: 4
+      name: marketing_team
+      label: Marketing team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: review_notes
+      label: Review notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_to_review
+      label: Email to Review
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

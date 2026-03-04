@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Webinar Sign Up Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: We will send the webinar link to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Where do you work?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: What is your role?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: Select your industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Retail
+      - Manufacturing
+      - Marketing
+      - Other
+      required: false
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees at your company
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: false
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Optional - for reminder calls
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: country
+      label: Country
+      hint: Where are you located?
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 10
+      name: webinar_topics
+      label: Topics of Interest
+      hint: Select topics you would like to learn about
+      type: select_multiple
+      options:
+      - Digital Marketing
+      - Sales Strategies
+      - Customer Engagement
+      - Data Analytics
+      - Social Media
+      - Content Marketing
+      - SEO
+      - Email Marketing
+      required: false
+    - id: 11
+      name: experience_level
+      label: Experience Level
+      hint: How would you rate your experience with this topic?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 12
+      name: how_did_you_hear
+      label: How Did You Hear About This Webinar?
+      hint: Help us understand how you found us
+      type: select_one
+      options:
+      - Social Media
+      - Email Invitation
+      - Company Website
+      - Colleague Referral
+      - Search Engine
+      - Advertisement
+      - Other
+      required: false
+    - id: 13
+      name: questions_for_presenter
+      label: Questions for the Presenter
+      hint: Submit any questions you would like answered
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: marketing_consent
+      label: Marketing Communications
+      hint: May we send you information about future webinars?
+      type: select_one
+      options:
+      - Yes, keep me informed
+      - No, this webinar only
+      required: true
+    - id: 15
+      name: registration_fee
+      label: Registration Type
+      hint: Select your registration option
+      type: select_one
+      options:
+      - Free Registration
+      - Premium Access - $49
+      - VIP Access - $99
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: For paid registrations
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Invoice Me Later
+      required: true
+    - id: 17
+      name: cardholder_name
+      label: Cardholder Name
+      hint: Name as it appears on the card
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to the webinar terms and privacy policy
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true

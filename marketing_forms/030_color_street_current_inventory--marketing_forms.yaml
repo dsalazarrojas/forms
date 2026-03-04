@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Current Inventory
+    pages:
+    - id: 1
+      name: header
+      label: -- Current Inventory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner name
+      hint: Account or stylist name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sku
+      label: SKU or product code
+      hint: Internal identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: Product name
+      hint: Name of product
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity_on_hand
+      label: Quantity on hand
+      hint: Integer count of units
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reorder_threshold
+      label: Reorder threshold
+      hint: Minimum desired stock level
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Storage location
+      hint: Warehouse or shelf location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_restock_date
+      label: Last restock date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: supplier
+      label: Supplier
+      hint: Vendor name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional inventory notes
+      type: text
+      options: []
+      required: false

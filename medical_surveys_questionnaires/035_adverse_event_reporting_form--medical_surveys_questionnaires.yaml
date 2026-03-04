@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adverse Event Reporting Form
+    pages:
+    - id: 1
+      name: patient_information_section
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Legal full name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Patient's gender
+      type: select_one
+      options: ["Male", "Female", "Other", "Prefer not to say"]
+      required: true
+    - id: 5
+      name: patient_contact
+      label: Patient Contact
+      hint: Patient's phone number or email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporter_information_section
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reporter_name
+      label: Reporter Name
+      hint: Name of the person reporting the event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reporter_role
+      label: Reporter Role
+      hint: What is the reporter's role
+      type: select_one
+      options: ["Patient", "Parent/Guardian", "Healthcare Provider", "Other"]
+      required: true
+    - id: 9
+      name: reporter_contact
+      label: Reporter Contact
+      hint: Contact information for the reporter
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vaccination_information_section
+      label: -- Vaccination Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vaccine_name
+      label: Vaccine Name
+      hint: Name of the vaccine received
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vaccine_lot_number
+      label: Vaccine Lot Number
+      hint: Lot number of the vaccine administered
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vaccination_date
+      label: Vaccination Date
+      hint: Date when the vaccine was administered
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: vaccination_site
+      label: Vaccination Site
+      hint: Where was the vaccine administered
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: adverse_event_section
+      label: -- Adverse Event --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: event_description
+      label: Event Description
+      hint: Describe the adverse event in detail
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: symptom_onset_date
+      label: Symptom Onset Date
+      hint: When did the symptoms first appear
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: severity_level
+      label: Severity Level
+      hint: How severe were the symptoms
+      type: select_one
+      options: ["Mild", "Moderate", "Severe", "Life-threatening", "Resulted in death"]
+      required: true
+    - id: 19
+      name: medical_attention_sought
+      label: Medical Attention Sought
+      hint: Did the patient seek medical attention for this event
+      type: select_one
+      options: ["Yes", "No", "Unknown"]
+      required: true
+    - id: 20
+      name: outcome
+      label: Outcome
+      hint: What was the outcome of the adverse event
+      type: text
+      options: []
+      required: true

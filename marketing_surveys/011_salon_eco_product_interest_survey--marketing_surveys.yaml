@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Eco Product Interest Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: what_is_eco
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: eco_products
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: question3
+      label: product_interest
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: question4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

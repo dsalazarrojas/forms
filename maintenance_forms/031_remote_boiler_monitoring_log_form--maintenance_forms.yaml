@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_boiler_monitoring_log_form
+    pages:
+    - id: 1
+      name: boiler_location
+      label: Boiler Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: boiler_status
+      label: Boiler Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_time
+      label: Maintenance Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: boiler_capacity
+      label: Boiler Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: /resources/maintenance_frequencies.csv
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_number
+      label: Asset Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: boiler_model
+      label: Boiler Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: boiler_type
+      label: Boiler Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_maintenance
+      label: Next Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_hours
+      label: Maintenance Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: maintenance_cost_currency
+      label: Maintenance Cost Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_cost_amount
+      label: Maintenance Cost Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_cost
+      label: Maintenance Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: asset_tag
+      label: Asset Tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: asset_category
+      label: Asset Category
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Needs Assessment Form
+    pages:
+    - id: 1
+      name: submitter_information
+      label: Personal information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_details
+      label: Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fitness_goals
+      label: Fitness Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: physical_details
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: height
+      label: inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Medical conditions
+      hint: null
+      type: select_one
+      options:
+      - Diabetes
+      - Hypertension
+      - Other
+      required: false
+    - id: 12
+      name: medical_history
+      label: Medical history
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Other
+      required: false
+    - id: 13
+      name: medical_allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut
+      - Shellfish
+      - Other
+      required: false
+    - id: 14
+      name: medical_surgeries
+      label: Surgeries
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: medical_implants
+      label: Implants
+      hint: null
+      type: select_multiple
+      options:
+      - Dental
+      - Joint Replacement
+      - Cochlear
+      - Other
+      required: false

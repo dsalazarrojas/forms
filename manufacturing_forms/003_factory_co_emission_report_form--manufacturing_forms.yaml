@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: factory-co2-emission-report-form
+    pages:
+    - id: 1
+      name: factory_details
+      label: Factory details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_period
+      label: Reporting period
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1st reporting period''}'
+      - '{''label'': ''2nd reporting period''}'
+      - '{''label'': ''3rd reporting period''}'
+      required: true
+    - id: 3
+      name: reporting_start_date
+      label: Reporting start date
+      hint: Date of start of reporting period
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reporting_end_date
+      label: Reporting end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: emission_totals
+      label: Emission totals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: emission_standards
+      label: Emission standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_plan
+      label: Action plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_plan_details
+      label: Action plan details
+      hint: null
+      type: text
+      options: []
+      required: false

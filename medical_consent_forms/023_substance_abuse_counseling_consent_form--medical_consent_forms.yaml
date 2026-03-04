@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: substance_abuse_counseling_consent_form
+    pages:
+    - id: 1
+      name: consent_to_counseling
+      label: consent_to_counseling
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 2
+      name: understanding_of_confidentiality
+      label: understanding_of_confidentiality
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      - sometimes
+      required: true
+    - id: 3
+      name: counseling_process
+      label: counseling_process
+      hint: Please describe the counseling process.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: counseling_frequency
+      label: counseling_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: substance_abuse_history
+      label: substance_abuse_history
+      hint: Please describe your substance abuse history.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 8
+      name: consent_to_contact
+      label: consent_to_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      - sometimes
+      required: true
+    - id: 9
+      name: emergency_contact_details
+      label: emergency_contact_details
+      hint: Please enter emergency contact information.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_medical_treatment
+      label: consent_to_medical_treatment
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 11
+      name: medical_treatment_details
+      label: medical_treatment_details
+      hint: Please describe medical treatment details.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consent_to_testing
+      label: consent_to_testing
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 13
+      name: testing_details
+      label: testing_details
+      hint: Please describe testing details.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_to_other_services
+      label: consent_to_other_services
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 15
+      name: other_services
+      label: other_services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: consent_to_share_results
+      label: consent_to_share_results
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 17
+      name: consent_to_disclosure
+      label: consent_to_disclosure
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 18
+      name: disclosure_details
+      label: disclosure_details
+      hint: Please describe disclosure details.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_to_release_info
+      label: consent_to_release_info
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 20
+      name: release_info
+      label: release_info
+      hint: Please describe release information.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent_to_other_organizations
+      label: consent_to_other_organizations
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 22
+      name: other_organizations
+      label: other_organizations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: Please enter emergency contact name.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: Please enter emergency contact phone number.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: Please describe emergency contact relationship.
+      type: text
+      options: []
+      required: false

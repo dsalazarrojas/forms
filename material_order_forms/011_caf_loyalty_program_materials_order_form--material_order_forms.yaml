@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Café Loyalty Program Materials Order Form
+    pages:
+    - id: 1
+      name: cafe_info_header
+      label: -- Café Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cafe_name
+      label: Café Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cafe_contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cafe_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cafe_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: cafe_address
+      label: Café Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_header
+      label: -- Materials Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: loyalty_cards_qty
+      label: Quantity of Loyalty Cards Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: card_design
+      label: Card Design Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard Design
+      - Custom Design (upload)
+      - Digital Card
+      required: true
+    - id: 10
+      name: custom_design_upload
+      label: Upload Custom Design File
+      hint: PDF or image format
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: brochures_qty
+      label: Quantity of Marketing Brochures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: flyers_qty
+      label: Quantity of Promotional Flyers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: posters_qty
+      label: Quantity of Posters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: banner_qty
+      label: Quantity of Banners
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: material_details_header
+      label: -- Material Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: loyalty_rewards
+      label: Loyalty Program Structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reward_tiers
+      label: Include Reward Tiers?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: logo_inclusion
+      label: Include Café Logo?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: delivery_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: desired_delivery_date
+      label: Desired Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Shipping
+      - Local Pickup
+      - Courier
+      required: true
+    - id: 22
+      name: delivery_cost
+      label: Estimated Delivery Cost
+      hint: null
+      type: number
+      options: []
+      required: false

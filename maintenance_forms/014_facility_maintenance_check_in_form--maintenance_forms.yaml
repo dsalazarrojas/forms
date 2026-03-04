@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Maintenance Check In Form
+    pages:
+    - id: 1
+      name: facility_maintenance_check_in_form
+      label: Maintenance Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_activities
+      label: Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: maintenance_issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: facility_maintenance_check_in_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: scheduled_activities
+      label: Scheduled Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_technician
+      label: Assigned Tech
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: facility_maintenance_check_in_form_note_1
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

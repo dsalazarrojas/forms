@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: mixer_inspection_checklist
+    pages:
+    - id: 1
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: mixer_model
+      label: Mixer Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mixing_capacity
+      label: Mixing Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: List all safety equipment that are required on-site
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: maintenance_scheduling
+      label: Maintenance Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_maintenance
+      label: Next Maintenance Due
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: maintenance_completed
+      label: Maintenance Completed
+      hint: Select "Completed" if maintenance due date is in past
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: Name of contact person
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of contact person
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: Email of contact person
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: Name of person or team member that submitted form
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_submitted_date
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

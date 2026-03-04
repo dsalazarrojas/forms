@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Calibration Toolkit Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: order_details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option1''}'
+      - '{''id'': 2, ''name'': ''option2''}'
+      - '{''id'': 3, ''name'': ''option3''}'
+      required: true
+    - id: 3
+      name: tool_selection
+      label: tool_selection
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''tool1''}'
+      - '{''id'': 2, ''name'': ''tool2''}'
+      - '{''id'': 3, ''name'': ''tool3''}'
+      required: true
+    - id: 4
+      name: delivery_info
+      label: delivery_info
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_info
+      label: email_info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool_type
+      label: assigned_tool_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool_status
+      label: assigned_tool_status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assigned_tool_date
+      label: assigned_tool_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool_comments
+      label: assigned_tool_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user_comments
+      label: assigned_user_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tool_location
+      label: tool_location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''location1''}'
+      - '{''id'': 2, ''name'': ''location2''}'
+      - '{''id'': 3, ''name'': ''location3''}'
+      required: true
+    - id: 16
+      name: tool_type
+      label: tool_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''type1''}'
+      - '{''id'': 2, ''name'': ''type2''}'
+      - '{''id'': 3, ''name'': ''type3''}'
+      required: true
+    - id: 17
+      name: tool_condition
+      label: tool_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''condition1''}'
+      - '{''id'': 2, ''name'': ''condition2''}'
+      - '{''id'': 3, ''name'': ''condition3''}'
+      required: false
+    - id: 18
+      name: tool_status
+      label: tool_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''status1''}'
+      - '{''id'': 2, ''name'': ''status2''}'
+      - '{''id'': 3, ''name'': ''status3''}'
+      required: true
+    - id: 19
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: tool_number
+      label: tool_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tool_model
+      label: tool_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: tool_serial_number
+      label: tool_serial_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: tool_warranty
+      label: tool_warranty
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''warranty1''}'
+      - '{''id'': 2, ''name'': ''warranty2''}'
+      - '{''id'': 3, ''name'': ''warranty3''}'
+      required: true
+    - id: 24
+      name: tool_return
+      label: tool_return
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''return1''}'
+      - '{''id'': 2, ''name'': ''return2''}'
+      - '{''id'': 3, ''name'': ''return3''}'
+      required: false
+    - id: 25
+      name: tool_comments
+      label: tool_comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: gift_card_giveaway_form
+    pages:
+    - id: 1
+      name: entry_info
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: gift_card_value
+      label: Gift Card Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contest_participation
+      label: Would you like to participate in the gift card contest
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concept For Organizational Change
+    pages:
+      - id: 1
+        name: section_project_overview
+        label: -- Project Overview --
+        hint: Summarize proposed organizational change concept
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_name
+        label: Project name
+        hint: Short descriptive title
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: sponsor_name
+        label: Sponsor name
+        hint: Executive sponsor or owner
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: summary_description
+        label: Summary description
+        hint: Brief description of the change and objectives
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: expected_benefits
+        label: Expected benefits
+        hint: Outcomes and value for the organization
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: key_stakeholders
+        label: Key stakeholders
+        hint: Groups or roles impacted
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: estimated_timeline
+        label: Estimated timeline
+        hint: High level milestones and dates
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: resource_requirements
+        label: Resource requirements
+        hint: Budget, personnel, and technology needs
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: approval_requested
+        label: Approval requested
+        hint: Select to request formal approval
+        type: select_one
+        options: [Yes, No]
+        required: true

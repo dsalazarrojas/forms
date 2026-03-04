@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fabric Order Form
+    pages:
+    - id: 1
+      name: fabric_order_form_page_1
+      label: fabric_order_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fabric_type
+      label: fabric_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''cotton''}'
+      - '{''id'': 2, ''name'': ''polyester''}'
+      - '{''id'': 3, ''name'': ''wool''}'
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fabric_color
+      label: fabric_color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''red''}'
+      - '{''id'': 2, ''name'': ''blue''}'
+      - '{''id'': 3, ''name'': ''green''}'
+      required: false
+    - id: 7
+      name: fabric_width
+      label: fabric_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fabric_length
+      label: fabric_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fabric_thickness
+      label: fabric_thickness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''home''}'
+      - '{''id'': 2, ''name'': ''work''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 12
+      name: fabric_weight
+      label: fabric_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: fabric_weight_unit
+      label: fabric_weight_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pounds''}'
+      - '{''id'': 2, ''name'': ''kilograms''}'
+      - '{''id'': 3, ''name'': ''ounces''}'
+      required: false
+    - id: 14
+      name: fabric_weight_value
+      label: fabric_weight_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: fabric_cost
+      label: fabric_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: fabric_price
+      label: fabric_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: fabric_total
+      label: fabric_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fabric_notes
+      label: fabric_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''bank_transfer''}'
+      - '{''id'': 2, ''name'': ''credit_card''}'
+      required: false
+    - id: 22
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''confirmed''}'
+      - '{''id'': 3, ''name'': ''cancelled''}'
+      required: false
+    - id: 23
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''another_user''}'
+      required: false
+    - id: 26
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false

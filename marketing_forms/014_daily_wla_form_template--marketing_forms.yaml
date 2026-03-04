@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily WLA Form Template
+    pages:
+    - id: 1
+      name: resource_allocation
+      label: Resource Allocation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: work_duration
+      label: Work Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_off
+      label: Time Off
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unavailable
+      - Partially Available
+      required: false
+    - id: 6
+      name: resource_utilization
+      label: Resource Utilization
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: resource_id
+      label: Resource ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resource_description
+      label: Resource Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resource_status
+      label: Resource Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - On Leave
+      - On Vacation
+      required: false
+    - id: 13
+      name: resource_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 14
+      name: resource_cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: resource_capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: resource_urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 17
+      name: resource_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 18
+      name: resource_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: resource_id_2
+      label: Resource ID 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: resource_name_2
+      label: Resource Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: resource_description_2
+      label: Resource Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: resource_type_2
+      label: Resource Type 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: resource_status_2
+      label: Resource Status 2
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - On Leave
+      - On Vacation
+      required: false
+    - id: 24
+      name: resource_location_2
+      label: Location 2
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false
+    - id: 25
+      name: resource_cost_2
+      label: Cost 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      - other
+      required: false

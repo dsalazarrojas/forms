@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oncology Discharge Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: patient_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cancer_treatment
+      label: cancer_treatment
+      hint: null
+      type: select_one
+      options:
+      - Chemotherapy
+      - Hormonal Therapy
+      - Radiation Therapy
+      - Surgery
+      - Other
+      required: true
+    - id: 6
+      name: followup_date
+      label: followup_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: followup_time
+      label: followup_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: medication_name
+      label: medication_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dosage_frequency
+      label: dosage_frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: note
+      options: []
+      required: true

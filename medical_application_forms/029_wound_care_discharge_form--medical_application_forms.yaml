@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wound Care Discharge Form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wound_status
+      label: Wound Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Healing'', ''value'': ''healing''}'
+      - '{''id'': 2, ''label'': ''Not Healing'', ''value'': ''not_healing''}'
+      - '{''id'': 3, ''label'': ''Unhealed'', ''value'': ''unhealed''}'
+      required: false
+    - id: 4
+      name: wound_size
+      label: Wound Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wound_location
+      label: Wound Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: post_treatment_instructions
+      label: Post Treatment Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: discharge_diagnosis
+      label: Discharge Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Satisfactory'', ''value'': ''satisfactory''}'
+      - '{''id'': 2, ''label'': ''Unsatisfactory'', ''value'': ''unsatisfactory''}'
+      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 8
+      name: follow_up_care_plan
+      label: Follow-up Care Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: wound_care_instructions
+      label: Wound Care Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Discharged'', ''value'': ''discharged''}'
+      - '{''id'': 2, ''label'': ''Not Discharged'', ''value'': ''not_discharged''}'
+      required: false
+    - id: 12
+      name: reason_for_discharge
+      label: Reason For Discharge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: post_discharge_instructions
+      label: Post Discharge Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_provider
+      label: Next Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_discharged
+      label: Date Discharged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_discharge_code
+      label: Reason For Discharge Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: discharge_time
+      label: Discharge Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: discharge_location
+      label: Discharge Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: discharge_diagnosis_code
+      label: Discharge Diagnosis Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_care_provider
+      label: Follow-up Care Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_visit_date
+      label: Next Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: next_visit_time
+      label: Next Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: next_visit_location
+      label: Next Visit Location
+      hint: null
+      type: text
+      options: []
+      required: false

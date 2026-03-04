@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Your Holiday Coupon
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Where we will send your coupon
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: For order confirmations
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_type
+      label: Are You a New or Returning Customer
+      hint: Select your customer status
+      type: select_one
+      options:
+      - New customer
+      - Returning customer
+      - VIP member
+      required: true
+    - id: 6
+      name: coupon_preference
+      label: Select Your Holiday Coupon
+      hint: Choose your preferred offer
+      type: select_one
+      options:
+      - 20 percent off entire purchase
+      - Buy one get one free
+      - Free shipping on any order
+      - 50 dollars off orders over 200
+      - Gift with purchase
+      - Early access to sales
+      required: true
+    - id: 7
+      name: preferred_category
+      label: Preferred Product Category
+      hint: What do you shop for most
+      type: select_one
+      options:
+      - Clothing and Apparel
+      - Electronics
+      - Home and Garden
+      - Beauty and Personal Care
+      - Sports and Outdoors
+      - Books and Media
+      - Toys and Games
+      - No preference
+      required: false
+    - id: 8
+      name: shopping_frequency
+      label: How Often Do You Shop With Us
+      hint: Select your frequency
+      type: select_one
+      options:
+      - First time
+      - Once a year
+      - Few times a year
+      - Monthly
+      - Weekly
+      required: true
+    - id: 9
+      name: referral_source
+      label: How Did You Hear About This Offer
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email newsletter
+      - Social media
+      - Website banner
+      - Friend or family referral
+      - In-store promotion
+      - Online advertisement
+      - Search engine
+      - Other
+      required: false
+    - id: 10
+      name: birthday_month
+      label: What Is Your Birthday Month
+      hint: For special birthday offers
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: mailing_address
+      label: Mailing Address
+      hint: If physical coupon is needed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: zip_code
+      label: ZIP Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: terms_acceptance
+      label: Do You Accept the Terms and Conditions
+      hint: Coupon terms and expiry apply
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 16
+      name: newsletter_signup
+      label: Join Our Newsletter for More Deals
+      hint: Get exclusive offers sent to your inbox
+      type: select_one
+      options:
+      - Yes, sign me up
+      - No, thank you
+      required: true
+    - id: 17
+      name: sms_opt_in
+      label: Receive Text Message Alerts
+      hint: Get flash sale notifications
+      type: select_one
+      options:
+      - Yes, opt me in
+      - No, thank you
+      required: true
+    - id: 18
+      name: gift_option
+      label: Is This a Gift Purchase
+      hint: For gift wrapping options
+      type: select_one
+      options:
+      - Yes, for someone else
+      - Yes, for myself
+      - false
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

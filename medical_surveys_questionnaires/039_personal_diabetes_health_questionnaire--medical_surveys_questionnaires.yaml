@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Diabetes Health Questionnaire
+    pages:
+    - id: 1
+      name: personal_diabetes_history
+      label: Personal Diabetes History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medication_list
+      label: Medications
+      hint: List your current medications
+      type: select_multiple
+      options:
+      - Glipizide
+      - Metformin
+      - Insulin
+      required: true
+    - id: 3
+      name: blood_glucose_levels
+      label: Blood Glucose Levels
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: meal_nutrition_plan
+      label: Meal Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exercise_frequency
+      label: Exercise Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: health_care_team
+      label: Health Care Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_tests
+      label: Medical Tests
+      hint: Select medical tests related to diabetes
+      type: select_multiple
+      options:
+      - A1C test
+      - Blood pressure test
+      - Blood sugar test
+      required: false
+    - id: 8
+      name: health_outcomes
+      label: Health Outcomes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: diabetes_management
+      label: Diabetes Management
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: complications
+      label: Complications
+      hint: null
+      type: select_one
+      options:
+      - Nephropathy
+      - Neuropathy
+      - Retinopathy
+      required: false

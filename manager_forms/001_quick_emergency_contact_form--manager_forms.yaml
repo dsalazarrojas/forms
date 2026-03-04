@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: quick-emergency-contact-form
+    pages:
+    - id: 1
+      name: contact_numbers
+      label: Contact Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_numbers
+      label: Employee Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_numbers
+      label: Patient Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: Enter contact information for the individual.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_names
+      label: Contact Names
+      hint: Enter the contact names.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_numbers
+      label: Emergency Contact Numbers
+      hint: Enter emergency contact numbers.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact_information
+      label: Emergency Contact Information
+      hint: Enter emergency contact information.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_names
+      label: Emergency Contact Names
+      hint: Enter the emergency contact names.
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_relationship
+      label: Relationship
+      hint: Enter relationship.
+      type: select_one
+      options:
+      - Mom
+      - Dad
+      - Brother
+      - Sister
+      - Other
+      required: false

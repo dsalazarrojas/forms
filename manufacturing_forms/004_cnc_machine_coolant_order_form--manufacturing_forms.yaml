@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNC Machine Coolant Order Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Production
+      - Maintenance
+      - Quality Control
+      - Operations
+      - Other
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: required_delivery_date
+      label: Required Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: coolant_type
+      label: Coolant Type
+      hint: null
+      type: select_one
+      options:
+      - Oil-based coolant
+      - Water-soluble coolant
+      - Synthetic coolant
+      - Semi-synthetic coolant
+      - Straight oil
+      - Other
+      required: true
+    - id: 6
+      name: coolant_viscosity
+      label: Coolant Viscosity Grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity_liters
+      label: Quantity Needed (liters)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: container_size
+      label: Container Size Preference
+      hint: null
+      type: select_one
+      options:
+      - 5 liters
+      - 10 liters
+      - 20 liters
+      - 50 liters
+      - 200 liters
+      - 1000 liters
+      required: true
+    - id: 9
+      name: machine_model
+      label: CNC Machine Model(s)
+      hint: List the models using this coolant
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_coolant_supplier
+      label: Current Coolant Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cost_center
+      label: Cost Center Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: budget_approval
+      label: Budget approval received
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 13
+      name: special_requirements
+      label: Special Requirements or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: disposal_considerations
+      label: Previous coolant disposal method
+      hint: null
+      type: select_one
+      options:
+      - Recycling program
+      - Waste management company
+      - On-site storage
+      - Other
+      required: false
+    - id: 15
+      name: approval_manager
+      label: Manager Approval Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

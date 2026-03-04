@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Pre Event Survey
+    pages:
+    - id: 1
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_time
+      label: event_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: artist_details
+      label: artist_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artist_availability
+      label: artist_availability
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: artist_experience
+      label: artist_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 6
+      name: artist_services
+      label: artist_services
+      hint: null
+      type: select_multiple
+      options:
+      - Makeup
+      - Hair
+      - Both
+      required: false
+    - id: 7
+      name: client_preferences
+      label: client_preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_contact
+      label: client_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Painting Project Scope Survey
+    pages:
+    - id: 1
+      name: intro_section
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_type
+      label: What type of project is this?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: scope_of_work
+      label: Scope of Work
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: painting_service
+      label: What painting services are required?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: painting_location
+      label: Where will the painting be done?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 9
+      name: estimate_details
+      label: Estimate Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: tv_survey
+    pages:
+    - id: 1
+      name: tv_expert
+      label: TV expert
+      hint: null
+      type: select_one
+      options:
+      - Network Executive
+      - TV producer
+      - TV channel owner
+      - Other
+      required: false
+    - id: 2
+      name: tv_ratings
+      label: TV ratings
+      hint: Enter your channel's average TV ratings
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tv_ratings_improve
+      label: Improve
+      hint: How do you rate your TV channel's ratings?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tv_target_audience
+      label: TV target audience
+      hint: null
+      type: select_multiple
+      options:
+      - Adults 18-34
+      - Adults 35-54
+      - Adults 55+
+      - Children 0-11
+      - Children 12-17
+      required: false
+    - id: 5
+      name: tv_channel_type
+      label: TV channel type
+      hint: null
+      type: select_one
+      options:
+      - Cable
+      - Satellite
+      - Over-the-air
+      - Online
+      - Other
+      required: false
+    - id: 6
+      name: tv_time_slot
+      label: TV time slot
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tv_survey_date
+      label: Date of survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tv_survey_time
+      label: Time of survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: tv_survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tv_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: tv_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tv_survey_other_comments
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tv_survey_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tv_survey_other_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tv_survey_other_value
+      label: Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tv_channel_name
+      label: Channel name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tv_survey_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 18
+      name: tv_survey_disagree
+      label: Disagree
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 19
+      name: tv_channel_description
+      label: Channel description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tv_survey_rating
+      label: Survey rating
+      hint: Rate this form
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: tv_channel_picture
+      label: Channel picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tv_channel_url
+      label: Channel URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tv_channel_url_label
+      label: Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tv_survey_language
+      label: Survey language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Italian
+      required: false
+    - id: 25
+      name: tv_survey_other_language
+      label: Other language
+      hint: null
+      type: text
+      options: []
+      required: false

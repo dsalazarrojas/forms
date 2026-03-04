@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicare Chiropractic Documentation and Billing Checklist
+    pages:
+    - id: 1
+      name: chiropractic_visit_details
+      label: Chiropractic Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: chiropractor_name
+      label: Chiropractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_contact_info
+      label: Patient Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: billing_info
+      label: Billing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - Chiropractic Diagnosis
+      - Other (Please specify)
+      required: false
+    - id: 8
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false

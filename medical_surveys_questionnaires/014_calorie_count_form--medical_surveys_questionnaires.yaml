@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calorie Count Form
+    pages:
+    - id: 1
+      name: patient_vitals_header
+      label: -- Patient Nutrition Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tracking_date
+      label: Tracking Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_weight
+      label: Current Weight (lbs/kg)
+      hint: Record at the start of the day
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: daily_meals_log
+      label: Detailed Daily Intake
+      hint: List all meals, snacks, and calorie counts if known
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: total_calorie_estimate
+      label: Total Estimated Calorie Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: protein_intake_g
+      label: Protein Intake (Grams)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: carb_intake_g
+      label: Carbohydrate Intake (Grams)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fat_intake_g
+      label: Fat Intake (Grams)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: water_intake_fl_oz
+      label: Water Intake (fl oz)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: fiber_intake_g
+      label: Fiber Intake (Grams)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vegetable_servings
+      label: Servings of Vegetables
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: exercise_duration_mins
+      label: Physical Activity Duration (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: exercise_type
+      label: Type of Exercise
+      hint: e.g., Walking, Weightlifting, Cardio
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sleep_duration_hrs
+      label: Sleep Duration (Hours)
+      hint: Last night's sleep
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: mood_energy_rating
+      label: Energy Level Today
+      hint: 1 (Very Low) to 5 (Peak Energy)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: medical_practitioner_notes
+      label: Practitioner Observation Notes
+      hint: To be filled by the dietitian or trainer
+      type: text
+      options: []
+      required: false

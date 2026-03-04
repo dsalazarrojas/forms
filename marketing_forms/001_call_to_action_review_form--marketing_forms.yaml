@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Call To Action Review Form
+    pages:
+      - id: 1
+        name: reviewer_name
+        label: Reviewer Name
+        hint: Your full name or team name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: company_organization
+        label: Company or Organization
+        hint: Name of your business or organization
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: Contact email for follow-up
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: cta_location
+        label: Where did you see this call to action
+        hint: Select the platform or location
+        type: select_one
+        options:
+          - Website homepage
+          - Landing page
+          - Email newsletter
+          - Social media post
+          - Paid advertisement
+          - Blog article
+          - Mobile app
+          - Other
+        required: true
+      - id: 5
+        name: cta_type
+        label: Type of Call to Action
+        hint: What action was the CTA asking you to take
+        type: select_one
+        options:
+          - Purchase now
+          - Sign up or register
+          - Download resource
+          - Subscribe to newsletter
+          - Request demo
+          - Contact sales
+          - Learn more
+          - Share content
+        required: true
+      - id: 6
+        name: cta_clarity_rating
+        label: How clear was the call to action
+        hint: Rate from 1 (unclear) to 5 (very clear)
+        type: select_one
+        options:
+          - 1 - Very unclear
+          - 2 - Somewhat unclear
+          - 3 - Neutral
+          - 4 - Somewhat clear
+          - 5 - Very clear
+        required: true
+      - id: 7
+        name: cta_visibility_rating
+        label: How visible was the CTA button or link
+        hint: Rate from 1 (hard to find) to 5 (very prominent)
+        type: select_one
+        options:
+          - 1 - Hard to find
+          - 2 - Somewhat hidden
+          - 3 - Neutral
+          - 4 - Easy to see
+          - 5 - Very prominent
+        required: true
+      - id: 8
+        name: cta_motivation_level
+        label: How motivated were you to click the CTA
+        hint: Rate your level of motivation
+        type: select_one
+        options:
+          - Not motivated at all
+          - Slightly motivated
+          - Moderately motivated
+          - Very motivated
+          - Extremely motivated
+        required: true
+      - id: 9
+        name: cta_color_effectiveness
+        label: Did the CTA color stand out from the page
+        hint: Select your response
+        type: select_one
+        options:
+          - Yes - very effective
+          - Somewhat effective
+          - Neutral
+          - Not very effective
+          - No - blended in completely
+        required: false
+      - id: 10
+        name: cta_copy_feedback
+        label: What did you think about the CTA text or copy
+        hint: Your thoughts on the wording used
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: barriers_to_action
+        label: What prevented you from clicking the CTA if anything
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Nothing - I clicked it
+          - Unclear value proposition
+          - Not interested in the offer
+          - Too many form fields expected
+          - Distrust of the website
+          - Poor timing
+          - Technical issues
+          - Other
+        required: false
+      - id: 12
+        name: improvement_suggestions
+        label: What improvements would make you more likely to click
+        hint: Your suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: overall_effectiveness
+        label: Overall how effective is this call to action
+        hint: Rate overall effectiveness
+        type: select_one
+        options:
+          - Very ineffective
+          - Somewhat ineffective
+          - Neutral
+          - Somewhat effective
+          - Very effective
+        required: true
+      - id: 14
+        name: would_recommend
+        label: Would you recommend this CTA approach to others
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: false
+      - id: 15
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you would like to share
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Promoter Score Form
+    pages:
+    - id: 1
+      name: intro
+      label: How did you feel about your last interaction with our brand?
+      hint: Tell us about your latest experience
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: score
+      label: On a scale of 1-5, how likely are you to recommend our brand?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: score2
+      label: On a scale of 1-5, how likely are you prophets to recommend our brand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question1
+      label: What can we improve?
+      hint: Tellประก us about prophets prophets
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question2
+      label: How likely are you to return to our brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question3
+      label: How likely are you to suggest our brand to a friend
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: question4
+      label: How likely are you to suggest our brand toประก prophets
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: email
+      label: What is your email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question5
+      label: How likely are you to return to our brand
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Prescription Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: veterinarian
+      label: veterinarian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prescription
+      label: prescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Arthritis''}'
+      - '{''id'': 2, ''label'': ''Cancer''}'
+      - '{''id'': 3, ''label'': ''Diabetes''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: treatment
+      label: treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

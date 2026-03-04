@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Journalist Outreach Communication Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: journalist_name
+      label: Journalist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_communication_channels
+      label: Preferred Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_one
+      options:
+      - Audience 1
+      - Audience 2
+      - Audience 3
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 11
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: number
+      options: []
+      required: false

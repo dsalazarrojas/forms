@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Motivation Survey
+    pages:
+    - id: 1
+      name: employee_motivation_survey_page_1
+      label: What motivates you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: How satisfied are you with your job
+      hint: On a scale of 1-10
+      type: select_one
+      options:
+      - '{1: ''Low''}'
+      - '{2: ''Medium''}'
+      - '{3: ''High''}'
+      required: false
+    - id: 3
+      name: employee_value
+      label: How much value do you place on your company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_job_satisfaction_scale
+      label: employee_job_satisfaction_scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Low''}'
+      - '{2: ''Medium''}'
+      - '{3: ''High''}'
+      required: false
+    - id: 5
+      name: job_engagement
+      label: How engaged are you at work
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Low''}'
+      - '{2: ''Medium''}'
+      - '{3: ''High''}'
+      required: false
+    - id: 6
+      name: employee_dream_job
+      label: What your dream job would be
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_life_balance
+      label: Work life balance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: manager_support
+      label: How much support do you get from your manager
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Low''}'
+      - '{2: ''Medium''}'
+      - '{3: ''High''}'
+      required: false

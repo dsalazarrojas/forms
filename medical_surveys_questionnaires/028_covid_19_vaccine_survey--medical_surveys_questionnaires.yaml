@@ -1,0 +1,271 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Vaccine Survey
+    pages:
+    - id: 1
+      name: survey_respondent_header
+      label: -- Respondent Information --
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_age_group
+      Label: Age Group
+      hint: Your age category
+      type: select_one
+      options:
+        - Under 18
+        - 18-25
+        - 26-35
+        - 36-50
+        - 51-65
+        - 65+
+      required: false
+    - id: 5
+      name: survey_gender
+      label: Gender
+      hint: Your gender
+      type: select_one
+      options:
+        - Male
+        - Female
+        - Other
+        - Prefer Not to Say
+      required: false
+    - id: 6
+      name: survey_email
+      Label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: vaccine_awareness_header
+      label: -- Vaccine Awareness --
+      hint: Your knowledge about COVID-19 vaccines
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: vaccine_awareness
+      Label: How Much Do You Know About COVID-19 Vaccines
+      hint: Your level of awareness
+      type: select_one
+      options:
+        - Very well informed
+        - Somewhat informed
+        - Minimal knowledge
+        - No knowledge
+      required: true
+    - id: 9
+      name: vaccine_sources
+      label: Where Do You Get Vaccine Information
+      hint: Select all sources you use
+      type: select_multiple
+      options:
+        - Healthcare provider
+        - Media sources
+        - Social media
+        - Government websites
+        - Friends and family
+        - Online research
+        - Medical journals
+        - No specific sources
+      required: false
+    - id: 10
+      name: vaccine_trust_header
+      Label: -- Trust and Confidence --
+      hint: Your thoughts on vaccine safety
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: vaccine_trust_level
+      label: How Much Do You Trust COVID-19 Vaccines
+      hint: Your confidence level in vaccines
+      type: select_one
+      options:
+        - Strongly trust
+        - Somewhat trust
+        - Somewhat distrust
+        - Strongly distrust
+        - Unsure
+      required: true
+    - id: 12
+      name: vaccine_efficacy_belief
+      Label: I Believe COVID-19 Vaccines Are Effective
+      hint: Your belief in vaccine effectiveness
+      type: select_one
+      options:
+        - Strongly agree
+        - Agree
+        - Neutral
+        - Disagree
+        - Strongly disagree
+      required: true
+    - id: 13
+      name: vaccine_safety_belief
+      label: I Believe COVID-19 Vaccines Are Safe
+      hint: Your belief in vaccine safety
+      type: select_one
+      options:
+        - Strongly agree
+        - Agree
+        - Neutral
+        - Disagree
+        - Strongly disagree
+      required: true
+    - id: 14
+      name: vaccine_intent_header
+      Label: -- Vaccination Intent --
+      hint: Your intention to get vaccinated
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vaccine_intention
+      label: Do You Plan to Get the COVID-19 Vaccine
+      hint: Your vaccination intention
+      type: select_one
+      options:
+        - Yes, definitely
+        - Probably yes
+        - Unsure
+        - Probably not
+        - Definitely not
+      required: true
+    - id: 16
+      name: vaccine_hesitation_reasons
+      Label: If Hesitant, What Are Your Main Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Safety concerns
+        - Efficacy concerns
+        - Side effect worries
+        - Political reasons
+        - Religious reasons
+        - Allergic reaction concerns
+        - Pregnancy concerns
+        - Lack of long-term data
+        - Distrust of government
+        - Prefer natural immunity
+      required: false
+    - id: 17
+      name: vaccine_persuasion_header
+      Label: -- Persuasion Factors --
+      hint: What would convince you
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: vaccine_persuasion_factors
+      label: What Would Help You Decide to Get Vaccinated
+      hint: Select all that would help
+      type: select_multiple
+      options:
+        - More scientific data
+        - Healthcare provider recommendation
+        - Testimonial from trusted person
+        - Employer requirement
+        - Travel requirement
+        - Risk of COVID-19
+        - Protection for vulnerable people
+        - Wide acceptance
+        - Nothing would convince me
+      required: false
+    - id: 19
+      name: vaccine_risk_perception
+      Label: How Serious Is COVID-19 as a Health Threat
+      hint: Your risk perception
+      type: select_one
+      options:
+        - Very serious threat
+        - Somewhat serious
+        - Neutral
+        - Not very serious
+        - Not a threat at all
+      required: true
+    - id: 20
+      name: vaccine_personal_impact
+      label: How Much Would Vaccination Impact Your Life
+      hint: Expected personal impact
+      type: select_one
+      options:
+        - Significant positive impact
+        - Some positive impact
+        - No impact
+        - Some negative impact
+        - Significant negative impact
+      required: true
+    - id: 21
+      name: vaccine_health_beliefs
+      Label: Do You Have Underlying Health Conditions
+      hint: Relevant health conditions
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Prefer Not to Say
+      required: false
+    - id: 22
+      name: vaccine_exposure_risk
+      label: How Exposed Are You to COVID-19
+      hint: Your exposure risk
+      type: select_one
+      options:
+        - High risk
+        - Moderate risk
+        - Low risk
+        - No risk exposure
+      required: true
+    - id: 23
+      name: vaccine_additional_comments
+      Label: Additional Comments or Feedback
+      hint: Any other thoughts about COVID-19 vaccines
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_future_contact
+      label: May We Contact You for Follow-Up Survey
+      hint: Permission for follow-up
+      type: select_one
+      options:
+        - Yes, contact me
+        - No, do not contact
+      required: false
+    - id: 25
+      name: survey_thank_you
+      Label: -- Thank You --
+      hint: Thank you for completing this survey
+      type: note
+      options: []
+      required: false

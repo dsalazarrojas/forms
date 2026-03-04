@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: special_diet_counseling_discharge_form
+    pages:
+    - id: 1
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_weight
+      label: patient_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''type'': ''string''}'
+      - '{''type'': ''string''}'
+      - '{''type'': ''string''}'
+      required: true
+    - id: 9
+      name: discharge_plan
+      label: discharge_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_appointment
+      label: next_appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_appointment_time
+      label: next_appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: next_appointment_date
+      label: next_appointment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false

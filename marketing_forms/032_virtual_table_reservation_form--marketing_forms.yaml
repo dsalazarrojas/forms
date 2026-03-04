@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_table_reservation_form
+    pages:
+    - id: 1
+      name: reservation_details
+      label: Reservation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reservation_note
+      label: Reservation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: table_selection
+      label: Table Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Table 1
+      - Table 2
+      - Table 3
+      required: false
+    - id: 11
+      name: table_selection_hint
+      label: Select a Table
+      hint: null
+      type: select_multiple
+      options:
+      - Table 1
+      - Table 2
+      - Table 3
+      required: false
+    - id: 12
+      name: confirm_reservation
+      label: Confirm Reservation
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

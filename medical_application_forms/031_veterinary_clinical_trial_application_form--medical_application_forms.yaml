@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Clinical Trial Application Form
+    pages:
+    - id: 1
+      name: animal_details
+      label: Animal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 5
+      name: owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Dog''}'
+      - '{''label'': ''Cat''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: medical_status
+      label: Medical Status
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      required: false

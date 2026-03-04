@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Requisition Form
+    pages:
+    - id: 1
+      name: medical_requisition_form
+      label: Medical Requisition Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_requested
+      label: Equipment Requested
+      hint: null
+      type: select_multiple
+      options:
+      - Surgical Equipment
+      - General Medical Supplies
+      - Medications
+      required: false
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_requisitioner
+      label: Medical Requisitioner
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Williams
+      required: false
+    - id: 5
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: requisition_time
+      label: Requisition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: requisition_time_hhmm
+      label: Requisition Time HH -MM
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requisitioned_by
+      label: Requisitioned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

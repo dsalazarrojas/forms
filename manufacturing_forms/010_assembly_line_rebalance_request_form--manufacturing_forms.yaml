@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Rebalance Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_role
+      label: Requester Role
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Production
+      - Industrial Engineering
+      - Quality Assurance
+      - Operations Management
+      - Maintenance
+      - Other
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assembly_line_id
+      label: Assembly Line ID
+      hint: Line identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_affected
+      label: Product Affected
+      hint: Product name or code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_cycle_time
+      label: Current Cycle Time in Seconds
+      hint: Time per unit currently
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: target_cycle_time
+      label: Target Cycle Time in Seconds
+      hint: Desired time per unit
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_throughput
+      label: Current Throughput Per Hour
+      hint: Units produced per hour
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: target_throughput
+      label: Target Throughput Per Hour
+      hint: Desired units per hour
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rebalance_reason
+      label: Reason for Rebalance Request
+      hint: Why is this needed
+      type: select_one
+      options:
+      - Increased Demand
+      - Decreased Demand
+      - Bottleneck Identified
+      - New Product Introduction
+      - Process Improvement
+      - Equipment Change
+      - Staffing Change
+      - Quality Issues
+      required: true
+    - id: 12
+      name: bottleneck_station
+      label: Bottleneck Station Number
+      hint: Which station is slowest
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: bottleneck_description
+      label: Bottleneck Description
+      hint: Describe the bottleneck issue
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stations_affected
+      label: Number of Stations Affected
+      hint: How many stations will change
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: estimated_downtime_hours
+      label: Estimated Downtime in Hours
+      hint: How long will line be down
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: proposed_changes
+      label: Proposed Changes Summary
+      hint: Describe what will change
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: resources_needed
+      label: Resources Needed
+      hint: What is required for rebalance
+      type: select_multiple
+      options:
+      - Additional Equipment
+      - New Tooling
+      - Staff Training
+      - Layout Modification
+      - Software Updates
+      - External Consultants
+      - None
+      required: true
+    - id: 18
+      name: cost_estimate
+      label: Estimated Cost in Dollars
+      hint: Approximate cost of rebalance
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: expected_roi
+      label: Expected Return on Investment
+      hint: Expected benefit or savings
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Potential risks of this change
+      type: select_one
+      options:
+      - Low Risk
+      - Medium Risk
+      - High Risk
+      - Unknown
+      required: true
+    - id: 21
+      name: safety_impact
+      label: Safety Impact
+      hint: Will this affect worker safety
+      type: select_one
+      options:
+      - No Impact
+      - Positive Impact
+      - Minor Concerns
+      - Major Concerns
+      required: true
+    - id: 22
+      name: quality_impact
+      label: Quality Impact
+      hint: Effect on product quality
+      type: select_one
+      options:
+      - No Impact
+      - Improvement Expected
+      - Potential Risk
+      - Unknown
+      required: true
+    - id: 23
+      name: implementation_timeline
+      label: Proposed Implementation Date
+      hint: When should this be done
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: approval_status
+      label: Current Approval Status
+      hint: Where is this in approval process
+      type: select_one
+      options:
+      - Draft
+      - Submitted for Review
+      - Under Engineering Review
+      - Approved
+      - Rejected
+      - On Hold
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: requester_signature
+      label: Requester Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,348 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Client Health Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: insurance_id
+      label: Insurance ID
+      hint: Member ID number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: questionnaire_date
+      label: Questionnaire Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle or body aches
+      - Headache
+      - New loss of taste or smell
+      - Sore throat
+      - Congestion or runny nose
+      - Nausea or vomiting
+      - Diarrhea
+      required: true
+    - id: 18
+      name: symptom_severity
+      label: Symptom Severity
+      hint: If symptomatic
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Not applicable
+      required: false
+    - id: 19
+      name: known_exposure
+      label: Known COVID-19 Exposure
+      hint: In past 14 days
+      type: select_one
+      options:
+      - Yes - Confirmed case
+      - Yes - Suspected case
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: recent_travel
+      label: Recent Travel
+      hint: In past 14 days
+      type: select_one
+      options:
+      - No travel
+      - Domestic travel
+      - International travel
+      required: true
+    - id: 21
+      name: travel_locations
+      label: Travel Locations
+      hint: Where did you travel
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_covid_infection
+      label: Previous COVID-19 Infection
+      hint: Have you had COVID
+      type: select_one
+      options:
+      - Yes - Confirmed by test
+      - Yes - Suspected
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: infection_date
+      label: Infection Date
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccine
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated - 1 dose
+      - Fully vaccinated - Primary series
+      - Boosted
+      - Prefer not to say
+      required: true
+    - id: 25
+      name: vaccine_brand
+      label: Vaccine Brand
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: medical_conditions
+      label: Underlying Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Cancer
+      - Chronic kidney disease
+      - COPD or lung disease
+      - Heart conditions
+      - Obesity
+      - Pregnancy
+      - Sickle cell disease
+      - Type 1 diabetes
+      - Type 2 diabetes
+      - Weakened immune system
+      - Hypertension
+      required: true
+    - id: 27
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: allergies
+      label: Drug Allergies
+      hint: List any allergies
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: smoking_status
+      label: Smoking Status
+      hint: Current or former
+      type: select_one
+      options:
+      - Never smoked
+      - Former smoker
+      - Current smoker
+      required: true
+    - id: 30
+      name: occupation
+      label: Occupation
+      hint: Current job
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: healthcare_worker
+      label: Healthcare Worker
+      hint: Do you work in healthcare
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: essential_worker
+      label: Essential Worker
+      hint: Critical infrastructure
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: living_situation
+      label: Living Situation
+      hint: Residence type
+      type: select_one
+      options:
+      - Single family home
+      - Apartment
+      - Dormitory
+      - Group home
+      - Long-term care facility
+      - Homeless or shelter
+      - Other
+      required: true
+    - id: 34
+      name: household_members
+      label: Number of Household Members
+      hint: People living with you
+      type: number
+      options: []
+      required: true
+    - id: 35
+      name: high_risk_household
+      label: High Risk Household Members
+      hint: Elderly or immunocompromised
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 36
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Why are you here today
+      type: select_one
+      options:
+      - COVID-19 testing
+      - Vaccination
+      - Symptoms evaluation
+      - Follow-up
+      - Other medical care
+      required: true
+    - id: 37
+      name: additional_health_notes
+      label: Additional Health Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

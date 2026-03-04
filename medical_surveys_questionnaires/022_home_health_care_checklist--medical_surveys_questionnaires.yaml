@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Health Care Checklist
+    pages:
+    - id: 1
+      name: home_health_care_checklist_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: home_health_care_checklist_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: home_health_care_checklist_3
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: home_health_care_checklist_4
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_health_care_checklist_5
+      label: Quarantine Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: home_health_care_checklist_6
+      label: Quarantine End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: home_health_care_checklist_7
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_health_care_checklist_8
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: home_health_care_checklist_9
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_health_care_checklist_10
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: home_health_care_checklist_11
+      label: Quarantine Reason
+      hint: null
+      type: select_one
+      options:
+      - Isolating
+      - Self-isolating
+      - Quarantining
+      required: true
+    - id: 12
+      name: home_health_care_checklist_12
+      label: Quarantine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Home Health Care Worker
+      - Family Member
+      required: true
+    - id: 13
+      name: home_health_care_checklist_13
+      label: Medical Professional
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: home_health_care_checklist_14
+      label: Medical Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: home_health_care_checklist_15
+      label: Home Health Care Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: home_health_care_checklist_16
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: home_health_care_checklist_17
+      label: Contact Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: home_health_care_checklist_18
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: home_health_care_checklist_19
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: home_health_care_checklist_20
+      label: Medical Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: home_health_care_checklist_21
+      label: Followup Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: home_health_care_checklist_22
+      label: Followup Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: home_health_care_checklist_23
+      label: Followup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: home_health_care_checklist_24
+      label: Quarantine End Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: home_health_care_checklist_25
+      label: Followup Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

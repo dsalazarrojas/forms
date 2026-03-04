@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Soundproof Panel Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: panel_info
+      label: Panel Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: delivery_info
+      label: Delivery Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_info
+      label: Installation Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_notes
+      label: Order Notes
+      hint: Additional notes about this order
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Cancelled
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_multiple
+      options:
+      - Pickup
+      - Delivery
+      - Freight
+      required: true
+    - id: 10
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: installation_time
+      label: Installation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Production
+      - Sales
+      required: true
+    - id: 18
+      name: department_manager
+      label: Department Manager
+      hint: null
+      type: select_one
+      options:
+      - Marketing Manager
+      - Production Manager
+      - Sales Manager
+      required: false
+    - id: 19
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: installation_note
+      label: Installation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_note
+      label: Payment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false

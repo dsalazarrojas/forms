@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maternal Health Risk Assessment
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maternal_experience
+      label: Maternal Experience
+      hint: null
+      type: select_one
+      options:
+      - Pregnant Now
+      - Previous Pregnancy
+      required: false
+    - id: 3
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Asthma
+      - Epilepsy
+      - Migraine
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Smoking
+      - Obesity
+      - Substance Abuse
+      - History of Mental Illness
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: health_provider_info
+      label: Health Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: maternal_care_plan
+      label: Maternal Care Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: next_follow_up
+      label: Next Follow-Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: provider_feedback
+      label: Provider Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: provider_title
+      label: Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: provider_contact
+      label: Provider Contact
+      hint: null
+      type: text
+      options: []
+      required: false

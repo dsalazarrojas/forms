@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Link Tracking Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''text''}'
+      - '{''id'': 2, ''name'': ''image''}'
+      - '{''id'': 3, ''name'': ''email''}'
+      - '{''id'': 4, ''name'': ''phone''}'
+      required: true
+    - id: 3
+      name: url
+      label: link_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: link_description
+      hint: A short description of the link
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: schedule
+      label: schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: stakeholder
+      label: stakeholder
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''marketing''}'
+      - '{''id'': 2, ''name'': ''communications''}'
+      - '{''id'': 3, ''name'': ''analytics''}'
+      - '{''id'': 4, ''name'': ''others''}'
+      required: true
+    - id: 7
+      name: reporting_frequency
+      label: reporting_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''once''}'
+      - '{''id'': 2, ''name'': ''daily''}'
+      - '{''id'': 3, ''name'': ''weekly''}'
+      - '{''id'': 4, ''name'': ''monthly''}'
+      required: true
+    - id: 8
+      name: stakeholder_access
+      label: stakeholder_access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''read''}'
+      - '{''id'': 2, ''name'': ''edit''}'
+      required: false
+    - id: 9
+      name: jotform
+      label: jotform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': False}'
+      - '{''id'': 2, ''name'': True}'
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: user_company
+      label: user_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_position
+      label: user_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_departament
+      label: user_departament
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_department
+      label: user_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_job_title
+      label: user_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false

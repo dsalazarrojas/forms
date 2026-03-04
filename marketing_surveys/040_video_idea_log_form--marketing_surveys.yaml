@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Idea Log Form
+    pages:
+    - id: 1
+      name: video_idea_log_form_title
+      label: Video Idea Log Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: video_idea_log_form_description
+      label: Video Idea Log Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: video_idea_log_form_video_name
+      label: Video Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: video_idea_log_form_video_type
+      label: Video Type
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Comedy
+      - Drama
+      - Reality
+      required: true
+    - id: 5
+      name: video_idea_log_form_video_length
+      label: Video Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: video_idea_log_form_release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: video_idea_log_form_show
+      label: Show
+      hint: null
+      type: select_one
+      options:
+      - TV
+      - Film
+      - Digital
+      required: true
+    - id: 8
+      name: video_idea_log_form_story
+      label: Story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: video_idea_log_form_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: video_idea_log_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

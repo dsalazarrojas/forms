@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Steam Boiler Form
+    pages:
+    - id: 1
+      name: general_info
+      label: steam_boiler_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''operational''}'
+      - '{''id'': 2, ''name'': ''non_operational''}'
+      - '{''id'': 3, ''name'': ''under_repair''}'
+      required: true
+    - id: 2
+      name: maintenance_schedule
+      label: maintenance_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''weekly''}'
+      - '{''id'': 2, ''name'': ''monthly''}'
+      - '{''id'': 3, ''name'': ''quarterly''}'
+      - '{''id'': 4, ''name'': ''yearly''}'
+      required: true
+    - id: 3
+      name: inspection_results
+      label: inspection_results
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''passed''}'
+      - '{''id'': 2, ''name'': ''failed''}'
+      - '{''id'': 3, ''name'': ''pending''}'
+      required: true
+    - id: 4
+      name: maintenance_records
+      label: maintenance_records
+      hint: null
+      type: text
+      options: []
+      required: true

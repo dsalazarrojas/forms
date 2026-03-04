@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 2
+      name: question_1
+      label: How would you rate the product?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: How would you rate the overall satisfaction with the product?
+      hint: null
+      type: number
+      options: []
+      required: false

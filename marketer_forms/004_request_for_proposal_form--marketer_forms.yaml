@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Proposal Form
+    pages:
+    - id: 1
+      name: request_for_proposal_form
+      label: Request For Proposal Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: proposal_format
+      label: Proposal Format
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''PDF''}'
+      - '{''value'': ''DOCX''}'
+      - '{''value'': ''ODT''}'
+      required: false
+    - id: 10
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Website''}'
+      - '{''value'': ''Mobile App''}'
+      - '{''value'': ''E-commerce''}'
+      - '{''value'': ''Digital Marketing''}'
+      required: false
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''On Hold''}'
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Reopened''}'
+      required: false
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: proposal_status
+      label: Proposal Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Rejected''}'
+      - '{''value'': ''Reopened''}'
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: proposal_type
+      label: Proposal Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Initial''}'
+      - '{''value'': ''Revised''}'
+      - '{''value'': ''Final''}'
+      required: false
+    - id: 19
+      name: proposal_date
+      label: Proposal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: review_deadline
+      label: Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''On Hold''}'
+      required: false
+    - id: 22
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_result
+      label: Review Result
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Rejected''}'
+      - '{''value'': ''Reopened''}'
+      required: false
+    - id: 24
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

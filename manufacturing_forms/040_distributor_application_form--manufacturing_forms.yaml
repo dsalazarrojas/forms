@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distributor Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: distributor_category
+      label: Distributor Category
+      hint: null
+      type: select_one
+      options:
+      - Distributor 1
+      - Distributor 2
+      - Distributor 3
+      required: true
+    - id: 8
+      name: territory
+      label: Territory
+      hint: null
+      type: select_one
+      options:
+      - Territory 1
+      - Territory 2
+      - Territory 3
+      required: true
+    - id: 9
+      name: product_categories
+      label: Product Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - Agreement 1
+      - Agreement 2
+      - Agreement 3
+      required: true
+    - id: 14
+      name: sales_rep_name
+      label: Sales Rep Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: sales_rep_email
+      label: Sales Rep Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: sales_rep_number
+      label: Sales Rep Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: distributor_manager_name
+      label: Distributor Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: distributor_manager_email
+      label: Distributor Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: distributor_manager_number
+      label: Distributor Manager Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: terms_agreed
+      label: Terms Agreed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: date_onboarded
+      label: Date Onboarded
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

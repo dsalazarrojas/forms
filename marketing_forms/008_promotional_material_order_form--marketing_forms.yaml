@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_material_order_form
+    pages:
+    - id: 1
+      name: promotional_material
+      label: promotional_material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: color
+      label: color
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: size
+      label: size
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: quantity_ordered
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cost
+      label: cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: material_description
+      label: material_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

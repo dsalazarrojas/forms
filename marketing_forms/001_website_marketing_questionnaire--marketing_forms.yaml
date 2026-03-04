@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_marketing_questionnaire
+    pages:
+    - id: 1
+      name: website_marketing_objectives
+      label: What are your website marketing objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: website_traffic
+      label: website_traffic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: conversion_rates
+      label: conversion_rates
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: website_content
+      label: website_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: marketing_channels
+      label: marketing_channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: website_performance
+      label: website_performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: marketing_budget
+      label: marketing_budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_strategy
+      label: marketing_strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website_marketing_activities
+      label: website_marketing_activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offer Building Form
+    pages:
+    - id: 1
+      name: offer_building_form
+      label: Offer Building Form
+      hint: A form template for creating offers
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offer_name
+      label: Offer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: offer_description
+      label: Offer Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: offer_tags
+      label: Offer Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: offer_date
+      label: Offer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: offer_time
+      label: Offer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: offer_notes
+      label: Offer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: offer_assignee
+      label: Assignee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: offer_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: false
+    - id: 10
+      name: offer_visibility
+      label: Visibility
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: false
+    - id: 11
+      name: offer_visibility_note
+      label: Visibility Note
+      hint: Note for visibility setting
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: offer_publish_date
+      label: Publish Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: offer_publish_time
+      label: Publish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: offer_publish_notice
+      label: Publish Notice
+      hint: null
+      type: note
+      options: []
+      required: false

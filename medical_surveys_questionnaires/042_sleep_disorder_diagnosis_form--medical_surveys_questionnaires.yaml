@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sleep Disorder Diagnosis Form
+    pages:
+    - id: 1
+      name: sleep_disorder_info
+      label: Sleep Disorder Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sleep_pattern
+      label: Sleep Pattern
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sleep_quality
+      label: Sleep Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 4
+      name: insomnia_days
+      label: Insomnia Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: sleep_disorder_history
+      label: Sleep Disorder History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Very Abnormal
+      required: true
+    - id: 7
+      name: sleep_disorder_diagnosis
+      label: Sleep Disorder Diagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - Sleep Apnea
+      - Insomnia
+      - Sleep Paralysis
+      - Sleep Terrors
+      required: true
+    - id: 8
+      name: sleep_disorder_symptoms
+      label: Sleep Disorder Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Sleepiness
+      - Fatigue
+      - Confusion
+      - Mood Swings
+      required: true
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_health_conditions
+      label: Other Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sleep_disorder_treatment
+      label: Sleep Disorder Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sleep_disorder_outlook
+      label: Sleep Disorder Outlook
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: sleep_disorder_recommendations
+      label: Sleep Disorder Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branding Wall Placement Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or team
+      type: select_one
+      options:
+      - Marketing
+      - Human Resources
+      - Operations
+      - Sales
+      - Executive
+      - Facilities
+      - Other
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: office_location
+      label: Office Location
+      hint: Which office location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: wall_location_description
+      label: Wall Location Description
+      hint: Describe where the wall is located
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: wall_dimensions
+      label: Wall Dimensions
+      hint: Approximate size of the wall
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: wall_type
+      label: Wall Type
+      hint: What type of wall is it
+      type: select_one
+      options:
+      - Drywall
+      - Glass
+      - Brick
+      - Concrete
+      - Wood Panel
+      - Other
+      required: true
+    - id: 10
+      name: branding_type
+      label: Branding Type
+      hint: What type of branding do you want
+      type: select_one
+      options:
+      - Vinyl Decal
+      - Painted Mural
+      - Fabric Banner
+      - 3D Lettering
+      - Backlit Sign
+      - Projection
+      required: true
+    - id: 11
+      name: branding_content
+      label: Branding Content
+      hint: What should the branding display
+      type: select_multiple
+      options:
+      - Company Logo
+      - Company Name
+      - Mission Statement
+      - Core Values
+      - Motivational Quote
+      - Product Images
+      - Custom Design
+      required: true
+    - id: 12
+      name: brand_colors
+      label: Brand Colors
+      hint: Specify brand colors to use
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: design_preference
+      label: Design Preference
+      hint: Describe your design preference
+      type: select_one
+      options:
+      - Minimalist
+      - Bold and Colorful
+      - Professional
+      - Creative and Artistic
+      - Modern
+      - Classic
+      required: true
+    - id: 14
+      name: existing_brand_assets
+      label: Do You Have Brand Assets
+      hint: Logo and brand files ready
+      type: select_one
+      options:
+      - Yes, All Assets Ready
+      - Some Assets Available
+      - Need Design Help
+      required: true
+    - id: 15
+      name: installation_timeline
+      label: Installation Timeline
+      hint: When do you want installation
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1,500
+      - $1,500 to $3,000
+      - $3,000 to $5,000
+      - $5,000+
+      required: true
+    - id: 17
+      name: approval_status
+      label: Management Approval
+      hint: Do you have approval from management
+      type: select_one
+      options:
+      - Approved
+      - Pending Approval
+      - Need Assistance with Approval
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special requirements or considerations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

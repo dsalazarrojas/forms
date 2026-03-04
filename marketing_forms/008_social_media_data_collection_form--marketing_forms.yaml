@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Data Collection Form
+    pages:
+    - id: 1
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - Snapchat
+      required: false
+    - id: 2
+      name: platforms_handles
+      label: Platform Handles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: handle_count
+      label: Follower Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: account_purpose
+      label: Account Purpose
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      - Other
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

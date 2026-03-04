@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Waste Tracking Report Form
+    pages:
+    - id: 1
+      name: production_waste_tracking_report_form
+      label: Production Waste Tracking Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_line
+      label: Production Line
+      hint: null
+      type: select_one
+      options:
+      - Line A
+      - Line B
+      - Line C
+      - Line D
+      required: false
+    - id: 3
+      name: shift
+      label: Shift
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: type_of_waste
+      label: Type of Waste
+      hint: null
+      type: select_multiple
+      options:
+      - Scrap Metal
+      - Packaging Materials
+      - Raw Materials
+      - Other
+      required: false
+    - id: 7
+      name: weight_of_waste
+      label: Weight of Waste
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: unit_of_measurement
+      label: Unit of Measurement
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lbs
+      - tons
+      required: false
+    - id: 9
+      name: waste_category
+      label: Waste Category
+      hint: null
+      type: select_one
+      options:
+      - Correctible
+      - Incidental
+      - Non-Reportable
+      required: false
+    - id: 10
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: production_lead
+      label: Production Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Document
+      - Image
+      - Audio
+      - Other
+      required: false
+    - id: 20
+      name: total_weight
+      label: Total Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: updated_on
+      label: Updated On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false

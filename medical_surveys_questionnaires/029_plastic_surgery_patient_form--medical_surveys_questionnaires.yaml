@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plastic Surgery Patient Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history_1
+      label: Previous Surgeries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_history_2
+      label: Allergies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: medical_history_3
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Diabetes''}'
+      - '{''label'': ''Blood Pressure''}'
+      - '{''label'': ''Heart Conditions''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

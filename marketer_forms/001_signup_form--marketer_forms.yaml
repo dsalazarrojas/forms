@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signup Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_hint
+      label: Email Hint
+      hint: Please enter a valid email
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: password_hint
+      label: Password Hint
+      hint: At least 8 characters
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: password_confirm
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: agree
+      label: Accept Terms
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree
+      required: true
+    - id: 13
+      name: accept_newsletter
+      label: Accept Newsletters
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: accept_promotions
+      label: Accept Promotions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

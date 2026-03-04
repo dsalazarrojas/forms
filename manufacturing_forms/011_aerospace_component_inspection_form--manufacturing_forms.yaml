@@ -1,0 +1,259 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aerospace Component Inspection Form
+    pages:
+    - id: 1
+      name: inspection_information_section
+      label: Inspection Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: component_serial_number
+      label: Component Serial Number
+      hint: Enter the serial number of the aerospace component being inspected
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: component_part_number
+      label: Component Part Number
+      hint: Part number as specified in the technical documentation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: component_description
+      label: Component Description
+      hint: Brief description of the aerospace component
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manufacturer_name
+      label: Manufacturer Name
+      hint: Name of the component manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manufacturing_date
+      label: Manufacturing Date
+      hint: Date when the component was manufactured
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: installation_date
+      label: Installation Date
+      hint: Date when the component was installed (if applicable)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: inspector_information_section
+      label: Inspector Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of the inspector performing the assessment
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: inspector_license_number
+      label: Inspector License Number
+      hint: Professional license or certification number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inspector_department
+      label: Inspector Department
+      hint: Department or division the inspector belongs to
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: inspection_date_time
+      label: Inspection Date and Time
+      hint: Date and time when the inspection was performed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: inspection_type_section
+      label: Inspection Type
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: inspection_type
+      label: Type of Inspection
+      hint: What type of inspection is being performed?
+      type: select_one
+      options:
+        - Routine Maintenance
+        - Pre-flight Check
+        - Post-flight Check
+        - Major Overhaul
+        - Damage Assessment
+        - Quality Control
+        - Incoming Inspection
+        - Special Inspection
+      required: true
+    - id: 15
+      name: inspection_standards
+      label: Inspection Standards Applied
+      hint: Which standards/guidelines were used for the inspection?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: physical_condition_section
+      label: Physical Condition Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: surface_condition
+      label: Surface Condition
+      hint: Condition of the component's surface
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - Defective
+      required: true
+    - id: 18
+      name: dimensional_compliance
+      label: Dimensional Compliance
+      hint: Does the component meet dimensional specifications?
+      type: select_one
+      options:
+        - Within Tolerance
+        - Minor Deviation
+        - Major Deviation
+        - Out of Specification
+      required: true
+    - id: 19
+      name: corrosion_assessment
+      label: Corrosion Assessment
+      hint: Presence and extent of corrosion
+      type: select_one
+      options:
+        - None
+        - Light
+        - Moderate
+        - Heavy
+        - Severe
+      required: true
+    - id: 20
+      name: damage_identification
+      label: Damage Identification
+      hint: Any visible damage to the component
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: functional_testing_section
+      label: Functional Testing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: operational_test_performed
+      label: Operational Test Performed
+      hint: Was an operational test performed on the component?
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 23
+      name: test_results
+      label: Test Results
+      hint: Results of any functional tests performed
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: measurement_data
+      label: Measurement Data
+      hint: Any critical measurements taken during inspection
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: compliance_verification
+      label: Compliance Verification
+      hint: Does the component comply with all applicable requirements?
+      type: select_one
+      options:
+        - Fully Compliant
+        - Conditionally Compliant
+        - Non-compliant
+        - Requires Further Assessment
+      required: true
+    - id: 26
+      name: inspection_outcome_section
+      label: Inspection Outcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: inspection_result
+      label: Inspection Result
+      hint: Overall result of the inspection
+      type: select_one
+      options:
+        - Pass
+        - Conditional Pass
+        - Fail
+        - Requires Repair
+        - Requires Replacement
+      required: true
+    - id: 28
+      name: recommended_actions
+      label: Recommended Actions
+      hint: What actions are recommended based on the inspection?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: When should the next inspection be scheduled?
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Electronic signature of the inspector
+      type: text
+      options: []
+      required: true

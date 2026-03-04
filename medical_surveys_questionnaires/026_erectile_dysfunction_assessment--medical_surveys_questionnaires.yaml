@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Erectile Dysfunction Assessment
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 3
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: severity
+      label: Severity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Mild''}'
+      - '{''label'': ''Moderate''}'
+      - '{''label'': ''Severe''}'
+      required: true
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_plan2
+      label: Follow-up Plan 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: medications_1
+      label: Medications 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Medications 1''}'
+      - '{''label'': ''Medications 2''}'
+      - '{''label'': ''Medications 3''}'
+      required: false
+    - id: 12
+      name: follow_up_plan3
+      label: Follow-up Plan 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: medications_2
+      label: Medications 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Medications 1''}'
+      - '{''label'': ''Medications 2''}'
+      - '{''label'': ''Medications 3''}'
+      required: false
+    - id: 14
+      name: follow_up_plan4
+      label: Follow-up Plan 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: medications_3
+      label: Medications 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Medications 1''}'
+      - '{''label'': ''Medications 2''}'
+      - '{''label'': ''Medications 3''}'
+      required: false
+    - id: 16
+      name: follow_up_plan5
+      label: Follow-up Plan 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: follow_up_plan6
+      label: Follow-up Plan 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

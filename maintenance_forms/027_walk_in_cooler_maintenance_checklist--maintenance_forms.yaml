@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Walk In Cooler Maintenance Checklist
+    pages:
+    - id: 1
+      name: cooler_inspection
+      label: Cooler Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Leaks
+      - Check for Blockages
+      - Check Refrigerant Levels
+      required: true
+    - id: 2
+      name: temperature_check
+      label: Temperature Check
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: cooler_cleanliness
+      label: Cooler Cleanliness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: refrigeration_system
+      label: Refrigeration System
+      hint: null
+      type: select_one
+      options:
+      - R-410a
+      - R-404A
+      - R-410A
+      required: true
+    - id: 5
+      name: water_leak_test
+      label: Water Leak Test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: door_seals
+      label: Door Seals
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Damage
+      - Inspect for Tightness
+      required: false
+    - id: 7
+      name: floor_drains
+      label: Floor Drains
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Blockages
+      - Inspect for Water Flow
+      required: false
+    - id: 8
+      name: condenser_coils
+      label: Condenser Coils
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Dirt
+      - Inspect for Damage
+      required: false
+    - id: 9
+      name: evaporator_coils
+      label: Evaporator Coils
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Dirt
+      - Inspect for Damage
+      required: false
+    - id: 10
+      name: defrost_timer
+      label: Defrost Timer
+      hint: null
+      type: select_multiple
+      options:
+      - Set
+      - Not Set
+      required: true
+    - id: 11
+      name: defrost_timer_status
+      label: Defrost Timer Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: defrost_sensors
+      label: Defrost Sensors
+      hint: null
+      type: select_multiple
+      options:
+      - Check for Functionality
+      - Check for Obstruction
+      required: true
+    - id: 13
+      name: defrost_timer_set_time
+      label: Defrost Timer Set Time
+      hint: null
+      type: select_multiple
+      options:
+      - Set
+      - Not Set
+      required: true
+    - id: 14
+      name: temperature_range
+      label: Temperature Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: alarm_system
+      label: Alarm System
+      hint: null
+      type: select_multiple
+      options:
+      - Check for Functionality
+      - Check for Low Battery
+      required: false
+    - id: 16
+      name: alarm_system_status
+      label: Alarm System Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: electrical_connections
+      label: Electrical Connections
+      hint: null
+      type: select_multiple
+      options:
+      - Check for Damage
+      - Check for Tightness
+      required: false
+    - id: 18
+      name: electrical_connections_status
+      label: Electrical Connections Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: drain_system
+      label: Drain System
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Blockages
+      - Inspect for Water Flow
+      required: false
+    - id: 20
+      name: drain_system_status
+      label: Drain System Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: drain_piping
+      label: Drain Piping
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Damage
+      - Inspect for Leaks
+      required: false
+    - id: 22
+      name: drain_piping_status
+      label: Drain Piping Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: electrical_pans
+      label: Electrical Pans
+      hint: null
+      type: select_multiple
+      options:
+      - Inspect for Damage
+      - Inspect for Obstruction
+      required: false
+    - id: 24
+      name: electrical_pans_status
+      label: Electrical Pans Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: defrost_sensors_status
+      label: Defrost Sensors Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true

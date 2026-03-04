@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Return Coordination Contact Form
+    pages:
+    - id: 1
+      name: packaging_return_contact_page
+      label: Packaging Return Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: return_details_page
+      label: return_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: contact_info_page
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shipping_details_page
+      label: shipping_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: return_address_page
+      label: return_address
+      hint: null
+      type: text
+      options: []
+      required: false

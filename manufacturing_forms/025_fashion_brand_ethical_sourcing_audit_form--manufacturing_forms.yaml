@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: fashion_brand_ethical_sourcing_audit_form
+    pages:
+    - id: 1
+      name: supplier
+      label: supplier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: production_processes
+      label: production_processes
+      hint: null
+      type: select_multiple
+      options:
+      - Manufacturing
+      - Sub-Contracting
+      - Contracting
+      - Private Label
+      required: true
+    - id: 3
+      name: material_sourcing
+      label: material_sourcing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ethical_practices
+      label: ethical_practices
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: labor_laws
+      label: labor_laws
+      hint: null
+      type: select_one
+      options:
+      - Labor Standards Act
+      - Fair Labor Association
+      - ILO
+      - National Labor Relations Act
+      - Local Labor Law
+      required: true
+    - id: 6
+      name: environmental_impacts
+      label: environmental_impacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: chemical_substances
+      label: chemical_substances
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: certification
+      label: certification
+      hint: null
+      type: select_one
+      options:
+      - GOTS
+      - BSCI
+      - WRAP
+      - Amfori
+      - Sedex
+      - Fairtrade
+      - SA8000
+      - WRAP
+      - BSCI
+      - GOTS
+      - BSCI
+      - WRAP
+      - Amfori
+      - SA8000
+      - WRAP
+      - Sedex
+      - Fairtrade
+      - WRAP
+      - BSCI
+      - GOTS
+      - Fairtrade
+      - Amfori
+      - BSCI
+      - WRAP
+      - Sedex
+      - Fairtrade
+      - SA8000
+      required: true
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: true

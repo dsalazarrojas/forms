@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Giving Behavior Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_type
+      label: Donor Type
+      hint: null
+      type: select_one
+      options:
+      - Donor
+      - Fundraiser
+      - Non-Donor
+      - Supporter
+      - Other
+      - Unknown
+      required: false
+    - id: 4
+      name: donor_frequency
+      label: Donor Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Other
+      - Never
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Social Media
+      - Other
+      - Unknown
+      required: false
+    - id: 6
+      name: contact_method_other
+      label: Contact Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_mail
+      label: Contact Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_other
+      label: Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: first_given
+      label: First Given
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: last_given
+      label: Last Given
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: frequency_given
+      label: Frequency Given
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple Times
+      - Never
+      required: false
+    - id: 15
+      name: first_amount
+      label: First Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: last_amount
+      label: Last Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: amount_given
+      label: Amount Given
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: first_gift_frequency
+      label: First Gift Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Once
+      - Other
+      - Never
+      required: false
+    - id: 19
+      name: last_gift_frequency
+      label: Last Gift Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Once
+      - Other
+      - Never
+      required: false
+    - id: 20
+      name: amount_frequency
+      label: Amount Frequency
+      hint: null
+      type: select_one
+      options:
+      - More often
+      - Less often
+      - About equally
+      - No change
+      required: false
+    - id: 21
+      name: total_given
+      label: Total Given
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_amount_given
+      label: Total Amount Given
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total_donations
+      label: Total Donations
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_donors
+      label: Total Donors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: average_gift_amount
+      label: Average Gift Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: average_donation_frequency
+      label: Average Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple Times
+      - Never
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false

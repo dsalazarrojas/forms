@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Forecast Review Request Form
+    pages:
+    - id: 1
+      name: forecast_periods
+      label: Forecast periods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_demand
+      label: Product demand
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: Product description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: forecast_start
+      label: Forecast start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: forecast_end
+      label: Forecast end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: forecast_duration
+      label: Forecast duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: manufacturing_site
+      label: Manufacturing site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_notes
+      label: Supporting notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: supporting_files
+      label: Supporting files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manufacturing_forecast_review_request
+      label: Manufacturing forecast review request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supporting_documents_2
+      label: Supporting documents 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_demand_2
+      label: Product demand 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: manufacturing_site_2
+      label: Manufacturing site 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: contact_person_2
+      label: Contact person 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: contact_phone_2
+      label: Contact phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporting_notes_2
+      label: Supporting notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: supporting_files_2
+      label: Supporting files 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manufacturing_forecast_review_request_2
+      label: Manufacturing forecast review request 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments_2
+      label: Additional comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manufacturing_site_3
+      label: Manufacturing site 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: forecast_periods_2
+      label: Forecast periods 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: product_demand_3
+      label: Product demand 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: manufacturing_site_4
+      label: Manufacturing site 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: contact_person_3
+      label: Contact person 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: contact_phone_3
+      label: Contact phone 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: supporting_notes_3
+      label: Supporting notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: supporting_files_3
+      label: Supporting files 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: manufacturing_forecast_review_request_3
+      label: Manufacturing forecast review request 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_comments_3
+      label: Additional comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: supporting_documents_4
+      label: Supporting documents 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: product_demand_4
+      label: Product demand 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: manufacturing_site_5
+      label: Manufacturing site 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

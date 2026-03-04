@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: cross_sector_health_collaboration_readiness_survey
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sector_health_collaboration
+      label: Sector Health Collaboration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_sector
+      label: Healthcare Sector
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sector 1''}'
+      - '{''id'': 2, ''name'': ''Sector 2''}'
+      - '{''id'': 3, ''name'': ''Sector 3''}'
+      required: false
+    - id: 4
+      name: healthcare_services
+      label: Healthcare Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Service 1''}'
+      - '{''id'': 2, ''name'': ''Service 2''}'
+      - '{''id'': 3, ''name'': ''Service 3''}'
+      - '{''id'': 4, ''name'': ''Service 4''}'
+      required: false
+    - id: 5
+      name: patient_outcomes
+      label: Patient Outcomes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: collaboration_readiness
+      label: Collaboration Readiness
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: submission_tracking
+      label: Submission Tracking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

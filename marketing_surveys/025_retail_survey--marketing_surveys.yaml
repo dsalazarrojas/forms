@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Survey
+    pages:
+    - id: 1
+      name: store_id
+      label: store id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: product id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_id
+      label: customer id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question1
+      label: How often do you visit our store?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: true
+    - id: 5
+      name: store_name
+      label: store name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_name_hint
+      label: Enter store name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_phone
+      label: store phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question2
+      label: What do you like most about visiting our store?
+      hint: null
+      type: select_multiple
+      options:
+      - Prices
+      - Products
+      - Service
+      required: true
+    - id: 9
+      name: question3
+      label: How do you contact us?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: true
+    - id: 10
+      name: question4
+      label: How often do you visit our store's website?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: true
+    - id: 11
+      name: question5
+      label: What is the primary purpose of your visit to our store?
+      hint: null
+      type: select_one
+      options:
+      - To shop
+      - To return items
+      - To inquire about store hours
+      - Other
+      required: true
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_city
+      label: customer city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_state
+      label: customer state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_zip
+      label: customer zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: question6
+      label: How likely are you to recommend our store to a friend?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Very
+      required: true
+    - id: 24
+      name: store_id_2
+      label: store id 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: store_hours
+      label: store hours
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: POCKET_PA_EXAMPLE_Covid_19_Salon_Questionnaire
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: covid_19_test_results
+      label: Covid 19 Test Results
+      hint: null
+      type: select_one
+      options:
+      - Covid-19 Positive
+      - Covid-19 Negative
+      - Unknown
+      required: false
+    - id: 4
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      - Shortness of breath
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history_2
+      label: Medical History 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: covid_19_treatment
+      label: Covid 19 Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Antibiotics
+      - Antiviral
+      - Antihistamines
+      required: false
+    - id: 9
+      name: follow_up_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

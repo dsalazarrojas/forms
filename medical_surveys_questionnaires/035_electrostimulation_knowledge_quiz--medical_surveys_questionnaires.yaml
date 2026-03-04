@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrostimulation Knowledge Quiz
+    pages:
+    - id: 1
+      name: medical_surveys_questionnaire
+      label: Medical Surveys & Questionnaires
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: electrostimulation_safety
+      label: What are the safety concerns of electrostimulation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage_guidelines
+      label: What are the usage guidelines of electrostimulation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: knowledge_assessment
+      label: How will you assess the knowledge of electrostimulation?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional-material-order-form
+    pages:
+    - id: 1
+      name: form_header
+      label: promotional-material-order-form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_information
+      label: customer-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: contact-person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_title
+      label: contact-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_type
+      label: material-type
+      hint: null
+      type: select_one
+      options:
+      - Brochures
+      - Posters
+      - T-Shirts
+      - Hats
+      - Pins
+      - Stickers
+      - Water bottles
+      - Mugs
+      - Keychains
+      required: false
+    - id: 8
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: special-instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_instructions
+      label: shipping-instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_footer
+      label: form-footer
+      hint: null
+      type: note
+      options: []
+      required: false

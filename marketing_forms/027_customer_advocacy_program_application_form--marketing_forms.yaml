@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Advocacy Program Application Form
+    pages:
+    - id: 1
+      name: customer_advocacy_program_application_form_1
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_advocacy_program_application_form_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_advocacy_program_application_form_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_advocacy_program_application_form_4
+      label: What is your company
+      hint: null
+      type: select_one
+      options:
+      - Select a Company
+      - Company A
+      - Company B
+      - Company C
+      required: true
+    - id: 5
+      name: customer_advocacy_program_application_form_5
+      label: What is your job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_advocacy_program_application_form_6
+      label: How long have you been at your company
+      hint: null
+      type: select_multiple
+      options:
+      - 0-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 7
+      name: customer_advocacy_program_application_form_7
+      label: What industry do you work in
+      hint: null
+      type: select_one
+      options:
+      - Select an Industry
+      - Finance
+      - Marketing
+      - IT
+      required: true
+    - id: 8
+      name: customer_advocacy_program_application_form_8
+      label: What is your current role
+      hint: null
+      type: select_multiple
+      options:
+      - Account Manager
+      - Marketing Manager
+      - Sales
+      - Support
+      required: true
+    - id: 9
+      name: customer_advocacy_program_application_form_9
+      label: What are your biggest priorities
+      hint: null
+      type: select_multiple
+      options:
+      - Increase sales
+      - Customer acquisition
+      - Customer retention
+      - Brand awareness
+      required: true
+    - id: 10
+      name: customer_advocacy_program_application_form_10
+      label: How did you hear about us
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Referral
+      - Search Engine
+      - Trade show
+      required: false

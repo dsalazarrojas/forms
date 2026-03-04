@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Living Will Form
+    pages:
+    - id: 1
+      name: living_will_form_page
+      label: Living Will Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: living_will_form_property
+      label: Living Will Property
+      hint: null
+      type: select_one
+      options:
+      - Living Will Property 1
+      - Living Will Property 2
+      - Living Will Property 3
+      required: false
+    - id: 3
+      name: living_will_form_assets
+      label: Living Will Assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: living_will_form_asset_distribution
+      label: Living Will Asset Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - Living Will Distribution 1
+      - Living Will Distribution 2
+      - Living Will Distribution 3
+      required: false
+    - id: 5
+      name: living_will_form_distribute_to
+      label: Living Will Distribute To
+      hint: null
+      type: select_one
+      options:
+      - Living Will Recipient 1
+      - Living Will Recipient 2
+      - Living Will Recipient 3
+      required: false

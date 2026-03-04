@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Checklist Form
+    pages:
+    - id: 1
+      name: marketing_campaign_checklist_form
+      label: marketing_campaign_checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: campaign_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_start_date
+      label: campaign_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: campaign_end_date
+      label: campaign_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: task_list
+      label: task_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: task_1
+      label: task_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: task_2
+      label: task_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: task_3
+      label: task_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: task_4
+      label: task_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: task_5
+      label: task_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - in_progress
+      - completed
+      - pending
+      required: false
+    - id: 12
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: deadline_date
+      label: deadline_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: deadline_time
+      label: deadline_time
+      hint: null
+      type: time
+      options: []
+      required: false

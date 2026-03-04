@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Functional Capacity Evaluation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: functional_capacity
+      label: Functional Capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessment_type
+      label: Assessment Type
+      hint: null
+      type: select_one
+      options:
+      - Musculoskeletal
+      - Cardiovascular
+      - Neurological
+      required: false
+    - id: 8
+      name: functional_limitations
+      label: Functional Limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physical_abilities
+      label: Physical Abilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_plan
+      label: Follow-up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: therapist_comments
+      label: Therapist Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assessment_completed
+      label: Assessment Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: assessment_completed_by
+      label: Assessment Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assessment_completed_time
+      label: Assessment Completed Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: assessment_completed_date
+      label: Assessment Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_provider_title
+      label: Medical Provider Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: assessment_completed_date_time
+      label: Assessment Completed Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_signature
+      label: Medical Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_title
+      label: Medical Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medical_provider_license_number
+      label: Medical Provider License Number
+      hint: null
+      type: text
+      options: []
+      required: true

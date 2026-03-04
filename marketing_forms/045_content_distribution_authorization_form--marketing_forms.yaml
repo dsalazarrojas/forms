@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Distribution Authorization Form
+    pages:
+      - id: 1
+        name: section_business_info
+        label: -- Business and Grantor Details --
+        hint: Please provide your information below.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: business_name
+        label: Business Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: business_id
+        label: Business Identification Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: grantor_name
+        label: Grantor Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_distribution_details
+        label: -- Distribution and Content Details --
+        hint: Please share details for the content distribution authorization.
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: content_description
+        label: Description of the Content to be Distributed
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: authorized_distribution_channels
+        label: Authorized Distribution Channels
+        hint: Select all that apply
+        type: select_multiple
+        options: [Social Media, Email, Website, SEO, Paid Search, Referral, Other]
+        required: true
+      - id: 8
+        name: distribution_start_date
+        label: Authorization Start Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: distribution_end_date
+        label: Authorization End Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: section_confirmation
+        label: -- Confirmation and Authorization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: authorization_granted
+        label: Distribution Authorization Granted?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 12
+        name: signature_confirmation
+        label: I confirm that the information provided is accurate
+        hint: null
+        type: select_one
+        options: [I Agree, I Disagree]
+        required: true
+      - id: 13
+        name: privacy_agreement
+        label: I have read and agree to the privacy policy regarding my data
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 14
+        name: date_of_authorization
+        label: Date of Authorization Agreement
+        hint: null
+        type: date
+        options: []
+        required: true

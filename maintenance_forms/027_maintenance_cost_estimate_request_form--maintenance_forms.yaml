@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Cost Estimate Request Form
+    pages:
+    - id: 1
+      name: main_info
+      label: Main Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_info_1
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: main_info_2
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: main_info_3
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: main_info_4
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: main_info_5
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: main_info_6
+      label: Estimated Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: main_info_7
+      label: Estimated Hours Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: main_info_8
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: main_info_9
+      label: Technician's Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: main_info_10
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tech_info
+      label: Technician Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tech_info_1
+      label: Technician's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tech_info_2
+      label: Technician's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tech_info_3
+      label: Technician's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: tech_info_4
+      label: Technician's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tech_info_5
+      label: Technician's Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: tech_info_6
+      label: Technician's Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tech_info_7
+      label: Technician's Email 3
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: tech_info_8
+      label: Technician's Phone 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_info
+      label: Review Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: review_info_1
+      label: Job Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_info_2
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: review_info_3
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: review_info_4
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 29, ''label'': ''Review 1'', ''value'': ''Review 1''}'
+      - '{''id'': 30, ''label'': ''Review 2'', ''value'': ''Review 2''}'
+      - '{''id'': 31, ''label'': ''Review 3'', ''value'': ''Review 3''}'
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homework Template LR
+    pages:
+    - id: 1
+      name: homework_template_lr_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: completed_homework
+      label: Completed Homework
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: completed_homework_date
+      label: Completed Homework Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: completed_homework_time
+      label: Completed Homework Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: completed_homework_note
+      label: Completed Homework Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: completed_homework_location
+      label: Completed Homework Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: completed_homework_other
+      label: Other Homework Completed
+      hint: null
+      type: select_one
+      options:
+      - Completed Homework
+      - Not Completed
+      - No Response
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - Research Group 1
+      - Research Group 2
+      - Research Group 3
+      - Other
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

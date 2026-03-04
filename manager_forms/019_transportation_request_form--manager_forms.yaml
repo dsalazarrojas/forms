@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: transportation_request_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_travel
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_to
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_from
+      label: Travel From
+      hint: null
+      type: text
+      options: []
+      required: true

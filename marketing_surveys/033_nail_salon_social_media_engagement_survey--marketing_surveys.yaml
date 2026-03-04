@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Social Media Engagement Survey
+    pages:
+    - id: 1
+      name: client_info
+      label: client_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_use
+      label: social_media_use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Facebook''}'
+      - '{''id'': 2, ''label'': ''Twitter''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: social_media_preferred
+      label: social_media_preferred
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Instagram''}'
+      - '{''id'': 2, ''label'': ''Facebook''}'
+      - '{''id'': 3, ''label'': ''Twitter''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: social_media_use_frequency
+      label: social_media_use_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      required: false
+    - id: 5
+      name: social_media_awareness
+      label: social_media_awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: social_media_engagement
+      label: social_media_engagement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: social_media_goals
+      label: social_media_goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Increase followers''}'
+      - '{''id'': 2, ''label'': ''Engagement''}'
+      - '{''id'': 3, ''label'': ''Awareness''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: salon_name
+      label: salon_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: salon_address
+      label: salon_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: salon_phone
+      label: salon_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: salon_email
+      label: salon_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: social_media_handle
+      label: social_media_handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: social_media_platforms
+      label: social_media_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Facebook''}'
+      - '{''id'': 2, ''label'': ''Twitter''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: social_media_goals_goals
+      label: social_media_goals_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: social_media_goals_objective
+      label: social_media_goals_objective
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''To increase followers''}'
+      - '{''id'': 2, ''label'': ''To increase engagement''}'
+      - '{''id'': 3, ''label'': ''To create awareness''}'
+      required: false
+    - id: 20
+      name: social_media_platforms_other
+      label: social_media_platforms_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: social_media_preferred_preferred
+      label: social_media_preferred_preferred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_opt_in
+      label: email_opt_in
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 23
+      name: phone_opt_in
+      label: phone_opt_in
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 24
+      name: note_opt_in
+      label: note_opt_in
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

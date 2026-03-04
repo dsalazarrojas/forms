@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Quote Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_selected
+      label: Services Selected
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Social Media Marketing''}'
+      - '{''name'': ''Content Creation''}'
+      - '{''name'': ''Branding''}'
+      - '{''name'': ''SEO''}'
+      - '{''name'': ''Advertising''}'
+      required: true
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: estimated_project_duration
+      label: Estimated Project Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: terms_agreement
+      label: Terms and Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

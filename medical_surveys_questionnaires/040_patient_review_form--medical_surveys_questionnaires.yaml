@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Review Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Arthritis
+      - Asthma
+      - Cancer
+      - Diabetes
+      - Heart Conditions
+      - Hypertension
+      - Kidney Conditions
+      - Liver Conditions
+      - Lung Conditions
+      - Other
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: doctor_referral
+      label: Doctor Referral
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Lee
+      - Dr. Thompson
+      - Dr. Johnson
+      required: false
+    - id: 9
+      name: patient_review
+      label: Patient Review
+      hint: null
+      type: text
+      options: []
+      required: false

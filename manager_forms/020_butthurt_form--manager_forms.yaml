@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Your Name
+      hint: Full name of the person filing the report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: reporter_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporter_department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: When did the incident occur
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: Approximate time of occurrence
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it happen
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: involved_parties
+      label: Name of Person Involved in Incident
+      hint: Who was the other party involved
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_type
+      label: Type of Incident
+      hint: Select the category
+      type: select_one
+      options:
+      - Offensive Comment
+      - Intimidation
+      - Harassment
+      - Verbal Altercation
+      - Exclusion or Dismissal
+      - Disrespect
+      - Other
+      required: true
+    - id: 10
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: What happened and how you felt
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: offensive_words
+      label: Specific Words or Phrases Used
+      hint: Quote what was said if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witnesses
+      label: Were There Witnesses
+      hint: Who else saw or heard the incident
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prior_incidents
+      label: Any Prior Related Incidents
+      hint: Previous issues with same person
+      type: select_one
+      options:
+      - This is first incident
+      - Yes, one previous incident
+      - Yes, multiple previous incidents
+      - Uncertain
+      required: true
+    - id: 14
+      name: impact_description
+      label: Impact on You
+      hint: How has this affected you
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What would help resolve this
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: documentation
+      label: Supporting Documentation Attached
+      hint: Emails, messages, or other evidence
+      type: select_one
+      options:
+      - No documentation
+      - Yes, attached below
+      - Documentation to follow
+      required: false
+    - id: 17
+      name: confidentiality_level
+      label: Confidentiality Preference
+      hint: How public should this report be
+      type: select_one
+      options:
+      - Strictly Confidential
+      - Share with Management Only
+      - Share with HR
+      - Can be discussed generally
+      required: true

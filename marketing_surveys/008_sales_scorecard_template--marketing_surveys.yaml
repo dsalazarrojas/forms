@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Scorecard Template
+    pages:
+    - id: 1
+      name: sales_scorecard_template
+      label: Sales Scorecard
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_goal
+      label: Business Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_scorecard_progress
+      label: Sales Scorecard Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: target_sales
+      label: Target Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: current_sales
+      label: Current Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: A measure of customer satisfaction
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: customer_satisfaction_value
+      label: Customer Satisfaction Value
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Neutral
+      required: false
+    - id: 8
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sales_scorecard_comments
+      label: Sales Scorecard Comments
+      hint: null
+      type: text
+      options: []
+      required: false

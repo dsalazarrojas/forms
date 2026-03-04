@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Deal Submission Form
+    pages:
+    - id: 1
+      name: travel_deal_submission_form
+      label: Submit a travel deal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_agency
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_type
+      label: Type of travel
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''beach'', ''label'': ''Beach''}'
+      - '{''value'': ''city'', ''label'': ''City''}'
+      - '{''value'': ''cultural'', ''label'': ''Cultural''}'
+      - '{''value'': ''food'', ''label'': ''Food and wine''}'
+      - '{''value'': ''nature'', ''label'': ''Nature''}'
+      - '{''value'': ''ski'', ''label'': ''Ski''}'
+      required: false
+    - id: 4
+      name: trip_start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trip_end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: price
+      label: Price (USD)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: currency
+      label: Currency (USD)
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''usd'', ''label'': ''USD''}'
+      - '{''value'': ''eur'', ''label'': ''EUR''}'
+      - '{''value'': ''jpy'', ''label'': ''JPY''}'
+      - '{''value'': ''gbp'', ''label'': ''GBP''}'
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agency_website
+      label: Agency Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_agency_type
+      label: Agency Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: terms_and_conditions_english
+      label: Terms and Conditions (English)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: terms_and_conditions_french
+      label: Terms and Conditions (French)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: terms_and_conditions_spanish
+      label: Terms and Conditions (Spanish)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: terms_and_conditions_german
+      label: Terms and Conditions (German)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: additional_terms
+      label: Additional Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false

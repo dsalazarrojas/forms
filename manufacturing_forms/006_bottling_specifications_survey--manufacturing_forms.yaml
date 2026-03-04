@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bottling Specifications Survey
+    pages:
+    - id: 1
+      name: respondent_company
+      label: Respondent company
+      hint: Company name submitting specifications
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact person
+      hint: Primary technical contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For technical clarifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: bottle_type
+      label: Bottle type
+      hint: Select the bottle type preferred
+      type: select_one
+      options:
+      - Glass
+      - PET plastic
+      - HDPE
+      - Aluminum
+      required: true
+    - id: 5
+      name: volume_ml
+      label: Volume milliliters
+      hint: Standard fill volume
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cap_type
+      label: Cap type
+      hint: Closure selection
+      type: select_one
+      options:
+      - Screw cap
+      - Flip top
+      - Cork
+      - Child resistant
+      required: false
+    - id: 7
+      name: labeling_requirements
+      label: Labeling requirements
+      hint: Size materials and placement notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: minimum_order_quantity
+      label: Minimum order quantity
+      hint: Units per production run
+      type: number
+      options: []
+      required: false

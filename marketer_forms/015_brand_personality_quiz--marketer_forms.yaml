@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Personality Quiz
+    pages:
+      - id: 1
+        name: quiz_taker_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: quiz_taker_email
+        label: Email Address
+        hint: To receive your results
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: question_1
+        label: Choose a Color Palette
+        hint: Which color palette appeals to you most
+        type: select_one
+        options:
+          - Bold and Vibrant Reds and Oranges
+          - Calm Blues and Greens
+          - Elegant Black and Gold
+          - Soft Pastels
+          - Neutral Earth Tones
+        required: true
+      - id: 4
+        name: question_2
+        label: Pick a Weekend Activity
+        hint: What would you rather do on a weekend
+        type: select_one
+        options:
+          - Adventure Sports or Outdoor Activities
+          - Relax at Home with a Good Book
+          - Attend a Fancy Event or Gala
+          - Hang Out with Friends
+          - Work on a Creative Project
+        required: true
+      - id: 5
+        name: question_3
+        label: Choose a Car
+        hint: Which car best matches your style
+        type: select_one
+        options:
+          - Sports Car
+          - SUV or Family Vehicle
+          - Luxury Sedan
+          - Eco-Friendly Hybrid
+          - Classic Vintage Car
+        required: true
+      - id: 6
+        name: question_4
+        label: Social Media Style
+        hint: How do you use social media
+        type: select_one
+        options:
+          - Share Exciting Life Moments
+          - Educational and Informative Posts
+          - Beautiful Aesthetic Photos
+          - Funny Memes and Jokes
+          - Rarely Post
+        required: true
+      - id: 7
+        name: question_5
+        label: Fashion Preference
+        hint: Describe your fashion style
+        type: select_one
+        options:
+          - Trendy and Bold
+          - Comfortable and Casual
+          - Elegant and Sophisticated
+          - Unique and Artistic
+          - Classic and Timeless
+        required: true
+      - id: 8
+        name: question_6
+        label: Ideal Vacation
+        hint: Where would you go on vacation
+        type: select_one
+        options:
+          - Adventure Destination
+          - Beach Resort
+          - Cultural City Tour
+          - Luxury Spa Retreat
+          - Off the Grid Cabin
+        required: true
+      - id: 9
+        name: question_7
+        label: Communication Style
+        hint: How do you communicate with others
+        type: select_one
+        options:
+          - Direct and Confident
+          - Warm and Friendly
+          - Professional and Polished
+          - Witty and Playful
+          - Thoughtful and Deep
+        required: true
+      - id: 10
+        name: question_8
+        label: Decision Making
+        hint: How do you make decisions
+        type: select_one
+        options:
+          - Quickly and Boldly
+          - Carefully and Thoughtfully
+          - Based on What Others Think
+          - Go with My Gut Feeling
+          - Research Everything First
+        required: true
+      - id: 11
+        name: question_9
+        label: Party Role
+        hint: What role do you play at parties
+        type: select_one
+        options:
+          - Life of the Party
+          - Host Taking Care of Everyone
+          - Deep Conversations in the Corner
+          - Dancing All Night
+          - Helping Behind the Scenes
+        required: true
+      - id: 12
+        name: question_10
+        label: Motto in Life
+        hint: What is your life motto
+        type: select_one
+        options:
+          - Carpe Diem - Seize the Day
+          - Quality Over Quantity
+          - Family First
+          - Be Yourself
+          - Always Keep Learning
+        required: true
+      - id: 13
+        name: question_11
+        label: Favorite Season
+        hint: Which season do you prefer
+        type: select_one
+        options:
+          - Spring - Renewal and Growth
+          - Summer - Fun and Adventure
+          - Fall - Cozy and Reflective
+          - Winter - Elegant and Peaceful
+        required: true
+      - id: 14
+        name: question_12
+        label: Superpower Choice
+        hint: If you could have one superpower
+        type: select_one
+        options:
+          - Flight and Freedom
+          - Super Strength
+          - Mind Reading
+          - Invisibility
+          - Time Travel
+        required: true
+      - id: 15
+        name: results_category
+        label: Results Category Preference
+        hint: How detailed should your results be
+        type: select_one
+        options:
+          - Quick Summary
+          - Detailed Analysis
+          - Full Report with Recommendations
+        required: true

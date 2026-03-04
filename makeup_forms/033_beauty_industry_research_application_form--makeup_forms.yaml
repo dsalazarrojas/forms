@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Industry Research Application Form
+    pages:
+    - id: 1
+      name: participant_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: occupation
+      label: Current Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: background_header
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: beauty_industry_involvement
+      label: Involvement in Beauty Industry
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Hobbyist
+      - Consumer/Enthusiast
+      - Student
+      - Academic Researcher
+      - Other
+      required: true
+    - id: 9
+      name: years_experience
+      label: Years in Beauty Industry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: beauty_specialties
+      label: Beauty Specialties or Areas of Focus
+      hint: Makeup, skincare, hair care, etc.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: research_header
+      label: -- Research Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: research_topic
+      label: Research Topic of Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: research_objectives
+      label: Research Objectives or Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: participation_type
+      label: Type of Participation Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Survey Completion
+      - Interview
+      - Focus Group
+      - Product Testing
+      - Observation Study
+      required: true
+    - id: 15
+      name: time_commitment
+      label: Time Commitment Available
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-10 hours
+      - 10-20 hours
+      - 20+ hours
+      required: true
+    - id: 16
+      name: research_experience
+      label: Previous Research Study Participation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: expertise_header
+      label: -- Specific Expertise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: product_knowledge
+      label: Product Knowledge Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 19
+      name: formulation_understanding
+      label: Understanding of Formulation and Ingredients
+      hint: null
+      type: select_one
+      options:
+      - Minimal
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 20
+      name: technical_skills
+      label: Technical Skills Relevant to Research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accessibility_header
+      label: -- Accessibility and Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: location
+      label: Location or Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: remote_participation
+      label: Can You Participate Remotely
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: health_conditions
+      label: Any Health Conditions Relevant to Beauty Research
+      hint: Sensitive skin, allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_header
+      label: -- Research Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: informed_consent
+      label: I Consent to Participate in This Research
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: data_sharing
+      label: I Agree to Share My Data for Research
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

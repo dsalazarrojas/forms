@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Design Questionnaire
+    pages:
+    - id: 1
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_company
+      label: customer_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_content
+      label: email_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: design_preferences
+      label: design_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 31, ''name'': ''plain_text_only'', ''label'': ''Plain Text Only''}'
+      - '{''id'': 32, ''name'': ''plain_text_and_images'', ''label'': ''Plain Text
+        and Images''}'
+      - '{''id'': 33, ''name'': ''html_only'', ''label'': ''HTML Only''}'
+      - '{''id'': 34, ''name'': ''html_and_images'', ''label'': ''HTML and Images''}'
+      required: false
+    - id: 7
+      name: personal_details
+      label: personal_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: visual_preferences
+      label: visual_preferences
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: material_preferences
+      label: material_preferences
+      hint: null
+      type: text
+      options: []
+      required: false

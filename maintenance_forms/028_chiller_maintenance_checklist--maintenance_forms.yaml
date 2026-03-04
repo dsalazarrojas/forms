@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chiller Maintenance Checklist
+    pages:
+      - id: 1
+        name: technician_name
+        label: Technician Name
+        hint: Person performing maintenance
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: maintenance_date
+        label: Maintenance Date
+        hint: Date maintenance performed
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: chiller_model
+        label: Chiller Model
+        hint: Model or serial number
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: coolant_level
+        label: Coolant Level
+        hint: Assess coolant and refrigerant levels
+        type: select_one
+        options:
+          - Normal
+          - Low
+          - Refill required
+        required: true
+      - id: 5
+        name: filters_cleaned
+        label: Filters Cleaned
+        hint: Indicate filter maintenance status
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 6
+        name: belts_and_pumps
+        label: Belts and Pumps Condition
+        hint: Note wear or replacements
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: electrical_checks
+        label: Electrical Checks Completed
+        hint: Confirm electrical inspections done
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 8
+        name: notes_recommendations
+        label: Notes and Recommendations
+        hint: Any findings and follow up items
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Embedded Opt In Form Template
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_opt_in
+      label: Email Opt In
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: unsubscribe
+      label: Unsubscribe
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': False}'
+      - '{''id'': 2, ''label'': True}'
+      required: false
+    - id: 9
+      name: email_type
+      label: Email Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Newsletter''}'
+      - '{''id'': 2, ''label'': ''Promotional''}'
+      required: false
+    - id: 10
+      name: promotion_type
+      label: Promotion Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New Products''}'
+      - '{''id'': 2, ''label'': ''Limited Time''}'
+      - '{''id'': 3, ''label'': ''Exclusive''}'
+      required: false
+    - id: 11
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: custom_1
+      label: Custom 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

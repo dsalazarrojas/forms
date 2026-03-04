@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Research Transparency Perception Survey
+    pages:
+    - id: 1
+      name: research_participation
+      label: Have you participated in any medical research?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: medical_area
+      label: Which medical area are you interested in?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: transparency_level
+      label: What level of transparency do you expect from medical research?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transparency_level_hospital
+      label: What level of transparency do you expect from medical research?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_research_institution
+      label: Which medical research institution is most transparent?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_research_institution_hospital
+      label: What is the name of the medical research institution that has the best
+        transparency?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_transparency_score
+      label: What is your score for transparency in medical research?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: research_transparency_score_hospital
+      label: What is your score for transparency in the medical research institution?
+      hint: null
+      type: text
+      options: []
+      required: false

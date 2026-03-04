@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_research_collaboration_case_consent_form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''diabetes'', ''label'': ''Diabetes''}'
+      - '{''value'': ''hypertension'', ''label'': ''Hypertension''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_signature_conducted
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: research_collaborator_signature
+      label: Research Collaborator Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: study_institutions
+      label: Study Institutions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: study_end_date
+      label: Study End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: study_completion_date
+      label: Study Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: research_collaborator_name
+      label: Research Collaborator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: research_collaborator_email
+      label: Research Collaborator Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: research_institution
+      label: Research Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: collaborator_institution
+      label: Collaborator Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: study_funding
+      label: Study Funding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: study_funding_institution
+      label: Funding Institution
+      hint: null
+      type: text
+      options: []
+      required: false

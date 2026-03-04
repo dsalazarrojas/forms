@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: standing_desk_market_research_survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Form start
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: standing_desk_usage
+      label: standing desk usage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: preference
+      label: preference
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: company_size
+      label: company size
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: purchasing_intent
+      label: purchasing intent
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: form_end
+      label: Form end
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

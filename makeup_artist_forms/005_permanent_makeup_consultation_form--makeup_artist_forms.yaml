@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: permanent_makeup_consultation_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: permanent_machines
+      label: Permanent Machines
+      hint: null
+      type: select_one
+      options:
+      - Permanent Eyeliner
+      - Permanent Lip Liner
+      - Permanent Lashes
+      - Permanent Brow
+      - Permanent Lash Lifting
+      required: true
+    - id: 10
+      name: permanent_machines_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: num_appointments
+      label: Number of Appointments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: num_appointments_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_info
+      label: Follow Up Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: num_follow_ups
+      label: Follow Up Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_surgery
+      label: Follow-up Surgery
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not sure yet
+      required: false
+    - id: 16
+      name: num_follow_up_surgery
+      label: Number of Follow-up Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_surgery_type
+      label: Follow-up Surgery Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: num_surgeries
+      label: Number of Surgeries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: surgery_type
+      label: Surgery Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: surgery_details
+      label: Surgery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: num_procedures
+      label: Number of Procedures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: num_procedures_other
+      label: Other (Please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Generation Planning Form
+    pages:
+    - id: 1
+      name: project_overview_header
+      label: -- Project Overview --
+      hint: General information about the content piece
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: content_title_working
+      label: Working Title
+      hint: A placeholder or suggested title for the piece
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: What format will this content take
+      type: select_one
+      options:
+      - Blog Post
+      - Whitepaper
+      - Social Media Thread
+      - Video Script
+      - Newsletter
+      - Infographic Text
+      required: true
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: Who is this content specifically for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_goal
+      label: Primary Goal
+      hint: What is the main objective of this content
+      type: select_one
+      options:
+      - Brand Awareness
+      - Lead Generation
+      - Education/Tutorial
+      - Thought Leadership
+      - Product Promotion
+      required: true
+    - id: 6
+      name: strategic_details_header
+      label: -- Strategic Details --
+      hint: SEO and distribution planning
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: focus_keywords
+      label: Focus Keywords
+      hint: Primary and secondary keywords for SEO
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: key_takeaways
+      label: Key Takeaways
+      hint: What 3 things should the reader remember
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: distribution_channels
+      label: Distribution Channels
+      hint: Where will this be published
+      type: select_multiple
+      options:
+      - Company Website
+      - LinkedIn
+      - X (Twitter)
+      - YouTube
+      - Email List
+      - Medium
+      required: true
+    - id: 10
+      name: production_schedule_header
+      label: -- Production Schedule --
+      hint: Deadlines and responsibilities
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: draft_deadline
+      label: Draft Deadline
+      hint: When should the first draft be ready
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: publication_date
+      label: Target Publication Date
+      hint: Planned date for going live
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: assigned_writer
+      label: Assigned Writer
+      hint: Name of the person responsible for the draft
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: budget_allocation
+      label: Estimated Budget
+      hint: If applicable, enter total budget for this piece
+      type: number
+      options: []
+      required: false

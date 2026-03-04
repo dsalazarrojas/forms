@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Recovery Goal Information Collection Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: provider_id
+      label: Provider
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: recovery_goal_1
+      label: Primary Recovery Goal
+      hint: Enter primary recovery goal (e.g., surgery, physical therapy)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recovery_goal_2
+      label: Secondary Recovery Goal
+      hint: Enter secondary recovery goal
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recovery_planning
+      label: Recovery Planning
+      hint: Briefly describe recovery planning and steps
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recovery_date
+      label: Recovery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: recovery_time
+      label: Recovery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: text
+      options: []
+      required: false

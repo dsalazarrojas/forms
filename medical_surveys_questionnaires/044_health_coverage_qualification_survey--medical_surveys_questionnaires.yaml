@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: health_coverage_qualification_survey
+    pages:
+    - id: 1
+      name: main
+      label: main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: family_history
+      label: family_history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_test_results
+      label: medical_test_results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: health_insurance_provider
+      label: health_insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_insurance_status
+      label: health_insurance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: health_insurance_type
+      label: health_insurance_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: medical_record_date_of_issue
+      label: medical_record_date_of_issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medical_record_expiration_date
+      label: medical_record_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: medical_record_provider_name
+      label: medical_record_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_record_provider_address
+      label: medical_record_provider_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_record_providing_organization
+      label: medical_record_providing_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_provider_specialty
+      label: medical_record_provider_specialty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medical_record_provider_license_number
+      label: medical_record_provider_license_number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: health_care_plan_id
+      label: health_care_plan_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: health_care_plan_status
+      label: health_care_plan_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: health_care_plan_start_date
+      label: health_care_plan_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: health_care_plan_end_date
+      label: health_care_plan_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: health_care_plan_provider_name
+      label: health_care_plan_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: health_care_plan_provider_address
+      label: health_care_plan_provider_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: health_care_plan_provider_specialty
+      label: health_care_plan_provider_specialty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: health_care_plan_provider_license_number
+      label: health_care_plan_provider_license_number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

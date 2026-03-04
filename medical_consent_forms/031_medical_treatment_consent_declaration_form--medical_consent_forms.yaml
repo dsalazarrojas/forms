@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Treatment Consent Declaration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_description
+      label: Treatment Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: consent_given
+      label: Consent Given
+      hint: null
+      type: select_one
+      options:
+      - Consent Given
+      - Not Given
+      required: true
+    - id: 7
+      name: informed_consent_date
+      label: Informed Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: treatment_administered_by
+      label: Treatment Administered By
+      hint: null
+      type: select_one
+      options:
+      - Assigned
+      - Another Provider
+      - Other
+      required: false
+    - id: 9
+      name: consent_signature
+      label: Consent Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_title
+      label: Witness Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witness_organization
+      label: Witness Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_provider_title
+      label: Medical Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_provider_organization
+      label: Medical Provider Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_provider_phone
+      label: Medical Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_provider_license
+      label: Medical Provider License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_provider_specialty
+      label: Medical Provider Specialty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_provider_npi
+      label: Medical Provider NPI
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_provider_fax
+      label: Medical Provider Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_provider_email
+      label: Medical Provider Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_journey_form
+    pages:
+    - id: 1
+      name: how_found
+      label: How did you find us
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: navigated_process
+      label: How did you navigate the process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: felt_experience
+      label: How did you feel about the experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: found_business
+      label: Where did you find our business
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: navigated_online_offline
+      label: How did you navigate our online business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: navigated_physical_location
+      label: How did you navigate our physical business
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: contact_info
+      label: How did we get in contact with you
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: visited_before
+      label: Have you visited our location before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: customer_type
+      label: What type of customer are you
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: age
+      label: What is your age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: How did you contact us
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: customer_journey_score
+      label: How would you rate your customer journey
+      hint: null
+      type: number
+      options: []
+      required: false

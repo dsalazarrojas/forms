@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antibody And Antigen Survey
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Your age in years
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 5
+      name: medical_history
+      label: Relevant Medical History
+      hint: Any chronic conditions
+      type: select_multiple
+      options:
+      - None
+      - Autoimmune disorder
+      - Immunodeficiency
+      - Cancer
+      - Diabetes
+      - Heart disease
+      - Lung disease
+      - Kidney disease
+      - Liver disease
+      - Other
+      required: true
+    - id: 6
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Are you up to date on vaccines
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to say
+      required: true
+    - id: 7
+      name: vaccine_type
+      label: Vaccine Type Received
+      hint: Which vaccine did you receive
+      type: select_multiple
+      options:
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Novavax
+      - Other
+      - Not applicable
+      required: false
+    - id: 8
+      name: vaccination_date
+      label: Most Recent Vaccination Date
+      hint: Date of last dose
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: booster_received
+      label: Booster Dose Received
+      hint: Have you had a booster
+      type: select_one
+      options:
+      - true
+      - false
+      - Not eligible
+      required: true
+    - id: 10
+      name: previous_infection
+      label: Previous Infection History
+      hint: Have you had a confirmed infection
+      type: select_one
+      options:
+      - Yes, confirmed
+      - Yes, suspected but not confirmed
+      - false
+      - Not sure
+      required: true
+    - id: 11
+      name: infection_date
+      label: Date of Infection
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: symptoms_experienced
+      label: Symptoms Experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Loss of taste or smell
+      - Sore throat
+      - Headache
+      - None
+      - Other
+      required: true
+    - id: 13
+      name: symptom_severity
+      label: Symptom Severity
+      hint: How severe were symptoms
+      type: select_one
+      options:
+      - Asymptomatic
+      - Mild
+      - Moderate
+      - Severe
+      - Critical
+      required: true
+    - id: 14
+      name: hospitalization
+      label: Hospitalization Required
+      hint: Were you hospitalized
+      type: select_one
+      options:
+      - false
+      - Yes, general ward
+      - Yes, ICU
+      - Yes, required ventilation
+      required: true
+    - id: 15
+      name: testing_history
+      label: Testing History
+      hint: What tests have you had
+      type: select_multiple
+      options:
+      - PCR test
+      - Rapid antigen test
+      - Antibody test
+      - None
+      required: true
+    - id: 16
+      name: antibody_test_results
+      label: Antibody Test Results
+      hint: If you have results
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Not tested
+      - Unknown
+      required: true
+    - id: 17
+      name: antibody_level
+      label: Antibody Level
+      hint: If quantified
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: antigen_test_results
+      label: Antigen Test Results
+      hint: Recent antigen test results
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Not tested
+      - Unknown
+      required: true
+    - id: 19
+      name: test_date
+      label: Most Recent Test Date
+      hint: Date of last test
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: exposure_risk
+      label: Exposure Risk Level
+      hint: Your risk of exposure
+      type: select_one
+      options:
+      - High - Healthcare worker
+      - Moderate - Essential worker
+      - Low - Work from home
+      - Very low - Isolated
+      required: true
+    - id: 21
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: current_symptoms
+      label: Current Symptoms
+      hint: Are you experiencing symptoms now
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: current_symptoms_list
+      label: Current Symptoms List
+      hint: Describe current symptoms
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medication_use
+      label: Current Medication Use
+      hint: Any immune-related medications
+      type: select_multiple
+      options:
+      - None
+      - Immunosuppressants
+      - Steroids
+      - Monoclonal antibodies
+      - Antivirals
+      - Other
+      required: true
+    - id: 25
+      name: willingness_for_future_testing
+      label: Willingness for Future Testing
+      hint: Would you participate in future tests
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Undecided
+      - Probably no
+      - false
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

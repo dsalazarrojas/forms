@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COI Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Conflict of Interest Disclosure Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_to
+      label: Reports To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_2
+      label: -- Financial Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: financial_interests
+      label: Do you or your immediate family have financial interests in outside companies?
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 9
+      name: financial_details
+      label: If yes, please describe the financial interests
+      hint: Company name, nature of interest, estimated value
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Employment and Business Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: outside_employment
+      label: Do you have outside employment or business interests?
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 12
+      name: outside_employment_details
+      label: If yes, describe the employment or business
+      hint: Company name, position, hours per week
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_4
+      label: -- Board and Committee Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: board_service
+      label: Board or Committee Service
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 15
+      name: board_details
+      label: If yes, please describe your board or committee roles
+      hint: Organization name, position, type of work
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_5
+      label: -- Gifts and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: gifts_received
+      label: Have you received gifts or benefits of substantial value?
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 18
+      name: gifts_description
+      label: If yes, describe the gifts or benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_6
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: understanding_confirmed
+      label: I understand the importance of disclosing conflicts of interest
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 21
+      name: truthfulness_confirmation
+      label: I confirm that the information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - "Yes"
+      - "No"
+      required: true
+    - id: 22
+      name: disclosure_date
+      label: Date of Disclosure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: signature_printed_name
+      label: Printed Name and Signature
+      hint: I hereby certify this disclosure is true and complete
+      type: text
+      options: []
+      required: true

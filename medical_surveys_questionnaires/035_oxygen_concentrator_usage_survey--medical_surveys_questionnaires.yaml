@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oxygen Concentrator Usage Survey
+    pages:
+    - id: 1
+      name: oxygen_concentrator_usage
+      label: oxygen_concentrator_usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_habits
+      label: maintenance_habits
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: issue_encountered
+      label: issue_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Technical issues with equipment''}'
+      - '{''label'': ''User error''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: satisfaction_with_device
+      label: satisfaction_with_device
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_with_support
+      label: satisfaction_with_support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: device_use
+      label: device_use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-6 hours''}'
+      - '{''label'': ''6-12 hours''}'
+      - '{''label'': ''More than 12 hours''}'
+      required: false
+    - id: 7
+      name: maintenance_frequency
+      label: maintenance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 8
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_dose_response
+      label: patient_dose_response
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_weight_response
+      label: patient_weight_response
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: oxygen_flow_rate
+      label: oxygen_flow_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: device_condition
+      label: device_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New''}'
+      - '{''label'': ''Used''}'
+      - '{''label'': ''Refurbished''}'
+      required: false
+    - id: 13
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Healthcare Professional''}'
+      - '{''label'': ''Manufacturer''}'
+      - '{''label'': ''Supplier''}'
+      required: false
+    - id: 14
+      name: followup_frequency
+      label: followup_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Once a day''}'
+      - '{''label'': ''Once a week''}'
+      - '{''label'': ''Once a month''}'
+      required: false
+    - id: 15
+      name: followup_method
+      label: followup_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''In Person''}'
+      required: false
+    - id: 16
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: followup_note
+      label: followup_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issues_encountered
+      label: issues_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Technical issues with equipment''}'
+      - '{''label'': ''User error''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: satisfaction_with_oxygen
+      label: satisfaction_with_oxygen
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_habits
+      label: maintenance_habits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 22
+      name: device_location
+      label: device_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Clinic''}'
+      - '{''label'': ''Home''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Policy Impact Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: awareness_level
+      label: What is your level of awareness about healthcare policy changes?
+      hint: null
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Not at all
+      required: false
+    - id: 3
+      name: impact_level
+      label: How do you think healthcare policy changes impact your life?
+      hint: null
+      type: select_one
+      options:
+      - Extremely
+      - Somewhat
+      - Not very much
+      - Not at all
+      required: false
+    - id: 4
+      name: policy_changes
+      label: Please list 3 recent healthcare policy changes that you are aware of
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_concerns
+      label: Are there any policy changes that you are concerned about?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: concerns_details
+      label: Please provide more details about your concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: healthcare_professionals
+      label: How often do you consult with healthcare professionals about policy changes?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 8
+      name: healthcare_professionals_details
+      label: Please provide more details about your interactions with healthcare professionals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: community_resources
+      label: How often do you use community resources for policy information?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 10
+      name: resources_details
+      label: Please provide more details about the resources you use
+      hint: null
+      type: text
+      options: []
+      required: false

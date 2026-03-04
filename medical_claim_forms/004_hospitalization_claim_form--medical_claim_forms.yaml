@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitalization Claim Form
+    pages:
+    - id: 1
+      name: hospitalization_claim_form
+      label: Hospitalization Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_claimant
+      label: Name Of Claimant
+      hint: Please enter the name of the claimant
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_of_claimant
+      label: Address Of Claimant
+      hint: Please enter the address of the claimant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_hospitalization
+      label: Date Of Hospitalization
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_discharge
+      label: Date Of Discharge
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: admitting_doctor_name
+      label: Admitting Doctor Name
+      hint: Please enter the name of the admitting doctor
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: admitting_doctor_specialty
+      label: Admitting Doctor Specialty
+      hint: Please enter the specialty of the admitting doctor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_hospitalization
+      label: Reason For Hospitalization
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Acute Medical Illness
+      - Chronic Medical Condition
+      - Surgical Procedure
+      - Pregnancy Complications
+      - Childbirth
+      - Other
+      required: false
+    - id: 9
+      name: hospital_name
+      label: Hospital Name
+      hint: Please enter the name of the hospital where you were treated
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_bill_provider
+      label: Medical Bill Provider
+      hint: Please enter the medical bill provider
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_number
+      label: Policy Number
+      hint: Please enter the policy number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: claim_date
+      label: Claim Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: claim_amount
+      label: Claim Amount
+      hint: Enter claim amount
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: claim_status
+      label: Claim Status
+      hint: Select one
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Paid
+      - Pending - Reimbursed
+      required: false
+    - id: 16
+      name: remarks
+      label: Remarks
+      hint: Please enter any relevant remarks
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: ISA Onboarding Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_one
+      options:
+      - Software Engineer
+      - Marketing Manager
+      - Sales
+      - Other
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Other
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_of_hire
+      label: Date of hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: work_experience_years
+      label: Work experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: salary_requirement
+      label: Salary requirement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: available_hours
+      label: Available hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: work_type
+      label: Work type
+      hint: null
+      type: select_multiple
+      options:
+      - Full time
+      - Part time
+      - Remote
+      required: false
+    - id: 16
+      name: onboarding_notes
+      label: Onboarding notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: job_status
+      label: Job status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Onboarding
+      required: false
+    - id: 18
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Neutral
+      - Unsatisfied
+      required: false

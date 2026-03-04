@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: COPD Patient Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_physician
+      label: Primary Physician
+      hint: Name of treating physician
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: copd_diagnosis_date
+      label: COPD Diagnosis Date
+      hint: When was COPD first diagnosed?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: copd_severity
+      label: Current COPD Classification
+      hint: null
+      type: select_one
+      options:
+      - GOLD Stage 1 - Mild
+      - GOLD Stage 2 - Moderate
+      - GOLD Stage 3 - Severe
+      - GOLD Stage 4 - Very Severe
+      - Unknown
+      required: true
+    - id: 8
+      name: smoking_status
+      label: Current Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Current Smoker
+      - Former Smoker
+      - Never Smoked
+      - Unknown
+      required: true
+    - id: 9
+      name: pack_years
+      label: Pack-Years of Smoking
+      hint: Number of years smoked multiplied by cigarettes per day divided by 20
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: dyspnea_level
+      label: Dyspnea at Rest - Modified Rankin Scale
+      hint: Rate your shortness of breath at rest
+      type: select_one
+      options:
+      - 0 - No dyspnea
+      - 1 - Mild dyspnea
+      - 2 - Moderate dyspnea
+      - 3 - Severe dyspnea
+      - 4 - Very severe dyspnea
+      required: true
+    - id: 11
+      name: dyspnea_with_activity
+      label: Dyspnea with Normal Activity
+      hint: How is your shortness of breath during typical daily activities?
+      type: select_one
+      options:
+      - No limitation
+      - Slight limitation
+      - Moderate limitation
+      - Severe limitation
+      - Unable to perform activities
+      required: true
+    - id: 12
+      name: exacerbations_past_year
+      label: Number of Exacerbations in Past 12 Months
+      hint: How many times did your symptoms worsen significantly?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: hospitalizations_past_year
+      label: Hospitalizations for COPD in Past 12 Months
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current COPD Medications
+      hint: List medications - inhalers, bronchodilators, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medication_adherence
+      label: Medication Adherence
+      hint: How well do you take your medications as prescribed?
+      type: select_one
+      options:
+      - Excellent - take all doses
+      - Good - miss occasional doses
+      - Fair - miss several doses per week
+      - Poor - rarely take as prescribed
+      required: false
+    - id: 16
+      name: comorbidities
+      label: Comorbid Conditions
+      hint: Select any applicable conditions
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes Mellitus
+      - Coronary Artery Disease
+      - Heart Failure
+      - Atrial Fibrillation
+      - Osteoporosis
+      - Anxiety
+      - Depression
+      - Other
+      required: false
+    - id: 17
+      name: fev1_value
+      label: FEV1 Value
+      hint: Latest Forced Expiratory Volume in 1 second percentage
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: fev1_date
+      label: FEV1 Test Date
+      hint: Date of last spirometry test
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: functional_limitations
+      label: Physical Functional Limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quality_of_life
+      label: How would you rate your quality of life?
+      hint: Rate on a scale of 1-10
+      type: select_one
+      options:
+      - 1 - Poor
+      - '2'
+      - '3'
+      - '4'
+      - 5 - Moderate
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - 10 - Excellent
+      required: false
+    - id: 21
+      name: treatment_goals
+      label: Patient Treatment Goals
+      hint: What are the main goals of treatment?
+      type: text
+      options: []
+      required: false

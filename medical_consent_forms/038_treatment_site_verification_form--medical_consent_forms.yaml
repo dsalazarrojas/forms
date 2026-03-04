@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: treatment_site_verification_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: verification_method
+      label: Verification Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 91, ''name'': ''In-person'', ''label'': ''In-person'', ''value'':
+        ''in_person''}'
+      - '{''id'': 92, ''name'': ''Phone'', ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 93, ''name'': ''Email'', ''label'': ''Email'', ''value'': ''email''}'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

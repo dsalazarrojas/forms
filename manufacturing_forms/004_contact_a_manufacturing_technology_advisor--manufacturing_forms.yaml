@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact A Manufacturing Technology Advisor
+    pages:
+    - id: 1
+      name: section_request_overview
+      label: -- Request Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Full legal company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact name
+      hint: Name of person making the request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Best email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional direct phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_type
+      label: Facility type
+      hint: Primary environment for the project
+      type: select_one
+      options:
+      - Small batch workshop
+      - Automated production line
+      - Prototype lab
+      - Contract manufacturing
+      required: true
+    - id: 7
+      name: technology_need
+      label: Technology need description
+      hint: Describe the technical challenge or opportunity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_project_timeline
+      label: Estimated project timeline in months
+      hint: Enter expected duration in months
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_budget
+      label: Project budget range
+      hint: Approximate budget for advisory work
+      type: select_one
+      options:
+      - Under 10k
+      - 10k to 50k
+      - 50k to 200k
+      - Over 200k
+      required: false
+    - id: 10
+      name: desired_outcome
+      label: Desired outcome
+      hint: What success looks like for this engagement
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: best_time_for_contact
+      label: Best time for contact
+      hint: Preferred days or times for follow up
+      type: text
+      options: []
+      required: false

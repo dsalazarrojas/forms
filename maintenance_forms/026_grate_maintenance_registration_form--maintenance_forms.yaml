@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: grate-maintenance-registration-form
+    pages:
+    - id: 1
+      name: grate_maintenance_form
+      label: Grate Maintenance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grate_maintenance_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: grate_maintenance_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: grate_maintenance_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grate_maintenance_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grate_maintenance_contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grate_maintenance_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: grate_maintenance_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: grate_maintenance_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 10
+      name: grate_maintenance_assign_to
+      label: Assign To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Calendar Tool Requisition Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting the tool
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: select_one
+      options:
+      - Marketing
+      - Content
+      - Social Media
+      - Design
+      - SEO
+      - Analytics
+      - Management
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of this requisition request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tool_name
+      label: Tool Name
+      hint: Name of the content calendar tool being requested
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tool_category
+      label: Tool Category
+      hint: Type of tool being requested
+      type: select_one
+      options:
+      - Content Planning
+      - Social Media Scheduler
+      - Project Management
+      - Analytics Platform
+      - Collaboration Tool
+      - Asset Management
+      required: true
+    - id: 7
+      name: vendor_name
+      label: Vendor Name
+      hint: Name of the software vendor or provider
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: subscription_type
+      label: Subscription Type
+      hint: Type of subscription needed
+      type: select_one
+      options:
+      - Free Trial
+      - Monthly Subscription
+      - Annual Subscription
+      - Enterprise License
+      - One-Time Purchase
+      required: true
+    - id: 9
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Cost per month or year
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: number_of_users
+      label: Number of Users
+      hint: How many team members will use this tool?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: business_justification
+      label: Business Justification
+      hint: Why is this tool needed?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_challenges
+      label: Current Challenges
+      hint: What problems will this tool solve?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_benefits
+      label: Expected Benefits
+      hint: What benefits do you expect from this tool?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: integration_requirements
+      label: Integration Requirements
+      hint: What other tools does this need to integrate with?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: When do you need this tool implemented?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: trial_period_requested
+      label: Trial Period Requested
+      hint: Are you requesting a trial period?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: budget_approved
+      label: Budget Approved
+      hint: Has the budget been approved?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 18
+      name: manager_name
+      label: Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 20
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other specifications or requirements
+      type: text
+      options: []
+      required: false

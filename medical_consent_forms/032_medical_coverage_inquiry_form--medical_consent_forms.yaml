@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Coverage Inquiry Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_society
+      label: Medical Society
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: provider_info
+      label: Provider Info
+      hint: null
+      type: select_multiple
+      options:
+      - provider_1
+      - provider_2
+      required: false
+    - id: 4
+      name: procedure_info
+      label: Procedure Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: coverage_inquiry
+      label: Coverage Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 8
+      name: medical_coverage
+      label: Medical Coverage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Patient Consent
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_society_list
+      label: Medical Society List
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 13
+      name: procedure_list
+      label: Procedure List
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 14
+      name: provider_list
+      label: Provider List
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 15
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 16
+      name: coverage_info
+      label: Coverage Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coverage_start_date
+      label: Coverage Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: coverage_end_date
+      label: Coverage End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: coverage_deductable
+      label: Coverage Deductable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_coverage_status
+      label: Medical Coverage Status
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 23
+      name: coverage_note
+      label: Coverage Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_coverage_comments
+      label: Medical Coverage Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: insurance_number
+      label: Insurance Number
+      hint: null
+      type: text
+      options: []
+      required: false

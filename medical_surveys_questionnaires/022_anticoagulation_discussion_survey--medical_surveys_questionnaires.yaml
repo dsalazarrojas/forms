@@ -1,0 +1,298 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anticoagulation Discussion Survey
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: respondent_type
+      label: Who is completing this survey
+      hint: Select your role
+      type: select_one
+      options:
+        - Patient
+        - Family member or caregiver
+        - Healthcare provider
+        - Other
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+        - Under 18
+        - 18 to 34
+        - 35 to 54
+        - 55 to 74
+        - 75 or older
+      required: true
+    - id: 5
+      name: anticoagulant_type
+      label: Type of Anticoagulant
+      hint: Which medication are you taking
+      type: select_one
+      options:
+        - Warfarin
+        - Apixaban
+        - Rivaroxaban
+        - Dabigatran
+        - Edoxaban
+        - Heparin
+        - Enoxaparin
+        - Other
+        - Not currently taking
+      required: true
+    - id: 6
+      name: duration_of_therapy
+      label: Duration of Therapy
+      hint: How long have you been on anticoagulation
+      type: select_one
+      options:
+        - Less than 1 month
+        - 1 to 6 months
+        - 6 months to 1 year
+        - 1 to 5 years
+        - More than 5 years
+      required: true
+    - id: 7
+      name: indication_for_therapy
+      label: Reason for Anticoagulation
+      hint: Why are you taking this medication
+      type: select_one
+      options:
+        - Atrial fibrillation
+        - Deep vein thrombosis
+        - Pulmonary embolism
+        - Stroke prevention
+        - Heart valve replacement
+        - Post-surgical prevention
+        - Other
+      required: true
+    - id: 8
+      name: discussion_quality
+      label: Quality of Discussion with Provider
+      hint: How well did your provider explain
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 9
+      name: topics_discussed
+      label: Topics Discussed
+      hint: Select all that were covered
+      type: select_multiple
+      options:
+        - Purpose of medication
+        - Dosage instructions
+        - Potential side effects
+        - Bleeding risks
+        - Drug interactions
+        - Dietary restrictions
+        - Monitoring requirements
+        - What to do if dose missed
+        - When to seek help
+        - None discussed
+      required: true
+    - id: 10
+      name: understanding_of_medication
+      label: Understanding of Medication
+      hint: How well do you understand
+      type: select_one
+      options:
+        - Completely understand
+        - Mostly understand
+        - Somewhat understand
+        - Slightly understand
+        - Do not understand
+      required: true
+    - id: 11
+      name: concerns_addressed
+      label: Were Your Concerns Addressed
+      hint: Did provider answer your questions
+      type: select_one
+      options:
+        - Yes, all concerns addressed
+        - Yes, most concerns addressed
+        - Some concerns addressed
+        - No, concerns not addressed
+        - Had no concerns
+      required: true
+    - id: 12
+      name: bleeding_risk_understanding
+      label: Understanding of Bleeding Risk
+      hint: Do you understand bleeding risks
+      type: select_one
+      options:
+        - Yes, completely
+        - Yes, mostly
+        - Somewhat
+        - Not really
+        - Not at all
+      required: true
+    - id: 13
+      name: warning_signs_knowledge
+      label: Knowledge of Warning Signs
+      hint: Do you know when to seek help
+      type: select_one
+      options:
+        - Yes, very knowledgeable
+        - Yes, somewhat knowledgeable
+        - Slightly knowledgeable
+        - Not knowledgeable
+      required: true
+    - id: 14
+      name: monitoring_schedule
+      label: Monitoring Schedule Understanding
+      hint: Do you know when to get tested
+      type: select_one
+      options:
+        - Yes, clear understanding
+        - Yes, general understanding
+        - Unclear
+        - No understanding
+      required: true
+    - id: 15
+      name: medication_adherence
+      label: Medication Adherence
+      hint: How often do you take as prescribed
+      type: select_one
+      options:
+        - Always
+        - Usually
+        - Sometimes
+        - Rarely
+        - Never
+      required: true
+    - id: 16
+      name: adherence_barriers
+      label: Barriers to Adherence
+      hint: What makes it difficult
+      type: select_multiple
+      options:
+        - None
+        - Cost
+        - Side effects
+        - Forgetfulness
+        - Complex schedule
+        - Lack of understanding
+        - Fear of bleeding
+        - Other
+      required: true
+    - id: 17
+      name: side_effects_experienced
+      label: Side Effects Experienced
+      hint: Have you had side effects
+      type: select_multiple
+      options:
+        - None
+        - Bruising easily
+        - Minor bleeding
+        - Major bleeding
+        - Nausea
+        - Headache
+        - Dizziness
+        - Rash
+        - Other
+      required: true
+    - id: 18
+      name: side_effects_reported
+      label: Were Side Effects Reported
+      hint: Did you tell your provider
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Not applicable
+      required: true
+    - id: 19
+      name: provider_responsiveness
+      label: Provider Responsiveness
+      hint: How responsive is your provider
+      type: select_one
+      options:
+        - Very responsive
+        - Responsive
+        - Somewhat responsive
+        - Not very responsive
+        - Not responsive
+      required: true
+    - id: 20
+      name: follow_up_frequency
+      label: Follow-up Appointment Frequency
+      hint: How often do you have follow-ups
+      type: select_one
+      options:
+        - Monthly
+        - Every 3 months
+        - Every 6 months
+        - Annually
+        - Only when problems arise
+        - Never
+      required: true
+    - id: 21
+      name: satisfaction_with_care
+      label: Satisfaction with Care
+      hint: Overall satisfaction
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true
+    - id: 22
+      name: would_recommend_provider
+      label: Would You Recommend Your Provider
+      hint: To others needing anticoagulation
+      type: select_one
+      options:
+        - Definitely yes
+        - Probably yes
+        - Undecided
+        - Probably no
+        - Definitely no
+      required: true
+    - id: 23
+      name: additional_information_needed
+      label: Additional Information Needed
+      hint: What else would you like to know
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: How can care be improved
+      type: text
+      options: []
+      required: false

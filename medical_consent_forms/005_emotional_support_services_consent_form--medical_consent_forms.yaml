@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: emotional_support_services_consent_form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: consent_to_services
+      label: Do you consent to receiving emotional support services?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: services_provided
+      label: What services do you consent to receiving?
+      hint: null
+      type: select_multiple
+      options:
+      - Individual therapy
+      - Group therapy
+      - Counseling
+      - Support groups
+      required: true
+    - id: 7
+      name: service_frequency
+      label: How often would you like to receive services?
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - Twice a week
+      - As needed
+      required: true
+    - id: 8
+      name: service_start_date
+      label: Service start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: service_end_date
+      label: Service end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: date_signature
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relation
+      label: Relation to emergency contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_email
+      label: Emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_address
+      label: Emergency contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_notes
+      label: Emergency contact notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: client_agreement
+      label: Client Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: client_agreement_signature
+      label: Client Agreement Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: provider_agreement
+      label: Provider Agreement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: provider_agreement_signature
+      label: Provider Agreement Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: date_agreement
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true

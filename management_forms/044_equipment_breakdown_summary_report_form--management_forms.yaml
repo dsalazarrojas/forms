@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_breakdown_summary_report_form
+    pages:
+    - id: 1
+      name: equipment_failures
+      label: equipment_failures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: repair_details
+      label: repair_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_history
+      label: incident_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: equipment_description
+      label: equipment_description
+      hint: What is the equipment that failed?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_equipment_fails
+      label: date_equipment_fails
+      hint: When did the equipment fail?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_equipment_fails
+      label: time_equipment_fails
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: failure_cause
+      label: failure_cause
+      hint: What caused the failure?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: repair_method
+      label: repair_method
+      hint: How was the equipment repaired?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: repair_notes
+      label: repair_notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: incident_status
+      label: incident_status
+      hint: Was the issue resolved?
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: user_responsible
+      label: user_responsible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

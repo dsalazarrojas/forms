@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethanol Production Process Survey
+    pages:
+    - id: 1
+      name: production_plant
+      label: Production Plant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: process_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: ethanol_produced
+      label: Ethanol Produced
+      hint: Enter amount produced (gallons)
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: production_capacity
+      label: Production Capacity
+      hint: Enter total production capacity (gallons)
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: operational_hours
+      label: Operational Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: operational_days
+      label: Operational Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: batch_size
+      label: Batch Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: production_shift_start_time
+      label: Production Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: production_shift_end_time
+      label: Production Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: personnel_on_site
+      label: Personnel on Site
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

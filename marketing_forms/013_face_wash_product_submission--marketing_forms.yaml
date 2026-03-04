@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Face Wash Product Submission
+    pages:
+    - id: 1
+      name: product_data
+      label: Product Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ingredients
+      label: Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - Sulfur
+      - Benzoin
+      - Glycerin
+      - Fragrance
+      required: true
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: Please provide a detailed description of the product.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pricing
+      label: Pricing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: images
+      label: Images
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: videos
+      label: Videos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assets
+      label: Assets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: packaging
+      label: Packaging
+      hint: Please provide the packaging information.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instructions
+      label: Instructions
+      hint: Please provide the instructions for use.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: vaccination_outreach_consent_form
+    pages:
+    - id: 1
+      name: consent_to_vaccination
+      label: Consent to Vaccination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: vaccination_information
+      label: Vaccination Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vaccination_site
+      label: Vaccination Site
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: next_vaccination
+      label: Next Vaccination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: vaccination_type
+      label: Vaccination Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: vaccination_dose
+      label: Vaccination Dose
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

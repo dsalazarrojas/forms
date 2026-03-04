@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: physical_therapy_records_release_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_record_request_date
+      label: medical_record_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: healthcare_provider
+      label: healthcare_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: healthcare_provider_signature
+      label: healthcare_provider_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: authorization_type
+      label: authorization_type
+      hint: null
+      type: select_multiple
+      options:
+      - Physical Therapy
+      - Occupational Therapy
+      - Other
+      required: false
+    - id: 8
+      name: authorization_duration
+      label: authorization_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: medical_record_access
+      label: medical_record_access
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Limited
+      - None
+      required: false
+    - id: 10
+      name: authorization_expiration_date
+      label: authorization_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: authorization_terminating_condition
+      label: authorization_terminating_condition
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 12
+      name: authorization_renewal_option
+      label: authorization_renewal_option
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: medical_record_transfer
+      label: medical_record_transfer
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_record_storage
+      label: medical_record_storage
+      hint: null
+      type: select_one
+      options:
+      - Electronic
+      - Paper
+      - Other
+      required: false
+    - id: 15
+      name: authorization_termination
+      label: authorization_termination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: healthcare_provider_name
+      label: healthcare_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_record_date_created
+      label: medical_record_date_created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: authorization_terminating_condition_note
+      label: authorization_terminating_condition_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: authorization_renewal_condition
+      label: authorization_renewal_condition
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 22
+      name: medical_record_transfer_destination
+      label: medical_record_transfer_destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: authorization_transfer_expiration
+      label: authorization_transfer_expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: medical_record_transfer_location
+      label: medical_record_transfer_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorization_transfer_termination
+      label: authorization_transfer_termination
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Process Efficiency Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Manufacturing Process Efficiency Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_process
+      label: What is your primary production process?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Continuous''}'
+      - '{''id'': 2, ''label'': ''Batch''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: production_time
+      label: How much time does it take to complete this process?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: production_capacity
+      label: What is your production capacity?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: production_volume
+      label: What is your production volume per day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: bottleneck
+      label: What are your main bottlenecks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Quality control''}'
+      - '{''id'': 2, ''label'': ''Production time''}'
+      - '{''id'': 3, ''label'': ''Equipment reliability''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: process_efficiency
+      label: What are some key process improvements that we could make?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: process_efficiency_rating
+      label: On a scale of 1-5, how would you rate your process efficiency?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      required: true
+    - id: 9
+      name: suggestions
+      label: What suggestions do you have for improving the process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: What are your next steps for implementing improvements?
+      hint: null
+      type: text
+      options: []
+      required: false

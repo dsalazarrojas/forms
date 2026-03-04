@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facebook Ad Intake Form
+    pages:
+    - id: 1
+      name: page_title
+      label: Page Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: page_link
+      label: Page Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ad_description
+      label: Ad Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: Client E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: ad_image_url
+      label: Ad Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ad_target_audience
+      label: Ad Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: ad_budget
+      label: Ad Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ad_spend
+      label: Ad Spend
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: ad_start_date
+      label: Ad Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: ad_end_date
+      label: Ad End Date
+      hint: null
+      type: date
+      options: []
+      required: false

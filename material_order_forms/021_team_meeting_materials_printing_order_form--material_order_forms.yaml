@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Meeting Materials Printing Order Form
+    pages:
+    - id: 1
+      name: team_meeting_materials_printing_form
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_title
+      label: Meeting Title
+      hint: Enter meeting title
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_files
+      label: Files Needed
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: false
+    - id: 7
+      name: file_quantities
+      label: File Quantities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_details
+      label: Delivery Details
+      hint: Enter delivery details
+      type: text
+      options: []
+      required: false

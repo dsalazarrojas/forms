@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Maintenance Issue Incident Report
+    pages:
+    - id: 1
+      name: tenant_details_header
+      label: -- Tenant and Unit Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_name
+      label: Tenant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Apartment Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: issue_category
+      label: Maintenance Issue Category
+      hint: null
+      type: select_one
+      options:
+      - Plumbing (Leak, Clog)
+      - Electrical (Lights, Outlets)
+      - HVAC (A/C, Heating)
+      - Structural (Window, Door, Walls)
+      - Appliance (Fridge, Stove, Microwave)
+      - Pests
+      - Other
+      required: true
+    - id: 7
+      name: issue_description
+      label: Detailed Description of Problem
+      hint: Please be specific - what happened and when?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_location
+      label: Exact Location of Issue
+      hint: e.g. Master Bathroom, Kitchen sink
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Emergency (Immediate Threat)
+      - Urgent (Major Inconvenience)
+      - Normal (Standard Request)
+      - Routine (Improvement)
+      required: true
+    - id: 10
+      name: entry_permission
+      label: Permission to Enter Unit for Repair
+      hint: null
+      type: select_one
+      options:
+      - Yes, at any time
+      - Only during specific hours
+      - Only when I am present
+      required: true
+    - id: 11
+      name: pets_in_unit
+      label: Are there pets in the unit?
+      hint: null
+      type: select_one
+      options:
+      - Yes, restrained
+      - Yes, unrestrained
+      - false
+      required: true
+    - id: 12
+      name: preferred_time
+      label: Preferred Repair Time (if not anytime)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: report_date
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true

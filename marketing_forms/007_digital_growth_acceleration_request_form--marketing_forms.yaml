@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Growth Acceleration Request Form
+    pages:
+    - id: 1
+      name: digital_growth_request_form
+      label: Digital Growth Acceleration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: date
+      options: []
+      required: false

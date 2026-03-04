@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Artist Client Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: preferred contact method
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - text
+      required: false
+    - id: 7
+      name: preferred_contact_method_other
+      label: preferred contact method other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: social_media
+      label: social media
+      hint: null
+      type: select_multiple
+      options:
+      - facebook
+      - instagram
+      - tiktok
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - spouse
+      - parent
+      - child
+      - other
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: medical conditions
+      hint: null
+      type: select_multiple
+      options:
+      - diabetes
+      - allergies
+      - asthma
+      required: false
+    - id: 13
+      name: medication
+      label: medication
+      hint: null
+      type: select_multiple
+      options:
+      - none
+      - 'yes'
+      required: false
+    - id: 14
+      name: medical_conditions_other
+      label: medical conditions other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hair_type
+      label: hair type
+      hint: null
+      type: select_one
+      options:
+      - wavy
+      - straight
+      - curly
+      required: false
+    - id: 16
+      name: eye_type
+      label: eye type
+      hint: null
+      type: select_one
+      options:
+      - hazel
+      - blue
+      - green
+      required: false
+    - id: 17
+      name: skin_type
+      label: skin type
+      hint: null
+      type: select_one
+      options:
+      - fair
+      - medium
+      - dark
+      required: false
+    - id: 18
+      name: makeup_experience
+      label: makeup experience
+      hint: null
+      type: select_one
+      options:
+      - none
+      - some
+      - advanced
+      required: false
+    - id: 19
+      name: makeup_experience_other
+      label: makeup experience other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: schedule
+      label: schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: appointment_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: photo_count
+      label: photo count
+      hint: null
+      type: number
+      options: []
+      required: false

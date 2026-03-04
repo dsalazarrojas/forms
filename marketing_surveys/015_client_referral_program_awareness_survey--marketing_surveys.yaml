@@ -1,0 +1,283 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Referral Program Awareness Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Client Referral Program Awareness Survey
+        hint: Help us understand how well our referral program is communicated and received
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_id
+        label: Client ID
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: client_tenure
+        label: How Long Have You Been a Client
+        hint: null
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - Over 5 years
+        required: true
+      - id: 4
+        name: aware_of_program
+        label: Are You Aware We Have a Referral Program
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - I Think So but Not Sure
+        required: true
+      - id: 5
+        name: how_learned_about_program
+        label: How Did You Learn About the Referral Program
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Email Communication
+          - Website
+          - Social Media
+          - Direct Conversation
+          - Printed Materials
+          - Another Client
+          - I Did Not Know
+          - Other
+        required: false
+      - id: 6
+        name: understand_rewards
+        label: Do You Understand the Rewards Offered
+        hint: null
+        type: select_one
+        options:
+          - Yes Completely
+          - Somewhat
+          - No Not Really
+          - No Not at All
+        required: false
+      - id: 7
+        name: reward_types_known
+        label: Which Rewards Are You Aware Of
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Account Credits
+          - Cash Bonuses
+          - Gift Cards
+          - Service Upgrades
+          - Discounts
+          - Exclusive Access
+          - None
+          - Other
+        required: false
+      - id: 8
+        name: referral_eligibility_clear
+        label: Is It Clear Who Is Eligible to Be Referred
+        hint: null
+        type: select_one
+        options:
+          - Yes Very Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: false
+      - id: 9
+        name: have_referred
+        label: Have You Referred Anyone to Our Services
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 10
+        name: number_of_referrals
+        label: Approximately How Many People Have You Referred
+        hint: null
+        type: select_one
+        options:
+          - 1-2
+          - 3-5
+          - 6-10
+          - 11+
+          - None
+        required: false
+      - id: 11
+        name: referral_method
+        label: How Did You Make the Referral
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Shared Referral Link
+          - Gave Contact Information
+          - Introduced Directly
+          - Shared on Social Media
+          - Email Introduction
+          - Other
+          - Did Not Refer
+        required: false
+      - id: 12
+        name: referral_barriers
+        label: What Prevented You from Referring More
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Did Not Know About Program
+          - Rewards Not Appealing
+          - Process Too Complicated
+          - Did Not Think of It
+          - No One to Refer
+          - Concerned About Reputation
+          - Rewards Too Low
+          - Other
+          - No Barriers
+        required: false
+      - id: 13
+        name: likelihood_to_refer
+        label: How Likely Are You to Refer Someone in the Future
+        hint: null
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 14
+        name: referral_program_rating
+        label: How Would You Rate Our Referral Program
+        hint: If you are aware of it
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not Aware
+        required: true
+      - id: 15
+        name: reward_satisfaction
+        label: How Satisfied Are You with the Rewards Offered
+        hint: null
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - Not Applicable
+        required: false
+      - id: 16
+        name: preferred_rewards
+        label: What Rewards Would Motivate You More
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Higher Cash Bonuses
+          - Account Credits
+          - Gift Cards
+          - Service Discounts
+          - Free Services
+          - Exclusive Events
+          - Early Access to Features
+          - Charitable Donations
+          - Other
+        required: false
+      - id: 17
+        name: referral_process_ease
+        label: How Easy Is the Referral Process
+        hint: null
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+          - Have Not Tried
+        required: false
+      - id: 18
+        name: communication_frequency
+        label: How Often Should We Communicate About the Referral Program
+        hint: null
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Twice a Year
+          - Once a Year
+          - Only When I Ask
+          - Never
+        required: false
+      - id: 19
+        name: communication_channels
+        label: Preferred Communication Channels
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Email
+          - SMS
+          - In-App Notifications
+          - Social Media
+          - Phone Call
+          - Direct Mail
+          - No Preference
+        required: false
+      - id: 20
+        name: would_recommend
+        label: Would You Recommend Our Services to Others
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 21
+        name: recommendation_reason
+        label: What Is the Main Reason You Would Recommend Us
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: improvement_suggestions
+        label: How Could We Improve the Referral Program
+        hint: Your suggestions are valuable
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_feedback
+        label: Additional Comments
+        hint: Anything else about the referral program
+        type: text
+        options: []
+        required: false

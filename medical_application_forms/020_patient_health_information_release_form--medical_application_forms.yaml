@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient-health-information-release-form
+    pages:
+    - id: 1
+      name: form_1
+      label: medical-records
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''healthcare-provider-providers''}'
+      - '{''value'': ''healthcare-provider-specialists''}'
+      - '{''value'': ''healthcare-provider-other''}'
+      required: true
+    - id: 2
+      name: form_2
+      label: authorization-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: form_3
+      label: release-type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''full-release''}'
+      - '{''value'': ''partial-release''}'
+      required: true
+    - id: 4
+      name: form_4
+      label: authorized-parties
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''healthcare-provider-providers''}'
+      - '{''value'': ''healthcare-provider-specialists''}'
+      - '{''value'': ''healthcare-provider-other''}'
+      required: true
+    - id: 5
+      name: form_5
+      label: medical-records-notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: form_6
+      label: providers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''healthcare-provider-providers''}'
+      - '{''value'': ''healthcare-provider-specialists''}'
+      - '{''value'': ''healthcare-provider-other''}'
+      required: true
+    - id: 7
+      name: form_7
+      label: record-duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: form_8
+      label: release-limit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1-year''}'
+      - '{''value'': ''5-years''}'
+      - '{''value'': ''10-years''}'
+      required: true
+    - id: 9
+      name: form_9
+      label: release-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: form_10
+      label: expiration-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: form_11
+      label: medical-records-release
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''immediate''}'
+      - '{''value'': ''upon-release''}'
+      - '{''value'': ''pending''}'
+      required: true
+    - id: 12
+      name: form_12
+      label: release-method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''mail''}'
+      - '{''value'': ''fax''}'
+      required: true
+    - id: 13
+      name: form_13
+      label: medical-records-release-note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: form_14
+      label: release-recipient
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''healthcare-provider-providers''}'
+      - '{''value'': ''healthcare-provider-specialists''}'
+      - '{''value'': ''healthcare-provider-other''}'
+      required: true
+    - id: 15
+      name: form_15
+      label: record-archival
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 16
+      name: form_16
+      label: record-storage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''local-storage''}'
+      - '{''value'': ''remote-storage''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 17
+      name: form_17
+      label: authorized-signer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''patient''}'
+      - '{''value'': ''healthcare-provider''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 18
+      name: form_18
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 19
+      name: form_19
+      label: signature-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: form_20
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_21
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: form_22
+      label: medical-records-release-notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: form_23
+      label: authorized-parties
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''healthcare-provider-providers''}'
+      - '{''value'': ''healthcare-provider-specialists''}'
+      - '{''value'': ''healthcare-provider-other''}'
+      required: true
+    - id: 24
+      name: form_24
+      label: record-archival
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 25
+      name: form_25
+      label: record-storage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''local-storage''}'
+      - '{''value'': ''remote-storage''}'
+      - '{''value'': ''other''}'
+      required: false

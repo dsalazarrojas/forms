@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_health_information_credibility_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_published
+      label: Date Published
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_published
+      label: Time Published
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: source_name
+      label: Source Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: credibility_scale
+      label: Credibility Scale
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 9
+      name: credibility_source
+      label: Credibility Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: credibility_scale_source
+      label: Credibility Scale Source
+      hint: null
+      type: text
+      options: []
+      required: false

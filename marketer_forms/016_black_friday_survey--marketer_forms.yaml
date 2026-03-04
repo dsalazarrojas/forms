@@ -1,0 +1,207 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Black Friday Shopping Survey
+        hint: Share your Black Friday shopping habits and preferences
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or Older
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Optional demographic info
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+        required: false
+      - id: 5
+        name: annual_income
+        label: Annual Income Range
+        hint: Household income bracket
+        type: select_one
+        options:
+          - Under $25000
+          - $25000-$49999
+          - $50000-$74999
+          - $75000-$99999
+          - $100000-$149999
+          - $150000 or More
+        required: false
+      - id: 6
+        name: black_friday_participation
+        label: Black Friday Participation
+        hint: Do you shop on Black Friday
+        type: select_one
+        options:
+          - Every Year
+          - Most Years
+          - Some Years
+          - Rarely
+          - Never
+        required: true
+      - id: 7
+        name: shopping_preference
+        label: Shopping Preference
+        hint: Online or in store
+        type: select_one
+        options:
+          - Online Only
+          - In Store Only
+          - Both Equally
+          - Mostly Online
+          - Mostly In Store
+        required: true
+      - id: 8
+        name: typical_spending
+        label: Typical Black Friday Spending
+        hint: How much do you usually spend
+        type: select_one
+        options:
+          - Under $100
+          - $100-$250
+          - $251-$500
+          - $501-$1000
+          - Over $1000
+        required: true
+      - id: 9
+        name: shopping_categories
+        label: Shopping Categories
+        hint: What do you typically buy
+        type: select_multiple
+        options:
+          - Electronics
+          - Clothing
+          - Home Goods
+          - Toys
+          - Beauty Products
+          - Sports Equipment
+          - Books
+          - Gift Cards
+        required: true
+      - id: 10
+        name: planning_behavior
+        label: Planning Behavior
+        hint: How do you prepare for Black Friday
+        type: select_one
+        options:
+          - Plan Weeks in Advance
+          - Plan a Few Days Before
+          - Impulse Shopper
+          - Only Shop If Great Deal
+        required: true
+      - id: 11
+        name: deal_research
+        label: Deal Research Methods
+        hint: How do you find deals
+        type: select_multiple
+        options:
+          - Store Websites
+          - Email Newsletters
+          - Social Media
+          - Deal Aggregator Sites
+          - Mobile Apps
+          - Newspaper Ads
+          - Word of Mouth
+        required: true
+      - id: 12
+        name: start_shopping_time
+        label: Preferred Start Time
+        hint: When do you start shopping
+        type: select_one
+        options:
+          - Before Midnight
+          - Early Morning 5am-8am
+          - Mid Morning 8am-12pm
+          - Afternoon
+          - Evening
+          - Cyber Monday Instead
+        required: true
+      - id: 13
+        name: motivation
+        label: Main Motivation
+        hint: Why do you shop Black Friday
+        type: select_one
+        options:
+          - Save Money
+          - Holiday Gift Shopping
+          - Treat Myself
+          - Experience and Fun
+          - Tradition
+        required: true
+      - id: 14
+        name: satisfaction_level
+        label: Overall Satisfaction
+        hint: How satisfied are you with Black Friday deals
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 15
+        name: future_plans
+        label: Future Shopping Plans
+        hint: Will you shop Black Friday next year
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 16
+        name: improvements_suggested
+        label: Suggested Improvements
+        hint: What could make Black Friday better
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other thoughts to share
+        type: text
+        options: []
+        required: false

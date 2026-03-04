@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Divider Curtain Survey
+    pages:
+    - id: 1
+      name: warehouse_divider_curtain_survey_page_1
+      label: warehouse Divider Curtain Survey 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: divider_curtain_type
+      label: divider Curtain Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''3-Pin''}'
+      - '{''id'': 2, ''label'': ''4-Pin''}'
+      - '{''id'': 3, ''label'': ''6-Pin''}'
+      required: true
+    - id: 3
+      name: number_of_divider_curtains
+      label: number of divider curtains
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: curtain_height
+      label: curtain height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: curtain_width
+      label: curtain width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: divider_curtain_performance
+      label: divider curtain performance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Not good''}'
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: true
+    - id: 13
+      name: warehouse_area
+      label: warehouse area
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: false
+    - id: 14
+      name: section
+      label: section
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''A''}'
+      - '{''id'': 2, ''label'': ''B''}'
+      - '{''id'': 3, ''label'': ''C''}'
+      required: true
+    - id: 15
+      name: assigned_james
+      label: assigned_james
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 16
+      name: assigned_john
+      label: assigned_john
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 17
+      name: assigned_jim
+      label: assigned_jim
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 18
+      name: assigned_jack
+      label: assigned_jack
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 19
+      name: assigned_james
+      label: assigned_james
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 20
+      name: assigned_johnny
+      label: assigned_johnny
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 21
+      name: assigned_jimmy
+      label: assigned_jimmy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 22
+      name: assigned_jim
+      label: assigned_jim
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 23
+      name: assigned_jason
+      label: assigned_jason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 24
+      name: assigned_james
+      label: assigned_james
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false
+    - id: 25
+      name: assigned_jim
+      label: assigned_jim
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: false

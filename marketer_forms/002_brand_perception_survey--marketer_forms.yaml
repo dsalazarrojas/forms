@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Perception Survey
+    pages:
+      - id: 1
+        name: respondent_age
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - 18-25
+          - 26-35
+          - 36-45
+          - 46-55
+          - 56-65
+          - 65+
+        required: true
+      - id: 2
+        name: brand_familiarity
+        label: How familiar are you with our brand
+        hint: Rate your familiarity level
+        type: select_one
+        options:
+          - Never heard of it
+          - Heard of it but don't know much
+          - Somewhat familiar
+          - Very familiar
+          - Extremely familiar
+        required: true
+      - id: 3
+        name: brand_impression
+        label: What is your overall impression of our brand
+        hint: Rate from 1 (Very negative) to 5 (Very positive)
+        type: select_one
+        options:
+          - 1 - Very negative
+          - 2 - Somewhat negative
+          - 3 - Neutral
+          - 4 - Somewhat positive
+          - 5 - Very positive
+        required: true
+      - id: 4
+        name: brand_qualities
+        label: Which qualities best describe our brand
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Trustworthy
+          - Innovative
+          - Professional
+          - Affordable
+          - High quality
+          - Customer-friendly
+          - Environmentally conscious
+          - Outdated
+        required: true
+      - id: 5
+        name: purchase_likelihood
+        label: How likely are you to purchase from us
+        hint: Rate your purchase likelihood
+        type: select_one
+        options:
+          - Very unlikely
+          - Unlikely
+          - Neutral
+          - Likely
+          - Very likely
+        required: true
+      - id: 6
+        name: recommend_brand
+        label: Would you recommend our brand to others
+        hint: Rate from 1 (Definitely not) to 5 (Definitely yes)
+        type: select_one
+        options:
+          - 1 - Definitely not
+          - 2 - Probably not
+          - 3 - Maybe
+          - 4 - Probably yes
+          - 5 - Definitely yes
+        required: true
+      - id: 7
+        name: price_perception
+        label: How do you perceive our pricing
+        hint: Select your opinion on pricing
+        type: select_one
+        options:
+          - Far too expensive
+          - Somewhat expensive
+          - Fair and reasonable
+          - Good value
+          - Excellent value
+        required: true
+      - id: 8
+        name: brand_strengths
+        label: What do you think are our brand strengths
+        hint: List the top strengths you perceive
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: brand_weaknesses
+        label: What areas could we improve
+        hint: List areas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: competitor_comparison
+        label: How do we compare to our competitors
+        hint: Rate our competitiveness
+        type: select_one
+        options:
+          - Much worse
+          - Somewhat worse
+          - About the same
+          - Somewhat better
+          - Much better
+        required: true
+      - id: 11
+        name: brand_awareness_channels
+        label: Where have you encountered our brand
+        hint: Select all applicable channels
+        type: select_multiple
+        options:
+          - Social media
+          - Television/Radio
+          - Print advertising
+          - Friends or family
+          - Online search
+          - In-store
+          - Influencers
+          - Other
+        required: false
+      - id: 12
+        name: product_experience
+        label: Have you purchased our products or services
+        hint: Select your experience level
+        type: select_one
+        options:
+          - Never purchased
+          - Purchased once
+          - Purchased a few times
+          - Regular customer
+          - Long-time customer
+        required: true
+      - id: 13
+        name: satisfaction_level
+        label: How satisfied are you with your experience
+        hint: Rate your satisfaction
+        type: select_one
+        options:
+          - Very dissatisfied
+          - Somewhat dissatisfied
+          - Neutral
+          - Somewhat satisfied
+          - Very satisfied
+        required: false
+      - id: 14
+        name: brand_value_alignment
+        label: Do our brand values align with yours
+        hint: Rate the alignment
+        type: select_one
+        options:
+          - Not aligned at all
+          - Slightly aligned
+          - Somewhat aligned
+          - Mostly aligned
+          - Completely aligned
+        required: true
+      - id: 15
+        name: additional_feedback
+        label: Any additional comments or suggestions
+        hint: Please share any feedback
+        type: text
+        options: []
+        required: false

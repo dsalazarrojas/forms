@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of quality inspector
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_id
+      label: Inspector ID Number
+      hint: Employee or badge number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Inspection Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: production_line_id
+      label: Production Line ID
+      hint: Line identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shift
+      label: Shift
+      hint: Which shift is running
+      type: select_one
+      options:
+      - Morning Shift - 6am to 2pm
+      - Afternoon Shift - 2pm to 10pm
+      - Night Shift - 10pm to 6am
+      required: true
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: Product being manufactured
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_code
+      label: Product Code or SKU
+      hint: Product identifier
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: batch_number
+      label: Batch or Lot Number
+      hint: Production batch identifier
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: units_produced
+      label: Units Produced This Shift
+      hint: Total count
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: sample_size
+      label: Sample Size Inspected
+      hint: Number of units checked
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: defect_count
+      label: Number of Defects Found
+      hint: Total defective units
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: defect_type
+      label: Primary Defect Type
+      hint: Most common defect observed
+      type: select_one
+      options:
+      - Dimensional Error
+      - Surface Defect
+      - Assembly Error
+      - Material Defect
+      - Functional Failure
+      - Cosmetic Issue
+      - None
+      required: true
+    - id: 14
+      name: defect_description
+      label: Defect Description
+      hint: Detailed description of defects
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: equipment_status
+      label: Equipment Status
+      hint: Condition of machinery
+      type: select_one
+      options:
+      - Operating Normally
+      - Minor Issues
+      - Needs Maintenance
+      - Requires Repair
+      - Down
+      required: true
+    - id: 16
+      name: safety_compliance
+      label: Safety Compliance Status
+      hint: Are safety protocols followed
+      type: select_one
+      options:
+      - Fully Compliant
+      - Minor Violations
+      - Major Violations
+      - Non-Compliant
+      required: true
+    - id: 17
+      name: workstation_cleanliness
+      label: Workstation Cleanliness
+      hint: State of work area
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 18
+      name: material_shortage
+      label: Material Shortage Issues
+      hint: Any missing materials
+      type: select_one
+      options:
+      - No Issues
+      - Minor - Can Continue
+      - Moderate - May Stop Soon
+      - Critical - Stopped Production
+      required: true
+    - id: 19
+      name: downtime_minutes
+      label: Downtime in Minutes
+      hint: Total line stoppage time
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: downtime_reason
+      label: Downtime Reason
+      hint: Primary cause of stoppage
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: quality_check_passed
+      label: Did Quality Check Pass
+      hint: Overall quality status
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: What needs to be fixed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_notified
+      label: Has Supervisor Been Notified
+      hint: If issues were found
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 24
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: When is next check scheduled
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,189 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Giveaway Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: customer_status
+        label: Customer Status
+        hint: null
+        type: select_one
+        options:
+          - Existing customer
+          - New customer
+          - Interested but not yet purchased
+        required: true
+      - id: 6
+        name: giveaway_interest
+        label: -- Giveaway Interest --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: prize_preferences
+        label: What types of prizes interest you most?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Electronics
+          - Fashion items
+          - Home goods
+          - Gift cards
+          - Experiences
+          - Luxury items
+          - Gift sets
+          - Subscription services
+        required: true
+      - id: 8
+        name: prize_value
+        label: Preferred Prize Value Range
+        hint: null
+        type: select_one
+        options:
+          - Under $50
+          - $50-$100
+          - $100-$250
+          - $250-$500
+          - Over $500
+        required: true
+      - id: 9
+        name: motivation
+        label: -- Participation Motivation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: participation_reason
+        label: What motivates you to enter giveaways?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Chance to win prizes
+          - Get to know the brand
+          - Good value proposition
+          - Easy entry process
+          - Refer friends and earn rewards
+          - Social sharing opportunities
+        required: true
+      - id: 11
+        name: entry_frequency
+        label: How often do you enter giveaways?
+        hint: null
+        type: select_one
+        options:
+          - Very frequently
+          - Occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 12
+        name: feedback_section
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: giveaway_discovery
+        label: How did you hear about this giveaway?
+        hint: null
+        type: select_one
+        options:
+          - Social media
+          - Email newsletter
+          - Website
+          - Friend recommendation
+          - Online advertisement
+          - Search engine
+          - Other
+        required: true
+      - id: 14
+        name: most_appealing_aspect
+        label: What was most appealing about this giveaway?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: improvement_suggestions
+        label: How could we improve this giveaway?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: engagement_section
+        label: -- Future Engagement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: future_giveaways
+        label: Would you participate in future giveaways?
+        hint: null
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 18
+        name: newsletter_signup
+        label: Would you like to receive updates about future promotions?
+        hint: null
+        type: select_one
+        options:
+          - Yes, sign me up
+          - No thanks
+        required: false
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: null
+        type: text
+        options: []
+        required: false

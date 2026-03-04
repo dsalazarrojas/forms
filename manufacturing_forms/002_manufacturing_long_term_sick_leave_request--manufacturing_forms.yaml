@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Long Term Sick Leave Request
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: days_required
+      label: Number of Days Required
+      hint: Please enter the total number of days required for sick leave
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department_id
+      label: Department
+      hint: Please select your department
+      type: select_one
+      options:
+      - '{''name'': ''Sales''}'
+      - '{''name'': ''Engineering''}'
+      - '{''name'': ''Operations''}'
+      - '{''name'': ''HR''}'
+      required: false
+    - id: 7
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Plant Manager''}'
+      - '{''name'': ''HR Manager''}'
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: declined_date
+      label: Declined Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: comments_approved
+      label: Comments Approved
+      hint: Additional comments for approval
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment_approved
+      label: Attachment Approved
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Pending''}'
+      - '{''name'': ''Approved''}'
+      - '{''name'': ''Declined''}'
+      - '{''name'': ''Reopened''}'
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: declined_by
+      label: Declined By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: declined_on
+      label: Declined On
+      hint: null
+      type: date
+      options: []
+      required: false

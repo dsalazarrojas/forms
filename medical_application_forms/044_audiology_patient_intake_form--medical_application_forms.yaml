@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audiology Patient Intake Form
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Patient Personal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_address
+      label: Home Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_insurance
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Carrier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: policy_id_number
+      label: Policy ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_medical_history
+      label: -- Hearing and Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hearing_loss_duration
+      label: How long have you noticed hearing difficulty?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 2 years
+      - 2 to 5 years
+      - Over 5 years
+      - Not applicable
+      required: true
+    - id: 12
+      name: family_history
+      label: Family history of early-onset hearing loss?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: noise_exposure
+      label: Past or present exposure to loud noise?
+      hint: Military, industrial, music, etc.
+      type: select_one
+      options:
+      - Frequent Exposure
+      - Occasional Exposure
+      - Minimal/No Exposure
+      required: true
+    - id: 14
+      name: previous_treatments
+      label: Previous ear surgeries or treatments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: Especially any for heart, blood pressure, or dizziness
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_consent
+      label: -- Consent for Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: treatment_consent
+      label: I consent to diagnostic hearing evaluation
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 18
+      name: signature_date
+      label: Date of Intake
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: digital_signature
+      label: Patient Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

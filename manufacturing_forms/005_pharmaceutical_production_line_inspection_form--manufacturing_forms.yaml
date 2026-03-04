@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Production Line Inspection Form
+    pages:
+    - id: 1
+      name: manufacturing_area
+      label: Manufacturing Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspector
+      label: Inspector
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: production_line
+      label: Production Line
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: equipment_cleanliness
+      label: Equipment Cleanliness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: production_area_walkthrough
+      label: Production Area Walkthrough
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: area_inspection_findings
+      label: Area Inspection Findings
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: corrective_actions_taken
+      label: Corrective Actions Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: production_supervisor_name
+      label: Production Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: production_supervisor_signature
+      label: Production Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: production_supervisor_title
+      label: Production Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: quality_supervisor_name
+      label: Quality Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quality_supervisor_signature
+      label: Quality Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quality_supervisor_title
+      label: Quality Supervisor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: audit_time
+      label: Audit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: auditor
+      label: Auditor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: audit_comments
+      label: Audit Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true

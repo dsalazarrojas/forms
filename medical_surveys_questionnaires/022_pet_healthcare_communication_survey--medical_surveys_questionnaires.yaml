@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Healthcare Communication Survey
+    pages:
+    - id: 1
+      name: pet_ownership
+      label: pet_ownership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_health
+      label: pet_health
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: veterinary_team
+      label: veterinary_team
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: email
+      options: []
+      required: false

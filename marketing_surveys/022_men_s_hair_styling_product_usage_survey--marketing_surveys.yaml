@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Men's Hair Styling Product Usage Survey
+    pages:
+    - id: 1
+      name: salons_brand_researchers
+      label: Salons brands and researchers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_usage_frequency
+      label: How often do you use hair styling products?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Never''}'
+      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
+      - '{''value'': 3, ''label'': ''1 time a week''}'
+      - '{''value'': 4, ''label'': ''2-3 times a week''}'
+      - '{''value'': 5, ''label'': ''Daily''}'
+      required: false
+    - id: 3
+      name: grooming_preferences
+      label: What do you prefer when it comes to grooming?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Clean shaven''}'
+      - '{''value'': 2, ''label'': ''Light hold''}'
+      - '{''value'': 3, ''label'': ''Medium hold''}'
+      - '{''value'': 4, ''label'': ''Heavy hold''}'
+      - '{''value'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: hair_type
+      label: What type of hair do you have?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Straight''}'
+      - '{''value'': 2, ''label'': ''Curly''}'
+      - '{''value'': 3, ''label'': ''Wavy''}'
+      - '{''value'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''English''}'
+      - '{''value'': 2, ''label'': ''Spanish''}'
+      - '{''value'': 3, ''label'': ''French''}'
+      required: false
+    - id: 9
+      name: preferred_contact_channel
+      label: Preferred contact channel
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Email''}'
+      - '{''value'': 2, ''label'': ''Phone''}'
+      - '{''value'': 3, ''label'': ''In-app''}'
+      required: false
+    - id: 10
+      name: hair_texture
+      label: Hair Texture
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Thick''}'
+      - '{''value'': 2, ''label'': ''Thin''}'
+      - '{''value'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Black''}'
+      - '{''value'': 2, ''label'': ''Blonde''}'
+      - '{''value'': 3, ''label'': ''Brown''}'
+      - '{''value'': 4, ''label'': ''Red''}'
+      - '{''value'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: face_shape
+      label: Face Shape
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Oval''}'
+      - '{''value'': 2, ''label'': ''Round''}'
+      - '{''value'': 3, ''label'': ''Heart''}'
+      - '{''value'': 4, ''label'': ''Square''}'
+      - '{''value'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: beard_length
+      label: Beard length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: facial_hair_thickness
+      label: Facial hair thickness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''None''}'
+      - '{''value'': 2, ''label'': ''Little''}'
+      - '{''value'': 3, ''label'': ''Medium''}'
+      - '{''value'': 4, ''label'': ''Full''}'
+      required: false
+    - id: 15
+      name: preferred_beard_style
+      label: Preferred beard style
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''None''}'
+      - '{''value'': 2, ''label'': ''Short''}'
+      - '{''value'': 3, ''label'': ''Medium''}'
+      - '{''value'': 4, ''label'': ''Full''}'
+      required: false
+    - id: 16
+      name: beard_frequency
+      label: How often do you maintain your beard?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Never''}'
+      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
+      - '{''value'': 3, ''label'': ''1 time a week''}'
+      - '{''value'': 4, ''label'': ''2-3 times a week''}'
+      - '{''value'': 5, ''label'': ''Daily''}'
+      required: false
+    - id: 17
+      name: hair_maintenance_frequency
+      label: How often do you wash your hair?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Never''}'
+      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
+      - '{''value'': 3, ''label'': ''1 time a week''}'
+      - '{''value'': 4, ''label'': ''2-3 times a week''}'
+      - '{''value'': 5, ''label'': ''Daily''}'
+      required: false
+    - id: 18
+      name: beard_maintenance_frequency
+      label: How often do you wash your beard?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Never''}'
+      - '{''value'': 2, ''label'': ''Less than 1 time a week''}'
+      - '{''value'': 3, ''label'': ''1 time a week''}'
+      - '{''value'': 4, ''label'': ''2-3 times a week''}'
+      - '{''value'': 5, ''label'': ''Daily''}'
+      required: false

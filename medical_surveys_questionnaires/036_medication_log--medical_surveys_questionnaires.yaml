@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_log
+    pages:
+    - id: 1
+      name: medication_log_form
+      label: medication_log
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medication_date
+      label: medication_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medication_dose
+      label: medication_dose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: medication_frequency
+      label: medication_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medication_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medication_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: medication_log_frequency
+      label: how_often
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dosage_units
+      label: units
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medication_side_effects
+      label: side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - Side effects
+      - Fatigue
+      - Dizziness
+      - Sleep disturbances
+      - Nausea
+      - Vomiting
+      - Anxiety
+      - Confusion
+      - Depression
+      - Hallucinations
+      required: false
+    - id: 10
+      name: medication_log_frequency
+      label: frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_use
+      label: reason_for_use
+      hint: null
+      type: text
+      options: []
+      required: false

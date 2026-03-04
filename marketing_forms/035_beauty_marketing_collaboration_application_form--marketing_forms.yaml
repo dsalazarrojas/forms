@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Marketing Collaboration Application Form
+    pages:
+    - id: 1
+      name: applicant_header
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entity_type
+      label: Are You Applying As A
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Brand
+      - Agency
+      required: true
+    - id: 3
+      name: full_name
+      label: Full Name or Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_website
+      label: Website or Portfolio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: brand_header
+      label: -- Brand or Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Beauty Brand
+      - Marketing Agency
+      - PR Firm
+      - Influencer Network
+      - Other
+      required: true
+    - id: 10
+      name: year_founded
+      label: Year Founded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Solo
+      - 2-5 employees
+      - 5-20 employees
+      - 20-50 employees
+      - 50+ employees
+      required: true
+    - id: 12
+      name: company_focus
+      label: Primary Focus Areas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: marketing_header
+      label: -- Marketing and Reach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_audience
+      label: Primary Audience Demographics
+      hint: Age, gender, interests, etc.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: audience_size
+      label: Current Audience or Client Base Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: social_media_presence
+      label: Social Media Platforms and Followers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: email_list_size
+      label: Email List Size or Newsletter Subscribers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: monthly_reach
+      label: Estimated Monthly Reach or Impressions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: collaboration_header
+      label: -- Collaboration Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: collaboration_types
+      label: Types of Collaboration Interested In
+      hint: null
+      type: select_multiple
+      options:
+      - Product Promotion
+      - Brand Partnerships
+      - Content Creation
+      - Event Marketing
+      - Affiliate
+      - Custom Campaigns
+      required: true
+    - id: 21
+      name: campaign_experience
+      label: Previous Beauty Campaign Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: ideal_partnership
+      label: Ideal Partnership or Client Profile
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: budget_header
+      label: -- Budget and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: rate_structure
+      label: Rate Structure Preference
+      hint: null
+      type: select_one
+      options:
+      - Fixed Project Fee
+      - Per-Post Rate
+      - Performance-Based
+      - Combination
+      - Flexible
+      required: true
+    - id: 25
+      name: minimum_budget
+      label: Minimum Budget Requirement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: contract_terms
+      label: Preferred Contract Terms
+      hint: Duration, deliverables, etc.
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: availability_start
+      label: Availability to Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: terms_agreement
+      label: I Agree to the Collaboration Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

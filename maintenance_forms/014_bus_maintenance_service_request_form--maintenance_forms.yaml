@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Maintenance Service Request Form
+    pages:
+    - id: 1
+      name: requestor_info
+      label: Requestor Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Operations
+      - Maintenance
+      - Fleet Management
+      - Administration
+      - Safety
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Bus details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: bus_number
+      label: Bus Number
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bus_model
+      label: Bus Model
+      hint: Make and model
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: license_plate
+      label: License Plate
+      hint: Vehicle license plate
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_mileage
+      label: Current Mileage
+      hint: Odometer reading
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: service_info
+      label: Service Information
+      hint: Details about the required service
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_type
+      label: Service Type
+      hint: Type of maintenance needed
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Oil Change
+      - Brake Service
+      - Tire Service
+      - Engine Repair
+      - Transmission Service
+      - Electrical System
+      - HVAC Service
+      - Body Repair
+      - Emergency Repair
+      required: true
+    - id: 14
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Low - Schedule When Convenient
+      - Medium - Within One Week
+      - High - Within 48 Hours
+      - Urgent - Within 24 Hours
+      - Critical - Immediate Attention
+      required: true
+    - id: 15
+      name: problem_description
+      label: Problem Description
+      hint: Describe the issue in detail
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: symptoms
+      label: Symptoms Observed
+      hint: What symptoms have you noticed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: when_occurred
+      label: When Did Issue First Occur
+      hint: Date or time when problem started
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: frequency
+      label: Issue Frequency
+      hint: How often does the problem occur
+      type: select_one
+      options:
+      - Constant
+      - Frequent
+      - Occasional
+      - Rare
+      - One-Time Event
+      required: true
+    - id: 19
+      name: affects_operation
+      label: Does This Affect Vehicle Operation
+      hint: Can the bus still be operated safely
+      type: select_one
+      options:
+      - Yes - No Impact
+      - Yes - Minor Impact
+      - Yes - Major Impact
+      - No - Vehicle Cannot Operate
+      required: true
+    - id: 20
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When would you like service performed
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: preferred_service_time
+      label: Preferred Service Time
+      hint: Preferred time for service
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: parts_needed
+      label: Known Parts Needed
+      hint: Are specific parts required
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_repairs
+      label: Previous Related Repairs
+      hint: Has this issue been addressed before
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

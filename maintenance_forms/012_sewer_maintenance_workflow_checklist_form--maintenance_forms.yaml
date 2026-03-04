@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: sewer_maintenance_workflow_checklist_form
+    pages:
+    - id: 1
+      name: work_order
+      label: Work Order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_check
+      label: Site Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: safety_review
+      label: Safety Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_date
+      label: Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_tool_other
+      label: Other
+      hint: Enter another tool if not listed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_order_type
+      label: Work Order Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: site_id
+      label: Site ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_person
+      label: Maintenance Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: Enter notes for the maintenance work order
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: completed
+      label: Completed
+      hint: Mark as completed when finished
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Procurement Performance Report Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supplier_location
+      label: Supplier Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: material_sourced
+      label: Material Sourced
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_value_of_purchases
+      label: Total Value of Purchases
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: procurement_process
+      label: Procurement Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: supplier_quality_rating
+      label: Supplier Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 9
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: time_taken_to_resolve_issues
+      label: Time Taken to Resolve Issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supplier_name_2
+      label: Supplier Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supplier_location_2
+      label: Supplier Location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: material_sourced_2
+      label: Material Sourced 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_value_of_purchases_2
+      label: Total Value of Purchases 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: purchase_frequency_2
+      label: Purchase Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: material_type_2
+      label: Material Type 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: procurement_process_2
+      label: Procurement Process 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: supplier_quality_rating_2
+      label: Supplier Quality Rating 2
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 21
+      name: communication_effectiveness_2
+      label: Communication Effectiveness 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: time_taken_to_resolve_issues_2
+      label: Time Taken to Resolve Issues 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: overall_satisfaction_2
+      label: Overall Satisfaction 2
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 24
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

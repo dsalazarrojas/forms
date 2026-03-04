@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Interlock Bypass Request Form
+    pages:
+    - id: 1
+      name: maintenance_form_1
+      label: Maintenance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_form_2
+      label: Temporary Bypass Request
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 3
+      name: maintenance_form_3
+      label: Bypass Timing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_form_4
+      label: Bypass Risk
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      required: false
+    - id: 5
+      name: maintenance_form_5
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      required: false
+    - id: 6
+      name: maintenance_form_6
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_form_7
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_form_8
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_form_9
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_form_10
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

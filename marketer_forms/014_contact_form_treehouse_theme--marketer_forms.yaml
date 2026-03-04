@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form Treehouse Theme
+    pages:
+    - id: 1
+      name: welcome
+      label: Welcome - Let Us Hear From You
+      hint: Fill out the form below
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: Company or organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interest_area
+      label: Area of Interest
+      hint: What interests you
+      type: select_one
+      options:
+      - Marketing Services
+      - Digital Strategy
+      - Content Creation
+      - Social Media
+      - Analytics
+      - Consulting
+      required: true
+    - id: 8
+      name: project_type
+      label: Project Type
+      hint: Type of project
+      type: select_one
+      options:
+      - New Project
+      - Existing Project Enhancement
+      - Ongoing Support
+      - Consultation
+      - Not Sure Yet
+      required: true
+    - id: 9
+      name: timeline
+      label: Project Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within a Month
+      - Within 3 Months
+      - Just Browsing
+      required: true
+    - id: 10
+      name: budget
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $5000
+      - $5000 to $15000
+      - $15000 to $50000
+      - $50000 to $100000
+      - Over $100000
+      required: false
+    - id: 11
+      name: project_details
+      label: Project Details
+      hint: Describe your project
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: goals
+      label: Project Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: communication_preference
+      label: Communication Preference
+      hint: How to contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Meeting
+      - In Person
+      required: true
+    - id: 14
+      name: subscribe
+      label: Subscribe to Newsletter
+      hint: Receive updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

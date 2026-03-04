@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: factory_operation_efficiency_report_request_form
+    pages:
+    - id: 1
+      name: factory_operation_efficiency_report_request_form_page_1
+      label: Efficiency Report Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_line
+      label: Production Line
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: machine_id
+      label: Machine ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: efficiency_percentage
+      label: Efficiency Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

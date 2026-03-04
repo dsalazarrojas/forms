@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Usage Tracking Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_name
+      label: Material Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supplier
+      label: Supplier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

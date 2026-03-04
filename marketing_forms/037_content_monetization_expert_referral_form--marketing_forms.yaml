@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Monetization Expert Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Referrer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_email
+      label: Referrer Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referrer_phone
+      label: Referrer Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referrer_company
+      label: Referrer Company
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_date
+      label: Referral Date
+      hint: Date of this referral
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: expert_name
+      label: Expert Name
+      hint: Full name of the expert you are referring
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expert_email
+      label: Expert Email
+      hint: Email address of the expert
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: expert_phone
+      label: Expert Phone
+      hint: Contact number for the expert
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expert_company
+      label: Expert Company
+      hint: Company or organization of the expert
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expert_title
+      label: Expert Title
+      hint: Job title or professional designation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: expertise_area
+      label: Area of Expertise
+      hint: What is their specialty?
+      type: select_one
+      options:
+      - Content Strategy
+      - Monetization Strategy
+      - Social Media Monetization
+      - Video Monetization
+      - Podcast Monetization
+      - E-commerce Integration
+      - Brand Partnerships
+      - Affiliate Marketing
+      - Subscription Models
+      - Multiple Areas
+      required: true
+    - id: 12
+      name: years_of_experience
+      label: Years of Experience
+      hint: How many years of experience do they have?
+      type: select_one
+      options:
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-15 years
+      - 15+ years
+      required: true
+    - id: 13
+      name: notable_achievements
+      label: Notable Achievements
+      hint: What are their key accomplishments?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: previous_clients
+      label: Previous Clients
+      hint: Name some clients they have worked with
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: case_studies
+      label: Case Studies
+      hint: Describe successful projects or case studies
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: specialization
+      label: Specialization
+      hint: What specific monetization methods do they excel at?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: industry_focus
+      label: Industry Focus
+      hint: What industries do they specialize in?
+      type: select_multiple
+      options:
+      - Technology
+      - Entertainment
+      - Education
+      - Healthcare
+      - Finance
+      - Retail
+      - Media
+      - Gaming
+      - Multiple Industries
+      required: true
+    - id: 18
+      name: content_platforms
+      label: Content Platforms
+      hint: Which platforms are they expert in?
+      type: select_multiple
+      options:
+      - YouTube
+      - Instagram
+      - TikTok
+      - Facebook
+      - Twitter
+      - LinkedIn
+      - Twitch
+      - Podcast Platforms
+      - Blogs
+      required: true
+    - id: 19
+      name: why_refer
+      label: Why Are You Referring This Expert?
+      hint: What makes them a good fit?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: relationship_to_expert
+      label: Your Relationship to Expert
+      hint: How do you know this person?
+      type: select_one
+      options:
+      - Colleague
+      - Former Client
+      - Business Partner
+      - Industry Contact
+      - Friend
+      - Other
+      required: true
+    - id: 21
+      name: expert_availability
+      label: Expert Availability
+      hint: Do you know their availability?
+      type: select_one
+      options:
+      - Immediately Available
+      - Available in 2-4 weeks
+      - Available in 1-3 months
+      - Not Sure
+      required: false
+    - id: 22
+      name: expected_rate_range
+      label: Expected Rate Range
+      hint: What is their typical rate?
+      type: select_one
+      options:
+      - Under $100/hour
+      - $100-$250/hour
+      - $250-$500/hour
+      - $500-$1,000/hour
+      - Over $1,000/hour
+      - Project-Based
+      required: false
+    - id: 23
+      name: website_or_portfolio
+      label: Website or Portfolio
+      hint: Link to their website or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: Link to their LinkedIn profile
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about this expert
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Clinician Communication Survey
+    pages:
+    - id: 1
+      name: how_do_you_rate_the_quality_of_your_last_visit
+      label: How do you rate the quality of your last visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: how_would_you_rate_the_clinician_s
+      label: How would you rate the clinician's communication
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: which_clinician_was_your_provider
+      label: Which clinician was your provider
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: what_was_the_main_issue_you_came_to_visit
+      label: What was the main issue you came to visit for
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: how_long_was_your_wait_time
+      label: How long was your wait time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: what_was_the_time_of_your_last_visit
+      label: What was the time of your last visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: what_was_the_date_of_your_last_visit
+      label: What was the date of your last visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: what_were_the_main_issues_discussed_during_your_last_visit
+      label: What were the main issues discussed during your last visit
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: what_were_the_outcomes_discussed_during_your_last_visit
+      label: What were the outcomes discussed during your last visit
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: what_did_your_provider_explain_to_you_during_your_last_visit
+      label: What did your provider explain to you during your last visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: fax_number
+      label: fax_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: what_were_the_next_steps_planned_during_your_last_visit
+      label: What were the next steps planned during your last visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: did_your_provider_follow_up_with_you_after_your_last_visit
+      label: Did your provider follow up with you after your last visit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: what_did_your_provider_ask_you_to_do_during_your_last_visit
+      label: What did your provider ask you to do during your last visit
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: what_was_the_cause_for_your_last_visit
+      label: What was the cause for your last visit
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: what_was_the_outcome_of_your_last_visit
+      label: What was the outcome of your last visit
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: did_your_provider_check_for_any_other_conditions
+      label: Did your provider check for any other conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: how_long_did_you_wait_in_the_wait_room
+      label: How long did you wait in the wait room
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: did_you_have_to_wait_in_the_wait_room_before_your_visit
+      label: Did you have to wait in the wait room before your visit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: what_did_your_provider_explain_about_your_condition
+      label: What did your provider explain about your condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: what_did_your_provider_explain_to_you_about_your_test_results
+      label: What did your provider explain to you about your test results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: provider
+      label: provider
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Assessment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: height_feet
+      label: Height - Feet
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: height_inches
+      label: Height - Inches
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight_pounds
+      label: Weight in Pounds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 9
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 10
+      name: skin_condition
+      label: Current Skin Condition
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clear
+      - Acne-Prone
+      - Eczema
+      - Psoriasis
+      - Rosacea
+      - Sensitive
+      - Irritated
+      - Other
+      required: true
+    - id: 11
+      name: allergies_skin
+      label: Known Skin Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: body_areas_concern
+      label: Areas of Body Concern
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Face
+      - Neck
+      - Chest
+      - Back
+      - Arms
+      - Legs
+      - Hands
+      - Feet
+      - Overall Body
+      required: true
+    - id: 15
+      name: skin_goals
+      label: What are your skincare goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Hydration
+      - Anti-Aging
+      - Acne Control
+      - Even Skin Tone
+      - Texture Improvement
+      - Sensitivity Relief
+      - Brightening
+      - Other
+      required: true
+    - id: 16
+      name: sun_exposure
+      label: Average Daily Sun Exposure
+      hint: null
+      type: select_one
+      options:
+      - Minimal - Mostly Indoors
+      - Low - Some Outdoor Time
+      - Moderate - Regular Outdoor Activities
+      - High - Significant Time in Sun
+      - Very High - Outdoor Profession
+      required: true
+    - id: 17
+      name: sunscreen_use
+      label: Do you regularly use sunscreen
+      hint: null
+      type: select_one
+      options:
+      - Yes, daily
+      - Yes, sometimes
+      - false
+      - Unsure
+      required: true
+    - id: 18
+      name: skincare_routine
+      label: Current Skincare Routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_sensitivities
+      label: Sensitive to Any Skincare Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lifestyle_factors
+      label: Lifestyle Factors Affecting Skin
+      hint: Sleep, stress, diet, exercise
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: prior_treatments
+      label: Prior Skin Treatments or Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: treatment_expectations
+      label: What results do you hope to achieve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: consultation_authorization
+      label: I authorize this assessment and consultation
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Authorize
+      - No, I Do Not Authorize
+      required: true
+    - id: 24
+      name: terms_acceptance
+      label: I accept the terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

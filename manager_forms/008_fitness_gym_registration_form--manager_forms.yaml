@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Gym Registration Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_details
+      label: Membership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      required: false
+    - id: 7
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Authorize
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_cycle
+      label: Cycle
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Quarterly
+      required: false
+    - id: 14
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Advanced
+      required: false
+    - id: 15
+      name: membership_term
+      label: Membership Term
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - 3 months
+      - 6 months
+      - 12 months
+      required: false
+    - id: 16
+      name: membership_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: membership_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: member_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: member_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: member_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

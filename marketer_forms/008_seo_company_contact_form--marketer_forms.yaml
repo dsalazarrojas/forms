@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo_company_contact_form
+    pages:
+    - id: 1
+      name: form_input
+      label: form input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name_input
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number_input
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_input
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: description_input
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: form_submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

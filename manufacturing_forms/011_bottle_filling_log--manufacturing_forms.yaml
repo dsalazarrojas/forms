@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bottle Filling Log
+    pages:
+    - id: 1
+      name: log_date
+      label: Log Date
+      hint: Date of filling operation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: shift
+      label: Shift
+      hint: Which shift performed this filling
+      type: select_one
+      options:
+      - Morning Shift (6AM-2PM)
+      - Afternoon Shift (2PM-10PM)
+      - Night Shift (10PM-6AM)
+      required: true
+    - id: 3
+      name: operator_name
+      label: Operator Name
+      hint: Name of machine operator
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: operator_id
+      label: Operator ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: production_line
+      label: Production Line
+      hint: Which filling line was used
+      type: select_one
+      options:
+      - Line 1
+      - Line 2
+      - Line 3
+      - Line 4
+      - Line 5
+      required: true
+    - id: 6
+      name: batch_number
+      label: Batch Number
+      hint: Unique batch identifier
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: Name of product being bottled
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: product_code
+      label: Product Code
+      hint: SKU or product identification code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bottle_type
+      label: Bottle Type
+      hint: Type and size of bottles used
+      type: select_one
+      options:
+      - 250ml glass
+      - 500ml glass
+      - 750ml glass
+      - 1L glass
+      - 250ml plastic
+      - 500ml plastic
+      - 1L plastic
+      - 1.5L plastic
+      - 2L plastic
+      - Custom size
+      required: true
+    - id: 10
+      name: fill_start_time
+      label: Fill Start Time
+      hint: Time filling began
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: fill_end_time
+      label: Fill End Time
+      hint: Time filling completed
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: target_fill_volume
+      label: Target Fill Volume
+      hint: Target volume per bottle in ml
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bottles_started
+      label: Number of Bottles Started
+      hint: Total bottles entering filling line
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: bottles_completed
+      label: Number of Bottles Completed
+      hint: Total bottles successfully filled
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: bottles_rejected
+      label: Number of Bottles Rejected
+      hint: Bottles rejected during quality check
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: rejection_reason
+      label: Primary Rejection Reason
+      hint: Main reason for bottle rejection
+      type: select_one
+      options:
+      - Underfilled
+      - Overfilled
+      - Cap defect
+      - Label defect
+      - Bottle damage
+      - Contamination
+      - Seal failure
+      - Other
+      required: false
+    - id: 17
+      name: fill_accuracy_check
+      label: Fill Accuracy Check
+      hint: Was fill volume within tolerance
+      type: select_one
+      options:
+      - Yes, within tolerance
+      - No, adjustment needed
+      - Not checked
+      required: true
+    - id: 18
+      name: equipment_status
+      label: Equipment Status
+      hint: Condition of filling equipment
+      type: select_one
+      options:
+      - Operating normally
+      - Minor issues
+      - Required adjustment
+      - Required maintenance
+      - Breakdown occurred
+      required: true
+    - id: 19
+      name: downtime_minutes
+      label: Downtime in Minutes
+      hint: Total unplanned downtime
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: quality_control_passed
+      label: Quality Control Status
+      hint: Did batch pass QC inspection
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Pending review
+      required: true
+    - id: 21
+      name: qc_inspector_name
+      label: QC Inspector Name
+      hint: Name of quality control inspector
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cleaning_performed
+      label: Cleaning Performed
+      hint: Was equipment cleaned after run
+      type: select_one
+      options:
+      - Yes, full cleaning
+      - Yes, partial cleaning
+      - No, scheduled for later
+      required: true
+    - id: 23
+      name: notes
+      label: Additional Notes
+      hint: Any observations or comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supervisor_approval
+      label: Supervisor Name
+      hint: Supervising manager name
+      type: text
+      options: []
+      required: true

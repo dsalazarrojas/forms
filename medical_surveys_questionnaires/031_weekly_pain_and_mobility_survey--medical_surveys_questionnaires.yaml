@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly_pain_and_mobility_survey
+    pages:
+    - id: 1
+      name: week_start_date
+      label: Week Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: pain_levels
+      label: pain_levels
+      hint: Enter pain levels from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: mobility_impact
+      label: mobility_impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 4
+      name: treatments
+      label: treatments
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Physical Therapy
+      - Medication
+      - Other
+      required: false
+    - id: 5
+      name: mobility_impact_duration
+      label: mobility_impact_duration
+      hint: Enter in weeks
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: pain_levels_2
+      label: pain_levels_2
+      hint: Enter pain levels from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pain_levels_2_impact
+      label: pain_levels_2_impact
+      hint: Enter impact from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: mobility_impact_2
+      label: mobility_impact_2
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 9
+      name: treatments_2
+      label: treatments_2
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Physical Therapy
+      - Medication
+      - Other
+      required: false
+    - id: 10
+      name: mobility_impact_duration_2
+      label: mobility_impact_duration_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: pain_levels_3
+      label: Week 2 Pain Levels
+      hint: Enter pain levels from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: pain_levels_3_impact
+      label: Week 2 Pain Impact
+      hint: Enter impact from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: mobility_impact_3
+      label: Week 2 Mobility Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 14
+      name: treatments_3
+      label: Week 2 Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Physical Therapy
+      - Medication
+      - Other
+      required: false
+    - id: 15
+      name: mobility_impact_duration_3
+      label: Week 2 Mobility Impact Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: pain_levels_4
+      label: Week 3 Pain Levels
+      hint: Enter pain levels from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: pain_levels_4_impact
+      label: Week 3 Pain Impact
+      hint: Enter impact from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: mobility_impact_4
+      label: Week 3 Mobility Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 19
+      name: treatments_4
+      label: Week 3 Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Physical Therapy
+      - Medication
+      - Other
+      required: false
+    - id: 20
+      name: mobility_impact_duration_4
+      label: Week 3 Mobility Impact Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: pain_levels_5
+      label: Week 4 Pain Levels
+      hint: Enter pain levels from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: pain_levels_5_impact
+      label: Week 4 Pain Impact
+      hint: Enter impact from 1-10, with 1 being low and 10 being high
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: mobility_impact_5
+      label: Week 4 Mobility Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 24
+      name: treatments_5
+      label: Week 4 Treatments
+      hint: null
+      type: select_multiple
+      options:
+      - Massage
+      - Physical Therapy
+      - Medication
+      - Other
+      required: false
+    - id: 25
+      name: mobility_impact_duration_5
+      label: Week 4 Mobility Impact Duration
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Competitor Analysis Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: analyst_name
+      label: Analyst Name
+      hint: Person preparing report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: analyst_email
+      label: Analyst Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Strategy
+      - Marketing
+      - Sales
+      - Product
+      - Business Development
+      - Competitive Intelligence
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: report_period
+      label: Report Period
+      hint: Time frame covered
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Annual
+      - Ad-hoc
+      required: true
+    - id: 6
+      name: industry_focus
+      label: Industry Focus
+      hint: Industry being analyzed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_competitor
+      label: Primary Competitor
+      hint: Main competitor name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: competitor_headquarters
+      label: Competitor Headquarters
+      hint: Location of main offices
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: competitor_founded
+      label: Competitor Founded
+      hint: Year established
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: competitor_employee_count
+      label: Competitor Employee Count
+      hint: Approximate number of employees
+      type: select_one
+      options:
+      - Under 50
+      - 50 to 200
+      - 200 to 500
+      - 500 to 1000
+      - 1000 to 5000
+      - Over 5000
+      required: true
+    - id: 11
+      name: competitor_revenue
+      label: Competitor Revenue
+      hint: Estimated annual revenue
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: market_position
+      label: Market Position
+      hint: Their market standing
+      type: select_one
+      options:
+      - Market leader
+      - Number 2
+      - Strong challenger
+      - Follower
+      - Niche player
+      - New entrant
+      required: true
+    - id: 13
+      name: product_portfolio
+      label: Product Portfolio
+      hint: Key products or services
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_market
+      label: Target Market
+      hint: Who they serve
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pricing_strategy
+      label: Pricing Strategy
+      hint: How they price
+      type: select_one
+      options:
+      - Premium pricing
+      - Value pricing
+      - Competitive pricing
+      - Discount pricing
+      - Penetration pricing
+      - Mixed strategy
+      required: true
+    - id: 16
+      name: distribution_channels
+      label: Distribution Channels
+      hint: How they reach customers
+      type: select_multiple
+      options:
+      - Direct sales
+      - Online e-commerce
+      - Retail partners
+      - Distributors
+      - Resellers
+      - Marketplaces
+      - Direct to consumer
+      - Other
+      required: true
+    - id: 17
+      name: marketing_channels
+      label: Marketing Channels
+      hint: How they market
+      type: select_multiple
+      options:
+      - Digital advertising
+      - Social media
+      - Content marketing
+      - Email marketing
+      - Events and trade shows
+      - Traditional media
+      - Public relations
+      - Influencer marketing
+      - Other
+      required: true
+    - id: 18
+      name: recent_initiatives
+      label: Recent Strategic Initiatives
+      hint: New moves or launches
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: financial_health
+      label: Financial Health
+      hint: Their financial stability
+      type: select_one
+      options:
+      - Excellent - strong growth
+      - Good - stable
+      - Fair - some concerns
+      - Poor - struggling
+      - Unknown
+      required: true
+    - id: 20
+      name: technology_capabilities
+      label: Technology Capabilities
+      hint: Their tech strengths
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: key_partnerships
+      label: Key Partnerships
+      hint: Strategic alliances
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: leadership_team
+      label: Leadership Team
+      hint: Key executives
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: competitive_threats
+      label: Competitive Threats
+      hint: Threats they pose to us
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: opportunities_for_us
+      label: Opportunities for Us
+      hint: Gaps we can exploit
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: recommended_actions
+      label: Recommended Actions
+      hint: What we should do
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is response
+      type: select_one
+      options:
+      - Critical - immediate action
+      - High - soon
+      - Medium - planned response
+      - Low - monitor
+      - No action needed
+      required: true
+    - id: 27
+      name: report_distribution
+      label: Report Distribution
+      hint: Who should receive this
+      type: select_multiple
+      options:
+      - Executive team
+      - Sales team
+      - Marketing team
+      - Product team
+      - Strategy team
+      - Board of directors
+      - Other
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

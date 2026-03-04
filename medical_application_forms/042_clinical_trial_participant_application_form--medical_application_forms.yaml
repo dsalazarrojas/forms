@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Trial Participant Application Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_interest
+      label: -- Trial Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: targeted_trial
+      label: Which clinical trial are you applying for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: interest_reason
+      label: Why are you interested in participating in this clinical trial?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_screening
+      label: -- Background Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: existing_conditions
+      label: Do you have any known medical conditions?
+      hint: Please list or type None
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_meds
+      label: Are you currently taking any prescription medications?
+      hint: Please list or type None
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: prior_trial_experience
+      label: Have you ever participated in a clinical trial before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: section_eligibility
+      label: -- Eligibility and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: visit_availability
+      label: Are you available for monthly clinic visits for the next 12 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: transport_availability
+      label: Do you have reliable transportation to the research site?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: application_acknowledgement
+      label: I understand that this is an application and does not guarantee enrollment
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I understand
+      required: true
+    - id: 16
+      name: digital_signature
+      label: Applicant Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

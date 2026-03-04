@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pranic Healing Clinic Session Record Form
+    pages:
+    - id: 1
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: practitioner_id
+      label: Practitioner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: client_id
+      label: Client ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Canceled
+      required: false
+    - id: 8
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_gender
+      label: Client Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 11
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 0-10
+      - 11-20
+      - 21-30
+      - 31-40
+      - 41-50
+      - 51-60
+      - 61-70
+      - 71+
+      required: false
+    - id: 12
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_reminders
+      label: Follow-up Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - 1 day
+      - 2-4 days
+      - 5-7 days
+      - 8-10 days
+      - Never
+      required: false
+    - id: 19
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 20
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: practitioner_signature
+      label: Practitioner Signature
+      hint: null
+      type: text
+      options: []
+      required: false

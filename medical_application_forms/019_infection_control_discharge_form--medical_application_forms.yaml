@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infection Control Discharge Form
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_identification
+      label: patient_identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: infection_control_measures
+      label: infection_control_measures
+      hint: null
+      type: select_multiple
+      options:
+      - Antimicrobial
+      - Antibacterial
+      - Antifungal
+      - Antimicrobial
+      - Antiviral
+      - Antiviral
+      required: false
+    - id: 4
+      name: antibiotic_allergy
+      label: antibiotic_allergy
+      hint: null
+      type: select_one
+      options:
+      - Penicillin
+      - Cephalosporin
+      - Vancomycin
+      - Ciprofloxacin
+      - Azilsam
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: medication_allergies
+      label: medication_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Penicillin
+      - Sulfa
+      - Amphotrcin
+      - Cephalosporin
+      required: false
+    - id: 7
+      name: discharge_date
+      label: discharge_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: physician_signature
+      label: physician_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_staff_signature
+      label: medical_staff_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: infection_control_status
+      label: infection_control_status
+      hint: null
+      type: select_one
+      options:
+      - Not at risk
+      - At risk
+      - High risk
+      required: false
+    - id: 12
+      name: follow_up_instructions
+      label: follow_up_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physician_comments
+      label: physician_comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: patient_comments
+      label: patient_comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eye Exam Form Template
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Ibuprofen
+      - Paracetamol
+      - Captopprazol
+      required: false
+    - id: 4
+      name: visual_acuity
+      label: Visual Acuity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: eye_exam_results
+      label: Eye Exam Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - Eye Exam
+      - Referral to Specialist
+      - Surgery
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_comments
+      label: Doctor Comments
+      hint: null
+      type: text
+      options: []
+      required: false

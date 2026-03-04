@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Collaboration Consent Form
+    pages:
+      - id: 1
+        name: primary_collaborator_name
+        label: Primary Collaborator Name
+        hint: Full name of primary content creator
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: primary_collaborator_email
+        label: Primary Collaborator Email
+        hint: Email address of primary collaborator
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: secondary_collaborator_name
+        label: Secondary Collaborator Name
+        hint: Full name of collaborating party
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: secondary_collaborator_email
+        label: Secondary Collaborator Email
+        hint: Email address of secondary collaborator
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: organization_name
+        label: Organization Name
+        hint: Name of organization or company
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: collaboration_start_date
+        label: Collaboration Start Date
+        hint: When does this collaboration begin?
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: collaboration_end_date
+        label: Collaboration End Date
+        hint: When does this collaboration end?
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: content_type
+        label: Type of Content
+        hint: What type of content will be created?
+        type: select_one
+        options:
+          - Blog Posts
+          - Social Media Content
+          - Video Content
+          - Podcast Episodes
+          - Graphics and Images
+          - White Papers
+          - Case Studies
+          - Multiple Types
+        required: true
+      - id: 9
+        name: content_ownership
+        label: Content Ownership
+        hint: Who will own the created content?
+        type: select_one
+        options:
+          - Primary Collaborator
+          - Secondary Collaborator
+          - Joint Ownership
+          - Organization Ownership
+          - Shared Rights
+        required: true
+      - id: 10
+        name: usage_rights
+        label: Usage Rights
+        hint: How can the content be used?
+        type: select_one
+        options:
+          - Exclusive Use
+          - Non-Exclusive Use
+          - Limited License
+          - Full Commercial Rights
+          - Editorial Use Only
+        required: true
+      - id: 11
+        name: distribution_channels
+        label: Distribution Channels
+        hint: Where will the content be distributed?
+        type: select_multiple
+        options:
+          - Company Website
+          - Social Media Platforms
+          - Email Marketing
+          - Paid Advertising
+          - Partner Websites
+          - Print Media
+          - Third-Party Platforms
+        required: true
+      - id: 12
+        name: revenue_sharing
+        label: Revenue Sharing
+        hint: Will there be revenue sharing?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - To Be Determined
+        required: true
+      - id: 13
+        name: revenue_split
+        label: Revenue Split Percentage
+        hint: If yes, what is the split percentage?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: credit_attribution
+        label: Credit Attribution
+        hint: How should collaborators be credited?
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: revision_rights
+        label: Revision Rights
+        hint: Who has the right to request revisions?
+        type: select_one
+        options:
+          - Primary Collaborator Only
+          - Secondary Collaborator Only
+          - Both Parties
+          - Organization Only
+        required: true
+      - id: 16
+        name: termination_clause
+        label: Termination Clause
+        hint: Conditions under which collaboration can be terminated
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: confidentiality_agreement
+        label: Confidentiality Agreement
+        hint: Do both parties agree to maintain confidentiality?
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 18
+        name: dispute_resolution
+        label: Dispute Resolution Method
+        hint: How will disputes be resolved?
+        type: select_one
+        options:
+          - Direct Negotiation
+          - Mediation
+          - Arbitration
+          - Legal Action
+        required: true
+      - id: 19
+        name: consent_given
+        label: Consent Given
+        hint: Do you consent to this collaboration agreement?
+        type: select_one
+        options:
+          - Yes, I Consent
+          - No, I Do Not Consent
+        required: true
+      - id: 20
+        name: signature_date
+        label: Signature Date
+        hint: Date of agreement
+        type: date
+        options: []
+        required: true
+      - id: 21
+        name: additional_terms
+        label: Additional Terms
+        hint: Any other terms or conditions
+        type: text
+        options: []
+        required: false

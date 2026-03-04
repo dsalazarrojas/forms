@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake Form For Video Advertising
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: section_goals
+      label: -- Campaign Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: video_objective
+      label: What is the primary objective of this video?
+      hint: null
+      type: select_one
+      options:
+      - Brand Awareness
+      - Lead Generation
+      - Product Launch
+      - Educational
+      - Event Promotion
+      required: true
+    - id: 6
+      name: target_audience
+      label: Who is the target audience for this campaign?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: core_message
+      label: Core Message - What is the one thing the audience should remember?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_technical
+      label: -- Technical Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: video_length
+      label: Preferred Video Length
+      hint: null
+      type: select_one
+      options:
+      - 15 seconds
+      - 30 seconds
+      - 60 seconds
+      - 2-3 minutes
+      - 5+ minutes
+      required: false
+    - id: 10
+      name: video_formats
+      label: Preferred Video Formats
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 16-9 Widescreen
+      - 9-16 Vertical
+      - 1-1 Square
+      required: true
+    - id: 11
+      name: delivery_deadline
+      label: Desired Delivery Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: production_budget
+      label: Estimated Budget for Video Production
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_creative
+      label: -- Creative Direction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: video_tone
+      label: Desired Tone for the Video
+      hint: null
+      type: select_one
+      options:
+      - Professional
+      - Humorous
+      - Inspirational
+      - Energetic
+      - Minimalist
+      required: false
+    - id: 15
+      name: existing_assets
+      label: Existing Assets - e.g. logos, brand guides, raw footage
+      hint: null
+      type: text
+      options: []
+      required: false

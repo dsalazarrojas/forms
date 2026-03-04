@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Intake Form
+    pages:
+    - id: 1
+      name: website_name
+      label: Website Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: website_type
+      label: Website Type
+      hint: null
+      type: select_one
+      options:
+      - Web Development
+      - E-commerce
+      - Blogging
+      - Landing Page
+      required: false
+    - id: 7
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: text_area
+      label: Text Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

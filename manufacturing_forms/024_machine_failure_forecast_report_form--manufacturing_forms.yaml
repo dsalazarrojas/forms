@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Machine Failure Forecast Report Form
+    pages:
+    - id: 1
+      name: machine_failure_forecast_report_form_title
+      label: Machine Failure Forecast Report Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: predicted_failure_date
+      label: Predicted Failure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: predicted_failure_time
+      label: Predicted Failure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: machine_id
+      label: Machine ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: machine_model
+      label: Machine Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: machine_serial_number
+      label: Machine Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: machine_name
+      label: Machine Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: forecast_category
+      label: Forecast Category
+      hint: null
+      type: select_one
+      options:
+      - Machine
+      - Tool
+      - Equipment
+      - Other
+      required: true
+    - id: 9
+      name: failure_rate
+      label: Failure Rate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: failure_reason
+      label: Failure Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: forecasted_failure_date
+      label: Forecasted Failure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: forecasted_failure_time
+      label: Forecasted Failure Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: next_service
+      label: Next Service
+      hint: null
+      type: select_multiple
+      options:
+      - Every 1 month
+      - Every 2 months
+      - Every 3 months
+      - Never
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: true

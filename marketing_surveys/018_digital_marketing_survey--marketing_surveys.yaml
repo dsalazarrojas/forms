@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Survey
+    pages:
+    - id: 1
+      name: intro
+      label: What is the most popular social media platform?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Facebook''}'
+      - '{''id'': 2, ''label'': ''Twitter''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      required: true
+    - id: 2
+      name: intro2
+      label: How often do you use the internet?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Everyday''}'
+      - '{''id'': 2, ''label'': ''Several times a week''}'
+      - '{''id'': 3, ''label'': ''Several times a month''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      required: true
+    - id: 3
+      name: intro3
+      label: What is your job role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Customer''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Employee''}'
+      - '{''id'': 4, ''label'': ''Student''}'
+      required: true
+    - id: 4
+      name: intro4
+      label: Which social media platform do you use most frequently?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Facebook''}'
+      - '{''id'': 2, ''label'': ''Twitter''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: intro5
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: intro6
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: intro7
+      label: How often do you use email?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Everyday''}'
+      - '{''id'': 2, ''label'': ''Several times a week''}'
+      - '{''id'': 3, ''label'': ''Several times a month''}'
+      - '{''id'': 4, ''label'': ''Rarely''}'
+      required: true
+    - id: 8
+      name: intro8
+      label: What is your job role in the company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Customer''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Employee''}'
+      - '{''id'': 4, ''label'': ''Student''}'
+      required: true

@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Research Collaboration Experience Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: professional_role
+        label: Your Professional Role in this Collaboration
+        hint: null
+        type: select_one
+        options: [Lead Investigator, Study Coordinator, Data Analyst, Clinical Partner]
+        required: true
+      - id: 3
+        name: section_collaboration
+        label: -- Collaboration Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: partner_organization
+        label: Primary Partner Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: partner_type
+        label: Partner Organization Type
+        hint: null
+        type: select_one
+        options: [Academic, Industry, Healthcare Provider, Non-Profit]
+        required: true
+      - id: 6
+        name: collaboration_duration
+        label: Duration of Collaboration to Date
+        hint: null
+        type: select_one
+        options: [Less than 1 year, 1-3 years, Over 3 years]
+        required: false
+      - id: 7
+        name: section_ratings
+        label: -- Experience Ratings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: communication_rating
+        label: Rate the clarity of communication with partners
+        hint: 1 - Poor to 5 - Excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 9
+        name: goal_alignment_rating
+        label: Rate the alignment of research goals between parties
+        hint: 1 - Poor to 5 - Excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 10
+        name: data_sharing_efficiency
+        label: Efficiency of research data sharing processes
+        hint: 1 - Poor to 5 - Excellent
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 11
+        name: overall_satisfaction
+        label: Overall satisfaction with the collaboration experience
+        hint: 1 - Dissatisfied to 5 - Very Satisfied
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 12
+        name: section_qualitative
+        label: -- Qualitative Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: success_aspects
+        label: What were the most successful aspects of this partnership?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: hurdles_faced
+        label: What were the biggest hurdles or frustrations during the project?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: future_collaboration_intent
+        label: Would you collaborate with this partner again on future studies?
+        hint: null
+        type: select_one
+        options: [Yes, No, Maybe]
+        required: false
+      - id: 16
+        name: recommendations
+        label: Recommendations for improving future collaborations
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Tag Management Form
+    pages:
+      - id: 1
+        name: header
+        label: Contact Tag Management Request
+        hint: Submit your tagging request
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Marketing
+          - Sales
+          - Customer Support
+          - Operations
+          - IT
+          - Other
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: request_date
+        label: Request Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: request_type
+        label: Type of Request
+        hint: Select one
+        type: select_one
+        options:
+          - Add New Tag
+          - Modify Existing Tag
+          - Remove Tag
+          - Bulk Tag Update
+          - Tag Audit Request
+        required: true
+      - id: 7
+        name: contact_segment
+        label: Contact Segment
+        hint: Which segment
+        type: select_one
+        options:
+          - Leads
+          - Customers
+          - Prospects
+          - Partners
+          - All Contacts
+        required: true
+      - id: 8
+        name: tag_name
+        label: Tag Name
+        hint: Proposed tag name
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: tag_category
+        label: Tag Category
+        hint: Tag classification
+        type: select_one
+        options:
+          - Demographic
+          - Behavioral
+          - Engagement
+          - Purchase History
+          - Campaign
+          - Custom
+        required: true
+      - id: 10
+        name: tag_description
+        label: Tag Description
+        hint: Purpose of tag
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: criteria
+        label: Tagging Criteria
+        hint: When to apply this tag
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: automation
+        label: Should Tag Be Applied Automatically
+        hint: Automation preference
+        type: select_one
+        options:
+          - Yes - Fully Automated
+          - Yes - With Review
+          - No - Manual Only
+        required: true
+      - id: 13
+        name: affected_systems
+        label: Affected Systems
+        hint: Where tag should sync
+        type: select_multiple
+        options:
+          - CRM
+          - Email Platform
+          - Marketing Automation
+          - Analytics
+          - Customer Support
+          - E-commerce
+        required: true
+      - id: 14
+        name: priority
+        label: Request Priority
+        hint: How urgent
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 15
+        name: implementation_date
+        label: Desired Implementation Date
+        hint: When needed
+        type: date
+        options: []
+        required: false
+      - id: 16
+        name: stakeholders
+        label: Other Stakeholders
+        hint: Who else should know
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other info
+        type: text
+        options: []
+        required: false

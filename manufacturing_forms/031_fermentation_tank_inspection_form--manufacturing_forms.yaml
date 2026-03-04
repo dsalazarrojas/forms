@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fermentation Tank Inspection Form
+    pages:
+    - id: 1
+      name: tank_id
+      label: Tank Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tank_name
+      label: Tank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tank_type
+      label: Tank Type
+      hint: null
+      type: select_one
+      options:
+      - Fermentation
+      - Aging
+      - Storage
+      required: false
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_cleaned
+      label: Last Cleaned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_cleaning_due
+      label: Next Cleaning Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tank_status
+      label: Tank Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Offline
+      required: false
+    - id: 10
+      name: temperature_reading
+      label: Temperature Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ph_reading
+      label: PH Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: volume_level
+      label: Volume Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tank_capacity
+      label: Tank Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: last_inspection_result
+      label: Last Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - N/A
+      required: false
+    - id: 15
+      name: last_inspection_by
+      label: Last Inspection By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: last_cleaning_date
+      label: Last Cleaning Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_cleaning_due_date
+      label: Next Cleaning Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tank_condition
+      label: Tank Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      - N/A
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: tank_size
+      label: Tank Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: tank_depth
+      label: Tank Depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: tank_width
+      label: Tank Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: tank_length
+      label: Tank Length
+      hint: null
+      type: number
+      options: []
+      required: false

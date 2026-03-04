@@ -1,0 +1,224 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Perception and Consumer Insights Survey
+    pages:
+      - id: 1
+        name: respondent_age
+        label: Age Range
+        hint: Select your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 2
+        name: respondent_gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: true
+      - id: 3
+        name: respondent_location
+        label: Location
+        hint: Where do you live
+        type: select_one
+        options:
+          - United States
+          - Canada
+          - United Kingdom
+          - Europe
+          - Asia
+          - Australia
+          - South America
+          - Africa
+        required: true
+      - id: 4
+        name: household_income
+        label: Household Income
+        hint: Annual household income range
+        type: select_one
+        options:
+          - Under $25,000
+          - $25,000 to $49,999
+          - $50,000 to $74,999
+          - $75,000 to $99,999
+          - $100,000 to $149,999
+          - $150,000+
+        required: false
+      - id: 5
+        name: brand_awareness
+        label: Brand Awareness
+        hint: Have you heard of this brand before
+        type: select_one
+        options:
+          - Yes, Very Familiar
+          - Yes, Somewhat Familiar
+          - Heard of It But Not Familiar
+          - No, Never Heard of It
+        required: true
+      - id: 6
+        name: brand_associations
+        label: Brand Associations
+        hint: What words come to mind when you think of this brand
+        type: select_multiple
+        options:
+          - Quality
+          - Affordable
+          - Premium
+          - Innovative
+          - Trustworthy
+          - Outdated
+          - Reliable
+          - Trendy
+          - Professional
+          - Friendly
+        required: true
+      - id: 7
+        name: purchase_likelihood
+        label: Purchase Likelihood
+        hint: How likely are you to purchase from this brand
+        type: select_one
+        options:
+          - Very Likely
+          - Somewhat Likely
+          - Neutral
+          - Somewhat Unlikely
+          - Very Unlikely
+        required: true
+      - id: 8
+        name: brand_preference
+        label: Brand Preference
+        hint: Is this brand your first choice
+        type: select_one
+        options:
+          - Always My First Choice
+          - Often My First Choice
+          - Sometimes Consider
+          - Rarely Consider
+          - Never Consider
+        required: true
+      - id: 9
+        name: perceived_quality
+        label: Perceived Quality
+        hint: How would you rate the perceived quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: perceived_value
+        label: Perceived Value
+        hint: How would you rate the value for money
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 11
+        name: brand_trust
+        label: Brand Trust
+        hint: How much do you trust this brand
+        type: select_one
+        options:
+          - Trust Completely
+          - Trust Mostly
+          - Neutral
+          - Distrust Mostly
+          - Distrust Completely
+        required: true
+      - id: 12
+        name: recommendation_likelihood
+        label: Recommendation Likelihood
+        hint: How likely to recommend to others
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 13
+        name: competitor_comparison
+        label: Compared to Competitors
+        hint: How does this brand compare
+        type: select_one
+        options:
+          - Much Better
+          - Better
+          - About the Same
+          - Worse
+          - Much Worse
+        required: true
+      - id: 14
+        name: purchase_channels
+        label: Preferred Purchase Channels
+        hint: Where would you buy this brand
+        type: select_multiple
+        options:
+          - Brand Website
+          - Amazon
+          - Retail Stores
+          - Social Media
+          - Mobile App
+          - Marketplace
+          - Direct Sales
+        required: true
+      - id: 15
+        name: marketing_effectiveness
+        label: Marketing Message Resonance
+        hint: Do the marketing messages resonate with you
+        type: select_one
+        options:
+          - Strongly Resonate
+          - Somewhat Resonate
+          - Neutral
+          - Do Not Resonate
+          - Strongly Disagree
+        required: true
+      - id: 16
+        name: improvement_suggestions
+        label: What Could This Brand Improve
+        hint: Your suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: follow_up_interest
+        label: Interested in Follow-Up Research
+        hint: Would you participate in future studies
+        type: select_one
+        options:
+          - Yes, Interested
+          - No, Not Interested
+        required: true

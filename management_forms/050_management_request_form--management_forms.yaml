@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Management Request Form
+    pages:
+    - id: 1
+      name: form_name
+      label: form name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: departmental_request
+      label: departmental request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: request_date
+      label: request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: request_time
+      label: request time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: requestor
+      label: requestor
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - Marketing
+      - Sales
+      required: true
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: request_details
+      label: request details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_time
+      label: follow up time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_details
+      label: follow up details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 13
+      name: assigned_date
+      label: assigned date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: assigned_time
+      label: assigned time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: completed_date
+      label: completed date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: completed_time
+      label: completed time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: prophets_and_ideas
+      label: prophets and ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: requestor
+      label: requestor
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 20
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - Marketing
+      - Sales
+      required: false
+    - id: 21
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_time
+      label: follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_details
+      label: follow up details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: assigned
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

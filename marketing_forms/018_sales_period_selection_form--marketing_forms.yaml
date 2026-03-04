@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Period Selection Form
+    pages:
+    - id: 1
+      name: sales_period_selection_form_sales_periods
+      label: Sales Periods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_period_type
+      label: Select Period Type
+      hint: null
+      type: select_one
+      options:
+      - Week
+      - Month
+      - Quarter
+      - Season
+      - Year
+      required: false
+    - id: 3
+      name: select_sales_period
+      label: Sales Period
+      hint: null
+      type: select_multiple
+      options:
+      - First
+      - Second
+      - Third
+      - Last
+      required: false
+    - id: 4
+      name: select_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: select_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: select_sales_period_frequency
+      label: Sales Period Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 7
+      name: select_sales_period_start_date
+      label: Sales Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: select_sales_period_end_date
+      label: Sales Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: select_sales_period_frequency_frequency
+      label: Sales Period Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: select_sales_period_frequency_unit
+      label: Sales Period Unit
+      hint: null
+      type: select_one
+      options:
+      - Days
+      - Weeks
+      - Months
+      - Quarters
+      - Years
+      required: false
+    - id: 11
+      name: select_sales_period_start_time
+      label: Sales Period Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: select_sales_period_end_time
+      label: Sales Period End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: select_sales_period_start_date_format
+      label: Sales Period Start Date Format
+      hint: null
+      type: select_one
+      options:
+      - YYYY
+      - MM-YYYY
+      - DD-MM-YYYY
+      required: false
+    - id: 14
+      name: select_sales_period_end_date_format
+      label: Sales Period End Date Format
+      hint: null
+      type: select_one
+      options:
+      - YYYY
+      - MM-YYYY
+      - DD-MM-YYYY
+      required: false

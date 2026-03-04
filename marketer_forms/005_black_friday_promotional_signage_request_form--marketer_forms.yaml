@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Promotional Signage Request Form
+    pages:
+    - id: 1
+      name: signage_request_header
+      label: -- Signage Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of the marketing contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department requesting signage
+      type: select_one
+      options:
+      - Marketing
+      - Store operations
+      - Visual merchandising
+      required: true
+    - id: 4
+      name: email
+      label: Contact email
+      hint: For proof approval and coordination
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: signage_type
+      label: Signage type
+      hint: Choose the required signage format
+      type: select_one
+      options:
+      - Window poster
+      - Shelf wobbler
+      - Floor decal
+      - Banner
+      required: true
+    - id: 6
+      name: quantity_required
+      label: Quantity required
+      hint: Number of signs needed
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: required_by_date
+      label: Required by date
+      hint: Date signage must be installed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: store_locations
+      label: Store locations
+      hint: Which stores need signage
+      type: select_multiple
+      options:
+      - All stores
+      - Regional stores
+      - Specific stores
+      required: true
+    - id: 9
+      name: artwork_notes
+      label: Artwork notes
+      hint: Provide artwork file names or instructions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_signature
+      label: Approval signature name
+      hint: Name of approver
+      type: text
+      options: []
+      required: true

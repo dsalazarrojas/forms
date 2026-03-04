@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: prescriber_survey_substance_use_disorder
+    pages:
+    - id: 1
+      name: prescriber_survey
+      label: prescriber_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: barrier
+      label: barrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: mat_use
+      label: mat_use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: barrier_education
+      label: barrier_education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: providers
+      label: providers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: interest
+      label: interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: education_need
+      label: education_need
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

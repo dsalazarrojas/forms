@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Survey
+    pages:
+    - id: 1
+      name: customer_loyalty_survey_form
+      label: customer_loyalty_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: customer_satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''satisfied'', ''label'': ''satisfied''}'
+      - '{''id'': 3, ''name'': ''not_satisfied'', ''label'': ''not_satisfied''}'
+      - '{''id'': 4, ''name'': ''very_unsatisfied'', ''label'': ''very_unhappy''}'
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_loyalty_program
+      label: customer_loyalty_program
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''customer_loyalty_program'', ''label'': ''customer_loyalty_program''}'
+      - '{''id'': 2, ''name'': ''customer_loyalty_program'', ''label'': ''customer_loyalty_program''}'
+      - '{''id'': 3, ''name'': ''customer_loyalty_program'', ''label'': ''customer_loyalty_program''}'
+      required: false
+    - id: 7
+      name: date_of_last_purchase
+      label: date_of_last_purchase
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_last_purchase
+      label: time_of_last_purchase
+      hint: null
+      type: time
+      options: []
+      required: true

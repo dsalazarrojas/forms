@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anagram Prize Giveaway Entry
+    pages:
+    - id: 1
+      name: section_entry
+      label: -- Giveaway Entry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entrant_name
+      label: Entrant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For prize notification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: anagram_answer
+      label: Anagram answer
+      hint: Submit your answer to the puzzle
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: source_of_entry
+      label: How did you hear about the giveaway
+      hint: Select an option
+      type: select_one
+      options: [Social media, Newsletter, Friend]
+      required: false
+    - id: 6
+      name: opt_in_marketing
+      label: Opt in to marketing
+      hint: Receive promotional emails
+      type: select_one
+      options: [Yes, No]
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Optional message
+      type: text
+      options: []
+      required: false

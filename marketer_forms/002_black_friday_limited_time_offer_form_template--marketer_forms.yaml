@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Limited Time Offer Form Template
+    pages:
+      - id: 1
+        name: header
+        label: -- Offer Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: business_name
+        label: Business name
+        hint: Company hosting the offer
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_email
+        label: Contact email
+        hint: For campaign coordination
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: offer_title
+        label: Offer title
+        hint: Short name for the limited time offer
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: offer_description
+        label: Offer description
+        hint: Describe the promotion and conditions
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: start_date
+        label: Offer start date
+        hint: Date when the offer begins
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: end_date
+        label: Offer end date
+        hint: Date when the offer ends
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: eligible_products
+        label: Eligible products
+        hint: List or select product categories
+        type: select_multiple
+        options:
+          - Electronics
+          - Apparel
+          - Home goods
+          - Beauty
+          - All products
+        required: true
+      - id: 9
+        name: redemption_method
+        label: Redemption method
+        hint: How customers redeem this offer
+        type: select_one
+        options:
+          - Online code
+          - In store present coupon
+          - Automatic at checkout
+        required: true
+      - id: 10
+        name: notes
+        label: Internal notes
+        hint: Use for campaign manager instructions
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre_lab_test_intake_form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history_date
+      label: Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: lab_test_information
+      label: Lab Test Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_ordering
+      label: Test Ordering
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lab_results
+      label: Lab Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_ordering_other
+      label: Test Ordering Other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - Gastroenterology
+      - Nephrology
+      - Neurology
+      - Pulmonology
+      - Rheumatology
+      - Urology
+      required: false
+    - id: 10
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: test_ordering_date
+      label: Test Ordering Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: test_frequency
+      label: Test Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Cancelled
+      - Pending
+      required: false
+    - id: 16
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_result_notes
+      label: Test Result Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: test_frequency_note
+      label: Test Frequency Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_practitioner_name
+      label: Medical Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: test_status_other
+      label: Test Status Other
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: test_frequency_other
+      label: Test Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false

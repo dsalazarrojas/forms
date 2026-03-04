@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Reinstallation Request Form
+    pages:
+    - id: 1
+      name: requestor_info
+      label: Requestor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_id
+      label: Property Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reinstallation_request_info
+      label: Reinstallation Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reinstallation_reason
+      label: Reinstallation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reinstallation_description
+      label: Reinstallation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reinstallation_date
+      label: Reinstallation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: visit_request
+      label: Visit Request
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      - '1080'
+      - '1140'
+      - '1200'
+      - '1260'
+      - '1320'
+      - '1380'
+      - '1440'
+      required: false
+    - id: 9
+      name: visit_request_time
+      label: Visit Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: work_details
+      label: Work Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Canceled
+      - Not Scheduled
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjohn
+      - chatjane
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Yes (with Email)
+      required: false
+    - id: 15
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 19
+      name: property_manager_phone
+      label: Property Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_manager_email
+      label: Property Manager Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 22
+      name: property_owner_phone
+      label: Property Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_owner_email
+      label: Property Owner Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fire_alarm_system_manufacturer
+      label: Fire Alarm System Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Performance Modeling Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_name
+      label: Department or Division
+      hint: Which department?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: modeling_purpose
+      label: Purpose of Modeling
+      hint: What do you want to model?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_objectives
+      label: Business Objectives
+      hint: What are your goals?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_metrics
+      label: Current Performance Metrics
+      hint: What metrics are you tracking?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: key_variables
+      label: Key Variables to Model
+      hint: What variables matter most?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: data_availability
+      label: Data Availability
+      hint: Do you have necessary data?
+      type: select_one
+      options:
+      - Yes, Fully Available
+      - Mostly Available
+      - Partially Available
+      - Not Available
+      required: true
+    - id: 12
+      name: available_documents
+      label: Available Documents
+      hint: What documents can you provide?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: budget_constraints
+      label: Budget Constraints
+      hint: Any budget limitations?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: timeline_requirements
+      label: Timeline Requirements
+      hint: When do you need results?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: complexity_level
+      label: Complexity Level Needed
+      hint: How complex should the model be?
+      type: select_one
+      options:
+      - Simple
+      - Moderate
+      - Complex
+      - Very Complex
+      required: true
+    - id: 16
+      name: stakeholders
+      label: Key Stakeholders
+      hint: Who needs to be involved?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What do you expect to learn?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_for_questions
+      label: Best Contact for Questions
+      hint: Who should we ask questions?
+      type: text
+      options: []
+      required: true

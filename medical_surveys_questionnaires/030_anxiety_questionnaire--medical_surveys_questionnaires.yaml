@@ -1,0 +1,339 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anxiety Questionnaire
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID
+      hint: Optional identifier
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questionnaire_date
+      label: Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Your age in years
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to self-describe
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: occupation
+      label: Occupation
+      hint: Your current occupation
+      type: select_one
+      options:
+      - Student
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Retired
+      - Homemaker
+      - Other
+      required: true
+    - id: 6
+      name: anxiety_duration
+      label: How long have you experienced anxiety
+      hint: Duration of symptoms
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1 to 6 months
+      - 6 months to 1 year
+      - 1 to 5 years
+      - More than 5 years
+      required: true
+    - id: 7
+      name: anxiety_frequency
+      label: How often do you feel anxious
+      hint: Frequency of anxiety
+      type: select_one
+      options:
+      - Constantly
+      - Daily
+      - Several times a week
+      - Once a week
+      - A few times a month
+      - Rarely
+      required: true
+    - id: 8
+      name: anxiety_severity
+      label: How severe is your anxiety
+      hint: Rate the severity
+      type: select_one
+      options:
+      - Very mild
+      - Mild
+      - Moderate
+      - Severe
+      - Very severe
+      required: true
+    - id: 9
+      name: physical_symptoms
+      label: Physical Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rapid heartbeat
+      - Sweating
+      - Trembling or shaking
+      - Shortness of breath
+      - Chest tightness
+      - Nausea
+      - Dizziness
+      - Headaches
+      - Muscle tension
+      - Fatigue
+      - Sleep problems
+      - None
+      required: true
+    - id: 10
+      name: emotional_symptoms
+      label: Emotional Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Excessive worry
+      - Fear of losing control
+      - Feeling overwhelmed
+      - Irritability
+      - Restlessness
+      - Difficulty concentrating
+      - Feeling detached
+      - Catastrophic thinking
+      - None
+      required: true
+    - id: 11
+      name: anxiety_triggers
+      label: Common Anxiety Triggers
+      hint: What triggers your anxiety
+      type: select_multiple
+      options:
+      - Work or school
+      - Social situations
+      - Health concerns
+      - Financial issues
+      - Relationships
+      - Family responsibilities
+      - Traumatic memories
+      - Uncertainty
+      - Crowds
+      - Specific phobias
+      - No specific triggers
+      - Other
+      required: true
+    - id: 12
+      name: panic_attacks
+      label: Have you experienced panic attacks
+      hint: Sudden intense fear episodes
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Yes, once or twice
+      - No, never
+      - Not sure
+      required: true
+    - id: 13
+      name: avoidance_behaviors
+      label: Do you avoid situations due to anxiety
+      hint: Avoidance behaviors
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: daily_life_impact
+      label: How much does anxiety impact daily life
+      hint: Impact on functioning
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 15
+      name: work_school_impact
+      label: Impact on Work or School
+      hint: How does anxiety affect performance
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Unable to work or attend school
+      required: true
+    - id: 16
+      name: relationship_impact
+      label: Impact on Relationships
+      hint: How does anxiety affect relationships
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact
+      required: true
+    - id: 17
+      name: sleep_quality
+      label: Sleep Quality
+      hint: How well do you sleep
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 18
+      name: coping_strategies
+      label: Coping Strategies Used
+      hint: What do you do to cope
+      type: select_multiple
+      options:
+      - Exercise
+      - Deep breathing
+      - Meditation or mindfulness
+      - Talking to friends or family
+      - Journaling
+      - Listening to music
+      - Reading
+      - Substance use
+      - None
+      - Other
+      required: true
+    - id: 19
+      name: professional_help
+      label: Have you sought professional help
+      hint: For anxiety
+      type: select_one
+      options:
+      - Currently receiving help
+      - Have received help in the past
+      - Considering seeking help
+      - No, not seeking help
+      required: true
+    - id: 20
+      name: type_of_help
+      label: Type of Help Received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Therapy or counseling
+      - Psychiatric medication
+      - Primary care physician
+      - Support groups
+      - Self-help resources
+      - Alternative therapies
+      - None
+      required: false
+    - id: 21
+      name: medication_current
+      label: Are you currently taking medication for anxiety
+      hint: Current medication
+      type: select_one
+      options:
+      - true
+      - false
+      - Previously, not currently
+      required: true
+    - id: 22
+      name: therapy_current
+      label: Are you currently in therapy
+      hint: Current therapy
+      type: select_one
+      options:
+      - true
+      - false
+      - Previously, not currently
+      required: true
+    - id: 23
+      name: support_system
+      label: Do you have a support system
+      hint: People you can talk to
+      type: select_one
+      options:
+      - Strong support system
+      - Some support
+      - Limited support
+      - No support system
+      required: true
+    - id: 24
+      name: substance_use
+      label: Do you use substances to cope
+      hint: Alcohol, drugs, etc.
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 25
+      name: family_history
+      label: Family History of Anxiety
+      hint: Does anyone in your family have anxiety
+      type: select_one
+      options:
+      - Yes, immediate family
+      - Yes, extended family
+      - false
+      - Not sure
+      required: true
+    - id: 26
+      name: previous_diagnosis
+      label: Have you been diagnosed with anxiety
+      hint: By a healthcare professional
+      type: select_one
+      options:
+      - Yes, generalized anxiety disorder
+      - Yes, social anxiety disorder
+      - Yes, panic disorder
+      - Yes, specific phobia
+      - Yes, other anxiety disorder
+      - false
+      - Not sure
+      required: true
+    - id: 27
+      name: goals_for_treatment
+      label: What are your goals for managing anxiety
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

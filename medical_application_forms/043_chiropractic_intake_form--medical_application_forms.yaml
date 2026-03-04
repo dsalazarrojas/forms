@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Intake Form
+    pages:
+    - id: 1
+      name: patient_full_name
+      label: Patient Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: Phone and email for appointments
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For medical records
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_medications
+      label: Current Medications
+      hint: List medications and dosages
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: Relevant past medical history
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: symptoms_description
+      label: Description of Symptoms
+      hint: Where and how symptoms occur
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prior_treatments
+      label: Prior Treatments Tried
+      hint: Any previous therapies or surgeries
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_info
+      label: Insurance Information
+      hint: Provider and policy number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_treatment
+      label: Consent to Treatment
+      hint: Agree to chiropractic treatment plan
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true

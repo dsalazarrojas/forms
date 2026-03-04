@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: support_leadership_continuity_form
+    pages:
+    - id: 1
+      name: succession_status
+      label: succession status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''successor Identified'', ''value'': ''successor_identified''}'
+      - '{''id'': 2, ''label'': ''No Successor Identified'', ''value'': ''no_successor_identified''}'
+      - '{''id'': 3, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 2
+      name: potential_successors
+      label: potential successors
+      hint: list of individuals who could potentially be a good fit if a vacancy occurs
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Successors 1'', ''value'': ''successors_1''}'
+      - '{''id'': 2, ''label'': ''Successors 2'', ''value'': ''successors_2''}'
+      - '{''id'': 3, ''label'': ''Successors 3'', ''value'': ''successors_3''}'
+      required: false
+    - id: 3
+      name: resource_needs
+      label: resource needs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: next_steps
+      label: next steps
+      hint: what are the next steps for each identified successor
+      type: text
+      options: []
+      required: false

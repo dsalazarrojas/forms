@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Centered Medical Home Survey
+    pages:
+    - id: 1
+      name: patient_centered_medical_home_survey
+      label: Patient Centered Medical Home Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_category
+      label: medical_surveys_questionnaires
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''medical_surveys_questionnaires'', ''label'': ''Medical
+        Surveys & Questionnaires'', ''value'': ''medical_surveys_questionnaires''}'
+      - '{''id'': 2, ''name'': ''healthcare_surveys'', ''label'': ''Healthcare Surveys'',
+        ''value'': ''healthcare_surveys''}'
+      - '{''id'': 3, ''name'': ''others'', ''label'': ''Others'', ''value'': ''others''}'
+      required: false
+    - id: 3
+      name: survey_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''034_patient_centered_medical_home_survey--medical_surveys_questionnaires'',
+        ''label'': ''034_patient_centered_medical_home_survey--medical_surveys_questionnaires'',
+        ''value'': ''034_patient_centered_medical_home_survey--medical_surveys_questionnaires''}'
+      - '{''id'': 2, ''name'': ''034_patient_centered_medical_home_survey--healthcare_surveys'',
+        ''label'': ''034_patient_centered_medical_home_survey--healthcare_surveys'',
+        ''value'': ''034_patient_centered_medical_home_survey--healthcare_surveys''}'
+      - '{''id'': 3, ''name'': ''034_patient_centered_medical_home_survey--others'',
+        ''label'': ''034_patient_centered_medical_home_survey--others'', ''value'':
+        ''034_patient_centered_medical_home_survey--others''}'
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy'', ''value'':
+        ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''another_tool'', ''label'': ''another_tool'', ''value'':
+        ''another_tool''}'
+      required: false
+    - id: 6
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_comments
+      label: survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: patient_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''male'', ''label'': ''Male'', ''value'': ''male''}'
+      - '{''id'': 2, ''name'': ''female'', ''label'': ''Female'', ''value'': ''female''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: patient_race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''white'', ''label'': ''White'', ''value'': ''white''}'
+      - '{''id'': 2, ''name'': ''black'', ''label'': ''Black'', ''value'': ''black''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 13
+      name: patient_ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''not_specified'', ''label'': ''Not Specified'', ''value'':
+        ''not_specified''}'
+      - '{''id'': 2, ''name'': ''not_available'', ''label'': ''Not Available'', ''value'':
+        ''not_available''}'
+      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 14
+      name: patient_language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''not_specified'', ''label'': ''Not Specified'', ''value'':
+        ''not_specified''}'
+      - '{''id'': 2, ''name'': ''english'', ''label'': ''English'', ''value'': ''english''}'
+      - '{''id'': 3, ''name'': ''not_available'', ''label'': ''Not Available'', ''value'':
+        ''not_available''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other'', ''value'': ''other''}'
+      - '{''id'': 5, ''name'': ''spanish'', ''label'': ''Spanish'', ''value'': ''spanish''}'
+      - '{''id'': 6, ''name'': ''chinese'', ''label'': ''Chinese'', ''value'': ''chinese''}'
+      - '{''id'': 7, ''name'': ''french'', ''label'': ''French'', ''value'': ''french''}'
+      - '{''id'': 8, ''name'': ''arabic'', ''label'': ''Arabic'', ''value'': ''arabic''}'
+      - '{''id'': 9, ''name'': ''hindi'', ''label'': ''Hindi'', ''value'': ''hindi''}'
+      - '{''id'': 10, ''name'': ''korean'', ''label'': ''Korean'', ''value'': ''korean''}'
+      - '{''id'': 11, ''name'': ''other'', ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 15
+      name: survey_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

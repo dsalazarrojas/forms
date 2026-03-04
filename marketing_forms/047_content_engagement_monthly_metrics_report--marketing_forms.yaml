@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Engagement Monthly Metrics Report
+    pages:
+    - id: 1
+      name: section_report_info
+      label: -- Monthly Metrics Details --
+      hint: Please complete this report for each month of content engagement.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_month
+      label: Month of the Report
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: true
+    - id: 3
+      name: report_year
+      label: Year of the Report
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: section_engagement_metrics
+      label: -- Engagement and Performance Metrics --
+      hint: Please share engagement metrics for each content channel.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: total_website_traffic
+      label: Total Website Traffic for the Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: social_media_engagement_total
+      label: Total Social Media Engagement (Likes, Shares, Comments)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: email_open_rate_percentage
+      label: Average Email Open Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: click_through_rate_percentage
+      label: Average Click-Through Rate (CTR) (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_channel_performance
+      label: -- Channel Performance and Insights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_performing_channel
+      label: Primary Performing Channel for the Month
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Website
+      - SEO
+      - Paid Search
+      - Referral
+      - Other
+      required: true
+    - id: 11
+      name: key_engagement_insights
+      label: Key Insights and Lessons Learned for the Month
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_confirmation
+      label: -- Confirmation and Reporting --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: metrics_report_completed
+      label: Metrics Report Completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 15
+      name: privacy_agreement
+      label: I have read and agree to the privacy policy regarding my data
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: report_submission_date
+      label: Date of Report Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: report_analyst_name
+      label: Analyst Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

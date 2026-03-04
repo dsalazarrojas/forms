@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Creation Feedback Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name (optional)
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Respondent Email
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: survey_date
+        label: Survey Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: content_type_reviewed
+        label: Content Type Reviewed
+        hint: What type of content are you reviewing?
+        type: select_one
+        options:
+          - Blog Post
+          - Social Media Content
+          - Video Content
+          - Podcast Episode
+          - Graphic Design
+          - Email Campaign
+          - Website Content
+          - Other
+        required: true
+      - id: 5
+        name: project_name
+        label: Project Name
+        hint: Name of the content project
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: content_quality_rating
+        label: Content Quality Rating
+        hint: How would you rate the overall quality?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: message_clarity
+        label: Message Clarity
+        hint: How clear is the main message?
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Somewhat Clear
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 8
+        name: visual_appeal
+        label: Visual Appeal
+        hint: How appealing are the visuals?
+        type: select_one
+        options:
+          - Very Appealing
+          - Appealing
+          - Neutral
+          - Unappealing
+          - Very Unappealing
+        required: true
+      - id: 9
+        name: tone_appropriateness
+        label: Tone Appropriateness
+        hint: Is the tone appropriate for the audience?
+        type: select_one
+        options:
+          - Very Appropriate
+          - Appropriate
+          - Somewhat Appropriate
+          - Inappropriate
+          - Very Inappropriate
+        required: true
+      - id: 10
+        name: engagement_level
+        label: Engagement Level
+        hint: How engaging is the content?
+        type: select_one
+        options:
+          - Very Engaging
+          - Engaging
+          - Neutral
+          - Boring
+          - Very Boring
+        required: true
+      - id: 11
+        name: brand_alignment
+        label: Brand Alignment
+        hint: How well does it align with brand identity?
+        type: select_one
+        options:
+          - Perfect Alignment
+          - Good Alignment
+          - Adequate Alignment
+          - Poor Alignment
+          - No Alignment
+        required: true
+      - id: 12
+        name: call_to_action_effectiveness
+        label: Call to Action Effectiveness
+        hint: How effective is the call to action?
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Ineffective
+          - No Call to Action
+        required: true
+      - id: 13
+        name: content_length
+        label: Content Length
+        hint: Is the content length appropriate?
+        type: select_one
+        options:
+          - Too Short
+          - Slightly Short
+          - Just Right
+          - Slightly Long
+          - Too Long
+        required: true
+      - id: 14
+        name: would_share
+        label: Would You Share This Content?
+        hint: How likely are you to share this content?
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 15
+        name: strengths
+        label: What Are the Strengths?
+        hint: What did you like most about this content?
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be improved?
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: specific_suggestions
+        label: Specific Suggestions
+        hint: Do you have any specific suggestions?
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you overall?
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 19
+        name: recommend_to_others
+        label: Would You Recommend This Content?
+        hint: How likely are you to recommend this to others?
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you would like to share
+        type: text
+        options: []
+        required: false

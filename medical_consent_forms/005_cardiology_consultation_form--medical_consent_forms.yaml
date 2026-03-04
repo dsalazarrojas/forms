@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiology Consultation Form
+    pages:
+    - id: 1
+      name: patient_information_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact number
+      hint: Best phone to reach patient or next of kin
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presenting_symptoms
+      label: Presenting symptoms
+      hint: Brief description of current symptoms
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_medications
+      label: Current medications
+      hint: List medications and dosages
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: known_allergies
+      label: Known allergies
+      hint: List medication or other allergies
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prior_cardiac_history
+      label: Prior cardiac history
+      hint: Previous diagnoses interventions surgeries
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_for_treatment
+      label: Consent for consultation and treatment
+      hint: Confirm patient consents to consultation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional clinical notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

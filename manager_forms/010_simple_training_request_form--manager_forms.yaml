@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Training Request Form
+    pages:
+    - id: 1
+      name: training_request_form
+      label: training_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_type
+      label: training_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Basic''}'
+      - '{''label'': ''Intermediate''}'
+      - '{''label'': ''Advanced''}'
+      required: false
+    - id: 4
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: manager_approval_status
+      label: manager_approval_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Rejected''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_request_form_id
+      label: training_request_form_id
+      hint: null
+      type: text
+      options: []
+      required: false

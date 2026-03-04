@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Audit Form
+    pages:
+    - id: 1
+      name: campaign_strategy
+      label: Campaign Strategy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: marketing_channels_used
+      label: Marketing Channels Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: marketing_channels_used_options
+      label: Marketing Channels Used Options
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 4
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

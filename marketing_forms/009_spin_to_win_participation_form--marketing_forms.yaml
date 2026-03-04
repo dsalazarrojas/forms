@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spin To Win Participation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: spin_date
+      label: Spin Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: spin_time
+      label: Spin Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: spin_win
+      label: Spin Win
+      hint: Select your Spin Win
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: spin_win_reason
+      label: Spin Win Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online'', ''value'': ''online''}'
+      - '{''id'': 2, ''label'': ''Offline'', ''value'': ''offline''}'
+      required: false
+    - id: 12
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: spin_location
+      label: Spin Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: spin_status
+      label: Spin Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spin_status_hint
+      label: Spin Status Hint
+      hint: Please select the correct status
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - '{''id'': 2, ''label'': ''Finished'', ''value'': ''finished''}'
+      - '{''id'': 3, ''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: false
+    - id: 18
+      name: spin_status_note
+      label: Spin Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: spin_eligible
+      label: Eligible
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 20
+      name: spin_eligible_reason
+      label: Eligible Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: spin_eligible_note
+      label: Eligible Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: spin_winner
+      label: Winner
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 23
+      name: spin_winner_note
+      label: Winner Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: spin_winners
+      label: Winners
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 25
+      name: spin_winners_note
+      label: Winners Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Cutting Control Form
+    pages:
+    - id: 1
+      name: material_cutting_details
+      label: Material Cutting Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quality_checks
+      label: Quality Checks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_sign_offs
+      label: Inspection Sign-offs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: production_issues
+      label: Production Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: videos
+      label: Videos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: production_status
+      label: Production Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Complete
+      - On Hold
+      - Aborted
+      required: true
+    - id: 9
+      name: production_status_notes
+      label: Production Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: production_comments
+      label: Production Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_cutting_notes
+      label: Production Cutting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: production_quality_certified
+      label: Production Quality Certified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: production_cutting_status
+      label: Production Cutting Status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Partial
+      - Re-cut
+      - Pending
+      required: false
+    - id: 14
+      name: production_re_work_order
+      label: Production Re-work Order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: production_re_work_date
+      label: Production Re-work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: material_receiving_date
+      label: Material Receiving Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: material_inspection_result
+      label: Material Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 18
+      name: quality_inspection_result
+      label: Quality Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 19
+      name: material_receiving_status
+      label: Material Receiving Status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Pending
+      - In Progress
+      required: false
+    - id: 20
+      name: material_cutting_status
+      label: Material Cutting Status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Pending
+      - In Progress
+      required: false

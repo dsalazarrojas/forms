@@ -1,0 +1,268 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Persona Analysis Form
+    pages:
+      - id: 1
+        name: form_intro
+        label: Client Persona Analysis
+        hint: Help us understand your target audience to build effective marketing personas
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: product_or_service
+        label: Primary Product or Service
+        hint: What are you selling
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: target_market_description
+        label: Describe Your Target Market
+        hint: Broad description of who you serve
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: persona_name
+        label: Persona Name
+        hint: Give this persona a name e.g. Marketing Mary
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: persona_age_range
+        label: Age Range
+        hint: null
+        type: select_one
+        options:
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 7
+        name: persona_gender
+        label: Gender
+        hint: null
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to specify
+          - Mixed Audience
+        required: false
+      - id: 8
+        name: persona_location
+        label: Geographic Location
+        hint: Where do they live
+        type: select_one
+        options:
+          - Urban
+          - Suburban
+          - Rural
+          - Mixed
+        required: true
+      - id: 9
+        name: specific_locations
+        label: Specific Cities or Regions
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: education_level
+        label: Education Level
+        hint: null
+        type: select_one
+        options:
+          - High School
+          - Some College
+          - Associate Degree
+          - Bachelor's Degree
+          - Master's Degree
+          - Doctorate
+          - Varies
+        required: false
+      - id: 11
+        name: income_level
+        label: Annual Income Level
+        hint: null
+        type: select_one
+        options:
+          - Under $25000
+          - $25000-$49999
+          - $50000-$74999
+          - $75000-$99999
+          - $100000-$149999
+          - $150000+
+          - Varies
+        required: false
+      - id: 12
+        name: job_title
+        label: Typical Job Title
+        hint: What is their role
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: industry
+        label: Industry
+        hint: What industry do they work in
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: family_status
+        label: Family Status
+        hint: null
+        type: select_one
+        options:
+          - Single
+          - Married
+          - Married with Children
+          - Divorced
+          - Widowed
+          - Varies
+        required: false
+      - id: 15
+        name: primary_goals
+        label: Primary Goals and Objectives
+        hint: What are they trying to achieve
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: primary_challenges
+        label: Primary Challenges and Pain Points
+        hint: What problems do they face daily
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: fears
+        label: Fears and Frustrations
+        hint: What keeps them up at night
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: values
+        label: Core Values
+        hint: What do they care about most
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: buying_behavior
+        label: Buying Behavior
+        hint: How do they make purchasing decisions
+        type: select_one
+        options:
+          - Impulse Buyer
+          - Research-Driven
+          - Price-Sensitive
+          - Brand-Loyal
+          - Quality-Focused
+          - Recommendation-Based
+        required: true
+      - id: 20
+        name: information_sources
+        label: Where Do They Get Information
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Social Media
+          - Blogs
+          - Podcasts
+          - YouTube
+          - Industry Publications
+          - News Websites
+          - Peers and Colleagues
+          - Search Engines
+          - Email Newsletters
+          - Events and Conferences
+        required: true
+      - id: 21
+        name: preferred_social_platforms
+        label: Preferred Social Media Platforms
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Facebook
+          - Instagram
+          - LinkedIn
+          - Twitter or X
+          - TikTok
+          - YouTube
+          - Pinterest
+          - Reddit
+          - Snapchat
+          - None
+        required: true
+      - id: 22
+        name: content_preferences
+        label: Preferred Content Types
+        hint: What content do they consume most
+        type: select_multiple
+        options:
+          - Blog Articles
+          - Videos
+          - Infographics
+          - Podcasts
+          - Webinars
+          - Case Studies
+          - Whitepapers
+          - Social Media Posts
+          - Email Newsletters
+        required: true
+      - id: 23
+        name: objections
+        label: Common Objections to Purchase
+        hint: Why might they hesitate to buy
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: marketing_messages
+        label: Marketing Messages That Resonate
+        hint: What language speaks to them
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: brand_preferences
+        label: Brands They Currently Love
+        hint: List 2-3 brands they engage with
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_insights
+        label: Additional Insights
+        hint: Anything else that defines this persona
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: SAS Observation And Coaching Form
+    pages:
+    - id: 1
+      name: sales_performance
+      label: Sales Performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: coaching_areas
+      label: Coaching Areas
+      hint: Choose multiple areas to coach
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: coaching_notes
+      label: Coaching Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sales_manager_name
+      label: Sales Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: coaching_frequency
+      label: Coaching Frequency
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: coaching_status
+      label: Coaching Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: true
+    - id: 8
+      name: sales_coaching_form_comments
+      label: Sales Coaching Form Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: sales_coaching_outcome
+      label: Sales Coaching Outcome
+      hint: null
+      type: select_one
+      options:
+      - Improved Performance
+      - No Change
+      - Decreased Performance
+      required: true
+    - id: 10
+      name: sales_coaching_outcome_reason
+      label: Sales Coaching Outcome Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sales_coaching_outcome_comment
+      label: Sales Coaching Outcome Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: coaching_outcome_date
+      label: Coaching Outcome Date
+      hint: null
+      type: date
+      options: []
+      required: true

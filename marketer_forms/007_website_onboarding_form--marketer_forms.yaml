@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Onboarding Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_url
+      label: website_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: website_name
+      label: Website Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''small'', ''label'': ''Small''}'
+      - '{''id'': 12, ''name'': ''medium'', ''label'': ''Medium''}'
+      - '{''id'': 13, ''name'': ''large'', ''label'': ''Large''}'
+      - '{''id'': 14, ''name'': ''x-large'', ''label'': ''X-Large''}'
+      required: false
+    - id: 6
+      name: company_industry
+      label: Company Industry
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 15, ''name'': ''finance'', ''label'': ''Finance''}'
+      - '{''id'': 16, ''name'': ''technology'', ''label'': ''Technology''}'
+      - '{''id'': 17, ''name'': ''marketing'', ''label'': ''Marketing''}'
+      - '{''id'': 18, ''name'': ''e-commerce'', ''label'': ''E-commerce''}'
+      required: false
+    - id: 7
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 19, ''name'': ''s-corporation'', ''label'': ''S-Corporation''}'
+      - '{''id'': 20, ''name'': ''c-corporation'', ''label'': ''C-Corporation''}'
+      - '{''id'': 21, ''name'': ''sole-proprietorship'', ''label'': ''Sole-Proprietorship''}'
+      - '{''id'': 22, ''name'': ''partnership'', ''label'': ''Partnership''}'
+      required: false
+    - id: 8
+      name: company_description
+      label: Company Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: website_domain
+      label: Website Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 25, ''name'': ''united_states'', ''label'': ''United States''}'
+      - '{''id'': 26, ''name'': ''Canada'', ''label'': ''Canada''}'
+      required: false
+    - id: 13
+      name: region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 27, ''name'': ''north_america'', ''label'': ''North America''}'
+      - '{''id'': 28, ''name'': ''south_america'', ''label'': ''South America''}'
+      - '{''id'': 29, ''name'': ''europe'', ''label'': ''Europe''}'
+      - '{''id'': 30, ''name'': ''asia'', ''label'': ''Asia''}'
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: website_description
+      label: Website Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: website_type
+      label: Website Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 31, ''name'': ''e-shop'', ''label'': ''E-shop''}'
+      - '{''id'': 32, ''name'': ''blog'', ''label'': ''Blog''}'
+      required: false
+    - id: 19
+      name: company_industry
+      label: Company Industry
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 33, ''name'': ''finance'', ''label'': ''Finance''}'
+      - '{''id'': 34, ''name'': ''technology'', ''label'': ''Technology''}'
+      - '{''id'': 35, ''name'': ''marketing'', ''label'': ''Marketing''}'
+      - '{''id'': 36, ''name'': ''e-commerce'', ''label'': ''E-commerce''}'
+      required: false

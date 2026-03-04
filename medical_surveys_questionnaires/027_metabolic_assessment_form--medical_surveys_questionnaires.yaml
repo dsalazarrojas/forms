@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metabolic Assessment Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weight
+      label: weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: activity_level
+      label: activity_level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly Active
+      - Moderately Active
+      - Very Active
+      - Extremely Active
+      required: false
+    - id: 6
+      name: resting_metabolic_rate
+      label: resting_metabolic_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: daily_energy_expenditure
+      label: daily_energy_expenditure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: body_fat_percentage
+      label: body_fat_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: client_data
+      label: client_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

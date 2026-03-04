@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smile Assessment Form Template
+    pages:
+    - id: 1
+      name: smile_assessment_form_template_page_1
+      label: smile_assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: smile_assessment_form_template_page_2
+      label: smile_assessment_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: smile_assessment_form_template_page_3
+      label: smile_assessment_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: smile_assessment_form_template_page_4
+      label: smile_assessment_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: smile_assessment_form_template_page_5
+      label: smile_assessment_5
+      hint: null
+      type: time
+      options: []
+      required: false

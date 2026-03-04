@@ -1,0 +1,53 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Internet Addiction And Eating Disorders Survey
+    pages:
+    - id: 1
+      name: user_demographics
+      label: User Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internet_addiction
+      label: Internet Addiction
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Never''}'
+      - '{''text'': ''Less than an hour a day''}'
+      - '{''text'': ''1-2 hours a day''}'
+      - '{''text'': ''2-4 hours a day''}'
+      - '{''text'': ''4 or more hours a day''}'
+      required: false
+    - id: 3
+      name: eating_disorders
+      label: Eating Disorders
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''No problem''}'
+      - '{''text'': ''Sometimes''}'
+      - '{''text'': ''Often''}'
+      - '{''text'': ''Frequently''}'
+      required: false
+    - id: 4
+      name: behavioral_insights
+      label: Behavioral Insights
+      hint: null
+      type: text
+      options: []
+      required: false

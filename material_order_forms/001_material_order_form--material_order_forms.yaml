@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Order Form
+    pages:
+    - id: 1
+      name: first_page
+      label: order_materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_ordered
+      label: date_ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: materials_ordered
+      label: select_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: assigned
+      label: assigned
+      hint: null
+      type: text
+      options: []
+      required: false

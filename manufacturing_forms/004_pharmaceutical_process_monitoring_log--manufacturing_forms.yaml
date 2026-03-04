@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Process Monitoring Log
+    pages:
+    - id: 1
+      name: batch_id
+      label: Batch ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: production_line
+      label: Production Line
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Line 1''}'
+      - '{''id'': 2, ''label'': ''Line 2''}'
+      - '{''id'': 3, ''label'': ''Line 3''}'
+      required: true
+    - id: 3
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Night''}'
+      required: true
+    - id: 4
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: process_steps
+      label: Process Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: batch_size
+      label: Batch Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

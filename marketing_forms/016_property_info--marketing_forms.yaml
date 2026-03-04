@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Info
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Land
+      - Office
+      - Other
+      required: false
+    - id: 3
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: bedrooms
+      label: Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: bathrooms
+      label: Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Questionnaire
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: household_size
+      label: Household Size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_health_status
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: covid_status
+      label: COVID-19 Status
+      hint: null
+      type: select_one
+      options:
+      - Never had COVID-19
+      - Had COVID-19 previously
+      - Currently have COVID-19
+      - Unsure
+      required: true
+    - id: 9
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Boosted
+      - Prefer not to answer
+      required: true
+    - id: 10
+      name: current_symptoms
+      label: Do you currently have COVID-19 symptoms?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 11
+      name: symptom_description
+      label: Describe symptoms (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_household_impact
+      label: -- Household Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: household_member_covid
+      label: Has any household member had COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 14
+      name: member_count_covid
+      label: How many household members?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: impact_on_family
+      label: How has COVID-19 impacted your family?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_support_needs
+      label: -- Support Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: needs_assistance
+      label: Does your family need any assistance?
+      hint: null
+      type: select_multiple
+      options:
+      - Food assistance
+      - Financial assistance
+      - Mental health support
+      - Medical care
+      - Housing assistance
+      - Job training
+      - Childcare
+      - No assistance needed
+      required: true
+    - id: 18
+      name: assistance_details
+      label: Please describe your assistance needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_resources
+      label: -- Resource Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: aware_resources
+      label: Are you aware of available COVID-19 resources?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Somewhat
+      required: true
+    - id: 21
+      name: interest_resources
+      label: Would you like information about resources?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text message
+      - Mail
+      required: false

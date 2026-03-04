@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech And Language Screening Survey
+    pages:
+    - id: 1
+      name: screening_survey
+      label: Screening Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 3
+      name: language_level
+      label: Language Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Proficient''}'
+      - '{''id'': 2, ''name'': ''Limited''}'
+      - '{''id'': 3, ''name'': ''Nonverbal''}'
+      required: true
+    - id: 4
+      name: hearing_loss
+      label: Hearing Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: visual_aid
+      label: Visual Aid
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_id
+      label: Doctor's ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: doctor_department
+      label: Doctor's Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: doctor_specialty
+      label: Doctor's Specialty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: doctor_note
+      label: Doctor's Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: speech_therapist
+      label: Speech Therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: speech_therapist_name
+      label: Speech Therapist's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: speech_therapist_note
+      label: Speech Therapist's Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: doctor_signature
+      label: Doctor's Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

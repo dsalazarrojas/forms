@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Record Verification Request
+    pages:
+    - id: 1
+      name: asset_details
+      label: asset_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date_start
+      label: request_date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: request_date_completed
+      label: request_completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: asset_status
+      label: asset_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: request_description
+      label: request_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: verified_by
+      label: verified_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_date_verified
+      label: request_date_verified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: supporting_document
+      label: supporting_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: request_attachment
+      label: request_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: asset_serial_number
+      label: asset_serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: request_category
+      label: request_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: request_tags
+      label: request_tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: asset_model_number
+      label: asset_model_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: asset_tag_number
+      label: asset_tag_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: request_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

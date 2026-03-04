@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Stem Cell Follow Up Survey
+    pages:
+    - id: 1
+      name: patient_details
+      label: Patient Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_dates
+      label: Treatment Dates
+      hint: null
+      type: select_multiple
+      options:
+      - Date of Transplant
+      - Transplant Date
+      - Last Treatment Date
+      - Treatment Start Date
+      - Treatment End Date
+      required: false
+    - id: 3
+      name: health_status
+      label: Health Status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: side_effects
+      label: Side Effects
+      hint: null
+      type: select_multiple
+      options:
+      - Hair Loss
+      - Skin Rash
+      - Fatigue
+      required: false
+    - id: 5
+      name: submission
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: treatment_status
+      label: Treatment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false

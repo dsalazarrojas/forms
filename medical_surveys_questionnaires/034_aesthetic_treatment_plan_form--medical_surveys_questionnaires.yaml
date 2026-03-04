@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetic Treatment Plan Form
+    pages:
+    - id: 1
+      name: client_profile_header
+      label: -- Client Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: skin_type
+      label: Skin Type / Concerns
+      hint: e.g., Oily, Acne-prone, Aging.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: treatment_goals
+      label: Client Goals
+      hint: What does the client want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposed_plan_header
+      label: -- Proposed Treatment Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: recommended_procedures
+      label: Recommended Procedures
+      hint: List treatments.
+      type: select_multiple
+      options:
+      - Facial Rejuvenation
+      - Anti-Wrinkle Injections
+      - Volume Restoration (Fillers)
+      - Skin Tightening
+      - Pigmentation Correction
+      required: true
+    - id: 8
+      name: treatment_frequency
+      label: Recommended Frequency
+      hint: How often?
+      type: select_one
+      options:
+      - One-time treatment
+      - Weekly
+      - Monthly
+      - Every 3 months
+      - Every 6 months
+      required: true
+    - id: 9
+      name: home_care
+      label: Recommended Home Care Products
+      hint: List products to support treatment.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cost_estimate_header
+      label: -- Cost Estimate --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_cost
+      label: Estimated Total Cost ($)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_plan
+      label: Payment Options Discussed
+      hint: null
+      type: select_one
+      options:
+      - Pay Per Visit
+      - Package Upfront
+      - Membership
+      - Financing
+      required: false
+    - id: 13
+      name: next_steps
+      label: Next Steps
+      hint: Schedule appointment, patch test, etc.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: provider_signature
+      label: Provider Signature
+      hint: Approved by.
+      type: select_one
+      options:
+      - Signed
+      - Other
+      required: true

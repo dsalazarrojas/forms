@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Revision Skin Care Assessment Form
+    pages:
+    - id: 1
+      name: skin_revision_general_health
+      label: General health
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skin_revision_medical_history
+      label: Medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skin_revision_family_history
+      label: Family history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skin_revisionskin_care_products
+      label: Skin care products
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''label'': True}'
+      - '{''id'': 4.2, ''label'': False}'
+      - '{''id'': 4.3, ''label'': ''Unsure''}'
+      required: true
+    - id: 5
+      name: skin_revisionskin_problems
+      label: Skin problems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skin_revision_consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skin_revision_therapist
+      label: Therapist
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': ''Male''}'
+      - '{''id'': 7.2, ''label'': ''Female''}'
+      required: true
+    - id: 8
+      name: skin_revision_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: skin_revision_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: skin_revision_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skin_revision_date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: skin_revision_skin_care_routine
+      label: Skin care routine
+      hint: null
+      type: text
+      options: []
+      required: false

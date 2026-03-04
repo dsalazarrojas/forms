@@ -1,0 +1,341 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Vaccine Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For records
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vaccine_information
+      label: Vaccine Information
+      hint: Please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: understand_vaccine_type
+      label: I Understand Vaccine Type
+      hint: mRNA or viral vector
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 14
+      name: understand_benefits
+      label: I Understand Benefits
+      hint: Enhanced protection
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 15
+      name: understand_risks
+      label: I Understand Risks
+      hint: Potential side effects
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 16
+      name: common_side_effects
+      label: Common Side Effects Acknowledgment
+      hint: Arm soreness fatigue fever
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 17
+      name: rare_side_effects
+      label: Rare Side Effects Acknowledgment
+      hint: Allergic reactions etc
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 18
+      name: medical_history
+      label: Medical History Review
+      hint: Current health conditions
+      type: select_one
+      options:
+      - Reviewed with provider
+      - Self-reported
+      - Not reviewed
+      required: true
+    - id: 19
+      name: allergies
+      label: Severe Allergies
+      hint: To vaccines or medications
+      type: select_one
+      options:
+      - No known severe allergies
+      - Yes - Vaccine components
+      - Yes - Medications
+      - Yes - Other
+      required: true
+    - id: 20
+      name: allergy_details
+      label: Allergy Details
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: previous_covid_vaccine
+      label: Previous COVID-19 Vaccine
+      hint: Have you been vaccinated
+      type: select_one
+      options:
+      - Yes - Completed series
+      - Yes - Partially vaccinated
+      - false
+      required: true
+    - id: 22
+      name: previous_vaccine_reaction
+      label: Previous Vaccine Reaction
+      hint: Any adverse reactions
+      type: select_one
+      options:
+      - false
+      - Yes - Mild
+      - Yes - Severe
+      required: true
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Chronic conditions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pregnancy_status
+      label: Pregnancy or Breastfeeding
+      hint: Current status
+      type: select_one
+      options:
+      - Not pregnant or breastfeeding
+      - Pregnant
+      - Breastfeeding
+      - Trying to conceive
+      - Not applicable
+      required: true
+    - id: 26
+      name: immunocompromised
+      label: Immunocompromised Status
+      hint: Weakened immune system
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 27
+      name: bleeding_disorder
+      label: Bleeding Disorder
+      hint: Or blood thinner use
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 28
+      name: current_illness
+      label: Current Illness
+      hint: Are you sick today
+      type: select_one
+      options:
+      - No - Feeling well
+      - Yes - Mild illness
+      - Yes - Moderate to severe
+      required: true
+    - id: 29
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: I consent voluntarily
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 30
+      name: opportunity_for_questions
+      label: Opportunity for Questions
+      hint: Were your questions answered
+      type: select_one
+      options:
+      - Yes - All answered
+      - Yes - Most answered
+      - No - Still have questions
+      required: true
+    - id: 31
+      name: data_sharing_consent
+      label: Data Sharing Consent
+      hint: Share with health authorities
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 32
+      name: vaxtrack_registration
+      label: Vaccine Registry Registration
+      hint: Add to state registry
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: patient_signature
+      label: Patient Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: If under 18
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: witness_name
+      label: Witness Name
+      hint: Healthcare witness
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: witness_signature
+      label: Witness Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: Administering provider
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: provider_signature
+      label: Provider Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 40
+      name: vaccine_lot_number
+      label: Vaccine Lot Number
+      hint: To be completed by provider
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: vaccination_site
+      label: Vaccination Site
+      hint: To be completed by provider
+      type: text
+      options: []
+      required: false

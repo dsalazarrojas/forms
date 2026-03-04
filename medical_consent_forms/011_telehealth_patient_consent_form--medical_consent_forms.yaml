@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telehealth Patient Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_treatment
+      label: Consent to Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: telehealth_agreement
+      label: Telehealth Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that I will receive telehealth services
+      - I understand that I will not receive telehealth services
+      - I will not receive telehealth services
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_statement
+      label: Patient Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergy_information
+      label: Allergy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contacts_2
+      label: Emergency Contacts 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: telehealth_services
+      label: Telehealth Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: telehealth_agreement_2
+      label: Telehealth Agreement 2
+      hint: null
+      type: select_multiple
+      options:
+      - I will receive telehealth services
+      - I will not receive telehealth services
+      required: false
+    - id: 20
+      name: telehealth_terms_conditions
+      label: Telehealth Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: digital_signature
+      label: Digital Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_info_2
+      label: Patient Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: telehealth_agreement_3
+      label: Telehealth Agreement 3
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understand these terms
+      - I have not read and do not understand these terms
+      required: false

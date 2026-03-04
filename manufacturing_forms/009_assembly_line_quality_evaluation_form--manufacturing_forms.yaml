@@ -1,0 +1,253 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assembly Line Quality Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Full name of quality evaluator
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Quality Assurance
+      - Production
+      - Engineering
+      - Management
+      - External Audit
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assembly_line
+      label: Assembly Line
+      hint: Line being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_family
+      label: Product Family
+      hint: Product category
+      type: select_one
+      options:
+      - Electronics
+      - Automotive Parts
+      - Consumer Goods
+      - Medical Devices
+      - Industrial Equipment
+      - Food Products
+      - Other
+      required: true
+    - id: 6
+      name: evaluation_type
+      label: Evaluation Type
+      hint: Type of quality check
+      type: select_one
+      options:
+      - Routine Inspection
+      - First Article Inspection
+      - In-Process Inspection
+      - Final Inspection
+      - Customer Complaint Review
+      - Process Audit
+      required: true
+    - id: 7
+      name: sample_quantity
+      label: Sample Quantity Evaluated
+      hint: Number of items checked
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quality_score
+      label: Overall Quality Score
+      hint: Rate from 1 to 100
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dimensional_accuracy
+      label: Dimensional Accuracy Rating
+      hint: How well dimensions match specs
+      type: select_one
+      options:
+      - Excellent - Within Tolerance
+      - Good - Minor Deviations
+      - Fair - Some Out of Spec
+      - Poor - Many Out of Spec
+      - Failed - Critical Errors
+      required: true
+    - id: 10
+      name: surface_finish_quality
+      label: Surface Finish Quality
+      hint: Appearance and texture
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 11
+      name: assembly_integrity
+      label: Assembly Integrity
+      hint: How well components fit together
+      type: select_one
+      options:
+      - Excellent - Perfect Fit
+      - Good - Minor Gaps
+      - Fair - Noticeable Issues
+      - Poor - Major Problems
+      - Failed - Does Not Assemble
+      required: true
+    - id: 12
+      name: functional_test_result
+      label: Functional Test Result
+      hint: Does product work as intended
+      type: select_one
+      options:
+      - Pass - Fully Functional
+      - Pass with Minor Issues
+      - Fail - Major Issues
+      - Fail - Non-Functional
+      - Not Tested
+      required: true
+    - id: 13
+      name: defect_rate_percent
+      label: Defect Rate Percentage
+      hint: Percentage of defective units
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: defects_found
+      label: Types of Defects Found
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Scratches or Dents
+      - Color Mismatch
+      - Misalignment
+      - Loose Components
+      - Missing Parts
+      - Electrical Issues
+      - Packaging Damage
+      - None
+      required: true
+    - id: 15
+      name: process_capability
+      label: Process Capability Index
+      hint: Cpk value if known
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: operator_performance
+      label: Operator Performance Rating
+      hint: How well operators are performing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 17
+      name: equipment_calibration
+      label: Equipment Calibration Status
+      hint: Are machines properly calibrated
+      type: select_one
+      options:
+      - All Calibrated
+      - Some Due Soon
+      - Some Overdue
+      - Unknown
+      required: true
+    - id: 18
+      name: documentation_complete
+      label: Is Documentation Complete
+      hint: Are all records properly maintained
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 19
+      name: non_conformance_count
+      label: Number of Non-Conformances
+      hint: Total non-conformance issues
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: corrective_action_needed
+      label: Corrective Action Needed
+      hint: Describe required actions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: root_cause_identified
+      label: Has Root Cause Been Identified
+      hint: For any defects found
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Under Investigation
+      required: true
+    - id: 22
+      name: rework_required
+      label: Is Rework Required
+      hint: Do items need rework
+      type: select_one
+      options:
+      - Yes - All Units
+      - Yes - Some Units
+      - 'No'
+      required: true
+    - id: 23
+      name: customer_impact
+      label: Potential Customer Impact
+      hint: Will this affect customers
+      type: select_one
+      options:
+      - None
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 24
+      name: evaluation_status
+      label: Evaluation Status
+      hint: Final status
+      type: select_one
+      options:
+      - Approved
+      - Approved with Conditions
+      - Pending Review
+      - Rejected
+      required: true
+    - id: 25
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

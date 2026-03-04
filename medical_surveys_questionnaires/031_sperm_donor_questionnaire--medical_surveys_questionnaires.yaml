@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sperm Donor Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Sperm Donor Questionnaire
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: donor_id
+      label: Donor Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - High Blood Pressure
+      - Diabetes
+      - HIV
+      - 'Other (Specify): []'
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: Enter your contact information
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - 'Other (Specify): []'
+      required: false
+    - id: 5
+      name: medical_clearance
+      label: Medical Clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Certified Doctor
+      - Certified Nurse
+      - 'Other (Specify): []'
+      required: false
+    - id: 7
+      name: donor_info
+      label: Donor Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history_other
+      label: Medical History Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info_other
+      label: Contact Info Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_clearance_other
+      label: Medical Clearance Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_certifications_other
+      label: Medical Certifications Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_clearance_2
+      label: Medical Clearance 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 13
+      name: medical_clearance_2_other
+      label: Medical Clearance 2 Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_certifications_2
+      label: Medical Certifications 2
+      hint: null
+      type: select_multiple
+      options:
+      - Certified Doctor
+      - Certified Nurse
+      - 'Other (Specify): []'
+      required: false
+    - id: 15
+      name: medical_certifications_2_other
+      label: Medical Certifications 2 Other
+      hint: null
+      type: text
+      options: []
+      required: false

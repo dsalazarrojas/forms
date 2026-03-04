@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dandruff Treatment Survey
+    pages:
+    - id: 1
+      name: treatment_symptoms
+      label: Dandruff Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: treatment_history
+      label: Treatment History
+      hint: null
+      type: select_multiple
+      options:
+      - Scalp itching
+      - Scalp flaking
+      - Scalp redness
+      - Scalp burning
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: previous_therapies
+      label: Previous Therapies
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Coal tar
+      - Shampoo
+      - Anthralen
+      - Cimicane
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: treatment_effectiveness
+      label: Treatment Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: dandruff_frequency
+      label: How often do dandruff symptoms occur
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: dandruff_severity
+      label: How severe are dandruff symptoms
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: false
+    - id: 7
+      name: dandruff_prevention
+      label: Dandruff Prevention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dandruff_medication
+      label: Dandruff Medication
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: hair_care_products
+      label: Hair care products used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: treatment_outcome
+      label: Treatment outcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Do you want to be contacted for follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

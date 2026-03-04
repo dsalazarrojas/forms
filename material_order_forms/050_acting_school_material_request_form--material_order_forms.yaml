@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acting School Material Request Form
+    pages:
+    - id: 1
+      name: student_or_teacher_name
+      label: Student or Teacher Name
+      hint: Name of the person making the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class_name
+      label: Class Name
+      hint: e.g., Method Acting 101
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: Select the category of material
+      type: select_one
+      options:
+      - Script
+      - Prop
+      - Costume Item
+      - Technical Equipment
+      - Reference Material
+      required: true
+    - id: 4
+      name: item_description
+      label: Item Description
+      hint: Specifically what is needed?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity_needed
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_needed_by
+      label: Date Needed By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - High - Needed for imminent performance
+      required: true
+    - id: 8
+      name: scene_or_project_reference
+      label: Scene or Project Reference
+      hint: Context for the request
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pickup_or_delivery
+      label: Pickup or Delivery
+      hint: How will you receive the materials?
+      type: select_one
+      options:
+      - In-class Pickup
+      - Office Collection
+      - Digital Download
+      required: true
+    - id: 10
+      name: approval_header
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: department_head_approval_signature
+      label: Department Head Approval Signature
+      hint: For internal use
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

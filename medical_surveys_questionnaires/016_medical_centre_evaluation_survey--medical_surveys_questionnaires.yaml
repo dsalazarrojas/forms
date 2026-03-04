@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Centre Evaluation Survey
+    pages:
+    - id: 1
+      name: medical_centre_name
+      label: Medical Centre Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: Which department do you need to visit?
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Dermatology
+      - Emergency
+      - Endocrinology
+      - General Medicine
+      required: false
+    - id: 3
+      name: question1_answer
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: How do you rate the overall quality of service?
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: question3
+      label: What is the average time you spent waiting in the waiting area?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: question4
+      label: What is your contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question4_answer
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question5
+      label: How do you rate the friendliness of our staff?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 9
+      name: question5_answer
+      label: Staff Friendliness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question6
+      label: Do you have any suggestions for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: question7
+      label: Do you have any other comments about your visit?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question8
+      label: How likely are you to recommend our medical centre?
+      hint: null
+      type: select_multiple
+      options:
+      - Not Likely
+      - Unlikely
+      - Likely
+      - Very Likely
+      required: false
+    - id: 13
+      name: question9
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: question10
+      label: How many people are you visiting with?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: question11
+      label: What is your preferred contact method?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text
+      - In-person
+      required: false
+    - id: 16
+      name: question12
+      label: What is your preferred contact method answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: question13
+      label: Would you like to be contacted by phone or email?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - Yes - Phone
+      - Yes - Email
+      required: false
+    - id: 18
+      name: question13_answer
+      label: Contact Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: question14
+      label: Would you like to schedule an appointment?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 20
+      name: question14_answer
+      label: Schedule Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question15
+      label: Is there anything else we can do to improve our service?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 22
+      name: question16
+      label: Other Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: question17
+      label: How can we improve our service?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: question18
+      label: Is there anything else we can improve in our service?
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 25
+      name: question19
+      label: Other Service Improvements
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Committee Nomination Form
+    pages:
+    - id: 1
+      name: nominee_name
+      label: Nominee full name
+      hint: Full legal name of nominee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominee_email
+      label: Nominee email address
+      hint: Contact email for nominee
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nominee_phone
+      label: Nominee phone number
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_nominated_for
+      label: Position nominated for
+      hint: Role or seat on the committee
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: nominator_name
+      label: Nominator name
+      hint: Person submitting the nomination
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: nominator_contact
+      label: Nominator contact email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: nominee_statement
+      label: Nominee statement or qualifications
+      hint: Brief summary of nominee experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_from_nominee
+      label: Consent from nominee to serve
+      hint: Confirm the nominee accepts nomination
+      type: select_one
+      options:
+      - Nominee consents
+      - Nominee does not consent
+      required: true

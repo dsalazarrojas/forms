@@ -1,0 +1,69 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: daily_work_report
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_start_time
+      label: Work Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: work_end_time
+      label: Work End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: work_description
+      label: Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: break_start_time
+      label: Break Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: break_end_time
+      label: Break End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: breaks_taken
+      label: Breaks Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Morning Break
+      - Lunch Break
+      - Afternoon Break
+      - Other
+      required: false

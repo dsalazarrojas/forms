@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Content Distribution Audit Form
+    pages:
+    - id: 1
+      name: channel_id
+      label: Channel ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: channel_type
+      label: Channel Type
+      hint: null
+      type: select_one
+      options:
+      - -ประก -Email -Fax -Phone -Web
+      - Other
+      required: false
+    - id: 3
+      name: published_at
+      label: Published At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: effective_at
+      label: Effective At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: channel_name
+      label: Channel Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

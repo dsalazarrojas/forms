@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsibility And Authority Matrix Form
+    pages:
+    - id: 1
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: responsible_party
+      label: responsible_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: authority_level
+      label: authority_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: owner
+      label: owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: reporting_line
+      label: reporting_line
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: handoff_date
+      label: handoff_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: handoff_status
+      label: handoff_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: handoff_date_completed
+      label: handoff_date_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: handoff_date_ongoing
+      label: handoff_date_ongoing
+      hint: null
+      type: date
+      options: []
+      required: false

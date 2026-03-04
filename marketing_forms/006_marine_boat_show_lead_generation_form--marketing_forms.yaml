@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Boat Show Lead Generation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: Email
+      hint: Enter a valid email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Company Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Product Development''}'
+      required: true
+    - id: 5
+      name: boat_type
+      label: Boat Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sail''}'
+      - '{''id'': 2, ''label'': ''Motor''}'
+      - '{''id'': 3, ''label'': ''Rowing''}'
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''France''}'
+      - '{''id'': 2, ''label'': ''Italy''}'
+      - '{''id'': 3, ''label'': ''Spain''}'
+      required: true
+    - id: 7
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 13
+      name: follow_up_method
+      label: Follow up Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Mail''}'
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: Follow up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_phone
+      label: Follow up Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_email
+      label: Follow up Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_website
+      label: Follow up Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: sales_rep_email
+      label: Sales Rep Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: sales_rep_phone
+      label: Sales Rep Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sales_rep_follow_up
+      label: Sales Rep Follow up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: sales_rep_follow_up_method
+      label: Sales Rep Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Mail''}'
+      required: false

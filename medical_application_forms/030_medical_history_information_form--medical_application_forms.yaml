@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: medical history information form
+    pages:
+    - id: 1
+      name: medical_history_form_1
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: select_multiple
+      options:
+      - diabetes
+      - hypertension
+      - asthma
+      - epilepsy
+      - cancer
+      - heart_disease
+      - kidney_disease
+      - liver_disease
+      - neurological_disease
+      - mental_health_disease
+      - sleep_apnea
+      - other_medical_condition
+      required: false
+    - id: 5
+      name: medical_tests
+      label: medical_tests
+      hint: null
+      type: select_multiple
+      options:
+      - ekg
+      - blood_test
+      - urine_test
+      - ct_scan
+      - mri_scan
+      - x_ray
+      - ultrasound
+      - ct_scan_2
+      - mri_scan_2
+      - other_medical_test
+      required: false
+    - id: 6
+      name: medical_allergies
+      label: medical_allergies
+      hint: null
+      type: select_one
+      options:
+      - penicillin
+      - latex
+      - shellfish
+      - soy
+      - egg
+      - milk
+      - tree_nuts
+      - other_allergy
+      required: false
+    - id: 7
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: family_history
+      label: family_history
+      hint: null
+      type: select_multiple
+      options:
+      - diabetes
+      - heart_disease
+      - cancer
+      - mental_health_disease
+      - other_family_history
+      required: false
+    - id: 9
+      name: medical_medical_procedure
+      label: medical_procedure
+      hint: null
+      type: select_multiple
+      options:
+      - blood_transfusion
+      - surgery
+      - chemotherapy
+      - radiation
+      - other_medical_procedure
+      required: false
+    - id: 10
+      name: medical_medical_history_other
+      label: medical_history_other
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Feedback Form
+    pages:
+    - id: 1
+      name: feedback_category
+      label: Feedback Category
+      hint: Select the type of feedback you are providing
+      type: select_one
+      options:
+      - General Feedback
+      - Management Concerns
+      - Workplace Environment
+      - Team Collaboration
+      - Process Improvement
+      - Other
+      required: true
+    - id: 2
+      name: department
+      label: Your Department
+      hint: Optional - helps categorize feedback
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - Sales
+      - Marketing
+      - IT
+      - Customer Service
+      - Other
+      required: false
+    - id: 3
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this feedback
+      type: select_one
+      options:
+      - Low - Can wait
+      - Medium - Within a week
+      - High - Within 48 hours
+      - Critical - Immediate attention needed
+      required: true
+    - id: 4
+      name: feedback_topic
+      label: Main Topic of Feedback
+      hint: Brief title for your feedback
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: detailed_feedback
+      label: Detailed Feedback
+      hint: Please provide as much detail as possible
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: specific_incident
+      label: Is this regarding a specific incident
+      hint: Does this relate to a particular event
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: incident_date
+      label: Date of Incident
+      hint: When did this occur
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: people_involved
+      label: Number of People Involved
+      hint: Approximate number if known
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: previous_reporting
+      label: Have you reported this before
+      hint: Has this feedback been submitted previously
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: impact_description
+      label: How has this impacted you or your work
+      hint: Describe the effects
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: suggested_solution
+      label: Do you have a suggested solution
+      hint: Share your ideas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_desired
+      label: Would you like follow-up on this feedback
+      hint: Even though anonymous, we can provide general updates
+      type: select_one
+      options:
+      - Yes, please provide updates
+      - No, submit and forget
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to add
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: Auto-filled with current date
+      type: date
+      options: []
+      required: true

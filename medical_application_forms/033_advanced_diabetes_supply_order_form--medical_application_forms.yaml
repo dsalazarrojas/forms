@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Diabetes Supply Order Form
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Supply Order --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility or clinic name
+      hint: Where supplies should be delivered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person name
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile preferred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_list
+      label: Requested supplies and quantities
+      hint: List each item and quantity
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_supplier
+      label: Preferred supplier
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_priority
+      label: Delivery priority
+      hint: Normal or urgent
+      type: select_one
+      options:
+      - Normal
+      - Urgent
+      required: true
+    - id: 8
+      name: billing_account
+      label: Billing account or code
+      hint: Required for invoicing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: requested_delivery_date
+      label: Requested delivery date
+      hint: Target delivery date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: order_notes
+      label: Additional notes
+      hint: Any special handling instructions
+      type: text
+      options: []
+      required: false

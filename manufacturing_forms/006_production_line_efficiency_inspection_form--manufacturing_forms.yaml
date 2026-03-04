@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Line Efficiency Inspection Form
+    pages:
+    - id: 1
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: production_line
+      label: Production Line
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_leader
+      label: Shift Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_manager
+      label: Production Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: machine_condition
+      label: Machine Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 8
+      name: production_capacity
+      label: Production Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: production_capacity_holiday
+      label: Production Capacity Holiday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: production_capacity_saturday
+      label: Production Capacity Saturday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: production_capacity_sunday
+      label: Production Capacity Sunday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quality_rating
+      label: Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: production_speed
+      label: Production Speed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: production_capacity_utilization
+      label: Production Capacity Utilization
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: production_capacity_utilization_holiday
+      label: Production Capacity Utilization Holiday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: production_capacity_utilization_sunday
+      label: Production Capacity Utilization Sunday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: safety_rating
+      label: Safety Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_incident_reported
+      label: Safety Incident Reported
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: safety_incident_description
+      label: Safety Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false

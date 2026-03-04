@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Reimbursement Claim Form
+    pages:
+    - id: 1
+      name: medical_reimbursement_claim_form
+      label: medical_reimbursement_claim_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: applicant_first_name
+      label: applicant_first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: applicant_last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: applicant_address_line1
+      label: applicant_address_line1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_city
+      label: applicant_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_state
+      label: applicant_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: applicant_zip
+      label: applicant_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_service_provider_name
+      label: medical_service_provider_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_service_provider_address_line1
+      label: medical_service_provider_address_line1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_service_provider_city
+      label: medical_service_provider_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medical_service_provider_state
+      label: medical_service_provider_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: medical_service_provider_zip
+      label: medical_service_provider_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_of_services
+      label: date_of_services
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: total_amount_paid
+      label: total_amount_paid
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: received_on
+      label: received_on
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: claim_id
+      label: claim_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: medical_treatment_cost
+      label: medical_treatment_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: text
+      options: []
+      required: true

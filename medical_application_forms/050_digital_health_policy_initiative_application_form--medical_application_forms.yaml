@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_health_policy_initiative_application_form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_proposals
+      label: Policy Proposals
+      hint: null
+      type: select_multiple
+      options:
+      - Proposal 1
+      - Proposal 2
+      - Proposal 3
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_application
+      label: Time of Application
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      - Not Provided
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

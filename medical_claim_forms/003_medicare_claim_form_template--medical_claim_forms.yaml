@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicare Claim Form Template
+    pages:
+    - id: 1
+      name: medicare_claim_form_template
+      label: medical_claim_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_info
+      label: provider_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: claim_type
+      label: claim_type
+      hint: null
+      type: select_one
+      options:
+      - Medicare
+      - Medicaid
+      - Private Insurance
+      required: false
+    - id: 5
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_service
+      label: time_of_service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Denied
+      - Approved
+      required: false

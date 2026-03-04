@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Orange Envelope Theme
+    pages:
+    - id: 1
+      name: header
+      label: -- Contact Form --
+      hint: Clean contact form for general inquiries
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Email for reply
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject
+      hint: Brief subject of your message
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: message
+      label: Message
+      hint: Describe your request or inquiry
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department to contact
+      hint: Select appropriate department
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Partnerships
+      - Media
+      required: false
+    - id: 8
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: Time window for follow up
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional information
+      hint: Any other details to assist response
+      type: text
+      options: []
+      required: false

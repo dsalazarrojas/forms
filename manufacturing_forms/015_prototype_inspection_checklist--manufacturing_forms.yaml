@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: prototype_inspection_checklist
+    pages:
+    - id: 1
+      name: prototype_name
+      label: prototype_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_inspected
+      label: date_inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspected_by
+      label: inspected_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: inspection_outcome
+      label: outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: outcome_notes
+      label: outcome_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: issues_found
+      label: issues_found
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_actions
+      label: corrective_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_status
+      label: action_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_review_due
+      label: next_review_due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_frequency
+      label: review_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: responsible_person
+      label: responsible_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prototype_status
+      label: prototype_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - On Hold
+      - Rejected
+      required: false
+    - id: 16
+      name: production_status
+      label: production_status
+      hint: null
+      type: select_multiple
+      options:
+      - In Design
+      - In Progress
+      - In Production
+      - Ready for Production
+      - In Review
+      - Not Ready for Production
+      required: false
+    - id: 17
+      name: production_location
+      label: production_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: production_date
+      label: production_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: production_comments
+      label: production_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: production_issues
+      label: production_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: production_outcome
+      label: production_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: outcome_comments
+      label: outcome_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: review_comments_by
+      label: review_comments_by
+      hint: null
+      type: text
+      options: []
+      required: false

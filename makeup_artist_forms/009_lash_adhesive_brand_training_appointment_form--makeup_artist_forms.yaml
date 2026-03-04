@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Adhesive Brand Training Appointment Form
+    pages:
+    - id: 1
+      name: appointment_details
+      label: Appointment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: brand
+      label: Brand
+      hint: null
+      type: select_multiple
+      options:
+      - Lash Adhesive Brand
+      - Another Brand
+      - Other Brand
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_multiple
+      options:
+      - In-person
+      - Virtual
+      - Online
+      required: false
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 7
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_language
+      label: Training Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 10
+      name: appointment_status
+      label: Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Completed
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_submission_ip_address
+      label: Form Submission IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submission_user_agent
+      label: Form Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_submission_user_platform
+      label: Form Submission User Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

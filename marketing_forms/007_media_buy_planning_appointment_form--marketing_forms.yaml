@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Buy Planning Appointment Form
+    pages:
+    - id: 1
+      name: media_buy_planning_appointment_form
+      label: media_buy_planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: Enter client name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: email
+      hint: Enter email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_media_spend
+      label: client_media_spend
+      hint: Enter client media spend
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: media_buyer
+      label: media_buyer
+      hint: Enter media buyer
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 7
+      name: media_channels
+      label: media_channels
+      hint: null
+      type: select_multiple
+      options:
+      - TV
+      - Radio
+      - Print
+      - Online
+      required: true
+    - id: 8
+      name: appointment_date
+      label: appointment_date
+      hint: Enter appointment date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: appointment_location
+      label: appointment_location
+      hint: Enter appointment location
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: appointment_details
+      label: appointment_details
+      hint: Enter appointment details
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_notes
+      label: client_notes
+      hint: Enter client notes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: user_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_user
+      label: assigned_user
+      hint: Enter assigned user
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: assigned_tool
+      hint: Enter assigned tool
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjulie
+      required: false
+    - id: 18
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: created_by
+      hint: Enter created by
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Marketing Forms
+      - Sales Forms
+      required: false
+    - id: 22
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Tracker Form
+    pages:
+    - id: 1
+      name: time_tracker_form_page_1
+      label: Time Tracker Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_comments
+      label: project_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_status_description
+      label: project_status_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: hours_spent
+      label: hours_spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: minutes_spent
+      label: minutes_spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_minutes_spent
+      label: total_minutes_spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: category_id
+      label: category_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: deleted_by
+      label: deleted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: version
+      label: version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_id
+      label: user_id
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Journey Form
+    pages:
+    - id: 1
+      name: how_customer_found
+      label: How Customer Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_customer_navigated
+      label: How Customer Navigated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_feelings
+      label: Customer Feelings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_suggestions
+      label: Customer Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Email
+      - Phone
+      - Live Chat
+      - In Person
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_journey_map
+      label: Customer Journey Map
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_survey
+      label: Customer Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false

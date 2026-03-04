@@ -1,0 +1,251 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Survey Form
+    pages:
+      - id: 1
+        name: respondent_first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: Optional
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: zip_code
+        label: ZIP Code
+        hint: Where do you live
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: age_range
+        label: Age Range
+        hint: Select your age range
+        type: select_one
+        options:
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or older
+        required: true
+      - id: 6
+        name: gender
+        label: Gender
+        hint: Select gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+          - Other
+        required: false
+      - id: 7
+        name: political_affiliation
+        label: Political Affiliation
+        hint: Select affiliation
+        type: select_one
+        options:
+          - Democrat
+          - Republican
+          - Independent
+          - Libertarian
+          - Green Party
+          - Other
+          - Prefer not to say
+        required: true
+      - id: 8
+        name: voter_registration
+        label: Are You Registered to Vote
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes - registered
+          - No - not registered
+          - Not sure
+        required: true
+      - id: 9
+        name: voting_likelihood
+        label: How Likely Are You to Vote
+        hint: Rate likelihood
+        type: select_one
+        options:
+          - Definitely will vote
+          - Very likely to vote
+          - Somewhat likely
+          - Unlikely to vote
+          - Definitely will not vote
+        required: true
+      - id: 10
+        name: campaign_awareness
+        label: Are You Aware of Our Campaign
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes - very aware
+          - Yes - somewhat aware
+          - No - first time hearing
+        required: true
+      - id: 11
+        name: campaign_message_rating
+        label: How Would You Rate Our Campaign Message
+        hint: Rate from 1 to 5
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Very Good
+          - 3 - Good
+          - 2 - Fair
+          - 1 - Poor
+          - Not familiar enough
+        required: true
+      - id: 12
+        name: top_issues
+        label: What Are Your Top Issues
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Economy
+          - Healthcare
+          - Education
+          - Climate change
+          - Immigration
+          - Crime and safety
+          - Foreign policy
+          - Social security
+          - Taxes
+          - Civil rights
+          - Other
+        required: true
+      - id: 13
+        name: candidate_approval
+        label: How Do You Feel About Our Candidate
+        hint: Rate approval
+        type: select_one
+        options:
+          - Strongly approve
+          - Somewhat approve
+          - Neutral
+          - Somewhat disapprove
+          - Strongly disapprove
+          - Not familiar
+        required: true
+      - id: 14
+        name: candidate_qualities
+        label: What Qualities Are Most Important in a Candidate
+        hint: Select top 3
+        type: select_multiple
+        options:
+          - Honesty and integrity
+          - Leadership experience
+          - Policy positions
+          - Communication skills
+          - Problem-solving ability
+          - Empathy
+          - Decisiveness
+          - Bipartisanship
+          - Political experience
+          - Outsider perspective
+        required: true
+      - id: 15
+        name: campaign_contact
+        label: Have You Been Contacted by Our Campaign
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes - multiple times
+          - Yes - once
+          - No
+        required: true
+      - id: 16
+        name: contact_method
+        label: How Were You Contacted
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Phone call
+          - Text message
+          - Email
+          - Direct mail
+          - Door to door
+          - Social media
+          - Event
+          - Not contacted
+        required: false
+      - id: 17
+        name: volunteer_interest
+        label: Are You Interested in Volunteering
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes - definitely
+          - Maybe - need more info
+          - No - not interested
+        required: true
+      - id: 18
+        name: volunteer_tasks
+        label: What Volunteer Tasks Interest You
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Phone banking
+          - Door to door canvassing
+          - Hosting events
+          - Social media
+          - Data entry
+          - Sign holding
+          - Donation calls
+          - Not interested
+        required: false
+      - id: 19
+        name: donation_interest
+        label: Are You Interested in Donating
+        hint: Yes or no
+        type: select_one
+        options:
+          - Yes - already donated
+          - Yes - planning to
+          - Maybe
+          - No
+        required: true
+      - id: 20
+        name: campaign_improvement
+        label: How Could Our Campaign Improve
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

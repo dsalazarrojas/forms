@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ebook Download Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ebook_title
+      label: Ebooks
+      hint: null
+      type: select_multiple
+      options:
+      - Ebooks 1
+      - Ebooks 2
+      - Ebooks 3
+      required: true
+    - id: 6
+      name: ebook_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: download_option
+      label: Download
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: confirm_download
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Decline
+      required: true

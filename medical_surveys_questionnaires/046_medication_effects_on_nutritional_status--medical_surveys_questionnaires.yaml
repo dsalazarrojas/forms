@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: medication_effects_on_nutritional_status
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - condition1
+      - condition2
+      - condition3
+      required: false
+    - id: 3
+      name: medication_list
+      label: medication_list
+      hint: null
+      type: select_multiple
+      options:
+      - med1
+      - med2
+      - med3
+      required: false
+    - id: 4
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: select_one
+      options:
+      - restriction1
+      - restriction2
+      - restriction3
+      required: false
+    - id: 5
+      name: food_intake
+      label: food_intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: water_intake
+      label: water_intake
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medication_side_effects
+      label: medication_side_effects
+      hint: null
+      type: select_multiple
+      options:
+      - side_effect1
+      - side_effect2
+      - side_effect3
+      required: false
+    - id: 8
+      name: patient_weight
+      label: patient_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_started_medication
+      label: date_started_medication
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_stopped_medication
+      label: date_stopped_medication
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: patient_nutritional_status
+      label: patient_nutritional_status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false

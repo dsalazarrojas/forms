@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Invitation Form Template
+    pages:
+    - id: 1
+      name: event_invitation_form_template_form
+      label: Event Invitation Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_invitation_form_template_rsvp
+      label: RSVP
+      hint: null
+      type: select_multiple
+      options:
+      - RSVP Yes
+      - RSVP No
+      - RSVP Maybe
+      required: true
+    - id: 3
+      name: event_invitation_form_template_dietary_preference
+      label: Dietary Preference
+      hint: Please select one or more of the following
+      type: select_one
+      options:
+      - Vegetarian
+      - Non-vegetarian
+      - Omnivore
+      required: true
+    - id: 4
+      name: event_invitation_form_template_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_invitation_form_template_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_invitation_form_template_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_invitation_form_template_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: event_invitation_form_template_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

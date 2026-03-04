@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Image Assessment Survey
+    pages:
+      - id: 1
+        name: respondent_role
+        label: Respondent role
+        hint: Customer employee partner or stakeholder
+        type: select_one
+        options:
+          - Customer
+          - Employee
+          - Partner
+          - Other
+        required: false
+      - id: 2
+        name: familiarity_with_brand
+        label: Familiarity with brand
+        hint: How familiar are you with the brand
+        type: select_one
+        options:
+          - Very familiar
+          - Somewhat familiar
+          - Not familiar
+        required: true
+      - id: 3
+        name: top_association
+        label: Top association
+        hint: One word that comes to mind about the brand
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: trust_level
+        label: Trust level
+        hint: How much do you trust the brand
+        type: select_one
+        options:
+          - High
+          - Moderate
+          - Low
+        required: true
+      - id: 5
+        name: likelihood_to_recommend
+        label: Likelihood to recommend
+        hint: Net promoter style rating
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 6
+        name: perceived_value
+        label: Perceived value
+        hint: Value for money perception
+        type: select_one
+        options:
+          - High
+          - Fair
+          - Low
+        required: false
+      - id: 7
+        name: improvement_suggestions
+        label: Improvement suggestions
+        hint: How brand can improve perception
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

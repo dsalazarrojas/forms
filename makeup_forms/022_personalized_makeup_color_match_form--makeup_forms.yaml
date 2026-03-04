@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Makeup Color Match Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - fair
+      - medium
+      - tan
+      - dark
+      - very dark
+      required: false
+    - id: 3
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - blonde
+      - brown
+      - red
+      - black
+      - grey
+      required: false
+    - id: 4
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_multiple
+      options:
+      - blue
+      - green
+      - hazel
+      - brown
+      - grey
+      required: false
+    - id: 5
+      name: skin_tone_preference
+      label: Skin Tone Preference
+      hint: null
+      type: select_one
+      options:
+      - fair
+      - medium
+      - tan
+      - dark
+      - very dark
+      required: false
+    - id: 6
+      name: style
+      label: Style
+      hint: null
+      type: select_one
+      options:
+      - natural
+      - dramatic
+      - bold
+      - classic
+      - romantic
+      required: false
+    - id: 7
+      name: recommended_products
+      label: Recommended Products
+      hint: null
+      type: select_multiple
+      options:
+      - Foundation
+      - Concealer
+      - Blush
+      - Eyeshadow
+      - Lipstick
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

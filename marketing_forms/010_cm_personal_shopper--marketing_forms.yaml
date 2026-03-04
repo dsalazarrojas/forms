@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: CM Personal Shopper
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Full name of the shopper client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: Best number to reach client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: style_preferences
+      label: Style preferences
+      hint: Casual, business, formal, or other
+      type: select_multiple
+      options:
+      - Casual
+      - Business
+      - Formal
+      - Trendy
+      - Classic
+      required: false
+    - id: 5
+      name: sizes
+      label: Clothing sizes
+      hint: Provide measurements or size ranges
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget_range
+      label: Budget range
+      hint: Estimated spending range per session
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: Appointment date
+      hint: Preferred date for shopping session
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_preferences
+      label: Delivery preferences
+      hint: Pickup, delivery, or in store
+      type: select_one
+      options:
+      - In store pickup
+      - Home delivery
+      - Virtual appointment
+      required: false
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any special requests or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_store_info
+      label: Consent to store client information
+      hint: Agree to retain personal preferences for future sessions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

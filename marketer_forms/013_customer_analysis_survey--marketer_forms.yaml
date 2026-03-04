@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Analysis Survey
+    pages:
+    - id: 1
+      name: customer_analysis_survey_form
+      label: customer_analysis_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_behaviors
+      label: customer_behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: purchase_frequency
+      label: purchase_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: customer_preferences
+      label: customer_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: purchase_amount
+      label: purchase_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

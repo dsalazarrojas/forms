@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: pricing_estimation_survey
+    pages:
+    - id: 1
+      name: pricing_estimation_form
+      label: pricing_estimation_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: pricing_estimation_survey_description
+      label: pricing_estimation_survey_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pricing_estimation_survey_category
+      label: pricing_estimation_survey_category
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: pricing_estimation_survey_tags
+      label: pricing_estimation_survey_tags
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pricing_estimation_survey_email
+      label: pricing_estimation_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: pricing_estimation_survey_phone
+      label: pricing_estimation_survey_phone
+      hint: null
+      type: text
+      options: []
+      required: false

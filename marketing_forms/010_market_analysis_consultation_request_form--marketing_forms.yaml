@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Analysis Consultation Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consultation_subject
+      label: Consultation Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: available_days
+      label: Available Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: required_document
+      label: Required Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_document
+      label: Other Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consultation_request
+      label: Consultation Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: marketing_channel
+      label: Marketing Channel
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Phone
+      - In-app message
+      required: false
+    - id: 15
+      name: marketing_source
+      label: Marketing Source
+      hint: null
+      type: select_multiple
+      options:
+      - Google
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Email Marketing
+      - Referral
+      required: false
+    - id: 16
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

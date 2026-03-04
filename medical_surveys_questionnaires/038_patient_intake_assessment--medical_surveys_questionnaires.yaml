@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Intake Assessment
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_use
+      label: Medication Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: medical_condition_description
+      label: Medical Condition Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history_details
+      label: Medical History Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Text''}'
+      required: true
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: contact_method_2
+      label: Contact Method 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Text''}'
+      required: false
+    - id: 14
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Medicine''}'
+      - '{''label'': ''Cardiology''}'
+      - '{''label'': ''Dermatology''}'
+      - '{''label'': ''Endocrinology''}'
+      - '{''label'': ''Gastroenterology''}'
+      - '{''label'': ''General Surgery''}'
+      - '{''label'': ''Neurology''}'
+      - '{''label'': ''Nephrology''}'
+      - '{''label'': ''Obstetrics & Gynecology''}'
+      - '{''label'': ''Ophthalmology''}'
+      - '{''label'': ''Orthopedic Surgery''}'
+      - '{''label'': ''Pain Management''}'
+      - '{''label'': ''Pathology''}'
+      - '{''label'': ''Physical Medicine & Rehabilitation''}'
+      - '{''label'': ''Pulmonology''}'
+      - '{''label'': ''Urology''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: medical_specialty_2
+      label: Medical Specialty 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Medicine''}'
+      - '{''label'': ''Cardiology''}'
+      - '{''label'': ''Dermatology''}'
+      - '{''label'': ''Endocrinology''}'
+      - '{''label'': ''Gastroenterology''}'
+      - '{''label'': ''General Surgery''}'
+      - '{''label'': ''Neurology''}'
+      - '{''label'': ''Nephrology''}'
+      - '{''label'': ''Obstetrics & Gynecology''}'
+      - '{''label'': ''Ophthalmology''}'
+      - '{''label'': ''Orthopedic Surgery''}'
+      - '{''label'': ''Pain Management''}'
+      - '{''label'': ''Pathology''}'
+      - '{''label'': ''Physical Medicine & Rehabilitation''}'
+      - '{''label'': ''Pulmonology''}'
+      - '{''label'': ''Urology''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: medical_specialty_3
+      label: Medical Specialty 3
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Medicine''}'
+      - '{''label'': ''Cardiology''}'
+      - '{''label'': ''Dermatology''}'
+      - '{''label'': ''Endocrinology''}'
+      - '{''label'': ''Gastroenterology''}'
+      - '{''label'': ''General Surgery''}'
+      - '{''label'': ''Neurology''}'
+      - '{''label'': ''Nephrology''}'
+      - '{''label'': ''Obstetrics & Gynecology''}'
+      - '{''label'': ''Ophthalmology''}'
+      - '{''label'': ''Orthopedic Surgery''}'
+      - '{''label'': ''Pain Management''}'
+      - '{''label'': ''Pathology''}'
+      - '{''label'': ''Physical Medicine & Rehabilitation''}'
+      - '{''label'': ''Pulmonology''}'
+      - '{''label'': ''Urology''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: medical_specialty_4
+      label: Medical Specialty 4
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Medicine''}'
+      - '{''label'': ''Cardiology''}'
+      - '{''label'': ''Dermatology''}'
+      - '{''label'': ''Endocrinology''}'
+      - '{''label'': ''Gastroenterology''}'
+      - '{''label'': ''General Surgery''}'
+      - '{''label'': ''Neurology''}'
+      - '{''label'': ''Nephrology''}'
+      - '{''label'': ''Obstetrics & Gynecology''}'
+      - '{''label'': ''Ophthalmology''}'
+      - '{''label'': ''Orthopedic Surgery''}'
+      - '{''label'': ''Pain Management''}'
+      - '{''label'': ''Pathology''}'
+      - '{''label'': ''Physical Medicine & Rehabilitation''}'
+      - '{''label'': ''Pulmonology''}'
+      - '{''label'': ''Urology''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: medical_history_text
+      label: Medical History Text
+      hint: null
+      type: text
+      options: []
+      required: false

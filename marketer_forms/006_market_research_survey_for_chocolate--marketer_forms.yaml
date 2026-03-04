@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Research Survey For Chocolate
+    pages:
+    - id: 1
+      name: market_research_survey_for_chocolate_page_1
+      label: Market Research Survey For Chocolate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chocolate_preferences
+      label: Chocolate Preferences
+      hint: null
+      type: select_one
+      options:
+      - Chocolate
+      - Vanilla
+      - Strawberry
+      - Orange
+      - Other
+      required: false
+    - id: 3
+      name: purchasing_habits
+      label: Purchasing Habits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: select_multiple
+      options:
+      - Age
+      - Gender
+      - Income
+      - Marital Status
+      - Occupation
+      required: false
+    - id: 5
+      name: purchasing_frequency
+      label: Purchasing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchasing_frequency_how_often
+      label: How Often
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: chocolate_purchasing_frequency
+      label: Chocolate Purchasing Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: chocolate_preferred_type
+      label: Preferred Type
+      hint: null
+      type: select_one
+      options:
+      - Dark
+      - Milk
+      - White
+      - Other
+      required: false
+    - id: 9
+      name: chocolate_preferred_brand
+      label: Preferred Brand
+      hint: null
+      type: select_one
+      options:
+      - Brand A
+      - Brand B
+      - Brand C
+      - Other
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: survey_conducted_by
+      label: Conducted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      - Other
+      required: false
+    - id: 14
+      name: survey_organizer
+      label: Organized By
+      hint: null
+      type: select_one
+      options:
+      - Mark
+      - Sarah
+      - Mike
+      - Other
+      required: false

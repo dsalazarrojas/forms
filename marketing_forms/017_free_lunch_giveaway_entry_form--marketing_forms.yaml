@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: free_lunch_giveaway_entry_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: preferred_lunch_time
+      label: preferred_lunch_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''11:00-12:00''}'
+      - '{''value'': ''12:00-13:00''}'
+      - '{''value'': ''13:00-14:00''}'
+      - '{''value'': ''14:00-15:00''}'
+      - '{''value'': ''15:00-16:00''}'
+      required: false
+    - id: 4
+      name: preferred_lunch_location
+      label: preferred_lunch_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''on_campus''}'
+      - '{''value'': ''off_campus''}'
+      - '{''value'': ''both''}'
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: would_you_like_to_win
+      label: win
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 7
+      name: how_did_you_hear_about_the_contest
+      label: how_did_you_hear_about
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''social_media''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''referral''}'
+      - '{''value'': ''flyer''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

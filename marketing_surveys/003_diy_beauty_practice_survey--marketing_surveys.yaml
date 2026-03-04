@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: DIY Beauty Practice Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: at_home_routine
+      label: At-Home Routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Dull skin
+      - Pores
+      - Dry skin
+      - Acne
+      - Hyper-pigmentation
+      - Fine lines
+      required: false
+    - id: 6
+      name: routine_frequency
+      label: Routine Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purchase_behaviors
+      label: Purchase Behaviors
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Frequently
+      required: false
+    - id: 8
+      name: routine_questions
+      label: Routine Questions
+      hint: null
+      type: select_multiple
+      options:
+      - How often do you use skincare products?
+      - What is your skincare routine like?
+      - How often do you wear makeup?
+      - Do you use sunscreen?
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Tag Design Update Request Form
+    pages:
+    - id: 1
+      name: product_tag_change_request
+      label: product_tag_change_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: deadline
+      label: deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: collection
+      label: collection
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      required: true
+    - id: 8
+      name: files
+      label: files
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''file1''}'
+      - '{''label'': ''file2''}'
+      - '{''label'': ''file3''}'
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Service Survey
+    pages:
+    - id: 1
+      name: section_visit_info
+      label: -- Visit Information --
+      hint: Help us improve your experience
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: primary_service
+      label: Primary Service Received
+      hint: null
+      type: select_one
+      options:
+      - Hair Cut or Style
+      - Hair Color
+      - Makeup Application
+      - Facial or Skin Treatment
+      - Manicure or Pedicure
+      - Waxing
+      required: true
+    - id: 4
+      name: professional_name
+      label: Name of Service Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_satisfaction
+      label: -- Service Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction with Service
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: professional_skill_rating
+      label: Rating of Professional Skill and Knowledge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: cleanliness_rating
+      label: Rating of Salon Cleanliness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: booking_ease
+      label: How easy was it to book your appointment?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 10
+      name: wait_time
+      label: Were you seen promptly at your appointment time?
+      hint: null
+      type: select_one
+      options:
+      - Yes, immediately
+      - Within 10 minutes
+      - 10 to 20 minute wait
+      - More than 20 minute wait
+      required: true
+    - id: 11
+      name: value_for_money
+      label: Did you feel the service provided good value for the price?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - false
+      required: true
+    - id: 12
+      name: recommendation_likelihood
+      label: How likely are you to recommend us to a friend?
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: additional_feedback
+      label: Do you have any additional comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: future_services_interest
+      label: Which other services would you be interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Lash Extensions
+      - Microblading
+      - Airbrush Makeup
+      - Specialty Facials
+      - Massage
+      required: false
+    - id: 15
+      name: follow_up_permission
+      label: May we contact you regarding this feedback?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: contact_email
+      label: Email Address for Follow-up
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: resistor_array_termination_order_form
+    pages:
+    - id: 1
+      name: resistor_array_termination_order
+      label: resistor_array_termination_order
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: termination_time
+      label: termination_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: termination_notes
+      label: termination_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: array_count
+      label: array_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: array_type
+      label: array_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: array_materials
+      label: array_materials
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: order_type
+      label: order_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false

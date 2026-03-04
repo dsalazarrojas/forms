@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: thyroid_health_feedback_form
+    pages:
+    - id: 1
+      name: thyroid_health_form
+      label: Thyroid Health Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: thyroid_health_questions
+      label: Thyroid Health Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: thyroid_health_symptoms
+      label: Thyroid Health Symptoms
+      hint: List any thyroid symptoms you may be experiencing
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: thyroid_health_doctor
+      label: Thyroid Health Doctor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: thyroid_health_clinic
+      label: Thyroid Health Clinic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: thyroid_health_program
+      label: Thyroid Health Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: thyroid_health_frequency
+      label: Thyroid Health Frequency
+      hint: How often does your doctor take your blood pressure
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: thyroid_health_medicine
+      label: Thyroid Health Medicine
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: thyroid_health_other
+      label: Thyroid Health Other
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: thyroid_health_support
+      label: Thyroid Health Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

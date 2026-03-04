@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infection Control KAP Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your role in the facility?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_2
+      label: What is the approximate number of patients you care for on a daily basis?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: How often do you review the current infection prevention and control
+        guidelines?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_4
+      label: How confident are you in your current knowledge of infection prevention
+        and control?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: What method would you use to clean and disinfect surfaces in a patient
+        room?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question_6
+      label: When was your last update on infection prevention and control?
+      hint: null
+      type: date
+      options: []
+      required: false

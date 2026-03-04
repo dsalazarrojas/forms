@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hemophilia Treatment Survey
+    pages:
+    - id: 1
+      name: treatment_regimens
+      label: What is your current treatment regimen?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Factor VIII''}'
+      - '{''value'': ''None''}'
+      - '{''value'': ''Desmotesplexin''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 2
+      name: bleeding_frequency
+      label: How often do you experience bleeding episodes?
+      hint: Please provide frequency of bleeding episodes in a month.
+      type: select_multiple
+      options:
+      - '{''value'': ''Rarely''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Frequently''}'
+      - '{''value'': ''Almost daily''}'
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you with your current treatment?
+      hint: On a scale of 1-5, where 1 is very dissatisfied and 5 is very satisfied.
+      type: select_one
+      options:
+      - '{''value'': ''1 - Very dissatisfied''}'
+      - '{''value'': ''2 - Somewhat dissatisfied''}'
+      - '{''value'': ''3 - Neutral''}'
+      - '{''value'': ''4 - Somewhat satisfied''}'
+      - '{''value'': ''5 - Very satisfied''}'
+      required: false
+    - id: 4
+      name: bleeding_history
+      label: How long have you been experiencing bleeding episodes?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: treatment_goals
+      label: What are your treatment goals?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Reduce frequency of bleeding episodes''}'
+      - '{''value'': ''Improve quality of life''}'
+      - '{''value'': ''Manageable treatment regimen''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: medical_history
+      label: What medical conditions do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hemophilia A''}'
+      - '{''value'': ''Hemophilia B''}'
+      - '{''value'': ''von Willebrand Disease''}'
+      - '{''value'': ''Factor XII deficiency''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 7
+      name: healthcare_team
+      label: Who is part of your healthcare team?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hemophilia specialist''}'
+      - '{''value'': ''Primary care physician''}'
+      - '{''value'': ''Nurse practitioner''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 8
+      name: treatment_preferences
+      label: What are your preferences for treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Injections''}'
+      - '{''value'': ''Infusions''}'
+      - '{''value'': ''Oral medications''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: bleeding_history_date
+      label: When did you first experience a bleeding episode?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional comments or questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: caregiver_info
+      label: Caregiver information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_info
+      label: Patient information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_info
+      label: Emergency contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_info
+      label: Medical information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_info
+      label: Insurance information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: treatment_location
+      label: Treatment location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: treatment_frequency
+      label: Treatment frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dosage
+      label: Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_side_effects
+      label: Medication side effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_other
+      label: Other medical history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: treatment_outcome
+      label: Treatment outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: treatment_outcome_details
+      label: Treatment outcome details
+      hint: null
+      type: text
+      options: []
+      required: false

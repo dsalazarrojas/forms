@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Exposure Impact Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Product
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: social_channel
+      label: Social Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: channel_impact
+      label: Channel Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: survey_completed
+      label: Survey Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: behavior_change
+      label: Behavior Change
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 12
+      name: behavior_change_reason
+      label: Behavior Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attitude_change
+      label: Attitude Change
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 14
+      name: attitude_change_reason
+      label: Attitude Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: behavior_change_likely
+      label: Behavior Change Likely
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: behavior_change_likely_reason
+      label: Behavior Change Likely Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: behavior_change_possibility
+      label: Behavior Change Possibility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: attitude_change_possibility
+      label: Attitude Change Possibility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: behavior_change_importance
+      label: Behavior Change Importance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: behavior_change_importance_reason
+      label: Behavior Change Importance Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: time_spent_important
+      label: Time Spent Important
+      hint: null
+      type: select_one
+      options:
+      - Important
+      - Not Important
+      required: true
+    - id: 22
+      name: time_spent_important_reason
+      label: Time Spent Important Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: behavior_change_possibility_reason
+      label: Behavior Change Possibility Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attitude_change_possibility_reason
+      label: Attitude Change Possibility Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

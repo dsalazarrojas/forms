@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Allergy Waiver Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: allergy_header
+      label: -- Allergy Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: known_allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_allergies
+      label: Product Allergies or Sensitivities
+      hint: Hair dyes, chemicals, fragrances, latex, etc.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reaction_severity
+      label: Severity of Allergic Reactions
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Severe - Anaphylaxis
+      required: true
+    - id: 12
+      name: past_reactions
+      label: Previous Reactions to Beauty Treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medications
+      label: Current Medications That May Interact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: skin_header
+      label: -- Skin Condition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Sensitive
+      - Normal
+      - Oily
+      - Dry
+      - Combination
+      required: true
+    - id: 16
+      name: skin_conditions
+      label: Current Skin Conditions
+      hint: Eczema, psoriasis, dermatitis, acne, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recent_treatments
+      label: Recent Skin Treatments or Procedures
+      hint: Last 4 weeks
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patch_test_header
+      label: -- Patch Test --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: agrees_patch_test
+      label: I Agree to Perform a Patch Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: willing_wait_48
+      label: I Am Willing to Wait 48 Hours for Patch Test Results
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: informed_header
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: understood_risks
+      label: I Understand the Risks of Allergic Reaction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: responsible_for_reactions
+      label: I Accept Responsibility for Allergic Reactions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: not_liable
+      label: I Release the Salon from Liability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: signature
+      label: Client Signature
+      hint: By typing here you agree to this waiver
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: waiver_date
+      label: Date of Waiver
+      hint: null
+      type: date
+      options: []
+      required: true

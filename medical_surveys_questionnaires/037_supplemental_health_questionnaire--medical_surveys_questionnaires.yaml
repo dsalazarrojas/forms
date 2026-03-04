@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplemental Health Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_one
+      options:
+      - COVID
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Headache
+      - Sore throat
+      - Runny nose
+      - Fatigue
+      - Muscle aches
+      - Chest pain
+      - Diarrhea
+      - Nausea
+      - Vomiting
+      - Confusion
+      - Loss of taste
+      - Loss of smell
+      - Other (please specify)
+      - None
+      required: true
+    - id: 4
+      name: medical_condition_other
+      label: other_medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_symptoms
+      label: date_of_symptoms
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: symptoms_start_date
+      label: symptoms_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: patient_travel
+      label: patient_travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      - Yes, international travel
+      - Yes, international travel with symptoms
+      required: true
+    - id: 8
+      name: travel_countries
+      label: travel_countries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_temperature
+      label: patient_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_hospitalization
+      label: patient_hospitalization
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Yes, admitted to intensive care
+      - Yes, admitted to hospital with oxygen
+      required: true
+    - id: 11
+      name: patient_contact
+      label: patient_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      - Yes, household contact
+      - Yes, non-household contact
+      required: false
+    - id: 12
+      name: patient_symptoms
+      label: patient_symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_test_results
+      label: patient_test_results
+      hint: null
+      type: select_one
+      options:
+      - No test done
+      - PCR test positive
+      - PCR test negative
+      - Rapid antigen test positive
+      - Rapid antigen test negative
+      required: false
+    - id: 14
+      name: patient_treatment
+      label: patient_treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_travel_history
+      label: patient_travel_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_vaccination_status
+      label: patient_vaccination_status
+      hint: null
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Booster dose received
+      required: false
+    - id: 17
+      name: patient_test_results_other
+      label: patient_test_results_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_medical_condition_other
+      label: other_medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_medical_condition_1
+      label: patient_medical_condition_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: patient_medical_condition_2
+      label: patient_medical_condition_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_medical_condition_3
+      label: patient_medical_condition_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: patient_medical_condition_4
+      label: patient_medical_condition_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patient_medical_condition_5
+      label: patient_medical_condition_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_medical_condition_6
+      label: patient_medical_condition_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: patient_medical_condition_7
+      label: patient_medical_condition_7
+      hint: null
+      type: text
+      options: []
+      required: false

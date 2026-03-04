@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: CNC Machine Coolant Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date the order is being placed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: ordering_department
+      label: Ordering Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person placing this order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cost_center
+      label: Cost Center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: coolant_type
+      label: Coolant Type
+      hint: Select the type of coolant needed
+      type: select_one
+      options:
+      - Soluble Oil
+      - Synthetic
+      - Semi-Synthetic
+      - Straight Oil
+      - Paste
+      - Other
+      required: true
+    - id: 8
+      name: coolant_brand
+      label: Preferred Coolant Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: coolant_quantity
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: quantity_unit
+      label: Unit of Measurement
+      hint: null
+      type: select_one
+      options:
+      - Liters
+      - Gallons
+      - Drums
+      - Barrels
+      - Containers
+      required: true
+    - id: 11
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need this coolant?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: delivery_location
+      label: Delivery Location
+      hint: Building, bay, or facility location
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: machine_models
+      label: CNC Machine Models Using This Coolant
+      hint: List the machine models that will use this coolant
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_inventory
+      label: Current Inventory Level
+      hint: Approximate amount of coolant on hand
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: usage_rate
+      label: Estimated Weekly Usage Rate
+      hint: How much coolant is used per week?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coolant_performance
+      label: Coolant Performance Issues
+      hint: Any issues with current coolant?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: environmental_requirements
+      label: Environmental or Safety Requirements
+      hint: Any special handling or disposal requirements?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_approved
+      label: Budget Pre-Approved
+      hint: Is budget available for this purchase?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending approval
+      required: false
+    - id: 19
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this order?
+      type: select_one
+      options:
+      - Standard
+      - Expedited
+      - Emergency
+      required: false
+    - id: 20
+      name: supervisor_approval
+      label: Supervisor Name
+      hint: Department supervisor approving this order
+      type: text
+      options: []
+      required: true

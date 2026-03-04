@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Medical History Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Athlete Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: athlete_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: primary_sport
+      label: Primary Sport
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_header
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_relationship
+      label: Relationship to Athlete
+      hint: e.g. Parent, Spouse, Guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_history_header
+      label: -- Past and Present Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: known_allergies
+      label: Known Allergies
+      hint: Include food, medicine, and environmental allergies. Type None if none.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_medications
+      label: Current Medications and Supplements
+      hint: Include dosage if known. Type None if none.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Asthma
+      - Diabetes (Type 1 or 2)
+      - Heart Murmur or Condition
+      - Epilepsy or Seizures
+      - High Blood Pressure
+      - Anemia
+      required: false
+    - id: 14
+      name: past_surgeries
+      label: Previous Surgeries and Procedures
+      hint: List with approximate dates. Type None if none.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recent_hospitalizations
+      label: Hospitalizations in the Last 2 Years
+      hint: Provide reasons and dates. Type None if none.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sports_injury_header
+      label: -- Sports-Specific Injury History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: concussion_history
+      label: Have you ever sustained a concussion?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: concussion_count
+      label: If yes, how many concussions?
+      hint: Enter 0 if none
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: bone_joint_injuries
+      label: Previous Bone or Joint Injuries
+      hint: Fractures, dislocations, etc. Type None if none.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: ligament_tendon_injuries
+      label: Previous Ligament or Tendon Injuries
+      hint: ACL, sprains, tears, etc. Type None if none.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: family_history_header
+      label: -- Family Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: family_cardiac_death
+      label: Family history of sudden cardiac death under age 50?
+      hint: Parents, siblings, or grandparents
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 23
+      name: family_heart_disease
+      label: Family history of heart disease or high blood pressure?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 24
+      name: authorization_header
+      label: -- Declaration and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: accuracy_certification
+      label: I certify that the information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 26
+      name: legal_signature
+      label: Electronic Signature of Athlete or Guardian
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: signature_date
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

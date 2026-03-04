@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: CardioMessenger Order Form
+    pages:
+    - id: 1
+      name: clinician_info_header
+      label: -- Clinician and Physician Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physician_full_name
+      label: Physician Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: clinic_practice_name
+      label: Clinic or Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: clinic_mailing_address
+      label: Clinic Mailing Address
+      hint: Enter full street address, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: clinic_contact_phone
+      label: Clinic Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_details_header
+      label: -- Device Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_reference_id
+      label: Patient Reference ID (if applicable)
+      hint: Use a unique ID for your internal records
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: device_model_requested
+      label: Device Model Requested
+      hint: Select the specific CardioMessenger model
+      type: select_one
+      options:
+      - label: CardioMessenger Smart (Mobile)
+        value: smart
+      - label: CardioMessenger II (Bedside)
+        value: bedside
+      - label: CardioMessenger Pro (Advanced)
+        value: pro
+      required: true
+    - id: 9
+      name: quantity_ordered
+      label: Quantity Ordered
+      hint: Select the number of units
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: shipping_method_preference
+      label: Shipping Method Preference
+      hint: null
+      type: select_one
+      options:
+      - label: Standard Ground (5-7 days)
+        value: ground
+      - label: Expedited (2-3 days)
+        value: expedited
+      - label: Overnight Priority
+        value: overnight
+      required: true
+    - id: 11
+      name: billing_information_header
+      label: -- Billing and Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: billing_contact_email
+      label: Billing Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: insurance_provider_info
+      label: Insurance Provider Information
+      hint: Provide carrier name and group number if billing directly
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_instructions_comments
+      label: Additional Instructions or Comments
+      hint: Any specific shipping or delivery requests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_authorization_confirmation
+      label: I authorize the order of the specified medical devices
+      hint: null
+      type: select_one
+      options:
+      - label: Authorized and Confirmed
+        value: authorized
+      - label: Not Authorized
+        value: not_authorized
+      required: true

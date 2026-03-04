@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Line Shutdown Notice Request Form
+    pages:
+    - id: 1
+      name: manufacturing_line_shutdown_request_form
+      label: Manufacturing Line Shutdown Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shutdown_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: shutdown_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shutdown_reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manufacturing_line
+      label: Manufacturing Line
+      hint: null
+      type: select_multiple
+      options:
+      - Line A
+      - Line B
+      - Line C
+      - Line D
+      - Line E
+      - Line F
+      - Line G
+      - Line H
+      - Line I
+      - Line J
+      required: false
+    - id: 6
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Joe Smith
+      - Jane Doe
+      - John Doe
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      - Jane
+      - John
+      required: false
+    - id: 12
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

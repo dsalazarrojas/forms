@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Treatment Discharge Form
+    pages:
+    - id: 1
+      name: patient_discharge_section
+      label: -- Patient Discharge Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Full Name
+      hint: As registered in the facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mrn
+      label: Medical Record Number
+      hint: Required for clinical records
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: Final date of the current inpatient treatment phase
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: discharging_dept
+      label: Discharging Department
+      hint: Which clinic or hospital wing is discharging you
+      type: select_one
+      options:
+      - Hematology
+      - Oncology
+      - Radiology
+      - Surgery
+      - Palliative Care
+      required: true
+    - id: 7
+      name: treatment_summary_section
+      label: -- Treatment Summary --
+      hint: A brief overview of care received
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: treatments_completed
+      label: Type of Treatment Completed
+      hint: Select all that apply to this visit
+      type: select_multiple
+      options:
+      - Chemotherapy
+      - Radiation
+      - Surgical Resection
+      - Targeted Therapy
+      - Immunotherapy
+      required: true
+    - id: 9
+      name: treatment_response
+      label: Overall response to treatment
+      hint: Clinical assessment of the outcome
+      type: select_one
+      options:
+      - Complete Response
+      - Partial Response
+      - Stable Disease
+      - Progressive Disease
+      - Palliative Management
+      required: true
+    - id: 10
+      name: post_treatment_care_section
+      label: -- Post-Treatment Care --
+      hint: How to manage your health at home
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: prescribed_meds
+      label: Prescribed Medications at Discharge
+      hint: List all meds, dosages, and schedules
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preferred_pharmacy
+      label: Pharmacy for Pickup
+      hint: Name and location of your local pharmacy
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Specific foods or drinks to avoid
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: activity_limitations
+      label: Activity Restrictions
+      hint: Physical activity guidance
+      type: select_one
+      options:
+      - Full Activity
+      - Light Activity Only
+      - No Strenuous Exercise
+      - Bed Rest
+      - Other
+      required: true
+    - id: 15
+      name: follow_up_emergency_section
+      label: -- Follow-up and Emergency --
+      hint: Contact and scheduling information
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_appt
+      label: Scheduled Follow-up Appointment
+      hint: Date of your next visit to the clinic
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: emergency_phone
+      label: Emergency Contact Information
+      hint: Direct line for after-hours oncology support
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: reportable_symptoms
+      label: Symptoms to Report Immediately
+      hint: Go to the ER or call the clinic if you experience any of these
+      type: select_multiple
+      options:
+      - High Fever
+      - Severe Pain
+      - Shortness of Breath
+      - Uncontrolled Bleeding
+      - Persistent Vomiting
+      - Other
+      required: true
+    - id: 19
+      name: discharging_provider
+      label: Discharge Nurse or MD Name
+      hint: The medical professional approving this discharge
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: instruction_understanding
+      label: I understand the post-care instructions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - I have questions
+      required: true
+    - id: 21
+      name: final_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

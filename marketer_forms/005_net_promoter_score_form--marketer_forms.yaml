@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Promoter Score Form
+    pages:
+    - id: 1
+      name: net_promoter_score_form_title
+      label: Net Promoter Score Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Not very likely
+      - Not at all likely
+      required: true
+    - id: 3
+      name: net_promoter_score
+      label: Net Promoter Score
+      hint: On a scale of 0 to 10, how likely are you to recommend this brand?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: net_promoter_free_text
+      label: Any further comments
+      hint: null
+      type: text
+      options: []
+      required: false

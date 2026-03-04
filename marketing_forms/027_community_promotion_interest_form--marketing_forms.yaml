@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Promotion Interest Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization
+      label: Organization or Business
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: promotion_info
+      label: Promotion Information
+      hint: Tell us about your interest
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interest_type
+      label: Type of Promotion Interest
+      hint: null
+      type: select_one
+      options:
+      - Sponsorship
+      - Advertising
+      - Event Partnership
+      - Media Coverage
+      - Social Media Promotion
+      - Community Outreach
+      - Other
+      required: true
+    - id: 14
+      name: promotion_description
+      label: Describe Your Promotion Interest
+      hint: What are you interested in promoting
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_audience
+      label: Target Audience
+      hint: Who are you trying to reach
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: promotion_goals
+      label: Promotion Goals
+      hint: What do you want to achieve
+      type: select_multiple
+      options:
+      - Brand Awareness
+      - Increase Sales
+      - Community Engagement
+      - Event Attendance
+      - Lead Generation
+      - Customer Loyalty
+      - Other
+      required: true
+    - id: 17
+      name: timeline
+      label: Promotion Timeline
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - Planning Ahead
+      required: true
+    - id: 18
+      name: duration
+      label: Promotion Duration
+      hint: How long should it run
+      type: select_one
+      options:
+      - One-Time Event
+      - 1-4 Weeks
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Ongoing
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - $10,000-$25,000
+      - Over $25,000
+      required: true
+    - id: 20
+      name: channels
+      label: Preferred Promotion Channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media
+      - Email Marketing
+      - Print Materials
+      - Website
+      - Events
+      - Local Media
+      - Outdoor Advertising
+      - Community Newsletter
+      required: false
+    - id: 21
+      name: previous_promotion
+      label: Have You Done Promotion Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: previous_details
+      label: Previous Promotion Details
+      hint: What worked or did not work
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: competitors
+      label: Who Are Your Main Competitors
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: unique_selling
+      label: What Makes You Unique
+      hint: Your unique value proposition
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: materials_available
+      label: Do You Have Marketing Materials Ready
+      hint: Logos, images, copy, etc.
+      type: select_one
+      options:
+      - Yes - Complete Package
+      - Yes - Some Materials
+      - No - Need Help Creating
+      required: true
+    - id: 26
+      name: approval_process
+      label: Who Approves Marketing Materials
+      hint: Decision maker
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: success_metrics
+      label: How Will You Measure Success
+      hint: Key performance indicators
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

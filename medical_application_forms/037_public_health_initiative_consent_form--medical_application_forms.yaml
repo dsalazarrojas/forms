@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_health_initiative_consent_form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: study_details
+      label: Study Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: informed_consent
+      label: Informed Consent
+      hint: A detailed explanation of the study, its purpose, and how data will be
+        used
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: Additional contact information for the participant
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: study_location
+      label: Study Location
+      hint: Where will the study be conducted?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_signature
+      label: Participant Signature
+      hint: Participant signature
+      type: select_one
+      options:
+      - Participant has read and understood the above information
+      - Participant has signed this consent form
+      required: true
+    - id: 7
+      name: investigator_signature
+      label: Investigator Signature
+      hint: Investigator signature
+      type: select_one
+      options:
+      - Investigator has reviewed this consent form
+      - Participant has consented to participate in the study
+      required: true
+    - id: 8
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: study_id
+      label: Study ID
+      hint: Study ID
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: participant_institution
+      label: Participant Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: researcher_institution
+      label: Researcher Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: investigator_info
+      label: Investigator Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_consent_version
+      label: Participant Consent Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: investigator_consent_version
+      label: Investigator Consent Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_consent_date
+      label: Participant Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: investigator_consent_date
+      label: Investigator Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: participant_signature_date
+      label: Participant Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: study_status
+      label: Study Status
+      hint: Study status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: participant_status
+      label: Participant Status
+      hint: Participant status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: participant_status_date
+      label: Participant Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: study_end_date
+      label: Study End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: study_duration
+      label: Study Duration
+      hint: Study duration
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: participant_duration
+      label: Participant Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: investigator_notes
+      label: Investigator Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: participant_institutional_review
+      label: Participant Institutional Review
+      hint: Participant Institutional Review
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 28
+      name: investigator_institutional_review
+      label: Investigator Institutional Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: study_institutional_review
+      label: Study Institutional Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

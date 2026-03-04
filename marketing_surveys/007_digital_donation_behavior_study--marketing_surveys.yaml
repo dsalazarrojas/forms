@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Donation Behavior Study
+    pages:
+    - id: 1
+      name: donor_id
+      label: Donor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: How often do you make donations?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Never
+      required: false
+    - id: 5
+      name: donation_method
+      label: Donation Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Mobile
+      - Mail
+      - In-person
+      required: false
+    - id: 6
+      name: donation_reason
+      label: Donation Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: favorite_charity
+      label: Favorite Charity
+      hint: null
+      type: select_one
+      options:
+      - Charity 1
+      - Charity 2
+      - Charity 3
+      - Charity 4
+      required: false
+    - id: 8
+      name: favorite_charity_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: survey_location
+      label: Survey Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_device
+      label: Survey Device
+      hint: null
+      type: select_one
+      options:
+      - Computer
+      - Phone
+      - Tablet
+      - Other
+      required: false
+    - id: 13
+      name: survey_browser
+      label: Survey Browser
+      hint: null
+      type: select_one
+      options:
+      - Google Chrome
+      - Mozilla Firefox
+      - Microsoft Edge
+      - Safari
+      - Other
+      required: false
+    - id: 14
+      name: survey_os
+      label: Survey OS
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - Linux
+      - MacOS
+      - Other
+      required: false
+    - id: 15
+      name: survey_ip_address
+      label: Survey IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: survey_city
+      label: Survey City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_country
+      label: Survey Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survey_state
+      label: Survey State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_zip
+      label: Survey ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: survey_ip_geolocation
+      label: Survey IP Geolocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_utm_source
+      label: Survey UTM Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: survey_utm_medium
+      label: Survey UTM Medium
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: survey_utm_campaign
+      label: Survey UTM Campaign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_utm_term
+      label: Survey UTM Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_utm_content
+      label: Survey UTM Content
+      hint: null
+      type: text
+      options: []
+      required: false

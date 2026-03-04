@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Climate Action Attitudes Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Youth Climate Action Attitudes Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How concerned are you about climate change?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: What are the most important reasons for your concern about climate change?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: question_3
+      label: How important is it that you are doing something about the climate crisis?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false

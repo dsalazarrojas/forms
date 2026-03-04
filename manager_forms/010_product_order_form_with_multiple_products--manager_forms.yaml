@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Order Form With Multiple Products
+    pages:
+    - id: 1
+      name: product_order_form_with_multiple_products_1
+      label: Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_order_form_with_multiple_products_2
+      label: Select Product
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_order_form_with_multiple_products_3
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Product 1''}'
+      - '{''text'': ''Product 2''}'
+      - '{''text'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: product_order_form_with_multiple_products_4
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_order_form_with_multiple_products_5
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_order_form_with_multiple_products_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: product_order_form_with_multiple_products_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_order_form_with_multiple_products_8
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false

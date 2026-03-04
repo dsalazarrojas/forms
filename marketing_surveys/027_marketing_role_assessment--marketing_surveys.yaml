@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Role Assessment
+    pages:
+    - id: 1
+      name: marketing_role_assessment_1
+      label: Marketing Role Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: The Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Marketing Manager'', ''value'': ''marketing_manager''}'
+      - '{''id'': 2, ''label'': ''Marketing Coordinator'', ''value'': ''marketing_coordinator''}'
+      - '{''id'': 3, ''label'': ''Marketing Specialist'', ''value'': ''marketing_specialist''}'
+      required: false
+    - id: 3
+      name: experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: skills
+      label: Marketing Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Social media marketing'', ''value'': ''social_media_marketing''}'
+      - '{''id'': 2, ''label'': ''Email marketing'', ''value'': ''email_marketing''}'
+      - '{''id'': 3, ''label'': ''Content creation'', ''value'': ''content_creation''}'
+      - '{''id'': 4, ''label'': ''Data analysis'', ''value'': ''data_analysis''}'
+      - '{''id'': 5, ''label'': ''Web development'', ''value'': ''web_development''}'
+      - '{''id'': 6, ''label'': ''Graphic design'', ''value'': ''graphic_design''}'
+      required: false
+    - id: 5
+      name: experience_level
+      label: experience level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner'', ''value'': ''beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate'', ''value'': ''intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced'', ''value'': ''advanced''}'
+      required: false
+    - id: 6
+      name: date_joined
+      label: date joined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: last_updated
+      label: last updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter's Name
+      hint: null
+      type: text
+      options: []
+      required: false

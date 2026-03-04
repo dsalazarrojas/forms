@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Copyright Registration Form
+    pages:
+    - id: 1
+      name: copyright_registration_form
+      label: Copyright Registration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: copyright_name
+      label: copyright_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: author_name
+      label: author_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: copyright_date
+      label: Copyright Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: work_title
+      label: work_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_description
+      label: work_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_type
+      label: work_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: country
+      label: country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: note
+      options: []
+      required: false

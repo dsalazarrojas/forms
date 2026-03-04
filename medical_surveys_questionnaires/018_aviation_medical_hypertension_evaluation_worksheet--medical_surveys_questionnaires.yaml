@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Medical Hypertension Evaluation Worksheet
+    pages:
+      - id: 1
+        name: section_patient_info
+        label: -- Patient and Examiner Information --
+        hint: To be completed by the patient or staff
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_name
+        label: Patient Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: dob
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: exam_date
+        label: Date of Examination
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: ame_name
+        label: Aviation Medical Examiner (AME) Name
+        hint: Examining physician
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_bp_readings
+        label: -- Blood Pressure Readings --
+        hint: Please provide multiple readings if applicable
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: bp_reading_1
+        label: Blood Pressure - Reading 1
+        hint: e.g. 120/80
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: bp_reading_2
+        label: Blood Pressure - Reading 2
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: history_hypertension
+        label: History of Hypertension
+        hint: Has the patient been diagnosed before?
+        type: select_one
+        options:
+          - Yes, Previously diagnosed
+          - No, First evaluation
+        required: true
+      - id: 10
+        name: section_medication
+        label: -- Medications and Studies --
+        hint: Current treatment and diagnostics
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: current_medications
+        label: Medications Prescribed
+        hint: List drug name and dosage
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: side_effects
+        label: Side Effects Reported
+        hint: Are there any reactions to medication?
+        type: select_one
+        options:
+          - No side effects
+          - Mild (Dizziness, fatigue)
+          - Moderate (Affecting daily life)
+          - Severe (Immediate attention needed)
+        required: true
+      - id: 13
+        name: diagnostic_studies
+        label: Diagnostic Studies Completed
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Electrocardiogram (EKG)
+          - Echocardiogram
+          - Renal Function Tests (Labs)
+          - Fasting Blood Sugar
+          - Lipid Profile
+        required: false
+      - id: 14
+        name: assessment_notes
+        label: Physician Assessment Notes
+        hint: Overall clinical impression
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: faa_disposition
+        label: FAA Disposition Recommendation
+        hint: Preliminary recommendation
+        type: select_one
+        options:
+          - Issue Certificate
+          - Defer to FAA Oklahoma City
+          - Deny Certificate
+        required: true
+      - id: 16
+        name: patient_signature
+        label: Patient Digital Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: examiner_signature
+        label: Examiner Digital Signature
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true

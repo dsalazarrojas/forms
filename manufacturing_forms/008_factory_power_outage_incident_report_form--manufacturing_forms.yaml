@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Power Outage Incident Report Form
+    pages:
+    - id: 1
+      name: factory_power_outage_incident_form
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: affected_equipment
+      label: affected_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: outage_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: outage_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: outage_duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reporter_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reporter_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments_to
+      label: comments_to
+      hint: null
+      type: text
+      options: []
+      required: false

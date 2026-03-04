@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Performance Benchmark Registration
+    pages:
+    - id: 1
+      name: machine_name
+      label: Machine Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: machine_model
+      label: Machine Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: machine_year_of_manufacture
+      label: Machine Year Of Manufacture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: engine_power_hp
+      label: Engine Power (HP)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: max_speed_mph
+      label: Max Speed (mph)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: max_speed_kmph
+      label: Max Speed (km/h)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: torque_rpm
+      label: Torque (RPM)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fuel_efficiency_gpmg
+      label: Fuel Efficiency (gpmg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: drive_type
+      label: Drive Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - Semi-Automatic
+      - Other
+      required: false
+    - id: 12
+      name: vehicle_weight
+      label: Vehicle Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_length
+      label: Vehicle Length (ft)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_width
+      label: Vehicle Width (ft)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_height
+      label: Vehicle Height (ft)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: machine_type
+      label: Machine Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Other
+      required: false
+    - id: 17
+      name: machine_condition
+      label: Machine Condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Refurbished
+      - Other
+      required: false
+    - id: 18
+      name: owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_tested
+      label: Date Tested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_tested
+      label: Time Tested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: test_result
+      label: Test Result
+      hint: null
+      type: note
+      options: []
+      required: false

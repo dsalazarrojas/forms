@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Cutting Fluid Order Form
+    pages:
+    - id: 1
+      name: product_selection
+      label: Product selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_comments
+      label: Order comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: product_info
+      label: Product info
+      hint: null
+      type: select_one
+      options:
+      - Product A
+      - Product B
+      - Product C
+      required: false
+    - id: 7
+      name: customer_order
+      label: Customer order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_instructions
+      label: Delivery instructions
+      hint: null
+      type: note
+      options: []
+      required: false

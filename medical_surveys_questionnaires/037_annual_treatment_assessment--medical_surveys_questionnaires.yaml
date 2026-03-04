@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Treatment Assessment
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name as on record
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or MRN
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: provider_name
+      label: Provider Name
+      hint: Healthcare provider conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: provider_specialty
+      label: Provider Specialty
+      hint: Type of provider or department
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_type
+      label: Type of Treatment
+      hint: null
+      type: select_one
+      options:
+      - Medical management
+      - Surgical
+      - Physical therapy
+      - Behavioral health
+      - Medication
+      - Rehabilitative
+      - Other
+      required: true
+    - id: 8
+      name: condition_treated
+      label: Primary Condition Being Treated
+      hint: Diagnosis or health condition
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treatment_start_date
+      label: Treatment Start Date
+      hint: When treatment began
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: treatment_duration
+      label: Duration of Treatment
+      hint: How long has treatment been ongoing
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: treatment_compliance
+      label: Patient compliance with treatment
+      hint: Adherence to treatment plan
+      type: select_one
+      options:
+      - Excellent - full compliance
+      - Good - mostly compliant
+      - Fair - partially compliant
+      - Poor - non-compliant
+      required: true
+    - id: 12
+      name: symptom_improvement
+      label: Symptom improvement since treatment start
+      hint: null
+      type: select_one
+      options:
+      - Significant improvement
+      - Moderate improvement
+      - Minimal improvement
+      - No change
+      - Worsened
+      required: true
+    - id: 13
+      name: functional_status
+      label: Functional status assessment
+      hint: Ability to perform daily activities
+      type: select_one
+      options:
+      - Significantly improved
+      - Improved
+      - Unchanged
+      - Declined
+      - Severely limited
+      required: true
+    - id: 14
+      name: pain_level
+      label: Current pain or discomfort level
+      hint: On a scale of 0-10 if applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: quality_of_life
+      label: Quality of life assessment
+      hint: How treatment has affected overall quality
+      type: select_one
+      options:
+      - Significantly improved
+      - Improved
+      - Unchanged
+      - Declined
+      - Not assessed
+      required: true
+    - id: 16
+      name: side_effects
+      label: Side effects or adverse reactions
+      hint: Any negative effects experienced
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: side_effect_severity
+      label: Severity of side effects
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      - Life-threatening
+      required: false
+    - id: 18
+      name: vital_signs
+      label: Current vital signs normal
+      hint: Blood pressure, heart rate, temp, etc.
+      type: select_one
+      options:
+      - All normal
+      - Mostly normal with minor variations
+      - Some abnormal values
+      - Significant abnormalities
+      required: false
+    - id: 19
+      name: lab_results
+      label: Recent lab results status
+      hint: null
+      type: select_one
+      options:
+      - All within normal range
+      - Mostly normal
+      - Some abnormal values
+      - Significant abnormalities
+      - Not assessed
+      required: false
+    - id: 20
+      name: treatment_effectiveness
+      label: Overall treatment effectiveness
+      hint: How well treatment is working
+      type: select_one
+      options:
+      - Highly effective
+      - Effective
+      - Moderately effective
+      - Minimally effective
+      - Ineffective
+      required: true
+    - id: 21
+      name: treatment_modification
+      label: Treatment plan modification needed
+      hint: null
+      type: select_one
+      options:
+      - No modifications needed
+      - Minor adjustments recommended
+      - Significant changes recommended
+      - Discontinue and switch treatment
+      required: true
+    - id: 22
+      name: modification_details
+      label: Details of recommended modifications
+      hint: Specific changes to treatment plan
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_assessment
+      label: Recommended next assessment date
+      hint: When patient should be seen again
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: provider_notes
+      label: Provider clinical notes
+      hint: Additional observations or concerns
+      type: text
+      options: []
+      required: false

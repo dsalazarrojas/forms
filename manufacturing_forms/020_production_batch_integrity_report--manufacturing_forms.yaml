@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Batch Integrity Report
+    pages:
+    - id: 1
+      name: batch_details
+      label: Batch Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: select_multiple
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: false
+    - id: 3
+      name: issues
+      label: Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: select_one
+      options:
+      - Action 1
+      - Action 2
+      - Action 3
+      required: false
+    - id: 5
+      name: batch_status
+      label: Batch Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 6
+      name: production_date
+      label: Production Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: production_time
+      label: Production Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: production_location
+      label: Production Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_shift
+      label: Production Shift
+      hint: null
+      type: select_one
+      options:
+      - Shift 1
+      - Shift 2
+      - Shift 3
+      required: false
+    - id: 10
+      name: quality_inspector
+      label: Quality Inspector
+      hint: null
+      type: select_one
+      options:
+      - Quality 1
+      - Quality 2
+      - Quality 3
+      required: false
+    - id: 11
+      name: production_manager
+      label: Production Manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 12
+      name: batch_integrity_comment
+      label: Batch Integrity Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: production_batch_integrity_rating
+      label: Production Batch Integrity Rating
+      hint: null
+      type: number
+      options: []
+      required: false

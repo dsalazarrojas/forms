@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: newsletter_preferences_survey
+    pages:
+    - id: 1
+      name: newsletter_frequency
+      label: How often do you want to hear from us
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: newsletter_topic
+      label: What topics are you interested in learning about
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: newsletter_method
+      label: What is your preferred method of receiving newsletters
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: birthday
+      label: What date is your birthday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_day
+      label: What time of day do you prefer to receive your newsletter
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Do you have any notes or comments about this form
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Feedback Request
+    pages:
+    - id: 1
+      name: manager_performance
+      label: Manager Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: strengths
+      label: Strengths
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

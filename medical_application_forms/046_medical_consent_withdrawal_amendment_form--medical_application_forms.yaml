@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consent Withdrawal Amendment Form
+    pages:
+    - id: 1
+      name: medical_consent_withdrawal_form_page
+      label: Withdraw Medical Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_for_withdrawal
+      label: Reason for withdrawal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_provider_comments
+      label: Medical Provider Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_comments
+      label: Patient Comments
+      hint: null
+      type: text
+      options: []
+      required: false

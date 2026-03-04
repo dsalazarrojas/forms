@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neck Pain Assessment Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: neck_pain_level
+      label: neck_pain_level
+      hint: null
+      type: select_multiple
+      options:
+      - Severe
+      - Moderate
+      - Mild
+      - None
+      required: false
+    - id: 3
+      name: pain_duration
+      label: pain_duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 24 hours - 3 days
+      - 3 days - 1 week
+      - More than 1 week
+      required: false
+    - id: 4
+      name: pain_location
+      label: pain_location
+      hint: null
+      type: select_multiple
+      options:
+      - Cervical spine
+      - Thoracic spine
+      - Shoulder
+      - Elbow
+      - Wrist
+      - Other
+      required: false
+    - id: 5
+      name: activities
+      label: activities
+      hint: null
+      type: select_multiple
+      options:
+      - Sedentary
+      - Light
+      - Moderate
+      - Heavy
+      - Very Heavy
+      required: false
+    - id: 6
+      name: symptoms
+      label: symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Headache
+      - Fatigue
+      - Dizziness
+      - Numbness
+      - Tingling
+      - Weakness
+      - Pain
+      - Loss of sensation
+      - Other
+      required: false
+    - id: 7
+      name: treatment
+      label: treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Physical therapy
+      - Medication
+      - Surgery
+      - Chiropractic
+      - Massage
+      - Other
+      required: false
+    - id: 8
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Musculoskeletal
+      - Neurological
+      - Cardiovascular
+      - Psychological
+      - Other
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false

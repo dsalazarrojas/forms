@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Discount Form Template
+    pages:
+    - id: 1
+      name: section_campaign_details
+      label: -- Campaign details --
+      hint: Basic campaign identifiers
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Campaign name
+      hint: Internal name for this discount campaign
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: discount_code
+      label: Discount code
+      hint: Code customers will use at checkout
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: discount_type
+      label: Discount type
+      hint: Choose percentage or fixed amount
+      type: select_one
+      options:
+      - Percentage
+      - Fixed amount
+      required: true
+    - id: 5
+      name: discount_value
+      label: Discount value
+      hint: Percentage or currency value depending on type
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start date
+      hint: Date campaign begins
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End date
+      hint: Date campaign ends
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: eligible_products
+      label: Eligible products or categories
+      hint: List SKUs or categories
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: minimum_purchase
+      label: Minimum purchase value
+      hint: Minimum cart value to apply discount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: Approval status
+      hint: Has discount been approved
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 11
+      name: campaign_owner_email
+      label: Campaign owner email
+      hint: Contact for follow up
+      type: email
+      options: []
+      required: true

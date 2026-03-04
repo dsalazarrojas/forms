@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Defect Root Cause Request Form
+    pages:
+    - id: 1
+      name: manufacturing_defect_request
+      label: Manufacturing Defect Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: defect_type
+      label: Defect Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_occurrence
+      label: Date of Occurrence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_occurrence
+      label: Time of Occurrence
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preventive_measures
+      label: Preventive Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: responsible_person
+      label: Responsible Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

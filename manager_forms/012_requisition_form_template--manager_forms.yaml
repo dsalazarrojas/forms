@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Requisition Form Template
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: requisitioner
+      label: requisitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_requested
+      label: Item Requested
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 4
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Director
+      required: false
+    - id: 8
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false

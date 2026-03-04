@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiologists Event Log Survey
+    pages:
+    - id: 1
+      name: attendee_info_header
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_title_evaluated
+      label: Session Title
+      hint: Enter the name of the session you are evaluating
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_content_rating
+      label: Rate the session content quality
+      hint: 1 - Poor, 5 - Excellent
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: clinical_relevancy
+      label: Relevancy to your clinical practice
+      hint: Select the one that best applies
+      type: select_one
+      options:
+      - label: Highly Relevant
+        value: highly_relevant
+      - label: Somewhat Relevant
+        value: somewhat_relevant
+      - label: Not Very Relevant
+        value: not_relevant
+      - label: Not Relevant At All
+        value: none
+      required: true
+    - id: 7
+      name: key_takeaways
+      label: Key Takeaways from this session
+      hint: Briefly describe what you learned
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_header
+      label: -- Event Feedback & Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: future_topic_suggestions
+      label: Suggestions for future cardiology topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_event_satisfaction
+      label: Overall event satisfaction
+      hint: null
+      type: select_one
+      options:
+      - label: Very Satisfied
+        value: very_satisfied
+      - label: Satisfied
+        value: satisfied
+      - label: Neutral
+        value: neutral
+      - label: Dissatisfied
+        value: dissatisfied
+      required: true
+    - id: 11
+      name: organization_rating
+      label: Rate the event organization and logistics
+      hint: 1 - Poorly Managed, 5 - Perfectly Managed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: permission_to_follow_up
+      label: May we contact you for more feedback?
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I am open to it
+        value: true
+      - label: No, please do not contact me
+        value: false
+      required: true

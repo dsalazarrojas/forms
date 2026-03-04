@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Marketing Referral Form
+    pages:
+    - id: 1
+      name: referrer_name
+      label: Your Full Name
+      hint: Name of person making the referral
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referrer_email
+      label: Your Email Address
+      hint: How to contact you
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: referrer_phone
+      label: Your Phone Number
+      hint: Best phone to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referrer_company
+      label: Your Company Name
+      hint: Organization you represent
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_relationship
+      label: How do you know the referred contact?
+      hint: Describe your relationship
+      type: select_one
+      options:
+      - Business Associate
+      - Client
+      - Colleague
+      - Friend
+      - Family Member
+      - Other
+      required: true
+    - id: 6
+      name: referred_contact_name
+      label: Referred Contact Name
+      hint: Full name of person being referred
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: referred_contact_email
+      label: Referred Contact Email
+      hint: Email address of referred person
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: referred_contact_phone
+      label: Referred Contact Phone
+      hint: Phone number of referred person
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: referred_company_name
+      label: Referred Person Company
+      hint: Company name or organization
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referred_company_industry
+      label: Industry or Business Type
+      hint: What industry are they in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Services
+      - Non-profit
+      - Other
+      required: true
+    - id: 11
+      name: referred_company_size
+      label: Company Size
+      hint: Estimated number of employees
+      type: select_one
+      options:
+      - Startup (1-10 employees)
+      - Small (11-50 employees)
+      - Medium (51-250 employees)
+      - Large (251-1000 employees)
+      - Enterprise (1000+ employees)
+      required: false
+    - id: 12
+      name: interest_areas
+      label: Areas of Interest for Services
+      hint: What services might they need?
+      type: select_multiple
+      options:
+      - Marketing Strategy
+      - Digital Marketing
+      - Brand Development
+      - Content Creation
+      - Social Media
+      - SEO/SEM
+      - Email Marketing
+      - Analytics
+      required: true
+    - id: 13
+      name: referral_reason
+      label: Why Are You Making This Referral?
+      hint: Explain the match between them and our services
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_receptivity
+      label: Are they open to being contacted?
+      hint: Have you discussed this referral with them?
+      type: select_one
+      options:
+      - Yes, they are expecting contact
+      - Yes, but not yet notified
+      - Unsure
+      - false
+      required: true
+    - id: 15
+      name: referral_budget_range
+      label: Estimated Budget Range
+      hint: Approximate annual budget they might have
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000 - $50,000
+      - $50,000 - $100,000
+      - $100,000 - $250,000
+      - Over $250,000
+      - Unknown
+      required: false
+    - id: 16
+      name: referral_timeline
+      label: Timeframe for Implementation
+      hint: When might they be ready to engage?
+      type: select_one
+      options:
+      - Immediate
+      - Next 3 months
+      - Next 6 months
+      - Next 12 months
+      - Unknown
+      required: false
+    - id: 17
+      name: referral_bonus_preference
+      label: Preferred Reward Option
+      hint: How would you like to be rewarded?
+      type: select_one
+      options:
+      - Monetary commission
+      - Discount on services
+      - Credit toward future services
+      - Other
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Comments
+      hint: Any other relevant information?
+      type: text
+      options: []
+      required: false

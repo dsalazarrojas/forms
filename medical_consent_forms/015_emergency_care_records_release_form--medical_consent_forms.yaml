@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Care Records Release Form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: patient_identifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: authorized_contact
+      label: authorized_contact
+      hint: Who is authorized to receive the patient's medical records?
+      type: select_multiple
+      options:
+      - Patient
+      - Authorized Representative
+      - Family Member
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_relationship
+      label: contact_relationship
+      hint: How do you know the patient?
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Authorized Representative
+      - Emergency Contact
+      required: false
+    - id: 7
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: facility_name
+      label: facility_name
+      hint: Which facility provided care?
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Doctor's Office
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: medical_record_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_record_id
+      label: medical_record_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: patient_signature_date
+      label: patient_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: facility_signature_date
+      label: facility_signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: facility_signature
+      label: facility_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_record_version
+      label: medical_record_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: facility
+      label: facility
+      hint: null
+      type: select_one
+      options:
+      - Primary Care
+      - Specialty Care
+      - Urgent Care
+      required: false
+    - id: 18
+      name: medical_record_status
+      label: medical_record_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 19
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_address_2
+      label: facility_address_2
+      hint: null
+      type: text
+      options: []
+      required: false

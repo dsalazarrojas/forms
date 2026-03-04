@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliate Signup Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Primary email for account access and communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Phone number for account verification
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_name
+      label: Business Name
+      hint: Name of your business or company (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_url
+      label: Website URL
+      hint: URL of your website or primary marketing platform
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: marketing_channels_section
+      label: Marketing Channels
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_marketing_channel
+      label: Primary Marketing Channel
+      hint: Which channel do you primarily use for marketing?
+      type: select_one
+      options:
+      - Social Media
+      - Blog/Content Marketing
+      - Email Marketing
+      - Paid Advertising
+      - SEO
+      - YouTube
+      - Podcasts
+      - Other
+      required: true
+    - id: 9
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: Which social media platforms do you use for marketing?
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - TikTok
+      - YouTube
+      - Pinterest
+      - Snapchat
+      - Other
+      required: true
+    - id: 10
+      name: monthly_traffic
+      label: Monthly Traffic
+      hint: Approximately how much traffic does your platform receive monthly?
+      type: select_one
+      options:
+      - Under 1,000 visitors
+      - 1,000-5,000 visitors
+      - 5,000-10,000 visitors
+      - 10,000-50,000 visitors
+      - 50,000-100,000 visitors
+      - Over 100,000 visitors
+      required: true
+    - id: 11
+      name: audience_demographics
+      label: Audience Demographics
+      hint: Describe your primary audience (age, interests, location, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: marketing_experience
+      label: Marketing Experience
+      hint: How many years of marketing experience do you have?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 13
+      name: previous_affiliate_experience
+      label: Previous Affiliate Experience
+      hint: Have you participated in affiliate programs before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: previous_affiliate_programs
+      label: Previous Affiliate Programs
+      hint: If yes, which programs have you participated in?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: performance_metrics_section
+      label: Performance Metrics
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: average_conversion_rate
+      label: Average Conversion Rate
+      hint: What is your typical conversion rate?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: typical_commission_preference
+      label: Typical Commission Preference
+      hint: What commission percentage are you typically looking for?
+      type: select_one
+      options:
+      - Under 5%
+      - 5-10%
+      - 10-15%
+      - 15-20%
+      - Over 20%
+      - Open to negotiation
+      required: true
+    - id: 18
+      name: payment_expectations
+      label: Payment Expectations
+      hint: How often would you prefer to receive payments?
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - When threshold reached
+      required: true
+    - id: 19
+      name: marketing_approach
+      label: Marketing Approach
+      hint: How do you plan to promote our products/services?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: content_creation_ability
+      label: Content Creation Ability
+      hint: Are you able to create your own marketing content?
+      type: select_one
+      options:
+      - Yes, I create all content myself
+      - Yes, with some provided materials
+      - No, I need provided content
+      - I can adapt provided content
+      required: true
+    - id: 21
+      name: compliance_commitment
+      label: Compliance Commitment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to the affiliate program terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: disclosure_compliance
+      label: Disclosure Compliance
+      hint: I agree to properly disclose affiliate relationships as required by law
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: brand_guidelines_compliance
+      label: Brand Guidelines Compliance
+      hint: I agree to follow brand guidelines when promoting products
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: prohibited_practices_acknowledgment
+      label: Prohibited Practices Acknowledgment
+      hint: I understand and agree not to use spam, misleading advertising, or other
+        prohibited practices
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: payment_information_section
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: preferred_payment_method
+      label: Preferred Payment Method
+      hint: How would you like to receive payments?
+      type: select_one
+      options:
+      - Direct Deposit
+      - PayPal
+      - Check
+      - Wire Transfer
+      - Other
+      required: true
+    - id: 28
+      name: payment_details
+      label: Payment Details
+      hint: Account details for your preferred payment method
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: tax_information
+      label: Tax Information
+      hint: Tax ID or SSN for tax reporting purposes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: signature
+      label: Electronic Signature
+      hint: Sign to confirm your affiliate signup
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Analytics Trial Registration Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Trial Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: Contact First Name
+      hint: First name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Last name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of the company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Phone number of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_position
+      label: Contact Position
+      hint: Position of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_location
+      label: Company Location
+      hint: Location of the company
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trial_start_date
+      label: Trial Start Date
+      hint: Start date of the trial
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: trial_end_date
+      label: Trial End Date
+      hint: End date of the trial
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: company_description
+      label: Company Description
+      hint: Description of the company
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: trial_description
+      label: Trial Description
+      hint: Description of the trial
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: company_sector
+      label: Company Sector
+      hint: Sector of the company
+      type: select_multiple
+      options:
+      - Software
+      - Technology
+      - E-commerce
+      - Finance
+      - Health
+      - Other
+      required: false
+    - id: 15
+      name: industry
+      label: Industry
+      hint: Industry of the company
+      type: select_multiple
+      options:
+      - Software
+      - Technology
+      - Retail
+      - Finance
+      - Health
+      - Other
+      required: false
+    - id: 16
+      name: trial_type
+      label: Trial Type
+      hint: Type of the trial
+      type: select_one
+      options:
+      - Beta Trial
+      - Pilot Trial
+      - Focus Group
+      - Other
+      required: false
+    - id: 17
+      name: trial_status
+      label: Trial Status
+      hint: Status of the trial
+      type: select_one
+      options:
+      - Active
+      - Scheduled
+      - Completed
+      - Cancelled
+      required: false
+    - id: 18
+      name: trial_goal
+      label: Trial Goal
+      hint: Goal of the trial
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: trial_budget
+      label: Trial Budget
+      hint: Budget of the trial
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: company_size
+      label: Company Size
+      hint: Size of the company
+      type: select_multiple
+      options:
+      - Less than 10
+      - 10-50
+      - 50-100
+      - 100-500
+      - More than 500
+      required: false
+    - id: 21
+      name: trial_duration
+      label: Trial Duration
+      hint: Duration of the trial
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: company_address
+      label: Company Address
+      hint: Address of the company
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: trial_participants
+      label: Trial Participants
+      hint: Number of participants in the trial
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: trial_outcomes
+      label: Trial Outcomes
+      hint: Outcomes of the trial
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: The user who is assigned to this form
+      type: text
+      options: []
+      required: false

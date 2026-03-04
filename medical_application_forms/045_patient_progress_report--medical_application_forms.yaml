@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Progress Report
+    pages:
+    - id: 1
+      name: patient_progress_report_1
+      label: patient_progress_report_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: medical_application_forms_1
+      label: medical_application_forms_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: patient_progress_report_2
+      label: patient_progress_report_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_progress_report_3
+      label: patient_progress_report_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_progress_report_4
+      label: patient_progress_report_4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_application_forms_2
+      label: medical_application_forms_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: patient_progress_report_5
+      label: patient_progress_report_5
+      hint: null
+      type: number
+      options: []
+      required: false

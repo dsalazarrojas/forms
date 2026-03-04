@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Men's Skincare Adoption Survey
+    pages:
+    - id: 1
+      name: men_s_skin_care_routine
+      label: Do you have a regular skincare routine?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      required: false
+    - id: 2
+      name: routine_frequency
+      label: How often do you follow your skincare routine?
+      hint: null
+      type: select_multiple
+      options:
+      - Every morning
+      - Before bed
+      - After a shower
+      - After a workout
+      - Other
+      required: false
+    - id: 3
+      name: products_used
+      label: Which of the following skincare products do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Face wash
+      - Moisturizer
+      - Exfoliator
+      - Toner
+      - Serum
+      - Sunscreen
+      - Other
+      required: false
+    - id: 4
+      name: skincare_products_used
+      label: Which skincare products do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - Shaving cream
+      - Aftershave balm
+      - Shaving oil
+      - Face scrub
+      - Face mask
+      - Eye cream
+      - Nail care
+      - Skincare set
+      - Other
+      required: false
+    - id: 5
+      name: new_product_opportunities
+      label: How likely are you to try new skincare products?
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      required: false
+    - id: 6
+      name: skincare_importance
+      label: How important is skincare to you?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not at all important
+      required: false
+    - id: 7
+      name: skincare_influence
+      label: What influences your skincare decisions?
+      hint: null
+      type: select_multiple
+      options:
+      - Influencers
+      - Friends
+      - Family
+      - Online reviews
+      - Advertising
+      - Social media
+      - Product packaging
+      - Other
+      required: false
+    - id: 8
+      name: skincare_preferences
+      label: What are your preferences for skincare products?
+      hint: null
+      type: select_multiple
+      options:
+      - Natural ingredients
+      - Sustainable products
+      - Cruelty-free
+      - Affordable price
+      - Effective
+      - Other
+      required: false
+    - id: 9
+      name: skincare_channel
+      label: How do you usually discover new skincare products?
+      hint: null
+      type: select_multiple
+      options:
+      - Social media
+      - Online ads
+      - Word of mouth
+      - Product packaging
+      - Friends
+      - Family
+      - Other
+      required: false
+    - id: 10
+      name: skincare_preferences_other
+      label: Is there anything else you'd like to add about your skincare preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skincare_preferences_other_other
+      label: Is there anything else you'd like to add about your skincare preferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skincare_product_interests
+      label: What kind of skincare products do you have interests in?
+      hint: null
+      type: select_multiple
+      options:
+      - Cleansers
+      - Moisturizers
+      - Exfoliants
+      - Toners
+      - Serums
+      - Sunscreens
+      - Other
+      required: false
+    - id: 13
+      name: skincare_product_interests_other
+      label: Is there anything else you're interested in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: skincare_preferences_frequency
+      label: How often do you usually purchase skincare products?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: skincare_budget
+      label: What is your average monthly skincare spend?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: skincare_purpose
+      label: How many skincare products do you usually use in a day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: skincare_products_used_others
+      label: Have you considered using other products?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

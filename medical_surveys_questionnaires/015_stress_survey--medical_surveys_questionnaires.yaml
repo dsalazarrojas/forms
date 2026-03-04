@@ -1,0 +1,301 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stress Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stress_score
+      label: How stressed do you feel right now?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stress_level
+      label: What is your stress level?
+      hint: null
+      type: select_multiple
+      options:
+      - Very low
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: physical_symptoms
+      label: Do you experience any of the following physical symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Fatigue
+      - Headaches
+      - Sleep difficulties
+      - Difficulty concentrating
+      - Irritability
+      - Mood swings
+      required: false
+    - id: 5
+      name: emotional_symptoms
+      label: Do you experience any of the following emotional symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Anxiety
+      - Fear
+      - Loss of interest
+      - Difficulty making decisions
+      - Mood swings
+      required: false
+    - id: 6
+      name: cognitive_symptoms
+      label: Do you experience any of the following cognitive symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Difficulty concentrating
+      - Memory difficulties
+      - Confusion
+      - Lack of focus
+      required: false
+    - id: 7
+      name: behavioral_symptoms
+      label: Do you experience any of the following behavioral symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Irritability
+      - Mood swings
+      - Difficulty relaxing
+      - Lack of motivation
+      required: false
+    - id: 8
+      name: stress_impact
+      label: What impact does stress have on you?
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Emotional
+      - Social
+      - Professional
+      - Financial
+      required: false
+    - id: 9
+      name: help_sources
+      label: What sources of support do you have to help you deal with stress?
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse/partner
+      - Family
+      - Friends
+      - Therapist
+      - Support group
+      required: false
+    - id: 10
+      name: self_care
+      label: How do you take care of yourself?
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise
+      - Diet
+      - Relaxation techniques
+      - Sleep schedule
+      required: false
+    - id: 11
+      name: self_help
+      label: Have you reached out for help?
+      hint: null
+      type: select_multiple
+      options:
+      - Spent money on therapy
+      - Talked to friends or family
+      - Spent time with a therapist
+      - Spent time with a support group
+      required: false
+    - id: 12
+      name: self_help_2
+      label: Have you reached out for help?
+      hint: null
+      type: select_multiple
+      options:
+      - Spent money on therapy
+      - Talked to friends or family
+      - Spent time with a therapist
+      - Spent time with a support group
+      required: false
+    - id: 13
+      name: stress_management
+      label: What stress management techniques do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise
+      - Music
+      - Relaxation
+      - Mindfulness
+      required: false
+    - id: 14
+      name: stress_management_2
+      label: What do you use to relax?
+      hint: null
+      type: select_multiple
+      options:
+      - Reading
+      - Listening to music
+      - Taking a walk
+      - Mindfulness meditation
+      required: false
+    - id: 15
+      name: relaxation_techniques
+      label: What relaxation techniques do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Mindfulness
+      - Exercise
+      - Journaling
+      - Deep breathing
+      required: false
+    - id: 16
+      name: relaxation_techniques_2
+      label: Have you ever taken a break?
+      hint: null
+      type: select_multiple
+      options:
+      - Short break
+      - Medium break
+      - Long break
+      required: false
+    - id: 17
+      name: relaxation_techniques_3
+      label: What helps you relax?
+      hint: null
+      type: select_multiple
+      options:
+      - Exercise
+      - Reading
+      - Music
+      - Nature
+      required: false
+    - id: 18
+      name: relaxation_techniques_4
+      label: How often do you take breaks?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 1-2 times a week
+      - Less often
+      required: false
+    - id: 19
+      name: stress_remediation
+      label: Would you like help with stress remidiation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: stress_remidiation_2
+      label: Would you like help with stress remidiation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: stress_remediation_3
+      label: Do you want help with stress remidiation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: stress_remediation_4
+      label: Do you want help with stress remidiation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: stress_remediation_5
+      label: Would you like help with stress remidiation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: stress_remediation_6
+      label: Would you like help with stress remidiation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: stress_remediation_7
+      label: Would you like help with stress remidiation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 26
+      name: self_care_2
+      label: How often do you take care of yourself?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - 1-2 times a week
+      - Less often
+      required: false
+    - id: 27
+      name: self_care_3
+      label: How often do you exercise?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - 1-2 times a week
+      - Less often
+      required: false
+    - id: 28
+      name: self_care_4
+      label: How often do you get enough sleep?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - 1-2 times a week
+      - Less often
+      required: false
+    - id: 29
+      name: self_care_5
+      label: How often do you practice mindfulness?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - 1-2 times a week
+      - Less often
+      required: false

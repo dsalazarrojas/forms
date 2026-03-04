@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Branding Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional, for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: customer_status
+        label: Customer Status
+        hint: Are you a customer
+        type: select_one
+        options:
+          - Current Customer
+          - Former Customer
+          - Potential Customer
+          - Never Heard of Brand
+        required: true
+      - id: 4
+        name: brand_awareness
+        label: Brand Awareness
+        hint: How aware are you of this brand
+        type: select_one
+        options:
+          - Very Aware
+          - Somewhat Aware
+          - Heard of It
+          - Not Aware
+        required: true
+      - id: 5
+        name: brand_recognition
+        label: Brand Recognition
+        hint: Can you recognize the brand logo
+        type: select_one
+        options:
+          - Yes, Easily
+          - Yes, With Some Effort
+          - No, Cannot Recognize
+        required: true
+      - id: 6
+        name: brand_attributes
+        label: Brand Attributes
+        hint: What words describe this brand
+        type: select_multiple
+        options:
+          - Innovative
+          - Trustworthy
+          - Affordable
+          - Premium
+          - Reliable
+          - Friendly
+          - Professional
+          - Creative
+          - Outdated
+          - Confusing
+        required: true
+      - id: 7
+        name: brand_positioning
+        label: Brand Positioning
+        hint: How do you position this brand
+        type: select_one
+        options:
+          - Market Leader
+          - Premium Option
+          - Value Option
+          - Niche Player
+          - Follower
+        required: true
+      - id: 8
+        name: visual_identity_rating
+        label: Visual Identity Rating
+        hint: Rate the visual branding
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 9
+        name: messaging_clarity
+        label: Messaging Clarity
+        hint: Is the brand messaging clear
+        type: select_one
+        options:
+          - Very Clear
+          - Somewhat Clear
+          - Neutral
+          - Confusing
+          - Very Confusing
+        required: true
+      - id: 10
+        name: emotional_connection
+        label: Emotional Connection
+        hint: Do you feel connected to this brand
+        type: select_one
+        options:
+          - Strong Connection
+          - Some Connection
+          - Neutral
+          - Little Connection
+          - No Connection
+        required: true
+      - id: 11
+        name: brand_consistency
+        label: Brand Consistency
+        hint: Is the brand consistent across channels
+        type: select_one
+        options:
+          - Very Consistent
+          - Mostly Consistent
+          - Somewhat Consistent
+          - Inconsistent
+          - Very Inconsistent
+        required: true
+      - id: 12
+        name: trust_level
+        label: Trust Level
+        hint: How much do you trust this brand
+        type: select_one
+        options:
+          - Trust Completely
+          - Trust Mostly
+          - Neutral
+          - Distrust
+          - Distrust Completely
+        required: true
+      - id: 13
+        name: purchase_intent
+        label: Purchase Intent
+        hint: Would you purchase from this brand
+        type: select_one
+        options:
+          - Definitely Would
+          - Probably Would
+          - Might or Might Not
+          - Probably Would Not
+          - Definitely Would Not
+        required: true
+      - id: 14
+        name: recommendation_likelihood
+        label: Recommendation Likelihood
+        hint: Would you recommend this brand
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 15
+        name: brand_strengths
+        label: Brand Strengths
+        hint: What does this brand do well
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: brand_weaknesses
+        label: Brand Weaknesses
+        hint: What could this brand improve
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: overall_impression
+        label: Overall Impression
+        hint: Share your overall impression
+        type: text
+        options: []
+        required: true

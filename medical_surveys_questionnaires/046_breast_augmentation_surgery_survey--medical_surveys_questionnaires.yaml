@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Breast Augmentation Surgery Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_age
+      label: Age
+      hint: Your current age
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: surgery_date
+      label: Surgery Date
+      hint: When was your surgery
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: surgeon_name
+      label: Surgeon Name
+      hint: Name of your surgeon
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: implant_type
+      label: Implant Type
+      hint: Type of implants you received
+      type: select_one
+      options:
+      - Saline
+      - Silicone
+      - Gummy Bear
+      - Not Sure
+      required: true
+    - id: 7
+      name: implant_placement
+      label: Implant Placement
+      hint: Where were implants placed
+      type: select_one
+      options:
+      - Subglandular
+      - Submuscular
+      - Dual Plane
+      - Not Sure
+      required: false
+    - id: 8
+      name: incision_location
+      label: Incision Location
+      hint: Where was the incision made
+      type: select_one
+      options:
+      - Inframammary
+      - Periareolar
+      - Transaxillary
+      - Transumbilical
+      - Not Sure
+      required: false
+    - id: 9
+      name: satisfaction_level
+      label: Overall Satisfaction
+      hint: How satisfied are you with results
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 10
+      name: appearance_rating
+      label: Appearance Rating
+      hint: Rate the appearance of results
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: feel_natural
+      label: Do Implants Feel Natural
+      hint: How natural do they feel
+      type: select_one
+      options:
+      - Very Natural
+      - Mostly Natural
+      - Somewhat Natural
+      - Not Very Natural
+      - Not Natural at All
+      required: true
+    - id: 12
+      name: size_expectations
+      label: Size Expectations Met
+      hint: Did you achieve desired size
+      type: select_one
+      options:
+      - Exactly as Expected
+      - Close to Expected
+      - Somewhat Different
+      - Very Different
+      required: true
+    - id: 13
+      name: recovery_experience
+      label: Recovery Experience
+      hint: How was your recovery
+      type: select_one
+      options:
+      - Easier Than Expected
+      - As Expected
+      - Harder Than Expected
+      - Much Harder Than Expected
+      required: true
+    - id: 14
+      name: complications
+      label: Complications Experienced
+      hint: Did you have any complications
+      type: select_multiple
+      options:
+      - None
+      - Infection
+      - Capsular Contracture
+      - Implant Rupture
+      - Scarring Issues
+      - Sensitivity Changes
+      - Pain
+      - Asymmetry
+      - Other
+      required: true
+    - id: 15
+      name: pain_level_current
+      label: Current Pain Level
+      hint: Rate your current pain
+      type: select_one
+      options:
+      - No Pain
+      - Mild
+      - Moderate
+      - Severe
+      - Very Severe
+      required: true
+    - id: 16
+      name: would_recommend
+      label: Would You Recommend
+      hint: Would you recommend this surgery
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 17
+      name: would_repeat
+      label: Would You Do It Again
+      hint: Would you have the surgery again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 18
+      name: emotional_impact
+      label: Emotional Impact
+      hint: How did surgery affect you emotionally
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
+      required: true
+    - id: 19
+      name: confidence_change
+      label: Confidence Change
+      hint: How did your confidence change
+      type: select_one
+      options:
+      - Significantly Increased
+      - Somewhat Increased
+      - No Change
+      - Somewhat Decreased
+      - Significantly Decreased
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments or experiences
+      type: text
+      options: []
+      required: false

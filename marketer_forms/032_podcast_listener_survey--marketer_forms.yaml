@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Listener Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How did you discover our podcast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate our podcast
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_episodes
+      label: Which episode is your favorite
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: feedback
+      label: What do you want to improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: How can we reach out to you
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: 'Format: 123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: How old are you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: favorite_genre
+      label: What genre do you like best
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 9
+      name: how_ofter
+      label: How often do you listen
+      hint: null
+      type: text
+      options: []
+      required: false

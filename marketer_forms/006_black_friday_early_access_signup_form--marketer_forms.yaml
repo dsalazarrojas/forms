@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Early Access Signup Form
+    pages:
+    - id: 1
+      name: early_access_intro
+      label: Get Early Access to Black Friday Deals
+      hint: Sign up now for exclusive early bird access before anyone else
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: We will send your early access code here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Mobile Phone
+      hint: For SMS alerts when deals go live
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_type
+      label: Customer Type
+      hint: Are you a new or returning customer
+      type: select_one
+      options:
+      - New Customer
+      - Returning Customer
+      - VIP Member
+      required: true
+    - id: 7
+      name: shopping_preferences
+      label: Shopping Preferences
+      hint: What do you want to shop for
+      type: select_multiple
+      options:
+      - Electronics and Tech
+      - Fashion and Accessories
+      - Home Decor
+      - Kitchen Appliances
+      - Fitness Equipment
+      - Beauty Products
+      - Kids and Baby
+      - Pet Supplies
+      required: true
+    - id: 8
+      name: preferred_shopping_time
+      label: Preferred Shopping Time
+      hint: When will you shop
+      type: select_one
+      options:
+      - Early Morning (5am-9am)
+      - Morning (9am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Late Night (9pm-5am)
+      required: false
+    - id: 9
+      name: notification_preference
+      label: Notification Preference
+      hint: How should we notify you
+      type: select_one
+      options:
+      - Email Only
+      - SMS Only
+      - Both Email and SMS
+      required: true
+    - id: 10
+      name: spend_estimate
+      label: Estimated Spending
+      hint: How much do you plan to spend
+      type: select_one
+      options:
+      - Under $50
+      - $50-$150
+      - $151-$300
+      - $301-$500
+      - Over $500
+      required: false
+    - id: 11
+      name: referral_code
+      label: Referral Code
+      hint: Enter code if referred by a friend
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: birthday_month
+      label: Birthday Month
+      hint: For special birthday offers
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 13
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: I agree to receive promotional communications
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 14
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Social Media
+      - Email Campaign
+      - Friend or Family
+      - Online Advertisement
+      - Search Engine
+      - Blog or Website
+      - Other
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Any specific products or brands you want
+      type: text
+      options: []
+      required: false

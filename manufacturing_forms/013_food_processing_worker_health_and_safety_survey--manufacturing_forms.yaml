@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Processing Worker Health And Safety Survey
+    pages:
+    - id: 1
+      name: workplace_health_and_safety
+      label: food_processing_workplace_health
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: true
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workplace_location
+      label: workplace_location
+      hint: null
+      type: select_one
+      options:
+      - Warehouse
+      - Factory
+      - Office
+      required: true
+    - id: 6
+      name: safety_equipment_available
+      label: safety_equipment_available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hazard_identified
+      label: hazard_identified
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reporting_frequency
+      label: reporting_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: true
+    - id: 9
+      name: near_miss_incident
+      label: near_miss_incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reported
+      label: incident_reported
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_response
+      label: supervisor_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: worker_consequence
+      label: worker_consequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: worker_recommendation
+      label: worker_recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: worker_safety_concern
+      label: worker_safety_concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_concern
+      label: manager_concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: near_mis_incident_location
+      label: near_mis_incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: near_mis_incident_description
+      label: near_mis_incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: near_mis_incident_cause
+      label: near_mis_incident_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: near_mis_incident_prevention
+      label: near_mis_incident_prevention
+      hint: null
+      type: text
+      options: []
+      required: false

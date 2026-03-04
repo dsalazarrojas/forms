@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stripe News Letter Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Subscriber email address.
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: format
+      label: Format
+      hint: null
+      type: select_one
+      options:
+      - Digital
+      - Print
+      required: true
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: select_one
+      options:
+      - Month
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 6
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: confirm_email
+      label: Confirm Email
+      hint: Confirm email address to avoid errors.
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: format_frequency
+      label: Format & Frequency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Subscribe
+      hint: null
+      type: select_one
+      options:
+      - Subscribe
+      - Cancel
+      required: true

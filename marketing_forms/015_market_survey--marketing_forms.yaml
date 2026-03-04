@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Survey
+    pages:
+    - id: 1
+      name: main_questions
+      label: Main Questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: select_date
+      label: Select Date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: select_time
+      label: Select Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: select_email
+      label: Select Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: select_phone
+      label: Select Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: text
+      label: Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: select_text
+      label: Select Text
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: select_integer
+      label: Select Integer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: select_decimal
+      label: Select Decimal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: select_email
+      label: Select Email
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: select_phone
+      label: Select Phone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Static Workstation Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: Facility name
+      hint: Manufacturing facility being assessed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: workstation_id
+      label: Workstation ID or location
+      hint: Unique identifier for this workstation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector name
+      hint: Name of person conducting assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: esd_control_plan
+      label: Is there a documented ESD control plan in place?
+      hint: null
+      type: select_one
+      options:
+      - Yes, current
+      - Yes, but needs update
+      - false
+      required: true
+    - id: 6
+      name: workstation_grounding
+      label: Workstation grounding status
+      hint: Is workstation properly grounded?
+      type: select_one
+      options:
+      - Properly grounded
+      - Grounded but needs verification
+      - Not grounded
+      - Unknown
+      required: true
+    - id: 7
+      name: esd_mat_present
+      label: Is ESD mat present and in good condition?
+      hint: null
+      type: select_one
+      options:
+      - Yes, excellent condition
+      - Yes, acceptable condition
+      - Yes, needs replacement
+      - false
+      required: true
+    - id: 8
+      name: wrist_straps
+      label: Are wrist straps available and functional?
+      hint: null
+      type: select_one
+      options:
+      - Yes, current
+      - Yes, but outdated
+      - false
+      - Not applicable
+      required: true
+    - id: 9
+      name: esd_footwear
+      label: Are ESD-safe footwear or shoe grounders available?
+      hint: null
+      type: select_one
+      options:
+      - Yes, available
+      - Yes, but limited
+      - false
+      - Not required for this area
+      required: true
+    - id: 10
+      name: humidity_level
+      label: Humidity level reading
+      hint: Current relative humidity percentage
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: humidity_acceptable
+      label: Is humidity within acceptable range (30-60%)?
+      hint: null
+      type: select_one
+      options:
+      - Yes, within range
+      - No, too low
+      - No, too high
+      required: true
+    - id: 12
+      name: esd_flooring
+      label: ESD flooring condition
+      hint: Assessment of floor material
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Not ESD-safe
+      required: true
+    - id: 13
+      name: equipment_bonding
+      label: Are electronic components and equipment properly bonded?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all bonded
+      - Mostly bonded
+      - Partially bonded
+      - false
+      required: true
+    - id: 14
+      name: containers_packaging
+      label: Are ESD containers and packaging in use?
+      hint: null
+      type: select_one
+      options:
+      - Yes, consistently used
+      - Sometimes used
+      - Not used
+      - Not applicable
+      required: true
+    - id: 15
+      name: static_control_signs
+      label: Are static control warning signs visible?
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly posted
+      - Yes, but faded
+      - false
+      required: true
+    - id: 16
+      name: equipment_testing_log
+      label: Has equipment been tested recently?
+      hint: null
+      type: select_one
+      options:
+      - Yes, within 1 month
+      - Yes, within 3 months
+      - Yes, within 6 months
+      - false
+      required: true
+    - id: 17
+      name: personnel_training
+      label: Are personnel trained in ESD procedures?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all current
+      - Yes, most current
+      - No, needs training
+      - Unknown
+      required: true
+    - id: 18
+      name: maintenance_needed
+      label: Maintenance or replacements needed?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - ESD mat replacement
+      - Wrist strap replacement
+      - Floor treatment
+      - Equipment bonding
+      - Training update
+      - No maintenance needed
+      required: false
+    - id: 19
+      name: overall_compliance
+      label: Overall ESD compliance rating
+      hint: null
+      type: select_one
+      options:
+      - Fully compliant
+      - Substantially compliant
+      - Partially compliant
+      - Non-compliant
+      required: true
+    - id: 20
+      name: corrective_actions
+      label: Recommended corrective actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_date
+      label: Recommended follow-up assessment date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Lifecycle Management Application
+    pages:
+    - id: 1
+      name: product_request
+      label: Create Product Request
+      hint: Enter product name, description, and lifecycle stage change
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: Enter product name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Enter product description
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lifecycle_stage
+      label: Lifecycle Stage
+      hint: Enter lifecycle stage change
+      type: select_one
+      options:
+      - '{''label'': ''New Product Request''}'
+      - '{''label'': ''Product Update''}'
+      - '{''label'': ''Product Retire''}'
+      required: true
+    - id: 5
+      name: target_date
+      label: Target Date
+      hint: Enter target date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: target_time
+      label: Target Time
+      hint: Enter target time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Doe''}'
+      - '{''label'': ''Jane Doe''}'
+      required: true
+    - id: 8
+      name: status
+      label: Status
+      hint: Enter status
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Enter comments
+      type: note
+      options: []
+      required: false

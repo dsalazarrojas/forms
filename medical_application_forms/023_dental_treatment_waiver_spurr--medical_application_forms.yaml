@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Treatment Waiver Spurr
+    pages:
+    - id: 1
+      name: medical_application_forms
+      label: Medical Application Forms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consent_forms
+      label: Consent Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: healthcare_forms
+      label: Healthcare Forms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: patient_consent
+      label: Patient Consent
+      hint: A dental treatment waiver is a document used by medical practices to obtain
+        patient consent before treating them.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: medical_practices
+      label: Medical Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Med-Sp-1
+      - Med-Sp-2
+      - Med-Sp-3
+      required: true
+    - id: 6
+      name: treatment_reason
+      label: Treatement Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: select_one
+      options:
+      - Patient-Info-1
+      - Patient-Info-2
+      - Patient-Info-3
+      required: true
+    - id: 8
+      name: medical_practice_name
+      label: Medical Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: medical_practice_abbrev
+      label: Medical Practice Abbrev
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_practice_address
+      label: Medical Practice Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_practice_phone
+      label: Medical Practice Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_practice_email
+      label: Medical Practice Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: medical_practice_fax
+      label: Medical Practice Fax
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 21
+      name: patient_race
+      label: Patient Race
+      hint: null
+      type: select_multiple
+      options:
+      - Patient-Race-1
+      - Patient-Race-2
+      - Patient-Race-3
+      - Patient-Race-4
+      required: false
+    - id: 22
+      name: patient_ethnicity
+      label: Patient Ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - Patient-Ethnicity-1
+      - Patient-Ethnicity-2
+      - Patient-Ethnicity-3
+      required: true
+    - id: 23
+      name: patient_medical_condition
+      label: Patient Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Med-Treatment-1
+      - Med-Treatment-2
+      - Med-Treatment-3
+      required: true
+    - id: 25
+      name: treatment_cost
+      label: Treatment Cost
+      hint: null
+      type: number
+      options: []
+      required: true

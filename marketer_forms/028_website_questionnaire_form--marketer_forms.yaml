@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Questionnaire Form
+    pages:
+    - id: 1
+      name: user_feedback
+      label: user_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_preferences
+      label: website_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 3
+      name: website_insights
+      label: website_insights
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: leave_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferences
+      label: your_preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: visit_date
+      hint: null
+      type: date
+      options: []
+      required: false

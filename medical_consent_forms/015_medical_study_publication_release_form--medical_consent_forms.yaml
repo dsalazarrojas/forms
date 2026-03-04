@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Study Publication Release Form
+    pages:
+    - id: 1
+      name: research_team
+      label: Research Team
+      hint: null
+      type: select_multiple
+      options:
+      - Researcher
+      - Team Lead
+      - Data Analyst
+      - Project Manager
+      required: false
+    - id: 2
+      name: study_title
+      label: study_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_id
+      label: study_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: publication_details
+      label: publication_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: publication_status
+      label: publication_status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - In Progress
+      - Published
+      - In Review
+      required: false
+    - id: 7
+      name: publication_plan
+      label: publication_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: publication_location
+      label: publication_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_institution
+      label: research_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: publication_agreement
+      label: publication_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: publication_agreement_signed
+      label: publication_agreement_signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: publication_agreement_signed_by
+      label: publication_agreement_signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - In Progress
+      - Published
+      - In Review
+      required: false
+    - id: 15
+      name: review_comment
+      label: review_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_institution
+      label: reviewer_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: publication_url
+      label: publication_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: publication_url_signed
+      label: publication_url_signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_url
+      label: review_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: institution_review
+      label: institution_review
+      hint: null
+      type: select_one
+      options:
+      - Reviewing
+      - Not Reviewing
+      required: false

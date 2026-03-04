@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Product Release Form
+    pages:
+      - id: 1
+        name: release_id
+        label: Release ID
+        hint: Internal tracking number for this release
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: product_model
+        label: Product model
+        hint: Model number or name of the appliance
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: production_batch
+        label: Production batch
+        hint: Batch or lot identifier
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: release_date
+        label: Release date
+        hint: Date approved for release
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: quality_inspector
+        label: Quality inspector name
+        hint: Name of the person who performed final QA
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: quality_status
+        label: Quality status
+        hint: Pass or fail status after inspection
+        type: select_one
+        options: [Passed, Failed, Conditional]
+        required: true
+      - id: 7
+        name: corrective_actions
+        label: Corrective actions required
+        hint: If failed or conditional enter required actions otherwise leave blank
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: distribution_center
+        label: Distribution center
+        hint: Primary center for shipment
+        type: select_one
+        options: [Warehouse A, Warehouse B, Regional Hub]
+        required: true
+      - id: 9
+        name: handoff_contact
+        label: Handoff contact
+        hint: Name of logistics contact for this release
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: notes
+        label: Additional notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

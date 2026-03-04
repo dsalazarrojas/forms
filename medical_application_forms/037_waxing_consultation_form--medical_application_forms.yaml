@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waxing Consultation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: desired_length
+      label: Desired Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_one
+      options:
+      - Hypertension
+      - Diabetes
+      - Allergies
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Curly
+      - Straight
+      - Wavy
+      required: false
+    - id: 9
+      name: medical_contraindications
+      label: Medical Contraindications
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Thinning Medications
+      - Pacemaker
+      - Kidney Disease
+      required: false
+    - id: 10
+      name: medical_contrainicated
+      label: Medical Contraindicated
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Thinners
+      - Pacemakers
+      - Kidney Diseas
+      required: false
+    - id: 11
+      name: contraindiated_medical_history
+      label: Contraindicated Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Thinning Medications
+      - Pacemaker
+      - Kidney Diseas
+      required: false
+    - id: 12
+      name: contraindiations
+      label: Contraindications
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Thinning
+      - Pacemakers
+      - Kidney Diseae
+      required: false
+    - id: 13
+      name: hair_contraindications
+      label: Hair Contraindications
+      hint: null
+      type: select_multiple
+      options:
+      - Excessive Hair Growth
+      - Excessive Dandruff
+      - Excessive Itching
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Thinning
+      - Pacemakes
+      - Kidney Diseaes
+      required: false

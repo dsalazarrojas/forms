@@ -1,0 +1,256 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Focus Group Screener Form
+    pages:
+    - id: 1
+      name: demographic_info
+      label: Demographic info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age_range
+      label: Age range
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''18-24''}'
+      - '{''label'': ''25-34''}'
+      - '{''label'': ''35-44''}'
+      - '{''label'': ''45-54''}'
+      - '{''label'': ''55-64''}'
+      - '{''label'': ''65+''}'
+      required: true
+    - id: 3
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: income_range
+      label: Income range
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 25k''}'
+      - '{''label'': ''25-49k''}'
+      - '{''label'': ''50-74k''}'
+      - '{''label'': ''75k-99k''}'
+      - '{''label'': ''100k+''}'
+      required: true
+    - id: 6
+      name: employment_status
+      label: Employment status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Working full-time''}'
+      - '{''label'': ''Working part-time''}'
+      - '{''label'': ''Self-employed''}'
+      - '{''label'': ''Retired''}'
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: education_level
+      label: Education level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High school''}'
+      - '{''label'': "Bachelor''s degree"}'
+      - '{''label'': "Master''s degree"}'
+      - '{''label'': ''PhD''}'
+      - '{''label'': ''No diploma''}'
+      required: true
+    - id: 9
+      name: household_income
+      label: Household income
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 25k''}'
+      - '{''label'': ''25-49k''}'
+      - '{''label'': ''50-74k''}'
+      - '{''label'': ''75k-99k''}'
+      - '{''label'': ''100k+''}'
+      required: true
+    - id: 10
+      name: family_members
+      label: Family members
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''0-1''}'
+      - '{''label'': ''2-3''}'
+      - '{''label'': ''4-5''}'
+      - '{''label'': ''6-10''}'
+      - '{''label'': ''11+''}'
+      required: true
+    - id: 11
+      name: family_income
+      label: Family income
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 25k''}'
+      - '{''label'': ''25-49k''}'
+      - '{''label'': ''50-74k''}'
+      - '{''label'': ''75k-99k''}'
+      - '{''label'': ''100k+''}'
+      required: true
+    - id: 12
+      name: employment_income
+      label: Employment income
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 25k''}'
+      - '{''label'': ''25-49k''}'
+      - '{''label'': ''50-74k''}'
+      - '{''label'': ''75k-99k''}'
+      - '{''label'': ''100k+''}'
+      required: true
+    - id: 13
+      name: occupation_other
+      label: Occupation other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_other
+      label: Education other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: income_other
+      label: Income other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: family_members_other
+      label: Family members other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_family_income
+      label: Other family income
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employment_status_other
+      label: Employment status other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: occupation_type
+      label: Occupation type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service industry''}'
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 20
+      name: household_size
+      label: Household size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-2''}'
+      - '{''label'': ''3-4''}'
+      - '{''label'': ''5-6''}'
+      - '{''label'': ''7-8''}'
+      - '{''label'': ''9+''}'
+      required: true
+    - id: 21
+      name: education_level_other
+      label: Education level other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: education_field
+      label: Education field
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Arts and humanities''}'
+      - '{''label'': ''Social sciences''}'
+      - '{''label'': ''Engineering''}'
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Medical''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 23
+      name: family_income_other
+      label: Family income other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: education_institution
+      label: Education institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: family_income_type
+      label: Family income type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employment income''}'
+      - '{''label'': ''Business income''}'
+      - '{''label'': ''Other''}'
+      required: true

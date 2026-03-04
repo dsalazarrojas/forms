@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Consent Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: permission_to_email
+      label: Permission to email
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 4
+      name: permission_to_phone
+      label: Permission to phone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: permission_to_sms
+      label: Permission to SMS
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 6
+      name: permission_to_call
+      label: Permission to call
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 7
+      name: company_phone_number
+      label: Company Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false

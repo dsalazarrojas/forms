@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Cleaning Checklist
+    pages:
+    - id: 1
+      name: fitness_center_equipment
+      label: Fitness Center Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment
+      - Accessories
+      - Mats
+      required: false
+    - id: 2
+      name: floors_and_carpets
+      label: Floors and Carpets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bathrooms
+      label: Bathrooms
+      hint: Check toilet paper, soap, and toilet seat
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: trash_and_recycling
+      label: Trash and Recycling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: locker_rooms
+      label: Locker Rooms
+      hint: null
+      type: select_multiple
+      options:
+      - Lockers
+      - Benches
+      - Showers
+      required: false
+    - id: 6
+      name: showers
+      label: Showers
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Dirty
+      required: false
+    - id: 7
+      name: mirrors_and_shelving
+      label: Mirrors and Shelving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: windows_and_doors
+      label: Windows and Doors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguishers
+      - First Aid Kits
+      - Safety Harness
+      required: false
+    - id: 10
+      name: emergency_exit_routes
+      label: Emergency Exit Routes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: firstaidkit
+      label: First Aid Kit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: safety_harness
+      label: Safety Harness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: exit_signs
+      label: Exit Signs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fire_alarms
+      label: Fire Alarms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: firstaid
+      label: First Aid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_exit
+      label: Emergency Exit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: safety_equipment_other
+      label: Other Safety Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: cleanliness_standards
+      label: Cleanliness Standards
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: firstaidkit_other
+      label: Other First Aid Kit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: cleanliness_standards_notes
+      label: Cleanliness Standards Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: safety_equipment_notes
+      label: Safety Equipment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cleanliness_stars
+      label: Cleanliness Stars
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: cleanliness_comments
+      label: Cleanliness Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: firstaid_comments
+      label: First Aid Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Equipment Check Out Form
+    pages:
+    - id: 1
+      name: loan_request_date
+      label: Loan Request Date
+      hint: Select the date the loan was requested
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: loan_type
+      label: Loan Type
+      hint: Select the type of loan
+      type: select_one
+      options:
+      - Equipment Loan
+      - Service Loan
+      - Other
+      required: false
+    - id: 3
+      name: equipment_name
+      label: Equipment Name
+      hint: Enter the name of the equipment
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_type
+      label: Equipment Type
+      hint: Select the type of equipment
+      type: select_one
+      options:
+      - Medical Equipment
+      - Non-Medical Equipment
+      required: false
+    - id: 5
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: loan_duration
+      label: Loan Duration
+      hint: Enter the duration of the loan in hours
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: Select the date the equipment should be returned
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: borrower_info
+      label: Borrower Information
+      hint: Enter the name of the borrower
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_status
+      label: Equipment Status
+      hint: Check the status of the equipment
+      type: select_multiple
+      options:
+      - Available
+      - In use
+      - Damaged
+      - Missing
+      required: false
+    - id: 10
+      name: reason_for_loan
+      label: Reason for Loan
+      hint: Enter the reason for the loan
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_insights_request_form
+    pages:
+    - id: 1
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product
+      label: product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_url
+      label: company_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insights_requested
+      label: insights_requested
+      hint: null
+      type: select_one
+      options:
+      - Insights on social media advertising performance
+      - Insights on social media audience engagement
+      required: false
+    - id: 7
+      name: insights_frequency
+      label: insights_frequency
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - Chatjimmy
+      - Another tool
+      - Another tool2
+      required: false

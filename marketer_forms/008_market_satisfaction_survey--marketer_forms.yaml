@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Satisfaction Survey
+    pages:
+    - id: 1
+      name: customer_satisfaction_rating
+      label: Overall customer satisfaction rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction_description
+      label: Describe your experience with this vendor
+      hint: Please provide a detailed description of your experience
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_satisfaction_rating_time
+      label: Time of purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: market_satisfaction_rating
+      label: How likely are you to recommend this market to a friend or colleague?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: customer_satisfaction_description
+      label: Describe your experience with this vendor
+      hint: null
+      type: text
+      options: []
+      required: false

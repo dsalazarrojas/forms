@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Screening Communication Form
+    pages:
+    - id: 1
+      name: screening_questions
+      label: Screening Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: screening_status
+      label: Status of Screening
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: screening_results
+      label: Screening Results
+      hint: Please provide the actual test result values
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: screening_comments
+      label: Screening Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_contact
+      label: Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_recommendations
+      label: Follow Up Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: screening_type
+      label: Screening Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: screening_form_date
+      label: Screening Form Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Details Form
+    pages:
+    - id: 1
+      name: campaign_name
+      label: Campaign Name
+      hint: Official name of the campaign
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: campaign_type
+      label: Campaign Type
+      hint: Select type
+      type: select_one
+      options:
+      - Fundraising
+      - Awareness
+      - Advocacy
+      - Political
+      - Community outreach
+      - Capital campaign
+      - Annual giving
+      - Other
+      required: true
+    - id: 7
+      name: campaign_goal
+      label: Campaign Goal
+      hint: What is the main objective
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fundraising_target
+      label: Fundraising Target Amount
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: When does it start
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: When does it end
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: Who are you targeting
+      type: select_multiple
+      options:
+      - Individual donors
+      - Corporate sponsors
+      - Foundations
+      - Government agencies
+      - Community members
+      - Alumni
+      - Parents
+      - General public
+      - Other
+      required: true
+    - id: 12
+      name: campaign_channels
+      label: Campaign Channels
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email marketing
+      - Social media
+      - Direct mail
+      - Phone calls
+      - Events
+      - Website
+      - Print advertising
+      - Radio or TV
+      - Personal meetings
+      - Other
+      required: true
+    - id: 13
+      name: campaign_budget
+      label: Campaign Budget
+      hint: Total budget amount
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: team_size
+      label: Campaign Team Size
+      hint: Number of team members
+      type: select_one
+      options:
+      - 1-5 people
+      - 6-10 people
+      - 11-20 people
+      - 21-50 people
+      - Over 50 people
+      required: true
+    - id: 15
+      name: previous_campaigns
+      label: Have You Run Similar Campaigns Before
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - multiple
+      - Yes - one
+      - No - first time
+      required: true
+    - id: 16
+      name: previous_campaign_results
+      label: Results of Previous Campaigns
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: key_messages
+      label: Key Campaign Messages
+      hint: Main talking points
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: success_metrics
+      label: How Will You Measure Success
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Total funds raised
+      - Number of donors
+      - Engagement rate
+      - Social media reach
+      - Event attendance
+      - Media coverage
+      - Volunteer recruitment
+      - Other
+      required: true
+    - id: 19
+      name: potential_challenges
+      label: Potential Challenges
+      hint: What obstacles do you anticipate
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: support_needed
+      label: What Support Do You Need
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategy consulting
+      - Marketing materials
+      - Donor database
+      - Event planning
+      - Volunteer training
+      - Social media management
+      - Grant writing
+      - Other
+      required: true
+    - id: 21
+      name: legal_compliance
+      label: Are You Compliant with Campaign Finance Laws
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - fully compliant
+      - Partially compliant
+      - Need guidance
+      - Not applicable
+      required: true
+    - id: 22
+      name: tax_exempt_status
+      label: Tax-Exempt Status
+      hint: Select status
+      type: select_one
+      options:
+      - 501(c)(3)
+      - 501(c)(4)
+      - 501(c)(6)
+      - Political organization
+      - Not tax-exempt
+      - Other
+      required: false
+    - id: 23
+      name: fiscal_sponsor
+      label: Do You Have a Fiscal Sponsor
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      - Need assistance finding one
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

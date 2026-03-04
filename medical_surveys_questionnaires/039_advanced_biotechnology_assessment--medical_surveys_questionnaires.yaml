@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Biotechnology Assessment
+    pages:
+    - id: 1
+      name: section_prof
+      label: -- Professional Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: professional_full_name
+      label: Professional Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_or_institution
+      label: Organization or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_of_experience_in_biotech
+      label: Years of Experience in Biotech
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: section_self
+      label: -- Expertise Self-Assessment --
+      hint: Rate your proficiency level
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: proficiency_in_bioprocessing
+      label: Proficiency in Bioprocessing
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      - None
+      required: true
+    - id: 7
+      name: proficiency_in_bioinformatics
+      label: Proficiency in Bioinformatics
+      hint: Computational biology and data analysis
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      - None
+      required: true
+    - id: 8
+      name: proficiency_in_regulatory_affairs
+      label: Proficiency in Regulatory Affairs
+      hint: Compliance and clinical trials
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      - None
+      required: true
+    - id: 9
+      name: section_challenges
+      label: -- Industry Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_challenges_faced
+      label: Primary Challenges Faced
+      hint: Select the top barriers in your work
+      type: select_multiple
+      options:
+      - Funding Constraints
+      - Regulatory Hurdles
+      - Technical Limitations
+      - Data Management
+      - Ethical Concerns
+      required: false
+    - id: 11
+      name: description_of_biggest_technical_bottleneck
+      label: Description of Biggest Technical Bottleneck
+      hint: Provide detail on a specific challenge
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_rd
+      label: -- Research and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: focus_of_current_projects
+      label: Focus of Current Projects
+      hint: null
+      type: select_one
+      options:
+      - Therapeutics
+      - Diagnostics
+      - Agricultural Biotech
+      - Environmental Biotech
+      - Industrial Biotech
+      required: true
+    - id: 14
+      name: specific_research_goals
+      label: Specific Research Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_feed
+      label: -- Program Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: suggestions_for_future_biotech_training_programs
+      label: Suggestions for Future Biotech Training Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interest_in_collaboration_opportunities
+      label: Interest in Collaboration Opportunities
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true

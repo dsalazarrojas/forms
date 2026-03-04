@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aluminum Heat Transfer Request Form
+    pages:
+    - id: 1
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Contact person for the request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_id
+      label: Project identifier
+      hint: Internal project or PO number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: part_description
+      label: Part description
+      hint: Brief description of the component
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: material_grade
+      label: Material grade
+      hint: Specify alloy or grade
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: thickness_mm
+      label: Thickness millimeters
+      hint: Use decimal values for precision
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: dimensions
+      label: Dimensions length by width by height
+      hint: Specify units in mm or inches
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: quantity
+      label: Quantity required
+      hint: Total number of parts
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: surface_finish
+      label: Surface finish
+      hint: Select the desired finish
+      type: select_one
+      options:
+      - Raw
+      - Anodized
+      - Painted
+      - Powder coated
+      required: false
+    - id: 10
+      name: required_delivery_date
+      label: Required delivery date
+      hint: Date when parts are needed on site
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: technical_notes
+      label: Technical notes or drawings reference
+      hint: Link to drawing number or upload reference
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: makeup_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: beauty_expertise
+      label: beauty_expertise
+      hint: null
+      type: select_one
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: false
+    - id: 4
+      name: makeup_use
+      label: makeup_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_use
+      label: product_use
+      hint: null
+      type: select_multiple
+      options:
+      - option_7
+      - option_8
+      - option_9
+      required: false
+    - id: 6
+      name: brand_perception
+      label: brand_perception
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option_10
+      - option_11
+      - option_12
+      required: false
+    - id: 8
+      name: behavior
+      label: behavior
+      hint: null
+      type: select_multiple
+      options:
+      - option_13
+      - option_14
+      - option_15
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_marketing_intake_form
+    pages:
+    - id: 1
+      name: real_estate_marketing_intake_form_1
+      label: real_esteemarketingintakeform1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: real_estate_marketing_intake_form_2
+      label: real_estatemarkeatingform2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: firstname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: lastname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contactnumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: real_estate_type
+      label: real_estatetype
+      hint: null
+      type: select_multiple
+      options:
+      - residential
+      - commercial
+      - industrial
+      required: false
+    - id: 8
+      name: marketing_budget
+      label: marketingbudget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: real_estate_marketing_goal
+      label: real_estatemarkeetinggoal
+      hint: null
+      type: select_one
+      options:
+      - lead_generation
+      - brand-awareness
+      - website-traffic
+      required: false
+    - id: 10
+      name: real_estate_marketing_strategy
+      label: real_estatemarketingstrategy
+      hint: null
+      type: select_multiple
+      options:
+      - social media advertising
+      - email marketing
+      - search engine optimization
+      required: false
+    - id: 11
+      name: lead_capture_form
+      label: leadcaptureform
+      hint: null
+      type: text
+      options: []
+      required: false

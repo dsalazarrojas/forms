@@ -1,0 +1,292 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinician Survey - Diabetes And Hearing Loss
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Clinician Survey - Diabetes and Hearing Loss
+        hint: This survey explores clinician awareness and practices regarding hearing loss in patients with diabetes
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: clinician_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: clinician_id
+        label: Clinician ID
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: specialty
+        label: Medical Specialty
+        hint: null
+        type: select_one
+        options:
+          - Primary Care
+          - Endocrinology
+          - Otolaryngology (ENT)
+          - Audiology
+          - Internal Medicine
+          - Family Medicine
+          - Geriatrics
+          - Other
+        required: true
+      - id: 5
+        name: years_in_practice
+        label: Years in Practice
+        hint: null
+        type: select_one
+        options:
+          - Less than 5 years
+          - 5-10 years
+          - 10-20 years
+          - 20+ years
+        required: true
+      - id: 6
+        name: practice_setting
+        label: Practice Setting
+        hint: null
+        type: select_one
+        options:
+          - Academic Medical Center
+          - Community Hospital
+          - Private Practice
+          - Outpatient Clinic
+          - Government Facility
+          - Other
+        required: true
+      - id: 7
+        name: patient_population
+        label: Approximate Number of Diabetes Patients Seen Monthly
+        hint: null
+        type: select_one
+        options:
+          - 0-10
+          - 11-30
+          - 31-50
+          - 51-100
+          - 100+
+        required: true
+      - id: 8
+        name: awareness_of_link
+        label: Were You Aware of the Link Between Diabetes and Hearing Loss
+        hint: null
+        type: select_one
+        options:
+          - Yes Well Aware
+          - Yes Somewhat Aware
+          - Heard of It
+          - No Not Aware
+        required: true
+      - id: 9
+        name: knowledge_source
+        label: How Did You Learn About This Link
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Medical School
+          - Residency Training
+          - Continuing Education
+          - Medical Journals
+          - Professional Conferences
+          - Colleague Discussion
+          - Patient Questions
+          - Media
+          - Other
+        required: false
+      - id: 10
+        name: screening_practice
+        label: Do You Screen Diabetes Patients for Hearing Loss
+        hint: null
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 11
+        name: screening_frequency
+        label: How Often Do You Screen
+        hint: If you screen
+        type: select_one
+        options:
+          - At Every Visit
+          - Annually
+          - At Diagnosis
+          - When Symptoms Reported
+          - Other
+        required: false
+      - id: 12
+        name: screening_methods
+        label: What Screening Methods Do You Use
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Patient Self-Report
+          - Questionnaire
+          - Whisper Test
+          - Tuning Fork
+          - Audiometry Referral
+          - Other
+          - Do Not Screen
+        required: false
+      - id: 13
+        name: symptoms_assessed
+        label: What Symptoms Do You Ask About
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Difficulty Hearing
+          - Ringing in Ears (Tinnitus)
+          - Dizziness
+          - Ear Fullness
+          - Need for Repetition
+          - Turning Up Volume
+          - Social Withdrawal
+          - None
+        required: false
+      - id: 14
+        name: referral_practice
+        label: When Do You Refer to Audiology
+        hint: null
+        type: select_one
+        options:
+          - Always When Indicated
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 15
+        name: referral_barriers
+        label: Barriers to Referral
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - Patient Cost
+          - Insurance Coverage
+          - Limited Availability
+          - Long Wait Times
+          - Patient Non-Compliance
+          - Lack of Awareness
+          - Other
+        required: false
+      - id: 16
+        name: confidence_level
+        label: How Confident Are You in Identifying Hearing Loss
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident at All
+        required: true
+      - id: 17
+        name: guideline_awareness
+        label: Are You Aware of Screening Guidelines
+        hint: For hearing loss in diabetes
+        type: select_one
+        options:
+          - Yes Very Aware
+          - Somewhat Aware
+          - Heard of Them
+          - No Not Aware
+        required: true
+      - id: 18
+        name: education_interest
+        label: Interest in Additional Education
+        hint: On this topic
+        type: select_one
+        options:
+          - Very Interested
+          - Interested
+          - Somewhat Interested
+          - Not Interested
+        required: true
+      - id: 19
+        name: preferred_format
+        label: Preferred Education Format
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Online Module
+          - Live Webinar
+          - In-Person CME
+          - Journal Article
+          - Clinical Guidelines
+          - Patient Education Materials
+          - Other
+        required: false
+      - id: 20
+        name: perceived_importance
+        label: How Important Is Hearing Screening in Diabetes Care
+        hint: null
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 21
+        name: current_knowledge
+        label: Rate Your Current Knowledge
+        hint: On diabetes and hearing loss connection
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: research_interest
+        label: Interest in Participating in Related Research
+        hint: null
+        type: select_one
+        options:
+          - Very Interested
+          - Interested
+          - Somewhat Interested
+          - Not Interested
+        required: false
+      - id: 23
+        name: biggest_challenge
+        label: What Is the Biggest Challenge
+        hint: In addressing hearing loss in diabetes patients
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else you would like to share
+        type: text
+        options: []
+        required: false

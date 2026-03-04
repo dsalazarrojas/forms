@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact I Reviews
+    pages:
+    - id: 1
+      name: header
+      label: Contact Us for Reviews Information
+      hint: Have questions about our reviews
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_subject
+      label: Subject of Inquiry
+      hint: What is this about
+      type: select_one
+      options:
+      - Review Submission
+      - Review Dispute
+      - Partnership Inquiry
+      - Advertising Opportunities
+      - Technical Support
+      - General Question
+      required: true
+    - id: 7
+      name: review_related
+      label: Is This About a Specific Review
+      hint: Review related
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: review_id
+      label: Review ID or Reference
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Your Message
+      hint: Details of your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attachment
+      label: Attach Supporting Documents
+      hint: Optional attachments
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: response_time
+      label: Expected Response Time
+      hint: When do you need a response
+      type: select_one
+      options:
+      - Within 24 Hours
+      - Within 48 Hours
+      - Within a Week
+      - No Rush
+      required: false
+    - id: 12
+      name: best_contact
+      label: Best Time to Contact
+      hint: Preferred contact time
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 5pm
+      - Evening - 5pm to 8pm
+      - Anytime
+      required: false
+    - id: 13
+      name: privacy_consent
+      label: Privacy Policy Consent
+      hint: Do you agree to our privacy policy
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

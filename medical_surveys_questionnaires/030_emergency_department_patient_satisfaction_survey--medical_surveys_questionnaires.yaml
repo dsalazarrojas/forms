@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_department_patient_satisfaction_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: staff_attitude
+      label: Staff Attitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: care_quality
+      label: Quality of Care
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: wait_time
+      label: Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pain_management
+      label: Pain Management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cleanliness
+      label: Cleanliness of Room and Equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication
+      label: Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recommendation
+      label: Would you recommend this hospital to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - Would you definitely recommend this hospital
+      - Would you probably recommend this hospital
+      - Would you probably not recommend this hospital
+      - Would you definitely not recommend this hospital
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

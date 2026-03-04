@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Brief Form
+    pages:
+    - id: 1
+      name: brief_header
+      label: -- Project Brief Intake --
+      hint: Help us define the scope and vision for your next project.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company/Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_contact
+      label: Primary Project Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_overview_header
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Proposed Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_description
+      label: Brief Description of the Project
+      hint: What are we building or creating?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_audience
+      label: Primary Target Audience
+      hint: Who is this for?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_type
+      label: Category of Work
+      hint: null
+      type: select_one
+      options:
+      - Web Design/Development
+      - Marketing Campaign
+      - Content Creation
+      - Branding/Logo
+      - Product Launch
+      - Event Planning
+      required: true
+    - id: 11
+      name: goals_and_kpis
+      label: Success Criteria (KPIs)
+      hint: How will we know the project was successful?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: timeline_budget_header
+      label: -- Constraints --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_deadline
+      label: Hard Deadline (if any)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: estimated_budget
+      label: Allocated Budget ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: reference_links
+      label: Inspiration or Reference Links
+      hint: Links to similar projects or styles you like
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_requirements
+      label: Any specific technical or legal requirements?
+      hint: e.g. ADA compliance, specific CMS, GDPR
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: brief_footer
+      label: -- Form submitted --
+      hint: We will reach out to schedule a kickoff meeting soon.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

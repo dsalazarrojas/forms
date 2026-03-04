@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Promotional Campaign Opinion Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_awareness
+      label: What did you know about this campaign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_performance
+      label: Which of the following attributes of this campaign were noticeable to
+        you
+      hint: null
+      type: select_multiple
+      options:
+      - Awareness
+      - Engaging
+      - Interesting
+      - Informative
+      - Reliable
+      - Unnoticeable
+      required: false
+    - id: 4
+      name: campaign_attitudes
+      label: How do you feel about this campaign
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      - Neutral
+      required: false
+    - id: 5
+      name: campaign_attitudes_2
+      label: How likely are you to remember this campaign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: campaign_preference
+      label: What type of campaign do you think this campaign should be
+      hint: null
+      type: select_multiple
+      options:
+      - Promotional
+      - Educational
+      - Informative
+      - Awareness
+      - Entertainment
+      - Unsure
+      required: false
+    - id: 7
+      name: contact_information
+      label: How can we reach you
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_questions
+      label: Do you have any further comments on this campaign
+      hint: null
+      type: text
+      options: []
+      required: false

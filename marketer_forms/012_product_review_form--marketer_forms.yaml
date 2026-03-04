@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Form
+    pages:
+    - id: 1
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_message
+      label: Reviewer Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_rating
+      label: Form Rating
+      hint: null
+      type: select_one
+      options:
+      - Form Very Good
+      - Form Average
+      - Form Very Poor
+      required: false
+    - id: 11
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - Product Very Good
+      - Product Average
+      - Product Very Poor
+      required: false

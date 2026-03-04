@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Attachment Style Quiz
+    pages:
+      - id: 1
+        name: participant_info
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: For result delivery
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options: ['18-25', '26-35', '36-45', '46-55', '56-65', '65+']
+        required: false
+      - id: 6
+        name: quiz_instructions
+        label: -- Quiz Instructions --
+        hint: Read each scenario and select the response that best describes your typical behavior
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: scenario_1
+        label: Your partner mentions they need some space. You feel...
+        hint: null
+        type: select_one
+        options: ['Anxious and worried', 'Relieved and independent', 'Confused but understanding', 'Hurt and rejected']
+        required: true
+      - id: 8
+        name: scenario_2
+        label: During a conflict with your partner, you typically...
+        hint: null
+        type: select_one
+        options: ['Seek reassurance and closeness', 'Withdraw and distance yourself', 'Try to understand their perspective', 'Suppress your emotions']
+        required: true
+      - id: 9
+        name: scenario_3
+        label: When your partner expresses emotion, you feel...
+        hint: null
+        type: select_one
+        options: ['Emotionally connected', 'Uncomfortable or overwhelmed', 'Empathetic and supportive', 'Detached']
+        required: true
+      - id: 10
+        name: scenario_4
+        label: In relationships, your biggest fear is...
+        hint: null
+        type: select_one
+        options: ['Being abandoned', 'Losing independence', 'Emotional vulnerability', 'Conflict']
+        required: true
+      - id: 11
+        name: scenario_5
+        label: When your partner is upset with you, you...
+        hint: null
+        type: select_one
+        options: ['Panic and try to fix things immediately', 'Become defensive or distant', 'Listen and address their concerns', 'Minimize the issue']
+        required: true
+      - id: 12
+        name: scenario_6
+        label: Your comfort level with asking for help is...
+        hint: null
+        type: select_one
+        options: ['High - I ask often', 'Low - I prefer independence', 'Moderate - depends on the situation', 'Very Low - I rarely ask']
+        required: true
+      - id: 13
+        name: scenario_7
+        label: When apart from your partner, you typically feel...
+        hint: null
+        type: select_one
+        options: ['Anxious or lonely', 'Comfortable and independent', 'Neutral', 'Relieved']
+        required: true
+      - id: 14
+        name: scenario_8
+        label: Your approach to emotional intimacy is...
+        hint: null
+        type: select_one
+        options: ['I crave deep connection', 'I prefer surface-level interactions', 'I am balanced', 'I feel uncertain']
+        required: true
+      - id: 15
+        name: scenario_9
+        label: When receiving criticism from your partner, you...
+        hint: null
+        type: select_one
+        options: ['Feel devastated and question the relationship', 'Feel dismissive or angry', 'Listen thoughtfully and reflect', 'Shut down emotionally']
+        required: true
+      - id: 16
+        name: scenario_10
+        label: In relationships, you see yourself as...
+        hint: null
+        type: select_one
+        options: ['Needing constant reassurance', 'Self-sufficient and independent', 'Secure and balanced', 'Confused about your needs']
+        required: true
+      - id: 17
+        name: reflection_section
+        label: -- Reflection Questions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: current_relationship_status
+        label: Current Relationship Status
+        hint: null
+        type: select_one
+        options: ['Single', 'Dating', 'In a Relationship', 'Married', 'Divorced/Separated', 'Prefer Not to Say']
+        required: false
+      - id: 19
+        name: relationship_satisfaction
+        label: How satisfied are you with your current relationship?
+        hint: null
+        type: select_one
+        options: ['Very Unsatisfied', 'Unsatisfied', 'Neutral', 'Satisfied', 'Very Satisfied']
+        required: false
+      - id: 20
+        name: therapy_interest
+        label: Would you be interested in therapy or coaching?
+        hint: Based on your attachment style
+        type: select_one
+        options: ['Yes, Very Interested', 'Somewhat Interested', 'Not Sure', 'No', 'Already in Therapy']
+        required: false
+      - id: 21
+        name: childhood_experience
+        label: How would you describe your childhood experiences with caregivers?
+        hint: Brief description
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: growth_goals
+        label: What areas would you like to improve in your relationships?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: family_patterns
+        label: Do you notice attachment patterns in your family?
+        hint: Describe any patterns you observe
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_insights
+        label: Additional Insights
+        hint: Any other thoughts about your attachment style?
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: receive_results
+        label: May we send you personalized insights?
+        hint: null
+        type: select_one
+        options: ['Yes', 'No']
+        required: true

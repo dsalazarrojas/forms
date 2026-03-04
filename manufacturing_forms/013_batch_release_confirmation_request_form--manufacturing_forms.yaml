@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Release Confirmation Request Form
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: batch_id
+      label: Batch ID
+      hint: Batch to be released
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: Product name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_code
+      label: Product Code
+      hint: SKU or product code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: batch_size
+      label: Batch Size
+      hint: Quantity in batch
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: manufacturing_date
+      label: Manufacturing Date
+      hint: When batch was produced
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: requested_by
+      label: Requested By
+      hint: Name of requester
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: Requester department
+      type: select_one
+      options:
+      - Production
+      - Quality Assurance
+      - Warehouse
+      - Supply Chain
+      - Other
+      required: true
+    - id: 10
+      name: quality_tests_completed
+      label: All Quality Tests Completed
+      hint: Have all tests been done
+      type: select_one
+      options:
+      - Yes - All Passed
+      - Yes - With Minor Deviations
+      - No - Pending Tests
+      required: true
+    - id: 11
+      name: documentation_complete
+      label: Documentation Complete
+      hint: Is all documentation ready
+      type: select_one
+      options:
+      - Yes - Complete
+      - Partially Complete
+      - No - Missing Items
+      required: true
+    - id: 12
+      name: compliance_status
+      label: Compliance Status
+      hint: Regulatory compliance
+      type: select_one
+      options:
+      - Fully Compliant
+      - Compliant with Notes
+      - Non-Compliant
+      required: true
+    - id: 13
+      name: storage_location
+      label: Current Storage Location
+      hint: Where is batch stored
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: expiry_date
+      label: Expiry Date
+      hint: Product expiration
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: release_urgency
+      label: Release Urgency
+      hint: How soon is release needed
+      type: select_one
+      options:
+      - Standard
+      - Priority
+      - Urgent
+      - Emergency
+      required: true
+    - id: 16
+      name: destination
+      label: Release Destination
+      hint: Where will batch be sent
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: special_handling
+      label: Special Handling Requirements
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: qa_approval
+      label: QA Approval Status
+      hint: Quality assurance approval
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Not Approved
+      required: true
+    - id: 19
+      name: qa_approver
+      label: QA Approver Name
+      hint: Who approved
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Asthma Management Action Plan
+    pages:
+      - id: 1
+        name: patient_first_name
+        label: Patient First Name
+        hint: First name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: patient_last_name
+        label: Patient Last Name
+        hint: Last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: patient_id
+        label: Patient ID Number
+        hint: Medical record number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: date_of_birth
+        label: Date of Birth
+        hint: Birth date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: plan_creation_date
+        label: Action Plan Creation Date
+        hint: Date plan is created
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: healthcare_provider
+        label: Healthcare Provider
+        hint: Doctor or clinic name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: asthma_severity
+        label: Asthma Severity Classification
+        hint: Severity level
+        type: select_one
+        options:
+          - Mild Intermittent
+          - Mild Persistent
+          - Moderate Persistent
+          - Severe Persistent
+        required: true
+      - id: 8
+        name: trigger_identification
+        label: Identified Asthma Triggers
+        hint: What triggers your asthma?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: trigger_list
+        label: Specific Triggers
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - Allergens (pollen, dust, pets)
+          - Exercise
+          - Respiratory infections
+          - Cold air
+          - Air pollution
+          - Strong odors or chemicals
+          - Stress or emotional changes
+          - Gastric reflux
+          - Food allergies
+          - Other
+        required: true
+      - id: 10
+        name: trigger_avoidance_plan
+        label: Plan to Avoid Triggers
+        hint: Strategies to minimize exposure
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: quick_relief_medication
+        label: Quick-Relief (Rescue) Medication
+        hint: Name of rescue inhaler
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: rescue_dosage_instructions
+        label: Rescue Medication Dosage and Instructions
+        hint: How to use rescue medication
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: daily_controller_medication
+        label: Daily Controller Medication
+        hint: Name and type of controller drug
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: controller_dosage_instructions
+        label: Controller Medication Dosage and Instructions
+        hint: How to take controller medication
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: other_medications
+        label: Other Medications or Treatments
+        hint: Additional medications prescribed
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: green_zone_symptoms
+        label: Green Zone Symptoms (Doing Well)
+        hint: No symptoms or minimal symptoms
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: yellow_zone_symptoms
+        label: Yellow Zone Symptoms (Caution)
+        hint: Early warning signs
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: yellow_zone_action
+        label: Yellow Zone Action Plan
+        hint: What to do during warning signs
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: red_zone_symptoms
+        label: Red Zone Symptoms (Emergency)
+        hint: Severe symptoms requiring medical help
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: red_zone_action
+        label: Red Zone Action Plan
+        hint: Seek emergency care immediately
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: peak_flow_target
+        label: Peak Flow Target Range
+        hint: Expected personal best measurement
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: monitoring_frequency
+        label: Monitoring Frequency
+        hint: How often to check peak flow?
+        type: select_one
+        options:
+          - Daily
+          - 2-3 times per week
+          - Weekly
+          - As needed
+        required: true
+      - id: 23
+        name: follow_up_schedule
+        label: Follow-Up Appointment Schedule
+        hint: When to see healthcare provider
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: emergency_contact
+        label: Emergency Contact Information
+        hint: Name and phone number
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: patient_healthcare_provider_signature
+        label: Patient and Provider Agree to This Plan
+        hint: Confirmation of agreement
+        type: select_one
+        options:
+          - "I Agree"
+          - "I Do Not Agree"
+        required: true

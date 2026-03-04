@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Army Supply Request Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_rank
+      label: Rank
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: unit_name
+      label: Unit or Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: unit_code
+      label: Unit Code or ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: needed_by_date
+      label: Date Supply Needed By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: request_priority
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 12
+      name: section_supply_items
+      label: -- Supply Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: item_1_description
+      label: Item 1 - Description
+      hint: Name and specifications
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: item_1_unit
+      label: Item 1 - Unit of Measure
+      hint: Each, box, case, etc.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: item_1_sku
+      label: Item 1 - SKU or Part Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_2_description
+      label: Item 2 - Description
+      hint: Name and specifications
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: item_2_unit
+      label: Item 2 - Unit of Measure
+      hint: Each, box, case, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item_3_description
+      label: Item 3 - Description
+      hint: Name and specifications
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_3_quantity
+      label: Item 3 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: item_3_unit
+      label: Item 3 - Unit of Measure
+      hint: Each, box, case, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_justification
+      label: -- Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: purpose_description
+      label: Purpose for this supply request
+      hint: What will it be used for
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: operational_impact
+      label: Impact on operations if not fulfilled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: budget_code
+      label: Applicable Budget Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_approval
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: supervisor_approval
+      label: Supervisor Name - Approving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: supervisor_signature_date
+      label: Supervisor Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: special_instructions
+      label: Special instructions or notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: BMI Calculator
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_age
+      label: Age
+      hint: Current age in years
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to say
+      required: false
+    - id: 5
+      name: measurement_unit
+      label: Measurement Unit Preference
+      hint: null
+      type: select_one
+      options:
+      - Metric (kg, cm)
+      - US (lbs, inches)
+      required: true
+    - id: 6
+      name: current_height
+      label: Current Height
+      hint: In cm or inches depending on preference
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: current_weight
+      label: Current Weight
+      hint: In kg or lbs depending on preference
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bmi_calculated
+      label: Calculated BMI
+      hint: System will calculate this
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: bmi_category
+      label: BMI Category
+      hint: System will determine this
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: health_goals
+      label: Health Goals
+      hint: What are your health objectives?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_activity_level
+      label: Current Activity Level
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly active
+      - Moderately active
+      - Very active
+      - Extremely active
+      required: false
+    - id: 12
+      name: dietary_habits
+      label: Describe Your Dietary Habits
+      hint: Typical diet and eating patterns
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_conditions
+      label: Any Relevant Medical Conditions
+      hint: Diabetes, heart disease, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: Current Medications
+      hint: Including supplements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: previous_weight
+      label: Previous Weight (optional)
+      hint: For comparison
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: weight_change_timeline
+      label: When was previous weight recorded?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: provider_notes
+      label: Provider Notes or Recommendations
+      hint: Clinical observations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Outreach Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Client Outreach Information Form
+      hint: Help us understand your needs so we can reach out with relevant solutions
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: true
+    - id: 7
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Real Estate
+      - Professional Services
+      - Other
+      required: true
+    - id: 8
+      name: email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_challenges
+      label: What Marketing Challenges Are You Facing
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lead Generation
+      - Brand Awareness
+      - Customer Retention
+      - Digital Marketing Strategy
+      - Content Creation
+      - Social Media Management
+      - SEO
+      - Paid Advertising
+      - Marketing Automation
+      - Analytics and Reporting
+      - Other
+      required: true
+    - id: 12
+      name: current_marketing_budget
+      label: Current Monthly Marketing Budget
+      hint: null
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$5000
+      - $5000-$10000
+      - $10000-$25000
+      - $25000-$50000
+      - Over $50000
+      required: true
+    - id: 13
+      name: decision_maker
+      label: Are You the Primary Decision Maker for Marketing
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Part of a Committee
+      - Influencer but not Decision Maker
+      required: true
+    - id: 14
+      name: timeline
+      label: When Are You Looking to Start
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
+      - Just researching
+      required: true
+    - id: 15
+      name: previous_agencies
+      label: Have You Worked with Marketing Agencies Before
+      hint: null
+      type: select_one
+      options:
+      - Yes currently working with one
+      - Yes but not currently
+      - No never worked with an agency
+      required: true
+    - id: 16
+      name: services_interested
+      label: Which Services Are You Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Strategy Consulting
+      - Content Marketing
+      - Social Media Management
+      - Paid Advertising (PPC)
+      - Search Engine Optimization (SEO)
+      - Email Marketing
+      - Marketing Automation
+      - Web Design
+      - Branding
+      - Analytics
+      - Other
+      required: true
+    - id: 17
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - LinkedIn
+      - Google Search
+      - Social Media
+      - Industry Event
+      - Podcast
+      - Advertisement
+      - Other
+      required: false
+    - id: 18
+      name: referral_source
+      label: If Referral Who Referred You
+      hint: Name or company
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Tell us more about your specific needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Video Call
+      - No Preference
+      required: true
+    - id: 21
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: null
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any Time
+      required: false

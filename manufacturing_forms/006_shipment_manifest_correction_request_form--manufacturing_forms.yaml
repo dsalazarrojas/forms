@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipment Manifest Correction Request Form
+    pages:
+    - id: 1
+      name: shipment_manifest_correction_request_form
+      label: Shipment Manifest Correction Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipment_change_reason
+      label: Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipment_correction_request_date
+      label: Correction Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: shipment_correction_request_time
+      label: Correction Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shipment_change_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - Manual Correction
+      - Automated Update
+      required: false
+    - id: 6
+      name: shipment_correction_notes
+      label: Correction Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipment_manifest_number
+      label: Shipment Manifest Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipment_shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipment_shipping_line_number
+      label: Shipment Shipping Line Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipment_corrections
+      label: Corrections
+      hint: null
+      type: select_multiple
+      options:
+      - Missing Items
+      - Extra Items
+      - Other
+      required: false
+    - id: 11
+      name: shipment_manifest_correction_requester
+      label: Requester's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipment_manifest_correction_requester_email
+      label: Requester's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: shipment_manifest_correction_requester_phone
+      label: Requester's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipment_manifest_correction_requester_notes
+      label: Requester's Notes
+      hint: null
+      type: note
+      options: []
+      required: false

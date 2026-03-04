@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Medical History Form
+    pages:
+    - id: 1
+      name: patient_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: medical_header
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart Disease
+      - Hypertension
+      - Asthma
+      - COPD
+      - Cancer
+      - Obesity
+      - Autoimmune Disease
+      - Other
+      required: false
+    - id: 8
+      name: condition_details
+      label: Describe any other conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: surgeries
+      label: Recent surgeries in past 6 months
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: surgery_details
+      label: Describe surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: hospitalizations
+      label: Hospitalizations in past year
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: hospitalization_reason
+      label: Reason for hospitalization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_header
+      label: -- Current Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: List all current medications
+      hint: Include dosages
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: allergies_header
+      label: -- Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: drug_allergies
+      label: Drug Allergies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: allergy_list
+      label: List drug allergies and reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_allergies
+      label: Other allergies
+      hint: Latex, food, environmental
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: covid_history
+      label: -- COVID-19 History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: prior_infection
+      label: Prior COVID-19 infection
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 21
+      name: infection_date
+      label: Date of infection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: infection_severity
+      label: Severity of illness
+      hint: null
+      type: select_one
+      options:
+      - Asymptomatic
+      - Mild
+      - Moderate
+      - Severe
+      - Critical
+      required: false
+    - id: 23
+      name: vaccination_header
+      label: -- Vaccination History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: vaccines_received
+      label: COVID-19 vaccines received
+      hint: null
+      type: select_multiple
+      options:
+      - Pfizer
+      - Moderna
+      - Johnson and Johnson
+      - AstraZeneca
+      - Other
+      - None
+      required: true
+    - id: 25
+      name: vaccine_dates
+      label: Dates of vaccine doses
+      hint: null
+      type: text
+      options: []
+      required: false

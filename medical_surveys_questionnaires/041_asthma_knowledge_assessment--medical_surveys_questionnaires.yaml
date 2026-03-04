@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Asthma Knowledge Assessment
+    pages:
+      - id: 1
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of assessment
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_id
+        label: Participant ID
+        hint: Student, patient, or employee ID
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - Child 5-12
+          - Adolescent 13-17
+          - Adult 18-35
+          - Adult 36-55
+          - Adult 56+
+        required: true
+      - id: 5
+        name: personal_asthma
+        label: Do You Have Asthma Personally
+        hint: Your asthma status
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Family member has asthma
+        required: true
+      - id: 6
+        name: asthma_familiarity
+        label: Familiarity with Asthma
+        hint: Prior asthma knowledge
+        type: select_one
+        options:
+          - No familiarity
+          - Slight familiarity
+          - Moderate familiarity
+          - High familiarity
+        required: true
+      - id: 7
+        name: question_1_definition
+        label: Question 1 - What is asthma?
+        hint: Select best answer
+        type: select_one
+        options:
+          - A temporary breathing difficulty
+          - A chronic lung disease characterized by airway inflammation
+          - A condition that only affects children
+          - Something that goes away with age
+        required: true
+      - id: 8
+        name: question_2_triggers
+        label: Question 2 - Common asthma triggers include
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Allergens like pollen and dust
+          - Exercise
+          - Cold air
+          - Stress
+          - Certain foods
+          - All of the above
+        required: true
+      - id: 9
+        name: question_3_symptoms
+        label: Question 3 - Symptoms of asthma attack
+        hint: Which are common symptoms?
+        type: select_multiple
+        options:
+          - Wheezing
+          - Shortness of breath
+          - Chest tightness
+          - Persistent coughing
+          - All of the above
+        required: true
+      - id: 10
+        name: question_4_rescue_inhaler
+        label: Question 4 - Purpose of rescue inhaler
+        hint: What does it do?
+        type: select_one
+        options:
+          - Prevents asthma attacks
+          - Provides quick relief during an attack
+          - Cures asthma
+          - Reduces allergen exposure
+        required: true
+      - id: 11
+        name: question_5_controller_medication
+        label: Question 5 - Controller medication is taken
+        hint: When should it be used?
+        type: select_one
+        options:
+          - Only during asthma attacks
+          - Daily to prevent symptoms
+          - As needed when feeling tight-chested
+          - Only if over-the-counter options fail
+        required: true
+      - id: 12
+        name: question_6_peak_flow
+        label: Question 6 - What does a peak flow meter measure
+        hint: Function of device
+        type: select_one
+        options:
+          - Heart rate
+          - How much air you can breathe out
+          - Oxygen levels in blood
+          - Temperature
+        required: true
+      - id: 13
+        name: question_7_action_plan
+        label: Question 7 - An asthma action plan typically includes
+        hint: Components of a plan
+        type: select_multiple
+        options:
+          - List of asthma triggers
+          - Daily medication schedule
+          - Steps to take during attack
+          - Emergency contact information
+          - All of the above
+        required: true
+      - id: 14
+        name: question_8_exercise
+        label: Question 8 - People with asthma can exercise
+        hint: Is it true?
+        type: select_one
+        options:
+          - "True"
+          - "False"
+        required: true
+      - id: 15
+        name: question_9_school_sports
+        label: Question 9 - Children with asthma should avoid sports
+        hint: Is it true?
+        type: select_one
+        options:
+          - "True"
+          - "False"
+        required: true
+      - id: 16
+        name: question_10_emergency
+        label: Question 10 - When to seek emergency care
+        hint: Signs of severe attack
+        type: select_multiple
+        options:
+          - Inability to speak full sentences
+          - Severe shortness of breath
+          - Blue lips or face
+          - Unconsciousness or confusion
+          - All of the above
+        required: true
+      - id: 17
+        name: question_11_prevention
+        label: Question 11 - Ways to prevent asthma attacks
+        hint: Prevention strategies
+        type: select_multiple
+        options:
+          - Avoid known triggers
+          - Take controller medication regularly
+          - Keep rescue inhaler accessible
+          - Maintain good indoor air quality
+          - All of the above
+        required: true
+      - id: 18
+        name: question_12_medication_storage
+        label: Question 12 - Inhalers should be stored
+        hint: Proper storage
+        type: select_one
+        options:
+          - In direct sunlight
+          - At room temperature away from heat
+          - In the freezer
+          - In hot vehicles
+        required: true
+      - id: 19
+        name: question_13_allergy_connection
+        label: Question 13 - Asthma and allergies are connected
+        hint: Relationship between conditions
+        type: select_one
+        options:
+          - "True"
+          - "False"
+        required: true
+      - id: 20
+        name: question_14_asthma_cure
+        label: Question 14 - There is currently a cure for asthma
+        hint: Is it true?
+        type: select_one
+        options:
+          - "True"
+          - "False"
+        required: true
+      - id: 21
+        name: knowledge_confidence
+        label: How Confident Are You in Your Asthma Knowledge
+        hint: Confidence level
+        type: select_one
+        options:
+          - Not confident
+          - Somewhat confident
+          - Moderately confident
+          - Very confident
+        required: true
+      - id: 22
+        name: areas_needing_improvement
+        label: Areas Where You Need More Information
+        hint: Topics to learn more about
+        type: select_multiple
+        options:
+          - Recognizing symptoms
+          - Using inhalers correctly
+          - Trigger management
+          - When to seek help
+          - Medications
+          - Exercise and asthma
+          - Other
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments or Questions
+        hint: Any questions about asthma?
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: assessment_completion_date
+        label: Assessment Completion Date
+        hint: Date assessment finished
+        type: date
+        options: []
+        required: true

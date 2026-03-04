@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_frequency
+      label: order frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than 1 time a month''}'
+      - '{''id'': 2, ''label'': ''1 time a month''}'
+      - '{''id'': 3, ''label'': ''2 times a month''}'
+      - '{''id'': 4, ''label'': ''More than 2 times a month''}'
+      - '{''id'': 5, ''label'': ''More than 5 times a month''}'
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: revenue
+      label: revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: income_level
+      label: income level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than $25k''}'
+      - '{''id'': 2, ''label'': ''$25-49k''}'
+      - '{''id'': 3, ''label'': ''$50-74k''}'
+      - '{''id'': 4, ''label'': ''$75-99k''}'
+      - '{''id'': 5, ''label'': ''More than $100k''}'
+      required: false
+    - id: 8
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_size
+      label: company size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than 10''}'
+      - '{''id'': 2, ''label'': ''10-49''}'
+      - '{''id'': 3, ''label'': ''50-99''}'
+      - '{''id'': 4, ''label'': ''100-499''}'
+      - '{''id'': 5, ''label'': ''500 or more''}'
+      required: false
+    - id: 10
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than High School''}'
+      - '{''id'': 2, ''label'': ''High School Graduation''}'
+      - '{''id'': 3, ''label'': ''Bachelors''}'
+      - '{''id'': 4, ''label'': ''Masters''}'
+      - '{''id'': 5, ''label'': ''Doctoral or higher''}'
+      required: false
+    - id: 11
+      name: purchase_in_store
+      label: purchase in store
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: purchase_from_e_commerce
+      label: purchase from e-commerce
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 13
+      name: favorite_online_store
+      label: favorite online store
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Amazon''}'
+      - '{''id'': 2, ''label'': ''eBay''}'
+      - '{''id'': 3, ''label'': ''Etsy''}'
+      - '{''id'': 4, ''label'': ''Facebook''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: favorite_e_commerce_product_category
+      label: favorite e-commerce product category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Electronics''}'
+      - '{''id'': 2, ''label'': ''Fashion''}'
+      - '{''id'': 3, ''label'': ''Home & Garden''}'
+      - '{''id'': 4, ''label'': ''Beauty & Personal Care''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: time_spent_online
+      label: time spent online
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: favorite_device
+      label: favorite device
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Desktop''}'
+      - '{''id'': 2, ''label'': ''Laptop''}'
+      - '{''id'': 3, ''label'': ''Smartphone''}'
+      - '{''id'': 4, ''label'': ''Tablet''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 17
+      name: favorite_browser
+      label: favorite browser
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Google Chrome''}'
+      - '{''id'': 2, ''label'': ''Mozilla Firefox''}'
+      - '{''id'': 3, ''label'': ''Safari''}'
+      - '{''id'': 4, ''label'': ''Opera''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: favorite_search_engine
+      label: favorite search engine
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Google''}'
+      - '{''id'': 2, ''label'': ''Bing''}'
+      - '{''id'': 3, ''label'': ''Yahoo''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: favorite_operating_system
+      label: favorite operating system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Windows''}'
+      - '{''id'': 2, ''label'': ''macOS''}'
+      - '{''id'': 3, ''label'': ''Linux''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: favorite_device
+      label: favorite device
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: favorite_device_type
+      label: favorite device type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Desktop''}'
+      - '{''id'': 2, ''label'': ''Laptop''}'
+      - '{''id'': 3, ''label'': ''Mobile''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 22
+      name: favorite_device_category
+      label: favorite device category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mobile''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: favorite_device_sub_category
+      label: favorite device sub category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mobile Phone''}'
+      - '{''id'': 2, ''label'': ''Laptops''}'
+      - '{''id'': 3, ''label'': ''Tablets''}'
+      - '{''id'': 4, ''label'': ''Desktop''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: favorite_device_operating_system
+      label: favorite device operating system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Windows''}'
+      - '{''id'': 2, ''label'': ''macOS''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: favorite_device_browser
+      label: favorite device browser
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Chrome''}'
+      - '{''id'': 2, ''label'': ''Safari''}'
+      - '{''id'': 3, ''label'': ''Firefox''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false

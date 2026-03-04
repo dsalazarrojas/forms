@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Declaration Update Request Form
+    pages:
+    - id: 1
+      name: ingredient_declaration_update_request
+      label: Ingredient Declaration Update Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reasons_for_update
+      label: Reasons For Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: documentation
+      label: Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Food Team
+      - Cosmetic Team
+      - Product Team
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - In Progress
+      - Completed
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to_id
+      label: Assigned To ID
+      hint: null
+      type: number
+      options: []
+      required: false

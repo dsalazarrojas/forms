@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Trauma Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section1_trauma_experience
+      label: trauma_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: traumatic_event_description
+      label: traumatic_event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emotional_expression
+      label: emotional_expression
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: emotional_expression_options
+      label: emotional_expression_options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: posttraumatic_growth
+      label: posttraumatic_growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: posttraumatic_growth_options
+      label: posttraumatic_growth_options
+      hint: null
+      type: text
+      options: []
+      required: false

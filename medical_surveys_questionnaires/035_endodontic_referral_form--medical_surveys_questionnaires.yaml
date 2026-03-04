@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Endodontic Referral Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AR
+      - AZ
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - IA
+      - ID
+      - IL
+      - IN
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MT
+      - NE
+      - NH
+      - NJ
+      - NM
+      - NV
+      - NY
+      - NC
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WI
+      - WV
+      - WY
+      - DC
+      - PR
+      - US
+      required: true
+    - id: 6
+      name: zip_code
+      label: zip code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: primary_insurance
+      label: primary insurance
+      hint: null
+      type: select_multiple
+      options:
+      - Blue Cross
+      - Aetna
+      - United
+      - Cigna
+      - Others
+      required: false
+    - id: 8
+      name: medical_condition
+      label: medical condition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: endodontist_recommended
+      label: endodontist recommended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: date_of_referral
+      label: date of referral
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: date_of_last_visit
+      label: date of last visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_referral
+      label: reason for referral
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: next_appointment
+      label: next appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: doctor_signature
+      label: doctor signature
+      hint: signature of the dentist
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: dentist_name
+      label: dentist name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_of_referral
+      label: date of referral
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: date_of_last_visit
+      label: date of last visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_referral
+      label: reason for referral
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: next_appointment
+      label: next appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: patient_signature
+      label: patient signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: doctor_signature
+      label: doctor signature
+      hint: signature of the dentist
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: dentist_name
+      label: dentist name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_of_referral
+      label: date of referral
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: date_of_last_visit
+      label: date of last visit
+      hint: null
+      type: date
+      options: []
+      required: false

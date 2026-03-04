@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: generic_product_order_form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_description
+      label: product-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_image
+      label: product-image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: order-total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment-method
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - credit card
+      - paypal
+      required: false
+    - id: 9
+      name: product_price
+      label: product-price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_note
+      label: customer-note
+      hint: null
+      type: text
+      options: []
+      required: false

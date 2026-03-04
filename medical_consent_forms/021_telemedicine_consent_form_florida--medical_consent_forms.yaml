@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemedicine Consent Form Florida
+    pages:
+    - id: 1
+      name: telemedicine_consent_form_florida
+      label: telemedicine_consent_form_florida
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: telemedicine_service_provider
+      label: telemedicine_service_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: electronic_signature
+      label: electronic_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_facility
+      label: medical_facility
+      hint: null
+      type: select_multiple
+      options:
+      - 1st Medical Facility
+      - 2nd Medical Facility
+      - 3rd Medical Facility
+      - 4th Medical Facility
+      required: false

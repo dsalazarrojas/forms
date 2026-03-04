@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Lens Comfort Study Interest Form
+    pages:
+    - id: 1
+      name: study_information
+      label: Contact Lens Comfort Study
+      hint: Interested in participating in our research study
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: For study demographics
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: current_lens_wearer
+      label: Do You Currently Wear Contact Lenses
+      hint: Current usage status
+      type: select_one
+      options:
+      - Yes - Soft Lenses
+      - Yes - Rigid Gas Permeable
+      - Yes - Hybrid
+      - No - But I Have in the Past
+      - No - Never Worn
+      required: true
+    - id: 13
+      name: lens_wear_frequency
+      label: How Often Do You Wear Lenses
+      hint: If applicable
+      type: select_one
+      options:
+      - Daily
+      - Most Days
+      - Few Times a Week
+      - Occasionally
+      - Not Applicable
+      required: false
+    - id: 14
+      name: comfort_issues
+      label: Do You Experience Comfort Issues
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dryness
+      - Irritation
+      - Redness
+      - Blurry Vision
+      - Lens Awareness
+      - End of Day Discomfort
+      - No Issues
+      required: true
+    - id: 15
+      name: eye_conditions
+      label: Do You Have Any Eye Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dry Eye Syndrome
+      - Astigmatism
+      - Presbyopia
+      - Glaucoma
+      - None
+      - Other
+      required: true
+    - id: 16
+      name: allergies
+      label: Do You Have Seasonal Allergies
+      hint: Allergy status
+      type: select_one
+      options:
+      - Yes - Severe
+      - Yes - Moderate
+      - Yes - Mild
+      - false
+      required: true
+    - id: 17
+      name: medications
+      label: Are You Taking Any Eye Medications
+      hint: Current medications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: study_availability
+      label: Availability for Study Visits
+      hint: When can you attend
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekends
+      - Flexible Schedule
+      required: true
+    - id: 19
+      name: consent_participate
+      label: Interest in Participating
+      hint: Would you like to participate
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Need More Information
+      - Not Interested
+      required: true
+    - id: 20
+      name: how_heard
+      label: How Did You Hear About This Study
+      hint: Referral source
+      type: select_one
+      options:
+      - Clinic Website
+      - Social Media
+      - Doctor Referral
+      - Friend or Family
+      - Advertisement
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

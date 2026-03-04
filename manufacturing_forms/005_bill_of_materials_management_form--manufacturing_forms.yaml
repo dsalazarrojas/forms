@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bill Of Materials Management Form
+    pages:
+    - id: 1
+      name: section_product_details
+      label: -- Product Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product name
+      hint: Official product or assembly name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_sku
+      label: Product sku
+      hint: Internal stock keeping unit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: revision_number
+      label: Revision number
+      hint: BOM revision or version number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: component_list
+      label: Component list summary
+      hint: Brief list of primary components and quantities
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: total_cost_estimate
+      label: Total cost estimate
+      hint: Estimated cost in local currency
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lead_time_days
+      label: Lead time days
+      hint: Expected procurement lead time in days
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supplier_name
+      label: Supplier name
+      hint: Primary supplier for key components
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: critical_components
+      label: Critical components
+      hint: List components that need special handling
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes or change history
+      hint: Additional information for production teams
+      type: text
+      options: []
+      required: false

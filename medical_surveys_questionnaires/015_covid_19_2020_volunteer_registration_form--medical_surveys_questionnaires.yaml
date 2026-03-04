@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 2020 Volunteer Registration Form
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: volunteer_type
+      label: Type of Volunteer Service You Can Provide
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Medical Professional
+      - Administrative Support
+      - Community Outreach
+      - Food Distribution
+      - Transportation
+      - Patient Support
+      - Translation Services
+      - Other
+      required: true
+    - id: 10
+      name: medical_license
+      label: Do you have a medical license or healthcare credentials?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: medical_credentials
+      label: If yes, specify your credentials
+      hint: MD, RN, LPN, EMT, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: Availability for Volunteer Work
+      hint: When can you volunteer?
+      type: select_multiple
+      options:
+      - Weekdays
+      - Weekends
+      - Mornings
+      - Afternoons
+      - Evenings
+      - Flexible
+      required: true
+    - id: 13
+      name: hours_per_week
+      label: Hours Per Week You Can Commit
+      hint: Estimate your weekly availability
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: transportation
+      label: Do you have reliable transportation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: true
+    - id: 15
+      name: language_spoken
+      label: Languages Spoken
+      hint: Select all applicable languages
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Vietnamese
+      - Tagalog
+      - Other
+      required: false
+    - id: 16
+      name: previous_volunteer_experience
+      label: Previous Volunteer Experience
+      hint: Describe any past volunteer work
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: motivation
+      label: What motivates you to volunteer?
+      hint: Tell us why you want to help
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: health_status
+      label: Current Health Status
+      hint: null
+      type: select_one
+      options:
+      - Excellent - no known conditions
+      - Good - minor conditions
+      - Fair - some chronic conditions
+      - Other
+      required: true
+    - id: 19
+      name: covid_test
+      label: Have you been tested for COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Positive
+      - Yes - Negative
+      - Yes - Awaiting Results
+      - 'No'
+      - Prefer not to answer
+      required: false
+    - id: 20
+      name: background_check
+      label: Are you willing to submit to a background check?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Have Questions
+      required: true
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

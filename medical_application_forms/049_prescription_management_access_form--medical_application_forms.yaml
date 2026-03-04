@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prescription Management Access Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: prescription_request_date
+      label: Prescription Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: prescription_number
+      label: Prescription Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: prescription_request_type
+      label: Prescription Request Type
+      hint: null
+      type: select_one
+      options:
+      - New Prescription
+      - Refill
+      - Cancel Prescription
+      required: false
+    - id: 9
+      name: prescription_status
+      label: Prescription Status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false

@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acute Care Billing Form
+    pages:
+    - id: 1
+      name: biller_header
+      label: -- Patient Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_legal_name
+      label: Patient Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Patient Account / MRN Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Acute Care Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: insurance_header
+      label: -- Insurance Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: Primary Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: policy_number
+      label: Policy / Member ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: group_number
+      label: Group Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: secondary_insurance
+      label: Do you have secondary insurance?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: billing_codes_header
+      label: -- Charges and Codes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: service_category
+      label: Primary Service Category
+      hint: null
+      type: select_one
+      options:
+      - Emergency Department Visit
+      - Inpatient Admission
+      - Surgical Procedure
+      - Diagnostic Imaging
+      - Laboratory Services
+      required: true
+    - id: 14
+      name: estimated_total_charges
+      label: Estimated Total Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: payment_responsibility
+      label: Financial Responsibility Agreement
+      hint: I understand I am responsible for balances not covered by insurance
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: payment_method_pref
+      label: Preferred Payment Method for Co-pay
+      hint: null
+      type: select_one
+      options:
+      - Credit / Debit Card
+      - Insurance Direct Bill
+      - Payment Plan Requested
+      - Cash / Check
+      required: true
+    - id: 17
+      name: billing_contact_phone
+      label: Billing Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: billing_email
+      label: Billing Contact Email
+      hint: For electronic statements
+      type: email
+      options: []
+      required: true

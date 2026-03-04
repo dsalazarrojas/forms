@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Market Presence Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_size
+      label: Company size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-20
+      - 21-50
+      - 51-100
+      - 101-200
+      - 201-500
+      - 501-1000
+      - 1001+
+      required: false
+    - id: 3
+      name: company_age
+      label: Company age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: industry_sector
+      label: Industry sector
+      hint: null
+      type: select_multiple
+      options:
+      - Agriculture
+      - Finance
+      - Healthcare
+      - Manufacturing
+      - Marketing
+      - Retail
+      required: false
+    - id: 5
+      name: market_presence
+      label: What is your current market presence
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: brand_recognition
+      label: How would you rate brand recognition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_availability
+      label: How would you rate product availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_satisfaction
+      label: Customer satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: competitor
+      label: Competitor
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Weak
+      - None
+      required: false
+    - id: 10
+      name: market_growth
+      label: What is your expectation for market growth
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: customer_expectation
+      label: Customer expectation for our products
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: communication
+      label: What is the current level of communication with us
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: product_quality
+      label: Product quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_experience
+      label: Customer experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: company_location
+      label: Where is your company located
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: customer_note
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: customer_signature
+      label: Customer signature
+      hint: null
+      type: select_multiple
+      options:
+      - Signature
+      - No signature
+      required: false
+    - id: 21
+      name: customer_title
+      label: Customer title
+      hint: null
+      type: select_multiple
+      options:
+      - CTO
+      - CEO
+      - Manager
+      - Other
+      required: false
+    - id: 22
+      name: customer_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Support
+      - Other
+      required: false
+    - id: 23
+      name: customer_position
+      label: Position
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Employee
+      - Other
+      required: false
+    - id: 24
+      name: customer_job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: customer_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

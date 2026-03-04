@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Donor Consent Form
+    pages:
+    - id: 1
+      name: consent_header
+      label: Blood Donor Consent Form
+      hint: Please read and provide your consent
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: donor_id
+      label: Donor ID
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: consent_date
+      label: Date of Consent
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: donation_type_consent
+      label: Donation Type Consent
+      hint: What do you consent to donate
+      type: select_one
+      options:
+      - Whole Blood
+      - Platelets Only
+      - Plasma Only
+      - Any Component Needed
+      required: true
+    - id: 9
+      name: procedure_understanding
+      label: Procedure Understanding
+      hint: I understand the donation procedure
+      type: select_one
+      options:
+      - Yes I Understand
+      - I Have Questions
+      required: true
+    - id: 10
+      name: risks_understanding
+      label: Risks Understanding
+      hint: I understand potential risks
+      type: select_one
+      options:
+      - Yes I Understand
+      - I Have Questions
+      required: true
+    - id: 11
+      name: risk_list
+      label: Potential Risks
+      hint: Bruising dizziness fatigue etc
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: benefits_understanding
+      label: Benefits Understanding
+      hint: I understand potential benefits
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 13
+      name: health_screening_consent
+      label: Health Screening Consent
+      hint: I consent to health screening
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 14
+      name: testing_consent
+      label: Blood Testing Consent
+      hint: I consent to blood testing
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 15
+      name: test_types
+      label: Tests Performed
+      hint: Infectious disease screening etc
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: results_notification
+      label: Results Notification
+      hint: How should we contact you with results
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Patient Portal
+      required: true
+    - id: 17
+      name: data_usage_consent
+      label: Data Usage Consent
+      hint: I consent to data being stored
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 18
+      name: future_contact_consent
+      label: Future Contact Consent
+      hint: May we contact you for future donations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: research_consent
+      label: Research Use Consent
+      hint: Consent for anonymized research use
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 20
+      name: voluntary_statement
+      label: Voluntary Donation
+      hint: I confirm this is voluntary
+      type: select_one
+      options:
+      - Yes Voluntary
+      - false
+      required: true
+    - id: 21
+      name: questions_answered
+      label: Questions Answered
+      hint: Have all questions been answered
+      type: select_one
+      options:
+      - Yes All Answered
+      - I Have No Questions
+      - I Still Have Questions
+      required: true
+    - id: 22
+      name: donor_signature
+      label: Donor Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: witness_name
+      label: Witness Name
+      hint: Staff member name
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any comments
+      type: text
+      options: []
+      required: false

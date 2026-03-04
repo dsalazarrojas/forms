@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: subscriber_survey
+    pages:
+    - id: 1
+      name: subscribe_frequency
+      label: How often do you subscribe
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: subscribe_reason
+      label: Why do you subscribe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subscribe_channel
+      label: Which channel do you subscribe to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_size
+      label: What is the size of your company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: industry
+      label: Which industry do you belong to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false

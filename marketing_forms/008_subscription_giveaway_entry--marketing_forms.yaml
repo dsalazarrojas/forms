@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Giveaway Entry
+    pages:
+    - id: 1
+      name: entry_name
+      label: Entry Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: entry_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: entry_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: entry_plan
+      label: Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Yearly''}'
+      - '{''id'': 3, ''label'': ''Lifelong''}'
+      required: true
+    - id: 5
+      name: entry_channel
+      label: Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Facebook''}'
+      - '{''id'': 2, ''label'': ''TikTok''}'
+      - '{''id'': 3, ''label'': ''Twitter''}'
+      required: true
+    - id: 6
+      name: entry_date
+      label: Entry Date
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: entry_time
+      label: Entry Time
+      hint: 'Format: 12:HH:MM:SS'
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: entry_note
+      label: Entry Note
+      hint: null
+      type: note
+      options: []
+      required: false

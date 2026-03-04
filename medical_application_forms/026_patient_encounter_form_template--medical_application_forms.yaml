@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Encounter Form Template
+    pages:
+    - id: 1
+      name: medical_application_forms_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_application_forms_date
+      label: Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: medical_application_forms_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: medical_application_forms_provider
+      label: Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_application_forms_purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_application_forms_encounter
+      label: Encounter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_application_forms_charges
+      label: Charges
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: medical_application_forms_insurance
+      label: Insurance
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Medicaid
+      - Medicare
+      required: false
+    - id: 9
+      name: medical_application_forms_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_application_forms_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_application_forms_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_application_forms_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_application_forms_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

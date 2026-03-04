@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Larynx Knowledge Quiz
+    pages:
+    - id: 1
+      name: larynx_general_info
+      label: Larynx Knowledge Quiz Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question1
+      label: What is the main function of the larynx?
+      hint: null
+      type: select_one
+      options:
+      - Larynx protects the lungs from aspiration
+      - Larynx helps with swallowing
+      - Larynx produces voice
+      required: true
+    - id: 3
+      name: question2
+      label: Which of the following is a key feature of the larynx?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question3
+      label: What is the larynx responsible for?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: larynx_response
+      label: Larynx Response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: larynx_confidence_level
+      label: Larynx Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: question4
+      label: Which of the following is a key symptom of laryngitis?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: larynx_anatomy
+      label: What is the larynx made of?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: larynx_location
+      label: Larynx Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: larynx_function
+      label: Larynx Function
+      hint: null
+      type: text
+      options: []
+      required: true

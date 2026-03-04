@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Design Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: packaging_design_feedback_questionnaire
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_design_impressions
+      label: overall_design_impressions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: design_elements
+      label: what_do_you_like_about_the_design
+      hint: null
+      type: select_one
+      options:
+      - Design is eye-catching
+      - Design is functional
+      - Other
+      required: false
+    - id: 4
+      name: color_scheme
+      label: what_is_your_opinion_about_the_color_scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Red
+      - Green
+      - Other
+      required: false
+    - id: 5
+      name: color_intensity
+      label: color_intensity
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: font_styles
+      label: overall_fon_style
+      hint: null
+      type: select_one
+      options:
+      - Simple
+      - Fancy
+      - Other
+      required: false
+    - id: 7
+      name: logo_design
+      label: logo_design
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Neutral
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: false

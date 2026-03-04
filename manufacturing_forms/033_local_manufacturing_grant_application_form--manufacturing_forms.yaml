@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Manufacturing Grant Application Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: application details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_summary
+      label: project summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: documents
+      label: documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: applicant_contacts
+      label: contact information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
+      - '{''value'': ''Jane Doe'', ''label'': ''Jane Doe''}'
+      required: false
+    - id: 6
+      name: project_contacts
+      label: project contact information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jane Doe'', ''label'': ''Jane Doe''}'
+      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
+      required: false
+    - id: 7
+      name: applicant_phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_phone
+      label: project phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: applicant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: project_email
+      label: project email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: project_budget
+      label: project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: project_documents
+      label: project documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: applicant_document
+      label: applicant documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manufacturing_grant
+      label: manufacturing grant
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''manufacturing'', ''label'': ''manufacturing''}'
+      - '{''value'': ''non-manufacturing'', ''label'': ''non-manufacturing''}'
+      required: false
+    - id: 15
+      name: manufacturing_type
+      label: manufacturing type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''local'', ''label'': ''local''}'
+      - '{''value'': ''regional'', ''label'': ''regional''}'
+      required: false
+    - id: 16
+      name: manufacturing_location
+      label: manufacturing location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''USA'', ''label'': ''USA''}'
+      - '{''value'': ''Canada'', ''label'': ''Canada''}'
+      - '{''value'': ''Mexico'', ''label'': ''Mexico''}'
+      required: false
+    - id: 17
+      name: manufacturing_sector
+      label: manufacturing sector
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''aerospace'', ''label'': ''aerospace''}'
+      - '{''value'': ''automotive'', ''label'': ''automotive''}'
+      - '{''value'': ''consumer electronics'', ''label'': ''consumer electronics''}'
+      required: false

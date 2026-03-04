@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Waitlist Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Waitlist Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for waitlist entry
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Notifications will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: desired_item
+      label: Desired item
+      hint: Item you wish to be notified about
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_store
+      label: Preferred store
+      hint: Where you want to pick up the item
+      type: select_one
+      options:
+      - Local store
+      - Warehouse pickup
+      - Ship to home
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity interested
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: urgency_level
+      label: Urgency level
+      hint: How urgently do you need the item
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 8
+      name: alternate_contact
+      label: Alternate contact
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: opt_in_notifications
+      label: Opt in notifications
+      hint: Agree to receive updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

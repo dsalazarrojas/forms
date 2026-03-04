@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: coronavirus_19_health_declaration_form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: Patient Identifier
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: medical_organization
+      label: Medical Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: have_fever
+      label: Have you experienced a fever in the past 2 weeks?
+      hint: null
+      type: select_one
+      options:
+      - '{''Fever'': True}'
+      - '{''Fever'': False}'
+      required: true
+    - id: 4
+      name: have_cough
+      label: Have you experienced a cough in the past 2 weeks?
+      hint: null
+      type: select_one
+      options:
+      - '{''Cough'': True}'
+      - '{''Cough'': False}'
+      required: true
+    - id: 5
+      name: travel_history
+      label: Travel history to affected area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_history
+      label: Contact history with confirmed coronavirus-19 case
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exposure_history
+      label: Exposure history to confirmed coronavirus-19 case
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_condition
+      label: Do you have any underlying medical condition?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Medical Condition'': ''Heart disease''}'
+      - '{''Medical Condition'': ''Diabetes''}'
+      - '{''Medical Condition'': ''Lung disease''}'
+      - '{''Medical Condition'': ''Other''}'
+      required: false
+    - id: 9
+      name: medication
+      label: Are you taking any medication?
+      hint: null
+      type: select_one
+      options:
+      - '{''Taking Medication'': True}'
+      - '{''Taking Medication'': False}'
+      required: false
+    - id: 10
+      name: previous_tests
+      label: Have you had a previous test for coronavirus-19?
+      hint: null
+      type: select_one
+      options:
+      - '{''Previous Tests'': True}'
+      - '{''Previous Tests'': False}'
+      required: false
+    - id: 11
+      name: symptoms
+      label: Symptoms experienced in past 2 weeks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: reported_symptoms
+      label: Symptoms reported
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: hospitalization
+      label: Have you been hospitalized?
+      hint: null
+      type: select_one
+      options:
+      - '{''Hospitalization'': True}'
+      - '{''Hospitalization'': False}'
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: patient_identifier_note
+      label: Any other comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: exposure_risk_level
+      label: Exposure Risk Level
+      hint: null
+      type: select_one
+      options:
+      - '{''Exposure Risk Level'': ''Low''}'
+      - '{''Exposure Risk Level'': ''Moderate''}'
+      - '{''Exposure Risk Level'': ''High''}'
+      required: true
+    - id: 17
+      name: travel_destination
+      label: Travel destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: travel_date
+      label: Travel date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: return_date
+      label: Return date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: travel_duration
+      label: Travel duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: travel_country
+      label: Travel country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: travel_mode
+      label: Travel mode
+      hint: null
+      type: select_one
+      options:
+      - '{''Travel Mode'': ''Air''}'
+      - '{''Travel Mode'': ''Bus''}'
+      - '{''Travel Mode'': ''Train''}'
+      - '{''Travel Mode'': ''Other''}'
+      required: true
+    - id: 23
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: patient_identifier_note
+      label: Patient identifier note
+      hint: null
+      type: text
+      options: []
+      required: false

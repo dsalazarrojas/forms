@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: label_adhesion_quality_report_form
+    pages:
+    - id: 1
+      name: label_adhesion_quality_report
+      label: label_adhesion_quality_report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: label_type
+      label: label_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: label_width
+      label: label_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: label_width_units
+      label: label_width_units
+      hint: null
+      type: select_one
+      options:
+      - inches
+      - centimeters
+      required: false
+    - id: 6
+      name: adhesion_score
+      label: adhesion_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: label_adhesion_score
+      label: label_adhesion_score
+      hint: null
+      type: select_one
+      options:
+      - poor
+      - good
+      - excellent
+      required: false
+    - id: 9
+      name: label_adhesion_image
+      label: label_adhesion_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: label_adhesion_image_url
+      label: label_adhesion_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: label_adhesion_comment
+      label: label_adhesion_comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Consultation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Cosmetic Department
+      - Other
+      - Sale
+      required: false
+    - id: 5
+      name: form_tags
+      label: Form Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: false

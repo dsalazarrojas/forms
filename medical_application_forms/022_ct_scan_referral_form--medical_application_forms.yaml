@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: CT Scan Referral Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Patient Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: clinical_history_header
+      label: -- Clinical History and Indications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: provisional_diagnosis
+      label: Provisional Diagnosis and Clinical Indication
+      hint: why is the scan being requested
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: area_to_be_scanned
+      label: Body Area to be Scanned
+      hint: null
+      type: select_one
+      options:
+      - Head
+      - Neck
+      - Chest
+      - Abdomen
+      - Pelvis
+      - Spine
+      - Extremities
+      - Cardiac
+      required: true
+    - id: 8
+      name: urgent_referral
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Urgent - within 48 hours
+      - Critical/Emergency
+      required: true
+    - id: 9
+      name: contrast_required
+      label: Is Contrast Requested
+      hint: IV contrast administration
+      type: select_one
+      options:
+      - true
+      - false
+      - At Radiologist Discretion
+      required: true
+    - id: 10
+      name: allergies_header
+      label: -- Safety and Contraindications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: known_allergies
+      label: Known Allergies
+      hint: specify any history of reaction to contrast media
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: renal_function
+      label: Recent Creatinine or GFR Results
+      hint: if known, for patients over 60 or with history
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pregnancy_status
+      label: Is the patient pregnant or possibly pregnant
+      hint: female patients of childbearing age
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 14
+      name: referring_doctor_header
+      label: -- Referring Practitioner Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: doctor_name
+      label: Referring Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: doctor_phone
+      label: Physician Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: clinic_name
+      label: Clinic or Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date_of_referral
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dengue Medical Certificate Form
+    pages:
+    - id: 1
+      name: name_snake
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_certificate_type
+      label: Medical Certificate Type
+      hint: null
+      type: select_one
+      options:
+      - dengue fever
+      - sick leave
+      - school absence
+      - insurance documentation
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: medical_certificate_number
+      label: Medical Certificate Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: medical_certificate_date
+      label: Medical Certificate Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: issuing_facility
+      label: Issuing Facility
+      hint: null
+      type: select_one
+      options:
+      - clinic
+      - hospital
+      - workplace health unit
+      required: true
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: signature_facility
+      label: Signature Facility
+      hint: null
+      type: select_one
+      options:
+      - clinic
+      - hospital
+      - workplace health unit
+      required: true

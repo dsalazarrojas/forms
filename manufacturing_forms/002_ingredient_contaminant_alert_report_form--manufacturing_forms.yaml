@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Contaminant Alert Report Form
+    pages:
+    - id: 1
+      name: ingredient
+      label: ingredient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contaminant_type
+      label: contaminant_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      required: false
+    - id: 3
+      name: severity
+      label: severity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option1''}'
+      - '{''label'': ''option2''}'
+      - '{''label'': ''option3''}'
+      required: false
+    - id: 5
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''photo1''}'
+      - '{''label'': ''photo2''}'
+      - '{''label'': ''photo3''}'
+      required: false
+    - id: 6
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

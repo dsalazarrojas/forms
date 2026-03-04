@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Billing Procedures Audit Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: procedure_name
+      label: Procedure Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: procedure_date
+      label: Date of Procedure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: procedure_cost
+      label: Procedure Cost
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: minimalism_name
+      label: Minimalism Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: minimalism_email
+      label: Minimalism Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: minimalism_phone
+      label: Minimalism Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: procedure_status
+      label: Procedure Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: true
+    - id: 13
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - Cancelled
+      required: true
+    - id: 14
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: false

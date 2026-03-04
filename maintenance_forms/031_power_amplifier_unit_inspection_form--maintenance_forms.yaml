@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Amplifier Unit Inspection Form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      - Not Applicable
+      - Not Inspected
+      required: true
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      required: true
+    - id: 8
+      name: followup_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspection_signedoff
+      label: Inspection Signed Off
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Good Working Condition
+      - In Poor Condition
+      - In Need Of Repair
+      - Not Available For Inspection
+      - Not Inspected
+      required: false
+    - id: 11
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspection_type
+      label: Inspection Type
+      hint: null
+      type: select_multiple
+      options:
+      - General Inspection
+      - Functional Test
+      - Diagnostic Test
+      - Performance Test
+      - Other
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inspection_notes
+      label: Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_manufacturer
+      label: Equipment Manufacturer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      required: true
+    - id: 20
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: next_inspection_due
+      label: Next Inspection Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: last_inspection_status
+      label: Last Inspection Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_inspection_result
+      label: Last Inspection Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: last_signedoff
+      label: Last Signed Off
+      hint: null
+      type: text
+      options: []
+      required: false

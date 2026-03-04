@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: To Do Reminder
+    pages:
+    - id: 1
+      name: deadline_date
+      label: Deadline Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: to_do_list
+      label: To Do List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: notes_textarea
+      label: Personal Notes
+      hint: null
+      type: note
+      options: []
+      required: false

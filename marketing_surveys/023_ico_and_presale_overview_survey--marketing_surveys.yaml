@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: ic_o_and_presale_overview_survey
+    pages:
+    - id: 1
+      name: presale_information
+      label: Presale Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: token_name
+      label: Token Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: token_price
+      label: Token Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: token_price_ico
+      label: Token Price ICO
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: token_sale_date
+      label: Token Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: total_tokens
+      label: Total Tokens
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: presale_phase
+      label: Presale Phase
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: presale_token_price
+      label: Presale Token Price
+      hint: null
+      type: number
+      options: []
+      required: false

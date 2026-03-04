@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Life Extension Testing Request Form
+    pages:
+    - id: 1
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expiry
+      label: Expiry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_laboratory
+      label: Assigned Laboratory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_laboratory_email
+      label: Assigned Laboratory Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: assigned_laboratory_phone
+      label: Assigned Laboratory Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitted_by_email
+      label: Submitted By Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by_phone
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

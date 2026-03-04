@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infusion Therapy Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: patient_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_last_name
+      label: patient_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: patient_phone
+      label: patient_phone
+      hint: Please enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: infusion_date
+      label: infusion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: infusion_time
+      label: infusion_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: therapist_notes
+      label: therapist_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Component Order Form For Manufacturers
+    pages:
+    - id: 1
+      name: section_order_information
+      label: -- Order Information --
+      hint: Provide order details for component supply
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: purchaser_name
+      label: Purchaser name
+      hint: Company or ordering contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: component_part_number
+      label: Component part number
+      hint: Manufacturer part number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity requested
+      hint: Enter whole number quantity
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: unit_price
+      label: Unit price
+      hint: Price per unit if known
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: requested_delivery_date
+      label: Requested delivery date
+      hint: Preferred delivery date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special instructions
+      hint: Packaging or handling notes
+      type: text
+      options: []
+      required: false

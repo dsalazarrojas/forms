@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Manufacturing Standard Registration Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: energy_consumption_kwh
+      label: Energy Consumption (kWh)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: water_consumption_m3
+      label: Water Consumption (m3)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: waste_to_landfill_kg
+      label: Waste to Landfill (kg)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: greenhouse_gas_emissions_tonnes
+      label: Greenhouse Gas Emissions (tonnes)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: confirm_greenhouse_gas_emissions
+      label: Confirm Greenhouse Gas Emissions
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      required: true
+    - id: 8
+      name: confirm_sustainability_reporting
+      label: Confirm Sustainability Reporting
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      required: true
+    - id: 9
+      name: confirm_environmental_impact_assessment
+      label: Confirm Environmental Impact Assessment
+      hint: null
+      type: select_one
+      options:
+      - Certified
+      - Not Certified
+      required: true
+    - id: 10
+      name: certifications
+      label: Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sustainability_reporting
+      label: Sustainability Reporting
+      hint: null
+      type: text
+      options: []
+      required: false

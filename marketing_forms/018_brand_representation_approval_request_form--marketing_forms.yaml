@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Representation Approval Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Requestor Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or team
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Communications
+      - Product
+      - Human Resources
+      - External Agency
+      - Partner Organization
+      - Other
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: representation_type
+      label: Type of Representation
+      hint: What type of brand representation is needed
+      type: select_one
+      options:
+      - Logo Usage
+      - Brand Messaging
+      - Product Representation
+      - Spokesperson Role
+      - Social Media Representation
+      - Press or Media Appearance
+      - Event Representation
+      - Partnership Announcement
+      required: true
+    - id: 7
+      name: representation_context
+      label: Context of Representation
+      hint: Where will this representation occur
+      type: select_one
+      options:
+      - Public Event
+      - Media Interview
+      - Social Media
+      - Corporate Website
+      - Print Publication
+      - Video Content
+      - Internal Communication
+      - External Communication
+      required: true
+    - id: 8
+      name: representation_date
+      label: Date of Representation
+      hint: When will this occur
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: representation_description
+      label: Description of Representation
+      hint: Describe how you will represent the brand
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: brand_elements_used
+      label: Brand Elements to Be Used
+      hint: Select all brand elements involved
+      type: select_multiple
+      options:
+      - Company Logo
+      - Brand Colors
+      - Brand Fonts
+      - Tagline
+      - Brand Voice
+      - Product Images
+      - Marketing Materials
+      - None
+      required: true
+    - id: 11
+      name: audience_description
+      label: Target Audience
+      hint: Who will see this representation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_reach
+      label: Expected Reach
+      hint: Estimated audience size
+      type: select_one
+      options:
+      - Internal Only
+      - Small Group (Under 100)
+      - Medium Audience (100-1000)
+      - Large Audience (1000-10000)
+      - Mass Media (10000+)
+      required: true
+    - id: 13
+      name: messaging_guidelines
+      label: Key Messages
+      hint: What messages will be communicated
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: risk_assessment
+      label: Potential Risks
+      hint: Are there any potential risks to brand reputation
+      type: select_one
+      options:
+      - No Risks Identified
+      - Low Risk
+      - Medium Risk
+      - High Risk
+      required: true
+    - id: 15
+      name: previous_approval
+      label: Previous Approval
+      hint: Has similar representation been approved before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Do you have supporting materials to submit
+      type: select_one
+      options:
+      - Yes, Will Attach
+      - No Documents
+      required: true
+    - id: 17
+      name: approval_timeline
+      label: Approval Timeline Needed
+      hint: When do you need approval by
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

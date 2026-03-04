@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Habits Survey
+    pages:
+    - id: 1
+      name: traveling_frequency
+      label: How often do you travel
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      - Never
+      required: false
+    - id: 2
+      name: destination_type
+      label: Which destinations would you like to visit
+      hint: null
+      type: select_multiple
+      options:
+      - Beach
+      - City
+      - Mountain
+      - Forest
+      - Other
+      required: false
+    - id: 3
+      name: travel_mode
+      label: How do you prefer to travel
+      hint: null
+      type: select_one
+      options:
+      - Plane
+      - Train
+      - Car
+      - Bus
+      - Other
+      required: false
+    - id: 4
+      name: travel_budget
+      label: How much you usually spend on travel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: favorite_travel_season
+      label: When do you usually travel
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Autumn
+      - Winter
+      required: false
+    - id: 6
+      name: reasons_for_traveling
+      label: Why do you usually travel
+      hint: null
+      type: select_multiple
+      options:
+      - Leisure
+      - Work
+      - Business
+      - Education
+      - Health
+      required: false
+    - id: 7
+      name: travel_frequency_by_mode
+      label: How often do you travel by plane
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 8
+      name: travel_frequency_by_train
+      label: How often do you travel by train
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 9
+      name: travel_frequency_by_car
+      label: How often do you travel by car
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 10
+      name: travel_frequency_by_bus
+      label: How often do you travel by bus
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 11
+      name: travel_frequency_by_others
+      label: How often do you travel by other means
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 12
+      name: accommodation_type
+      label: What type of accommodation you usually prefer
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Airbnb
+      - Hostel
+      - Other
+      required: false
+    - id: 13
+      name: travel_group_size
+      label: How many people usually accompany you
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - 2-3
+      - 4-5
+      - More than 5
+      required: false
+    - id: 14
+      name: travel_length
+      label: How long do you usually travel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: travel_cost
+      label: How much is your travel cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: reasons_for_staying_at_home
+      label: Why do you usually stay at home
+      hint: null
+      type: select_one
+      options:
+      - Work
+      - Health
+      - Financial
+      - Other
+      required: false
+    - id: 17
+      name: reasons_for_travel_restrictions
+      label: Why do you have travel restrictions
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Health
+      - Security
+      - Other
+      required: false

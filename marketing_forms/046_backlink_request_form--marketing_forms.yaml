@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backlink Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your business or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Business email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: website_url
+      label: Your Website URL
+      hint: Full website address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry
+      label: Industry or Niche
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - E-commerce
+      - Education
+      - Entertainment
+      - Travel
+      - Food and Beverage
+      - Other
+      required: true
+    - id: 7
+      name: content_type
+      label: Type of Content for Backlink
+      hint: What type of content do you offer
+      type: select_one
+      options:
+      - Blog post
+      - Research study
+      - Infographic
+      - Tool or calculator
+      - Video content
+      - Podcast
+      - Resource guide
+      - Other
+      required: true
+    - id: 8
+      name: content_url
+      label: Content URL
+      hint: Link to the content you want linked
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_page
+      label: Target Page for Backlink
+      hint: Where should the backlink be placed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: anchor_text
+      label: Preferred Anchor Text
+      hint: What text should be linked
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: backlink_type
+      label: Backlink Type Requested
+      hint: Select type of link
+      type: select_one
+      options:
+      - Do-follow
+      - No-follow
+      - Either is fine
+      required: true
+    - id: 12
+      name: reciprocal_link
+      label: Will You Provide Reciprocal Link
+      hint: Can you link back to us
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 13
+      name: guest_post_offer
+      label: Interested in Guest Posting
+      hint: Would you like to write for us
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: guest_post_topics
+      label: Guest Post Topic Ideas
+      hint: List topics you could write about
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_media_following
+      label: Social Media Following
+      hint: Approximate total followers
+      type: select_one
+      options:
+      - Under 1000
+      - 1000 to 5000
+      - 5000 to 10000
+      - 10000 to 50000
+      - Over 50000
+      required: false
+    - id: 16
+      name: domain_authority
+      label: Your Domain Authority
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_collaborations
+      label: Previous Link Building Collaborations
+      hint: List any notable sites you have worked with
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: value_proposition
+      label: Value Proposition
+      hint: Why should we link to your content
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: timeline
+      label: Expected Timeline
+      hint: When do you hope for link placement
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Flexible
+      required: true
+    - id: 20
+      name: budget
+      label: Budget for Link Placement
+      hint: Select budget range if applicable
+      type: select_one
+      options:
+      - No budget, organic request
+      - 100 to 500
+      - 500 to 1000
+      - 1000 to 2500
+      - Over 2500
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

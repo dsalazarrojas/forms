@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health AI Explainability Awareness Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: How do you feel about the AI chatbot's performance on this health-related
+        task?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Positive'', ''label'': ''Very Positive''}'
+      - '{''value'': ''Positive'', ''label'': ''Positive''}'
+      - '{''value'': ''Neutral'', ''label'': ''Neutral''}'
+      - '{''value'': ''Negative'', ''label'': ''Negative''}'
+      - '{''value'': ''Very Negative'', ''label'': ''Very Negative''}'
+      required: true
+    - id: 3
+      name: page_3
+      label: What is your level of awareness about AI explainability?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Very Low'', ''label'': ''Very Low''}'
+      - '{''value'': ''Low'', ''label'': ''Low''}'
+      - '{''value'': ''Medium'', ''label'': ''Medium''}'
+      - '{''value'': ''High'', ''label'': ''High''}'
+      - '{''value'': ''Very High'', ''label'': ''Very High''}'
+      required: true
+    - id: 4
+      name: page_4
+      label: How important is understanding AI explainability to you?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Important'', ''label'': ''Not Important''}'
+      - '{''value'': ''Somewhat Important'', ''label'': ''Somewhat Important''}'
+      - '{''value'': ''Important'', ''label'': ''Important''}'
+      - '{''value'': ''Very Important'', ''label'': ''Very Important''}'
+      required: true
+    - id: 5
+      name: page_5
+      label: Have you ever had concerns or questions about AI-powered health services?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Never'', ''label'': ''Never''}'
+      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''value'': ''Occasionally'', ''label'': ''Occasionally''}'
+      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
+      - '{''value'': ''Always'', ''label'': ''Always''}'
+      required: true
+    - id: 6
+      name: page_6
+      label: Have you ever felt that AI-powered health services have caused you to
+        feel uncomfortable or anxious?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Never'', ''label'': ''Never''}'
+      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''value'': ''Occasionally'', ''label'': ''Occasionally''}'
+      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
+      - '{''value'': ''Always'', ''label'': ''Always''}'
+      required: false
+    - id: 7
+      name: page_7
+      label: How much do you agree or disagree with the following statements about
+        AI explainability?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: I believe that healthcare providers should be able to explain AI recommendations
+        to me
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: page_9
+      label: I have confidence that AI systems can provide accurate recommendations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: page_10
+      label: Overall, I believe AI systems are transparent about their decision-making
+        processes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: page_11
+      label: What factors do you think are most important for you to trust AI-powered
+        health services?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Effectiveness'', ''label'': ''Effectiveness''}'
+      - '{''value'': ''Safety'', ''label'': ''Safety''}'
+      - '{''value'': ''Efficiency'', ''label'': ''Efficiency''}'
+      - '{''value'': ''Cost'', ''label'': ''Cost''}'
+      - '{''value'': ''Others'', ''label'': ''Others''}'
+      required: true
+    - id: 12
+      name: page_12
+      label: Have you ever asked a healthcare provider about the explainability of
+        AI recommendations?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      - '{''value'': ''Not Sure'', ''label'': ''Not Sure''}'
+      required: true
+    - id: 13
+      name: page_13
+      label: Do you have a better understanding of AI explainability since taking
+        this survey?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      - '{''value'': ''Not Sure'', ''label'': ''Not Sure''}'
+      required: true
+    - id: 14
+      name: page_14
+      label: What do you expect from healthcare providers regarding explainability?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Explain in detail'', ''label'': ''Explain in detail''}'
+      - '{''value'': ''Briefly explain'', ''label'': ''Briefly explain''}'
+      - '{''value'': ''No explanation needed'', ''label'': ''No explanation needed''}'
+      - '{''value'': "Don''t need explanation", ''label'': "Don''t need explanation"}'
+      required: false
+    - id: 15
+      name: page_15
+      label: Do you want to receive AI explainability information in the following
+        formats?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Text'', ''label'': ''Text''}'
+      - '{''value'': ''Images'', ''label'': ''Images''}'
+      - '{''value'': ''Videos'', ''label'': ''Videos''}'
+      - '{''value'': ''None'', ''label'': ''None''}'
+      required: true
+    - id: 16
+      name: page_16
+      label: How likely are you to recommend an AI-powered health service after understanding
+        its explainability?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: page_17
+      label: What is the primary reason you do or do not recommend an AI-powered health
+        service after understanding its explainability?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Effective in treating condition'', ''label'': ''Effective in
+        treating condition''}'
+      - '{''value'': ''Easy to understand'', ''label'': ''Easy to understand''}'
+      - '{''value'': ''Cost-effective'', ''label'': ''Cost-effective''}'
+      - '{''value'': ''Others'', ''label'': ''Others''}'
+      required: true
+    - id: 18
+      name: page_18
+      label: What do you think is the main factor that influences your decision to
+        recommend or not recommend an AI-powered health service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Effectiveness'', ''label'': ''Effectiveness''}'
+      - '{''value'': ''Safety'', ''label'': ''Safety''}'
+      - '{''value'': ''Efficiency'', ''label'': ''Efficiency''}'
+      - '{''value'': ''Cost'', ''label'': ''Cost''}'
+      - '{''value'': ''Others'', ''label'': ''Others''}'
+      - '{''value'': ''Not recommended'', ''label'': ''Not recommended''}'
+      required: true
+    - id: 19
+      name: page_19
+      label: Would you like to receive a copy of this report for your own personal
+        use?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      - '{''value'': ''Not Sure'', ''label'': ''Not Sure''}'
+      required: false

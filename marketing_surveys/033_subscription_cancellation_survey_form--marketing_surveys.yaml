@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Cancellation Survey Form
+    pages:
+    - id: 1
+      name: why_cancel
+      label: Why are you cancelling your subscription?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Rate your overall satisfaction with the service before cancelling?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: recommendation
+      label: Would you recommend the service to friends or family?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - no preference
+      required: false
+    - id: 4
+      name: reason_for_cancellation
+      label: What was the main reason for cancelling your subscription?
+      hint: null
+      type: select_multiple
+      options:
+      - billing
+      - content
+      - service quality
+      - other
+      required: false
+    - id: 5
+      name: service_improvement
+      label: What could we do to improve the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_service
+      label: What was the level of customer service you received while a subscriber?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_issues
+      label: Were there any billing issues that led to your cancellation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: content_issues
+      label: Were there any issues with the content provided by the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_quality
+      label: What was the quality of the service?
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - average
+      - poor
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: SEO Content Details Form
+    pages:
+    - id: 1
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - title
+      - heading
+      - product description
+      - product information
+      - blog post
+      - news article
+      - video content
+      - event content
+      - podcast content
+      - infographic
+      - webinar
+      - presentation
+      - press release
+      - product comparison
+      - case study
+      - whitepaper
+      - ebook
+      - tutorial
+      - checklist
+      - review
+      - rating
+      - survey
+      - interview
+      required: true
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meta_description
+      label: Meta Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: keywords
+      label: Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: content_length
+      label: Content Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: content_quality
+      label: Content Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: meta_image_url
+      label: Meta Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meta_description_url
+      label: Meta Description URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: published_date
+      label: Published Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: meta_author
+      label: Meta Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: meta_publisher
+      label: Meta Publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meta_license
+      label: Meta License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meta_rights
+      label: Meta Rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: meta_version
+      label: Meta Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: meta_modified
+      label: Meta Modified
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: meta_comment
+      label: Meta Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: meta_author_email
+      label: Meta Author Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: meta_publisher_email
+      label: Meta Publisher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: meta_phone
+      label: Meta Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: meta_fax
+      label: Meta Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: meta_notes
+      label: Meta Notes
+      hint: null
+      type: note
+      options: []
+      required: false

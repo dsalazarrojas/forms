@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Copyright Assignment Form
+    pages:
+    - id: 1
+      name: copyright_assignment_form
+      label: Copyright Assignment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: work_description
+      label: Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: copyright_holder
+      label: Copyright Holder
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_date
+      label: Work Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_time
+      label: Work Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: work_license
+      label: Work License
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: work_country
+      label: Work Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: date
+      options: []
+      required: false

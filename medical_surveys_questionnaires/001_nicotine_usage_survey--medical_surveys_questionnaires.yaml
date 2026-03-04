@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nicotine Usage Survey
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_nicotine_use
+      label: Nicotine Use Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Question 1
+      - Question 2
+      - Question 3
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: smoker_status
+      label: Smoker Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Never Tried
+      required: false
+    - id: 6
+      name: years_smoking
+      label: Years Smoking
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quit_reason
+      label: Quit Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quit_year
+      label: Quit Year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: relapse_status
+      label: Relapse Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: relapse_frequency_details
+      label: Relapse Frequency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: quit_support
+      label: Quit Support
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Support Group
+      - Doctor
+      - Other
+      required: false
+    - id: 12
+      name: quit_methods
+      label: Quit Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Counseling
+      - Therapy
+      - Medication
+      - Support Group
+      - Other
+      required: false
+    - id: 13
+      name: quit_success
+      label: Quit Success
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: quit_success_reason
+      label: Quit Success Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: relapse_success
+      label: Relapse Success
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: relapse_success_reason
+      label: Relapse Success Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Heart problems
+      - Lung problems
+      - Liver problems
+      - Other
+      required: false
+    - id: 18
+      name: quit_date
+      label: Quit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: smoker_status_2
+      label: Smoker Status 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: years_smoking_2
+      label: Years Smoking 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: quit_reason_2
+      label: Quit Reason 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: quit_year_2
+      label: Quit Year 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: relapse_status_2
+      label: Relapse Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: relapse_frequency_details_2
+      label: Relapse Frequency Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: quit_support_2
+      label: Quit Support 2
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Support Group
+      - Doctor
+      - Other
+      required: false

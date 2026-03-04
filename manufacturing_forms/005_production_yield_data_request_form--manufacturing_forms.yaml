@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Yield Data Request Form
+    pages:
+    - id: 1
+      name: production_yield_data_request_form
+      label: Manufacturing Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category_form
+      label: Category
+      hint: Select Category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: production_data_form
+      label: Production Data
+      hint: Provide production data
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: yield_rate_form
+      label: Yield Rate
+      hint: Enter yield rate
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: production_rate_form
+      label: Production Rate
+      hint: Enter production rate
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: performance_metrics_form
+      label: Performance Metrics
+      hint: Select performance metrics
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: additional_comments_form
+      label: Additional Comments
+      hint: Provide additional comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: production_yield_data_request_form_submitted
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category_form_1
+      label: Sub Category
+      hint: Select Sub Category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: manufacturing_process_form
+      label: Manufacturing Process
+      hint: Select Manufacturing Process
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: production_yield_form
+      label: Production Yield
+      hint: Enter Production Yield
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_form
+      label: Product
+      hint: Select Product
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

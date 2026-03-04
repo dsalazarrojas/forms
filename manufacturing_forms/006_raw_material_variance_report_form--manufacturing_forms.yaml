@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raw Material Variance Report Form
+    pages:
+    - id: 1
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: variance
+      label: variance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: variance_date
+      label: variance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: variance_time
+      label: variance_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: variance_note
+      label: variance_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: production_team
+      label: production_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: production_team_members
+      label: production_team_members
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

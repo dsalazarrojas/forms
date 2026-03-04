@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coal Blending Input Form
+    pages:
+    - id: 1
+      name: section_blending_run
+      label: -- Blending Run Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: run_date
+      label: Blending Run Date
+      hint: Date of the blending operation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: run_number
+      label: Run Number
+      hint: Unique identifier for this blending run
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: operator_name
+      label: Operator Name
+      hint: Name of the operator conducting the blend
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shift
+      label: Shift
+      hint: Which shift is this operation on
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      required: true
+    - id: 6
+      name: section_coal_sources
+      label: -- Coal Source Components --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: coal_source_1
+      label: Primary Coal Source
+      hint: Name or ID of first coal source
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: coal_1_percentage
+      label: Primary Coal Percentage
+      hint: Percentage by weight
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: coal_source_2
+      label: Secondary Coal Source
+      hint: Name or ID of second coal source
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: coal_2_percentage
+      label: Secondary Coal Percentage
+      hint: Percentage by weight
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: coal_source_3
+      label: Tertiary Coal Source
+      hint: Name or ID of third coal source - optional
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: coal_3_percentage
+      label: Tertiary Coal Percentage
+      hint: Percentage by weight
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_target_parameters
+      label: -- Target Blending Parameters --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: target_ash_content
+      label: Target Ash Content - percent
+      hint: Desired ash content in final blend
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: target_sulfur
+      label: Target Sulfur Content - percent
+      hint: Desired sulfur content
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: target_moisture
+      label: Target Moisture Content - percent
+      hint: Desired moisture level
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: target_btus
+      label: Target BTU Value
+      hint: Desired calorific value
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_blend_volume
+      label: -- Blending Volume --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: total_tons
+      label: Total Blend Volume - tons
+      hint: Total weight of final blend
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: target_fineness
+      label: Target Fineness
+      hint: Desired coal fineness specification
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_quality
+      label: -- Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: initial_quality_check
+      label: Initial Quality Check Passed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 23
+      name: quality_notes
+      label: Quality Assessment Notes
+      hint: Any observations or concerns
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_storage
+      label: -- Storage and Handling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: storage_location
+      label: Storage Location
+      hint: Where the blend will be stored
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: weather_conditions
+      label: Current Weather Conditions
+      hint: Important for coal handling
+      type: select_one
+      options:
+      - Clear
+      - Cloudy
+      - Rainy
+      - Windy
+      - Other
+      required: false

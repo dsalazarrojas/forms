@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Marketing Communication Form
+    pages:
+      - id: 1
+        name: sender_name
+        label: Sender Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: sender_email
+        label: Sender Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: sender_department
+        label: Sender Department
+        hint: Your department
+        type: select_one
+        options:
+          - Marketing
+          - Content
+          - Social Media
+          - Design
+          - Management
+          - Sales
+          - Other
+        required: true
+      - id: 4
+        name: communication_date
+        label: Communication Date
+        hint: Date of this communication
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: recipient_name
+        label: Recipient Name
+        hint: Who is this for?
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: communication_type
+        label: Communication Type
+        hint: What type of communication is this?
+        type: select_one
+        options:
+          - Content Request
+          - Feedback Request
+          - Status Update
+          - Approval Request
+          - Issue Report
+          - Strategy Discussion
+          - Meeting Request
+          - Other
+        required: true
+      - id: 7
+        name: priority_level
+        label: Priority Level
+        hint: How urgent is this?
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Urgent
+        required: true
+      - id: 8
+        name: project_name
+        label: Project Name
+        hint: Related project or campaign
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: content_type
+        label: Content Type
+        hint: What type of content is this about?
+        type: select_one
+        options:
+          - Blog Post
+          - Social Media Post
+          - Video
+          - Email Campaign
+          - Landing Page
+          - Infographic
+          - Podcast
+          - Multiple Types
+        required: true
+      - id: 10
+        name: subject
+        label: Subject
+        hint: Brief subject line
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: message
+        label: Message
+        hint: Your detailed message
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: action_required
+        label: Action Required
+        hint: What action do you need from the recipient?
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: deadline
+        label: Deadline
+        hint: When do you need a response?
+        type: date
+        options: []
+        required: false
+      - id: 14
+        name: attachments
+        label: Attachments Description
+        hint: Describe any attached files
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: related_campaigns
+        label: Related Campaigns
+        hint: Is this part of a larger campaign?
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: stakeholders
+        label: Other Stakeholders
+        hint: Who else should be informed?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: previous_communications
+        label: Previous Communications
+        hint: Reference any related previous discussions
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: feedback_type
+        label: Feedback Type
+        hint: What kind of feedback do you need?
+        type: select_one
+        options:
+          - Content Review
+          - Design Review
+          - Strategy Input
+          - Technical Review
+          - Brand Compliance
+          - Not Applicable
+        required: true
+      - id: 19
+        name: response_needed_by
+        label: Response Needed By
+        hint: When do you need a response?
+        type: date
+        options: []
+        required: false
+      - id: 20
+        name: follow_up_required
+        label: Follow-up Required
+        hint: Will this need a follow-up meeting?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Maybe
+        required: true
+      - id: 21
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

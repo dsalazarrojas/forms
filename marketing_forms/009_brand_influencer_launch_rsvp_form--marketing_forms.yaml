@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Influencer Launch RSVP Form
+    pages:
+    - id: 1
+      name: influencer_name
+      label: Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stage_name
+      label: Stage Name or Handle
+      hint: Your public influencer name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number for event day
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: social_platforms
+      label: Primary Social Platforms
+      hint: Where do you create content
+      type: select_multiple
+      options:
+      - Instagram
+      - TikTok
+      - YouTube
+      - Twitter or X
+      - Facebook
+      - LinkedIn
+      - Pinterest
+      - Snapchat
+      required: true
+    - id: 6
+      name: follower_count
+      label: Total Follower Count
+      hint: Approximate total followers across platforms
+      type: select_one
+      options:
+      - Under 1,000
+      - 1,000 to 10,000
+      - 10,000 to 50,000
+      - 50,000 to 100,000
+      - 100,000 to 500,000
+      - 500,000+
+      required: true
+    - id: 7
+      name: content_niche
+      label: Content Niche
+      hint: What type of content do you create
+      type: select_one
+      options:
+      - Lifestyle
+      - Beauty and Fashion
+      - Fitness and Health
+      - Technology
+      - Food and Cooking
+      - Travel
+      - Gaming
+      - Business and Finance
+      - Parenting
+      - Other
+      required: true
+    - id: 8
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, Cannot Attend
+      - Maybe, Will Confirm Later
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of the launch event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: plus_one
+      label: Bringing a Plus One
+      hint: Will you bring a guest
+      type: select_one
+      options:
+      - No, Attending Alone
+      - Yes, One Guest
+      required: true
+    - id: 11
+      name: guest_name
+      label: Guest Name
+      hint: Full name of your guest
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any dietary restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Kosher
+      - Halal
+      required: true
+    - id: 13
+      name: content_creation_interest
+      label: Content Creation at Event
+      hint: Do you plan to create content at the event
+      type: select_one
+      options:
+      - Yes, Will Create Content
+      - Maybe
+      - No, Just Attending
+      required: true
+    - id: 14
+      name: brand_collaboration_interest
+      label: Brand Collaboration Interest
+      hint: Are you interested in future collaborations
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: true
+    - id: 15
+      name: media_consent
+      label: Media Consent
+      hint: Can we use photos of you for marketing
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 16
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: For event swag
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 17
+      name: transportation_needs
+      label: Transportation Needs
+      hint: Do you need parking or transit info
+      type: select_one
+      options:
+      - Driving, Need Parking
+      - Using Public Transit
+      - Need Ride Share
+      - Walking
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

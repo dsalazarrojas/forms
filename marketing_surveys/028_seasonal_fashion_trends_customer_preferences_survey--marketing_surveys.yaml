@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Fashion Trends Customer Preferences Survey
+    pages:
+    - id: 1
+      name: seasonal_fashion_trends_customer_preferences
+      label: Seasonal Fashion Trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: season
+      label: Season
+      hint: Please select a season
+      type: select_one
+      options:
+      - spring
+      - summer
+      - autumn
+      - winter
+      required: false
+    - id: 3
+      name: fashion_style
+      label: Fashion Style
+      hint: Select one or more of the following
+      type: select_multiple
+      options:
+      - boho-chic
+      - eco-friendly
+      - streetwear
+      - luxury
+      - rustic
+      - sustainable
+      - vintage
+      - modern
+      - classic
+      - casual
+      - glamour
+      required: false
+    - id: 4
+      name: preferred_fashion_item
+      label: Preferred Fashion Item
+      hint: What type of fashion item do you prefer?
+      type: select_one
+      options:
+      - top
+      - bottom
+      - shoes
+      - accessory
+      - jacket-coat
+      - dress
+      - other-please-specify
+      - socks
+      - hat
+      required: false
+    - id: 5
+      name: preferred_color
+      label: Preferred Color
+      hint: Select your preferred color
+      type: select_one
+      options:
+      - black-white
+      - red-pink
+      - blue
+      - green
+      - yellow
+      - brown
+      - grey
+      - purple
+      required: false
+    - id: 6
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fashion_interest
+      label: Fashion Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_preferences
+      label: Customer Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - new-arrivals
+      - discounts
+      - quality
+      - style
+      - price
+      - service
+      - brand
+      - sustainability
+      required: false
+    - id: 9
+      name: customer_service_experience
+      label: Customer Service Experience
+      hint: How would you rate your last customer service experience?
+      type: select_one
+      options:
+      - very-good
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone-number
+      - social-media
+      - in-store
+      required: false

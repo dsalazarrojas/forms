@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: image_advertisement_form
+    pages:
+    - id: 1
+      name: image_advertisement_form_page
+      label: image_advertisement_form_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: image_url
+      label: image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: image_type
+      label: image_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''image''}'
+      - '{''id'': 2, ''label'': ''video''}'
+      - '{''id'': 3, ''label'': ''3d_model''}'
+      required: true
+    - id: 4
+      name: upload_image
+      label: upload_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

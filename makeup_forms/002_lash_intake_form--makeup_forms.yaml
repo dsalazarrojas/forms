@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Client Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Classic Lashes
+      - Volume Lashes
+      - Mega Lashes
+      required: true
+    - id: 5
+      name: lash_technician
+      label: Lash Technician
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      - Jim Johnson
+      required: true
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: lash_type
+      label: Lash Type
+      hint: null
+      type: select_one
+      options:
+      - Natural
+      - Synthetic
+      required: true
+    - id: 12
+      name: lashes_size
+      label: Lash Size
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '20'
+      - '30'
+      required: true
+    - id: 13
+      name: lashes_color
+      label: Lashes Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 14
+      name: lash_style
+      label: Lash Style
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Half
+      required: true
+    - id: 15
+      name: lash_thickness
+      label: Lash Thickness
+      hint: null
+      type: select_one
+      options:
+      - Thin
+      - Medium
+      - Thick
+      required: true
+    - id: 16
+      name: lash_material
+      label: Lash Material
+      hint: null
+      type: select_one
+      options:
+      - Silk
+      - Silk-Blend
+      - Henna
+      required: true
+    - id: 17
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Epilepsy
+      required: true
+    - id: 23
+      name: medical_allergies
+      label: Medical Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: consent_statement
+      label: Consent Statement
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Creation Guidelines Submission
+    pages:
+    - id: 1
+      name: contributor
+      label: Contributor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: draft_post
+      label: Draft Post
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: uploaded_files
+      label: Attached Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: confirm_guidelines
+      label: Confirm Guidelines
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confirm_guidelines_justification
+      label: Confirm Guidelines Justification
+      hint: null
+      type: text
+      options: []
+      required: false

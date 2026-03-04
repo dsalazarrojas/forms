@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Machinery Quote Request
+    pages:
+    - id: 1
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_site
+      label: production_site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: production_site_location
+      label: production_site_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: machinery_suppliers
+      label: machinery_suppliers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: production_quantity
+      label: production_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: production_frequency
+      label: production_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: production_start_date
+      label: production_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: production_end_date
+      label: production_end_date
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: quote_due_date
+      label: quote_due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: requested_equipment_list
+      label: requested_equipment_list
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: equipment_note
+      label: equipment_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: production_requirements
+      label: production_requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: production_lead_time
+      label: production_lead_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: production_capacity
+      label: production_capacity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_reference
+      label: customer_reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: machinery_suppliers_additional_info
+      label: machinery_suppliers_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: machinery_suppliers_phone
+      label: machinery_suppliers_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: machinery_suppliers_email
+      label: machinery_suppliers_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: machinery_suppliers_additional_info
+      label: machinery_suppliers_additional_info_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: machinery_suppliers_additional_info_2
+      label: machinery_suppliers_additional_info_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: machinery_suppliers_additional_info_3
+      label: machinery_suppliers_additional_info_3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Morning Setup Checklist
+    pages:
+    - id: 1
+      name: morning_setup_checklist_page
+      label: Morning setup checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: morning_tasks
+      label: morning tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: issues_and_goals
+      label: issues and goals
+      hint: Enter any issues or goals
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: readiness_status
+      label: Readiness status
+      hint: Select your status
+      type: select_one
+      options:
+      - Morning Not Ready
+      - Morning Ready
+      - On Break
+      required: false
+    - id: 5
+      name: shift_handover_issues
+      label: Shift handover issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_readiness
+      label: team readiness
+      hint: Select your status
+      type: select_one
+      options:
+      - Team Not Ready
+      - Team Ready
+      required: false
+    - id: 7
+      name: morning_comments
+      label: Morning comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issues_and_goals_2
+      label: issues and goals 2
+      hint: Enter any issues or goals
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: morning_routine_issues
+      label: Morning Routine Issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: morning_routine_goals
+      label: Morning Routine Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: morning_routine_comments
+      label: Morning Routine Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: morning_status
+      label: Morning Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: morning_status_2
+      label: Morning Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

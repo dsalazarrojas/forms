@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Testing Appointment Form
+    pages:
+    - id: 1
+      name: medical_suspicions
+      label: What do you suspect?
+      hint: Please specify the suspected disease or condition
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: Enter patient name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_phone
+      label: Patient phone
+      hint: Enter patient phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: appointment_duration
+      label: Appointment duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: doctor_name
+      label: Doctor name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: doctor_department
+      label: Doctor department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: patient_condition
+      label: Patient condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

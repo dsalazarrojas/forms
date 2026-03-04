@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Downtime Investigation Report
+    pages:
+    - id: 1
+      name: root
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: root
+      label: Causes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: possible_causes
+      label: possible_causes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: actual_cause
+      label: Cause
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: root
+      label: Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: actions_taken
+      label: Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: root
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: root
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false

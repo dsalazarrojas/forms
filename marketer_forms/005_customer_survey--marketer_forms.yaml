@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Survey
+    pages:
+    - id: 1
+      name: customer_survey_form_data
+      label: customer_survey_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_service_satisfaction
+      label: customer_service_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_concerns
+      label: customer_concerns
+      hint: What are some concerns you have about our product?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_service
+      label: customer_service
+      hint: How would you rate our customer service?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

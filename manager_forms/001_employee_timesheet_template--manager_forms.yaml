@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Timesheet Template
+    pages:
+    - id: 1
+      name: employee_timesheet_template_page_1
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: time_entry
+      label: Time Entry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 11
+      name: save_draft
+      label: Save Draft
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 12
+      name: approve
+      label: Approve
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 13
+      name: reject
+      label: Reject
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 14
+      name: delete
+      label: Delete
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 15
+      name: submit_and_approve
+      label: Submit and Approve
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: submit_and_delete
+      label: Submit and Delete
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 17
+      name: submit_and_save_draft
+      label: Submit and Save Draft
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 18
+      name: submit_and_approve_and_delete
+      label: Submit and Approve and Delete
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 19
+      name: save_and_approve
+      label: Save and Approve
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 20
+      name: save_and_approve_and_delete
+      label: Save and Approve and Delete
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 21
+      name: save_draft_and_approve
+      label: Save Draft and Approve
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 22
+      name: save_draft_and_approve_and_delete
+      label: Save Draft and Approve and Delete
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 23
+      name: submit_and_delete_and_approve
+      label: Submit and Delete and Approve
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 24
+      name: save_and_delete
+      label: Save and Delete
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 25
+      name: save_and_approve
+      label: Save and Approve
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false

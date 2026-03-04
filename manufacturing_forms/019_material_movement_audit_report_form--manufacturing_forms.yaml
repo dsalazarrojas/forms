@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Movement Audit Report Form
+    pages:
+    - id: 1
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Metal'', ''label'': ''Metal''}'
+      - '{''id'': 2, ''value'': ''Plastic'', ''label'': ''Plastic''}'
+      - '{''id'': 3, ''value'': ''Glass'', ''label'': ''Glass''}'
+      required: true
+    - id: 3
+      name: transfer_reason
+      label: Transfer Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: warehouse_id
+      label: Warehouse ID
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': 123, ''label'': 123}'
+      - '{''id'': 2, ''value'': 456, ''label'': 456}'
+      required: true
+    - id: 5
+      name: factory_id
+      label: Factory ID
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': 111, ''label'': 111}'
+      - '{''id'': 2, ''value'': 222, ''label'': 222}'
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''value'': ''john'', ''label'': ''john''}'
+      required: true
+    - id: 10
+      name: transfer_id
+      label: Transfer ID
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': 999, ''label'': 999}'
+      - '{''id'': 2, ''value'': 9999, ''label'': 9999}'
+      required: true
+    - id: 11
+      name: factory_location
+      label: Factory Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: warehouse_location
+      label: Warehouse Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: transfer_date_in_shift
+      label: Transfer Date In Shift
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: shift_start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: shift_end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: remarks1
+      label: Remarks 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: remarks2
+      label: Remarks 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: remarks3
+      label: Remarks 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: remarks4
+      label: Remarks 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: remarks5
+      label: Remarks 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: remarks6
+      label: Remarks 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: remarks7
+      label: Remarks 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks8
+      label: Remarks 8
+      hint: null
+      type: text
+      options: []
+      required: false

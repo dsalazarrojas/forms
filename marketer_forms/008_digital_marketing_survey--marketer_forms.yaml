@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Digital Marketing Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_preferences
+      label: what_are_your_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: email_marketing
+      label: do_you_prefer_email_marketing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 4
+      name: social_media
+      label: which_social_media_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - facebook
+      - twitter
+      - instagram
+      - snapchat
+      - tiktok
+      - youtube
+      required: false
+    - id: 5
+      name: customer_service
+      label: how_do_you_prefer_to_contact_customer_service
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - live_chat
+      - in_app
+      required: false
+    - id: 6
+      name: website
+      label: what_is_your_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media_channels
+      label: which_social_media_channels_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - facebook
+      - twitter
+      - instagram
+      - snapchat
+      - tiktok
+      - youtube
+      required: false
+    - id: 8
+      name: marketing_channels
+      label: which_marketing_channels_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - newsletter
+      - social_media
+      - paid_search
+      - paid_social
+      - content_marketing
+      required: false
+    - id: 9
+      name: customer_feedback
+      label: do_you_prefer_to_receive_customer_feedback
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: email_frequency
+      label: how_frequent_do_you_receive_emails
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      required: false
+    - id: 11
+      name: email_topics
+      label: what_topics_do_you_prefer_in_emails
+      hint: null
+      type: select_multiple
+      options:
+      - product_updates
+      - promotions
+      - news
+      - events
+      - tips
+      required: false
+    - id: 12
+      name: phone_frequency
+      label: how_frequent_do_you_contact_us_by_phone
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      required: false
+    - id: 13
+      name: phone_topics
+      label: what_topics_do_you_prefer_to_contact_us_about
+      hint: null
+      type: select_multiple
+      options:
+      - support
+      - sales
+      - general_inquiries
+      required: false
+    - id: 14
+      name: time_of_day
+      label: what_time_of_day_do_you_prefer_to_contact_us
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: form_comments
+      label: do_you_have_any_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: what_is_your_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: what_is_your_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: website
+      label: what_is_your_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_language
+      label: what_is_your_preferred_language
+      hint: null
+      type: select_one
+      options:
+      - english
+      - spanish
+      - chinese
+      required: false
+    - id: 20
+      name: additional_comments
+      label: do_you_have_any_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: email_preferences
+      label: how_do_you_prefer_to_receive_email
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      required: false
+    - id: 22
+      name: phone_preferences
+      label: how_do_you_prefer_to_receive_phone
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      required: false
+    - id: 23
+      name: time_preferences
+      label: what_time_of_day_do_you_prefer_to_contact_us
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: additional_phone_comments
+      label: do_you_have_any_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: additional_website_comments
+      label: do_you_have_any_additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

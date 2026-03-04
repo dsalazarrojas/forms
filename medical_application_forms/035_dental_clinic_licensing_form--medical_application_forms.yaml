@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dental Clinic Licensing Form
+    pages:
+    - id: 1
+      name: clinic_address
+      label: Clinic Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: clinic_phone
+      label: Clinic Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: clinic_email
+      label: Clinic Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: clinic_license_type
+      label: Clinic License Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: clinic_license_number
+      label: Clinic License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: clinic_license_expiration_date
+      label: Clinic License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: dentist_name
+      label: Dentist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dentist_license_number
+      label: Dentist License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: dentist_license_expiration_date
+      label: Dentist License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: clinic_supervising_dentist
+      label: Supervising Dentist
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Water Consumption Report Form
+    pages:
+    - id: 1
+      name: factory_water_usage
+      label: Water Usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: factory_water_usage_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: total_consumption
+      label: Total Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: water_source
+      label: Water Source
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 5
+      name: factory_water_usage_quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: factory_water_usage_rate
+      label: Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: total_water_cost
+      label: Total Water Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

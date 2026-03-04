@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_contact_form
+    pages:
+    - id: 1
+      name: main
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sidebar
+      label: Add Picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Your Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: options
+      label: Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

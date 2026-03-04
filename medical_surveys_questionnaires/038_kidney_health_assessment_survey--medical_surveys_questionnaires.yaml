@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kidney Health Assessment Survey
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Diabetes Mellitus''}'
+      - '{''id'': 2, ''label'': ''Chronic Kidney Disease''}'
+      - '{''id'': 3, ''label'': ''Other Medical Condition''}'
+      required: true
+    - id: 3
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_history
+      label: Family History
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Father''}'
+      - '{''id'': 2, ''label'': ''Mother''}'
+      - '{''id'': 3, ''label'': ''Siblings''}'
+      required: true
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lifestyle_details
+      label: Lifestyle Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_last_dialysis
+      label: Date of Last Dialysis
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: dialysis_frequency
+      label: Dialysis Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: blood_tests
+      label: Blood Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hemoglobin''}'
+      - '{''id'': 2, ''label'': ''Creatinine''}'
+      - '{''id'': 3, ''label'': ''Urea''}'
+      required: true
+    - id: 11
+      name: kidney_function
+      label: Kidney Function
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hypertension
+      label: Hypertension
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Stage 1''}'
+      - '{''id'': 2, ''label'': ''Stage 2''}'
+      - '{''id'': 3, ''label'': ''Stage 3''}'
+      required: true
+    - id: 13
+      name: other_conditions
+      label: Other Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasional''}'
+      - '{''id'': 3, ''label'': ''Daily''}'
+      required: true
+    - id: 15
+      name: alcohol_status
+      label: Alcohol Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasional''}'
+      - '{''id'': 3, ''label'': ''Daily''}'
+      required: false
+    - id: 16
+      name: exercise_status
+      label: Exercise Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Occasional''}'
+      - '{''id'': 3, ''label'': ''Daily''}'
+      required: false
+    - id: 17
+      name: diet_status
+      label: Diet Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Balanced''}'
+      - '{''id'': 2, ''label'': ''Unbalanced''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: weight_status
+      label: Weight Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Overweight''}'
+      - '{''id'': 3, ''label'': ''Obese''}'
+      required: false
+    - id: 19
+      name: height_status
+      label: Height Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Normal''}'
+      - '{''id'': 2, ''label'': ''Underweight''}'
+      - '{''id'': 3, ''label'': ''Abnormal''}'
+      required: false
+    - id: 20
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: waist_circumference
+      label: Waist Circumference
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: blood_sugar
+      label: Blood Sugar
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: other_medical_notes
+      label: Other Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false

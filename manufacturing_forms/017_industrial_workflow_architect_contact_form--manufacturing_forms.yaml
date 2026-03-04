@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Workflow Architect Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_website
+      label: company website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workflow
+      label: workflow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: process
+      label: process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: support_team
+      label: support team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_multiple
+      options:
+      - prophet
+      - phone
+      - email
+      required: true
+    - id: 11
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

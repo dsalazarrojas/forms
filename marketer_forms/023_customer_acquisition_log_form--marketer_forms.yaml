@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Acquisition Log Form
+    pages:
+    - id: 1
+      name: customer_acquisition_log_form
+      label: customer_acquisition_log_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_acquisition_source
+      label: customer_acquisition_source
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Email''}'
+      - '{''id'': 2, ''value'': ''Social Media''}'
+      - '{''id'': 3, ''value'': ''Referral''}'
+      required: true
+    - id: 3
+      name: customer_acquisition_date
+      label: customer_acquisition_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_acquisition_time
+      label: customer_acquisition_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_acquisition_note
+      label: customer_acquisition_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_acquisition_email
+      label: customer_acquisition_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_acquisition_phone
+      label: customer_acquisition_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_acquisition_source_id
+      label: customer_acquisition_source_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_acquisition_source_url
+      label: customer_acquisition_source_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_acquisition_source_type
+      label: customer_acquisition_source_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Social Media''}'
+      - '{''id'': 2, ''value'': ''Referral''}'
+      - '{''id'': 3, ''value'': ''Email''}'
+      required: true
+    - id: 11
+      name: customer_acquisition_source_name
+      label: customer_acquisition_source_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_acquisition_source_description
+      label: customer_acquisition_source_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_acquisition_source_image_url
+      label: customer_acquisition_source_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_acquisition_source_button_text
+      label: customer_acquisition_source_button_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_acquisition_source_button_url
+      label: customer_acquisition_source_button_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_acquisition_source_button_target
+      label: customer_acquisition_source_button_target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_acquisition_source_button_type
+      label: customer_acquisition_source_button_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Button''}'
+      - '{''id'': 2, ''value'': ''Link''}'
+      required: false
+    - id: 18
+      name: customer_acquisition_source_button_text_size
+      label: customer_acquisition_source_button_text_size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Large''}'
+      - '{''id'': 2, ''value'': ''Medium''}'
+      - '{''id'': 3, ''value'': ''Small''}'
+      required: false
+    - id: 19
+      name: customer_acquisition_source_button_color
+      label: customer_acquisition_source_button_color
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Red''}'
+      - '{''id'': 2, ''value'': ''Blue''}'
+      - '{''id'': 3, ''value'': ''Green''}'
+      required: false
+    - id: 20
+      name: customer_acquisition_source_button_icon
+      label: customer_acquisition_source_button_icon
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''None''}'
+      - '{''id'': 2, ''value'': ''Font Awesome''}'
+      - '{''id'': 3, ''value'': ''Google Material Icons''}'
+      required: false
+    - id: 21
+      name: customer_acquisition_source_button_position
+      label: customer_acquisition_source_button_position
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Top''}'
+      - '{''id'': 2, ''value'': ''Right''}'
+      - '{''id'': 3, ''value'': ''Left''}'
+      required: false
+    - id: 22
+      name: customer_acquisition_source_button_position_top
+      label: customer_acquisition_source_button_position_top
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Top''}'
+      - '{''id'': 2, ''value'': ''Center''}'
+      - '{''id'': 3, ''value'': ''Bottom''}'
+      required: false
+    - id: 23
+      name: customer_acquisition_source_button_position_right
+      label: customer_acquisition_source_button_position_right
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Right''}'
+      - '{''id'': 2, ''value'': ''Center''}'
+      - '{''id'': 3, ''value'': ''Left''}'
+      required: false
+    - id: 24
+      name: customer_acquisition_source_button_position_left
+      label: customer_acquisition_source_button_position_left
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Left''}'
+      - '{''id'': 2, ''value'': ''Center''}'
+      - '{''id'': 3, ''value'': ''Right''}'
+      required: false
+    - id: 25
+      name: customer_acquisition_source_button_position_bottom
+      label: customer_acquisition_source_button_position_bottom
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Bottom''}'
+      - '{''id'': 2, ''value'': ''Center''}'
+      - '{''id'': 3, ''value'': ''Top''}'
+      required: false

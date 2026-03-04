@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audiology Examination Form
+    pages:
+      - id: 1
+        name: section_patient_info
+        label: -- Patient and Referral --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: patient_full_name
+        label: Patient Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: patient_dob
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: referral_source
+        label: Referral Source
+        hint: Doctor or Clinic who referred the patient
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: exam_date
+        label: Date of Examination
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_complaint
+        label: -- Chief Complaint --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: chief_complaint
+        label: Primary Concern
+        hint: null
+        type: select_multiple
+        options:
+          - Hearing Loss
+          - Tinnitus (Ringing in ears)
+          - Vertigo/Dizziness
+          - Ear Pain or Pressure
+          - Hearing Aid Issues
+          - Occupational Screening
+        required: true
+      - id: 8
+        name: ear_to_examine
+        label: Ear(s) to be Examined
+        hint: null
+        type: select_one
+        options:
+          - Left Ear
+          - Right Ear
+          - Both Ears
+        required: true
+      - id: 9
+        name: section_exam_results
+        label: -- Examination Results --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: otoscopy_notes
+        label: Visual Otoscopy Notes
+        hint: External canal and eardrum appearance
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: pure_tone_summary
+        label: Pure Tone Audiometry Summary
+        hint: Record thresholds for 250Hz - 8kHz
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: speech_reception_threshold
+        label: Speech Reception Threshold (SRT)
+        hint: Record in dB for L and R
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: tympanometry_type
+        label: Tympanometry Result Type
+        hint: null
+        type: select_one
+        options:
+          - Type A (Normal)
+          - Type B (Flat - fluid)
+          - Type C (Negative pressure)
+          - Type As or Ad
+        required: false
+      - id: 14
+        name: clinical_recommendations
+        label: Clinical Recommendations
+        hint: Next steps for the patient
+        type: select_one
+        options:
+          - Hearing Aid Evaluation
+          - ENT Specialist Referral
+          - Annual Re-test
+          - Medical Clearance for Hearing Aids
+          - Protective Equipment Recommended
+        required: true
+      - id: 15
+        name: exam_notes_detailed
+        label: Detailed Examiner Notes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: audiologist_signature
+        label: Examining Audiologist (Type Name)
+        hint: null
+        type: text
+        options: []
+        required: true

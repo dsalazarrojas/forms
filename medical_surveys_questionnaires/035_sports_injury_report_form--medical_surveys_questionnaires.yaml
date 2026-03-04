@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sports Injury Report Form
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_injury
+      label: Date of Injury
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: description_of_injury
+      label: Description of Injury
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_multiple
+      options:
+      - Muscle Strain
+      - Ligament Strain
+      - Concussion
+      required: false
+    - id: 5
+      name: training_session
+      label: Training Session
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: competition_level
+      label: Competition Level
+      hint: null
+      type: select_one
+      options:
+      - National
+      - Club
+      - Rec
+      required: false
+    - id: 7
+      name: medical_attention
+      label: Medical Attention
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: athlete_status
+      label: Athlete Status
+      hint: null
+      type: select_multiple
+      options:
+      - Injured
+      - Illness
+      required: false
+    - id: 9
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Appointment Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Makeup'', ''value'': ''Makeup''}'
+      - '{''label'': ''Lashes'', ''value'': ''Lashes''}'
+      - '{''label'': ''Nails'', ''value'': ''Nails''}'
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Submit'', ''value'': ''Submit''}'
+      - '{''label'': ''Cancel'', ''value'': ''Cancel''}'
+      required: true

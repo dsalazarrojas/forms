@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asthma Control Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: questionnaire_date
+      label: Questionnaire Date
+      hint: Date of this check-in
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: Clinic or hospital name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: Patient age range
+      type: select_one
+      options:
+      - Child 0-4
+      - Child 5-11
+      - Adolescent 12-17
+      - Adult 18-64
+      - Older Adult 65+
+      required: true
+    - id: 6
+      name: asthma_diagnosis_date
+      label: Asthma Diagnosis Date
+      hint: When were you diagnosed?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: asthma_severity
+      label: Current Asthma Severity
+      hint: How severe is your asthma?
+      type: select_one
+      options:
+      - Mild Intermittent
+      - Mild Persistent
+      - Moderate Persistent
+      - Severe Persistent
+      required: true
+    - id: 8
+      name: daytime_symptoms
+      label: Daytime Symptoms (past week)
+      hint: How many days had symptoms?
+      type: select_one
+      options:
+      - None
+      - 1-2 days
+      - 3-4 days
+      - 5-6 days
+      - Every day
+      required: true
+    - id: 9
+      name: nighttime_symptoms
+      label: Nighttime Awakening from Asthma (past week)
+      hint: How many nights woke up with asthma?
+      type: select_one
+      options:
+      - None
+      - 1-2 nights
+      - 3-4 nights
+      - More than 4 nights
+      required: true
+    - id: 10
+      name: activity_limitation
+      label: Activity Limitation (past week)
+      hint: Does asthma limit activities?
+      type: select_one
+      options:
+      - No limitation
+      - Minor limitation
+      - Some limitation
+      - Significant limitation
+      required: true
+    - id: 11
+      name: shortness_of_breath
+      label: Shortness of Breath (past week)
+      hint: How often experienced?
+      type: select_one
+      options:
+      - Not at all
+      - 1-2 times
+      - 3-4 times
+      - Daily
+      required: true
+    - id: 12
+      name: wheezing_episodes
+      label: Wheezing Episodes (past week)
+      hint: How many wheezing episodes?
+      type: select_one
+      options:
+      - None
+      - 1-2 episodes
+      - 3-4 episodes
+      - Daily or continuous
+      required: true
+    - id: 13
+      name: coughing_episodes
+      label: Coughing Episodes (past week)
+      hint: Asthma-related coughing
+      type: select_one
+      options:
+      - None
+      - 1-2 times
+      - Several times
+      - Daily
+      required: true
+    - id: 14
+      name: rescue_inhaler_use
+      label: Rescue Inhaler Use (past week)
+      hint: How often used?
+      type: select_one
+      options:
+      - Not used
+      - 1-2 times
+      - 3-4 times
+      - Daily or more
+      required: true
+    - id: 15
+      name: emergency_visits
+      label: Emergency Department or Hospital Visits (past month)
+      hint: Any urgent/emergency care?
+      type: select_one
+      options:
+      - false
+      - 'Yes'
+      required: true
+    - id: 16
+      name: emergency_visit_count
+      label: Number of Emergency Visits
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: asthma_medication_adherence
+      label: Medication Adherence
+      hint: Do you take medications as prescribed?
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 18
+      name: controller_medication
+      label: Taking Controller Medication
+      hint: Daily preventer medication?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: medication_side_effects
+      label: Experiencing Medication Side Effects
+      hint: Any adverse effects?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 20
+      name: side_effect_description
+      label: Description of Side Effects
+      hint: What side effects?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: asthma_triggers
+      label: Identified Asthma Triggers
+      hint: What triggers attacks?
+      type: select_multiple
+      options:
+      - Allergens (pollen, dust, pets)
+      - Respiratory infections
+      - Exercise
+      - Cold air
+      - Air pollution
+      - Strong odors
+      - Stress
+      - Other
+      required: true
+    - id: 22
+      name: trigger_avoidance
+      label: Successfully Avoiding Triggers
+      hint: How well controlling exposure?
+      type: select_one
+      options:
+      - Not at all
+      - Minimally
+      - Partially
+      - Well
+      required: true
+    - id: 23
+      name: asthma_action_plan
+      label: Have Asthma Action Plan
+      hint: Written plan from doctor?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: overall_control
+      label: Overall Asthma Control (patient perception)
+      hint: How controlled is your asthma?
+      type: select_one
+      options:
+      - Very well controlled
+      - Well controlled
+      - Partially controlled
+      - Poorly controlled
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Comments or Concerns
+      hint: Any other relevant information?
+      type: text
+      options: []
+      required: false

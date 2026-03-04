@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_loyalty_survey
+    pages:
+    - id: 1
+      name: customer_loyalty
+      label: Customer Loyalty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: frequency_of_purchases
+      label: Purchases
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loyalty_program
+      label: Loyalty Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_relevance
+      label: Product Relevance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_experience
+      label: Customer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

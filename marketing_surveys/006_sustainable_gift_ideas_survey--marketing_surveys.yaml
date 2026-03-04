@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Gift Ideas Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gift_preferences
+      label: What type of gift do you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Gift
+      - Experience
+      - Money
+      - Other
+      required: true
+    - id: 3
+      name: gift_preferences_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: motivation
+      label: What motivates you to give sustainable gifts?
+      hint: null
+      type: select_multiple
+      options:
+      - Environmentally friendly
+      - Personal connection
+      - Social responsibility
+      - Other
+      required: true
+    - id: 5
+      name: ideas
+      label: What are some ideas for sustainable gifts?
+      hint: null
+      type: select_multiple
+      options:
+      - Eco-friendly household products
+      - Sustainable clothing
+      - Renewable energy
+      - Second-hand products
+      - Other
+      required: true
+    - id: 6
+      name: ideas_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: frequency
+      label: How often do you give gifts?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 8
+      name: frequency_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: demographics
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: demographics_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_method
+      label: What method would you like us to contact you through?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 13
+      name: contact_method_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Do you have any comments or questions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submission_time
+      label: Time of submission
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: submission_method
+      label: How did you submit this form?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-person
+      required: true
+    - id: 18
+      name: submission_method_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_type
+      label: What type of survey is this?
+      hint: null
+      type: select_one
+      options:
+      - Marketing Survey
+      - Research Survey
+      required: true
+    - id: 20
+      name: survey_type_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: survey_source
+      label: What is the source of this survey?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Website
+      required: true
+    - id: 22
+      name: survey_source_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: company
+      label: Which company would you like to contact?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: company_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_confirmation
+      label: Is there anything else you would like to add?
+      hint: null
+      type: text
+      options: []
+      required: false

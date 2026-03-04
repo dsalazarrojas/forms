@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Medical Scribe Consent Form
+    pages:
+    - id: 1
+      name: --patient_information--
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of birth
+      hint: Use format YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: clinician_name
+      label: Clinician name
+      hint: Attending clinician using the AI scribe
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description_of_service
+      label: Description of AI scribe service
+      hint: Brief explanation of how the scribe assists note taking
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consent_statement
+      label: Consent to use AI assisted medical scribe
+      hint: By consenting you allow capture of visit notes for clinical use
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 7
+      name: data_retention
+      label: Data retention preference
+      hint: Choose how long notes can be stored
+      type: select_one
+      options:
+      - 30 days
+      - 1 year
+      - Indefinitely until request to delete
+      required: true
+    - id: 8
+      name: privacy_questions
+      label: Privacy or data use questions
+      hint: Provide any specific concerns here
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Electronic signature name
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature_date
+      label: Signature date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

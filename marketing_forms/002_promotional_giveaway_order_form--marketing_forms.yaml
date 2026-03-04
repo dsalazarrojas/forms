@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_giveaway_order_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: promotion_type
+      label: Promotion Type
+      hint: null
+      type: select_one
+      options:
+      - giveaway
+      - contest
+      - promotion
+      required: false
+    - id: 6
+      name: promotion_name
+      label: Promotion Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_type
+      label: Participant Type
+      hint: null
+      type: select_one
+      options:
+      - individual
+      - team
+      required: false
+    - id: 8
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: giveaway_date
+      label: Giveaway Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: giveaway_time
+      label: Giveaway Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

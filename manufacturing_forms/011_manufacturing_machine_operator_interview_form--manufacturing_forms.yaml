@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Machine Operator Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Years
+      - Months
+      required: true
+    - id: 5
+      name: machine_types
+      label: Machine Types
+      hint: null
+      type: select_one
+      options:
+      - Machine 1
+      - Machine 2
+      - Machine 3
+      - Machine 4
+      - Machine 5
+      - Machine 6
+      - Machine 7
+      - Machine 8
+      - Machine 9
+      required: true
+    - id: 6
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: work_availability
+      label: Work Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: work_availability_end
+      label: Work Availability End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: interview_notes
+      label: Interview Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      - Location 4
+      - Location 5
+      - Location 6
+      - Location 7
+      - Location 8
+      required: true
+    - id: 11
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: reference_check
+      label: Reference Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: candidate_references
+      label: Candidate References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: assigned_tool
+      label: Assinged Tool
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: deleted_date
+      label: Deleted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: deleted_reason
+      label: Deleted Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

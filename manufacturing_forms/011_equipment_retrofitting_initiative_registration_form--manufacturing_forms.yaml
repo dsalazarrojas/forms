@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Retrofitting Initiative Registration Form
+    pages:
+    - id: 1
+      name: equipment_details
+      label: Equipment details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment_model
+      label: Equipment model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: retrofitting_process
+      label: Retrofitting process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: equipment_description
+      label: Equipment description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: retrofitting_initiatives
+      label: Retrofitting initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

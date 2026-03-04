@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Survey Form
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Optional full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Industry sector of respondent
+      type: select_one
+      options:
+      - Retail
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Other
+      required: true
+    - id: 4
+      name: ad_experience
+      label: Experience with advertising
+      hint: Years working with ads
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: channels_used
+      label: Channels Used
+      hint: Select channels used in past 12 months
+      type: select_multiple
+      options:
+      - Social Media
+      - Search
+      - Display
+      - Email
+      - Offline
+      required: true
+    - id: 6
+      name: campaign_effectiveness
+      label: Campaign Effectiveness Rating
+      hint: Rate typical campaign success
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 7
+      name: measurement_tools
+      label: Measurement Tools
+      hint: Tools used to track campaigns
+      type: select_multiple
+      options:
+      - Google Analytics
+      - Facebook Insights
+      - Inhouse
+      - Other
+      required: false
+    - id: 8
+      name: budget_range
+      label: Typical Monthly Advertising Budget
+      hint: Approximate spend range
+      type: select_one
+      options:
+      - Under 1k
+      - 1k to 5k
+      - 5k to 20k
+      - Over 20k
+      required: false
+    - id: 9
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What would improve your advertising results
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_permission
+      label: Permission for Follow up
+      hint: Agree to be contacted for follow up
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

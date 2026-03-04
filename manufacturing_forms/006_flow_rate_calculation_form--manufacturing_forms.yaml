@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flow Rate Calculation Form
+    pages:
+    - id: 1
+      name: form_flow_inputs
+      label: Flow Inputs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_flow_rate_calculation
+      label: Flow Rate Calculation
+      hint: Flow Rate = Flow / Area
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flow_rate
+      label: Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: area
+      label: Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: velocity
+      label: Velocity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fluid_density
+      label: Fluid Density
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: flow_rate_calculation
+      label: Calculation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_flow_rate_units
+      label: Flow Rate Units
+      hint: null
+      type: select_one
+      options:
+      - m3/h
+      - m3/s
+      - m3/min
+      - m3
+      - m2/s
+      - m2/s
+      required: false
+    - id: 9
+      name: form_flow_input_notes
+      label: Flow Input Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_flow_rate_validation
+      label: Flow Rate Validation
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 11
+      name: form_flow_rate_calculation_units
+      label: Calculation Units
+      hint: null
+      type: select_one
+      options:
+      - m3/h
+      - m3/s
+      - m3/min
+      required: false
+    - id: 12
+      name: form_flow_rate_result
+      label: Flow Rate Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: form_flow_rate_result_notes
+      label: Flow Rate Result Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_flow_rate_validation_notes
+      label: Flow Rate Validation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_flow_rate_validation_result
+      label: Flow Rate Validation Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 16
+      name: form_flow_rate_result_notes
+      label: Flow Rate Result Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_flow_rate_calculation_result
+      label: Flow Rate Calculation Result
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: form_flow_rate_result_units
+      label: Flow Rate Result Units
+      hint: null
+      type: select_one
+      options:
+      - m3/h
+      - m3/s
+      - m3/min
+      - m3
+      - m2/s
+      - m2/s
+      required: false
+    - id: 19
+      name: form_flow_rate_result_notes
+      label: Flow Rate Result Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: form_flow_rate_validation_result_notes
+      label: Flow Rate Validation Result Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: form_flow_rate_result_validation_result
+      label: Flow Rate Result Validation Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 22
+      name: form_flow_rate_calculation_validation_result
+      label: Calculation Validation Result
+      hint: null
+      type: select_multiple
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 23
+      name: form_flow_rate_calculation_result_notes
+      label: Calculation Result Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_flow_rate_calculation_result_units
+      label: Calculation Result Units
+      hint: null
+      type: select_one
+      options:
+      - m3/h
+      - m3/s
+      - m3/min
+      - m3
+      - m2/s
+      - m2/s
+      required: false
+    - id: 25
+      name: form_flow_rate_result_validation_result_notes
+      label: Result Validation Result Notes
+      hint: null
+      type: note
+      options: []
+      required: false

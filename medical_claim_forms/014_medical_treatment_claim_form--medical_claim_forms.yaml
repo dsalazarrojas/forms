@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Treatment Claim Form
+    pages:
+    - id: 1
+      name: medical_treatment_claim_form
+      label: Medical Treatment Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_claim_date
+      label: Medical Claim Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''4a'', ''label'': ''Option 1''}'
+      - '{''id'': ''4b'', ''label'': ''Option 2''}'
+      - '{''id'': ''4c'', ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_diagnosis
+      label: Medical Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''7a'', ''label'': ''Option 1''}'
+      - '{''id'': ''7b'', ''label'': ''Option 2''}'
+      - '{''id'': ''7c'', ''label'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: claim_amount
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false

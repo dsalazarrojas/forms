@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Assessment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_assessment_questions
+      label: Skin Assessment Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: skin_care_history
+      label: Skin Care History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skin_care_practices
+      label: Skin Care Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_condition_symptoms
+      label: Skin Condition Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: skin_care_recommendations
+      label: Skin Care Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

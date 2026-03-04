@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Relationship Optimization Contact Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: relationship_type
+      label: Type of Business Relationship
+      hint: null
+      type: select_one
+      options:
+      - Current Client
+      - Former Client
+      - Prospect
+      - Partner
+      - Vendor
+      - Other
+      required: true
+    - id: 6
+      name: relationship_length
+      label: Length of Relationship
+      hint: How long have we been working together?
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      - Not applicable
+      required: false
+    - id: 7
+      name: primary_need
+      label: Primary Need or Inquiry
+      hint: What is the main purpose of this contact?
+      type: select_one
+      options:
+      - Service inquiry
+      - Issue resolution
+      - Partnership opportunity
+      - Feedback
+      - Reconnection
+      - Other
+      required: true
+    - id: 8
+      name: message_content
+      label: Message or Details
+      hint: Please provide more information about your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How would you like us to reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      - In-person meeting
+      required: true
+    - id: 10
+      name: availability
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: relationship_strength
+      label: Current Relationship Strength
+      hint: null
+      type: select_one
+      options:
+      - Very strong
+      - Strong
+      - Good
+      - Fair
+      - Needs improvement
+      required: false
+    - id: 12
+      name: service_satisfaction
+      label: Service Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Not applicable
+      required: false
+    - id: 13
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: Any feedback on how we can serve you better?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_requested
+      label: Would You Like a Follow-up?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

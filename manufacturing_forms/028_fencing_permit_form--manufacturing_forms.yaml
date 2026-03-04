@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fencing Permit Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: permit_type
+      label: Permit Type
+      hint: null
+      type: select_one
+      options:
+      - Fencing Permit
+      - Other
+      required: true
+    - id: 5
+      name: permit_address
+      label: Permit Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: permit_type_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

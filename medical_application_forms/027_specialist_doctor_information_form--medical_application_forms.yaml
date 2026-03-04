@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialist Doctor Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth_date
+      label: Date Of Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth_year
+      label: Date Of Birth Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth_month
+      label: Date Of Birth Month
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date_of_birth_day
+      label: Date Of Birth Day
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: date_of_birth_am_pm
+      label: Date Of Birth Am Pm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: medical_institution
+      label: Medical Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: text
+      options: []
+      required: false

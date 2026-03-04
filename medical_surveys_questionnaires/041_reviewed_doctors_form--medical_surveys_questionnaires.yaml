@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: reviewed_doctors_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_one
+      options:
+      - General Medicine
+      - Cardiology
+      - Pediatrics
+      - Surgery
+      required: true
+    - id: 7
+      name: hospital
+      label: Hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: clinic_hours
+      label: Clinic Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reviewed_doctors_form
+      label: Reviewed Doctors Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      - Alice Johnson
+      required: true
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: last_reviewed_doctors_form
+      label: Last Reviewed Doctors Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: last_reviewed_by
+      label: Last Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      - Alice Johnson
+      required: false
+    - id: 17
+      name: last_review_date
+      label: Last Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: last_review_time
+      label: Last Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: last_reviewed_doctors_form_version
+      label: Last Reviewed Doctors Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: last_reviewed_doctors_form_changes
+      label: Last Reviewed Doctors Form Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewed_doctors_form_status
+      label: Reviewed Doctors Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Reviewed
+      required: true
+    - id: 22
+      name: last_reviewed_doctors_form_version_last_status
+      label: Last Reviewed Doctors Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_reviewed_doctors_form_version_previous_status
+      label: Last Reviewed Doctors Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Reviewed
+      required: false
+    - id: 24
+      name: reviewed_doctors_form_last_status
+      label: Last Reviewed Doctors Form Last Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Not Reviewed
+      required: false
+    - id: 25
+      name: reviewed_doctors_form_status_last
+      label: Last Reviewed Doctors Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

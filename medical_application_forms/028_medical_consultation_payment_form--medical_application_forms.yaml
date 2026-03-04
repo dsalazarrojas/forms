@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consultation Payment Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_consultation_date
+      label: Medical Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''cash'', ''value'': ''cash''}'
+      - '{''id'': 2, ''name'': ''card'', ''value'': ''card''}'
+      - '{''id'': 3, ''name'': ''bank_transfer'', ''value'': ''bank_transfer''}'
+      required: true
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: billing_provider_name
+      label: Billing Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: billing_provider_address
+      label: Billing Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_email
+      label: Patient E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: medical_service_rendered
+      label: Medical Service Rendered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''paid'', ''value'': ''paid''}'
+      - '{''id'': 2, ''name'': ''unpaid'', ''value'': ''unpaid''}'
+      - '{''id'': 3, ''name'': ''partial'', ''value'': ''partial''}'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

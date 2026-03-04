@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Researcher Information Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: researcher_info
+      label: Researcher Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Marketing Manager
+      - Researcher
+      - Other
+      required: false
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 6
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Public
+      - Non-Profit
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

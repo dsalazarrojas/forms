@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Makeup Client Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: desired_service
+      label: Desired Service
+      hint: Please select the service for which you are seeking permanent makeup.
+      type: select_one
+      options:
+      - Ombre Brows
+      - Microblading
+      - Eyeliner
+      - Lip Liner
+      - Lipliner
+      - Areola
+      - Eyebrow
+      - Eyeliner
+      - Eyebrow Microblading
+      - Lip Liner
+      required: false
+    - id: 6
+      name: preferred_artist
+      label: Preferred Artist
+      hint: Please select the artist you prefer to perform the service.
+      type: select_one
+      options:
+      - Chat
+      - Jimmy
+      - Other
+      required: false
+    - id: 7
+      name: preferred_date
+      label: Preferred Date
+      hint: Please select a date that works for you.
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_time
+      label: Preferred Time
+      hint: Please select a time that works for you.
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 11
+      name: contact_preferred_method
+      label: Contact Preferred Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 12
+      name: contact_note
+      label: Contact Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_other
+      label: Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: preferred_time_window
+      label: Preferred Time Window
+      hint: Please select a preferred time of 15 minutes or less.
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: appointment_note
+      label: Appointment Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: appointment_method
+      label: Appointment Method
+      hint: null
+      type: select_one
+      options:
+      - In person
+      - Over video call
+      - Other
+      required: false
+    - id: 19
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: appointment_address
+      label: Appointment Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appointment_location
+      label: Appointment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: appointment_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_signature
+      label: Client Signature
+      hint: Please sign your name.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: artist_signature
+      label: Artist Signature
+      hint: Please sign your name.
+      type: text
+      options: []
+      required: false

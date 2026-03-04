@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Safety Gear Replenishment Order Form
+    pages:
+    - id: 1
+      name: new_hire_order
+      label: New Hire Order
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: new_hire_id
+      label: New Hire ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: new_hire_name
+      label: New Hire Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ppe_needed
+      label: PPE Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: safety_equipment_needed
+      label: Safety Equipment Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: replacement_order
+      label: Replacement Order
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: replacement_id
+      label: Replacement ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: replacement_name
+      label: Replacement Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: replacement_equipment
+      label: Replacement Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: damaged_equipment
+      label: Damaged Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: worksite
+      label: Worksits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

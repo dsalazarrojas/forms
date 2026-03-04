@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: market_trends
+      label: Market Trends
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: weather_impacts
+      label: Weather Impacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weather_impacts_frequency
+      label: How often do you think weather impacts affect market trends?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: weather_impacts_importance
+      label: How important is the weather in your decision making?
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: market_trends_importance
+      label: How important is the market in your decision making?
+      hint: On a scale of 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: weather_impacts_duration
+      label: How long do you think weather impacts affect market trends?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weather_impacts_duration_frequency
+      label: How frequently do weather impacts last?
+      hint: null
+      type: select_one
+      options:
+      - Less than a day
+      - A few days
+      - A week
+      - More than a week
+      required: false
+    - id: 9
+      name: market_trends_duration
+      label: How long do market trends affect you?
+      hint: null
+      type: select_one
+      options:
+      - Less than a day
+      - A few days
+      - A week
+      - More than a week
+      required: false
+    - id: 10
+      name: market_trends_frequency
+      label: How often do market trends affect you?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than a month
+      - A month or more
+      required: false
+    - id: 11
+      name: weather_impacts_duration_impact
+      label: What is your average impact of weather?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: market_trends_duration_impact
+      label: What is your prophet's impact of market trends?
+      hint: null
+      type: text
+      options: []
+      required: false

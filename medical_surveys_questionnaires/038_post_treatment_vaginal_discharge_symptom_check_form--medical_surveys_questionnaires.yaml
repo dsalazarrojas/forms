@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: post-treatment-vaginal-discharge-symptom-check-form
+    pages:
+    - id: 1
+      name: symptoms_present
+      label: Symptoms Present
+      hint: null
+      type: select_one
+      options:
+      - Vaginal discharge
+      - Redness
+      - Irritation
+      - Bloating
+      - Abdominal pain
+      - Nausea
+      - Vaginal pain
+      - Vaginal mass
+      required: true
+    - id: 2
+      name: how_many_days
+      label: How Many Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: how_often_present
+      label: How Often
+      hint: null
+      type: select_one
+      options:
+      - 1-2 days
+      - 3-7 days
+      - 8-14 days
+      - Every day
+      - Several times a week
+      - Once a month or less
+      required: true
+    - id: 4
+      name: how_severe
+      label: How Severe
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 5
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_for_follow_up
+      label: Email For Follow Up
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_for_follow_up
+      label: Phone For Follow Up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_method
+      label: Follow Up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      required: true
+    - id: 11
+      name: follow_up_remarks
+      label: Follow Up Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_follow_up_schedule
+      label: Next Follow Up Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: next_follow_up_time
+      label: Next Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_reminder
+      label: Follow Up Reminder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Done
+      - Cancelled
+      - Rescheduled
+      required: true
+    - id: 16
+      name: patient_follow_up
+      label: Patient Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: follow_up_remarks
+      label: Follow Up Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_follow_up_remarks
+      label: Next Follow Up Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_plan_notes
+      label: Treatment Plan Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: treatment_plan_revisions
+      label: Treatment Plan Revisions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_follow_up_questions
+      label: Next Follow Up Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_follow_up_answers
+      label: Next Follow Up Answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

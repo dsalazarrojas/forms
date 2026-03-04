@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Loyalty Campaign Effectiveness Evaluation Form
+    pages:
+      - id: 1
+        name: awareness_header
+        label: -- Campaign Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: target_campaign
+        label: Name of the Loyalty Campaign you participated in
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: awareness_channel_select
+        label: How did you first hear about this campaign?
+        hint: null
+        type: select_one
+        options: [Email, Social Media, In-store, Website, Word of Mouth]
+        required: true
+      - id: 4
+        name: participation_header
+        label: -- Participation and Engagement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: ease_of_part
+        label: How easy was it to participate in this campaign?
+        hint: null
+        type: select_one
+        options: [Very Easy, Easy, Neutral, Difficult, Very Difficult]
+        required: true
+      - id: 6
+        name: reward_appeal
+        label: How appealing were the rewards / incentives offered?
+        hint: null
+        type: select_one
+        options: [Highly Appealing, Somewhat Appealing, Neutral, Not Very Appealing]
+        required: true
+      - id: 7
+        name: impact_header
+        label: -- Impact on Loyalty --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: frequency_change
+        label: Has this campaign increased your frequency of purchase?
+        hint: null
+        type: select_one
+        options: [Significantly Increased, Somewhat Increased, No Change, Decreased]
+        required: true
+      - id: 9
+        name: connection_lvl
+        label: Do you feel more connected to our brand after this campaign?
+        hint: null
+        type: select_one
+        options: [Much more connected, Somewhat more connected, No change, Less connected]
+        required: true
+      - id: 10
+        name: feedback_header
+        label: -- Feedback and Improvement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: redemption_sat
+        label: How satisfied were you with the reward redemption process?
+        hint: null
+        type: select_one
+        options: [Very Satisfied, Satisfied, Neutral, Dissatisfied, N / A]
+        required: true
+      - id: 12
+        name: liked_feature
+        label: What did you like most about this campaign?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: improvement_ideas
+        label: What is one thing we could do to make our loyalty programs better?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: future_intent
+        label: Would you participate in a similar campaign in the future?
+        hint: null
+        type: select_one
+        options: [Definitely, Probably, Maybe, No]
+        required: true
+      - id: 15
+        name: eval_dt
+        label: Date
+        hint: null
+        type: date
+        options: []
+        required: true

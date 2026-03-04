@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loyalty Personalization AI Registration Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Enter your company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_url
+      label: Website
+      hint: Enter your company website
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goal_1
+      label: What is your primary goal?
+      hint: Enter your primary goal
+      type: select_one
+      options:
+      - I need a personalized experience for our customers
+      - I need AI-powered recommendations
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: goal_1_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: consent
+      label: Consent
+      hint: Please check to indicate that you've reviewed the terms of service
+      type: select_multiple
+      options:
+      - I have read and agree to the terms of service
+      - I have not read and do not agree to the terms of service
+      required: true
+    - id: 10
+      name: terms_of_service
+      label: Terms of Service
+      hint: Please read the terms of service
+      type: select_multiple
+      options:
+      - I have read and agree to the terms of service
+      - I have not read and do not agree to the terms of service
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: email_collector_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - email
+      - Other
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_opt_in
+      label: Opt in for future communications
+      hint: null
+      type: select_multiple
+      options:
+      - Opt in
+      - Opt out
+      required: false
+    - id: 10
+      name: confirm_email_opt_in
+      label: Confirm Opt in for future communications
+      hint: null
+      type: select_one
+      options:
+      - Opt in
+      - Opt out
+      required: true
+    - id: 11
+      name: terms_and_conditions
+      label: Accept terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 12
+      name: privacy_policy
+      label: Accept privacy policy
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 13
+      name: age_verification
+      label: Verify age
+      hint: null
+      type: select_one
+      options:
+      - '18'
+      - Under 18
+      required: true
+    - id: 14
+      name: terms_of_service
+      label: Accept terms of service
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: false
+    - id: 15
+      name: confirm_terms_of_service
+      label: Confirm Accept terms of service
+      hint: null
+      type: select_one
+      options:
+      - Accept
+      - Decline
+      required: true
+    - id: 16
+      name: country_code
+      label: Country code
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - CAN
+      - MEX
+      - UK
+      required: true
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: state_code
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: address_line2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: postal_code
+      label: Postal/Zip Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: address_line1
+      label: Address 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: form_submitted_by
+      label: Form Submitted by
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Bot
+      required: true

@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Scorecard Template
+    pages:
+    - id: 1
+      name: sales_scorecard
+      label: Sales Scorecard Template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: scorecard_id
+      label: Scorecard ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scorecard_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scorecard_version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: scorecard_owner
+      label: Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scorecard_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: false
+    - id: 7
+      name: scorecard_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: scorecard_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: scorecard_frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: true
+    - id: 10
+      name: scorecard_last_updated_by
+      label: Last Updated By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - User
+      required: true
+    - id: 11
+      name: scorecard_frequency_notes
+      label: Frequency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: scorecard_status_notes
+      label: Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: scorecard_date_notes
+      label: Date Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: scorecard_frequency_notes
+      label: Frequency Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: scorecard_last_updated_notes
+      label: Last Updated Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: scorecard_score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: scorecard_score_notes
+      label: Score Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: scorecard_target_score
+      label: Target Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: scorecard_target_score_notes
+      label: Target Score Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: scorecard_target_score_range
+      label: Target Score Range
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 21
+      name: scorecard_target_score_range_notes
+      label: Target Score Range Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: scorecard_target_score_range_min
+      label: Target Score Range Min
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: scorecard_target_score_range_max
+      label: Target Score Range Max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: scorecard_target_score_range_notes
+      label: Target Score Range Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: scorecard_target_score_range_notes_1
+      label: Target Score Range Notes 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: scorecard_target_score_range_notes_2
+      label: Target Score Range Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: scorecard_target_score_range_notes_3
+      label: Target Score Range Notes 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: scorecard_target_score_range_notes_4
+      label: Target Score Range Notes 4
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Copyright Application Form
+    pages:
+    - id: 1
+      name: copyright_application_form
+      label: Copyright Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: work_name
+      label: Work Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Copyright
+      - Trademark
+      - Patent
+      - Other
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Book
+      - Music
+      - Art
+      - Film
+      required: false
+    - id: 11
+      name: work_description
+      label: Work Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_url
+      label: Work URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_license_number
+      label: Work License Number
+      hint: null
+      type: text
+      options: []
+      required: false

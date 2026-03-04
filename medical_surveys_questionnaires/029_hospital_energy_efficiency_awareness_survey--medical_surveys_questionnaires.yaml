@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Energy Efficiency Awareness Survey
+    pages:
+    - id: 1
+      name: staff_survey
+      label: What is the purpose of this survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_use
+      label: Which energy use is most important to you
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: awareness_level
+      label: What is your current awareness level of energy use in the hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: What suggestions do you have for energy efficiency improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: required_fields
+      label: Are there any required fields
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false

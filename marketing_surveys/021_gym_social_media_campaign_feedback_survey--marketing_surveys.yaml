@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Social Media Campaign Feedback Survey
+    pages:
+    - id: 1
+      name: campaign_details
+      label: What was your impression of our latest gym social media campaign
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_platform
+      label: Which social media platform did you visit first?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      - TikTok
+      required: false
+    - id: 3
+      name: engagement_level
+      label: What was the level of engagement with your post?
+      hint: null
+      type: select_multiple
+      options:
+      - Engaging
+      - Somewhat Engaging
+      - Not Engaging
+      required: false
+    - id: 4
+      name: ad_impact
+      label: How did you feel about the ad?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 5
+      name: ad_impact_score
+      label: What's your Ad Impact Score?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: post_type
+      label: What type of post was it?
+      hint: null
+      type: select_one
+      options:
+      - Photo
+      - Video
+      - Story
+      - Live
+      required: false
+    - id: 7
+      name: post_feeling
+      label: How did you feel about the post?
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 8
+      name: post_score
+      label: What's your Post Feeling Score?
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Got any feedback for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_survey
+      label: Will you be part of follow-up surveys?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Approval Form
+    pages:
+    - id: 1
+      name: purchase_approval_form
+      label: Purchase Approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: purchase_amount
+      label: Purchase Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: purchase_category
+      label: Purchase Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_status
+      label: Purchase Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

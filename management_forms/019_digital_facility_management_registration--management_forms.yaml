@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Facility Management Registration
+    pages:
+    - id: 1
+      name: site_info
+      label: Site Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: site_owner
+      label: Site Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: site_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: site_description
+      label: Site Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: site_services
+      label: Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: site_services_details
+      label: Services Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_contacts
+      label: Site Contacts
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: site_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: service_needs
+      label: Service Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: site_email
+      label: Site Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: site_phone
+      label: Site Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: site_website
+      label: Site Website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: site_facebook
+      label: Site Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_twitter
+      label: Site Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: site_instagram
+      label: Site Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: site_youtube
+      label: Site Youtube
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: site_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: form_updated_date
+      label: Form Updated Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_attachments
+      label: Form Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

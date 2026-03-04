@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: internet_usage_survey_template
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: internet_service_usage
+      label: internet_service_usage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Mobile'', ''label'': ''Mobile''}'
+      - '{''id'': 2, ''name'': ''Desktop'', ''label'': ''Desktop''}'
+      - '{''id'': 3, ''name'': ''Laptop'', ''label'': ''Laptop''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: internet_service_frequency
+      label: How often do you use the internet?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Daily'', ''label'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Several times a week'', ''label'': ''Several times
+        a week''}'
+      - '{''id'': 3, ''name'': ''Occasionally'', ''label'': ''Occasionally''}'
+      - '{''id'': 4, ''name'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''id'': 5, ''name'': ''Never'', ''label'': ''Never''}'
+      required: true
+    - id: 4
+      name: internet_service_length
+      label: How long do you spend on the internet each day?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: most_common_internet_activity
+      label: What is your most common internet activity?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''social_media'', ''label'': ''Social media''}'
+      - '{''id'': 2, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': 3, ''name'': ''online_shopping'', ''label'': ''Online shopping''}'
+      - '{''id'': 4, ''name'': ''streaming_media'', ''label'': ''Streaming media''}'
+      - '{''id'': 5, ''name'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: demographic_age
+      label: What is your age?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''18-24'', ''label'': ''18-24''}'
+      - '{''id'': 2, ''name'': ''25-34'', ''label'': ''25-34''}'
+      - '{''id'': 3, ''name'': ''35-44'', ''label'': ''35-44''}'
+      - '{''id'': 4, ''name'': ''45-54'', ''label'': ''45-54''}'
+      - '{''id'': 5, ''name'': ''55+'', ''label'': ''55+''}'
+      required: true
+    - id: 7
+      name: contact_information
+      label: Do you have a preferred contact method for communication?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': 2, ''name'': ''phone'', ''label'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''text'', ''label'': ''Text message''}'
+      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: internet_usage_survey_comments
+      label: Additional comments or feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: internet_usage_survey_agreement
+      label: Do you agree with our internet usage survey terms?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''agree'', ''label'': ''Agree''}'
+      - '{''id'': 2, ''name'': ''disagree'', ''label'': ''Disagree''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''label'': ''Neutral''}'
+      required: true
+    - id: 10
+      name: consent
+      label: Consent to data collection
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''agree'', ''label'': ''Agree''}'
+      - '{''id'': 2, ''name'': ''disagree'', ''label'': ''Disagree''}'
+      - '{''id'': 3, ''name'': ''neutral'', ''label'': ''Neutral''}'
+      required: true

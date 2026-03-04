@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Departmental Budget Support Request Form
+    pages:
+    - id: 1
+      name: department_request_details
+      label: Department Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: A few sentences describing the project
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: funding_request_amount
+      label: Funding Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document1
+      - Document2
+      - Document3
+      required: false
+    - id: 6
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: false

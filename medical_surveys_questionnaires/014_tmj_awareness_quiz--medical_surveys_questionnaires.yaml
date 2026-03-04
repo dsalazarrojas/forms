@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: TMJ Awareness Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: knowledge
+      label: Knowledge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: discomfort
+      label: Discomfort
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: select_multiple
+      options:
+      - Temporomandibular Joint (TMJ) pain
+      - TMJ pain
+      - Temporomandibular joint pain
+      - Pain in the TMJ
+      - Temporomandibular pain
+      - Temporomandibular joint pain, TMJ pain
+      required: true
+    - id: 6
+      name: question1
+      label: Have you ever experienced pain in your TMJ?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: question2
+      label: How long have you experienced TMJ pain?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than a month
+      - More than a month
+      - More than 6 months
+      required: true
+    - id: 8
+      name: question3
+      label: How much pain do you experience in your TMJ?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 9
+      name: question4
+      label: Do you experience any other symptoms?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

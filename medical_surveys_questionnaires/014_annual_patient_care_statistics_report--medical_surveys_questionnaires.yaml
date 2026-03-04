@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Patient Care Statistics Report
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: Name of the healthcare facility
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_id
+      label: Facility ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_year
+      label: Reporting Year
+      hint: Calendar year being reported
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: report_date
+      label: Report Submission Date
+      hint: Date this report is being submitted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_prepared_by
+      label: Report Prepared By
+      hint: Name and title of person submitting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: For follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: total_patient_visits
+      label: Total Patient Visits
+      hint: Annual number of patient visits
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: emergency_visits
+      label: Emergency Department Visits
+      hint: Number of ED visits
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: inpatient_admissions
+      label: Inpatient Admissions
+      hint: Number of hospital admissions
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: average_patient_age
+      label: Average Patient Age
+      hint: Mean age of patients served
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: age_distribution
+      label: Age distribution of patients
+      hint: Approximate breakdown by age group
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: gender_distribution
+      label: Gender distribution
+      hint: Percentage or count by gender
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_outcomes
+      label: Overall patient outcome rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent outcomes
+      - Good outcomes
+      - Satisfactory outcomes
+      - Mixed outcomes
+      - Below target
+      required: true
+    - id: 14
+      name: readmission_rate
+      label: 30-day readmission rate
+      hint: Percentage of readmitted patients
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: patient_satisfaction
+      label: Patient satisfaction score
+      hint: Average satisfaction rating
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: nosocomial_infections
+      label: Hospital-acquired infections
+      hint: Number of HAI incidents
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: adverse_events
+      label: Reported adverse events
+      hint: Number of adverse events
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_staff
+      label: Total Staff Members
+      hint: FTE or headcount
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: physician_count
+      label: Number of Physicians
+      hint: Attending and resident physicians
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: nursing_staff
+      label: Nursing Staff Count
+      hint: RNs, LPNs, and nursing assistants
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: support_staff
+      label: Support and Administrative Staff
+      hint: Total support personnel
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: staff_turnover_rate
+      label: Staff Turnover Rate
+      hint: Annual turnover percentage
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: open_positions
+      label: Current Open Positions
+      hint: Number of unfilled positions
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: operating_expenses
+      label: Annual Operating Expenses
+      hint: Total facility expenses
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: revenue
+      label: Annual Revenue
+      hint: Total facility revenue
+      type: number
+      options: []
+      required: false

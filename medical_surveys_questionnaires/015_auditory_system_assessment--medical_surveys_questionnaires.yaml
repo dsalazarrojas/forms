@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auditory System Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of the evaluation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: referred_by
+      label: Referred By
+      hint: Who referred you to audiology
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_concern
+      label: Primary Hearing Concern
+      hint: Main reason for visit
+      type: select_one
+      options:
+      - Difficulty Hearing Speech
+      - Tinnitus
+      - Ear Fullness
+      - Vertigo/Dizziness
+      - Earache
+      - Hearing Aid Fitting
+      - Other
+      required: true
+    - id: 8
+      name: hearing_difficulty_duration
+      label: Duration of Hearing Difficulty
+      hint: How long have you had this concern
+      type: select_one
+      options:
+      - Less Than 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Over 1 Year
+      - Not Applicable
+      required: true
+    - id: 9
+      name: hearing_loss_side
+      label: Side of Hearing Loss
+      hint: Where do you notice the problem
+      type: select_one
+      options:
+      - Left Ear Only
+      - Right Ear Only
+      - Both Ears
+      - Not Sure
+      required: true
+    - id: 10
+      name: hearing_loss_severity
+      label: Perceived Severity
+      hint: How significant is the hearing loss
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Moderately Severe
+      - Severe
+      - Very Severe
+      required: true
+    - id: 11
+      name: speech_understanding
+      label: Difficulty Understanding Speech
+      hint: How much trouble with conversation
+      type: select_one
+      options:
+      - No Difficulty
+      - Slight Difficulty
+      - Moderate Difficulty
+      - Considerable Difficulty
+      - Cannot Understand
+      required: true
+    - id: 12
+      name: background_noise_difficulty
+      label: Difficulty in Noisy Environments
+      hint: Problems hearing in background noise
+      type: select_one
+      options:
+      - No Problem
+      - Slight Problem
+      - Moderate Problem
+      - Significant Problem
+      - Severe Problem
+      required: true
+    - id: 13
+      name: tinnitus_present
+      label: Do You Experience Tinnitus
+      hint: Ringing or buzzing in ears
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Mild
+      - Yes - Moderate
+      - Yes - Severe
+      required: true
+    - id: 14
+      name: tinnitus_type
+      label: Type of Tinnitus Sound
+      hint: What does it sound like
+      type: select_one
+      options:
+      - Ringing
+      - Buzzing
+      - Hissing
+      - Roaring
+      - Multiple Sounds
+      - Not Applicable
+      required: false
+    - id: 15
+      name: vertigo_dizziness
+      label: Vertigo or Dizziness Episodes
+      hint: Do you experience spinning sensation
+      type: select_one
+      options:
+      - 'No'
+      - Occasionally
+      - Frequently
+      - Severely - Affects Daily Life
+      required: true
+    - id: 16
+      name: ear_drainage
+      label: Ear Drainage or Discharge
+      hint: Any fluid or discharge
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Frequent
+      - Severe
+      required: true
+    - id: 17
+      name: recent_infections
+      label: Recent Ear Infections
+      hint: Have you had recent ear infections
+      type: select_one
+      options:
+      - 'No'
+      - 1 in Past Year
+      - 2-3 in Past Year
+      - More Than 3 in Past Year
+      required: true
+    - id: 18
+      name: noise_exposure_history
+      label: Occupational Noise Exposure
+      hint: Work in noisy environment
+      type: select_one
+      options:
+      - 'No'
+      - Minimal
+      - Moderate
+      - Significant
+      - Very High
+      required: true
+    - id: 19
+      name: recreational_noise
+      label: Recreational Noise Exposure
+      hint: Loud music, firearms, machinery
+      type: select_multiple
+      options:
+      - Hunting or Firearms
+      - Loud Music/Concerts
+      - Power Tools
+      - Motorsports
+      - Other
+      - None
+      required: false
+    - id: 20
+      name: hearing_protection_use
+      label: Use Hearing Protection
+      hint: Do you wear hearing protection
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 21
+      name: family_hearing_loss
+      label: Family History of Hearing Loss
+      hint: Do family members have hearing loss
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Parents
+      - Yes - Siblings
+      - Yes - Other Relatives
+      required: true
+    - id: 22
+      name: prior_hearing_test
+      label: Had Prior Hearing Test
+      hint: Previous audiologic evaluation
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Within 1 Year
+      - Yes - 1-5 Years Ago
+      - Yes - Over 5 Years Ago
+      required: true
+    - id: 23
+      name: hearing_aid_experience
+      label: Prior Hearing Aid Experience
+      hint: Have you worn hearing aids
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Currently Using
+      - Yes - Used in Past
+      required: true
+    - id: 24
+      name: medical_conditions
+      label: Relevant Medical Conditions
+      hint: Diabetes, high blood pressure, etc
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medications
+      label: Current Medications
+      hint: Any medications you take
+      type: text
+      options: []
+      required: false

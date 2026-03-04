@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Pain Assessment Questionnaire Form
+    pages:
+    - id: 1
+      name: section_header_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_pain_location
+      label: -- Pain Location and Onset --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_pain_location
+      label: Primary Location of Pain
+      hint: null
+      type: select_one
+      options:
+      - Neck
+      - Upper back
+      - Lower back
+      - Shoulders
+      - Arms/hands
+      - Legs/feet
+      - Abdomen
+      - Multiple areas
+      required: true
+    - id: 8
+      name: pain_onset
+      label: When did your pain first start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pain_duration_years
+      label: Duration of Chronic Pain (Years)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: pain_onset_cause
+      label: Known Cause of Pain
+      hint: null
+      type: select_one
+      options:
+      - Injury or accident
+      - Surgery
+      - Disease or illness
+      - Degenerative condition
+      - Unknown cause
+      - Multiple causes
+      required: false
+    - id: 11
+      name: section_header_pain_intensity
+      label: -- Pain Severity and Characteristics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_pain_level
+      label: Current Pain Level (0-10 scale)
+      hint: 0 = No pain, 10 = Worst pain imaginable
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: average_pain_level
+      label: Average Pain Level (0-10 scale)
+      hint: How would you rate your typical daily pain
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: worst_pain_level
+      label: Worst Pain Level in Past Week (0-10 scale)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: pain_characteristics
+      label: Pain Characteristics (Select all that apply)
+      hint: How would you describe the quality of your pain
+      type: select_multiple
+      options:
+      - Sharp or stabbing
+      - Dull or aching
+      - Burning or hot
+      - Tingling or numbing
+      - Throbbing or pulsating
+      - Stiffness
+      - Cramping
+      required: true
+    - id: 16
+      name: pain_pattern
+      label: Pain Pattern
+      hint: null
+      type: select_one
+      options:
+      - Constant
+      - Intermittent
+      - Fluctuating
+      - Varies with activity
+      - Better at certain times
+      required: true
+    - id: 17
+      name: section_header_impact
+      label: -- Impact on Daily Life --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: functional_limitation
+      label: Degree of Functional Limitation
+      hint: null
+      type: select_one
+      options:
+      - No limitation
+      - Mild limitation
+      - Moderate limitation
+      - Severe limitation
+      - Unable to function
+      required: true
+    - id: 19
+      name: work_impact
+      label: Impact on Work or Employment
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Limited activities at work
+      - Modified work duties
+      - Unable to work
+      - Not applicable
+      required: true
+    - id: 20
+      name: sleep_impact
+      label: Impact on Sleep Quality
+      hint: null
+      type: select_one
+      options:
+      - No impact
+      - Occasionally disrupted
+      - Frequently disrupted
+      - Severely disrupted
+      - Unable to sleep
+      required: true
+    - id: 21
+      name: activities_affected
+      label: Daily Activities Affected (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Personal care and hygiene
+      - Household chores
+      - Exercise and recreation
+      - Social activities
+      - Work or career
+      - Family responsibilities
+      - Hobbies and interests
+      required: false
+    - id: 22
+      name: section_header_treatments
+      label: -- Current Treatments and Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: current_medications
+      label: List Current Pain Medications
+      hint: Include medication names and dosages if possible
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: treatment_types
+      label: Types of Treatment Currently Using (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Prescription medications
+      - Over-the-counter medications
+      - Physical therapy
+      - Psychological therapy or counseling
+      - Complementary therapies
+      - Injections or nerve blocks
+      - Surgery
+      - Alternative medicine
+      required: false
+    - id: 25
+      name: treatment_effectiveness
+      label: Overall Effectiveness of Current Treatment
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Moderately effective
+      - Minimally effective
+      - Not effective
+      - No treatment yet
+      required: true

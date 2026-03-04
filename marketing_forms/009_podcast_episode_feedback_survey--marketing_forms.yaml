@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Episode Feedback Survey
+    pages:
+    - id: 1
+      name: intro_text
+      label: What do you think about this episode
+      hint: Please share your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate this episode 1-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: What did you like most about this episode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_didnt_like
+      label: What did you like least about this episode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Do you have any suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_time
+      label: When did you listen to this episode
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: select_multiple
+      label: Select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: select_all
+      label: Select all
+      hint: null
+      type: select_one
+      options:
+      - All
+      - Most
+      - None
+      required: false
+    - id: 15
+      name: select_one2
+      label: Select one2
+      hint: null
+      type: select_one
+      options:
+      - One
+      - Two
+      - Three
+      required: false
+    - id: 16
+      name: select_multiple2
+      label: Select multiple2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: date_time2
+      label: Date and time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time2
+      label: Time2
+      hint: null
+      type: time
+      options: []
+      required: false

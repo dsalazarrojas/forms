@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Incident Report Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Accident
+      - Other
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_relation
+      label: Witness Relation
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Customer
+      - Supplier
+      - Other
+      required: false
+    - id: 9
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_image_url
+      label: Incident Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_name
+      label: Incident Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Contest Registration Form
+    pages:
+    - id: 1
+      name: social_media_contest_registration_form
+      label: Registration form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: social_media_handles
+      label: Social media handles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_social_media
+      label: Preferred social media
+      hint: null
+      type: select_one
+      options:
+      - instagram
+      - facebook
+      - twitter
+      required: false
+    - id: 8
+      name: social_media_account
+      label: Social media account
+      hint: Enter your social media account
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_to_share_info
+      label: Consent to share info
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

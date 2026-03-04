@@ -1,0 +1,339 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collagen Induction Facial Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: treatment_date
+      label: Treatment Date
+      hint: Scheduled date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: provider_name
+      label: Treatment Provider
+      hint: Esthetician or practitioner name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: skin_type
+      label: Skin Type
+      hint: Your skin type
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
+      - Acne-Prone
+      required: true
+    - id: 11
+      name: skin_concerns
+      label: Skin Concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fine Lines and Wrinkles
+      - Acne Scars
+      - Uneven Skin Tone
+      - Large Pores
+      - Dull Skin
+      - Sun Damage
+      - Sagging Skin
+      - Stretch Marks
+      - Other
+      required: true
+    - id: 12
+      name: previous_treatments
+      label: Previous Collagen Induction Treatments
+      hint: Have you had this before
+      type: select_one
+      options:
+      - Yes Multiple Times
+      - Yes Once
+      - No Never
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart Disease
+      - High Blood Pressure
+      - Autoimmune Disorder
+      - Bleeding Disorder
+      - Skin Cancer
+      - Active Acne
+      - Rosacea
+      - Eczema
+      - Psoriasis
+      - None
+      required: true
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: accutane_use
+      label: Have You Used Accutane
+      hint: In the past 6 months
+      type: select_one
+      options:
+      - Yes Currently
+      - Yes Within 6 Months
+      - Yes Over 6 Months Ago
+      - No Never
+      required: true
+    - id: 16
+      name: blood_thinners
+      label: Do You Take Blood Thinners
+      hint: Including aspirin
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: retinol_use
+      label: Do You Use Retinol Products
+      hint: Vitamin A products
+      type: select_one
+      options:
+      - Yes Daily
+      - Yes Occasionally
+      - false
+      required: true
+    - id: 18
+      name: allergies
+      label: Allergies
+      hint: Especially to skincare products
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: pregnant_or_nursing
+      label: Are You Pregnant or Nursing
+      hint: Current status
+      type: select_one
+      options:
+      - Yes Pregnant
+      - Yes Nursing
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 20
+      name: history_of_keloids
+      label: History of Keloid Scarring
+      hint: Do you scar easily
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 21
+      name: recent_sun_exposure
+      label: Recent Sun Exposure
+      hint: In the past 2 weeks
+      type: select_one
+      options:
+      - Yes Significant
+      - Yes Moderate
+      - No Minimal
+      required: true
+    - id: 22
+      name: cold_sores
+      label: History of Cold Sores
+      hint: Herpes simplex
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: treatment_area
+      label: Treatment Area
+      hint: Where will treatment be done
+      type: select_one
+      options:
+      - Full Face
+      - Face and Neck
+      - Forehead Only
+      - Cheeks Only
+      - Around Mouth
+      - Other
+      required: true
+    - id: 24
+      name: numbing_cream
+      label: Numbing Cream Preference
+      hint: Topical anesthetic
+      type: select_one
+      options:
+      - Yes Please Apply
+      - No Thank You
+      - Used Before Without Issues
+      required: true
+    - id: 25
+      name: procedure_understanding
+      label: Understanding of Procedure
+      hint: Do you understand the procedure
+      type: select_one
+      options:
+      - Yes Completely
+      - Mostly
+      - Somewhat
+      - No Need More Info
+      required: true
+    - id: 26
+      name: risks_understood
+      label: Risks Understood
+      hint: Select all you understand
+      type: select_multiple
+      options:
+      - Redness and Swelling
+      - Minor Bleeding
+      - Bruising
+      - Infection Risk
+      - Scarring
+      - Pigment Changes
+      - Breakouts
+      - Dry or Flaky Skin
+      - Sun Sensitivity
+      required: true
+    - id: 27
+      name: aftercare_commitment
+      label: Aftercare Commitment
+      hint: Will you follow aftercare
+      type: select_one
+      options:
+      - Yes I Will
+      - Yes I Understand
+      required: true
+    - id: 28
+      name: results_expectation
+      label: Results Expectation
+      hint: Do you have realistic expectations
+      type: select_one
+      options:
+      - Yes I Understand Multiple Sessions Needed
+      - Yes I Understand Results Vary
+      - No I Expect Immediate Results
+      required: true
+    - id: 29
+      name: photo_consent
+      label: Consent for Treatment Photos
+      hint: For medical records
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 30
+      name: marketing_photo_consent
+      label: Consent for Marketing Photos
+      hint: Before and after photos
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true
+    - id: 31
+      name: financial_responsibility
+      label: Financial Responsibility Acknowledgment
+      hint: You understand costs
+      type: select_one
+      options:
+      - Yes I Understand
+      - Other
+      required: true
+    - id: 32
+      name: client_signature
+      label: Client Agreement
+      hint: I consent to this treatment
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 33
+      name: provider_signature
+      label: Provider Confirmation
+      hint: Provider confirms consent
+      type: select_one
+      options:
+      - Yes Confirmed
+      - Other
+      required: true
+    - id: 34
+      name: witness_name
+      label: Witness Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: witness_signature
+      label: Witness Confirmation
+      hint: Witness to consent
+      type: select_one
+      options:
+      - Yes I Witness
+      - false
+      required: false

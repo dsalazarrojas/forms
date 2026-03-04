@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anesthesia Consent Form
+    pages:
+    - id: 1
+      name: section_consent_header
+      label: -- Anesthesia Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_or_owner_name
+      label: Full Name of Patient (or Owner if Veterinary)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_name_animal_if_applicable
+      label: Patient Name (If Animal)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: patient_type
+      label: Patient Type
+      hint: null
+      type: select_one
+      options:
+      - Human
+      - Veterinary
+      required: true
+    - id: 5
+      name: section_procedure_consent
+      label: -- Procedure Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: scheduled_procedure
+      label: Scheduled Surgical or Diagnostic Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: risk_acknowledgement
+      label: I understand that the administration of anesthesia involves certain risks and possible complications.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: acknowledged_risks
+      label: Acknowledged Potential Risks
+      hint: Select all that apply to confirm understanding
+      type: select_multiple
+      options:
+      - Allergic Reaction
+      - Respiratory Distress
+      - Cardiac Arrhythmia
+      - Vomiting / Aspiration
+      - Death
+      required: true
+    - id: 9
+      name: emergency_treatment_authorization
+      label: Authorization for Emergency Treatment
+      hint: If complications arise during the procedure
+      type: select_one
+      options:
+      - I Authorize All Necessary Measures
+      - I Have Specific Limitations
+      required: true
+    - id: 10
+      name: emergency_limitations_if_any
+      label: Specific Emergency Limitations (If any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_legal_confirmation
+      label: -- Legal Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: questions_answered
+      label: Have all your questions regarding anesthesia been answered?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - I Have More Questions
+      required: true
+    - id: 13
+      name: signature_of_consent
+      label: Consent Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - I Agree and Sign
+      - I Disagree
+      required: true
+    - id: 14
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: witness_name_if_required
+      label: Witness Name (If Required)
+      hint: null
+      type: text
+      options: []
+      required: false

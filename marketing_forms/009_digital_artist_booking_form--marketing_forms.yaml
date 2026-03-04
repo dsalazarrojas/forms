@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Artist Booking Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - YouTube
+      - Twitch
+      required: false
+    - id: 4
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Post
+      - Story
+      - Live Stream
+      - Podcast
+      required: false
+    - id: 5
+      name: media_duration
+      label: Media Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_budget
+      label: Media Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Message
+      - Email and Phone
+      required: false
+    - id: 8
+      name: artist_agreement
+      label: Artist Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: booking_details
+      label: Booking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false

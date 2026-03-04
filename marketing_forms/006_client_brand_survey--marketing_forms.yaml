@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Brand Survey
+    pages:
+      - id: 1
+        name: respondent_first_name
+        label: First Name
+        hint: Optional - for follow-up contact
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_last_name
+        label: Last Name
+        hint: Optional - for follow-up contact
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For survey results and follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: company_name
+        label: Company Name
+        hint: Your organization
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: industry
+        label: Industry
+        hint: Your industry sector
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Retail
+          - Manufacturing
+          - Education
+          - Hospitality
+          - Professional Services
+          - Other
+        required: true
+      - id: 6
+        name: brand_awareness_rating
+        label: How Would You Rate Your Awareness of Our Brand?
+        hint: Before this survey
+        type: select_one
+        options:
+          - Very Aware
+          - Somewhat Aware
+          - Neutral
+          - Somewhat Unaware
+          - Very Unaware
+        required: true
+      - id: 7
+        name: brand_perception
+        label: Which Words Best Describe Our Brand?
+        hint: Select up to 5
+        type: select_multiple
+        options:
+          - Innovative
+          - Trustworthy
+          - Professional
+          - Friendly
+          - Expensive
+          - Affordable
+          - High Quality
+          - Reliable
+          - Modern
+          - Traditional
+          - Outdated
+          - Confusing
+        required: true
+      - id: 8
+        name: brand_comparison
+        label: How Do We Compare to Competitors?
+        hint: Your honest opinion
+        type: select_one
+        options:
+          - Much Better
+          - Somewhat Better
+          - About the Same
+          - Somewhat Worse
+          - Much Worse
+          - Not Sure
+        required: true
+      - id: 9
+        name: brand_quality_rating
+        label: Rate the Quality of Our Brand
+        hint: Overall quality perception
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: brand_value_rating
+        label: Rate the Value for Money
+        hint: Price versus quality
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 11
+        name: brand_trust_level
+        label: How Much Do You Trust Our Brand?
+        hint: Trust and reliability
+        type: select_one
+        options:
+          - Completely Trust
+          - Mostly Trust
+          - Somewhat Trust
+          - Slightly Trust
+          - Do Not Trust
+        required: true
+      - id: 12
+        name: likelihood_to_recommend
+        label: How Likely Are You to Recommend Our Brand?
+        hint: Net Promoter Score
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 13
+        name: brand_communication_effectiveness
+        label: How Effective Is Our Brand Communication?
+        hint: Marketing and messaging
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 14
+        name: brand_channels
+        label: Where Have You Seen Our Brand?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Social Media
+          - Website
+          - Email Marketing
+          - Print Advertising
+          - TV or Radio
+          - Events or Trade Shows
+          - Word of Mouth
+          - Never Seen Our Brand
+        required: true
+      - id: 15
+        name: brand_improvement_areas
+        label: What Areas Need Improvement?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Product Quality
+          - Customer Service
+          - Pricing
+          - Website Experience
+          - Communication
+          - Brand Image
+          - Delivery Speed
+          - Innovation
+        required: true
+      - id: 16
+        name: brand_strengths
+        label: What Are Our Brand Strengths?
+        hint: What do we do well?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: brand_weaknesses
+        label: What Are Our Brand Weaknesses?
+        hint: Where can we improve?
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Comments About Our Brand
+        hint: Any other thoughts
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: survey_completion_date
+        label: Survey Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true

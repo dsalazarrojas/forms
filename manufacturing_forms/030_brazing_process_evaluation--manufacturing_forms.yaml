@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brazing Process Evaluation
+    pages:
+    - id: 1
+      name: operator_name
+      label: Operator Name
+      hint: Full name of operator
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: operator_id
+      label: Operator ID
+      hint: Employee or contractor ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_time
+      label: Evaluation Time
+      hint: Time of evaluation
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: work_station
+      label: Work Station
+      hint: Station or location number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: part_number
+      label: Part Number
+      hint: Part or product being brazed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: batch_number
+      label: Batch Number
+      hint: Batch or lot number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: brazing_method
+      label: Brazing Method
+      hint: Type of brazing process used
+      type: select_one
+      options:
+      - Torch Brazing
+      - Furnace Brazing
+      - Induction Brazing
+      - Dip Brazing
+      - Resistance Brazing
+      - Laser Brazing
+      required: true
+    - id: 9
+      name: filler_material
+      label: Filler Material
+      hint: Type of filler material used
+      type: select_one
+      options:
+      - Silver Alloy
+      - Copper Alloy
+      - Aluminum Alloy
+      - Nickel Alloy
+      - Gold Alloy
+      - Other
+      required: true
+    - id: 10
+      name: base_material
+      label: Base Material
+      hint: Material being brazed
+      type: select_one
+      options:
+      - Steel
+      - Stainless Steel
+      - Copper
+      - Aluminum
+      - Brass
+      - Titanium
+      - Other
+      required: true
+    - id: 11
+      name: flux_type
+      label: Flux Type
+      hint: Type of flux used
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: preheat_temperature
+      label: Preheat Temperature
+      hint: Temperature in degrees
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: brazing_temperature
+      label: Brazing Temperature
+      hint: Actual brazing temperature
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: heating_time
+      label: Heating Time
+      hint: Time in minutes
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: joint_design
+      label: Joint Design
+      hint: Type of joint configuration
+      type: select_one
+      options:
+      - Lap Joint
+      - Butt Joint
+      - T-Joint
+      - Corner Joint
+      - Edge Joint
+      required: true
+    - id: 16
+      name: visual_inspection_result
+      label: Visual Inspection Result
+      hint: Result of visual inspection
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Rework Required
+      required: true
+    - id: 17
+      name: joint_fill_quality
+      label: Joint Fill Quality
+      hint: Rate the joint fill
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      required: true
+    - id: 18
+      name: surface_finish
+      label: Surface Finish
+      hint: Quality of surface finish
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      required: true
+    - id: 19
+      name: defects_found
+      label: Defects Found
+      hint: Describe any defects
+      type: select_multiple
+      options:
+      - None
+      - Voids
+      - Cracks
+      - Incomplete Fill
+      - Excess Flux
+      - Oxidation
+      - Misalignment
+      required: true
+    - id: 20
+      name: non_destructive_testing
+      label: Non-Destructive Testing
+      hint: Was NDT performed
+      type: select_one
+      options:
+      - Not Required
+      - X-Ray
+      - Ultrasonic
+      - Dye Penetrant
+      - Magnetic Particle
+      required: true
+    - id: 21
+      name: ndt_results
+      label: NDT Results
+      hint: Results of testing if performed
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Performed
+      required: true
+    - id: 22
+      name: overall_quality_status
+      label: Overall Quality Status
+      hint: Final quality determination
+      type: select_one
+      options:
+      - Approved
+      - Approved with Notes
+      - Rework Required
+      - Rejected
+      required: true
+    - id: 23
+      name: process_parameters_met
+      label: Process Parameters Met
+      hint: Were all parameters within specification
+      type: select_one
+      options:
+      - Yes, All Within Spec
+      - Minor Deviations
+      - Major Deviations
+      required: true
+    - id: 24
+      name: corrective_actions
+      label: Corrective Actions Needed
+      hint: Describe any corrective actions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of quality inspector
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type your name as signature
+      type: text
+      options: []
+      required: true

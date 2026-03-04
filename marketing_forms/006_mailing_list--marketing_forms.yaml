@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mailing List
+    pages:
+    - id: 1
+      name: join_email
+      label: join_our_mailing_list
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: mailing_list
+      label: mailing_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: integration
+      label: integration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_marketing_software
+      label: email_marketing_software
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: mailchimp_constant_contact
+      label: mailchimp_constant_contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: other_integration
+      label: other_integration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_email_marketing_software
+      label: other_email_marketing_software
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

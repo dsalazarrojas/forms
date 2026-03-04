@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Request Form
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Marketing
+          - Sales
+          - Product
+          - Customer Success
+          - Executive
+          - Other
+        required: true
+      - id: 4
+        name: request_date
+        label: Request Date
+        hint: When is this needed?
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: content_type
+        label: Content Type Needed
+        hint: Select the format
+        type: select_one
+        options:
+          - Blog Post
+          - Whitepaper
+          - Case Study
+          - Social Media Post
+          - Email Newsletter
+          - Video Script
+          - Infographic
+          - Landing Page Copy
+        required: true
+      - id: 6
+        name: content_topic
+        label: Content Topic
+        hint: Main subject or theme
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: target_audience
+        label: Target Audience
+        hint: Who is this content for?
+        type: select_one
+        options:
+          - Existing Customers
+          - Prospects
+          - Industry Professionals
+          - General Public
+          - Internal Team
+          - Partners
+        required: true
+      - id: 8
+        name: word_count
+        label: Estimated Word Count
+        hint: Approximate length
+        type: select_one
+        options:
+          - Under 500 words
+          - 500-1000 words
+          - 1000-2000 words
+          - 2000-3000 words
+          - 3000+ words
+        required: false
+      - id: 9
+        name: key_messages
+        label: Key Messages
+        hint: Main points to include
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: seo_keywords
+        label: SEO Keywords
+        hint: Keywords to incorporate
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: call_to_action
+        label: Call to Action
+        hint: What action should readers take?
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: reference_materials
+        label: Reference Materials
+        hint: Links or documents for reference
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: tone_style
+        label: Tone and Style
+        hint: Desired voice
+        type: select_one
+        options:
+          - Professional
+          - Conversational
+          - Technical
+          - Persuasive
+          - Educational
+          - Entertaining
+        required: true
+      - id: 14
+        name: deadline
+        label: Deadline
+        hint: Final due date
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: budget_code
+        label: Budget Code
+        hint: Internal budget reference
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other requirements
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branding Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_website
+      label: Company Website
+      hint: Current website if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry
+      hint: What industry are you in
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Food and Beverage
+      - Professional Services
+      - Creative
+      - Education
+      - Real Estate
+      - Other
+      required: true
+    - id: 7
+      name: project_type
+      label: Project Type
+      hint: What branding services do you need
+      type: select_one
+      options:
+      - New Brand Creation
+      - Brand Refresh
+      - Complete Rebrand
+      - Brand Guidelines
+      - Logo Design
+      - Visual Identity
+      - Full Brand Package
+      required: true
+    - id: 8
+      name: current_branding
+      label: Current Branding Status
+      hint: Do you have existing branding
+      type: select_one
+      options:
+      - No Existing Brand
+      - Have Logo Only
+      - Partial Branding
+      - Full Brand System
+      required: true
+    - id: 9
+      name: business_description
+      label: Business Description
+      hint: Describe your business
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mission_statement
+      label: Mission Statement
+      hint: What is your mission
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: Who are your ideal customers
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: competitors
+      label: Main Competitors
+      hint: Who are your competitors
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: brand_values
+      label: Core Values
+      hint: What values drive your business
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: brand_personality
+      label: Brand Personality
+      hint: How should your brand feel
+      type: select_multiple
+      options:
+      - Modern
+      - Classic
+      - Bold
+      - Minimalist
+      - Playful
+      - Professional
+      - Luxurious
+      - Friendly
+      - Innovative
+      - Trustworthy
+      required: true
+    - id: 15
+      name: color_preferences
+      label: Color Preferences
+      hint: Colors you like or want to avoid
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: design_inspiration
+      label: Design Inspiration
+      hint: Brands or designs you admire
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: deliverables_needed
+      label: Deliverables Needed
+      hint: What do you need delivered
+      type: select_multiple
+      options:
+      - Logo Design
+      - Color Palette
+      - Typography System
+      - Brand Guidelines
+      - Business Cards
+      - Letterhead
+      - Social Media Templates
+      - Website Design
+      - Marketing Materials
+      required: true
+    - id: 18
+      name: project_timeline
+      label: Project Timeline
+      hint: When do you need this completed
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 to $15,000
+      - $15,000 to $30,000
+      - $30,000 to $50,000
+      - $50,000+
+      required: true
+    - id: 20
+      name: decision_process
+      label: Decision Process
+      hint: Who will make final decisions
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

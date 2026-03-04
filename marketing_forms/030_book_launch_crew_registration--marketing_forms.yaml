@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Launch Crew Registration
+    pages:
+    - id: 1
+      name: crew_member_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For urgent communications
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_media_handle
+      label: Primary Social Media Handle
+      hint: Your main social media username
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: platform_preference
+      label: Primary Platform
+      hint: Which platform do you use most
+      type: select_one
+      options:
+      - Instagram
+      - Twitter X
+      - Facebook
+      - TikTok
+      - YouTube
+      - Blog
+      - Goodreads
+      - Multiple Platforms
+      required: true
+    - id: 6
+      name: follower_count
+      label: Approximate Follower Count
+      hint: Your total followers across platforms
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-50000
+      - 50000-100000
+      - Over 100000
+      required: false
+    - id: 7
+      name: content_type
+      label: Type of Content You Create
+      hint: Select your content types
+      type: select_multiple
+      options:
+      - Book Reviews
+      - Book Recommendations
+      - Author Interviews
+      - Reading Vlogs
+      - Book Unboxings
+      - Reading Challenges
+      - Book Memes
+      - Writing Tips
+      required: true
+    - id: 8
+      name: book_title
+      label: Book Title for Launch
+      hint: Title of the book you are supporting
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: book_author
+      label: Book Author
+      hint: Author of the book
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: launch_date
+      label: Book Launch Date
+      hint: Date of book launch
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: participation_type
+      label: How Would You Like to Help
+      hint: Select your participation type
+      type: select_multiple
+      options:
+      - Social Media Posts
+      - Book Review
+      - Blog Feature
+      - Newsletter Mention
+      - Share Launch Events
+      - Word of Mouth
+      - Host Event
+      - Podcast Interview
+      required: true
+    - id: 12
+      name: review_platforms
+      label: Where Will You Post Reviews
+      hint: Select platforms for reviews
+      type: select_multiple
+      options:
+      - Amazon
+      - Goodreads
+      - Barnes and Noble
+      - Personal Blog
+      - Instagram
+      - TikTok
+      - YouTube
+      - Other
+      required: false
+    - id: 13
+      name: content_schedule
+      label: When Can You Post
+      hint: Select your availability
+      type: select_multiple
+      options:
+      - Pre-Launch Teasers
+      - Launch Day
+      - Week After Launch
+      - Month After Launch
+      - Ongoing Support
+      required: true
+    - id: 14
+      name: arc_needed
+      label: Do You Need an Advance Review Copy
+      hint: Select if you need an ARC
+      type: select_one
+      options:
+      - Yes Physical Copy
+      - Yes eBook Copy
+      - No I Have a Copy
+      - Maybe
+      required: true
+    - id: 15
+      name: arc_format_preference
+      label: ARC Format Preference
+      hint: Which format do you prefer
+      type: select_one
+      options:
+      - Physical Paperback
+      - Physical Hardcover
+      - eBook PDF
+      - eBook ePub
+      - Audiobook
+      - No Preference
+      required: false
+    - id: 16
+      name: shipping_address
+      label: Shipping Address for ARC
+      hint: Full address if physical copy needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: genre_preferences
+      label: Your Preferred Genres
+      hint: What genres do you typically cover
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Thriller
+      - Non-Fiction
+      - Young Adult
+      - Children
+      required: false
+    - id: 18
+      name: previous_collaboration
+      label: Have You Worked With This Author Before
+      hint: Your previous experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: collaboration_notes
+      label: Previous Collaboration Notes
+      hint: Describe previous work if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: promotional_materials
+      label: Promotional Materials Needed
+      hint: What materials do you need
+      type: select_multiple
+      options:
+      - Book Cover Image
+      - Author Photo
+      - Press Release
+      - Book Excerpt
+      - Social Media Graphics
+      - Bookmarks
+      - None
+      required: false
+    - id: 21
+      name: special_skills
+      label: Special Skills or Resources
+      hint: Any special abilities you offer
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: availability_notes
+      label: Availability Notes
+      hint: Any scheduling constraints
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: how_did_you_hear
+      label: How Did You Hear About This Opportunity
+      hint: How did you find out
+      type: select_one
+      options:
+      - Author Direct
+      - Publisher
+      - Social Media
+      - Book Blogger Network
+      - Friend Referral
+      - Other
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I Agree to Launch Crew Guidelines
+      hint: By selecting yes you agree to participate
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

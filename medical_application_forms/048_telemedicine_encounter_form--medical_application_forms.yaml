@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telemedicine Encounter Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: encounter_type
+      label: Encounter Type
+      hint: null
+      type: select_one
+      options:
+      - Telemedicine
+      - Office
+      - Emergency Room
+      required: false
+    - id: 3
+      name: date_of_encounter
+      label: Date Of Encounter
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_encounter
+      label: Time Of Encounter
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_planned
+      label: Treatment Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_city
+      label: Patient City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_state
+      label: Patient State
+      hint: null
+      type: text
+      options: []
+      required: false

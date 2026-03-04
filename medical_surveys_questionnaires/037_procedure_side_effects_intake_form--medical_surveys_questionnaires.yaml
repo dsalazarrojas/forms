@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: procedure_side_effects_intake_form
+    pages:
+    - id: 1
+      name: procedure_side_effects_form
+      label: How was your procedure performed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_condition
+      label: What was the medical condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: symptoms
+      label: What symptoms did you experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: duration_of_symptoms
+      label: How long did symptoms last
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: severity_of_symptoms
+      label: How severe were your symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: time_of_symptoms
+      label: Time of symptoms
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Do you have any comments or concerns
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: What medical conditions have you had in the past
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medication_taken
+      label: Medications taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: other_medical_info
+      label: Other medical info
+      hint: null
+      type: note
+      options: []
+      required: false

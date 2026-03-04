@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Spending Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: What is your age group?
+      hint: Select one
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 3
+      name: annual_household_income
+      label: Annual Household Income
+      hint: Approximate income range
+      type: select_one
+      options:
+      - Under $25,000
+      - $25,000-$49,999
+      - $50,000-$74,999
+      - $75,000-$99,999
+      - $100,000-$149,999
+      - $150,000+
+      required: true
+    - id: 4
+      name: employment_status
+      label: Employment Status
+      hint: Current employment status
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Student
+      - Retired
+      - Unemployed
+      required: true
+    - id: 5
+      name: section_spending_habits
+      label: -- General Spending Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: monthly_discretionary_spending
+      label: Average Monthly Discretionary Spending
+      hint: Spending on non-essentials (entertainment, dining out, etc.)
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $251-$500
+      - $501-$1,000
+      - More than $1,000
+      required: true
+    - id: 7
+      name: categories_with_most_spending
+      label: Categories Where You Spend the Most
+      hint: Select up to three
+      type: select_multiple
+      options:
+      - Groceries
+      - Housing/Rent
+      - Transportation
+      - Healthcare
+      - Dining/Takeout
+      - Apparel/Fashion
+      - Technology/Electronics
+      - Entertainment/Leisure
+      required: true
+    - id: 8
+      name: spending_change_last_year
+      label: Spending Change Over the Last Year
+      hint: Has your spending increased or decreased?
+      type: select_one
+      options:
+      - Significantly Increased
+      - Slightly Increased
+      - Stayed the Same
+      - Slightly Decreased
+      - Significantly Decreased
+      required: true
+    - id: 9
+      name: reason_for_spending_change
+      label: Reason for Spending Change
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_specific_product
+      label: -- Specific Product Category --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: frequency_of_online_shopping
+      label: Frequency of Online Shopping
+      hint: How often do you shop online?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 12
+      name: preferred_shopping_platform
+      label: Preferred Online Shopping Platform
+      hint: Which site do you use most?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: impact_of_social_media_ads
+      label: Impact of Social Media Advertising
+      hint: Do social media ads influence your purchases?
+      type: select_one
+      options:
+      - Strongly Influence
+      - Moderate Influence
+      - Little Influence
+      - No Influence
+      required: true
+    - id: 14
+      name: budget_for_next_major_purchase
+      label: Budget for Next Major Purchase
+      hint: Estimated amount (e.g., car, appliance, travel)
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: factors_influencing_major_purchase
+      label: Factors Influencing Major Purchases
+      hint: What is most important to you?
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Brand Reputation
+      - Peer Reviews
+      - Sustainability/Ethics
+      - Warranty/Service
+      required: true
+    - id: 16
+      name: survey_completion_date
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true

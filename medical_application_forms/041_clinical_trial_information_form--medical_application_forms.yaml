@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Trial Information Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trial_id
+      label: Clinical Trial ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_participation
+      label: -- Participation History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: join_date
+      label: Date Joined Clinical Trial
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: visit_number
+      label: Current Study Visit Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_medical_updates
+      label: -- Medical Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: new_health_conditions
+      label: Have you experienced any new health conditions since joining?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: current_medications_dosage
+      label: Current Medications - Please include name and dosage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_engagement
+      label: -- Lifestyle and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: communication_satisfaction
+      label: How satisfied are you with the study communication?
+      hint: 1 - Not Satisfied to 5 - Very Satisfied
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 11
+      name: visit_location_convenience
+      label: Are the study visit locations convenient for you?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: engagement_suggestions
+      label: Do you have any suggestions for improving participant engagement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_future_contact
+      label: -- Future Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: update_method_pref
+      label: Preferred method for receiving study updates
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      required: false
+    - id: 15
+      name: participant_signature
+      label: Participant Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

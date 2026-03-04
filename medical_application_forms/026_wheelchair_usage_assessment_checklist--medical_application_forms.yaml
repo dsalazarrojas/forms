@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wheelchair usage assessment checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: wheelchair_usage
+      label: wheelchair usage
+      hint: null
+      type: select_multiple
+      options:
+      - Independent
+      - Limited
+      - Dependent
+      required: false
+    - id: 3
+      name: mobility
+      label: mobility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: independence
+      label: independence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: selfcare
+      label: selfcare
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 6
+      name: selfcare_frequency
+      label: selfcare_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: caregiver_support
+      label: caregiver_support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 8
+      name: caregiver_support_frequency
+      label: caregiver_support_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mobility_aids
+      label: mobility_aids
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair
+      - Walker
+      - Canes
+      - Other
+      required: false
+    - id: 10
+      name: mobility_aids_frequencies
+      label: mobility_aids_frequencies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: self_care_aids
+      label: self_care_aids
+      hint: null
+      type: select_multiple
+      options:
+      - Bathing
+      - Dressing
+      - Toileting
+      - Other
+      required: false
+    - id: 12
+      name: self_care_aids_frequency
+      label: self_care_aids_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: caregiver_help
+      label: caregiver_help
+      hint: null
+      type: select_multiple
+      options:
+      - Feeding
+      - Bathing
+      - Dressing
+      - Toileting
+      - Transferring
+      - Other
+      required: false
+    - id: 14
+      name: caregiver_help_frequency
+      label: caregiver_help_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: mobility_transfer
+      label: mobility_transfer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: mobility_transfer_aids
+      label: mobility_transfer_aids
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair
+      - Walker
+      - Stairlift
+      - Other
+      required: false
+    - id: 17
+      name: mobility_transfer_aids_frequency
+      label: mobility_transfer_aids_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: medical
+      label: medical
+      hint: null
+      type: select_multiple
+      options:
+      - Heart Disease
+      - Stroke
+      - Diabetes
+      - Cancer
+      - Other
+      required: false
+    - id: 19
+      name: medical_aids
+      label: medical_aids
+      hint: null
+      type: select_multiple
+      options:
+      - Walker
+      - Wheelchair
+      - Other
+      required: false
+    - id: 20
+      name: medical_aids_frequency
+      label: medical_aids_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: medical_procedures
+      label: medical_procedures
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: medical_procedures_aids
+      label: medical_procedures_aids
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Wheelchair
+      - Canes
+      - Other
+      required: false
+    - id: 23
+      name: medical_procedures_aids_frequency
+      label: medical_procedures_aids_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: medication
+      label: medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 25
+      name: medication_frequency
+      label: medication_frequency
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Feedback Form
+    pages:
+    - id: 1
+      name: production_feedback_form_first_page
+      label: Production Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_feedback_form_section
+      label: Section
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team feedback''}'
+      - '{''id'': 2, ''label'': ''Teamwork''}'
+      - '{''id'': 3, ''label'': ''Production feedback''}'
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: production_feedback_form_suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: production_feedback_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: production_feedback_form_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: true
+    - id: 7
+      name: production_feedback_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: production_feedback_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: production_feedback_form_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: production_feedback_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: production_feedback_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: production_feedback_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: production_feedback_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: production_feedback_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: production_feedback_form_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      required: true
+    - id: 16
+      name: production_feedback_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: production_feedback_form_agree_disagree
+      label: Agree / Disagree
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 18
+      name: production_feedback_form_agree_disagree_1
+      label: Agree / Disagree 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 19
+      name: production_feedback_form_agree_disagree_2
+      label: Agree / Disagree 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 20
+      name: production_feedback_form_agree_disagree_3
+      label: Agree / Disagree 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 21
+      name: production_feedback_form_agree_disagree_4
+      label: Agree / Disagree 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 22
+      name: production_feedback_form_agree_disagree_5
+      label: Agree / Disagree 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 23
+      name: production_feedback_form_agree_disagree_6
+      label: Agree / Disagree 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 24
+      name: production_feedback_form_agree_disagree_7
+      label: Agree / Disagree 7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false
+    - id: 25
+      name: production_feedback_form_agree_disagree_8
+      label: Agree / Disagree 8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Agree''}'
+      - '{''id'': 2, ''label'': ''Disagree''}'
+      - '{''id'': 3, ''label'': ''No opinion''}'
+      required: false

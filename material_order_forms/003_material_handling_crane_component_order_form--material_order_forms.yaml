@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Handling Crane Component Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crane_model_select
+      label: select_crane_model
+      hint: null
+      type: select_one
+      options:
+      - Crane Model 1
+      - Crane Model 2
+      - Crane Model 3
+      required: true
+    - id: 3
+      name: quantity_ordered
+      label: quantity_ordered
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: crane_parts_list
+      label: crane_parts_list
+      hint: null
+      type: select_multiple
+      options:
+      - Part 1
+      - Part 2
+      - Part 3
+      required: true
+    - id: 7
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: crane_parts_ordered
+      label: crane_parts_ordered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: crane_model_id
+      label: crane_model_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: crane_part_number
+      label: crane_part_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: crane_part_description
+      label: crane_part_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_country
+      label: customer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_postal_code
+      label: customer_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_fax
+      label: customer_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: false

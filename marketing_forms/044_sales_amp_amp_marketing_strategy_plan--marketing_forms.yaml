@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_and_marketing_strategy_plan
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sales_objectives
+      label: sales_objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: marketing_objectives
+      label: marketing_objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_audience
+      label: target_audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_channels
+      label: sales_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sales_tactics
+      label: sales_tactics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: market_tactics
+      label: market_tactics
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: budget_allocation
+      label: budget_allocation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sales_performance_metrics
+      label: sales_performance_metrics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: marketing_performance_metrics
+      label: marketing_performance_metrics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: timeline
+      label: timeline
+      hint: null
+      type: date
+      options: []
+      required: true

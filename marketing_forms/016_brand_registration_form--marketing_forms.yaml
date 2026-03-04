@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Registration Form
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand Name
+      hint: The official name of your brand
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: brand_tagline
+      label: Brand Tagline
+      hint: Optional slogan or tagline
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_legal_name
+      label: Legal Company Name
+      hint: Registered legal name of the company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_registration_number
+      label: Business Registration Number
+      hint: Tax ID or registration number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Nonprofit
+      - Other
+      required: true
+    - id: 6
+      name: industry_category
+      label: Industry Category
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Food and Beverage
+      - Fashion
+      - Entertainment
+      - Education
+      - Other
+      required: true
+    - id: 7
+      name: founder_name
+      label: Founder Name
+      hint: Name of the founder or owner
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: founder_email
+      label: Founder Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: founder_phone
+      label: Founder Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_website
+      label: Business Website
+      hint: Current website URL
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_media_handles
+      label: Social Media Handles
+      hint: List your social media accounts
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: brand_launch_date
+      label: Brand Launch Date
+      hint: When did or will the brand launch
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: trademark_status
+      label: Trademark Status
+      hint: Is the brand trademarked
+      type: select_one
+      options:
+      - Trademark Registered
+      - Trademark Pending
+      - Not Trademarked
+      - Planning to Trademark
+      required: true
+    - id: 15
+      name: brand_logo_attached
+      label: Brand Logo
+      hint: Do you have a logo ready
+      type: select_one
+      options:
+      - Yes, Logo Ready
+      - Working on Logo
+      - Need Logo Design
+      required: true
+    - id: 16
+      name: target_market_description
+      label: Target Market
+      hint: Describe your target customers
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: brand_story
+      label: Brand Story
+      hint: Brief description of your brand story
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: registration_purpose
+      label: Purpose of Registration
+      hint: Why are you registering this brand
+      type: select_one
+      options:
+      - New Brand Launch
+      - Brand Acquisition
+      - Rebrand
+      - Legal Requirement
+      - Directory Listing
+      required: true

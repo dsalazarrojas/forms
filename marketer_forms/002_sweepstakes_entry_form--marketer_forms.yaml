@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: sweepstakes_entry_form
+    pages:
+    - id: 1
+      name: entry_information
+      label: First and Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: sweepstakes_name
+      label: Name of Sweepstakes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sweepstakes_id
+      label: Sweepstakes ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: entry_date
+      label: Date Entered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: entry_time
+      label: Time Entered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: entry_method
+      label: Method of Entry
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: entry_status
+      label: Status of Entry
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: entry_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

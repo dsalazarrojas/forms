@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Feasibility Research Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Market Feasibility Research Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing Surveys
+      - Scientific Research
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_url
+      label: Form URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 6
+      name: research_brief
+      label: Research Brief
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_brief_date
+      label: Research Brief Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: research_brief_time
+      label: Research Brief Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: research_brief_location
+      label: Research Brief Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Other
+      required: false
+    - id: 10
+      name: research_brief_status
+      label: Research Brief Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      required: true
+    - id: 11
+      name: research_brief_priority
+      label: Research Brief Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 12
+      name: research_brief_comments
+      label: Research Brief Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: form_submission_location
+      label: Form Submission Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Other
+      required: false
+    - id: 16
+      name: form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - In Progress
+      required: true
+    - id: 17
+      name: form_submission_comments
+      label: Form Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: research_requester
+      label: Research Requester
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Other
+      required: true
+    - id: 19
+      name: research_requester_department
+      label: Research Requester Dept
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Other
+      required: false
+    - id: 20
+      name: research_requester_email
+      label: Research Requester Email
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: research_requester_phone
+      label: Research Requester Phone
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: research_requester_extension
+      label: Research Requester Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: research_requester_comments
+      label: Research Requester Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: research_requester_name
+      label: Research Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true

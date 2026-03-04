@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Booster Shot Form
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient Name
+        hint: Your full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: medical_record_number
+        label: Medical Record Number
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: appointment_date
+        label: Booster Shot Appointment Date
+        hint: Date you are scheduled for
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: primary_vaccine
+        label: Primary COVID-19 Vaccine Received
+        hint: What vaccine did you initially receive?
+        type: select_one
+        options:
+          - Pfizer
+          - Moderna
+          - Johnson and Johnson
+          - AstraZeneca
+          - Other
+          - Not sure
+        required: true
+      - id: 6
+        name: primary_vaccine_date
+        label: Date of Primary Vaccine Series
+        hint: When did you complete initial series?
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: booster_previously_received
+        label: Have you received a COVID-19 booster shot before?
+        hint: null
+        type: select_one
+        options:
+          - "No, this is my first booster"
+          - "Yes, one previous booster"
+          - "Yes, multiple previous boosters"
+        required: true
+      - id: 8
+        name: previous_booster_date
+        label: Date of Previous Booster Shot
+        hint: If applicable
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: booster_type_requested
+        label: Booster Shot Type Requested
+        hint: What type would you prefer?
+        type: select_one
+        options:
+          - Same vaccine as primary series
+          - Different vaccine
+          - No preference
+          - Not sure
+        required: false
+      - id: 10
+        name: side_effects_primary
+        label: Side Effects from Primary Vaccine
+        hint: What did you experience after primary shots?
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: allergies
+        label: Vaccine Ingredient Allergies
+        hint: Any known allergies to vaccine components?
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: current_health_conditions
+        label: Current Health Conditions
+        hint: Any chronic or acute conditions to report?
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: current_medications
+        label: Current Medications
+        hint: List all medications you are taking
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: recent_illness
+        label: Recent Illness in Past 2 Weeks
+        hint: Any fever, cough, or other symptoms?
+        type: select_one
+        options:
+          - "No recent illness"
+          - "Cold or flu symptoms"
+          - "COVID-19 suspected"
+          - "COVID-19 confirmed"
+          - "Other illness"
+        required: true
+      - id: 15
+        name: recent_covid_infection
+        label: Have you had COVID-19 since primary vaccination?
+        hint: null
+        type: select_one
+        options:
+          - "No"
+          - "Yes, confirmed diagnosis"
+          - "Yes, suspected but not tested"
+        required: true
+      - id: 16
+        name: covid_diagnosis_date
+        label: Date of COVID-19 Diagnosis
+        hint: If you had COVID-19
+        type: date
+        options: []
+        required: false
+      - id: 17
+        name: ready_for_booster
+        label: Are you feeling well enough for booster shot today?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, I am ready"
+          - "No, not feeling well"
+          - "Need to reschedule"
+        required: true
+      - id: 18
+        name: questions_concerns
+        label: Questions or Concerns About Booster Shot
+        hint: Any questions for the healthcare provider?
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: informed_consent
+        label: I have read and understand the booster shot information
+        hint: Check to confirm you understand
+        type: select_one
+        options:
+          - "Yes, I understand"
+          - "No, I have questions"
+        required: true
+      - id: 20
+        name: consent_agreement
+        label: I consent to receive the COVID-19 booster shot
+        hint: By selecting yes, you authorize the booster vaccination
+        type: select_one
+        options:
+          - "I consent"
+          - "I do not consent"
+          - "I need more time to decide"
+        required: true
+      - id: 21
+        name: form_completion_date
+        label: Form Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true

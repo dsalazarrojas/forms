@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consciousness And Sleep Assessment
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: section_sleep_patterns
+      label: -- Sleep Habits and Patterns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: avg_hours_sleep
+      label: Average hours of sleep per night
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: time_to_fall_asleep
+      label: How long does it typically take you to fall asleep?
+      hint: In minutes
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: sleep_quality_rating
+      label: Overall sleep quality in the last month
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Fairly Good
+      - Fairly Bad
+      - Very Bad
+      required: true
+    - id: 9
+      name: sleep_disruptions
+      label: Do you experience any of the following?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Difficulty falling asleep
+      - Waking up in the middle of the night
+      - Snoring
+      - Restless legs
+      - Vivid nightmares
+      required: false
+    - id: 10
+      name: section_daytime_alertness
+      label: -- Daytime Alertness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: epworth_sleepiness_scale
+      label: How likely are you to doze off during the day?
+      hint: 0 is never, 3 is high chance
+      type: select_one
+      options:
+      - 0 - Would never doze
+      - 1 - Slight chance of dozing
+      - 2 - Moderate chance of dozing
+      - 3 - High chance of dozing
+      required: true
+    - id: 12
+      name: morning_alertness_rating
+      label: How alert do you feel within 30 minutes of waking?
+      hint: null
+      type: select_one
+      options:
+      - Fully alert and refreshed
+      - Somewhat alert
+      - Still groggy
+      - Extremely tired
+      required: true
+    - id: 13
+      name: section_medical_context
+      label: -- Medical Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_medications
+      label: List any current medications affecting sleep or consciousness
+      hint: Enter None if not applicable
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: caffeine_intake
+      label: Daily caffeine consumption
+      hint: e.g., cups of coffee or tea
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_conclusion
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: data_usage_consent
+      label: I consent to this data being used for clinical evaluation
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 18
+      name: submission_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true

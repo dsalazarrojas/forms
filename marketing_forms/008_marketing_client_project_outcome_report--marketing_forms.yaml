@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Client Project Outcome Report
+    pages:
+    - id: 1
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: marketing_outcome
+      label: marketing_outcome
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: performance_insights
+      label: performance_insights
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_feedback
+      label: client_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Closed
+      - Paused
+      required: true
+    - id: 6
+      name: outcome_date
+      label: outcome_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: outcome_description
+      label: outcome_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_manager_email
+      label: project_manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: project_manager_phone
+      label: project_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_address
+      label: project_manager_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_manager_company
+      label: project_manager_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_manager_title
+      label: project_manager_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: marketing_outcome_date
+      label: marketing_outcome_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: marketing_outcome_time
+      label: marketing_outcome_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: outcome_rating
+      label: outcome_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: outcome_comment
+      label: outcome_comment
+      hint: null
+      type: text
+      options: []
+      required: true

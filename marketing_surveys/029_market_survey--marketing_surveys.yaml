@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Survey
+    pages:
+    - id: 1
+      name: market_survey_form
+      label: Market Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: market_survey_question
+      label: Market Survey Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: market_survey_question_answer
+      label: Market Survey Question Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: market_survey_question_answer_note
+      label: Market Survey Question Answer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: market_survey_survey_type
+      label: Market Survey Type
+      hint: null
+      type: select_one
+      options:
+      - written
+      - oral
+      - online
+      required: true
+    - id: 6
+      name: market_survey_target_market
+      label: Market Survey Target Market
+      hint: null
+      type: select_multiple
+      options:
+      - local
+      - national
+      - international
+      required: true
+    - id: 7
+      name: market_survey_participation
+      label: Market Survey Participation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: market_survey_participation_note
+      label: Market Survey Participation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: market_survey_deadline
+      label: Market Survey Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: market_survey_deadline_note
+      label: Market Survey Deadline Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: market_survey_phone_number
+      label: Market Survey Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: market_survey_email
+      label: Market Survey Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: market_survey_website
+      label: Market Survey Website
+      hint: null
+      type: text
+      options: []
+      required: false

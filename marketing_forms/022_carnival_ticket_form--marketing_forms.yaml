@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carnival Ticket Form
+    pages:
+    - id: 1
+      name: section_ticket_order
+      label: -- Ticket Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: your digital ticket will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date Selection
+      hint: choose which day you will attend
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Preferred Time Slot
+      hint: help us manage capacity
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ticket_quantity
+      label: Ticket Quantity
+      hint: total number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ticket_type
+      label: Ticket Type
+      hint: select the best option for your group
+      type: select_one
+      options:
+      - General Admission
+      - VIP Pass
+      - Kids Pass (under 12)
+      - Family Bundle (4 tickets)
+      required: true
+    - id: 10
+      name: section_options
+      label: -- Additional Options --
+      hint: save by pre-purchasing vouchers
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ride_vouchers
+      label: Pre-purchase Ride Vouchers
+      hint: redeem at the ride kiosks
+      type: select_one
+      options:
+      - None
+      - 5 Pack
+      - 10 Pack
+      - Unlimited Day Pass
+      required: true
+    - id: 12
+      name: food_vouchers
+      label: Pre-purchase Food Vouchers
+      hint: valid at all participating food stalls
+      type: select_one
+      options:
+      - None
+      - 20 dollar Voucher
+      - 50 dollar Voucher
+      required: true
+    - id: 13
+      name: section_ticket_info
+      label: -- Ticket Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ticket_number
+      label: Ticket Number (Unique ID)
+      hint: automatically generated upon submission
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: billing_address
+      label: Billing Address
+      hint: full street address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Venmo
+      - Cash at Gate
+      required: true
+    - id: 18
+      name: promo_code
+      label: Promotional Code
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: please read carefully
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: refund_policy_ack
+      label: I acknowledge that tickets are non-refundable
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: safety_waiver
+      label: I agree to follow all event safety guidelines
+      hint: including ride rules and park conduct
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: subscribe_updates
+      label: Subscribe to future event notifications
+      hint: stay informed about next year's carnival
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: additional_requests
+      label: Special requests or accommodations
+      hint: accessibility needs, allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: order_confirmation
+      label: I confirm my ticket order details
+      hint: Type your full name to finalize
+      type: text
+      options: []
+      required: true

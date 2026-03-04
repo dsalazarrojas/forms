@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Strategy Renewal Initiative Application
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name of person submitting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_role
+      label: Your Role or Title
+      hint: Your position in the company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_date
+      label: Application Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: initiative_title
+      label: Initiative Title
+      hint: Name of the renewal initiative
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: initiative_description
+      label: Initiative Description
+      hint: Detailed description of the proposal
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: strategic_alignment
+      label: Strategic Alignment
+      hint: How does this align with strategy
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_situation
+      label: Current Situation
+      hint: What is the current state
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: timeline
+      label: Proposed Timeline
+      hint: Start date, milestones, completion date
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: budget_required
+      label: Budget Required
+      hint: Total investment needed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: resource_requirements
+      label: Resource Requirements
+      hint: People, tools, or assets needed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: stakeholders_involved
+      label: Stakeholders Involved
+      hint: Who needs to be involved
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expected_benefits
+      label: Expected Benefits
+      hint: Business benefits and outcomes
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: risks_identified
+      label: Risks Identified
+      hint: Potential challenges or risks
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mitigation_strategies
+      label: Risk Mitigation Strategies
+      hint: How will you address risks
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_recommendation
+      label: Internal Recommendation
+      hint: Do you recommend approval
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      - Strongly Oppose
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

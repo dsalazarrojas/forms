@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmaceutical_raw_material_requisition_form
+    pages:
+    - id: 1
+      name: material_request
+      label: Material Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: material_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 2.1, ''name'': ''Type 1''}'
+      - '{''id'': 2.2, ''name'': ''Type 2''}'
+      - '{''id'': 2.3, ''name'': ''Type 3''}'
+      required: false
+    - id: 3
+      name: batch_number
+      label: batch_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: route_to
+      label: route_to
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''Option 1''}'
+      - '{''id'': 5.2, ''name'': ''Option 2''}'
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

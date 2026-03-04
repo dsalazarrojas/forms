@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Installation Progress Tracker
+    pages:
+    - id: 1
+      name: stage
+      label: stage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stage_id
+      label: stage id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: update_date
+      label: update date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: stage_name
+      label: stage name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: stage_description
+      label: stage description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stage_status
+      label: stage status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      required: false
+    - id: 9
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: updated at
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: created at
+      hint: null
+      type: text
+      options: []
+      required: false

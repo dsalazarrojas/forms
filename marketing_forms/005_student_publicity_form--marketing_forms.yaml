@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Publicity Form
+    pages:
+    - id: 1
+      name: student_publicity_form_student
+      label: student_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_publicity_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_publicity_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_publicity_form_authorization
+      label: authorization
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Staff
+      - Both
+      required: false
+    - id: 5
+      name: student_publicity_form_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

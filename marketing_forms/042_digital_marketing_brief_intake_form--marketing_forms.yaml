@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Brief Intake Form
+    pages:
+    - id: 1
+      name: marketing_brief_form
+      label: Marketing Brief Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_budget
+      label: Marketing Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: target audience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''consumers''}'
+      - '{''id'': 2, ''name'': ''business users''}'
+      - '{''id'': 3, ''name'': ''both''}'
+      required: true
+    - id: 5
+      name: marketing_channel
+      label: Marketing Channel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''social media''}'
+      - '{''id'': 2, ''name'': ''email marketing''}'
+      - '{''id'': 3, ''name'': ''content marketing''}'
+      - '{''id'': 4, ''name'': ''paid advertising''}'
+      - '{''id'': 5, ''name'': ''other''}'
+      required: false
+    - id: 6
+      name: target_location
+      label: Target Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''local''}'
+      - '{''id'': 2, ''name'': ''national''}'
+      - '{''id'': 3, ''name'': ''global''}'
+      required: false
+    - id: 7
+      name: marketing_goals
+      label: Marketing Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''brand awareness''}'
+      - '{''id'': 2, ''name'': ''generate leads''}'
+      - '{''id'': 3, ''name'': ''increase sales''}'
+      - '{''id'': 4, ''name'': ''other''}'
+      required: false
+    - id: 8
+      name: marketing_preferences
+      label: Marketing Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: marketing_ownership
+      label: Marketing Ownership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: marketing_ownership_details
+      label: Marketing Ownership Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: marketing_team
+      label: Marketing Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''marketing manager''}'
+      - '{''id'': 2, ''name'': ''creative team''}'
+      - '{''id'': 3, ''name'': ''content creator''}'
+      required: false
+    - id: 12
+      name: target_frequency
+      label: Target Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''daily''}'
+      - '{''id'': 2, ''name'': ''weekly''}'
+      - '{''id'': 3, ''name'': ''monthly''}'
+      - '{''id'': 4, ''name'': ''quarterly''}'
+      - '{''id'': 5, ''name'': ''yearly''}'
+      required: false
+    - id: 13
+      name: marketing_frequency_details
+      label: Marketing Frequency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: marketing_budget_details
+      label: Marketing Budget Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: content_requirements
+      label: Content Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''blog posts''}'
+      - '{''id'': 2, ''name'': ''social media posts''}'
+      - '{''id'': 3, ''name'': ''email newsletter''}'
+      - '{''id'': 4, ''name'': ''video content''}'
+      - '{''id'': 5, ''name'': ''infographics''}'
+      - '{''id'': 6, ''name'': ''images''}'
+      - '{''id'': 7, ''name'': ''other''}'
+      required: false
+    - id: 16
+      name: content_preferences
+      label: Content Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: content_owner
+      label: Content Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: content_frequency
+      label: Content Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''daily''}'
+      - '{''id'': 2, ''name'': ''weekly''}'
+      - '{''id'': 3, ''name'': ''monthly''}'
+      - '{''id'': 4, ''name'': ''quarterly''}'
+      - '{''id'': 5, ''name'': ''yearly''}'
+      required: false
+    - id: 19
+      name: content_frequency_details
+      label: Content Frequency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: content_budget
+      label: Content Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: content_budget_details
+      label: Content Budget Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ad_requirements
+      label: Ad Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''text ads''}'
+      - '{''id'': 2, ''name'': ''image ads''}'
+      - '{''id'': 3, ''name'': ''video ads''}'
+      - '{''id'': 4, ''name'': ''other''}'
+      required: false
+    - id: 23
+      name: ad_preferences
+      label: Ad Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: ad_ownership
+      label: Ad Ownership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: ad_ownership_details
+      label: Ad Ownership Details
+      hint: null
+      type: text
+      options: []
+      required: false

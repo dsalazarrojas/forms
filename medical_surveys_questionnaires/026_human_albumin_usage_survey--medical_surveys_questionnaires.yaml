@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Human Albumin Usage Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Human Albumin Usage Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Medical Surveys & Questionnaires''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: albumin_use
+      label: Albumin Use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Across Departments''}'
+      - '{''label'': ''Clinics''}'
+      - '{''label'': ''Labs''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: frequency_of_use
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 7
+      name: staff_feedback
+      label: Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PDF''}'
+      - '{''label'': ''CSV''}'
+      - '{''label'': ''Excel''}'
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

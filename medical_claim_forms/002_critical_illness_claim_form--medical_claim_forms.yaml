@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Illness Claim Form
+    pages:
+    - id: 1
+      name: critical_illness_claim_form_title
+      label: Enter Claim Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_admission
+      label: Date of Admission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_of_discharge
+      label: Date of Discharge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: diagnosis
+      label: Diagnosis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: critical_illness_details
+      label: Critical Illness Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: healthcare_provider_license
+      label: Healthcare Provider License
+      hint: null
+      type: select_one
+      options:
+      - MD
+      - DO
+      - RN
+      - NP
+      - NP-PNP
+      - RN-PNP
+      - CRNA
+      - CNM
+      - CNS
+      - CNP
+      - LPN
+      - CNS-M
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true

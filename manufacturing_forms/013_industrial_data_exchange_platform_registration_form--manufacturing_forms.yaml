@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Industrial Data Exchange Platform Registration Form
+    pages:
+    - id: 1
+      name: onboarding_details
+      label: Onboarding Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Construction
+      - Finance
+      - Technology
+      - Health
+      - Others
+      required: false
+    - id: 8
+      name: company_description
+      label: Company Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_or_service
+      label: Product or Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_representative
+      label: Company Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_role
+      label: Contact Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: role_in_platform
+      label: Role in Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - Others
+      required: false
+    - id: 14
+      name: employee_count
+      label: Employee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: company_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: social_media_links
+      label: Social media links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: platform_access_agreement
+      label: Platform Access Agreement
+      hint: Platform access agreement must be signed and submitted as a document attachment.
+      type: select_multiple
+      options:
+      - Platform access agreement must be signed
+      - Platform access agreement must be uploaded as a document
+      required: false
+    - id: 19
+      name: document_upload
+      label: Document Upload
+      hint: Please upload relevant documents as attachments
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_form
+      label: Submit
+      hint: Submit the form
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 21
+      name: terms_conditions
+      label: Terms Conditions
+      hint: By submitting this form, I confirm that I have read and understand all
+        the terms and conditions of the industrial data exchange platform.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Potential Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_base
+      label: customer-base
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: market_share
+      label: market-share
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: target_market
+      label: target-market
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: market_trends
+      label: market-trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_needs
+      label: customer-needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_pain
+      label: customer-pain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_challenges
+      label: customer-challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: competitor_analysis
+      label: competitor-analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: target_customer_segments
+      label: target-customer-segments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: survey_questions
+      label: survey-questions
+      hint: null
+      type: text
+      options: []
+      required: false

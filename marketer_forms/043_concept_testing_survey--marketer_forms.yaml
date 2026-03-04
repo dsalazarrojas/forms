@@ -1,0 +1,264 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concept Testing Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique survey identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: age_range
+        label: Age Range
+        hint: Select your age range
+        type: select_one
+        options:
+          - 18 to 24
+          - 25 to 34
+          - 35 to 44
+          - 45 to 54
+          - 55 to 64
+          - 65 or Older
+          - Prefer Not to Say
+        required: true
+      - id: 6
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 7
+        name: income_range
+        label: Income Range
+        hint: Select your household income
+        type: select_one
+        options:
+          - Less than $25,000
+          - $25,000 to $49,999
+          - $50,000 to $74,999
+          - $75,000 to $99,999
+          - $100,000 to $149,999
+          - $150,000 or More
+          - Prefer Not to Say
+        required: false
+      - id: 8
+        name: product_category
+        label: Product Category
+        hint: Which product category is this
+        type: select_one
+        options:
+          - Electronics
+          - Home and Garden
+          - Fashion and Apparel
+          - Food and Beverage
+          - Health and Beauty
+          - Sports and Outdoors
+          - Automotive
+          - Software
+          - Other
+        required: true
+      - id: 9
+        name: concept_name
+        label: Concept Name
+        hint: Name of concept being tested
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: concept_description
+        label: Concept Description
+        hint: Brief description shown to respondent
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: initial_reaction
+        label: Initial Reaction
+        hint: Rate your initial reaction
+        type: select_one
+        options:
+          - 5 - Very Positive
+          - 4 - Positive
+          - 3 - Neutral
+          - 2 - Negative
+          - 1 - Very Negative
+        required: true
+      - id: 12
+        name: appeal_rating
+        label: Appeal Rating
+        hint: How appealing is this concept
+        type: select_one
+        options:
+          - 5 - Very Appealing
+          - 4 - Appealing
+          - 3 - Somewhat Appealing
+          - 2 - Not Very Appealing
+          - 1 - Not Appealing
+        required: true
+      - id: 13
+        name: uniqueness_rating
+        label: Uniqueness Rating
+        hint: How unique is this concept
+        type: select_one
+        options:
+          - 5 - Very Unique
+          - 4 - Unique
+          - 3 - Somewhat Unique
+          - 2 - Not Very Unique
+          - 1 - Not Unique
+        required: true
+      - id: 14
+        name: relevance_rating
+        label: Relevance Rating
+        hint: How relevant is this to your needs
+        type: select_one
+        options:
+          - 5 - Very Relevant
+          - 4 - Relevant
+          - 3 - Somewhat Relevant
+          - 2 - Not Very Relevant
+          - 1 - Not Relevant
+        required: true
+      - id: 15
+        name: believability_rating
+        label: Believability Rating
+        hint: How believable is this concept
+        type: select_one
+        options:
+          - 5 - Very Believable
+          - 4 - Believable
+          - 3 - Somewhat Believable
+          - 2 - Not Very Believable
+          - 1 - Not Believable
+        required: true
+      - id: 16
+        name: purchase_intent
+        label: Purchase Intent
+        hint: How likely would you purchase
+        type: select_one
+        options:
+          - 5 - Definitely Would Purchase
+          - 4 - Probably Would Purchase
+          - 3 - Might or Might Not
+          - 2 - Probably Would Not Purchase
+          - 1 - Definitely Would Not Purchase
+        required: true
+      - id: 17
+        name: price_expectation
+        label: Price Expectation
+        hint: What would you expect to pay
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: value_for_money
+        label: Value for Money
+        hint: Rate the perceived value
+        type: select_one
+        options:
+          - 5 - Excellent Value
+          - 4 - Good Value
+          - 3 - Fair Value
+          - 2 - Poor Value
+          - 1 - Very Poor Value
+        required: true
+      - id: 19
+        name: liked_aspects
+        label: Liked Aspects
+        hint: What did you like most
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: disliked_aspects
+        label: Disliked Aspects
+        hint: What did you like least
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: How could this be improved
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: feature_requests
+        label: Feature Requests
+        hint: What features would you add
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: comparison_to_competitors
+        label: Comparison to Competitors
+        hint: How does this compare to existing products
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: recommendation_likelihood
+        label: Recommendation Likelihood
+        hint: How likely would you recommend
+        type: select_one
+        options:
+          - 10 - Extremely Likely
+          - 9 - Very Likely
+          - 8 - Likely
+          - 7 - Somewhat Likely
+          - 6 or Below - Not Likely
+        required: true
+      - id: 25
+        name: overall_rating
+        label: Overall Rating
+        hint: Overall concept rating
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true

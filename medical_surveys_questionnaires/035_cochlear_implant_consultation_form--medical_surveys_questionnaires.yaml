@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cochlear Implant Consultation Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_language
+      label: Primary Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_hearing_history
+      label: -- Hearing Loss History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: age_of_onset
+      label: Age of Hearing Loss Onset
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: hearing_loss_type
+      label: Type of Hearing Loss
+      hint: null
+      type: select_one
+      options:
+      - Congenital
+      - Progressive
+      - Sudden
+      - Acquired
+      - Unknown
+      required: true
+    - id: 10
+      name: bilateral_hearing_loss
+      label: Is hearing loss bilateral?
+      hint: null
+      type: select_one
+      options:
+      - Yes, both ears
+      - No, one ear only
+      - Not sure
+      required: true
+    - id: 11
+      name: hearing_aid_use
+      label: Have you used hearing aids?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Tried in past
+      - Currently using
+      required: true
+    - id: 12
+      name: hearing_aid_benefit
+      label: Benefit from Hearing Aids
+      hint: How helpful were they?
+      type: select_one
+      options:
+      - Very helpful
+      - Somewhat helpful
+      - Not helpful
+      - Not applicable
+      required: false
+    - id: 13
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: Any ongoing health issues
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: surgical_history
+      label: Previous Ear Surgery
+      hint: Any prior ear procedures
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Known Allergies
+      hint: Medication or material allergies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_motivation
+      label: -- Motivation and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: interest_reason
+      label: Why are you interested in a cochlear implant?
+      hint: Describe your motivations
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: expected_outcomes
+      label: What are your expectations for improvement?
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: lifestyle_impact
+      label: How does hearing loss impact your daily life?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: support_system
+      label: Family Support for Decision
+      hint: Do you have family support?
+      type: select_one
+      options:
+      - Strong support
+      - Some support
+      - Neutral
+      - Some opposition
+      - Strong opposition
+      required: true
+    - id: 23
+      name: section_lifestyle
+      label: -- Lifestyle and Functional Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: work_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Unemployed
+      - Retired
+      - Student
+      - Other
+      required: true
+    - id: 25
+      name: communication_needs
+      label: Communication Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Conversation
+      - Phone use
+      - Music enjoyment
+      - Professional needs
+      - Social interaction
+      - Safety awareness
+      required: true
+    - id: 26
+      name: section_consultation_date
+      label: -- Consultation Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: preferred_consultation_date
+      label: Preferred Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

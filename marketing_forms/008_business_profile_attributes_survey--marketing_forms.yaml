@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Profile Attributes Survey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of your client or business contact
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of the client's company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: What type of business are they in
+      type: select_one
+      options:
+      - Retail
+      - Services
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Other
+      required: true
+    - id: 4
+      name: industry_sector
+      label: Industry Sector
+      hint: Which industry sector
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo/Freelancer
+      - 2-10 employees
+      - 11-50 employees
+      - 51-100 employees
+      - 101-500 employees
+      - 500+ employees
+      required: true
+    - id: 6
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under 100k
+      - 100k-500k
+      - 500k-1M
+      - 1M-5M
+      - 5M-10M
+      - 10M+
+      required: false
+    - id: 7
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the business operated
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: primary_target_market
+      label: Primary Target Market
+      hint: Who are their main customers
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: geographic_presence
+      label: Geographic Presence
+      hint: Operating regions or territories
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: key_products_services
+      label: Key Products or Services
+      hint: Main offerings provided
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: unique_selling_proposition
+      label: Unique Selling Proposition
+      hint: What makes them stand out
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: primary_channels
+      label: Primary Sales Channels
+      hint: How do they sell their products/services
+      type: select_multiple
+      options:
+      - Direct Sales
+      - Retail Stores
+      - Online E-commerce
+      - Wholesale
+      - Partnerships
+      - Other
+      required: true
+    - id: 13
+      name: digital_presence
+      label: Digital Presence
+      hint: Do they have online presence
+      type: select_one
+      options:
+      - Strong
+      - Moderate
+      - Minimal
+      - None
+      required: false
+    - id: 14
+      name: social_media_active
+      label: Social Media Active Platforms
+      hint: Which platforms do they use
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Twitter
+      - TikTok
+      - YouTube
+      - Other
+      required: false
+    - id: 15
+      name: marketing_budget
+      label: Marketing Budget
+      hint: Approximate annual marketing spend
+      type: select_one
+      options:
+      - Under 10k
+      - 10k-50k
+      - 50k-100k
+      - 100k-500k
+      - 500k+
+      required: false
+    - id: 16
+      name: main_challenges
+      label: Main Business Challenges
+      hint: What are their primary challenges
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: growth_plans
+      label: Growth Plans
+      hint: What are their growth objectives
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we contact them
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Video Call
+      - No Contact
+      required: false
+    - id: 19
+      name: survey_date
+      label: Survey Completion Date
+      hint: Date this profile was created
+      type: date
+      options: []
+      required: true

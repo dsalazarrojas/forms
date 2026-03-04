@@ -1,0 +1,315 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Health Questionnaire
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gender
+      label: Gender
+      hint: For medical records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 7
+      name: height
+      label: Height
+      hint: In feet and inches or cm
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: weight
+      label: Weight
+      hint: In pounds or kg
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: chief_complaint
+      label: Chief Complaint
+      hint: Main reason for visit
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_symptoms
+      label: Current Symptoms
+      hint: What are you experiencing?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: symptom_onset
+      label: When Did Symptoms Start?
+      hint: Symptom beginning
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: symptom_frequency
+      label: How Often Do Symptoms Occur?
+      hint: Frequency
+      type: select_one
+      options:
+      - Constant
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 13
+      name: symptom_triggers
+      label: What Triggers Your Symptoms?
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: symptom_relief
+      label: What Relieves Your Symptoms?
+      hint: If anything helps
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pain_level
+      label: Current Pain Level
+      hint: Scale of 1-10
+      type: select_one
+      options:
+      - No Pain (0)
+      - Mild (1-3)
+      - Moderate (4-6)
+      - Severe (7-8)
+      - Very Severe (9-10)
+      required: true
+    - id: 16
+      name: pain_location
+      label: Where Is the Pain Located?
+      hint: Body area
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Diagnosed conditions
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: chronic_conditions
+      label: Chronic Conditions
+      hint: Long-term conditions
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - Asthma
+      - Arthritis
+      - Depression
+      - Anxiety
+      - Thyroid Disorder
+      - None
+      - Other
+      required: true
+    - id: 19
+      name: current_medications
+      label: Current Medications
+      hint: Include dosages
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medication_adherence
+      label: Do You Take Medications as Prescribed?
+      hint: Compliance
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 21
+      name: drug_allergies
+      label: Drug Allergies
+      hint: Medication allergies
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: food_allergies
+      label: Food Allergies
+      hint: Food allergies
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_surgeries
+      label: Previous Surgeries
+      hint: List with dates if possible
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: hospitalizations
+      label: Previous Hospitalizations
+      hint: List with dates and reasons
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: family_history
+      label: Family Medical History
+      hint: Parents, siblings, children
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: immunization_status
+      label: Immunization Status
+      hint: Up to date?
+      type: select_one
+      options:
+      - Up to Date
+      - Not Up to Date
+      - Not Sure
+      required: true
+    - id: 27
+      name: smoking_status
+      label: Smoking Status
+      hint: Tobacco use
+      type: select_one
+      options:
+      - Never
+      - Former
+      - Current
+      required: true
+    - id: 28
+      name: alcohol_use
+      label: Alcohol Use
+      hint: Frequency
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Moderately
+      - Regularly
+      - Heavily
+      required: true
+    - id: 29
+      name: recreational_drug_use
+      label: Recreational Drug Use
+      hint: Current or past
+      type: select_one
+      options:
+      - Never
+      - Past Use
+      - Current Use
+      - Prefer Not to Answer
+      required: true
+    - id: 30
+      name: exercise_habits
+      label: Exercise Habits
+      hint: Frequency and type
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: diet_description
+      label: Typical Diet
+      hint: Describe your eating habits
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: sleep_patterns
+      label: Sleep Patterns
+      hint: Hours and quality
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: mental_health_concerns
+      label: Mental Health Concerns
+      hint: Depression, anxiety, etc.
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: women_health
+      label: For Women - Are You Pregnant or Breastfeeding?
+      hint: If applicable
+      type: select_one
+      options:
+      - Not Applicable
+      - false
+      - Yes, Pregnant
+      - Yes, Breastfeeding
+      required: false
+    - id: 35
+      name: additional_health_info
+      label: Additional Health Information
+      hint: Anything else relevant
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 37
+      name: questionnaire_date
+      label: Questionnaire Date
+      hint: null
+      type: date
+      options: []
+      required: true

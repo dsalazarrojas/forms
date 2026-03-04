@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Promotion Feedback Survey
+    pages:
+    - id: 1
+      name: post_promotion_survey
+      label: Post Promotion Feedback
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: promotion_type
+      label: Promotion Type
+      hint: null
+      type: select_one
+      options:
+      - Promotion
+      - Discount
+      - Gift
+      required: true
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Neutral
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: review
+      label: Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submitted
+      label: Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Support
+      required: false
+    - id: 12
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: post_promotion_id
+      label: Post Promotion ID
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: false
+    - id: 15
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_multiple
+      options:
+      - Customer
+      - Employee
+      - Partner
+      required: false
+    - id: 16
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

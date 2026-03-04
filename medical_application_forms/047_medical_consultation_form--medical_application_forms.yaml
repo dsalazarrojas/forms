@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Consultation Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: family_history
+      label: Family History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: social_history
+      label: Social History
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_consultation
+      label: Medical Consultation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medication_adherence
+      label: Medication Adherence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: follow_up_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: next_visit_date
+      label: Next Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: doctor_contact
+      label: Doctor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: medical_group_location
+      label: Medical Group Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: medical_group_phone
+      label: Medical Group Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: medical_group_email
+      label: Medical Group Email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutrition Coaching Intake Form
+    pages:
+    - id: 1
+      name: nutrition_coaching_form_page_1
+      label: Nutrition Coaching Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Obesity
+      - Other
+      required: false
+    - id: 4
+      name: medical_condition_other
+      label: Medical Condition (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - Endocrinology
+      - Gastroenterology
+      - Nephrology
+      - Pulmonology
+      - Other
+      required: false
+    - id: 6
+      name: medical_specialty_other
+      label: Medical Specialty (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Atenolol
+      - Lisinopril
+      - Other
+      required: false
+    - id: 8
+      name: medications_other
+      label: Medications (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: height
+      label: Height (cm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weight
+      label: Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: height_unit
+      label: Height Unit
+      hint: null
+      type: select_one
+      options:
+      - cm
+      - meters
+      - feet
+      - inches
+      - yards
+      required: false
+    - id: 12
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - kg
+      - lbs
+      - oz
+      - pounds
+      required: false
+    - id: 13
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_of_interview
+      label: Date of Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: medical_history_other
+      label: Medical History (Other)
+      hint: null
+      type: text
+      options: []
+      required: false

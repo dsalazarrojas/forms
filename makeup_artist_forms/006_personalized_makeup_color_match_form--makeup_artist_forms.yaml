@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Makeup Color Match Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fair''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Tan''}'
+      required: false
+    - id: 3
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Blonde''}'
+      - '{''id'': 2, ''label'': ''Brown''}'
+      - '{''id'': 3, ''label'': ''Red''}'
+      required: false
+    - id: 4
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Blue''}'
+      - '{''id'': 2, ''label'': ''Green''}'
+      - '{''id'': 3, ''label'': ''Brown''}'
+      required: false
+    - id: 5
+      name: style
+      label: Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: match_results
+      label: Match Results
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: favorite_color
+      label: Favorite Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommended_products
+      label: Recommended Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: skin_tone_2
+      label: Skin Tone 2
+      hint: null
+      type: text
+      options: []
+      required: false

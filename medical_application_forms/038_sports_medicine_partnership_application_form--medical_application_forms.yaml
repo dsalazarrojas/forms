@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Medicine Partnership Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''phone'', ''label'': ''Phone''}'
+      - '{''name'': ''email'', ''label'': ''Email''}'
+      required: false
+    - id: 3
+      name: partner_info
+      label: Partner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''sports_medicine'', ''label'': ''Sports Medicine''}'
+      - '{''name'': ''physiotherapy'', ''label'': ''Physiotherapy''}'
+      - '{''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hours_of_operation
+      label: Hours of Operation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_experience
+      label: Partner Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_info
+      label: Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_licensing_info
+      label: Medical Licensing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_certifications
+      label: Medical Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: insurance_info
+      label: Insurance Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: social_media
+      label: Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: partner_agreement
+      label: Partner Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_license
+      label: Medical License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: partner_fee
+      label: Partner Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
+      - '{''name'': ''check'', ''label'': ''Check''}'
+      - '{''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_form
+      label: Submission Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: submission_format
+      label: Submission Format
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''pdf'', ''label'': ''PDF''}'
+      - '{''name'': ''docx'', ''label'': ''Docx''}'
+      - '{''name'': ''excel'', ''label'': ''Excel''}'
+      required: false

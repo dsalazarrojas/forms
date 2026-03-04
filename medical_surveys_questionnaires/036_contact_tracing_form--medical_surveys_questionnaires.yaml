@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Tracing Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Contact Tracing Form
+      hint: Help us track and prevent spread
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: For health records
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: phone_primary
+      label: Primary Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_secondary
+      label: Secondary Phone Number
+      hint: Alternate number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: test_date
+      label: Test Date
+      hint: When tested
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: test_result
+      label: Test Result
+      hint: Result status
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      - Presumptive Positive
+      required: true
+    - id: 15
+      name: symptom_onset
+      label: Symptom Onset Date
+      hint: When symptoms started
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: symptoms
+      label: Current Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of Breath
+      - Fatigue
+      - Loss of Taste or Smell
+      - Sore Throat
+      - Headache
+      - Body Aches
+      - None
+      required: true
+    - id: 17
+      name: close_contacts
+      label: Number of Close Contacts
+      hint: In past 14 days
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: contact_names
+      label: Close Contact Names
+      hint: List names if possible
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: locations_visited
+      label: Locations Visited Recently
+      hint: Places you have been
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: underlying_conditions
+      label: Underlying Health Conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Heart Disease
+      - Diabetes
+      - Lung Disease
+      - Weakened Immune System
+      - Obesity
+      - None
+      - Prefer not to say
+      required: true
+    - id: 21
+      name: healthcare_provider
+      label: Primary Healthcare Provider
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: consent_contact
+      label: Consent to Be Contacted
+      hint: May health officials contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: consent_share
+      label: Consent to Share Information
+      hint: Share with health authorities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

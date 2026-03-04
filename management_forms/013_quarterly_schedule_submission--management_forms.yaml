@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: quarterly_schedule_submission
+    pages:
+    - id: 1
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: quarter_plans
+      label: Quarter Plans
+      hint: Select 4 quarters
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weekly_schedules
+      label: Weekly Schedules
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: risk_notes
+      label: Risk Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department_planning
+      label: Department Planning
+      hint: null
+      type: text
+      options: []
+      required: false

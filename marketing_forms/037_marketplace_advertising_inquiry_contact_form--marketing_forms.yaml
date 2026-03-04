@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Advertising Inquiry Contact Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campaign_goals
+      label: Campaign Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: advertiser_details
+      label: Advertiser Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: true
+    - id: 8
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false

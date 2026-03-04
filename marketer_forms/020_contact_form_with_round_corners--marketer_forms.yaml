@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form With Round Corners
+    pages:
+    - id: 1
+      name: header_note
+      label: -- Contact Marketing --
+      hint: Use this form for marketing inquiries and partnerships
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Best email for marketing contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company name
+      hint: Organization name if relevant
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_interest
+      label: Campaign interest
+      hint: Describe the type of campaign or partnership
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: budget_estimate
+      label: Budget estimate
+      hint: Approximate budget for marketing activities
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timeline
+      label: Project timeline
+      hint: Desired start date or timeframe
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How do you prefer to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      required: false
+    - id: 9
+      name: additional_information
+      label: Additional information
+      hint: Any other details to help our marketing team
+      type: text
+      options: []
+      required: false

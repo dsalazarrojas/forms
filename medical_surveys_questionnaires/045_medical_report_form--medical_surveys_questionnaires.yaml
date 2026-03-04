@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Report Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_details
+      label: treatment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medications
+      label: medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: doctor_notes
+      label: doctor_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_status
+      label: patient_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: follow_up_visit
+      label: follow_up_visit
+      hint: null
+      type: date
+      options: []
+      required: false

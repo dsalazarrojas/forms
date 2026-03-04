@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Marketing Appointment Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: Please provide your contact details for the consultation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultation_details_header
+      label: -- Consultation Details --
+      hint: Help us prepare for our meeting
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: marketing_goals
+      label: Primary Marketing Goals
+      hint: What do you hope to achieve in the next 6 months
+      type: select_multiple
+      options:
+      - Increase Website Traffic
+      - Lead Generation
+      - Brand Awareness
+      - Improve SEO Rankings
+      - Social Media Growth
+      - Content Strategy Development
+      required: true
+    - id: 8
+      name: current_marketing_budget
+      label: Monthly Marketing Budget Range (USD)
+      hint: This helps us tailor our recommendations
+      type: select_one
+      options:
+      - Under 1,000
+      - 1,000 - 5,000
+      - 5,000 - 15,000
+      - 15,000 - 50,000
+      - 50,000 plus
+      required: true
+    - id: 9
+      name: appointment_preferences_header
+      label: -- Scheduling --
+      hint: Choose your preferred time for a 30-minute discovery call
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_consultation_date
+      label: Preferred Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_consultation_time
+      label: Preferred Time Slot (EST)
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: meeting_format
+      label: Preferred Meeting Format
+      hint: null
+      type: select_one
+      options:
+      - Video Call (Zoom/Google Meet)
+      - Phone Call
+      - In-Person (Local only)
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Specific Challenges or Questions
+      hint: Describe any specific issues you are currently facing
+      type: text
+      options: []
+      required: false

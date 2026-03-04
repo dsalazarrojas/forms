@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cancellation Survey
+    pages:
+      - id: 1
+        name: customer_name
+        label: Customer Full Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: customer_email
+        label: Customer Email Address
+        hint: Email for follow-up
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: account_number
+        label: Account Number
+        hint: Your account or customer ID
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: service_type
+        label: Service Type Cancelled
+        hint: Which service are you cancelling
+        type: select_one
+        options:
+          - Subscription plan
+          - Premium features
+          - Trial membership
+          - One-time purchase
+          - Monthly service
+          - Annual plan
+          - Other
+        required: true
+      - id: 5
+        name: subscription_duration
+        label: How Long Were You a Customer
+        hint: Length of your subscription
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1 to 3 months
+          - 3 to 6 months
+          - 6 to 12 months
+          - 1 to 2 years
+          - Over 2 years
+        required: true
+      - id: 6
+        name: cancellation_reason_primary
+        label: Primary Reason for Cancellation
+        hint: Main reason you are cancelling
+        type: select_one
+        options:
+          - Too expensive
+          - Found better alternative
+          - Not using the service enough
+          - Poor customer service
+          - Technical issues
+          - Missing features
+          - Business closed or changed
+          - Other
+        required: true
+      - id: 7
+        name: cancellation_reason_details
+        label: Tell Us More About Your Decision
+        hint: Please elaborate on your reason
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: price_satisfaction
+        label: How Satisfied Were You with the Price
+        hint: Rate price satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 9
+        name: feature_satisfaction
+        label: How Satisfied Were You with the Features
+        hint: Rate feature satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 10
+        name: customer_service_satisfaction
+        label: How Satisfied Were You with Customer Service
+        hint: Rate service satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat dissatisfied
+          - Very dissatisfied
+          - Did not contact support
+        required: true
+      - id: 11
+        name: missing_features
+        label: What Features Were Missing
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Better mobile app
+          - More integrations
+          - Advanced analytics
+          - Better reporting
+          - More storage
+          - Faster performance
+          - Better support
+          - Lower pricing tiers
+          - None - had what I needed
+        required: false
+      - id: 12
+        name: competitor_used
+        label: Are You Switching to a Competitor
+        hint: Did you find an alternative
+        type: select_one
+        options:
+          - Yes - already switched
+          - Yes - planning to switch
+          - No - just cancelling service
+          - Undecided
+        required: true
+      - id: 13
+        name: competitor_name
+        label: Which Competitor
+        hint: Name of competitor if applicable
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: likelihood_to_return
+        label: How Likely Are You to Return
+        hint: Would you come back in future
+        type: select_one
+        options:
+          - Very likely
+          - Somewhat likely
+          - Neutral
+          - Somewhat unlikely
+          - Very unlikely
+        required: true
+      - id: 15
+        name: recommend_to_others
+        label: Would You Recommend Us to Others
+        hint: Net promoter score
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 16
+        name: what_did_you_like
+        label: What Did You Like Most
+        hint: Best aspects of our service
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: what_could_improve
+        label: What Could We Improve
+        hint: Suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: retention_offer_interest
+        label: Would a Discount Change Your Mind
+        hint: Interested in retention offer
+        type: select_one
+        options:
+          - Yes - interested in discount
+          - Maybe - depends on offer
+          - No - decision is final
+        required: true
+      - id: 19
+        name: contact_for_followup
+        label: May We Contact You for Follow-up
+        hint: Can we reach out for more feedback
+        type: select_one
+        options:
+          - Yes - happy to discuss
+          - Yes - email only
+          - No - please do not contact
+        required: true
+      - id: 20
+        name: additional_feedback
+        label: Any Additional Comments
+        hint: Other thoughts to share
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: survey_date
+        label: Survey Completion Date
+        hint: Today date
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,305 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Equipment Manufacturer Contact Form
+    pages:
+    - id: 1
+      name: inquiry_header
+      label: -- Building Equipment Inquiry --
+      hint: Contact us about building equipment and systems
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title_position
+      label: Your title or position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Company or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: industry_type
+      label: Industry or market sector
+      hint: null
+      type: select_one
+      options:
+      - Commercial real estate
+      - Residential property management
+      - Educational institutions
+      - Healthcare facilities
+      - Government/public
+      - Industrial
+      - Hospitality
+      - Retail
+      - Other
+      required: true
+    - id: 8
+      name: equipment_inquiry
+      label: -- Equipment and Systems Inquiry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: equipment_type
+      label: Type of equipment or system
+      hint: null
+      type: select_multiple
+      options:
+      - HVAC systems
+      - Electrical systems
+      - Plumbing fixtures
+      - Fire safety systems
+      - Access control
+      - Lighting systems
+      - Water management
+      - Building automation
+      - Energy systems
+      - Security systems
+      - Other
+      required: true
+    - id: 10
+      name: specific_products
+      label: Specific products or models interested in
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: inquiry_type
+      label: Type of inquiry
+      hint: null
+      type: select_one
+      options:
+      - Product information
+      - Pricing and availability
+      - Technical specifications
+      - Bulk order inquiry
+      - Distribution partnership
+      - Installation support
+      - Training and certification
+      - Warranty information
+      - Other
+      required: true
+    - id: 12
+      name: application_details
+      label: -- Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: building_type
+      label: Type of building/project
+      hint: null
+      type: select_one
+      options:
+      - New construction
+      - Renovation/retrofit
+      - Maintenance/replacement
+      - Upgrade/modernization
+      - Pilot project
+      - Other
+      required: true
+    - id: 14
+      name: project_scope
+      label: Project scope
+      hint: Size, scale, number of units
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_timeline
+      label: Project timeline
+      hint: null
+      type: select_one
+      options:
+      - Immediate - within 30 days
+      - Short-term - 1-3 months
+      - Medium-term - 3-6 months
+      - Long-term - 6-12 months
+      - Planning stage - 12+ months
+      - Exploratory - no specific timeline
+      required: true
+    - id: 16
+      name: quantity_needed
+      label: Estimated quantity needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: performance_requirements
+      label: Key performance requirements or specifications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: special_features
+      label: Special features or capabilities needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: energy_efficiency
+      label: Energy efficiency requirements
+      hint: null
+      type: select_one
+      options:
+      - High priority
+      - Important consideration
+      - Standard efficiency acceptable
+      - Not a priority
+      - Unknown
+      required: false
+    - id: 21
+      name: environmental_standards
+      label: Environmental or sustainability standards
+      hint: null
+      type: select_multiple
+      options:
+      - LEED certified
+      - Energy Star
+      - Green building codes
+      - Carbon neutral
+      - Water conservation
+      - Other certifications
+      - None
+      required: false
+    - id: 22
+      name: installation_support
+      label: Installation support needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, full installation service
+      - Yes, technical support only
+      - Yes, training provided
+      - No, self-installation
+      - Unsure
+      required: false
+    - id: 23
+      name: budget_section
+      label: -- Budget and Procurement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: budget_range
+      label: Budget range for this project
+      hint: null
+      type: select_one
+      options:
+      - Under 10,000
+      - 10,000-50,000
+      - 50,000-100,000
+      - 100,000-500,000
+      - Over 500,000
+      - Undecided
+      required: false
+    - id: 25
+      name: procurement_process
+      label: Procurement process or timeline
+      hint: RFQ, bidding, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: decision_factors
+      label: Key decision factors
+      hint: null
+      type: select_multiple
+      options:
+      - Product quality
+      - Price/cost
+      - Availability
+      - Support/service
+      - Brand reputation
+      - Performance ratings
+      - Sustainability
+      - Durability
+      - Warranty
+      - Other
+      required: false
+    - id: 27
+      name: contact_preferences
+      label: -- Contact and Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: preferred_contact
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      - In-person meeting
+      - Either
+      required: true
+    - id: 29
+      name: response_urgency
+      label: Response urgency
+      hint: null
+      type: select_one
+      options:
+      - Urgent - within 24 hours
+      - Soon - within 2-3 days
+      - Standard - within 1 week
+      - Flexible - no specific timeline
+      required: false
+    - id: 30
+      name: additional_info
+      label: Additional information or specific questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: attachments_note
+      label: Attachments or documents
+      hint: Project plans, specifications, etc.
+      type: text
+      options: []
+      required: false

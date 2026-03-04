@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Participation Readiness Survey
+    pages:
+    - id: 1
+      name: respondent_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 6
+      name: readiness_header
+      label: -- Civic Participation Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: readiness_level
+      label: Overall readiness to engage in civic activities
+      hint: null
+      type: select_one
+      options:
+      - Very ready
+      - Ready
+      - Somewhat ready
+      - Not very ready
+      - Not ready at all
+      required: true
+    - id: 8
+      name: voting_readiness
+      label: Readiness to participate in voting
+      hint: null
+      type: select_one
+      options:
+      - Very ready
+      - Ready
+      - Somewhat ready
+      - Not very ready
+      - Not ready
+      required: true
+    - id: 9
+      name: community_readiness
+      label: Readiness to participate in community organizations
+      hint: null
+      type: select_one
+      options:
+      - Very ready
+      - Ready
+      - Somewhat ready
+      - Not very ready
+      - Not ready
+      required: true
+    - id: 10
+      name: knowledge_header
+      label: -- Knowledge and Understanding --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: civic_knowledge
+      label: How would you rate your civic knowledge
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: knowledge_gaps
+      label: Areas where you need more knowledge - select all
+      hint: null
+      type: select_multiple
+      options:
+      - Government structure
+      - Voting procedures
+      - Community issues
+      - How to advocate for change
+      - Legal rights and responsibilities
+      - Local officials and representatives
+      - Other
+      required: false
+    - id: 13
+      name: motivation_header
+      label: -- Motivation and Drivers --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: motivation_factors
+      label: What motivates you to participate - select top 3
+      hint: null
+      type: select_multiple
+      options:
+      - Personal values
+      - Community improvement
+      - Addressing specific issues
+      - Social connections
+      - Career opportunities
+      - Sense of duty
+      - Family influence
+      - Peer pressure
+      - Other
+      required: false
+    - id: 15
+      name: barriers_header
+      label: -- Barriers and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: current_barriers
+      label: Current barriers to participation - select all
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of time
+      - Lack of knowledge
+      - Transportation
+      - Childcare needs
+      - Health issues
+      - Language barriers
+      - Distrust in system
+      - Past negative experiences
+      - No barriers
+      - Other
+      required: false
+    - id: 17
+      name: support_needs
+      label: What support would help you participate more
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_activities
+      label: Types of activities you are most interested in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_steps
+      label: Next steps for increasing your civic participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_preference
+      label: How would you like to be contacted
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      - In person
+      - No preference
+      required: false

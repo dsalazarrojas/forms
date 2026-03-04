@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Blogger Lifestyle Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: Blogger Lifestyle Survey
+        hint: Share insights about your blogging journey
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: blogger_name
+        label: Name or Blog Handle
+        hint: What should we call you
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: blog_name
+        label: Blog Name
+        hint: Name of your blog
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: blog_url
+        label: Blog URL
+        hint: Website address
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: years_blogging
+        label: Years Blogging
+        hint: How long have you been blogging
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-2 years
+          - 3-5 years
+          - 6-10 years
+          - Over 10 years
+        required: true
+      - id: 6
+        name: blog_niche
+        label: Blog Niche
+        hint: Primary category
+        type: select_one
+        options:
+          - Lifestyle
+          - Travel
+          - Food
+          - Fashion
+          - Technology
+          - Parenting
+          - Health and Fitness
+          - Finance
+          - Education
+          - Other
+        required: true
+      - id: 7
+        name: posting_frequency
+        label: Posting Frequency
+        hint: How often do you publish
+        type: select_one
+        options:
+          - Daily
+          - Several Times a Week
+          - Weekly
+          - Bi-Weekly
+          - Monthly
+          - Irregularly
+        required: true
+      - id: 8
+        name: time_spent_weekly
+        label: Time Spent Weekly
+        hint: Hours dedicated to blogging
+        type: select_one
+        options:
+          - Under 5 hours
+          - 5-10 hours
+          - 11-20 hours
+          - 21-40 hours
+          - Over 40 hours
+        required: true
+      - id: 9
+        name: blogging_device
+        label: Primary Blogging Device
+        hint: What do you use most
+        type: select_one
+        options:
+          - Desktop Computer
+          - Laptop
+          - Tablet
+          - Smartphone
+          - Multiple Devices
+        required: true
+      - id: 10
+        name: income_status
+        label: Blog Income Status
+        hint: Does your blog generate income
+        type: select_one
+        options:
+          - Full Time Income
+          - Part Time Income
+          - Side Income
+          - Break Even
+          - Operating at Loss
+          - No Income Yet
+        required: true
+      - id: 11
+        name: monetization_methods
+        label: Monetization Methods
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Display Advertising
+          - Sponsored Posts
+          - Affiliate Marketing
+          - Digital Products
+          - Physical Products
+          - Services
+          - Donations
+          - Memberships
+          - None
+        required: true
+      - id: 12
+        name: monthly_revenue
+        label: Average Monthly Revenue
+        hint: If comfortable sharing
+        type: select_one
+        options:
+          - Under $100
+          - $100-$500
+          - $501-$1000
+          - $1001-$5000
+          - $5001-$10000
+          - Over $10000
+          - Prefer Not to Say
+        required: false
+      - id: 13
+        name: social_platforms
+        label: Social Platforms Used
+        hint: Where do you promote
+        type: select_multiple
+        options:
+          - Instagram
+          - Pinterest
+          - Facebook
+          - Twitter
+          - TikTok
+          - YouTube
+          - LinkedIn
+          - None
+        required: true
+      - id: 14
+        name: biggest_challenge
+        label: Biggest Challenge
+        hint: What is most difficult
+        type: select_one
+        options:
+          - Content Creation
+          - Time Management
+          - Growing Audience
+          - Monetization
+          - Technical Issues
+          - Staying Motivated
+          - Work Life Balance
+        required: true
+      - id: 15
+        name: goals_for_year
+        label: Goals for This Year
+        hint: What do you want to achieve
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: blogging_tools
+        label: Tools and Software Used
+        hint: List your favorite tools
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: advice_for_newbies
+        label: Advice for New Bloggers
+        hint: Share your wisdom
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: satisfaction_level
+        label: Overall Satisfaction
+        hint: How satisfied are you with blogging
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true

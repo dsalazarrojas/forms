@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Screening Questionnaire For Dental Patients
+    pages:
+    - id: 1
+      name: patient_name_full
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dental_proc_type
+      label: Scheduled Dental Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_visit_date
+      label: Date of Last Dental Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: symptom_fever_yn
+      label: Do you have a fever or have you felt hot or feverish in the last 24 hours?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: fever_meds_yn
+      label: Have you taken any fever-reducing medications today?
+      hint: e.g. Tylenol, Motrin
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: symptom_taste_smell_yn
+      label: Have you noticed a new loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: symptom_breathing_yn
+      label: Are you having any difficulty breathing or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: exposure_pos_case_yn
+      label: Have you been in close contact with a confirmed COVID-19 case in 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: travel_history_text
+      label: Describe any recent travel outside your local area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: healthcare_worker_yn
+      label: Do you work in a healthcare setting?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: rinse_agree_yn
+      label: I agree to use a pre-procedural antimicrobial mouthrinse
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 12
+      name: office_protocol_agree
+      label: I agree to follow all dental office safety protocols during my visit
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 13
+      name: dental_screening_cert
+      label: I certify my answers are accurate to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

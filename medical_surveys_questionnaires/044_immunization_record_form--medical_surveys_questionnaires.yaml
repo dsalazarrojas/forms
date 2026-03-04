@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: immunization_record_form
+    pages:
+    - id: 1
+      name: medical_surveys_questionnaire
+      label: medical_surveys_questionnaire
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: false
+    - id: 2
+      name: patient_info
+      label: patient_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vaccine_details
+      label: vaccine_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Vaccine 1''}'
+      - '{''value'': ''Vaccine 2''}'
+      - '{''value'': ''Vaccine 3''}'
+      required: false
+    - id: 4
+      name: dosing_schedule
+      label: dosing_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: dosing_time
+      label: dosing_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: dosage_info
+      label: dosage_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission_info
+      label: submission_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

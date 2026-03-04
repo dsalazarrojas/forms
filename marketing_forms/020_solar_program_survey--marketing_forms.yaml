@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Program Survey
+    pages:
+    - id: 1
+      name: survey_details
+      label: survey_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_survey_questions
+      label: customer_survey_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_service_number
+      label: customer_service_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_service_name
+      label: customer_service_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_service_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_hours
+      label: customer_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: customer_service_days
+      label: customer_hours_days
+      hint: null
+      type: select_one
+      options:
+      - 7am
+      - 8am
+      - 9am
+      - 10am
+      - 11am
+      - 12pm
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      - 5pm
+      - 6pm
+      - 7pm
+      - 8pm
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_survey
+      label: sales_survey
+      hint: null
+      type: text
+      options: []
+      required: false

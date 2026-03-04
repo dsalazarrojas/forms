@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotional Content Release Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content_description
+      label: content_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: content_owner
+      label: content_owner
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Me'', ''value'': 1}'
+      - '{''label'': ''Family Member'', ''value'': 2}'
+      - '{''label'': ''Friend'', ''value'': 3}'
+      - '{''label'': ''Family Friend'', ''value'': 4}'
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': ''true''}'
+      - '{''label'': False, ''value'': ''false''}'
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: lash_length_enhancement_interest_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Lash Length Enhancement Interest Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Which category of lash length enhancement interest you?
+      hint: null
+      type: select_multiple
+      options:
+      - Lash Length
+      - Eyelash Extension
+      - Eyelash Thickening
+      required: false
+    - id: 3
+      name: treatment
+      label: Which treatment you are interested in?
+      hint: null
+      type: select_one
+      options:
+      - Lash Lift
+      - Lash Perm
+      - Lash Curl
+      - Lash Straightening
+      - Lash Straightening & Curl
+      - Lash Perm & Straightening
+      - Lash Lifting
+      - Lash Lifting & Curling
+      - Lash Lifting & Straightening
+      - Lash Curling & Straightening
+      required: false
+    - id: 4
+      name: location
+      label: Where would you like the treatment to be done?
+      hint: null
+      type: select_one
+      options:
+      - Salon
+      - Spa
+      - Clinic
+      - At-Home
+      required: false
+    - id: 5
+      name: duration
+      label: How long does the treatment take?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: frequency
+      label: How often would you like the treatment?
+      hint: null
+      type: select_multiple
+      options:
+      - Once a week
+      - Every two weeks
+      - Every four weeks
+      - Every six weeks
+      - Every twelve weeks
+      required: false
+    - id: 7
+      name: preferred_time
+      label: What is your preferred time for the treatment?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: newsletter_subscription_management
+    pages:
+    - id: 1
+      name: newsletter_preferences
+      label: Newsletters Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 3
+      name: newsletter_list
+      label: Newsletters List
+      hint: Select all or a specific list of newsletters
+      type: select_multiple
+      options:
+      - Newsletter 1
+      - Newsletter 2
+      - Newsletter 3
+      - Newsletter 4
+      - Newsletter 5
+      required: false
+    - id: 4
+      name: date_frequency
+      label: Date Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_frequency
+      label: Time Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Enter phone number in the format of XXX-XXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false

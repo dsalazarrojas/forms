@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: lead_scoring_assessment_form
+    pages:
+    - id: 1
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Website
+      - Referral
+      - Social Media
+      - Paid Advertisement
+      - Search Engine
+      - Print Advertisement
+      - Trade Show
+      - Event
+      required: false
+    - id: 2
+      name: lead_priority
+      label: Lead Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: lead_engagement
+      label: Lead Engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lead_score
+      label: Lead Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Converted
+      - Lost
+      required: false

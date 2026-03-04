@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Logistics And Distribution Audit Form
+    pages:
+    - id: 1
+      name: site_id
+      label: Site Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: site_name
+      label: site name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_id
+      label: facility id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: facility_address
+      label: facility address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: distribution_method
+      label: distribution method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: audit_date
+      label: audit date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: audit_time
+      label: audit time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: findings
+      label: findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_actions
+      label: corrective actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: site_status
+      label: site status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: assigned_by
+      label: assigned by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 16
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 17
+      name: site_employees
+      label: site employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: site_managers
+      label: site managers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: site_supervisors
+      label: site supervisors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: site_lead
+      label: site lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: site_engineer
+      label: site engineer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: site_security
+      label: site security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: site_insurance
+      label: site insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: site_vehicles
+      label: site vehicles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: site_equipment
+      label: site equipment
+      hint: null
+      type: text
+      options: []
+      required: false

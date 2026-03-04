@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: post_surgery_patient_feedback_questionnaire
+    pages:
+    - id: 1
+      name: patient_satisfaction
+      label: patient_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_on_clinician
+      label: feedback_on_clinician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: followup_instructions_given
+      label: follow_up_instructions_given
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''not_sure''}'
+      required: false
+    - id: 4
+      name: followup_instructions_received
+      label: follow_up_instructions_received
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''not_sure''}'
+      - '{''id'': 4, ''name'': ''not_applicable''}'
+      required: false
+    - id: 5
+      name: post_op_care_instructions
+      label: post_op_care_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: post_op_care_instructions_received
+      label: post_op_care_instructions_received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pain_management
+      label: pain_management
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: pain_management_given
+      label: pain_management_given
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pain_management_effectiveness
+      label: pain_management_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_good''}'
+      - '{''id'': 2, ''name'': ''somewhat_good''}'
+      - '{''id'': 3, ''name'': ''not_good''}'
+      required: false
+    - id: 10
+      name: follow_up_phone_number
+      label: follow_up_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_phone_time
+      label: follow_up_phone_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_phone_date
+      label: follow_up_phone_date
+      hint: null
+      type: date
+      options: []
+      required: false

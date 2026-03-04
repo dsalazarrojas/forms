@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Test Revalidation Request Form
+    pages:
+    - id: 1
+      name: product_test_request_form
+      label: Product Test Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Category 1''}'
+      - '{''value'': ''Category 2''}'
+      - '{''value'': ''Category 3''}'
+      required: false
+    - id: 5
+      name: product_subcategory
+      label: Product Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Subcategory 1''}'
+      - '{''value'': ''Subcategory 2''}'
+      - '{''value'': ''Subcategory 3''}'
+      required: false
+    - id: 6
+      name: retest_reason
+      label: Retest Reason
+      hint: Reason for retesting
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: retest_date
+      label: Retest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: revalidation_status
+      label: Revalidation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Revalidated''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Company email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: retest_requester
+      label: Re-Test Requester
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''User 1''}'
+      - '{''value'': ''User 2''}'
+      - '{''value'': ''User 3''}'
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_manager
+      label: Product Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Type 1''}'
+      - '{''value'': ''Type 2''}'
+      - '{''value'': ''Type 3''}'
+      required: false
+    - id: 19
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_notes
+      label: Test Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: retest_requester_phone
+      label: Re-Test Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: retest_requester_email
+      label: Re-Test Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: manager_retest_requester
+      label: Manager Re-Test Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_retest_requester_phone
+      label: Manager Re-Test Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_retest_requester_email
+      label: Manager Re-Test Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false

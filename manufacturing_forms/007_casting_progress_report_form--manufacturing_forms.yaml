@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Progress Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report date
+      hint: Date of this progress update
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: shift
+      label: Shift
+      hint: Production shift identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: batch_number
+      label: Batch number
+      hint: Casting batch or mold ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: operator_name
+      label: Operator name
+      hint: Person reporting
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity_cast
+      label: Quantity cast
+      hint: Number of units produced
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: defects_identified
+      label: Defects identified
+      hint: Short description of defects
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: corrective_actions
+      label: Corrective actions taken
+      hint: Steps taken to resolve issues
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: quality_status
+      label: Quality status
+      hint: Final quality assessment
+      type: select_one
+      options:
+      - Acceptable
+      - Rework required
+      - Scrap
+      required: true
+    - id: 9
+      name: attachments
+      label: Attachments and photos
+      hint: List filenames or storage locations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_comments
+      label: Supervisor comments
+      hint: Additional notes from supervisor
+      type: text
+      options: []
+      required: false

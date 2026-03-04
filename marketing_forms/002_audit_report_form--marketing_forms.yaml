@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: Date the audit was conducted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of the business being audited
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_type
+      label: Industry Type
+      hint: What industry does the business operate in
+      type: select_one
+      options:
+      - Retail
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Services
+      - Other
+      required: true
+    - id: 4
+      name: market_segment
+      label: Market Segment
+      hint: Primary market segment served
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: geographic_coverage
+      label: Geographic Coverage
+      hint: Areas where business operates
+      type: select_multiple
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      required: true
+    - id: 6
+      name: market_share_percentage
+      label: Current Market Share Percentage
+      hint: Estimated market share percentage
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: competitor_analysis
+      label: Key Competitors Identified
+      hint: Number of direct competitors
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: market_growth_rate
+      label: Market Growth Rate
+      hint: Estimated annual market growth rate
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_satisfaction
+      label: Customer Satisfaction Level
+      hint: Rate current customer satisfaction
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: brand_recognition
+      label: Brand Recognition Score
+      hint: Rate brand awareness in the market
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 11
+      name: pricing_strategy
+      label: Current Pricing Strategy
+      hint: Select pricing approach used
+      type: select_one
+      options:
+      - Premium Pricing
+      - Competitive Pricing
+      - Cost-Plus Pricing
+      - Value Pricing
+      - Penetration Pricing
+      required: false
+    - id: 12
+      name: marketing_channels
+      label: Active Marketing Channels
+      hint: Select all channels used for marketing
+      type: select_multiple
+      options:
+      - Digital Advertising
+      - Social Media
+      - Email Marketing
+      - Traditional Media
+      - Content Marketing
+      - Influencer Partnerships
+      - Direct Sales
+      required: true
+    - id: 13
+      name: social_media_presence
+      label: Social Media Presence
+      hint: Is business active on social media
+      type: select_one
+      options:
+      - Not Active
+      - Minimal Presence
+      - Active
+      - Very Active
+      required: false
+    - id: 14
+      name: digital_marketing_spend
+      label: Monthly Digital Marketing Spend
+      hint: Approximate budget in dollars
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: customer_acquisition_cost
+      label: Customer Acquisition Cost
+      hint: Average cost to acquire one customer
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sales_trend
+      label: Sales Trend
+      hint: What is the current sales direction
+      type: select_one
+      options:
+      - Increasing
+      - Stable
+      - Declining
+      - Highly Volatile
+      required: true
+    - id: 17
+      name: main_challenges
+      label: Main Market Challenges
+      hint: Describe primary business challenges
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: growth_opportunities
+      label: Identified Growth Opportunities
+      hint: Potential areas for market expansion
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: auditor_name
+      label: Auditor Name
+      hint: Name of person conducting audit
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: auditor_email
+      label: Auditor Email
+      hint: Email for contact and follow-up
+      type: email
+      options: []
+      required: true

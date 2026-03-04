@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: High Heels Market Survey
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shoe_type
+      label: shoe_type
+      hint: null
+      type: select_one
+      options:
+      - High Heels
+      - Flat Shoes
+      - Sneakers
+      - Boots
+      - Sandals
+      - Loafers
+      required: false
+    - id: 3
+      name: shoe_size
+      label: shoe_size
+      hint: null
+      type: select_multiple
+      options:
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      required: false
+    - id: 4
+      name: favorite_color
+      label: favorite_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Black
+      - White
+      - Purple
+      - Pink
+      - Brown
+      - Grey
+      - Orange
+      - Brown
+      required: false
+    - id: 5
+      name: when_purchased
+      label: when_purchased
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchase_time
+      label: purchase_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: purchase_channel
+      label: purchase_channel
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In Store
+      - Phone
+      - Mail Order
+      - Other
+      required: false
+    - id: 8
+      name: customer_demographics
+      label: customer_demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 10
+      name: product_relevance
+      label: product_relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: price_sensitivity
+      label: price_sensitivity
+      hint: null
+      type: number
+      options: []
+      required: false

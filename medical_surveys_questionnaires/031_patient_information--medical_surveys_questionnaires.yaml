@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Information
+    pages:
+    - id: 1
+      name: new_patient
+      label: New Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: patient_history
+      label: Patient History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_of_kin
+      label: Next of Kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: med_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Existing Patient'', ''value'': ''existing''}'
+      - '{''label'': ''New Patient'', ''value'': ''new''}'
+      required: false
+    - id: 10
+      name: med_history_other
+      label: Other Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_of_kin_other
+      label: Next of Kin Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_other
+      label: Emergency Contact Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: med_cond_history
+      label: Medical Condition History
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes'', ''value'': ''yes''}'
+      - '{''label'': ''No'', ''value'': ''no''}'
+      required: false
+    - id: 14
+      name: med_cond_history_other
+      label: Other Medical Condition History
+      hint: null
+      type: text
+      options: []
+      required: false

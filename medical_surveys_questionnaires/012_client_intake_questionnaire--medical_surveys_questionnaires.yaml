@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Intake Questionnaire
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_insurance
+      label: -- Insurance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: Primary Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: group_number
+      label: Group Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_health
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_symptoms
+      label: Current Symptoms or Medical Concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_history
+      label: Past Medical History
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Asthma
+      - Heart Disease
+      - Surgery
+      - None
+      required: false
+    - id: 13
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: smoking_status
+      label: Smoking Status
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Former
+      - Current
+      required: false
+    - id: 16
+      name: section_emergency
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
