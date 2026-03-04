@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Equipment Requisition Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of person making the request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: For correspondence and approval
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or unit
+      hint: Department requesting equipment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_name
+      label: Equipment name or description
+      hint: Model or brief description
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity requested
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: justification
+      label: Justification for request
+      hint: Purpose and expected use
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: estimated_cost
+      label: Estimated cost
+      hint: Provide best estimate in local currency
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: funding_source
+      label: Proposed funding source
+      hint: Grant, departmental funds, or other
+      type: select_one
+      options:
+      - Department budget
+      - Grant funding
+      - External donation
+      - Other
+      required: false
+    - id: 10
+      name: approval_signature
+      label: Approver name or signature
+      hint: Department approver for the request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requested_delivery_date
+      label: Requested delivery date
+      hint: Preferred delivery date
+      type: date
+      options: []
+      required: false

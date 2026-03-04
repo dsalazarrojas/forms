@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saxophone Intensive Enrollment Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_sessions
+      label: Preferred Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      required: false
+    - id: 3
+      name: session_dates
+      label: Session Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false

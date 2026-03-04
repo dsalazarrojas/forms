@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: independent_learning_program_registration
+    pages:
+    - id: 1
+      name: program_details
+      label: Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: participant_program_status
+      label: Participant Program Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

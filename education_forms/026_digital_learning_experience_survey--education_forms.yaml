@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_learning_experience_survey
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_start_date
+      label: Survey Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: survey_end_date
+      label: Survey End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: question1
+      label: Have you ever taken an online course?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: question2
+      label: How often do you take online courses?
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 8
+      name: question3
+      label: What type of device do you use most frequently for taking online courses?
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Tablet
+      - Phone
+      - Other
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: question4
+      label: How do you prefer to learn?
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Audio
+      - Reading
+      - Other
+      required: false
+    - id: 13
+      name: question5
+      label: What type of content do you prefer to learn?
+      hint: null
+      type: select_multiple
+      options:
+      - Text
+      - Images
+      - Videos
+      - Audio
+      required: false
+    - id: 14
+      name: question6
+      label: How do you prefer to learn in a group?
+      hint: null
+      type: select_multiple
+      options:
+      - With others
+      - Alone
+      - Both
+      required: false
+    - id: 15
+      name: question7
+      label: What time of day do you prefer to learn?
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Any time
+      required: false
+    - id: 16
+      name: question8
+      label: What is your level of experience with the subject matter?
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 17
+      name: question9
+      label: On a scale of 1-5, how engaged do you feel in online learning?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: question10
+      label: On a scale of 1-5, how satisfied are you with online learning?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: question11
+      label: On a scale of 1-5, what is the level of support you received from teachers
+        while taking online courses?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: question12
+      label: On a scale of 1-5, what is the level of support you received from fellow
+        students while taking online courses?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: question13
+      label: How do you usually access online courses?
+      hint: null
+      type: select_multiple
+      options:
+      - Computer
+      - Phone
+      - Tablet
+      - Other
+      required: false
+    - id: 22
+      name: question14
+      label: What do you usually do after an online course?
+      hint: null
+      type: select_multiple
+      options:
+      - Apply what I learned
+      - Discuss with others
+      - Do nothing
+      - Other
+      required: false
+    - id: 23
+      name: question15
+      label: What do you usually do after an online course?
+      hint: null
+      type: select_multiple
+      options:
+      - Apply what I learned
+      - Discuss with others
+      - Do nothing
+      - Other
+      required: false
+    - id: 24
+      name: question16
+      label: Do you usually have any difficulties with taking online courses?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false
+    - id: 25
+      name: question17
+      label: Do you usually take breaks while taking online courses?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Other
+      required: false

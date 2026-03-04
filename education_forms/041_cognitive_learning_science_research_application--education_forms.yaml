@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cognitive Learning Science Research Application
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_institution
+      label: Current Institution
+      hint: School or university name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_education
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: degree_level
+      label: Current Degree Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - PhD
+      - Post-doctoral
+      - Other
+      required: true
+    - id: 8
+      name: field_of_study
+      label: Field of Study or Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: year_in_program
+      label: Year in Program
+      hint: For current degree
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: gpa
+      label: GPA or Academic Standing
+      hint: If available
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_research
+      label: -- Research Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: research_experience
+      label: Prior Research Experience
+      hint: Describe your research background
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: publications
+      label: Publications or Presentations
+      hint: Any published work or presentations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_interests
+      label: -- Research Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_interest
+      label: Primary Research Interest
+      hint: Area you want to focus on
+      type: select_one
+      options:
+      - Cognitive Development
+      - Learning Theories
+      - Memory Research
+      - Educational Psychology
+      - Neuroscience of Learning
+      - Assessment Methods
+      - Other
+      required: true
+    - id: 16
+      name: interest_details
+      label: Detailed Interest Description
+      hint: Elaborate on your research interests
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_skills
+      label: -- Skills and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: research_skills
+      label: Key Research Skills
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Research Design
+      - Data Analysis
+      - Literature Review
+      - Lab Techniques
+      - Statistical Methods
+      - Qualitative Methods
+      - Coding
+      - Other
+      required: true
+    - id: 19
+      name: technical_skills
+      label: Technical Skills
+      hint: Software, tools, languages
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: start_date
+      label: Preferred Start Date
+      hint: When could you begin
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: commitment_hours
+      label: Weekly Time Commitment
+      hint: Hours per week available
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: section_motivation
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: motivation
+      label: Why are you interested in this research
+      hint: Describe your motivation
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: career_goals
+      label: Career Goals
+      hint: How does this relate to your plans
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_info
+      label: Additional Information
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

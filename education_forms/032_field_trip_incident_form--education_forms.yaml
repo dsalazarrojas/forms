@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: field_trip_incident_form
+    pages:
+    - id: 1
+      name: school_id
+      label: school_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_type
+      label: trip_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''bus''}'
+      - '{''id'': 2, ''name'': ''car''}'
+      - '{''id'': 3, ''name'': ''other''}'
+      required: false
+    - id: 3
+      name: trip_date
+      label: trip_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trip_start_time
+      label: trip_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: trip_end_time
+      label: trip_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident
+      label: incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: students
+      label: students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: staff
+      label: staff
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''medical''}'
+      - '{''id'': 2, ''name'': ''behavioral''}'
+      - '{''id'': 3, ''name'': ''property''}'
+      required: false
+    - id: 11
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false

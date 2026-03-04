@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accreditation Completion Form
+    pages:
+    - id: 1
+      name: institution_name
+      label: Institution Name
+      hint: Name of the educational body
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: accreditation_body
+      label: Accreditation Body
+      hint: e.g., Regional Accreditation Agency
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: accreditation_type
+      label: Accreditation Type
+      hint: null
+      type: select_one
+      options:
+      - Initial
+      - Renewal
+      - Special Review
+      required: true
+    - id: 4
+      name: start_of_accreditation_period
+      label: Start of Accreditation Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_of_accreditation_period
+      label: End of Accreditation Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: requirement_header
+      label: -- Requirement Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: standards_met
+      label: Standards Met
+      hint: Select all standards verified during this review
+      type: select_multiple
+      options:
+      - Standard 1 - Mission and Goals
+      - Standard 2 - Ethics and Integrity
+      - Standard 3 - Design and Delivery
+      - Standard 4 - Support of Student Experience
+      required: true
+    - id: 8
+      name: summary_of_compliance_evidence
+      label: Summary of Compliance Evidence
+      hint: Briefly describe how requirements were met
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: status_recommendation
+      label: Status Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Full Accreditation
+      - Provisional Accreditation
+      - Denied
+      required: true
+    - id: 10
+      name: authorized_official_name
+      label: Authorized Official Name
+      hint: Type name to certify
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

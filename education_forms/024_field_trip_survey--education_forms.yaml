@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: field_trip_survey
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: field_trip_date
+      label: Field Trip Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_description
+      label: What happened on the field trip?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: How would you rate the field trip?
+      hint: On a scale of 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trip_cost
+      label: Trip Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating_2
+      label: Would you recommend this field trip?
+      hint: On a scale of 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: comment_2
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating_3
+      label: How likely are you to recommend this event to others?
+      hint: On a scale of 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: comment_3
+      label: Any other comments about the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_attended
+      label: Did you attend this event?
+      hint: Yes/No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: field_trip_length
+      label: How long was the field trip?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: field_trip_duration
+      label: How long would you like the field trips to be?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: field_trip_frequency
+      label: How often would you like to go on field trips like this?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 per year
+      - 2-3 per year
+      - 3-4 per year
+      - More than 4 per year
+      required: false
+    - id: 19
+      name: trip_type
+      label: What type of field trip would you like to have next?
+      hint: null
+      type: select_one
+      options:
+      - Nature
+      - History
+      - Science
+      - Art
+      - Cultural
+      - Other
+      required: false
+    - id: 20
+      name: field_trip_location
+      label: Where would you like to have a field trip?
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      required: false
+    - id: 21
+      name: event_supplement
+      label: Any other event that you think would make this field trip better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_ideas
+      label: Other event ideas?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: ocean_geography_quiz
+    pages:
+    - id: 1
+      name: geography_quiz
+      label: geography_quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quiz_question_1
+      label: what_is_the_largest_ocean
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: quiz_answer_1
+      label: answer_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: quiz_question_2
+      label: what_is_the_second_largest_ocean
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: quiz_answer_2
+      label: answer_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: quiz_question_3
+      label: what_is_the_smallest_ocean
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 7
+      name: quiz_answer_3
+      label: answer_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: quiz_question_4
+      label: what_is_the_largest_ocean_in_terms_of_size
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 9
+      name: quiz_answer_4
+      label: answer_4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: quiz_question_5
+      label: which_of_the_following_are_bodies_of_water
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 11
+      name: quiz_answer_5
+      label: answer_5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bursary Application Form
+    pages:
+    - id: 1
+      name: section_personal_details
+      label: -- Personal and Academic Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name of Applicant
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number
+      label: Student Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: example@university.edu
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_programme_of_study
+      label: Current Programme of Study
+      hint: e.g. BSc Computer Science
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: year_of_study
+      label: Year of Study
+      hint: null
+      type: select_one
+      options:
+      - Year 1
+      - Year 2
+      - Year 3
+      - Year 4
+      - Postgraduate
+      required: true
+    - id: 7
+      name: section_financial_assessment
+      label: -- Financial Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: household_annual_income
+      label: Estimated Household Annual Income
+      hint: Combine all sources of income
+      type: select_one
+      options:
+      - Below 20,000 USD
+      - 20,001 - 40,000 USD
+      - 40,001 - 60,000 USD
+      - 60,001 - 80,000 USD
+      - Above 80,000 USD
+      required: true
+    - id: 9
+      name: dependents_count
+      label: Number of Dependents in Household
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: financial_hardship_statement
+      label: Statement of Financial Hardship
+      hint: Describe why you are seeking bursary support (max 500 words)
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_funding_sources
+      label: Other Current Funding Sources
+      hint: List any other scholarships or grants you receive
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_supporting_docs
+      label: -- Supporting Documentation --
+      hint: Please note you will be required to upload proof of income later
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: data_sharing_consent
+      label: I consent to the verification of my financial status
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 14
+      name: application_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

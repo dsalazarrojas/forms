@@ -1,0 +1,358 @@
+inputSchema:
+  type: object
+  properties:
+    title: Allergy Notification Form
+    pages:
+    - id: 1
+      name: student_patient_name
+      label: Student/Patient Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: grade_class
+      label: Grade/Class
+      hint: Current grade or class
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_year
+      label: School Year
+      hint: Academic year
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_1_name
+      label: Parent/Guardian 1 Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_1_phone
+      label: Parent/Guardian 1 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_1_email
+      label: Parent/Guardian 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_2_name
+      label: Parent/Guardian 2 Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_guardian_2_phone
+      label: Parent/Guardian 2 Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: physician_name
+      label: Physician Name
+      hint: Treating doctor
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: physician_email
+      label: Physician Email
+      hint: Doctor email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: allergy_diagnosis_date
+      label: Allergy Diagnosis Date
+      hint: When diagnosed
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: specific_allergies
+      label: Specific Allergies
+      hint: List all allergies
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: allergen_types
+      label: Allergen Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food allergens
+      - Environmental allergens
+      - Insect sting allergens
+      - Medication allergens
+      - Latex allergens
+      - Chemical allergens
+      - Other
+      required: true
+    - id: 17
+      name: food_allergies_detail
+      label: Food Allergies Detail
+      hint: List specific foods
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: environmental_allergies_detail
+      label: Environmental Allergies Detail
+      hint: List specific allergens
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergy_severity
+      label: Allergy Severity
+      hint: Rate severity
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      - Life-threatening
+      required: true
+    - id: 20
+      name: typical_reactions
+      label: Typical Allergic Reactions
+      hint: What symptoms occur?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: anaphylaxis_history
+      label: History of Anaphylaxis
+      hint: Has anaphylaxis occurred?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 22
+      name: anaphylaxis_date
+      label: Date of Most Recent Anaphylaxis
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: current_medications
+      label: Current Allergy Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: epinephrine_auto_injector
+      label: Epinephrine Auto-Injector
+      hint: Type and dosage
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: epinephrine_location
+      label: Where Is Epinephrine Stored?
+      hint: Location at school
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: backup_epinephrine
+      label: Backup Epinephrine Available
+      hint: Is there a backup?
+      type: select_one
+      options:
+      - Yes, location: ____________
+      - false
+      required: true
+    - id: 27
+      name: antihistamine_authorization
+      label: Antihistamine Authorization
+      hint: May school administer?
+      type: select_one
+      options:
+      - Yes, authorized
+      - No, not authorized
+      required: true
+    - id: 28
+      name: self_carry_administer
+      label: May Student Self-Carry/Administer?
+      hint: If age appropriate
+      type: select_one
+      options:
+      - Yes, authorized
+      - No, must be stored in office
+      required: true
+    - id: 29
+      name: dietary_accommodations
+      label: Dietary Accommodations Needed
+      hint: Special meal requirements
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: classroom_accommodations
+      label: Classroom Accommodations Needed
+      hint: Special classroom needs
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: activity_restrictions
+      label: Activity Restrictions
+      hint: Any limitations?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: field_trip_considerations
+      label: Field Trip Considerations
+      hint: Special instructions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: substitute_teacher_instructions
+      label: Substitute Teacher Instructions
+      hint: Important notes for subs
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: staff_notification_list
+      label: Who Should Be Notified?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Classroom teacher
+      - School nurse
+      - Principal
+      - Cafeteria staff
+      - Bus driver
+      - After-school staff
+      - Coach
+      - All staff
+      required: true
+    - id: 35
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: What to do in emergency
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: when_to_call_911
+      label: When to Call 911
+      hint: Specific criteria
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: hospital_preference
+      label: Preferred Hospital
+      hint: Nearest or preferred hospital
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: medical_insurance
+      label: Medical Insurance
+      hint: Insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: photo_release
+      label: Photo Release for Staff
+      hint: May we share photo with staff?
+      type: select_one
+      options:
+      - Yes, for identification
+      - false
+      required: false
+    - id: 40
+      name: annual_update_required
+      label: Annual Update Required
+      hint: Do you understand updates are needed?
+      type: select_one
+      options:
+      - Yes, I will update annually
+      - false
+      required: true
+    - id: 41
+      name: information_accuracy
+      label: Information Accuracy
+      hint: I certify this is accurate
+      type: select_one
+      options:
+      - Yes, all information is accurate
+      - false
+      required: true
+    - id: 42
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: Signature
+      type: select_one
+      options:
+      - I authorize this notification
+      - Not yet signed
+      required: true
+    - id: 43
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 44
+      name: physician_signature
+      label: Physician Signature
+      hint: Doctor verification
+      type: select_one
+      options:
+      - I verify this information
+      - Not yet signed
+      required: false
+    - id: 45
+      name: physician_signature_date
+      label: Physician Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: false

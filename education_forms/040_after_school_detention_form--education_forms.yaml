@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Detention Form
+    pages:
+    - id: 1
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_grade
+      label: Grade Level
+      hint: Current grade level of the student
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 5
+      name: student_homeroom_teacher
+      label: Homeroom Teacher
+      hint: Name of the student's homeroom teacher
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_school
+      label: School Name
+      hint: Name of the school the student attends
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: detention_details_section
+      label: Detention Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: detention_date
+      label: Detention Date
+      hint: Date when the detention will take place
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: detention_time
+      label: Detention Time
+      hint: Time when the detention will occur
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: detention_location
+      label: Detention Location
+      hint: Where will the detention take place?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: detention_duration
+      label: Expected Duration
+      hint: How long is the detention expected to last?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: detention_reason_section
+      label: Reason for Detention
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: violation_type
+      label: Type of Violation
+      hint: What rule or policy was violated?
+      type: select_one
+      options:
+      - Disruptive behavior
+      - Cheating/plagiarism
+      - Dress code violation
+      - Late arrival
+      - Inappropriate language
+      - Bullying
+      - Fighting
+      - Vandalism
+      - Cell phone misuse
+      - Other
+      required: true
+    - id: 14
+      name: specific_incident_details
+      label: Specific Incident Details
+      hint: Detailed description of the incident that led to detention
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: witnesses
+      label: Witnesses
+      hint: List any witnesses to the incident
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_disciplinary_actions
+      label: Previous Disciplinary Actions
+      hint: Has this student had previous disciplinary actions?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: previous_actions_details
+      label: Details of Previous Actions
+      hint: If yes, briefly describe previous disciplinary actions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parent_guardian_notification_section
+      label: Parent/Guardian Notification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Name of the student's parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: parent_phone
+      label: Parent Phone Number
+      hint: Phone number to contact the parent/guardian
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: parent_email
+      label: Parent Email Address
+      hint: Email address for communication with parent/guardian
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: notification_method
+      label: Notification Method
+      hint: How was the parent/guardian notified about the detention?
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - Written notice sent home
+      - In-person meeting
+      - Other
+      required: true
+    - id: 23
+      name: notification_date
+      label: Notification Date
+      hint: Date when the parent/guardian was notified
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: detention_completion_section
+      label: Detention Completion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: attendance_status
+      label: Student Attendance Status
+      hint: Did the student attend the detention as scheduled?
+      type: select_one
+      options:
+      - Attended
+      - Did not attend
+      - Excused absence
+      required: true
+    - id: 26
+      name: behavior_during_detention
+      label: Behavior During Detention
+      hint: How did the student behave during the detention period?
+      type: select_one
+      options:
+      - Appropriate
+      - Somewhat disruptive
+      - Disruptive
+      - Refused to participate
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about the detention or student behavior
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: administrative_signature
+      label: Administrator Signature
+      hint: Signature of the administrator assigning the detention
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: signature_date
+      label: Date of Signature
+      hint: Date when the form is completed
+      type: date
+      options: []
+      required: true

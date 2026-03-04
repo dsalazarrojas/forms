@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Instructors Mini Evaluation Form
+    pages:
+    - id: 1
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Satisfactory'', ''label'': ''Not Satisfactory''}'
+      - '{''id'': 2, ''name'': ''Satisfactory'', ''label'': ''Satisfactory''}'
+      - '{''id'': 3, ''name'': ''Exceeds Expectations'', ''label'': ''Exceeds Expectations''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: false

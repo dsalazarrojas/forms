@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bible Class Registration Form
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For class updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Youth (13-17)
+      - Young adult (18-25)
+      - Adult (26-40)
+      - Mid-life (41-60)
+      - Senior (60+)
+      required: true
+    - id: 7
+      name: section_header_church
+      label: -- Church Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: church_name
+      label: Church Name
+      hint: Your church affiliation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: church_city
+      label: Church City or Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: member_status
+      label: Church Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active member
+      - Occasional attendee
+      - Visitor
+      - New believer
+      - Non-member
+      required: true
+    - id: 11
+      name: section_header_class
+      label: -- Class Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: class_name
+      label: Bible Class Title
+      hint: Which class are you registering for?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: class_level
+      label: Class Level
+      hint: Beginner, intermediate, or advanced?
+      type: select_one
+      options:
+      - Beginner - new to Bible study
+      - Intermediate - some experience
+      - Advanced - extensive knowledge
+      - No preference
+      required: true
+    - id: 14
+      name: class_format
+      label: Class Format Preference
+      hint: How would you like to learn?
+      type: select_one
+      options:
+      - In-person
+      - Online/virtual
+      - Hybrid - both options
+      - No preference
+      required: true
+    - id: 15
+      name: class_time
+      label: Preferred Class Time
+      hint: When would you prefer to attend?
+      type: select_one
+      options:
+      - Sunday morning
+      - Sunday afternoon
+      - Sunday evening
+      - Weekday morning
+      - Weekday afternoon
+      - Weekday evening
+      - Weekend
+      required: true
+    - id: 16
+      name: section_header_experience
+      label: -- Bible Study Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: bible_familiarity
+      label: Familiarity with the Bible
+      hint: How familiar are you?
+      type: select_one
+      options:
+      - Very familiar
+      - Somewhat familiar
+      - Familiar with some parts
+      - New to Bible study
+      - No prior knowledge
+      required: true
+    - id: 18
+      name: study_experience
+      label: Prior Bible Study Experience
+      hint: null
+      type: select_one
+      options:
+      - Extensive study
+      - Regular participant
+      - Occasional participant
+      - First time studying
+      - Never studied before
+      required: true
+    - id: 19
+      name: section_header_learning
+      label: -- Learning Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: learning_goals
+      label: What Are Your Learning Goals
+      hint: Why are you taking this class?
+      type: select_multiple
+      options:
+      - Deepen faith
+      - Understand scripture better
+      - Personal spiritual growth
+      - Community connection
+      - Teach others
+      - Answer specific questions
+      - General interest
+      required: true
+    - id: 21
+      name: study_method_preference
+      label: Preferred Study Method
+      hint: How do you like to learn?
+      type: select_one
+      options:
+      - Group discussion
+      - Lecture format
+      - Self-paced study
+      - Mix of methods
+      - No preference
+      required: true
+    - id: 22
+      name: section_header_logistics
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: attendance_commitment
+      label: Attendance Commitment
+      hint: How often can you attend?
+      type: select_one
+      options:
+      - Every class
+      - Most classes
+      - Occasional attendance
+      - Flexible schedule
+      - Undecided
+      required: true
+    - id: 24
+      name: materials_needed
+      label: Do You Have Required Materials
+      hint: Bible, textbooks, etc.
+      type: select_one
+      options:
+      - Yes, I have everything
+      - Yes, most materials
+      - Need assistance obtaining materials
+      - Unsure what is needed
+      required: true
+    - id: 25
+      name: transportation_needed
+      label: Do You Need Transportation Assistance
+      hint: null
+      type: select_one
+      options:
+      - Yes, please help arrange
+      - No, I can arrange my own
+      - Not applicable
+      required: true
+    - id: 26
+      name: section_header_consent
+      label: -- Agreements and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: attendance_agreement
+      label: I Agree to Participate Respectfully
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you'd like to share?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coffee Beans Order Form
+    pages:
+    - id: 1
+      name: section_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_shipping
+      label: -- Shipping Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_postal
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_coffee_selection
+      label: -- Coffee Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: coffee_type
+      label: Coffee Type
+      hint: Select your preferred coffee
+      type: select_one
+      options:
+      - Arabica Single Origin
+      - Robusta Blend
+      - Espresso Roast
+      - Dark Roast
+      - Medium Roast
+      - Light Roast
+      - Flavored Beans
+      - Decaf
+      required: true
+    - id: 13
+      name: roast_level
+      label: Roast Level
+      hint: null
+      type: select_one
+      options:
+      - Light
+      - Medium
+      - Dark
+      - Extra Dark
+      required: true
+    - id: 14
+      name: origin
+      label: Coffee Origin
+      hint: Select preferred region
+      type: select_one
+      options:
+      - Brazilian
+      - Colombian
+      - Ethiopian
+      - Kenyan
+      - Indonesian
+      - Vietnamese
+      - Central American
+      - Mixed Origin
+      required: true
+    - id: 15
+      name: grind_type
+      label: Grind Type
+      hint: null
+      type: select_one
+      options:
+      - Whole Beans
+      - Medium Grind
+      - Fine Grind
+      - Extra Fine Grind
+      required: true
+    - id: 16
+      name: quantity_pounds
+      label: Quantity - pounds
+      hint: How much coffee do you want
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: quantity_bags
+      label: Quantity - number of bags
+      hint: Number of bags to order
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_preferences
+      label: -- Flavor Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: flavor_notes
+      label: Flavor Notes of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Chocolate
+      - Nutty
+      - Fruity
+      - Caramel
+      - Floral
+      - Earthy
+      - Spicy
+      - Sweet
+      required: true
+    - id: 20
+      name: acidity_preference
+      label: Acidity Preference
+      hint: null
+      type: select_one
+      options:
+      - Low acidity
+      - Medium acidity
+      - High acidity
+      - No preference
+      required: false
+    - id: 21
+      name: section_special
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Organic
+      - Fair Trade
+      - Shade-grown
+      - Water-processed
+      - None
+      required: false
+    - id: 23
+      name: gift_option
+      label: This is a gift
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: gift_message
+      label: Gift Message
+      hint: Optional personalized message
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or preferences
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_payment
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Other
+      required: true

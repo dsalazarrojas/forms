@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asg Fresh Mart Order List
+    pages:
+    - id: 1
+      name: customer_full_name_fm
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_address_fm
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone_fm
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: seafood_category_fm
+      label: Seafood Category
+      hint: null
+      type: select_one
+      options:
+      - Fresh Fish
+      - Crustaceans - Crab, Lobster, Shrimp
+      - Mollusks - Clams, Oysters, Mussels
+      - Squid and Octopus
+      - Processed/Frozen Seafood
+      required: true
+    - id: 5
+      name: product_selection_fm
+      label: Specific Product Selection
+      hint: Select items you wish to order
+      type: select_multiple
+      options:
+      - Salmon Fillets
+      - Tiger Prawns
+      - Mud Crab
+      - Sea Bass
+      - Scallops
+      - Squid Rings
+      required: true
+    - id: 6
+      name: order_quantity_kg
+      label: Quantity in Kilograms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cleaning_instructions_fm
+      label: Special Cleaning or Prep Instructions
+      hint: e.g. Descaled, gutted, filleted, head-off
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time_fm
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Morning - 8 AM to 12 PM
+      - Afternoon - 12 PM to 5 PM
+      - Evening - 5 PM to 8 PM
+      required: true
+    - id: 9
+      name: estimated_budget_fm
+      label: Estimated Budget
+      hint: Provide a maximum value in local currency
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_mode_fm
+      label: Preferred Payment Mode
+      hint: null
+      type: select_one
+      options:
+      - Cash on Delivery
+      - Credit Card
+      - Bank Transfer
+      - Mobile Wallet
+      required: true

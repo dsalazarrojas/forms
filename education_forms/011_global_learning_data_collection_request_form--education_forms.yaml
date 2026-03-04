@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Learning Data Collection Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_input_1
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_input_2
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_input_3
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_input_4
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: user_input_5
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: user_input_6
+      label: Text Area
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_input_7
+      label: Radio Buttons
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Option 1'', ''value'': ''option-1''}'
+      - '{''text'': ''Option 2'', ''value'': ''option-2''}'
+      - '{''text'': ''Option 3'', ''value'': ''option-3''}'
+      required: true
+    - id: 9
+      name: user_input_8
+      label: Dropdown
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Option 1'', ''value'': ''option-1''}'
+      - '{''text'': ''Option 2'', ''value'': ''option-2''}'
+      required: true

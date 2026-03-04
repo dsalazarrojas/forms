@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clover Kids 2020
+    pages:
+    - id: 1
+      name: child_name
+      label: Child's Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_age
+      label: Child's Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: child_grade
+      label: School Grade
+      hint: Current grade level
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - Other
+      required: true
+    - id: 4
+      name: section_contact
+      label: -- Parent or Guardian Information --
+      hint: Contact details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: section_address
+      label: -- Address Information --
+      hint: Home address
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: State or Province
+      hint: State abbreviation
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: Zip or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_program
+      label: -- Program Information --
+      hint: Details about participation
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participation_level
+      label: Participation Level
+      hint: null
+      type: select_one
+      options:
+      - First year participant
+      - Returning participant
+      - Not sure
+      required: true
+    - id: 15
+      name: club_focus
+      label: Primary Club Focus Area
+      hint: null
+      type: select_one
+      options:
+      - Agriculture
+      - STEM and Technology
+      - Leadership
+      - Service and Community
+      - Healthy Living
+      - Other
+      required: true
+    - id: 16
+      name: section_interests
+      label: -- Child's Interests --
+      hint: What topics interest your child
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: child_interests
+      label: Child's Interests or Hobbies
+      hint: null
+      type: select_multiple
+      options:
+      - Science
+      - Animals and agriculture
+      - Art and crafts
+      - Music
+      - Sports
+      - Reading
+      - Computer technology
+      - Community service
+      required: true
+    - id: 18
+      name: learning_goals
+      label: Learning Goals for This Year
+      hint: What child hopes to learn
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_health
+      label: -- Health and Safety Information --
+      hint: Important medical information
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: allergies
+      label: Allergies
+      hint: Food, environmental, or other
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_conditions
+      label: Significant Medical Conditions
+      hint: Asthma, diabetes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medications
+      label: Medications the Child Takes
+      hint: List any medications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Other adult to contact if needed
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: parental_consent
+      label: I consent to my child's participation in Clover Kids
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true

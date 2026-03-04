@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Education Assessment
+    pages:
+    - id: 1
+      name: assessment_id
+      label: Assessment ID
+      hint: Unique assessment identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: Name of educational institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: district
+      label: School District
+      hint: School district name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Select grade level
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 6
+      name: subject_area
+      label: Subject Area
+      hint: Select subject area
+      type: select_one
+      options:
+      - Mathematics
+      - English Language Arts
+      - Science
+      - Social Studies
+      - Foreign Language
+      - Arts
+      - Physical Education
+      - Technology
+      - Other
+      required: true
+    - id: 7
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of teacher
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assessment_type
+      label: Assessment Type
+      hint: Type of assessment
+      type: select_one
+      options:
+      - Formative Assessment
+      - Summative Assessment
+      - Diagnostic Assessment
+      - Benchmark Assessment
+      - Performance Assessment
+      - Portfolio Assessment
+      - Standardized Test
+      - Other
+      required: true
+    - id: 11
+      name: assessment_method
+      label: Assessment Method
+      hint: Method used for assessment
+      type: select_one
+      options:
+      - Written Test
+      - Oral Examination
+      - Practical Demonstration
+      - Project Based
+      - Observation
+      - Portfolio Review
+      - Performance Task
+      - Other
+      required: true
+    - id: 12
+      name: total_possible_score
+      label: Total Possible Score
+      hint: Maximum possible score
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: student_score
+      label: Student Score
+      hint: Score achieved by student
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: percentage_score
+      label: Percentage Score
+      hint: Percentage score achieved
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: proficiency_level
+      label: Proficiency Level
+      hint: Student proficiency level
+      type: select_one
+      options:
+      - Advanced
+      - Proficient
+      - Basic
+      - Below Basic
+      - Not Assessed
+      required: true
+    - id: 16
+      name: learning_objectives_met
+      label: Learning Objectives Met
+      hint: Which learning objectives were met
+      type: select_multiple
+      options:
+      - Knowledge and Understanding
+      - Application and Analysis
+      - Critical Thinking
+      - Communication Skills
+      - Collaboration
+      - Creativity
+      - Problem Solving
+      - Technical Skills
+      required: true
+    - id: 17
+      name: student_strengths
+      label: Student Strengths
+      hint: Describe student strengths
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: areas_needing_support
+      label: Areas Needing Support
+      hint: Describe areas where support is needed
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: accommodations_provided
+      label: Accommodations Provided
+      hint: List any accommodations provided
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: parent_notification_date
+      label: Parent Notification Date
+      hint: Date parents were notified
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: intervention_recommended
+      label: Intervention Recommended
+      hint: Is intervention recommended
+      type: select_one
+      options:
+      - Yes, Immediate Intervention
+      - Yes, Ongoing Support
+      - Monitoring Only
+      - No Intervention Needed
+      - Enrichment Recommended
+      required: true
+    - id: 22
+      name: intervention_description
+      label: Intervention Description
+      hint: Describe recommended intervention
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_date
+      label: Follow Up Date
+      hint: Date for follow up assessment
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: teacher_comments
+      label: Teacher Comments
+      hint: Additional teacher comments
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

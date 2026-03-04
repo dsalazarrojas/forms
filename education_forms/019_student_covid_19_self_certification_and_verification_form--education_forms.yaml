@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Self Certification And Verification Form
+    pages:
+    - id: 1
+      name: student_covid_19_self_certification_and_verification_form_page
+      label: Daily Symptom Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_covid_19_self_certification_and_verification_form_page_2
+      label: Has any of the following symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Sore Throat
+      - Runny Nose/Blocked Nose
+      - Difficulty Breathing
+      - Shortness of Breath
+      - Muscle or body aches
+      - Headache
+      - New or worsening headache
+      - Loss of taste or smell
+      - Diarrhea
+      - Nausea or vomiting
+      - Abdominal pain
+      - Chest pain
+      - Fatigue
+      - Chills
+      - Sore Throat
+      - New or worsening confusion or changing mental status
+      - New or worsening confusion or change in mental status
+      - New or worsening confusion
+      - New or worsening change in mental status
+      - New or worsening confusion or change in mental status
+      - New or worsening confusion
+      - New or worsening change in mental status
+      required: false
+    - id: 3
+      name: student_covid_19_self_certification_and_verification_form_page_3
+      label: Have you traveled recently?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: student_covid_19_self_certification_and_verification_form_page_4
+      label: Have you come into close contact with anyone who has COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: student_covid_19_self_certification_and_verification_form_page_5
+      label: Have you been in close contact with someone with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: student_covid_19_self_certification_and_verification_form_page_6
+      label: Have you taken a COVID-19 test?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: student_covid_19_self_certification_and_verification_form_page_7
+      label: How long has it been since you took the test?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_covid_19_self_certification_and_verification_form_page_8
+      label: Have you travelled recently?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

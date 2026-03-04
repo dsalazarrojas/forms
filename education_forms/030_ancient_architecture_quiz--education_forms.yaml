@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Architecture Quiz
+    pages:
+    - id: 1
+      name: section_instructions
+      label: -- Quiz Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name to record result
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_1
+      label: Which structure is an example of Roman architecture
+      hint: Choose one
+      type: select_one
+      options:
+      - Colosseum
+      - Parthenon
+      - Pyramid of Giza
+      required: true
+    - id: 4
+      name: question_2
+      label: Primary material used in Greek temples
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: estimated_score
+      label: Estimated score
+      hint: Instructor use
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback from student
+      hint: Optional comments about the quiz
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: I agree to have my responses recorded
+      hint: Select yes to consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

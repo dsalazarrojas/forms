@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mark Lesson As Completed
+    pages:
+    - id: 1
+      name: lesson_page
+      label: Lesson Completion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: lesson_completion_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: trainer_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false

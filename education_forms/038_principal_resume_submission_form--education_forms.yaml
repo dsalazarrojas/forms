@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Principal Resume Submission Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: position_applied_for
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Principal
+      - Teacher
+      - Other
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: 'Must match format: "name@example.com"'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resume_attachments
+      label: Resume Attachments
+      hint: Upload up to 5 files
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false

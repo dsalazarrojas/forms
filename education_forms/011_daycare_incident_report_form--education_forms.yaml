@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Incident Report Form
+    pages:
+    - id: 1
+      name: daycare_incident_report_form
+      label: Daycare Incident Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: report_by
+      label: Report By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: daycare_name
+      label: Daycare Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: daycare_address
+      label: Daycare Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_phone_number
+      label: Witness Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Child Abuse
+      - Child Neglect
+      - Child Abduction
+      - Other
+      required: false
+    - id: 17
+      name: incident_description_type
+      label: Incident Description Type
+      hint: null
+      type: select_one
+      options:
+      - Physical Injury
+      - Emotional Injury
+      - Property Damage
+      - Other
+      required: false
+    - id: 18
+      name: incident_description_detail
+      label: Incident Description Detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: staff_involved
+      label: Staff Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: staff_member
+      label: Staff Member Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parent_concerned
+      label: Parent Concerned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: staff_concerned
+      label: Staff Concerned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: follow_up_by
+      label: Follow Up By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false

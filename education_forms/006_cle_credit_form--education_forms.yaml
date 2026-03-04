@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: CLE Credit Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Application for CLE Credit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name as to appear on certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bar_number
+      label: Bar number
+      hint: Enter bar or license number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Used to send confirmation and certificate
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: course_title
+      label: Course title
+      hint: Name of CLE program attended
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_date
+      label: Course date
+      hint: Date the CLE occurred
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: credit_hours_requested
+      label: Credit hours requested
+      hint: Number of CLE hours to be awarded
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supporting_document_upload
+      label: Supporting document filename
+      hint: List documents submitted for verification
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval status
+      hint: For administrator use
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 10
+      name: admin_notes
+      label: Administrator notes
+      hint: Internal comments regarding application
+      type: text
+      options: []
+      required: false

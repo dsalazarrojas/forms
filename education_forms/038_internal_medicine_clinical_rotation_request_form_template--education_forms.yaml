@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Medicine Clinical Rotation Request Form Template
+    pages:
+    - id: 1
+      name: rotation_request_details
+      label: Rotation Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rotation_length
+      label: Rotation Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rotation_start_date
+      label: Rotation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rotation_end_date
+      label: Rotation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rotation_type
+      label: Rotation Type
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Clinical
+      - Elective
+      required: false
+    - id: 7
+      name: rotation_preceptor_name
+      label: Rotation Preceptor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rotation_location
+      label: Rotation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rotation_supervisor_name
+      label: Rotation Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rotation_supervisor_email
+      label: Rotation Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: rotation_preceptor_email
+      label: Rotation Preceptor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: rotation_supervisor_phone
+      label: Rotation Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rotation_requester_name
+      label: Rotation Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rotation_requester_email
+      label: Rotation Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: rotation_requester_phone
+      label: Rotation Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rotation_status
+      label: Rotation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 17
+      name: rotation_comment
+      label: Rotation Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: rotation_additional_comments
+      label: Rotation Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: rotation_education_credit
+      label: Rotation Educational Credit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: false
+    - id: 20
+      name: rotation_evaluation_status
+      label: Rotation Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Evaluated
+      required: false

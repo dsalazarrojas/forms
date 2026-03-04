@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: permission_to_walk_home_alone_form
+    pages:
+    - id: 1
+      name: title
+      label: Permission To Walk Home Alone Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Education Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other Tool
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

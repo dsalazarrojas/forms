@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Package Registration Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: parent-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_preferences
+      label: preferred-session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: session_time
+      label: session-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: channel
+      label: channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned-user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: parent_notes
+      label: parent-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_notes
+      label: student-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: channel_source
+      label: channel-source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: preferred_session_time
+      label: preferred-session-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: channel_leading_source
+      label: channel-leading-source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: assigned_form_id
+      label: assigned-form-id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: channel_source_id
+      label: channel-source-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: session_time_id
+      label: session-time-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_form_name
+      label: assigned-form-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_form_category
+      label: assigned-form-category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: parent_name
+      label: parent-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: student_name
+      label: student-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: channel_id
+      label: channel-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_session
+      label: preferred-session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: form-id
+      hint: null
+      type: text
+      options: []
+      required: true

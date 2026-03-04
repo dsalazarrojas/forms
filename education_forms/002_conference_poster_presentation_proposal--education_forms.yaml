@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Poster Presentation Proposal
+    pages:
+    - id: 1
+      name: presenter_name
+      label: Primary Presenter Full Name
+      hint: Enter your complete name as it should appear
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: presenter_title
+      label: Professional Title
+      hint: Your current academic or professional title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: Institution or Organization
+      hint: Name of your university company or research institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number for correspondence
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: co_presenters
+      label: Co-Presenters
+      hint: List names and affiliations of co-presenters if any
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: poster_title
+      label: Poster Presentation Title
+      hint: Full title of your poster presentation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: abstract
+      label: Abstract
+      hint: Brief summary of your research or project 250 words max
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: keywords
+      label: Keywords
+      hint: 3-5 keywords that describe your work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_category
+      label: Research Category
+      hint: Select the primary category for your poster
+      type: select_one
+      options:
+      - Basic Sciences
+      - Clinical Research
+      - Education and Training
+      - Health Policy
+      - Technology and Innovation
+      - Public Health
+      - Other
+      required: true
+    - id: 11
+      name: presentation_preference
+      label: Presentation Format Preference
+      hint: Your preferred presentation style
+      type: select_one
+      options:
+      - Traditional Poster Board
+      - Digital Poster Display
+      - Either Format Acceptable
+      required: true
+    - id: 12
+      name: av_requirements
+      label: Audio Visual Requirements
+      hint: Will you need additional AV support
+      type: select_one
+      options:
+      - No AV Equipment Needed
+      - Projector for Video Loop
+      - Monitor for Digital Display
+      - Computer Station Access
+      required: true
+    - id: 13
+      name: poster_dimensions
+      label: Poster Dimensions
+      hint: Specify if you have special size requirements
+      type: select_one
+      options:
+      - Standard 48x36 inches
+      - Standard A0 Size
+      - Custom Size - Will Specify Later
+      - Digital Only
+      required: true
+    - id: 14
+      name: previous_presentations
+      label: Has this work been presented before
+      hint: Has this poster been presented at other venues
+      type: select_one
+      options:
+      - No This is Original
+      - Yes Previously Presented
+      - Partially Similar Content Presented
+      required: true
+    - id: 15
+      name: publication_interest
+      label: Interest in Publication
+      hint: Are you interested in publishing this work
+      type: select_one
+      options:
+      - Yes Interested
+      - No Not Interested
+      - Maybe Depending on Feedback
+      required: false
+    - id: 16
+      name: student_status
+      label: Are you currently a student
+      hint: Student presenters may qualify for awards
+      type: select_one
+      options:
+      - Yes Undergraduate Student
+      - Yes Graduate Student
+      - Yes Doctoral Student
+      - No Not a Student
+      required: true
+    - id: 17
+      name: travel_grant_needed
+      label: Travel Grant Interest
+      hint: Would you like to be considered for travel support
+      type: select_one
+      options:
+      - Yes Please Consider Me
+      - No Funding Already Secured
+      - No Funding Not Needed
+      required: false
+    - id: 18
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Any accessibility requirements we should know
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: references
+      label: Key References
+      hint: List 2-3 key references if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_agreement
+      label: I certify this is my original work and agree to presentation terms
+      hint: By submitting you confirm original authorship
+      type: select_one
+      options:
+      - I Agree and Certify
+      - I Do Not Agree
+      required: true

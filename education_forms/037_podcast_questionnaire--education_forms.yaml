@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Questionnaire
+    pages:
+    - id: 1
+      name: topics_to_cover
+      label: Topics To Cover
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: topic_name
+      label: Topic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: topic_description
+      label: Topic Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: topic_length
+      label: Topic Length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: time_for_session
+      label: Time For Session
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_length
+      label: Session Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: topic_frequency
+      label: Topic Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

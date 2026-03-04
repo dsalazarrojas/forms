@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Learning Support Hub Access Request Form
+    pages:
+      - id: 1
+        name: section_request_information
+        label: -- Request Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Full name of student or staff
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: Contact for access confirmation
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: affiliation
+        label: Affiliation or program
+        hint: Department or study program
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: access_reason
+        label: Reason for access
+        hint: Purpose for joining support hub
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: preferred_support_services
+        label: Preferred support services
+        hint: Select services you wish to access
+        type: select_multiple
+        options:
+          - Tutoring
+          - Study skills workshops
+          - Peer mentoring
+          - Accessibility services
+          - Counseling referral
+        required: false
+      - id: 7
+        name: urgency_level
+        label: Urgency level for support
+        hint: How soon support is needed
+        type: select_one
+        options:
+          - Immediate
+          - Within a week
+          - Within a month
+          - Not urgent
+        required: false
+      - id: 8
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Any accommodations required
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: preferred_contact_method
+        label: Preferred contact method
+        hint: How staff should reach you
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - Text
+        required: false
+      - id: 10
+        name: additional_information
+        label: Additional information
+        hint: Any other context for request
+        type: text
+        options: []
+        required: false

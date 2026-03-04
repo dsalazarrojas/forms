@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Extracurricular Interest Poll Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: club_interest
+      label: Are you interested in joining any of the clubs listed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: clubs_1
+      label: Chess Club
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: clubs_2
+      label: Drama Club
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: clubs_3
+      label: Debate Club
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sport_interest
+      label: Which sports would you be interested in joining?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sports_1
+      label: Soccer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sports_2
+      label: Basketball
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: sports_3
+      label: Tennis
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: enrichment_interest
+      label: Which enrichment activities would you be interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: enrichment_1
+      label: Coding Club
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: enrichment_2
+      label: Art Studio
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: enrichment_3
+      label: Robotics Club
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: other_club_interest
+      label: Is there an interest in a club that is not listed?
+      hint: Please specify the name of the club.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_club_name
+      label: Name of the club -
+      hint: Please enter the name of the club.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_club_description
+      label: Description of the club -
+      hint: Please enter a brief description of the club.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_club_formation
+      label: Formation of the club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_club_status
+      label: Status of the club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_club_interest
+      label: How likely are you to be involved in school clubs?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: school_sport_interest
+      label: How likely are you to be involved in school sports?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: school_enrichment_interest
+      label: How likely are you to be involved in school enrichment activities?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_sport_interest
+      label: Which sports would you be interested in outside of school?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: other_sport_name_1
+      label: Name of the sport -
+      hint: Please enter the name of the sport.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_sport_name_2
+      label: Name of the sport -
+      hint: Please enter the name of the sport.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_sport_description_1
+      label: Description of the sport -
+      hint: Please enter a brief description of the sport.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: other_sport_description_2
+      label: Description of the sport -
+      hint: Please enter a brief description of the sport.
+      type: text
+      options: []
+      required: false

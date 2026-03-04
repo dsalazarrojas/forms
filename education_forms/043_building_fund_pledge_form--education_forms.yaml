@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Fund Pledge Form
+    pages:
+    - id: 1
+      name: donor_name
+      label: Donor Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: spouse_name
+      label: Spouse Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pledge_date
+      label: Pledge Date
+      hint: Date of pledge
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: fund_campaign
+      label: Fund Campaign
+      hint: Which campaign
+      type: select_one
+      options:
+      - General Building Fund
+      - New Construction
+      - Renovation Project
+      - Expansion Project
+      - Capital Campaign
+      - Emergency Fund
+      - Other
+      required: true
+    - id: 11
+      name: pledge_amount
+      label: Total Pledge Amount
+      hint: Total amount pledged
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_frequency
+      label: Payment Frequency
+      hint: How will you pay
+      type: select_one
+      options:
+      - One-Time Payment
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 13
+      name: payment_duration
+      label: Payment Duration
+      hint: Over what period
+      type: select_one
+      options:
+      - Complete by End of Year
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 4 Years
+      - 5 Years
+      - Other
+      required: true
+    - id: 14
+      name: first_payment_date
+      label: First Payment Date
+      hint: When to start
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Check
+      - Credit Card
+      - Bank Transfer
+      - Stock Transfer
+      - Other Assets
+      - Cash
+      required: true
+    - id: 16
+      name: credit_card_type
+      label: Credit Card Type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      - Not Applicable
+      required: false
+    - id: 17
+      name: anonymous_pledge
+      label: Anonymous Pledge
+      hint: Should this be anonymous
+      type: select_one
+      options:
+      - No - Use My Name
+      - Yes - Anonymous
+      - Yes - Anonymous to Public Only
+      required: true
+    - id: 18
+      name: honor_memory
+      label: In Honor or Memory Of
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: matching_gift
+      label: Employer Matching Gift
+      hint: Will your employer match
+      type: select_one
+      options:
+      - Yes - Will Submit
+      - Yes - Already Submitted
+      - false
+      - Not Sure
+      required: true
+    - id: 20
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer
+      type: select_one
+      options:
+      - Yes - Interested
+      - No - Not Available
+      - Maybe
+      required: true
+    - id: 21
+      name: volunteer_skills
+      label: Skills or Services
+      hint: What can you offer
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: communication_preference
+      label: Communication Preference
+      hint: How to update you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No Updates Needed
+      required: true
+    - id: 23
+      name: tax_receipt
+      label: Tax Receipt
+      hint: Where to send receipt
+      type: select_one
+      options:
+      - Email Address Above
+      - Mailing Address Above
+      - Different Address
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_acknowledgment
+      label: Pledge Acknowledgment
+      hint: I commit to this pledge
+      type: select_one
+      options:
+      - Yes - I Commit
+      - false
+      required: true

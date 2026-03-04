@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: exam_process_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How was your examination experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: exam_process
+      label: Was the examination process clear and well-organized?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: exam_questions
+      label: Were the questions clear and relevant?
+      hint: null
+      type: select_multiple
+      options:
+      - Very clear
+      - Somewhat clear
+      - Not clear at all
+      - Don't know
+      required: false
+    - id: 4
+      name: exam_duration
+      label: Was the exam duration reasonable?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: feedback
+      label: Do you have any suggestions or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course
+      label: What course were you taking during the exam?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exam_location
+      label: Where did the exam take place?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date of examination
+      hint: null
+      type: date
+      options: []
+      required: false

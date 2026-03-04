@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Research Collaboration Registration Form
+    pages:
+    - id: 1
+      name: teacher_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: institution_name
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_description
+      label: Research Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: collaboration_details
+      label: Collaboration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acoustics Knowledge Quiz
+    pages:
+    - id: 1
+      name: student_info
+      label: -- Student information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name for grading
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Optional course or school ID
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: q1_wave_properties
+      label: Which property describes frequency
+      hint: Select the best option
+      type: select_one
+      options:
+        - Number of cycles per second
+        - Distance of wave peak
+        - Loudness
+      required: true
+    - id: 5
+      name: q2_sound_speed
+      label: Which factor increases sound speed
+      hint: Choose the correct factor
+      type: select_one
+      options:
+        - Higher temperature
+        - Lower frequency
+        - Higher humidity
+      required: true
+    - id: 6
+      name: q3_decibel_scale
+      label: Decibel scale measures
+      hint: Select one
+      type: select_one
+      options:
+        - Sound pressure level
+        - Wave length
+        - Resonance frequency
+      required: true
+    - id: 7
+      name: q4_room_acoustics
+      label: What reduces reverberation
+      hint: Choose the most effective method
+      type: select_one
+      options:
+        - Absorptive materials
+        - Hard reflective surfaces
+        - Increasing room volume
+      required: true
+    - id: 8
+      name: q5_noise_control
+      label: Best approach to control noise at source
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: q6_practical_application
+      label: Practical application of acoustics knowledge
+      hint: Give an example of acoustics in design
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date quiz submitted
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Education Resource Access Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_type
+      label: Institution Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''University'', ''value'': ''university''}'
+      - '{''label'': ''Clinic'', ''value'': ''clinic''}'
+      - '{''label'': ''Educator'', ''value'': ''educator''}'
+      required: false
+    - id: 3
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Textbook'', ''value'': ''textbook''}'
+      - '{''label'': ''Video'', ''value'': ''video''}'
+      - '{''label'': ''Document'', ''value'': ''document''}'
+      required: false
+    - id: 5
+      name: resource_name
+      label: Resource Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

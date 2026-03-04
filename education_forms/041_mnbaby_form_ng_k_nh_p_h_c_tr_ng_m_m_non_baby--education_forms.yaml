@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mnbaby Form Đăng Ký Nhập Học Trường Mầm Non Baby
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Education''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_category
+      label: form_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''draft''}'
+      - '{''value'': ''archived''}'
+      required: false
+    - id: 14
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: true

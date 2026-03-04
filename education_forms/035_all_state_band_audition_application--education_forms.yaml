@@ -1,0 +1,339 @@
+inputSchema:
+  type: object
+  properties:
+    title: All State Band Audition Application
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Student first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Student last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Your school
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: school_address
+      label: School Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_email
+      label: Parent/Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_phone
+      label: Parent/Guardian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: home_address
+      label: Home Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: primary_instrument
+      label: Primary Instrument
+      hint: Main instrument
+      type: select_one
+      options:
+      - Flute
+      - Clarinet
+      - Saxophone
+      - Oboe
+      - Bassoon
+      - Trumpet
+      - French Horn
+      - Trombone
+      - Euphonium
+      - Tuba
+      - Percussion
+      - String Bass
+      required: true
+    - id: 13
+      name: secondary_instrument
+      label: Secondary Instrument
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: years_playing
+      label: Years Playing Instrument
+      hint: How long have you played?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: private_lessons
+      label: Currently Taking Private Lessons?
+      hint: Do you take lessons?
+      type: select_one
+      options:
+      - Yes, weekly
+      - Yes, bi-weekly
+      - Yes, monthly
+      - false
+      required: true
+    - id: 16
+      name: teacher_name
+      label: Private Teacher Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_band_director
+      label: School Band Director
+      hint: Director name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: director_email
+      label: Director Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: audition_category
+      label: Audition Category
+      hint: Which ensemble?
+      type: select_one
+      options:
+      - Symphonic Band
+      - Concert Band
+      - Jazz Band
+      - Chamber Ensemble
+      required: true
+    - id: 20
+      name: prepared_pieces
+      label: Prepared Pieces
+      hint: List pieces you will perform
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: scales_prepared
+      label: Scales Prepared
+      hint: Which scales can you play?
+      type: select_multiple
+      options:
+      - All major scales
+      - All minor scales
+      - Chromatic scale
+      - Arpeggios
+      - Limited scales
+      required: true
+    - id: 22
+      name: audition_date_preference
+      label: Audition Date Preference
+      hint: Preferred date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: audition_time_preference
+      label: Audition Time Preference
+      hint: Preferred time
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 4 PM)
+      - Evening (4 PM - 7 PM)
+      - Any time
+      required: true
+    - id: 24
+      name: audition_location_preference
+      label: Audition Location Preference
+      hint: Preferred venue
+      type: select_one
+      options:
+      - North Region
+      - South Region
+      - East Region
+      - West Region
+      - Central Region
+      - Any location
+      required: true
+    - id: 25
+      name: previous_all_state_experience
+      label: Previous All-State Experience
+      hint: Have you auditioned before?
+      type: select_one
+      options:
+      - First time auditioning
+      - Auditioned but not selected
+      - Selected for regional
+      - Selected for all-state before
+      required: true
+    - id: 26
+      name: honor_bands_participated
+      label: Honor Bands Participated
+      hint: List any honor bands
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: music_theory_background
+      label: Music Theory Background
+      hint: Years of theory study
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: sight_reading_ability
+      label: Sight-Reading Ability
+      hint: Rate your ability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs improvement
+      required: true
+    - id: 29
+      name: recording_submitted
+      label: Recording Submitted
+      hint: Have you submitted a recording?
+      type: select_one
+      options:
+      - Yes, with application
+      - Will submit separately
+      - Not required
+      required: true
+    - id: 30
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Need ride to audition?
+      type: select_one
+      options:
+      - No, I have transportation
+      - Yes, need assistance
+      required: false
+    - id: 31
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Special needs?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For event shirt
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      required: false
+    - id: 33
+      name: additional_honors
+      label: Additional Musical Honors
+      hint: Any other achievements
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: why_all_state
+      label: Why Do You Want to Join All-State Band?
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: music_goals
+      label: Your Music Goals
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: teacher_recommendation
+      label: Teacher Recommendation Attached
+      hint: Has teacher submitted recommendation?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 37
+      name: application_fee_paid
+      label: Application Fee Paid
+      hint: Fee status
+      type: select_one
+      options:
+      - Yes, paid
+      - No, will pay
+      - Fee waiver requested
+      required: true
+    - id: 38
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

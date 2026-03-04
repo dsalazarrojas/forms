@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_exam_proctoring_feedback_form
+    pages:
+    - id: 1
+      name: exam_title
+      label: What was the title of the exam?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_proctoring_experience
+      label: What was your prophets proctoring experience like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exam_proctoring_prophet
+      label: Proctor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exam_proctoring_instrumentality
+      label: Did you feel prophets were adequately instrumentality
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 5
+      name: exam_proctoring_fairness
+      label: Did you feel the proctoring was fair?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 6
+      name: exam_proctoring_effectiveness
+      label: How effective was the prophets?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

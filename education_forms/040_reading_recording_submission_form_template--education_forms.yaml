@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: reading_recording_submission_form_template
+    pages:
+    - id: 1
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reading_assignment_id
+      label: reading_assignment_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: recording_url
+      label: recording_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_reading_level
+      label: reading_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 8
+      name: teacher_notes
+      label: teacher_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reading_date
+      label: reading_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reading_time
+      label: reading_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: form_completed
+      label: form_completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: form_reviewed
+      label: form_reviewed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - reviewed
+      required: true
+    - id: 18
+      name: teacher_rating
+      label: teacher_rating
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      required: false
+    - id: 19
+      name: student_rating
+      label: student_rating
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      required: false
+    - id: 20
+      name: comments_from_teacher
+      label: comments_from_teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments_from_student
+      label: comments_from_student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recording_notes
+      label: recording_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

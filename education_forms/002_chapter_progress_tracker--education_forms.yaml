@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Progress Tracker
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: For tracking and communication purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course or Book Title
+      hint: What are you tracking progress for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor or Course Coordinator
+      hint: Name of the instructor leading this course
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_progress_tracking
+      label: -- Progress Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_chapters_sections
+      label: Total Number of Chapters or Sections
+      hint: How many chapters does the course have
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: chapters_completed
+      label: Chapters or Sections Completed
+      hint: How many have you finished
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: completion_percentage
+      label: Completion Percentage
+      hint: What percent of the course have you completed
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Course Start Date
+      hint: When did you begin this course
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: When do you plan to finish
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: current_chapter_number
+      label: Current Chapter Number
+      hint: Which chapter are you on right now
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_assessment
+      label: -- Assessment and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: comprehension_level
+      label: Your Comprehension Level
+      hint: How well do you understand the material
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 15
+      name: pace_assessment
+      label: Is the Pace Appropriate
+      hint: Is the course moving at a good speed for you
+      type: select_one
+      options:
+      - Too Fast
+      - Good Pace
+      - Too Slow
+      required: false
+    - id: 16
+      name: learning_challenges
+      label: Learning Challenges or Obstacles
+      hint: What difficulties have you encountered
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: favorite_topics
+      label: Favorite Topics or Sections
+      hint: What content has been most interesting to you
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participation_level
+      label: Class Participation Level
+      hint: How actively have you participated
+      type: select_one
+      options:
+      - Very Active
+      - Active
+      - Moderate
+      - Minimal
+      required: false
+    - id: 19
+      name: last_update_date
+      label: Last Update Date
+      hint: When did you last update this progress
+      type: date
+      options: []
+      required: true

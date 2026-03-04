@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Education Session Registration Form
+    pages:
+    - id: 1
+      name: marketing_education_session_registration_form_page_1
+      label: Marketing Education Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person_page_2
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''John Doe''}'
+      required: true
+    - id: 3
+      name: email_page_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_page_4
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

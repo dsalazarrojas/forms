@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctoral Program Completion Rate Report
+    pages:
+    - id: 1
+      name: form_section_1
+      label: Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cohort
+      label: Cohort
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: completion_rate
+      label: Completion Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_programs_completed
+      label: Total Programs Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_students_enrolled
+      label: Total Students Enrolled
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_students_completed
+      label: Total Students Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_students_active
+      label: Total Students Active
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_students_inactive
+      label: Total Students Inactive
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: program_type_options
+      label: Program Type Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: institution_options
+      label: Institution Options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: program_status_options
+      label: Program Status Options
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: completion_rate_options
+      label: Completion Rate Options
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 18
+      name: start_date_options
+      label: Start Date Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: end_date_options
+      label: End Date Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: year_01
+      label: Year 01
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: year_02
+      label: Year 02
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: year_03
+      label: Year 03
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: year_04
+      label: Year 04
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: math_student_registration_form
+    pages:
+    - id: 1
+      name: math_student_details
+      label: Math Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_course_selection
+      label: Select A Math Course
+      hint: null
+      type: select_multiple
+      options:
+      - Calculus
+      - Algebra
+      - Geometry
+      required: false
+    - id: 3
+      name: student_tutor_request
+      label: Student Tutor Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: math_tutor_name
+      label: Math Tutor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: math_tutor_availability
+      label: Math Tutor Availability
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 9
+      name: math_tutor_qualifications
+      label: Math Tutor Qualifications
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: math_tutor_rate
+      label: Math Tutor Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_agreement
+      label: Student Agreement
+      hint: null
+      type: note
+      options: []
+      required: false

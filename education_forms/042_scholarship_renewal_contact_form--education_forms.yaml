@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Renewal Contact Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scholarship_id
+      label: Scholarship Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_office_number
+      label: Contact Office Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_office_address
+      label: Contact Office Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_office_email
+      label: Contact Office Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: scholarship_status
+      label: Scholarship Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - on hold
+      required: false
+    - id: 13
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - on hold
+      required: false
+    - id: 14
+      name: academic_status
+      label: Academic Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - on hold
+      required: false
+    - id: 15
+      name: renewal_date
+      label: Renewal Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: renewal_time
+      label: Renewal Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: renewal_reason
+      label: Renewal Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_reason
+      label: Contact Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: renewal_request
+      label: Renewal Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Save and Continue
+      - Save and Finish
+      required: false

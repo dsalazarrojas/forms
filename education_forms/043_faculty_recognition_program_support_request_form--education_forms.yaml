@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Recognition Program Support Request Form
+    pages:
+    - id: 1
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: faculty_name
+      label: faculty_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: faculty_title
+      label: faculty_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recognition_category
+      label: recognition_category
+      hint: null
+      type: select_multiple
+      options:
+      - Award
+      - Honorable Mention
+      - Meritorious Performance
+      required: true
+    - id: 6
+      name: reason_for_recognition
+      label: reason_for_recognition
+      hint: Provide a detailed description of why the faculty member should be recognized
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_event
+      label: time_of_event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Workshop
+      - Seminar
+      - Symposium
+      - Other
+      required: true
+    - id: 10
+      name: recognition_date
+      label: recognition_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hoist Inspection Pre Operation Checklist
+    pages:
+    - id: 1
+      name: crane_operators
+      label: crane_operators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_procedure
+      label: safety_procedure
+      hint: null
+      type: select_one
+      options:
+      - A1
+      - A2
+      - A3
+      - B1
+      - B2
+      - B3
+      required: false
+    - id: 4
+      name: inspection_items
+      label: inspection_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: crane_status
+      label: crane_status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Warning
+      - Critical
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: crane_operators_2
+      label: crane_operators_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: goals_2
+      label: goals_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: safety_procedure_2
+      label: safety_procedure_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: inspection_items_2
+      label: inspection_items_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: text
+      options: []
+      required: false

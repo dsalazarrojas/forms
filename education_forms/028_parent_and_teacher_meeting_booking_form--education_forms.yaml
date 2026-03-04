@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: parent_and_teacher_meeting_booking_form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guardian_details
+      label: Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: available_slots
+      label: Available Slots
+      hint: null
+      type: select_one
+      options:
+      - slot_1
+      - slot_2
+      - slot_3
+      required: true
+    - id: 6
+      name: selected_teacher
+      label: Select Teacher
+      hint: null
+      type: select_multiple
+      options:
+      - teacher_1
+      - teacher_2
+      - teacher_3
+      required: true
+    - id: 7
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false

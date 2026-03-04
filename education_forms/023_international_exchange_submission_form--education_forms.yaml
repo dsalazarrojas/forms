@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_exchange_submission_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: semester
+      label: semester
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_additional_document
+      label: upload_additional_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_time
+      label: submit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submit_date_time
+      label: submit_date_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submit_date_time2
+      label: submit_date_time2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Submitted
+      - Completed
+      - Rejected
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false

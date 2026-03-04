@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Contact Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: Please describe the reason for your contact
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 8
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false

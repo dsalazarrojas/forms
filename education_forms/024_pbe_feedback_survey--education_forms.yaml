@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: pbe_feedback_survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_performance
+      label: teacher_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: teacher_feedback
+      label: teacher_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_performance
+      label: student_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: teacher_support
+      label: teacher_support
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: teacher_directions
+      label: teacher_directions
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: student_motivation
+      label: student_motivation
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: teacher_classwork
+      label: teacher_classwork
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: teacher_clarity
+      label: teacher_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: student_clarity
+      label: student_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: teacher_effectiveness
+      label: teacher_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 13
+      name: teacher_presentation
+      label: teacher_presentation
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: teacher_feedback_frequency
+      label: teacher_feedback_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 15
+      name: student_feedback_frequency
+      label: student_feedback_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: teacher_time_management
+      label: teacher_time_management
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: student_time_management
+      label: student_time_management
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Good
+      - Fair
+      - Poor
+      required: false

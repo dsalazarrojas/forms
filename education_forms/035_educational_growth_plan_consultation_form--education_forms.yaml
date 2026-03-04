@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Growth Plan Consultation Form
+    pages:
+    - id: 1
+      name: student_goals
+      label: Student Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: academic_challenges
+      label: Academic Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: educational_support
+      label: Educational Support
+      hint: null
+      type: select_one
+      options:
+      - Student Advisor
+      - Parent
+      - Teacher
+      required: false
+    - id: 4
+      name: student_performance_data
+      label: Student Performance Data
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

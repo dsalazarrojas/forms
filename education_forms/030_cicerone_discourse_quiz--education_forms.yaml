@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cicerone Discourse Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For quiz results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: brewery_name
+      label: Brewery or Establishment Name
+      hint: Where you work
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position
+      label: Your Position
+      hint: null
+      type: select_one
+      options:
+      - Brewer
+      - Bartender
+      - Server
+      - Manager
+      - Owner
+      - Beer Educator
+      - Other
+      required: true
+    - id: 6
+      name: experience_level
+      label: Beer Knowledge Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 7
+      name: cicerone_level
+      label: Current Cicerone Certification Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Certified Beer Server
+      - Certified Cicerone
+      - Advanced Cicerone
+      - Master Cicerone
+      required: true
+    - id: 8
+      name: question_1
+      label: Question 1 - What is the primary ingredient in beer
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Barley
+      - Water
+      - Hops
+      - Yeast
+      required: true
+    - id: 9
+      name: question_2
+      label: Question 2 - What temperature should most lagers be served at
+      hint: null
+      type: select_one
+      options:
+      - 32-35°F
+      - 38-40°F
+      - 45-50°F
+      - 50-55°F
+      required: true
+    - id: 10
+      name: question_3
+      label: Question 3 - Which hop variety is known for citrus and pine aromas
+      hint: null
+      type: select_one
+      options:
+      - Saaz
+      - Fuggle
+      - Cascade
+      - Hallertau
+      required: true
+    - id: 11
+      name: question_4
+      label: Question 4 - What causes skunking in beer
+      hint: null
+      type: select_one
+      options:
+      - Heat exposure
+      - Light exposure
+      - Oxygen exposure
+      - Age
+      required: true
+    - id: 12
+      name: question_5
+      label: Question 5 - Which style is characterized by banana and clove flavors
+      hint: null
+      type: select_one
+      options:
+      - Pilsner
+      - Hefeweizen
+      - Stout
+      - IPA
+      required: true
+    - id: 13
+      name: question_6
+      label: Question 6 - What is the ABV range for a session beer
+      hint: null
+      type: select_one
+      options:
+      - Under 5%
+      - 5-7%
+      - 7-9%
+      - Over 9%
+      required: true
+    - id: 14
+      name: question_7
+      label: Question 7 - Which off-flavor is described as wet cardboard
+      hint: null
+      type: select_one
+      options:
+      - Diacetyl
+      - Acetaldehyde
+      - Oxidation
+      - DMS
+      required: true
+    - id: 15
+      name: question_8
+      label: Question 8 - What is the primary yeast characteristic in Belgian beers
+      hint: null
+      type: select_one
+      options:
+      - Clean fermentation
+      - Fruity and spicy
+      - Sour
+      - Smoky
+      required: true
+    - id: 16
+      name: question_9
+      label: Question 9 - Which glassware is best for a Belgian Tripel
+      hint: null
+      type: select_one
+      options:
+      - Pint glass
+      - Tulip glass
+      - Weizen glass
+      - Snifter
+      required: true
+    - id: 17
+      name: question_10
+      label: Question 10 - What does IBU stand for
+      hint: null
+      type: select_one
+      options:
+      - International Bitterness Units
+      - International Brewing Union
+      - Irish Beer Units
+      - Internal Bitterness Index
+      required: true
+    - id: 18
+      name: quiz_score
+      label: Self-Assessed Confidence Level
+      hint: How confident are you in your answers
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Not very confident
+      - Just guessing
+      required: true
+    - id: 19
+      name: topics_weak
+      label: Which Topics Do You Feel Less Confident About
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beer styles
+      - Brewing process
+      - Serving techniques
+      - Food pairing
+      - Beer storage
+      - Off-flavors
+      - History
+      required: false
+    - id: 20
+      name: further_training
+      label: Are You Interested in Further Training
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, thank you
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Any Additional Comments
+      hint: Feedback on the quiz
+      type: text
+      options: []
+      required: false

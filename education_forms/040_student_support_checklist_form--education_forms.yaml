@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Support Checklist Form
+    pages:
+    - id: 1
+      name: student_support_checklist_form
+      label: student_support_checklist_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_support_level
+      label: student_support_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: student_notes
+      label: student_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: staff_support_level
+      label: staff_support_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_reported_to
+      label: follow_reported_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: student_followups
+      label: student_followups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: staff_followups
+      label: staff_followups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: date_followed
+      label: date_followed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: follow_frequency
+      label: follow_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: follow_location
+      label: follow_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: follow_mode
+      label: follow_mode
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: staff_follow_mode
+      label: staff_follow_mode
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: next_follow_steps
+      label: next_follow_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_notes
+      label: follow_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: staff_comments
+      label: staff_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_type
+      label: follow_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: next_actions
+      label: next_actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: next_follow_actions
+      label: next_follow_actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

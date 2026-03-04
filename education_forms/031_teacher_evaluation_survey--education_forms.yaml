@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_evaluation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_rating
+      label: Teacher Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Needs Improvement''}'
+      required: false
+    - id: 3
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_why
+      label: Rating Why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_rating_score
+      label: Teacher Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: teacher_rating_likert
+      label: Teacher Rating Likert
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      required: false
+    - id: 8
+      name: teacher_rating_comments
+      label: Teacher Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_supportive
+      label: Teacher Supportive
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Always''}'
+      - '{''value'': ''Most of the time''}'
+      - '{''value'': ''Some of the time''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 10
+      name: teacher_helpful
+      label: Teacher Helpful
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Extremely Helpful''}'
+      - '{''value'': ''Somewhat Helpfu''}'
+      - '{''value'': ''Not Very Helpful''}'
+      - '{''value'': ''Not Helpful At All''}'
+      required: false
+    - id: 11
+      name: teacher_fair
+      label: Teacher Fair
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Always''}'
+      - '{''value'': ''Most of the time''}'
+      - '{''value'': ''Some of the time''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 12
+      name: teacher_fair_comments
+      label: Teacher Fair Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: teacher_supportive_comments
+      label: Teacher Supportive Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teacher_helpful_comments
+      label: Teacher Helpful Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: teacher_rating_scale
+      label: Teacher Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Needs Improvement''}'
+      required: false
+    - id: 17
+      name: student_satisfaction
+      label: Student Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Not Good''}'
+      required: false
+    - id: 18
+      name: parent_satisfaction
+      label: Parent Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Not Good''}'
+      required: false
+    - id: 19
+      name: teacher_evaluation
+      label: Teacher Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 20
+      name: teacher_recommendation
+      label: Teacher Recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Definitely Recommend''}'
+      - '{''value'': ''Somewhat Recommend''}'
+      - '{''value'': ''Neither''}'
+      - '{''value'': ''Definitely Not Recommend''}'
+      required: false
+    - id: 21
+      name: teacher_recommendation_comments
+      label: Teacher Recommendation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_recommendation
+      label: Student Recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Definitely Recommend''}'
+      - '{''value'': ''Somewhat Recommend''}'
+      - '{''value'': ''Neither''}'
+      - '{''value'': ''Definitely Not Recommend''}'
+      required: false
+    - id: 23
+      name: parent_recommendation
+      label: Parent Recommendation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Definitely Recommend''}'
+      - '{''value'': ''Somewhat Recommend''}'
+      - '{''value'': ''Neither''}'
+      - '{''value'': ''Definitely Not Recommend''}'
+      required: false
+    - id: 24
+      name: parent_recommendation_comments
+      label: Parent Recommendation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

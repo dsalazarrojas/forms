@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Streams Assessment Survey
+    pages:
+    - id: 1
+      name: study_streams
+      label: Which of the following study streams are available for you
+      hint: null
+      type: select_multiple
+      options:
+      - Streams A
+      - Streams B
+      - Streams C
+      required: false
+    - id: 2
+      name: teaching_methods
+      label: How do teachers provide instruction?
+      hint: null
+      type: select_one
+      options:
+      - Interactive
+      - Collaborative
+      - Traditional
+      required: false
+    - id: 3
+      name: teaching_formats
+      label: Which teaching formats are available for you?
+      hint: null
+      type: select_multiple
+      options:
+      - Format 1
+      - Format 2
+      - Format 3
+      required: false
+    - id: 4
+      name: student_feedback
+      label: What do you think about the study streams?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: student_opinions
+      label: Please provide any additional opinions or comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_recommendations
+      label: Do you have any recommendations?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: teaching_quality
+      label: How would you rate the quality of teaching?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: teaching_support
+      label: How would you rate the support of teachers?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: teaching_environment
+      label: How would you rate the teaching environment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: How satisfied are you overall?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: study_streams_liking
+      label: Which study stream do you like best?
+      hint: null
+      type: select_one
+      options:
+      - Streams A
+      - Streams B
+      - Streams C
+      required: false
+    - id: 13
+      name: teaching_formats_liking
+      label: Which teaching format do you like best?
+      hint: null
+      type: select_one
+      options:
+      - Format 1
+      - Format 2
+      - Format 3
+      required: false

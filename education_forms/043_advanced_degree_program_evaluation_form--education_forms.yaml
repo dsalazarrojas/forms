@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Degree Program Evaluation Form
+    pages:
+    - id: 1
+      name: section_prog
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: degree_program
+      label: Degree Program
+      hint: null
+      type: select_one
+      options:
+      - Master of Science
+      - Master of Arts
+      - MBA
+      - PhD
+      - Doctorate of Education
+      required: true
+    - id: 4
+      name: area_of_specialization
+      label: Area of Specialization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_year_of_study
+      label: Current Year of Study
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_fac
+      label: -- Curriculum and Faculty --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: academic_rigor_rating
+      label: Academic Rigor Rating
+      hint: challenging nature of the coursework
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 8
+      name: faculty_support_and_mentorship
+      label: Faculty Support and Mentorship
+      hint: guidance from professors and advisors
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: relevance_to_career_goals
+      label: Relevance to Career Goals
+      hint: how well this program prepares you for work
+      type: select_one
+      options:
+      - Very Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 10
+      name: section_res
+      label: -- Resources and Facilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: library_and_research_database_access
+      label: Library and Research Database Access
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: lab_or_studio_facility_quality
+      label: Lab or Studio Facility Quality
+      hint: if applicable
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 13
+      name: section_overall
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: would_recommend_this_program
+      label: Would Recommend This Program
+      hint: to prospective students
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - false
+      required: true
+    - id: 15
+      name: key_strengths_of_the_program
+      label: Key Strengths of the Program
+      hint: what does the program do best?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: suggestions_for_program_improvement
+      label: Suggestions for Program Improvement
+      hint: null
+      type: text
+      options: []
+      required: false

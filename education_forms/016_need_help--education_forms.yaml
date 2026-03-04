@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: need-help-education-forms
+    pages:
+    - id: 1
+      name: form_title
+      label: Need Help?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Education Forms
+      hint: null
+      type: select_one
+      options:
+      - category-education-forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

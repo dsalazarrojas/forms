@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Organization Event Proposal Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_description
+      label: Event Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_type_other
+      label: Event Type (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sponsor
+      label: Sponsor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: sponsor_other
+      label: Sponsor (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_group
+      label: Student Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: student_group_other
+      label: Student Group (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: event_justification
+      label: Event Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_safety_plan
+      label: Event Safety Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: event_contact
+      label: Event Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_email
+      label: Event Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: event_phone
+      label: Event Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: event_website
+      label: Event Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_additional_info
+      label: Event Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_additional_info_other
+      label: Event Additional Info (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: submit_other
+      label: Submit (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: assigned_tool_other
+      label: Assigned Tool (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

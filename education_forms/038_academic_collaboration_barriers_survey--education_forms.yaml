@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Academic Collaboration Barriers Survey"
+    pages:
+    - id: 1
+      name: section_header_demographics
+      label: "-- Respondent Demographics --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: "Your current role"
+      hint: null
+      type: select_one
+      options:
+        - "Faculty member"
+        - "Researcher"
+        - "Post-doctoral fellow"
+        - "Graduate student"
+        - "Department head or administrator"
+        - "Other"
+      required: true
+    - id: 3
+      name: institution_name
+      label: "Institution name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: "Department or discipline"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_academia
+      label: "Years in academia"
+      hint: null
+      type: select_one
+      options:
+        - "Less than 3 years"
+        - "3 to 5 years"
+        - "6 to 10 years"
+        - "11 to 20 years"
+        - "More than 20 years"
+      required: true
+    - id: 6
+      name: section_header_collaboration_status
+      label: "-- Collaboration Status --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_collaborations
+      label: "Are you currently engaged in any academic collaborations"
+      hint: null
+      type: select_one
+      options:
+        - "Yes - within my institution"
+        - "Yes - with other institutions"
+        - "Yes - both within and outside my institution"
+        - "No"
+      required: true
+    - id: 8
+      name: collaboration_frequency
+      label: "How often do you engage in collaborative projects"
+      hint: null
+      type: select_one
+      options:
+        - "Regularly (multiple ongoing)"
+        - "Occasionally (1-2 per year)"
+        - "Rarely (less than once per year)"
+        - "Never"
+      required: true
+    - id: 9
+      name: section_header_barriers
+      label: "-- Barriers to Collaboration --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: top_barriers
+      label: "What are the most significant barriers to academic collaboration you have experienced"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Lack of time"
+        - "Heavy teaching load"
+        - "Insufficient funding"
+        - "Difficulty finding collaborators"
+        - "Institutional politics"
+        - "Geographic distance"
+        - "Lack of institutional support"
+        - "Misaligned research interests"
+      required: true
+    - id: 11
+      name: most_critical_barrier
+      label: "Which single barrier has the greatest impact on your ability to collaborate"
+      hint: null
+      type: select_one
+      options:
+        - "Lack of time"
+        - "Heavy teaching load"
+        - "Insufficient funding"
+        - "Difficulty finding collaborators"
+        - "Institutional politics"
+        - "Geographic distance"
+        - "Lack of institutional support"
+        - "Misaligned research interests"
+      required: true
+    - id: 12
+      name: communication_challenges
+      label: "How significant are communication challenges in your collaborations"
+      hint: null
+      type: select_one
+      options:
+        - "Not significant"
+        - "Somewhat significant"
+        - "Very significant"
+        - "Not applicable"
+      required: true
+    - id: 13
+      name: technology_barriers
+      label: "Do technology or infrastructure limitations hinder your collaborations"
+      hint: null
+      type: select_one
+      options:
+        - "Not at all"
+        - "Slightly"
+        - "Moderately"
+        - "Significantly"
+      required: true
+    - id: 14
+      name: section_header_solutions
+      label: "-- Solutions and Suggestions --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: desired_support
+      label: "What type of support would most help you collaborate more effectively"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Dedicated collaboration funding"
+        - "Reduced teaching load"
+        - "Networking events and matchmaking"
+        - "Better technology platforms"
+        - "Administrative support"
+        - "Recognition in tenure and promotion"
+      required: true
+    - id: 16
+      name: open_suggestions
+      label: "What specific changes would you recommend to reduce collaboration barriers"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: "Any additional comments"
+      hint: null
+      type: text
+      options: []
+      required: false

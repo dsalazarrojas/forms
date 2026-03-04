@@ -1,0 +1,137 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Planning Form
+    pages:
+      - id: 1
+        name: section_child_id
+        label: -- Child Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Full Name
+        hint: Student name for planning
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: educator_name
+        label: Educator or Caregiver Name
+        hint: Person creating this plan
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: section_dev_planning
+        label: -- Developmental Planning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: focus_area
+        label: Focus Area for this Period
+        hint: Primary developmental goal
+        type: select_one
+        options:
+          - label: Social and Emotional Skills
+            value: social
+          - label: Literacy and Language
+            value: literacy
+          - label: Gross and Fine Motor Skills
+            value: motor
+          - label: Cognitive Development
+            value: cognitive
+        required: true
+      - id: 6
+        name: developmental_stage
+        label: Current developmental stage or milestone
+        hint: Describe child's current level
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_activity_planning
+        label: -- Activity Planning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: proposed_activities
+        label: Proposed Weekly Activities
+        hint: Specific tasks to support goals
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: materials_needed
+        label: Materials Needed
+        hint: Select all required items
+        type: select_multiple
+        options:
+          - label: Building Blocks and Sets
+            value: blocks
+          - label: Picture and Story Books
+            value: books
+          - label: Paints and Art Supplies
+            value: art
+          - label: Outdoor Play Equipment
+            value: outdoor
+        required: false
+      - id: 10
+        name: section_observations
+        label: -- Progress Observations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: progress_summary
+        label: Summary of recent progress
+        hint: Highlights from the last period
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: challenge_observations
+        label: Challenges observed
+        hint: Barriers to developmental goals
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_goals
+        label: -- Target Goals --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: next_month_goals
+        label: Target goals for the next month
+        hint: What do we want to achieve?
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: planning_date
+        label: Date of Plan
+        hint: Creation date
+        type: date
+        options: []
+        required: true

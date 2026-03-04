@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Delivery Experience Poll Form
+    pages:
+    - id: 1
+      name: delivery_timeliness
+      label: Delivery Timeliness
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: packaging_condition
+      label: Packaging Condition
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: communication_with_sales
+      label: Communication with Sales
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: timeliness_of_delivery
+      label: Timeliness Of Delivery
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: packaging
+      label: Packaging
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: communication_with_delivery_person
+      label: Communication with Delivery Person
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: timeliness
+      label: Timeliness
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

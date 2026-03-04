@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Add Permission Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requester_email
+      label: Requester's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: requester_phone
+      label: Requester's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: restricted_course
+      label: Restricted or Closed Course
+      hint: null
+      type: select_one
+      options:
+      - Restricted
+      - Closed
+      required: false
+    - id: 7
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submissions
+      label: Form Submissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Submitter's Name
+      hint: null
+      type: text
+      options: []
+      required: false

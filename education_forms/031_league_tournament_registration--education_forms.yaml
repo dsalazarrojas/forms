@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: League Tournament Registration
+    pages:
+    - id: 1
+      name: tournament_type
+      label: Select Tournament Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: tournament_name
+      label: Tournament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_description
+      label: Team Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: team_contact
+      label: Team Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_email
+      label: Team Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: league_name
+      label: League Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: division
+      label: Division
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_type
+      label: Team Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: coach_email
+      label: Coach Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: coach_phone
+      label: Coach Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_city
+      label: School City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: school_state
+      label: School State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_zip
+      label: School Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: school_region
+      label: School Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_address
+      label: Team Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: coach_license
+      label: Coach License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

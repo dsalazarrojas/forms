@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Coaching Circle Registration Form
+    pages:
+    - id: 1
+      name: coaching_circle_intro
+      label: Academic Peer Coaching Circle Registration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person registering
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Professional or institutional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_institution
+      label: Institution
+      hint: University, college, or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_role
+      label: Role/Position
+      hint: Your current role or position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_discipline
+      label: Academic Discipline
+      hint: Your primary field of study or work
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: coaching_focus_area
+      label: Coaching Focus Area
+      hint: What area would you like to focus on in the coaching circle?
+      type: select_one
+      options: ["Teaching strategies", "Research methods", "Career development", "Work-life balance", "Grant writing", "Publication", "Leadership skills", "Other"]
+      required: true
+    - id: 8
+      name: coaching_experience_level
+      label: Coaching Experience Level
+      hint: What is your experience with peer coaching?
+      type: select_one
+      options: ["Complete beginner", "Some experience", "Moderate experience", "Experienced coach", "Certified coach"]
+      required: true
+    - id: 9
+      name: availability_weekday
+      label: Weekday Availability
+      hint: Which weekday works best for your coaching circle meetings?
+      type: select_one
+      options: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Any weekday", "No weekday preference"]
+      required: true
+    - id: 10
+      name: availability_time
+      label: Meeting Time Preference
+      hint: What time works best for your coaching circle meetings?
+      type: select_one
+      options: ["Morning (8am-12pm)", "Afternoon (12pm-5pm)", "Evening (5pm-8pm)", "Flexible", "Weekends only"]
+      required: true
+    - id: 11
+      name: meeting_format_preference
+      label: Meeting Format Preference
+      hint: How would you prefer to meet for coaching sessions?
+      type: select_one
+      options: ["In-person", "Virtual", "Hybrid", "Flexible", "No preference"]
+      required: true
+    - id: 12
+      name: group_size_preference
+      label: Group Size Preference
+      hint: What group size works best for you?
+      type: select_one
+      options: ["Small (3-4 people)", "Medium (5-6 people)", "Large (7-8 people)", "Any size", "No preference"]
+      required: true
+    - id: 13
+      name: coaching_commitment_level
+      label: Coaching Commitment Level
+      hint: How committed are you to participating regularly?
+      type: select_one
+      options: ["High commitment", "Moderate commitment", "Flexible commitment", "Testing the waters"]
+      required: true
+    - id: 14
+      name: goals_for_participation
+      label: Goals for Participation
+      hint: What do you hope to achieve through peer coaching?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any special accommodations for participation?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_coaching_experience
+      label: Previous Coaching Experience
+      hint: Have you participated in peer coaching circles before?
+      type: select_one
+      options: ["Yes, multiple times", "Yes, once or twice", "No, but other coaching", "No, this is new to me"]
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your coaching circle preferences?
+      type: text
+      options: []
+      required: false

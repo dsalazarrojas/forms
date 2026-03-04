@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: id_card_approval_form
+    pages:
+    - id: 1
+      name: school_code
+      label: School Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: id_number
+      label: id number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - IT
+      - HR
+      - Operations
+      - Marketing
+      required: false
+    - id: 7
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 11
+      name: reason_for_rejection
+      label: reason for rejection
+      hint: null
+      type: text
+      options: []
+      required: false

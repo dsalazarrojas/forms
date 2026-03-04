@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_impact_assessment
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: teaching_area
+      label: teaching_area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

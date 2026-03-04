@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Research Innovation Hub Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_area
+      label: Research Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_title
+      label: Research Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_description
+      label: Research Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_justification
+      label: Research Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: funding_institution
+      label: Funding Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: institution_address
+      label: Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: institution_city
+      label: Institution City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: institution_state
+      label: Institution State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: institution_zip
+      label: Institution Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: research_innovation_hubs
+      label: Research Innovation Hubs
+      hint: null
+      type: select_multiple
+      options:
+      - Hub1
+      - Hub2
+      - Hub3
+      required: true
+    - id: 15
+      name: funding_amount
+      label: Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: funding_currency
+      label: Funding Currency
+      hint: null
+      type: select_one
+      options:
+      - Dollar
+      - Euro
+      - Pound
+      required: true
+    - id: 17
+      name: funding_start_date
+      label: Funding Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: funding_end_date
+      label: Funding End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: research_funding_status
+      label: Research Funding Status
+      hint: null
+      type: select_one
+      options:
+      - Funded
+      - Not Funded
+      required: true
+    - id: 20
+      name: research_funding_type
+      label: Research Funding Type
+      hint: null
+      type: select_multiple
+      options:
+      - Grant
+      - Fellowship
+      - Other
+      required: true
+    - id: 21
+      name: institution_representative
+      label: Institution Representative
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: research_funding_agency
+      label: Research Funding Agency
+      hint: null
+      type: select_one
+      options:
+      - NIH
+      - NSF
+      - Other
+      required: true
+    - id: 23
+      name: research_funding_program
+      label: Research Funding Program
+      hint: null
+      type: select_one
+      options:
+      - Program1
+      - Program2
+      - Program3
+      required: true
+    - id: 24
+      name: research_funding_budget
+      label: Research Funding Budget
+      hint: null
+      type: select_one
+      options:
+      - Budget1
+      - Budget2
+      - Budget3
+      required: true
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: seo-training-enrollment-form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: Page 1
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_interests
+      label: Course Interest
+      hint: null
+      type: select_one
+      options:
+      - SEO Basic
+      - SEO Advanced
+      - SEO Expert
+      required: true
+    - id: 6
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false

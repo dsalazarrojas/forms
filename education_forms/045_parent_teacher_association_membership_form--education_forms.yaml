@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Teacher Association Membership Form
+    pages:
+    - id: 1
+      name: form_information
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_multiple
+      options:
+      - PTA Member
+      - PTA Member - Student
+      - Non Member
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_since
+      label: Member Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

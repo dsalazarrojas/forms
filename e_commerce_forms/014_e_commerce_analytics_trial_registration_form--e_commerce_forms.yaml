@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Analytics Trial Registration Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter customer phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Select Country
+      - Select Location
+      - Select State
+      - Select Region
+      - Select City
+      required: false
+    - id: 6
+      name: customer_industry
+      label: Industry
+      hint: Select your industry
+      type: select_multiple
+      options:
+      - Retail
+      - Finance
+      - Healthcare
+      - Technology
+      - Manufacturing
+      required: false
+    - id: 7
+      name: customer_comments
+      label: Comments
+      hint: Enter any comments
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

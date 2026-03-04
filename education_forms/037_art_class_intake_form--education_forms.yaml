@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Class Intake Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_background
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: education_level
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Associate degree
+      - Bachelor degree
+      - Graduate degree
+      - Other
+      required: false
+    - id: 9
+      name: field_of_study
+      label: Field of Study or Major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_art_background
+      label: -- Art Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: art_experience_level
+      label: Art Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Complete beginner
+      - Some basic experience
+      - Moderate experience
+      - Advanced experience
+      - Professional
+      required: true
+    - id: 12
+      name: art_forms_experience
+      label: Art Forms You Have Experience With
+      hint: null
+      type: select_multiple
+      options:
+      - Drawing
+      - Painting
+      - Sculpture
+      - Printmaking
+      - Photography
+      - Digital art
+      - Crafts
+      - Other
+      required: false
+    - id: 13
+      name: art_goals
+      label: What are your art learning goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_learning_style
+      label: -- Learning Style and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: learning_style
+      label: Preferred Learning Style
+      hint: null
+      type: select_one
+      options:
+      - Visual
+      - Hands-on practice
+      - Verbal instruction
+      - Demonstration
+      - Mix of styles
+      required: true
+    - id: 16
+      name: work_pace
+      label: Preferred Work Pace
+      hint: null
+      type: select_one
+      options:
+      - Slow and methodical
+      - Moderate
+      - Fast paced
+      - Flexible
+      required: true
+    - id: 17
+      name: collaborative_preference
+      label: Comfortable Working with Others
+      hint: null
+      type: select_one
+      options:
+      - Prefer individual work
+      - Mix of individual and group
+      - Prefer group work
+      required: false
+    - id: 18
+      name: section_accessibility
+      label: -- Accessibility and Special Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Do you have accessibility needs
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 20
+      name: accessibility_details
+      label: Please describe your accessibility needs
+      hint: Vision, hearing, mobility, other
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: physical_limitations
+      label: Any physical limitations affecting art making
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_goals
+      label: -- Class Goals and Expectations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: specific_goals
+      label: Specific Goals for This Class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: expectations
+      label: What do you expect from this class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_information
+      label: Any Additional Information We Should Know
+      hint: null
+      type: text
+      options: []
+      required: false

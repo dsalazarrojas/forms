@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dolphin Intelligence Quiz
+    pages:
+    - id: 1
+      name: page_one
+      label: Dolphin Intelligence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_one
+      label: Section One
+      hint: This is Section One
+      type: select_one
+      options:
+      - Answer A
+      - Answer B
+      - Answer C
+      required: true
+    - id: 3
+      name: question_one
+      label: What is the name of the animal?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_two
+      label: Section Two
+      hint: null
+      type: select_multiple
+      options:
+      - Answer A
+      - Answer B
+      - Answer C
+      required: true
+    - id: 5
+      name: question_two
+      label: What is the color of the sea?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_three
+      label: Section Three
+      hint: null
+      type: select_one
+      options:
+      - Answer A
+      - Answer B
+      - Answer C
+      required: true
+    - id: 7
+      name: question_three
+      label: What is the shape of the sea?
+      hint: This is the shape of the sea
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: section_four
+      label: Section Four
+      hint: null
+      type: select_multiple
+      options:
+      - Answer A
+      - Answer B
+      - Answer C
+      required: true
+    - id: 9
+      name: question_four
+      label: What is the size of the sea?
+      hint: null
+      type: number
+      options: []
+      required: true

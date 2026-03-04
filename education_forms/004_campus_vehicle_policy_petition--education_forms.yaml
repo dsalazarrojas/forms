@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Vehicle Policy Petition
+    pages:
+    - id: 1
+      name: petitioner_full_name
+      label: Petitioner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: identification_id
+      label: Student or Employee ID
+      hint: Your official university ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: university_email
+      label: University Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_vehicle_type
+      label: Current Vehicle Type
+      hint: Primary mode of campus transportation
+      type: select_one
+      options:
+      - Car
+      - Motorcycle
+      - Bicycle
+      - E-Scooter
+      - Public Transit
+      - None
+      required: true
+    - id: 6
+      name: petition_details_section
+      label: -- Petition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: policy_to_address
+      label: Specific Policy to Address
+      hint: Choose the main area of concern
+      type: select_one
+      options:
+      - Parking Fees
+      - Overnight Parking
+      - Electric Charging
+      - Bicycle Storage
+      - Transit Subsidy
+      - Other
+      required: true
+    - id: 8
+      name: concern_description
+      label: Description of Concern
+      hint: Briefly explain your position or the issue
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: proposed_solution
+      label: Proposed Solution
+      hint: What would you like to see changed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: impact_on_community
+      label: Impact on Campus Community
+      hint: How would this change benefit others
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signatures_section
+      label: -- Supporting Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: petition_support
+      label: Agreement to Petition
+      hint: Select your stance on this matter
+      type: select_one
+      options:
+      - I support this petition
+      - I do not support this petition
+      required: true
+    - id: 13
+      name: share_name_consent
+      label: Consent to share name with administration
+      hint: Choose whether your name can be shared with the decision-makers
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, keep me anonymous
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_interest
+      label: Follow-up Interest
+      hint: Would you like to receive updates on this petition
+      type: select_one
+      options:
+      - Yes, notify me of progress
+      - No, do not contact me
+      required: true

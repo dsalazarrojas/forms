@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Network Participation Request Form
+    pages:
+    - id: 1
+      name: network_participation_intro
+      label: Academic Peer Network Participation Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person requesting participation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Professional or institutional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_institution
+      label: Institution
+      hint: University, college, or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_role
+      label: Role/Position
+      hint: Your current role or position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_discipline
+      label: Academic Discipline
+      hint: Your primary field of study or work
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Experience
+      hint: How many years of experience in your field?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: network_type_interested
+      label: Type of Network Interested In
+      hint: What type of peer network are you interested in joining?
+      type: select_one
+      options:
+      - Research collaboration
+      - Teaching strategies
+      - Career development
+      - Disciplinary focus
+      - Interdisciplinary
+      - Mentorship
+      - Other
+      required: true
+    - id: 9
+      name: participation_goals
+      label: Participation Goals
+      hint: What are your primary goals for joining this network?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: availability_level
+      label: Availability Level
+      hint: How much time can you dedicate to network activities?
+      type: select_one
+      options:
+      - High - 5+ hours per week
+      - Moderate - 2-5 hours per week
+      - Low - 1-2 hours per week
+      - Variable - depends on schedule
+      required: true
+    - id: 11
+      name: preferred_interaction_format
+      label: Preferred Interaction Format
+      hint: How would you prefer to interact with network members?
+      type: select_multiple
+      options:
+      - Virtual meetings
+      - In-person events
+      - Online forums
+      - Email exchanges
+      - Collaborative projects
+      - Mentoring relationships
+      - Workshops
+      - Other
+      required: false
+    - id: 12
+      name: geographic_scope
+      label: Geographic Scope
+      hint: What geographic scope of network interests you?
+      type: select_one
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Flexible
+      required: true
+    - id: 13
+      name: previous_network_participation
+      label: Previous Network Participation
+      hint: Have you participated in similar networks before?
+      type: select_one
+      options:
+      - Yes, actively involved
+      - Yes, occasional participant
+      - No, but interested
+      - No, and not sure
+      required: true
+    - id: 14
+      name: collaboration_interest
+      label: Collaboration Interest
+      hint: Are you interested in collaborative projects with network members?
+      type: select_one
+      options:
+      - Yes, actively seeking
+      - Open to opportunities
+      - Interested in specific areas
+      - Primarily for networking
+      required: true
+    - id: 15
+      name: special_expertise_offered
+      label: Special Expertise Offered
+      hint: What expertise or skills could you contribute to the network?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Do you have any accessibility requirements for participation?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your interest in the network?
+      type: text
+      options: []
+      required: false

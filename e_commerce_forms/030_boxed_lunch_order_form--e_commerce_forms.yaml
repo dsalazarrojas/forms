@@ -1,0 +1,268 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boxed Lunch Order Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_pickup
+      label: Delivery or Pickup
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 6
+      name: pickup_location
+      label: Pickup Location
+      hint: Which location will you pick up from
+      type: select_one
+      options:
+      - Main Street Location
+      - Downtown Location
+      - Mall Location
+      - Airport Location
+      required: false
+    - id: 7
+      name: delivery_address
+      label: Delivery Address
+      hint: Complete delivery address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: pickup_delivery_date
+      label: Pickup or Delivery Date
+      hint: When do you need your order
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pickup_delivery_time
+      label: Pickup or Delivery Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: number_of_lunches
+      label: Number of Lunches
+      hint: Total boxed lunches needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: lunch_package
+      label: Lunch Package
+      hint: Select package type
+      type: select_one
+      options:
+      - Basic Box
+      - Deluxe Box
+      - Premium Box
+      - Vegetarian Box
+      - Vegan Box
+      - Kids Box
+      required: true
+    - id: 13
+      name: sandwich_selection
+      label: Sandwich Selection
+      hint: Choose your sandwich
+      type: select_one
+      options:
+      - Turkey and Swiss
+      - Ham and Cheese
+      - Roast Beef
+      - Chicken Salad
+      - Tuna Salad
+      - BLT
+      - Veggie Wrap
+      - Club Sandwich
+      - Italian Sub
+      - No sandwich
+      required: true
+    - id: 14
+      name: side_selection
+      label: Side Selection
+      hint: Choose your side
+      type: select_one
+      options:
+      - Potato chips
+      - Potato salad
+      - Coleslaw
+      - Pasta salad
+      - Fresh fruit
+      - Vegetable sticks
+      - Macaroni salad
+      - Rice pilaf
+      required: true
+    - id: 15
+      name: dessert_selection
+      label: Dessert Selection
+      hint: Choose your dessert
+      type: select_one
+      options:
+      - Cookie
+      - Brownie
+      - Fresh fruit cup
+      - Yogurt parfait
+      - Cheesecake bite
+      - No dessert
+      required: true
+    - id: 16
+      name: drink_selection
+      label: Drink Selection
+      hint: Choose your beverage
+      type: select_one
+      options:
+      - Bottled water
+      - Soda
+      - Iced tea
+      - Lemonade
+      - Juice
+      - No drink
+      required: true
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Vegetarian
+      - Vegan
+      - Kosher
+      - Halal
+      - Low sodium
+      required: true
+    - id: 18
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: condiments_needed
+      label: Condiments Needed
+      hint: Select condiments
+      type: select_multiple
+      options:
+      - Ketchup
+      - Mustard
+      - Mayonnaise
+      - Ranch dressing
+      - Italian dressing
+      - Hot sauce
+      - Salt and pepper
+      - None
+      required: false
+    - id: 20
+      name: utensils_needed
+      label: Utensils Needed
+      hint: Do you need utensils
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: napkins_needed
+      label: Napkins Needed
+      hint: Do you need extra napkins
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: occasion
+      label: Occasion
+      hint: What is this order for
+      type: select_one
+      options:
+      - Business meeting
+      - Office lunch
+      - School event
+      - Party
+      - Personal
+      - Other
+      required: false
+    - id: 23
+      name: company_name
+      label: Company Name
+      hint: If business order
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Company account
+      - Invoice
+      required: true
+    - id: 25
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: total_amount
+      label: Total Amount
+      hint: Order total
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: order_notes
+      label: Order Notes
+      hint: Any additional information
+      type: text
+      options: []
+      required: false

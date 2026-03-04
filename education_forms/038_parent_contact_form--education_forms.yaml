@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Contact Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Contact Phone
+      - Contact Email
+      - Contact Address
+      - Contact In Person
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Caregiver
+      - Authorized Contact
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false

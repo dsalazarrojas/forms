@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: ict_tools_usage_survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Ict Tools Usage Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tool_used
+      label: ICT tool used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tool_frequency
+      label: How often do you use this ICT tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      required: false
+    - id: 4
+      name: tool_importance
+      label: How important is this ICT tool for your work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tool_satisfaction
+      label: How satisfied are you with this ICT tool
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tool_improvement
+      label: What would you like to improve in this ICT tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_tools
+      label: Other ICT tools used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_tools_description
+      label: Description of other ICT tools used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned ICT tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chat''}'
+      - '{''id'': 2, ''label'': ''google''}'
+      - '{''id'': 3, ''label'': ''microsoft''}'
+      - '{''id'': 4, ''label'': ''other''}'
+      - '{''id'': 5, ''label'': ''default''}'
+      required: false
+    - id: 10
+      name: form_footer
+      label: Form footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

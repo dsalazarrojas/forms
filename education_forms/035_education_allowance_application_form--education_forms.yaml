@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Allowance Application Form
+    pages:
+    - id: 1
+      name: education_allowance_application_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_allowance_application_form_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: education_allowance_application_form_3
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: education_allowance_application_form_4
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: education_allowance_application_form_5
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: education_allowance_application_form_6
+      label: Level of Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Primary School''}'
+      - '{''option'': ''Secondary School''}'
+      - '{''option'': ''Tertiary''}'
+      - '{''option'': ''University''}'
+      required: true
+    - id: 7
+      name: education_allowance_application_form_7
+      label: Reason for Education Allowance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: education_allowance_application_form_8
+      label: Upload Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: education_allowance_application_form_9
+      label: Allowance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Full''}'
+      - '{''option'': ''Half''}'
+      - '{''option'': ''Quarter''}'
+      - '{''option'': ''None''}'
+      required: true
+    - id: 10
+      name: education_allowance_application_form_10
+      label: Amount of Allowance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: education_allowance_application_form_11
+      label: Frequency of Allowance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Monthly''}'
+      - '{''option'': ''Quarterly''}'
+      - '{''option'': ''Bi-annually''}'
+      - '{''option'': ''Annually''}'
+      required: true
+    - id: 12
+      name: education_allowance_application_form_12
+      label: Frequency of Payment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Bank''}'
+      - '{''option'': ''Cheque''}'
+      - '{''option'': ''Online Transfer''}'
+      - '{''option'': ''Cash''}'
+      required: true
+    - id: 13
+      name: education_allowance_application_form_13
+      label: Payment Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: education_allowance_application_form_14
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Direct Deposit''}'
+      - '{''option'': ''Cheque''}'
+      - '{''option'': ''Cash''}'
+      required: true
+    - id: 15
+      name: education_allowance_application_form_15
+      label: Allowance Recipient
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Father''}'
+      - '{''option'': ''Mother''}'
+      - '{''option'': ''Self''}'
+      - '{''option'': ''Others''}'
+      required: false

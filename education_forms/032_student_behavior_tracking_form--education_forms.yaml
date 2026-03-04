@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Behavior Tracking Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: behavior_date
+      label: Behavior Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: observation
+      label: Observation
+      hint: Describe the student's behavior during the observation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_location
+      label: Student Location
+      hint: Where was the student located during the observation
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_observed
+      label: Time Observed
+      hint: What time was the student observed
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: category_behavior
+      label: Category of Behavior
+      hint: What category of behavior was observed
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: Additional notes about the observation
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_behavior_score
+      label: Student Behavior Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of the teacher conducting the observation
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_id
+      label: Teacher ID
+      hint: ID of the teacher conducting the observation
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_attendance
+      label: Student Attendance
+      hint: Was the student in attendance during the observed period?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: student_participation
+      label: Student Participation
+      hint: Was the student participating in class during the observed period?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: student_progress
+      label: Student Progress
+      hint: What was the student's progress during the observed period?
+      type: select_multiple
+      options:
+      - On track
+      - Not on track
+      - Unknown
+      required: true
+    - id: 17
+      name: student_demeanor
+      label: Student Demeanor
+      hint: How did the student behave during the observed period?
+      type: select_multiple
+      options:
+      - Cooperative
+      - Uncooperative
+      - Neutral
+      required: false
+    - id: 18
+      name: student_focus
+      label: Student Focus
+      hint: What was the student's focus during the observed period?
+      type: select_multiple
+      options:
+      - On task
+      - Off task
+      - Focused on other students
+      required: false
+    - id: 19
+      name: student_involvement
+      label: Student Involvement
+      hint: How involved was the student during the observed period?
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: student_disengagement
+      label: Student Disengagement
+      hint: How disengaged was the student during the observed period?
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: student_emotional_state
+      label: Student Emotional State
+      hint: What was the student's emotional state during the observed period?
+      type: select_multiple
+      options:
+      - Happy
+      - Sad
+      - Neutral
+      required: false
+    - id: 22
+      name: student_body_language
+      label: Student Body Language
+      hint: What was the student's body language during the observed period?
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Uncertain
+      required: false
+    - id: 23
+      name: teacher_support
+      label: Teacher Support
+      hint: How much support did the teacher provide during the observed period?
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: classroom_environment
+      label: Classroom Environment
+      hint: What was the classroom environment like during the observed period?
+      type: select_multiple
+      options:
+      - Cooperative
+      - Competitive
+      - Uncertain
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: Additional notes about the observation
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Martial Arts Class Enrollment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_type
+      label: class-type
+      hint: null
+      type: select_multiple
+      options:
+      - martial arts
+      - taekwondo
+      - karate
+      - kickboxing
+      - self-defense
+      required: false
+    - id: 6
+      name: class_level
+      label: class-level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 7
+      name: class_time
+      label: class-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: class_day
+      label: class-day
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 9
+      name: class_duration
+      label: class-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: class_frequency
+      label: class-frequency
+      hint: null
+      type: select_one
+      options:
+      - once_a_week
+      - twice_a_week
+      - thrice_a_week
+      required: false
+    - id: 11
+      name: martial_arts_school
+      label: martial-arts-school
+      hint: null
+      type: select_one
+      options:
+      - school1
+      - school2
+      - school3
+      required: false
+    - id: 12
+      name: martial_arts_style
+      label: martial-arts-style
+      hint: null
+      type: select_one
+      options:
+      - style1
+      - style2
+      - style3
+      required: false
+    - id: 13
+      name: martial_arts_level
+      label: martial-arts-level
+      hint: null
+      type: select_one
+      options:
+      - level1
+      - level2
+      - level3
+      required: false
+    - id: 14
+      name: martial_arts_experience
+      label: martial-arts-experience
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: martial_arts_certification
+      label: martial-arts-certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: emergency-contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_phone
+      label: emergency-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_email
+      label: emergency-email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition
+      label: medical-condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_condition_details
+      label: medical-condition-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: special_request
+      label: special-request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_request_details
+      label: special-request-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_notes
+      label: student-notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: instructor_notes
+      label: instructor-notes
+      hint: null
+      type: text
+      options: []
+      required: false

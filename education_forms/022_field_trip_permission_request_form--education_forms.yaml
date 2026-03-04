@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Permission Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher
+      label: Teacher
+      hint: null
+      type: select_one
+      options:
+      - Mr. John Doe
+      - Ms. Jane Smith
+      - Dr. Bob Johnson
+      required: false
+    - id: 7
+      name: student_count
+      label: Student Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: permission
+      label: Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent And Release Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: consent_to_participation
+      label: Consent to Participate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: release_of_liability
+      label: Release of Liability
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: minimalist
+      label: Minimalist
+      hint: null
+      type: note
+      options: []
+      required: false

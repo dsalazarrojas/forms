@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acquisition Lesson Planning Form
+    pages:
+    - id: 1
+      name: lesson_title
+      label: Lesson Title
+      hint: Name of the instructional unit
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: subject_area
+      label: Subject Area
+      hint: e.g., Mathematics, Science, Literacy
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: target_grade_level
+      label: Target Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: learning_objective
+      label: Learning Objective
+      hint: What specific knowledge or skill will be acquired?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: knowledge_type
+      label: Knowledge Type
+      hint: Select the primary cognitive category
+      type: select_one
+      options:
+      - Conceptual
+      - Procedural
+      - Factual
+      - Metacognitive
+      required: true
+    - id: 6
+      name: prerequisite_skills
+      label: Prerequisite Skills
+      hint: What must students know beforehand?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: strategy_header
+      label: -- Instructional Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Delivery Method
+      hint: How will the content be delivered?
+      type: select_one
+      options:
+      - Direct Instruction
+      - Inquiry-based
+      - Cooperative Learning
+      - Scaffolding
+      required: true
+    - id: 9
+      name: key_vocabulary
+      label: Key Vocabulary
+      hint: Terms to be acquired during the lesson
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: materials_needed
+      label: Materials Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assessment_header
+      label: -- Assessment of Acquisition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: formative_assessment_plan
+      label: Formative Assessment Plan
+      hint: How will you check for understanding?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: estimated_duration_minutes
+      label: Estimated Duration (Minutes)
+      hint: Total time for lesson execution
+      type: number
+      options: []
+      required: true

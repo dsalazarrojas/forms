@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: financial_aid_appointment_form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Enter your contact information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_time
+      label: Date and Time
+      hint: Select date and time
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: appointment_type
+      label: Type of Appointment
+      hint: Select appointment type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: Preferred Language
+      hint: Select preferred language
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: Select preferred contact method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

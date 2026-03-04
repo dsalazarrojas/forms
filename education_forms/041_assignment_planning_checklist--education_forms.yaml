@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Planning Checklist
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Which course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assignment_title
+      label: Assignment Title
+      hint: Name of assignment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assignment_description
+      label: Assignment Description
+      hint: What is required
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_assigned
+      label: Date Assigned
+      hint: When given
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: final_due_date
+      label: Final Due Date
+      hint: When due
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: assignment_weight
+      label: Assignment Weight Percentage
+      hint: How much it counts
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What you will learn
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: How important
+      type: select_one
+      options:
+      - High - Due Soon or Heavy Weight
+      - Medium - Moderate Priority
+      - Low - Flexible Timeline
+      required: true
+    - id: 11
+      name: estimated_hours
+      label: Estimated Hours Needed
+      hint: Time to complete
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: resources_needed
+      label: Resources Needed
+      hint: What you need
+      type: select_multiple
+      options:
+      - Textbook
+      - Library Research
+      - Online Sources
+      - Lab Equipment
+      - Software
+      - Group Members
+      - Tutor Help
+      - None
+      required: true
+    - id: 13
+      name: task_1
+      label: Task 1
+      hint: First step
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: task_1_due
+      label: Task 1 Due Date
+      hint: When to complete
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: task_1_complete
+      label: Task 1 Complete
+      hint: Check when done
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: task_2
+      label: Task 2
+      hint: Second step
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: task_2_due
+      label: Task 2 Due Date
+      hint: When to complete
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: task_2_complete
+      label: Task 2 Complete
+      hint: Check when done
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: task_3
+      label: Task 3
+      hint: Third step
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: task_3_due
+      label: Task 3 Due Date
+      hint: When to complete
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: task_3_complete
+      label: Task 3 Complete
+      hint: Check when done
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: task_4
+      label: Task 4
+      hint: Fourth step
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: task_4_complete
+      label: Task 4 Complete
+      hint: Check when done
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: task_5
+      label: Task 5
+      hint: Fifth step
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: task_5_complete
+      label: Task 5 Complete
+      hint: Check when done
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: potential_obstacles
+      label: Potential Obstacles
+      hint: What might get in way
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: support_needed
+      label: Support Needed
+      hint: Help required
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: milestone_check_1
+      label: First Milestone Check Date
+      hint: Progress review
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: milestone_check_2
+      label: Second Milestone Check Date
+      hint: Progress review
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: plan_created_date
+      label: Plan Created Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

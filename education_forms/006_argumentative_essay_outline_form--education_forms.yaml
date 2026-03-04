@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Argumentative Essay Outline Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class_name
+      label: Class Name or Course Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: essay_topic
+      label: Essay Topic or Prompt
+      hint: What is the main topic of your essay
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: thesis_statement
+      label: Thesis Statement
+      hint: Your main argument in 1-2 sentences
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: thesis_clarity
+      label: Is your thesis clear and arguable
+      hint: null
+      type: select_one
+      options:
+      - Yes, very clear
+      - Somewhat clear
+      - Needs improvement
+      required: true
+    - id: 7
+      name: argument_1_topic
+      label: First Main Argument
+      hint: Topic or claim for body paragraph 1
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: argument_1_evidence
+      label: Evidence for Argument 1
+      hint: Sources or examples you will use
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: argument_2_topic
+      label: Second Main Argument
+      hint: Topic or claim for body paragraph 2
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: argument_2_evidence
+      label: Evidence for Argument 2
+      hint: Sources or examples you will use
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: argument_3_topic
+      label: Third Main Argument
+      hint: Topic or claim for body paragraph 3
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: argument_3_evidence
+      label: Evidence for Argument 3
+      hint: Sources or examples you will use
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: counterargument
+      label: Opposing or Counter Argument
+      hint: What argument might someone disagree with
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: counterargument_refutation
+      label: How will you refute the counter argument
+      hint: Your response to opposing viewpoint
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: conclusion_approach
+      label: Approach for your conclusion
+      hint: How will you summarize and reinforce your thesis
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: sources_identified
+      label: Number of sources identified so far
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: research_complete
+      label: Is your research complete
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully complete
+      - Mostly complete
+      - About half done
+      - Just starting
+      required: true
+    - id: 18
+      name: outline_strengths
+      label: What do you see as the strengths of your outline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_of_concern
+      label: Areas you are concerned about
+      hint: What aspects need more work
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: For instructor use
+      type: text
+      options: []
+      required: false

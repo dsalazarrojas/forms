@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Withdrawal Survey
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: who_filled_out
+      label: Who Filled Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: thoughts
+      label: Thoughts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: grade_range
+      label: Grade Range
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      required: false
+    - id: 7
+      name: disappointments
+      label: Disappointments
+      hint: null
+      type: text
+      options: []
+      required: false

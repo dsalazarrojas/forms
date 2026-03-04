@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: OedipusRexKnowledgeQuiz
+    pages:
+    - id: 1
+      name: introduction
+      label: What is the Oedipus Rex?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_plot
+      label: What are the main plot elements of the Oedipus Rex?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: characters
+      label: Who are the main characters in the Oedipus Rex?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: main_theme
+      label: What is the main theme of the Oedipus Rex?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resolution
+      label: What is the resolution of the Oedipus Rex?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: conclusion
+      label: What is the conclusion of the Oedipus Rex?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: main_characters
+      label: Who is the main character in the Oedipus Rex?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: main_characters_characters
+      label: What are the main characters in the Oedipus Rex?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resolution_characters
+      label: Who resolves the Oedipus Rex?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: resolution_resolution
+      label: What is the resolution in the Oedipus Rex?
+      hint: null
+      type: text
+      options: []
+      required: false

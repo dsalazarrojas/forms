@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: mock_exam_form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: answer_key
+      label: Answer Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_type_2
+      label: Question Type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

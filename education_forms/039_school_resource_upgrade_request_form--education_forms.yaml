@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Resource Upgrade Request Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: school_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: school_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Information Form Template
+    pages:
+    - id: 1
+      name: section_basic_student_info
+      label: -- Basic Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: Enter name as it appears on birth certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: Select child birthday
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_gender
+      label: Gender
+      hint: Optional demographic info
+      type: select_one
+      options:
+      - label: Male
+        value: male
+      - label: Female
+        value: female
+      - label: Other
+        value: other
+      required: false
+    - id: 5
+      name: section_family_background
+      label: -- Family Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: father_guardian_name
+      label: Father or Guardian Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mother_guardian_name
+      label: Mother or Guardian Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: home_phone
+      label: Primary Home Phone
+      hint: For non-emergency updates
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_emergency_contact
+      label: -- Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: emergency_name
+      label: Emergency Contact Name
+      hint: Backup contact person
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_relationship
+      label: Relationship to Child
+      hint: e.g., Aunt, Friend, Grandparent
+      type: select_one
+      options:
+      - label: Relative
+        value: relative
+      - label: Family Friend
+        value: friend
+      - label: Neighbor
+        value: neighbor
+      - label: Grandparent
+        value: grandparent
+      required: true
+    - id: 12
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Reachable during program hours
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_school_class
+      label: -- School and Class --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: teacher_grade
+      label: Current Teacher and Grade
+      hint: School placement details
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: sibling_list
+      label: List any siblings also in our program
+      hint: Helpful for sibling discounts or logistics
+      type: text
+      options: []
+      required: false

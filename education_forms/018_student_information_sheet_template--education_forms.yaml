@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Information Sheet Template
+    pages:
+    - id: 1
+      name: high_school
+      label: High School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gpa
+      label: Grade Point Average (GPA)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: academic_interests
+      label: Academic Interests
+      hint: List student's areas of interest
+      type: select_multiple
+      options:
+      - Computer Science,Art,Business,Engineering
+      - Other
+      required: true
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th,10th,11th,12th,Post-Grad,Pre-Grad
+      - Other
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: Student's email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male,Female
+      - Other
+      required: false
+    - id: 11
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Asian,African American,White,Hispanic,Native American
+      - Other
+      required: false
+    - id: 12
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time Student,Part-Time Student,Transfer Student
+      - Other
+      required: false
+    - id: 13
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate,Graduate
+      - Other
+      required: false
+    - id: 14
+      name: campus_location
+      label: Campus Location
+      hint: null
+      type: select_one
+      options:
+      - Main Campus,Off Campus,Online
+      - Other
+      required: false
+    - id: 15
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - New Student,Returning Student,Non-Student
+      - Other
+      required: false
+    - id: 16
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent,Guardian,Other
+      - Other
+      required: false
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: student_signature
+      label: Student's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_signature
+      label: Emergency Contact's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_agreement
+      label: Student Agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes,No
+      - Other
+      required: true
+    - id: 24
+      name: parent_agreement
+      label: Parent Agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes,No
+      - Other
+      required: true
+    - id: 25
+      name: emergency_contact_agreement
+      label: Emergency Contact Agreement
+      hint: null
+      type: select_one
+      options:
+      - Yes,No
+      - Other
+      required: true

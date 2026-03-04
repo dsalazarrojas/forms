@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Screen Addiction Survey
+    pages:
+    - id: 1
+      name: screen_time
+      label: Screen time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: screen_frequency
+      label: How often do you check your phone?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: screen_sleep
+      label: Screen usage at bedtime
+      hint: null
+      type: select_multiple
+      options:
+      - Before
+      - After
+      - Never
+      required: false
+    - id: 4
+      name: anxiety
+      label: Do you ever feel anxious or stressed when offline?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 5
+      name: satisfaction
+      label: How satisfied are you when you're not on screens?
+      hint: null
+      type: select_one
+      options:
+      - Highly satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      required: false
+    - id: 6
+      name: screen_use
+      label: How do you usually use your phone?
+      hint: null
+      type: select_multiple
+      options:
+      - Calls
+      - Messages
+      - Email
+      - Social media
+      - Browsing
+      - Games
+      - Music
+      - Apps
+      - Videos
+      - Other
+      required: false
+    - id: 7
+      name: apps
+      label: Do you have difficulty turning off your phone?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Sometimes
+      required: false
+    - id: 8
+      name: satisfaction_score
+      label: How satisfied are you with your current relationship with screens?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Any comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: screen_satisfaction
+      label: How satisfied are you with your screen time?
+      hint: null
+      type: select_one
+      options:
+      - Highly satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      required: false

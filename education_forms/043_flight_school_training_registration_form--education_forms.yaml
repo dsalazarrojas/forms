@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight School Training Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course
+      label: Course
+      hint: null
+      type: select_one
+      options:
+      - Pilot
+      - Instructor
+      - Other
+      required: false
+    - id: 7
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_multiple
+      options:
+      - Private
+      - Commercial
+      - Flight
+      required: false
+    - id: 9
+      name: flight_certification
+      label: Flight Certification
+      hint: null
+      type: select_one
+      options:
+      - Private Pilot License
+      - Commercial Pilot License
+      - Flight Instructor License
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

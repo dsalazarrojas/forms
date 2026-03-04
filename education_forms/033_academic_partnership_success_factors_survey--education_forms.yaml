@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Partnership Success Factors Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_type
+      label: Organization type
+      hint: Select your organization type
+      type: select_one
+      options:
+        - University
+        - Industry partner
+        - Non profit
+        - Government
+        - Other
+      required: true
+    - id: 3
+      name: partnership_duration
+      label: Partnership duration
+      hint: How long the partnership has existed
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: success_factors
+      label: Key success factors
+      hint: Select up to three factors
+      type: select_multiple
+      options:
+        - Clear objectives
+        - Mutual benefits
+        - Dedicated resources
+        - Strong communication
+        - Leadership support
+      required: true
+    - id: 5
+      name: challenges
+      label: Main challenges experienced
+      hint: Describe persistent obstacles
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: impact_measurement
+      label: How is impact measured
+      hint: Metrics or evaluation approaches used
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_recommendations
+      label: Recommendations to improve partnerships
+      hint: Practical steps for institutions and partners
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: willingness_to_collaborate
+      label: Willingness to engage in future collaborations
+      hint: Indicate future collaboration interest
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact email for follow up
+      hint: Optional email if follow up is desired
+      type: email
+      options: []
+      required: false

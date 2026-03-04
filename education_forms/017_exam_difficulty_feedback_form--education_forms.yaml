@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Difficulty Feedback Form
+    pages:
+    - id: 1
+      name: exam_difficulty
+      label: How difficult was the exam
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
+      required: false
+    - id: 2
+      name: question_type
+      label: What type of question were you given during the exam?
+      hint: null
+      type: select_multiple
+      options:
+      - Multiple Choice
+      - Short Answer
+      - Essay Question
+      - True/False
+      - Fill in the Blank
+      required: false
+    - id: 3
+      name: exam_duration
+      label: How long did the exam last?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_count
+      label: How many questions were on the exam?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exam_difficulty_2
+      label: How often do you usually take exams like this one?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 6
+      name: question_type_2
+      label: What type of question did you have the most trouble with?
+      hint: null
+      type: select_multiple
+      options:
+      - Multiple Choice
+      - Short Answer
+      - Essay Question
+      - True/False
+      - Fill in the Blank
+      required: false
+    - id: 7
+      name: exam_duration_2
+      label: How long did you usually have to prepare for this type of exam?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: exam_comments
+      label: Do you have any other comments about the exam?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: How can we contact you?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false
+    - id: 11
+      name: review
+      label: Would you like to be contacted to review your answers?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_name
+      label: What is the name of the course this exam was for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_name
+      label: What is the name of your school?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: exam_name
+      label: What is the name of the exam?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: exam_date
+      label: What date did you take the exam?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: exam_start_time
+      label: What time did you start the exam?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: exam_end_time
+      label: What time did you finish the exam?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: exam_location
+      label: Where did you take the exam?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_message
+      label: What is your review message?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: exam_date_2
+      label: What date is the exam in the future?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submit_2
+      label: Submit 2
+      hint: null
+      type: select_one
+      options:
+      - Submit 2
+      - Other
+      required: false
+    - id: 23
+      name: review_message_2
+      label: What is your review message 2?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: exam_difficulty_scale
+      label: What is your difficulty scale for the exam?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: course_difficulty_scale
+      label: What is your difficulty scale for the course?
+      hint: null
+      type: number
+      options: []
+      required: false

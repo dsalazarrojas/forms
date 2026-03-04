@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Cleaning Checklist Form
+    pages:
+    - id: 1
+      name: trip_id
+      label: Trip ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: route
+      label: Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cleaning_status
+      label: Cleaning Status
+      hint: null
+      type: select_one
+      options:
+      - Cleaning Complete
+      - Partially Cleaned
+      - Not Cleaned
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_count
+      label: Student Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_number
+      label: Vehicle Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - School Bus
+      - Other
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Not Clean
+      - Needs Attention
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

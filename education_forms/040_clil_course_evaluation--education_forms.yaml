@@ -1,0 +1,326 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clil Course Evaluation
+    pages:
+    - id: 1
+      name: intro_section
+      label: CLIL Course Evaluation Form
+      hint: Please provide your feedback on this course
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: semester
+      label: Semester or Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_evaluation
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: overall_section
+      label: -- Overall Course Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Course Rating - 1 to 10
+      hint: 1 = Poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_satisfaction
+      label: Overall Satisfaction with the Course
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 12
+      name: content_section
+      label: -- Course Content --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: content_quality
+      label: Quality of Course Content
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 14
+      name: content_relevance
+      label: Content Was Relevant and Up-to-Date
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: content_organization
+      label: Course Content Was Well-Organized
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 16
+      name: learning_objectives_met
+      label: Learning Objectives Were Clear and Met
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 17
+      name: instruction_section
+      label: -- Instruction and Teaching Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: instructor_knowledge
+      label: Instructor's Knowledge and Expertise
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 19
+      name: teaching_effectiveness
+      label: Teaching Methods Were Effective
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 20
+      name: instructor_clarity
+      label: Instructor Explained Concepts Clearly
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 21
+      name: student_engagement
+      label: Instructor Encouraged Student Engagement
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 22
+      name: feedback_on_assignments
+      label: Instructor Provided Timely Feedback
+      hint: On assignments and performance
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 23
+      name: materials_section
+      label: -- Course Materials and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: materials_quality
+      label: Quality of Course Materials
+      hint: Textbooks, handouts, online resources, etc.
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 25
+      name: materials_usefulness
+      label: Materials Were Useful for Learning
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 26
+      name: resources_accessibility
+      label: Resources Were Easily Accessible
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 27
+      name: workload_section
+      label: -- Course Workload and Pace --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: workload_appropriateness
+      label: Course Workload Was Appropriate
+      hint: null
+      type: select_one
+      options:
+      - Far Too Heavy
+      - Too Heavy
+      - Appropriate
+      - Too Light
+      - Far Too Light
+      required: true
+    - id: 29
+      name: pace_appropriateness
+      label: Course Pace Was Appropriate
+      hint: null
+      type: select_one
+      options:
+      - Too Slow
+      - Slow
+      - Just Right
+      - Fast
+      - Too Fast
+      required: true
+    - id: 30
+      name: learning_outcome
+      label: -- Learning Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: skill_development
+      label: You Developed New Skills from This Course
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 32
+      name: knowledge_gained
+      label: You Gained New Knowledge from This Course
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 33
+      name: application_value
+      label: Course Will Be Useful in Your Future Career
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true

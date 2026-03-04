@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Class Evaluation Form
+    pages:
+    - id: 1
+      name: questions
+      label: What did the class learn this week?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_performance
+      label: Class performance this week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: engagement
+      label: How was the class' engagement this week?
+      hint: Please rate the class' engagement on a scale of 1-10
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 4
+      name: suggestions_for_next_week
+      label: Any suggestions for next week?
+      hint: null
+      type: select_multiple
+      options:
+      - Improve classroom layout
+      - More hands-on activities
+      - Less homework
+      - More breaks
+      - Other
+      required: false
+    - id: 5
+      name: comments
+      label: Any comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: file_uploads
+      label: File uploads
+      hint: null
+      type: text
+      options: []
+      required: false

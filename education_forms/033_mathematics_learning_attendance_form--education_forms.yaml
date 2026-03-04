@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mathematics Learning Attendance Form
+    pages:
+    - id: 1
+      name: math_session
+      label: math_session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: grade_id
+      label: grade_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_count
+      label: student_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: math_session_status
+      label: math_session_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_start_time
+      label: session_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: session_end_time
+      label: session_end_time
+      hint: null
+      type: time
+      options: []
+      required: false

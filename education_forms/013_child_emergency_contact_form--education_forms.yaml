@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Emergency Contact Form
+    pages:
+    - id: 1
+      name: section_child_info
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: As registered in our system
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Child Date of Birth
+      hint: Select from calendar
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_contact_1
+      label: -- Primary Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_1_name
+      label: Contact 1 Full Name
+      hint: First person to call in an emergency
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_1_relationship
+      label: Contact 1 Relationship to Child
+      hint: e.g., Mother, Father, Guardian
+      type: select_one
+      options:
+      - label: Mother
+        value: mother
+      - label: Father
+        value: father
+      - label: Step-parent
+        value: stepparent
+      - label: Legal Guardian
+        value: guardian
+      - label: Other
+        value: other
+      required: true
+    - id: 7
+      name: contact_1_phone_primary
+      label: Contact 1 Primary Phone
+      hint: Best number for daytime calls
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_1_phone_secondary
+      label: Contact 1 Secondary Phone
+      hint: Work or home landline
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_contact_2
+      label: -- Secondary Emergency Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_2_name
+      label: Contact 2 Full Name
+      hint: Called if Primary Contact is unavailable
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_2_relationship
+      label: Contact 2 Relationship to Child
+      hint: e.g., Aunt, Grandparent, Friend
+      type: select_one
+      options:
+      - label: Grandparent
+        value: grandparent
+      - label: Aunt or Uncle
+        value: relative
+      - label: Family Friend
+        value: friend
+      - label: Neighbor
+        value: neighbor
+      required: true
+    - id: 12
+      name: contact_2_phone
+      label: Contact 2 Primary Phone
+      hint: Backup emergency number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_medical_alerts
+      label: -- Medical Alerts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: medical_info
+      label: Critical Medical Information or Allergies
+      hint: List all known conditions and severe allergies
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: physician_name
+      label: Name of Primary Care Physician
+      hint: For medical reference
+      type: text
+      options: []
+      required: false

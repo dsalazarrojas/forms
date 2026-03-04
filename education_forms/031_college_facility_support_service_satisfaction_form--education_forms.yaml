@@ -1,0 +1,265 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College Facility & Support Service Satisfaction Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: student_id
+        label: Student ID Number
+        hint: Optional - can remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: survey_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: year_in_school
+        label: Year in School
+        hint: null
+        type: select_one
+        options:
+          - Freshman
+          - Sophomore
+          - Junior
+          - Senior
+          - Graduate
+        required: true
+      - id: 5
+        name: facilities_header
+        label: -- Facilities and Infrastructure --
+        hint: Rate the quality of campus facilities
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: building_condition
+        label: Overall Building Condition
+        hint: Cleanliness, maintenance, repairs
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 7
+        name: classroom_facilities
+        label: Classroom Facilities and Equipment
+        hint: Technology, seating, lighting
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 8
+        name: library_facilities
+        label: Library Facilities and Resources
+        hint: Collections, computers, study space
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 9
+        name: lab_facilities
+        label: Laboratory and Research Facilities
+        hint: Equipment quality and availability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+          - N/A
+        required: true
+      - id: 10
+        name: recreational_facilities
+        label: Recreational Facilities
+        hint: Gym, sports fields, fitness centers
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 11
+        name: dining_facilities
+        label: Dining Facilities and Food Quality
+        hint: Cafeteria, food options, cleanliness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 12
+        name: parking_facilities
+        label: Parking and Transportation
+        hint: Availability and convenience
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 13
+        name: support_services_header
+        label: -- Support Services Quality --
+        hint: Rate the quality of support services
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: academic_advising
+        label: Academic Advising Services
+        hint: Counselor accessibility and helpfulness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 15
+        name: mental_health_services
+        label: Mental Health and Counseling Services
+        hint: Availability and quality of care
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 16
+        name: tutoring_services
+        label: Tutoring and Academic Support
+        hint: Effectiveness and availability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 17
+        name: career_services
+        label: Career Services and Job Placement
+        hint: Resume help, job fairs, internships
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 18
+        name: student_activities
+        label: Student Activities and Clubs
+        hint: Variety and engagement opportunities
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 19
+        name: administrative_services
+        label: Administrative Services
+        hint: Registrar, financial aid, billing
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 20
+        name: health_services
+        label: Health and Wellness Services
+        hint: Clinic, preventive care, vaccines
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 21
+        name: security_safety
+        label: Campus Security and Safety
+        hint: Police presence, emergency response
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Poor
+        required: true
+      - id: 22
+        name: biggest_strength
+        label: Biggest Strength of College
+        hint: What does the college do best
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: biggest_need
+        label: Biggest Area for Improvement
+        hint: What needs the most attention
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: additional_feedback
+        label: Additional Feedback or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

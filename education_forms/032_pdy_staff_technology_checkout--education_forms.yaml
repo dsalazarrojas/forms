@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: pdy_staff_technology_checkout
+    pages:
+    - id: 1
+      name: equipment_list
+      label: equipment_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_returned
+      label: date_returned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: condition
+      label: condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: staff_comments
+      label: staff_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: sub_category
+      label: sub_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: asset_number
+      label: asset_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: make
+      label: make
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: model
+      label: model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: mac_address
+      label: mac_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: asset_status
+      label: asset_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: remarks_2
+      label: remarks_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: remarks_3
+      label: remarks_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: remarks_4
+      label: remarks_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: remarks_5
+      label: remarks_5
+      hint: null
+      type: text
+      options: []
+      required: false

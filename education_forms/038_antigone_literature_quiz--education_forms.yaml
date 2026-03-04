@@ -1,0 +1,66 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Antigone Literature Quiz
+    pages:
+    - id: 1
+      name: section_quiz_instructions
+      label: -- Quiz Instructions --
+      hint: Answer questions based on the text Antigone by Sophocles
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name for grading
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_one
+      label: Who is Antigone related to in the play
+      hint: Select the best answer
+      type: select_one
+      options:
+        - Creon
+        - Ismene
+        - Oedipus
+        - Polyneices
+      required: true
+    - id: 4
+      name: question_two
+      label: What central theme is explored
+      hint: Choose the most appropriate theme
+      type: select_one
+      options:
+        - Fate versus free will
+        - Economic policy
+        - Scientific method
+        - Modern politics
+      required: true
+    - id: 5
+      name: short_answer
+      label: Provide a short analysis of Antigone motives
+      hint: 2 to 4 sentences
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_notes
+      label: Additional comments
+      hint: Optional references or sources used
+      type: text
+      options: []
+      required: false

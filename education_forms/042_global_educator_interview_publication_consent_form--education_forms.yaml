@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Educator Interview Publication Consent Form
+    pages:
+    - id: 1
+      name: educator_consent_page_1
+      label: Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: educator_consent_page_2
+      label: Interview Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: educator_consent_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: educator_consent_page_3
+      label: Interview Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interview_start_date
+      label: Interview Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: interview_end_date
+      label: Interview End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: educator_consent_form_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: educator_consent_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: educator_consent_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: educator_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: educator_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: interview_pub_perm
+      label: Publish Interview?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

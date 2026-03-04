@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Consultation Registration Form
+    pages:
+    - id: 1
+      name: section_child_id
+      label: -- Child Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_full_name
+      label: Child Full Name
+      hint: As registered in school records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: Select child birthday
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_school_grade
+      label: Current School and Grade
+      hint: e.g., Sunset Elementary - 2nd Grade
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_caregiver_details
+      label: -- Caregiver Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: caregiver_name
+      label: Primary Caregiver Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: Select one
+      type: select_one
+      options:
+      - label: Parent
+        value: parent
+      - label: Legal Guardian
+        value: guardian
+      - label: Grandparent
+        value: grandparent
+      - label: Other
+        value: other
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Primary mobile or home phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email Address
+      hint: For consultation details and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: section_consultation_reason
+      label: -- Reason for Consultation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: areas_of_concern
+      label: Primary Areas of Concern
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Academic Progress
+        value: academic
+      - label: Emotional Well-being
+        value: emotional
+      - label: Social Interactions
+        value: social
+      - label: Speech and Language
+        value: speech
+      required: true
+    - id: 12
+      name: concern_history
+      label: Brief History of Concerns
+      hint: When did you first notice these issues?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: prior_services
+      label: Has the child received prior services?
+      hint: Therapy, tutoring, or counseling
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 14
+      name: preferred_date
+      label: Preferred Consultation Date
+      hint: Subject to availability
+      type: date
+      options: []
+      required: false

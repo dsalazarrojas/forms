@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Functional Communication IEP Goal Tracking Form
+    pages:
+    - id: 1
+      name: communication_goals
+      label: Communication Goals
+      hint: null
+      type: select_multiple
+      options:
+      - goal1
+      - goal2
+      - goal3
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_data
+      label: Student Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_start
+      label: Date Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_end
+      label: Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Poll
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: Optional - anonymous option
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: class_name
+        label: Class Name
+        hint: Which class is this for
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: instructor_name
+        label: Instructor Name
+        hint: Teacher or professor
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: poll_topic
+        label: Poll Topic
+        hint: What is being voted on
+        type: select_one
+        options:
+          - Next class topic
+          - Assignment due date
+          - Group project partners
+          - Class activity preference
+          - Study session time
+          - Presentation order
+          - Book or reading selection
+          - Field trip destination
+          - Guest speaker topic
+          - Other
+        required: true
+      - id: 5
+        name: option_1
+        label: Option 1 - Review Session
+        hint: Would you prefer a review session before the exam
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, optional
+          - No, not needed
+          - Unsure
+        required: true
+      - id: 6
+        name: option_2
+        label: Option 2 - Review Session Day
+        hint: Which day works best
+        type: select_one
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Weekend
+        required: true
+      - id: 7
+        name: option_3
+        label: Option 3 - Review Session Time
+        hint: Preferred time
+        type: select_one
+        options:
+          - Morning (9AM-12PM)
+          - Afternoon (12PM-4PM)
+          - Evening (4PM-8PM)
+          - Late evening (8PM-10PM)
+        required: true
+      - id: 8
+        name: option_4
+        label: Option 4 - Study Format
+        hint: How would you prefer to study
+        type: select_one
+        options:
+          - In-person group study
+          - Online video session
+          - Study guide only
+          - One-on-one tutoring
+          - Self-study
+        required: true
+      - id: 9
+        name: option_5
+        label: Option 5 - Assignment Extension
+        hint: Would you benefit from an extension
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, somewhat
+          - No, current deadline is fine
+          - No preference
+        required: true
+      - id: 10
+        name: option_6
+        label: Option 6 - Group Work Preference
+        hint: For next project
+        type: select_one
+        options:
+          - Prefer individual work
+          - Prefer small groups (2-3)
+          - Prefer medium groups (4-6)
+          - Prefer large groups (7+)
+          - No preference
+        required: true
+      - id: 11
+        name: option_7
+        label: Option 7 - Class Participation
+        hint: How comfortable are you participating
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Neutral
+          - Somewhat uncomfortable
+          - Very uncomfortable
+        required: true
+      - id: 12
+        name: option_8
+        label: Option 8 - Feedback Method
+        hint: How do you prefer to receive feedback
+        type: select_one
+        options:
+          - In-person meeting
+          - Written comments
+          - Video call
+          - Email
+          - Learning management system
+        required: true
+      - id: 13
+        name: attendance_next_class
+        label: Will You Attend the Next Class
+        hint: Confirm your attendance
+        type: select_one
+        options:
+          - Yes, definitely
+          - Probably yes
+          - Unsure
+          - Probably not
+          - No, will be absent
+        required: true
+      - id: 14
+        name: absence_reason
+        label: Reason for Absence
+        hint: If not attending
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: understanding_level
+        label: How Well Do You Understand Current Material
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Adequately
+          - Poorly
+          - Very poorly
+        required: true
+      - id: 16
+        name: help_needed
+        label: Do You Need Additional Help
+        hint: With current material
+        type: select_one
+        options:
+          - Yes, urgently
+          - Yes, somewhat
+          - No, I am good
+          - Unsure
+        required: true
+      - id: 17
+        name: preferred_help
+        label: What Type of Help Would You Prefer
+        hint: If yes
+        type: select_multiple
+        options:
+          - Office hours
+          - Tutoring center
+          - Study group
+          - Online resources
+          - Peer mentoring
+          - Extra practice problems
+          - Video tutorials
+        required: false
+      - id: 18
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Placement Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: If assigned
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_address
+      label: Home Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_grade
+      label: Current Grade Level
+      hint: What grade just completed
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 10
+      name: placing_grade
+      label: Grade for Placement
+      hint: Next grade level
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      - Post-graduate
+      required: true
+    - id: 11
+      name: current_school
+      label: Current School Name
+      hint: Where student attends now
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: academic_year
+      label: Academic Year
+      hint: For placement
+      type: select_one
+      options:
+      - 2025-2026
+      - 2026-2027
+      - 2027-2028
+      required: true
+    - id: 13
+      name: placement_reason
+      label: Reason for Placement Request
+      hint: Select the reason
+      type: select_one
+      options:
+      - New student enrollment
+      - Grade promotion
+      - Class transfer
+      - School transfer
+      - Special program placement
+      - Remedial placement
+      - Advanced placement
+      - Other
+      required: true
+    - id: 14
+      name: current_gpa
+      label: Current GPA
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: academic_strengths
+      label: Student Academic Strengths
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mathematics
+      - Science
+      - English Language Arts
+      - Social Studies
+      - Foreign Languages
+      - Arts
+      - Music
+      - Technology
+      - Physical Education
+      - Critical thinking
+      - Writing
+      - Reading
+      required: true
+    - id: 16
+      name: academic_challenges
+      label: Areas Where Student Needs Support
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mathematics
+      - Science
+      - English Language Arts
+      - Social Studies
+      - Foreign Languages
+      - Study skills
+      - Time management
+      - Test taking
+      - Reading comprehension
+      - Writing
+      - None
+      required: false
+    - id: 17
+      name: special_programs
+      label: Is Student in Any Special Programs
+      hint: Gifted, special education, etc.
+      type: select_one
+      options:
+      - Gifted and Talented
+      - Special Education
+      - ESL or ELL
+      - Advanced Placement
+      - Honors Program
+      - None
+      required: true
+    - id: 18
+      name: learning_style
+      label: Student Learning Style
+      hint: How they learn best
+      type: select_one
+      options:
+      - Visual learner
+      - Auditory learner
+      - Kinesthetic or hands-on
+      - Reading and writing
+      - Mixed style
+      - Unsure
+      required: false
+    - id: 19
+      name: preferred_class_time
+      label: Preferred Class Time
+      hint: If applicable
+      type: select_one
+      options:
+      - Morning
+      - Midday
+      - Afternoon
+      - Evening
+      - No preference
+      required: false
+    - id: 20
+      name: teacher_preference
+      label: Do You Have a Teacher Preference
+      hint: For placement
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: teacher_preference_name
+      label: Preferred Teacher Name
+      hint: If yes, who
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: classmates_request
+      label: Are There Classmates to Place Together
+      hint: Siblings or friends
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments or Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

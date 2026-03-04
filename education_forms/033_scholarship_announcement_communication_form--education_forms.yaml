@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: scholarship_announcement_communication_form
+    pages:
+    - id: 1
+      name: scholarship_announcement_communication_form_page_1
+      label: scholarship_announcement_communication_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_information
+      label: applicant_information_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: scholarship_description
+      label: scholarship_description_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scholarship_name
+      label: scholarship_name_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: scholarship_type
+      label: scholarship_type_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: scholarship_eligibility_criteria
+      label: scholarship_eligibility_criteria_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: how_to_apply
+      label: how_to_apply_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: contact_person_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: contact_email_label
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact_phone_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email_alternate
+      label: contact_email_alternate_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone_alternate
+      label: contact_phone_alternate_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: scholarship_announcement
+      label: scholarship_announcement_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: scholarship_start_date
+      label: scholarship_start_date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: scholarship_end_date
+      label: scholarship_end_date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: scholarship_status
+      label: scholarship_status_label
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: announcement_link
+      label: announcement_link_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: upload_files
+      label: upload_files_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitter
+      label: submitter_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: submitted_by_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_date
+      label: submitted_date_label
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submitted_time
+      label: submitted_time_label
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: submitted_ip
+      label: submitted_ip_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_user
+      label: submitted_user_label
+      hint: null
+      type: text
+      options: []
+      required: true

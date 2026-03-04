@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sacrament Information Form For Students
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_date_of_entry
+      label: Date of Entry
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sacrament_first_name
+      label: First Sacrament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sacrament_last_name
+      label: Last Sacrament Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sacrament_date_of_sacrament
+      label: Date of Sacrament
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_sacrament_type
+      label: Sacrament Type
+      hint: null
+      type: select_one
+      options:
+      - First Confession
+      - First Communion
+      - Confirmation
+      - Baptism
+      - Other
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - johndoe
+      - janesmith
+      required: false
+    - id: 14
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

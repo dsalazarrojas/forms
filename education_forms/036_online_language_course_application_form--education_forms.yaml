@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Language Course Application Form
+    pages:
+    - id: 1
+      name: course_preferred_language
+      label: Language preferred
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Chinese
+      - Arabic
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_telephone
+      label: Contact telephone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_country
+      label: Applicant country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - India
+      - France
+      required: true
+    - id: 6
+      name: course_level
+      label: Course level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 7
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Application ID
+      hint: null
+      type: text
+      options: []
+      required: true

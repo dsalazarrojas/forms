@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mothering Mentoring Course Application Form
+    pages:
+    - id: 1
+      name: mothering_mentoring_course_form
+      label: Mothering Mentoring Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: applicant_phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: false

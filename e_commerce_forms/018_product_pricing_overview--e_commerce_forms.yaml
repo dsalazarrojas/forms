@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Pricing Overview
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: price_cents
+      label: Price Cents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: price_currency
+      label: Price Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: promo_start_date
+      label: Promo Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: promo_end_date
+      label: Promo End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: competitive_price
+      label: Competitive Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_url
+      label: Product URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_tags
+      label: Product Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: competitive_price_tier
+      label: Competitive Price Tier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: price_update_frequency
+      label: Price Update Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_status
+      label: Product Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: price_tiers
+      label: Price Tiers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: competitive_price_tiers
+      label: Competitive Price Tiers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: price_currency_tiers
+      label: Price Currency Tiers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: product_tags_tier
+      label: Product Tags Tier
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

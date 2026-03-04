@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caesar s Campaigns Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class
+      label: Class or group
+      hint: Course identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: q1
+      label: Question 1 - Key event year
+      hint: Choose the correct year
+      type: select_one
+      options:
+      - 49 BC
+      - 45 BC
+      - 44 BC
+      required: true
+    - id: 4
+      name: q2
+      label: Question 2 - Major opponent
+      hint: Select the primary opponent
+      type: select_one
+      options:
+      - Pompey
+      - Cassius
+      - Antony
+      required: true
+    - id: 5
+      name: q3
+      label: Question 3 - Campaign region
+      hint: Select the primary region
+      type: select_multiple
+      options:
+      - Gaul
+      - Britain
+      - Egypt
+      required: true
+    - id: 6
+      name: score
+      label: Score
+      hint: For instructor use
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: Instructor comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: completion_time
+      label: Completion time
+      hint: Time taken to finish quiz
+      type: time
+      options: []
+      required: false

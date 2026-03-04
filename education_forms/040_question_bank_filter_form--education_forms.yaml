@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Question Bank Filter Form
+    pages:
+    - id: 1
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: select_one
+      options:
+      - math
+      - science
+      - social_studies
+      - language_arts
+      - etc
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - elementary
+      - middle
+      - high_school
+      - etc
+      required: false
+    - id: 3
+      name: type_of_question
+      label: Type of Question
+      hint: null
+      type: select_multiple
+      options:
+      - single_choice
+      - multiple_choice
+      - true_false
+      - etc
+      required: false
+    - id: 4
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_multiple
+      options:
+      - multiple_choice
+      - true_false
+      - etc
+      required: false
+    - id: 5
+      name: question_bank_id
+      label: Question Bank ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: search_term
+      label: Search Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: subject_areas
+      label: Subject Areas
+      hint: null
+      type: select_multiple
+      options:
+      - math
+      - science
+      - social_studies
+      - language_arts
+      - etc
+      required: false
+    - id: 8
+      name: grade_levels
+      label: Grade Levels
+      hint: null
+      type: select_multiple
+      options:
+      - elementary
+      - middle
+      - high_school
+      - etc
+      required: false
+    - id: 9
+      name: instruction_level_ids
+      label: Instructional Level IDs
+      hint: null
+      type: select_multiple
+      options:
+      - high_school
+      - middle
+      - elementary
+      - etc
+      required: false
+    - id: 10
+      name: subject_areas_ids
+      label: Subject Areas IDs
+      hint: null
+      type: select_multiple
+      options:
+      - math
+      - science
+      - social_studies
+      - language_arts
+      - etc
+      required: false
+    - id: 11
+      name: grade_level_ids
+      label: Grade Levels IDs
+      hint: null
+      type: select_multiple
+      options:
+      - elementary
+      - middle
+      - high_school
+      - etc
+      required: false

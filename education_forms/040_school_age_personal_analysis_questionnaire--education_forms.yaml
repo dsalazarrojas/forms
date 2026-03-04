@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: school_age_personal_analysis_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_year
+      label: school_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_subjects
+      label: student_subjects
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Math
+      - Science
+      - Language
+      - Social Studies
+      - Physical Education
+      - Arts
+      - Health and Physical Education
+      required: true
+    - id: 6
+      name: student_subjects_other
+      label: student_subjects_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_interest
+      label: student_interest
+      hint: null
+      type: select_multiple
+      options:
+      - Music
+      - Art
+      - Drama
+      - Dance
+      - Physical Education
+      required: false
+    - id: 8
+      name: school_subjects
+      label: school_subjects
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Math
+      - Science
+      - Language
+      - Social Studies
+      - Physical Education
+      - Arts
+      - Health and Physical Education
+      required: true
+    - id: 9
+      name: school_subjects_other
+      label: school_subjects_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_year
+      label: school_year
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      required: true
+    - id: 11
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_notes
+      label: teacher_notes
+      hint: null
+      type: note
+      options: []
+      required: false

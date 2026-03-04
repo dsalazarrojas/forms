@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suicide Risk Screening & Re Entry Protocol
+    pages:
+    - id: 1
+      name: suicide_risk_screening_page
+      label: Suicide Risk Screening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: re_entry_protocol_page
+      label: Re Entry Protocol
+      hint: Provide details of the re-entry protocol
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: re_entry_protocol_date
+      label: Re Entry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: re_entry_protocol_time
+      label: Re Entry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: counselor_name
+      label: Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: counselor_title
+      label: Counselor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: suicidal_thoughts
+      label: Have you had suicidal thoughts?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: previous_attempts
+      label: Previous suicide attempts
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: feelings_of_suicidalness
+      label: Feelings of suicidalness (scale 1-10)
+      hint: Scale 1-10
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: suicidal_thoughts_2
+      label: Have you had suicidal thoughts in the past 24 hours?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: nature_program_enrollment_form
+    pages:
+    - id: 1
+      name: name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_type
+      label: Program type
+      hint: null
+      type: select_one
+      options:
+      - Nature Walk
+      - Nature Hike
+      - Conservation Day
+      required: false
+    - id: 4
+      name: start_date
+      label: Start date
+      hint: Date (mm/dd/yyyy)
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End date
+      hint: Date (mm/dd/yyyy)
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_count
+      label: Participant count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: program_location
+      label: Program location
+      hint: null
+      type: select_one
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 14
+      name: program_details
+      label: Program details
+      hint: null
+      type: select_multiple
+      options:
+      - Details 1
+      - Details 2
+      - Details 3
+      required: false
+    - id: 15
+      name: program_organizer
+      label: Program organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: program_coordinator
+      label: Program coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_agreement
+      label: Participant agreement
+      hint: null
+      type: select_one
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 18
+      name: chatjimmy_notes
+      label: chatjimmy_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: participant_agreement_date
+      label: Participant agreement date
+      hint: Date (mm/dd/yyyy)
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: participant_agreement_signed
+      label: Participant agreement signed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: participant_agreement_signed_date
+      label: Participant agreement signed date
+      hint: Date (mm/dd/yyyy)
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: organization_notes
+      label: organization_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

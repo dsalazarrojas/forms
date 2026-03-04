@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: COI Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Institutional email preferred
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Your role
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: institution
+      label: Institution
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reporting_period
+      label: Reporting Period
+      hint: Time period this covers
+      type: select_one
+      options:
+      - Annual Disclosure 2026
+      - New Hire Disclosure
+      - Event-Driven Disclosure
+      - Update to Previous Disclosure
+      required: true
+    - id: 8
+      name: form_purpose
+      label: Purpose of This Form
+      hint: Why are you submitting
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: financial_interests
+      label: Do You Have Financial Interests
+      hint: Related to your institutional responsibilities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: financial_interests_detail
+      label: Describe Financial Interests
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: outside_positions
+      label: Do You Hold Outside Positions
+      hint: Board memberships consulting roles
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: outside_positions_detail
+      label: Describe Outside Positions
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: research_funding
+      label: Do You Have External Research Funding
+      hint: From industry or private sources
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 14
+      name: research_funding_detail
+      label: Describe Research Funding
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: intellectual_property
+      label: Do You Have Intellectual Property
+      hint: Patents copyrights with financial value
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: intellectual_property_detail
+      label: Describe Intellectual Property
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: family_conflicts
+      label: Potential Family Conflicts
+      hint: Family members with relevant interests
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: family_conflicts_detail
+      label: Describe Family Conflicts
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_reimbursements
+      label: Did You Receive Travel Reimbursements
+      hint: Related to institutional activities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: travel_reimbursements_detail
+      label: Describe Travel Reimbursements
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: conflict_management
+      label: Are You Aware of Any Conflicts
+      hint: Actual or apparent conflicts of interest
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: conflict_management_detail
+      label: Describe Potential Conflicts
+      hint: Provide details if yes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: management_plan_needed
+      label: Do You Need a Management Plan
+      hint: To address potential conflicts
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 24
+      name: certification
+      label: Certification Statement
+      hint: I certify this disclosure is complete and accurate
+      type: select_one
+      options:
+      - I Certify
+      - I Do Not Certify
+      required: true
+    - id: 25
+      name: signature
+      label: Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: date_signed
+      label: Date Signed
+      hint: Today date
+      type: date
+      options: []
+      required: true

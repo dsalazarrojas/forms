@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: reading_progress_log
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reading_activity
+      label: Reading Activity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reading_level
+      label: Reading Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reading_time
+      label: Reading Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reading_level
+      label: Reading Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: read_together
+      label: Read Together
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reading_time
+      label: Reading Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reading_frequency
+      label: Reading Frequency
+      hint: null
+      type: select_one
+      options:
+      - Reading Every Day
+      - Reading 2-3 Times A Week
+      - Reading 1-2 Times A Week
+      - Never
+      required: true
+    - id: 12
+      name: reading_duration
+      label: Reading Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 15-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - 2-3 hours
+      - More
+      required: true
+    - id: 13
+      name: reading_goal
+      label: Reading Goal
+      hint: null
+      type: select_multiple
+      options:
+      - Reach 1-100 pages
+      - Reach 100-500 pages
+      - Reach 500-1000 pages
+      - Finish 1-5 chapters
+      - Finish 5-10 chapters
+      - Finish 10+ chapters
+      required: true
+    - id: 14
+      name: reading_level_progress
+      label: Reading Level Progress
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      - D
+      - F
+      required: false
+    - id: 15
+      name: reading_level_comment
+      label: Reading Level Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: read_aloud
+      label: Read Aloud
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reading_comprehension
+      label: Reading Comprehension
+      hint: null
+      type: text
+      options: []
+      required: false

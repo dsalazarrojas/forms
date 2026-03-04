@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Benefit Form
+    pages:
+    - id: 1
+      name: form_title
+      label: educational_benefit_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: institution_name
+      label: institution_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: financial_aid_type
+      label: financial_aid_type
+      hint: null
+      type: select_one
+      options:
+      - AID_TYPE_1
+      - AID_TYPE_2
+      - AID_TYPE_3
+      required: false
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_disbursement
+      label: date_of_disbursement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: institution_signature
+      label: institution_signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_learning_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: select one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6, ''name'': ''option_1'', ''value'': ''Option 1''}'
+      - '{''id'': 7, ''name'': ''option_2'', ''value'': ''Option 2''}'
+      - '{''id'': 8, ''name'': ''option_3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: select_multiple
+      label: select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''option_4'', ''value'': ''Option 4''}'
+      - '{''id'': 11, ''name'': ''option_5'', ''value'': ''Option 5''}'
+      - '{''id'': 12, ''name'': ''option_6'', ''value'': ''Option 6''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: survey_type
+      label: How do you rate your e-learning experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 19, ''name'': ''option_7'', ''value'': ''Positive''}'
+      - '{''id'': 20, ''name'': ''option_8'', ''value'': ''Negative''}'
+      - '{''id'': 21, ''name'': ''option_9'', ''value'': ''Neutral''}'
+      required: false
+    - id: 13
+      name: rating
+      label: How likely are you to recommend the course?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 23, ''name'': ''option_10'', ''value'': ''Likely''}'
+      - '{''id'': 24, ''name'': ''option_11'', ''value'': ''Not Likely''}'
+      - '{''id'': 25, ''name'': ''option_12'', ''value'': ''Very Likely''}'
+      required: false
+    - id: 14
+      name: email_repeat
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

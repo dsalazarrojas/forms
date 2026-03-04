@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_vendor_setup_form
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Info
+      hint: null
+      type: select_multiple
+      options:
+      - Event ประก
+      - Event B
+      - Event C
+      required: false
+    - id: 2
+      name: booth_type
+      label: booth_type
+      hint: null
+      type: select_one
+      options:
+      - Vendor Booth
+      - Vendor Table
+      required: false
+    - id: 3
+      name: booth_size
+      label: booth_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_representative
+      label: Vendor Representitive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: select_multiple
+      options:
+      - CA
+      - OR
+      required: false
+    - id: 13
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false

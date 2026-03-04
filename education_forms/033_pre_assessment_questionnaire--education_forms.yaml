@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Assessment Questionnaire
+    pages:
+    - id: 1
+      name: section_1
+      label: English Language Proficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: section_2
+      label: Language Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: listening_comprehension
+      label: Listening Comprehension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reading_comprehension
+      label: Reading Comprehension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: speaking
+      label: Speaking Skill
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: writing_comprehension
+      label: Writing Comprehension
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: writing_production
+      label: Writing Production
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: reading_production
+      label: Reading Production
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: listening_production
+      label: Listening Production
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: speaking_production
+      label: Speaking Production
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_3
+      label: Additional Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: other_languages_spoken
+      label: Other languages Spoken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: native_language
+      label: Native Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: language_learned
+      label: Language Learned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: field_18
+      label: Field 18
+      hint: null
+      type: text
+      options: []
+      required: false

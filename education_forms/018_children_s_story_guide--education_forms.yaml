@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Story Guide
+    pages:
+    - id: 1
+      name: educator_name
+      label: Educator Name
+      hint: Name of teacher or facilitator
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: target_age
+      label: Target Age Group
+      hint: Recommended age range for story activities
+      type: select_one
+      options:
+      - 3 to 5
+      - 6 to 8
+      - 9 to 11
+      required: true
+    - id: 3
+      name: learning_objectives
+      label: Learning Objectives
+      hint: Key goals for the storytelling session
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: story_titles
+      label: Story Titles Suggested
+      hint: List recommended titles or authors
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: activity_ideas
+      label: Activity Ideas
+      hint: Interactive activities to complement the story
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: materials_needed
+      label: Materials Needed
+      hint: List props or materials required
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_estimate
+      label: Time Estimate
+      hint: Suggested duration for the storytelling session
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assessment_suggestions
+      label: Assessment Suggestions
+      hint: Ways to measure engagement or learning
+      type: text
+      options: []
+      required: false

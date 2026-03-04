@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Centurion Home Edition Information Request Form
+    pages:
+    - id: 1
+      name: contact_details_header
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: To send the requested information
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_name
+      label: Student Name
+      hint: For personalizing the information package
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_grade_level
+      label: Student Grade - Level
+      hint: Current academic level of the student
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: information_requested_header
+      label: -- Information Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Curriculum Details
+      - Pricing and Packages
+      - Support and Tutoring
+      - Technical Requirements
+      - Enrollment Process
+      required: true
+    - id: 11
+      name: contact_preference_header
+      label: -- Preferred Method of Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_method
+      label: How would you like us to contact you
+      hint: Choose your preferred communication channel
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Video Consultation
+      required: true
+    - id: 13
+      name: message_questions_header
+      label: -- Message and Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: specific_questions
+      label: Specific Questions or Requests
+      hint: Any other information you are looking for
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referral_source_header
+      label: -- Discovery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: discovery_source
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Search Engine
+      - Friend Recommendation
+      - Social Media
+      - Print Advertisement
+      required: false
+    - id: 17
+      name: request_submission_header
+      label: -- Request Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: information_request_date
+      label: Date of Request
+      hint: Today's date
+      type: date
+      options: []
+      required: true

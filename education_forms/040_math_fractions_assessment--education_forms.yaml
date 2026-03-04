@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Math Fractions Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 5
+      name: numerator_value
+      label: Numerator Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: denominator_value
+      label: Denominator Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: is_greater
+      label: Is Greater
+      hint: null
+      type: select_one
+      options:
+      - Less than
+      - Equal to
+      - Greater than
+      required: true
+    - id: 8
+      name: answer
+      label: Answer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: correct_answer
+      label: Correct Answer
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 10
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: true

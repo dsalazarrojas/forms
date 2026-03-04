@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education Program Course Evaluation Form
+    pages:
+    - id: 1
+      name: program_evaluation_header
+      label: -- Program Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_program_name
+      label: Parent Program/Certificate Name
+      hint: e.g., Executive Leadership Certificate
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: specific_course_code
+      label: Course Code/Title
+      hint: e.g., LEAD-402 Strategic Planning
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: learning_objectives_header
+      label: -- Objectives and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: objectives_met_status
+      label: Were the stated learning objectives met
+      hint: null
+      type: select_one
+      options:
+      - Yes - All objectives met
+      - Yes - Most objectives met
+      - No - Objectives were not clear or met
+      required: true
+    - id: 6
+      name: objectives_commentary
+      label: If objectives were not met, please explain why
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course_delivery_header
+      label: -- Course Delivery and Pace --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_pace_rating
+      label: Rate the pace of the course
+      hint: null
+      type: select_one
+      options:
+      - Too Fast - Difficult to keep up
+      - About Right - Challenging but manageable
+      - Too Slow - Could have covered more material
+      required: true
+    - id: 9
+      name: real_world_application_score
+      label: Level of 'Real-World' applicability (1-10)
+      hint: How likely are you to use this in your job tomorrow
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: administrative_support_rating
+      label: Rating of Administrative Support
+      hint: Coordination, enrollment help, communication
+      type: select_one
+      options:
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
+      - N/A
+      required: true
+    - id: 11
+      name: program_impact_header
+      label: -- Long-term Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: career_advancement_potential
+      label: Do you feel this course aids in career advancement
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, moderately
+      - Not really
+      required: true
+    - id: 13
+      name: future_course_interest
+      label: What other courses would you like to see in this program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: overall_program_satisfaction
+      label: Overall Satisfaction with this Program
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not Satisfied
+      - 2 - Slightly Satisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Extremely Satisfied
+      required: true
+    - id: 15
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

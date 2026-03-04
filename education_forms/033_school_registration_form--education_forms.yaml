@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: school-registration-form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: class_choice_1
+      label: Class Choice 1
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      required: false
+    - id: 5
+      name: class_choice_2
+      label: Class Choice 2
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      required: false
+    - id: 6
+      name: school_terms_conditions
+      label: School Terms & Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_identifier
+      label: Student Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

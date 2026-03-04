@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_model_program_application
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resources
+      label: Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: candidate_contacts
+      label: Candidate Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_proposal
+      label: Project Proposal
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: project_proposal_details
+      label: Project Proposal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candidate_address
+      label: Candidate Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: candidate_phone
+      label: Candidate Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: candidate_email
+      label: Candidate Email
+      hint: null
+      type: email
+      options: []
+      required: false

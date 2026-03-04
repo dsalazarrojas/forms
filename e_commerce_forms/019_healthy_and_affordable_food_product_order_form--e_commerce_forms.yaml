@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy And Affordable Food Product Order Form
+    pages:
+    - id: 1
+      name: restaurant_details
+      label: Order From Restaurant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: Product Orders
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: false
+    - id: 3
+      name: quantity_ordered
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

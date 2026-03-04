@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alyssa Cs
+    pages:
+    - id: 1
+      name: section_account_information
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User name
+      hint: Display name for the account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For account notifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: favorite_product
+      label: Favorite product
+      hint: Product of interest
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: marketing_opt_in
+      label: Marketing opt in
+      hint: Agree to receive marketing emails
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 6
+      name: order_frequency
+      label: Typical order frequency
+      hint: Choose one
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback for the team
+      hint: Optional comments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone number
+      hint: Optional contact phone
+      type: text
+      options: []
+      required: false

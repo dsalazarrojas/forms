@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cervical Collar Removal Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_legal_name
+      label: Patient Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_date_of_birth
+      label: Patient Date of Birth
+      hint: To ensure correct record matching
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number (MRN)
+      hint: Unique hospital or clinic identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_contact_phone
+      label: Patient Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_clinical_assessment
+      label: -- Clinical Assessment and Rationale --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: admitting_diagnosis_reason
+      label: Admitting Diagnosis or Reason for Collar
+      hint: Why was the cervical collar originally applied?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: spinal_clearance_status
+      label: Spinal Clearance Status
+      hint: Has the spine been clinically or radiographically cleared?
+      type: select_one
+      options:
+      - Clinically Cleared (Physical Exam)
+      - Radiographically Cleared (Imaging)
+      - Both Clinically and Radiographically Cleared
+      - Not Yet Cleared
+      required: true
+    - id: 9
+      name: imaging_results_summary
+      label: Summary of Imaging Results
+      hint: Brief description of X-ray, CT, or MRI findings
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_pain_score_neck
+      label: Current Neck Pain Score
+      hint: Rate from 0 (No pain) to 10 (Worst pain)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_consent_acknowledgement
+      label: -- Consent and Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: collar_removal_consent_patient
+      label: Patient Consent for Collar Removal
+      hint: I consent to the removal of my cervical collar based on the medical evaluation
+      type: select_one
+      options:
+      - I Consent and Agree
+      - I Decline at this Time
+      required: true
+    - id: 13
+      name: explanation_of_risks_benefits
+      label: Risks and Benefits Explained
+      hint: I acknowledge that the risks and benefits of collar removal have been
+        explained to me
+      type: select_one
+      options:
+      - I Acknowledge and Understand
+      - Other
+      required: true
+    - id: 14
+      name: section_authorization_staff
+      label: -- Authorization (Staff Use Only) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: authorizing_physician_name
+      label: Authorizing Physician Name
+      hint: Name of the doctor who ordered the removal
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: staff_member_performing_removal
+      label: Staff Member Performing Removal
+      hint: Name of the nurse or technician
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: post_removal_instructions_provided
+      label: Post-Removal Instructions Provided?
+      hint: Has the patient been advised on neck movement and care?
+      type: select_one
+      options:
+      - Yes - Instructions Provided
+      - No - Not Yet Provided
+      required: true
+    - id: 18
+      name: date_of_collar_removal
+      label: Date of Removal
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time_of_collar_removal
+      label: Time of Removal
+      hint: Specific time the collar was removed
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: clinical_notes_post_removal
+      label: Clinical Notes Post-Removal
+      hint: Any changes in neurological status or pain
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: patient_witness_signature_date
+      label: Patient Witness Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

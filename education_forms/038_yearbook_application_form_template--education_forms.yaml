@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yearbook Application Form Template
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Teacher
+      - Staff
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: yearbook_info
+      label: Yearbook Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: yearbook_info_year
+      label: Year
+      hint: Year of application
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: yearbook_info_month
+      label: Month
+      hint: Month of application
+      type: number
+      options: []
+      required: true

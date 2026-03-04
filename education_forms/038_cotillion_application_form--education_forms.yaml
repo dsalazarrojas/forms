@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cotillion Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_event
+      label: dateOfEvent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_event
+      label: timeOfEvent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: event_description
+      label: eventDescription
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: numberOfGuests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: age_of_applicant
+      label: ageOfApplicant
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: paymentMethod
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payment_status
+      label: paymentStatus
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Other
+      required: true
+    - id: 12
+      name: additional_comments
+      label: additionalComments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_payment
+      label: confirmPayment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: confirm_payment_comment
+      label: confirmPaymentComment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: confirm_submit
+      label: confirmSubmit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: confirm_submit_comment
+      label: confirmSubmitComment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 19
+      name: terms_and_conditions
+      label: termsAndConditions
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 20
+      name: terms_and_conditions_comment
+      label: termsAndConditionsComment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_name
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_email
+      label: SubmitterEmail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: submitter_phone
+      label: SubmitterPhone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_organization
+      label: SubmitterOrganization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_note
+      label: SubmitterNote
+      hint: null
+      type: note
+      options: []
+      required: false

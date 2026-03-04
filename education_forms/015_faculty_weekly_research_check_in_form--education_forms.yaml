@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Weekly Research Check In Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Faculty Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_id
+      label: Project
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: research_progress
+      label: Research Progress
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: obstacles
+      label: Obstacles Encountered
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_needed
+      label: Support Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_last_check_in
+      label: Date Last Check In
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_last_check_in
+      label: Time Last Check In
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: last_check_in_method
+      label: Last Check In Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''In-person''}'
+      - '{''value'': 2, ''label'': ''Phone''}'
+      - '{''value'': 3, ''label'': ''Video Conference''}'
+      required: true
+    - id: 9
+      name: next_check_in_date
+      label: Next Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escape Room Consent Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: parent_consent
+      label: Parent Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: teacher_consent
+      label: Teacher Consent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false

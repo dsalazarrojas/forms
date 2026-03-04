@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dormitory Safety Inspection Form
+    pages:
+    - id: 1
+      name: dormitory_safety_inspection_form
+      label: Inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: dormitory_inspector
+      label: Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dormitory_facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: dormitory_facility_name
+      label: Facility name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dormitory_facility_address
+      label: Facility address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dormitory_facility_contact_info
+      label: Facility contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dormitory_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dormitory_safety_concerns
+      label: Safety concerns
+      hint: List any safety concerns
+      type: select_multiple
+      options:
+      - electrical issues
+      - water issues
+      - fire safety
+      required: true
+    - id: 9
+      name: dormitory_action_items
+      label: Action items
+      hint: null
+      type: select_one
+      options:
+      - Fix electrical issues
+      - Repair water issues
+      - Check fire safety
+      - None of the above
+      required: true
+    - id: 10
+      name: dormitory_inspection_results
+      label: Inspection results
+      hint: null
+      type: text
+      options: []
+      required: false

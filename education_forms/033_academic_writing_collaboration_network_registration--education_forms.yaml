@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Writing Collaboration Network Registration
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Writing Collaboration Network Registration --
+      hint: Join the writing collaboration network to connect with peers who share
+        your research interests.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: member_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: member_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institution
+      label: Institution or university
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: academic_role
+      label: Academic role
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate Student
+      - Graduate Student - Masters
+      - Graduate Student - Doctoral
+      - Postdoctoral Researcher
+      - Faculty
+      - Independent Researcher
+      required: true
+    - id: 9
+      name: research_areas
+      label: Primary research areas or disciplines (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Humanities
+      - Social Sciences
+      - Natural Sciences
+      - Engineering
+      - Health Sciences
+      - Business and Management
+      - Education
+      - Arts and Design
+      required: true
+    - id: 10
+      name: writing_stage
+      label: Current stage of your primary writing project
+      hint: null
+      type: select_one
+      options:
+      - Topic exploration and brainstorming
+      - Literature review
+      - Data collection or analysis
+      - Drafting
+      - Revision and editing
+      - Preparing for submission
+      required: true
+    - id: 11
+      name: collaboration_type
+      label: What type of collaboration are you looking for (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Writing accountability partner
+      - Peer reviewer or feedback partner
+      - Co-author for joint publications
+      - Writing group for regular sessions
+      - Mentor or mentee relationship
+      required: true
+    - id: 12
+      name: meeting_preference
+      label: Preferred meeting format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Hybrid
+      - No preference
+      required: true
+    - id: 13
+      name: availability
+      label: Preferred meeting times (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekends
+      required: true
+    - id: 14
+      name: writing_goals
+      label: What are your main goals for joining the network
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: additional_info
+      label: Anything else you would like the network coordinators to know
+      hint: null
+      type: text
+      options: []
+      required: false

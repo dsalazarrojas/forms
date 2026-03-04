@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Withdrawal Grade Form
+    pages:
+    - id: 1
+      name: withdrawal_request_form
+      label: Withdrawal Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: reason_for_withdrawal
+      label: Reason for Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: academic_year
+      label: Academic Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: term
+      label: Term
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_contact_email
+      label: Student Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_contact_phone
+      label: Student Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_contact_phone_type
+      label: Student Contact Phone Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: teacher_contact_email
+      label: Teacher Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: teacher_contact_phone
+      label: Teacher Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_contact_phone_type
+      label: Teacher Contact Phone Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: reason_for_withdrawal_other
+      label: Other Reason for Withdrawal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

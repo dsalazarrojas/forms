@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arabic Alphabet Coloring Activity
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Enter the name of the student participating
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_age
+      label: Student Age
+      hint: Age in years
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher or Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: activity_date
+      label: Activity Date
+      hint: Date when the coloring activity was completed
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: class_section
+      label: Class Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: letters_completed
+      label: Which Arabic letters were covered?
+      hint: null
+      type: select_multiple
+      options:
+      - Aleph
+      - Ba
+      - Ta
+      - Tha
+      - Jeem
+      - Ha
+      - Khah
+      - Dal
+      required: true
+    - id: 7
+      name: activity_difficulty
+      label: How would you rate the activity difficulty?
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Challenging
+      - Very Challenging
+      required: true
+    - id: 8
+      name: student_engagement
+      label: Student engagement level
+      hint: null
+      type: select_one
+      options:
+      - Not Engaged
+      - Somewhat Engaged
+      - Engaged
+      - Very Engaged
+      required: true
+    - id: 9
+      name: learning_materials_used
+      label: What learning materials were used?
+      hint: null
+      type: select_multiple
+      options:
+      - Colored pencils
+      - Markers
+      - Crayons
+      - Paint
+      - Digital tablet
+      required: false
+    - id: 10
+      name: activity_notes
+      label: Additional notes or observations
+      hint: Share any feedback about the activity
+      type: text
+      options: []
+      required: false

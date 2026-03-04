@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication For College Students Survey
+    pages:
+      - id: 1
+        name: student_name
+        label: Student name
+        hint: Optional for anonymous responses
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: student_email
+        label: Student email
+        hint: Optional contact for follow up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: program_of_study
+        label: Program or major
+        hint: e g Biology Computer Science
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: satisfaction_with_communication
+        label: Satisfaction with faculty communication
+        hint: Rate overall satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 5
+        name: clarity_of_course_expectations
+        label: Clarity of course expectations
+        hint: How clear are assignment guidelines
+        type: select_one
+        options:
+          - Very clear
+          - Mostly clear
+          - Somewhat unclear
+          - Very unclear
+        required: true
+      - id: 6
+        name: preferred_communication_channel
+        label: Preferred communication channel
+        hint: Select preferred method for course updates
+        type: select_one
+        options:
+          - Email
+          - Learning management system
+          - Text message
+          - In class announcements
+        required: true
+      - id: 7
+        name: frequency_of_updates
+        label: Preferred frequency of updates
+        hint: How often students want communications
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Biweekly
+          - As needed
+        required: true
+      - id: 8
+        name: suggestions
+        label: Suggestions to improve communication
+        hint: Optional open ended feedback
+        type: text
+        options: []
+        required: false

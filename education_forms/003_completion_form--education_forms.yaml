@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Completion Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: As listed on your student portal
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Use your institution-provided email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: academic_department
+      label: Academic Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Humanities
+      - Social Sciences
+      - Engineering
+      - Business
+      - Fine Arts
+      - Health Sciences
+      - Education
+      required: true
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: Select your program level
+      type: select_one
+      options:
+      - Certificate
+      - Associate Degree
+      - Bachelor Degree
+      - Graduate Diploma
+      - Master Degree
+      - Doctorate
+      required: true
+    - id: 6
+      name: course_or_program_title
+      label: Program or Course Title
+      hint: Full title of the completed program
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: completion_date
+      label: Date of Completion
+      hint: Expected or actual completion date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_credits_earned
+      label: Total Credits Earned
+      hint: Enter total credits towards completion
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gpa_achieved
+      label: Overall GPA
+      hint: On a 4.0 scale
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: core_competencies_met
+      label: Core Competencies Fulfilled
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Critical Thinking
+      - Communication
+      - Quantitative Literacy
+      - Information Literacy
+      - Global Awareness
+      - Ethical Reasoning
+      required: true
+    - id: 11
+      name: faculty_advisor_name
+      label: Faculty Advisor Name
+      hint: Primary advisor during your studies
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_final_checklist
+      label: -- Final Requirement Checklist --
+      hint: Confirm all final steps are complete.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: requirements_check
+      label: All Program Requirements Met
+      hint: Confirmation of meeting all academic standards
+      type: select_one
+      options:
+      - true
+      - Pending Final Review
+      required: true
+    - id: 14
+      name: financial_clearance
+      label: Financial Clearance Obtained
+      hint: All tuition and fees must be settled.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: student_comments
+      label: Student Comments
+      hint: Any additional notes for the registrar
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_timestamp
+      label: Submission Timestamp
+      hint: null
+      type: text
+      options: []
+      required: false

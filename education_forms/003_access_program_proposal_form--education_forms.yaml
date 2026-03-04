@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: ACCESS Program Proposal Form
+    pages:
+    - id: 1
+      name: proposal_header
+      label: '--- Education Program Proposal Details ---'
+      hint: Complete this form to submit a new program for review.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposer_name
+      label: Proposer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposer_email
+      label: Proposer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department_school
+      label: Department or School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: proposal_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: program_title
+      label: Proposed Program Title
+      hint: Provide a concise and descriptive title.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - label: Academic Support
+        value: academic_support
+      - label: Financial Assistance
+        value: financial_assistance
+      - label: Extracurricular/Club
+        value: extracurricular
+      - label: Technology/Infrastructure
+        value: technology
+      - label: Community Outreach
+        value: outreach
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target Student Population
+      hint: Who will benefit from this program?
+      type: select_multiple
+      options:
+      - label: K-5 Students
+        value: k5
+      - label: Middle School Students
+        value: middle_school
+      - label: High School Students
+        value: high_school
+      - label: Undergraduate Students
+        value: undergraduate
+      - label: Graduate Students
+        value: graduate
+      - label: Faculty/Staff
+        value: faculty_staff
+      required: true
+    - id: 9
+      name: program_description
+      label: Program Description
+      hint: Provide a detailed overview of the program and its core activities.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: program_objectives
+      label: Core Objectives
+      hint: What specific goals will this program achieve?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: alignment_with_mission
+      label: Alignment with Institutional Goals
+      hint: How does this proposal support our broader mission?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: implementation_timeline
+      label: Proposed Implementation Timeline
+      hint: Start dates, key milestones, and end dates.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: budget_total_estimate
+      label: Total Estimated Budget ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: budget_breakdown
+      label: Budget Breakdown and Justification
+      hint: Briefly explain how the funds will be used.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resource_requirements
+      label: Additional Resource Requirements
+      hint: Staffing, space, technology, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: expected_outcomes
+      label: Expected Outcomes and Evaluation
+      hint: How will success be measured?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: risk_assessment
+      label: Potential Challenges or Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_approval_needed
+      label: Has this been discussed with your direct supervisor?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true

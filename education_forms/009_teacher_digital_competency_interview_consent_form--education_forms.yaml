@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Digital Competency Interview Consent Form
+    pages:
+    - id: 1
+      name: teacher_details
+      label: Teacher Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_interview
+      label: Schedule Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: selected_date
+      label: Selected Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_status
+      label: Consent Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: false
+    - id: 6
+      name: teacher_consent
+      label: Teacher Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and understood the terms of service
+      - I have read and agreed to the terms of service
+      - I have read but not understood the terms of service
+      required: false
+    - id: 7
+      name: schedule_consent
+      label: Schedule Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: text
+      options: []
+      required: false

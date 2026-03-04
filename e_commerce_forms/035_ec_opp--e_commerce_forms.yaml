@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: ec_opp
+    pages:
+    - id: 1
+      name: ec_opp_form
+      label: ec_opp_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ec_opp_name
+      label: ec_opp_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ec_opp_description
+      label: ec_opp_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ec_opp_date
+      label: ec_opp_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: ec_opp_time
+      label: ec_opp_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: ec_opp_category
+      label: ec_opp_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: ec_opp_category_options
+      label: ec_opp_category_options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: ec_opp_status
+      label: ec_opp_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: ec_opp_status_options
+      label: ec_opp_status_options
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: ec_opp_note
+      label: ec_opp_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ec_opp_email
+      label: ec_opp_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: ec_opp_phone
+      label: ec_opp_phone
+      hint: null
+      type: text
+      options: []
+      required: false

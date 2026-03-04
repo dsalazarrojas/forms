@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: shipping_address
+      label: Shipping Address
+      hint: Street - Apartment - Suite
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_zip
+      label: ZIP / Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_selection
+      label: Select Item from Collection
+      hint: null
+      type: select_one
+      options:
+      - Classic Crewneck T-Shirt
+      - Vintage Logo Hoodie
+      - Slim Fit Denim Jacket
+      - Athletic Joggers
+      required: true
+    - id: 7
+      name: item_color
+      label: Color Choice
+      hint: null
+      type: select_one
+      options:
+      - Midnight Black
+      - Heather Grey
+      - Navy Blue
+      - Forest Green
+      - White
+      required: true
+    - id: 8
+      name: item_size
+      label: Select Size
+      hint: null
+      type: select_one
+      options:
+      - Extra Small
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      - XXL
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Apple Pay
+      required: true
+    - id: 11
+      name: gift_wrap
+      label: Add Gift Wrapping?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: terms_acceptance
+      label: I agree to the return and exchange policy
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - Other
+      required: true

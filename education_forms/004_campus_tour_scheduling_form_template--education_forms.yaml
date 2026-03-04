@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Tour Scheduling Form Template
+    pages:
+    - id: 1
+      name: visitor_info_header
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will send tour confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number for tour scheduling
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: visitor_type
+      label: Are you a prospective student, parent, or other?
+      hint: Select your visitor category
+      type: select_one
+      options:
+      - Prospective Student
+      - Parent/Guardian
+      - Transfer Student
+      - International Student
+      - Other - Please Specify
+      required: true
+    - id: 7
+      name: visiting_reason
+      label: Primary reason for visiting campus
+      hint: Select one
+      type: select_one
+      options:
+      - Considering applying
+      - Already accepted
+      - Admitted and planning to enroll
+      - General interest
+      - Already enrolled
+      - Other
+      required: false
+    - id: 8
+      name: tour_section
+      label: -- Tour Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: preferred_date
+      label: Preferred Tour Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time
+      label: Preferred Tour Time
+      hint: Select a time slot
+      type: select_one
+      options:
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - Other time
+      required: true
+    - id: 11
+      name: group_size
+      label: Number of people in your group
+      hint: Include yourself in the count
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: group_composition
+      label: Who else will be joining you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Parents/Guardians
+      - Siblings
+      - Friends
+      - Counselor/Advisor
+      - No one, visiting alone
+      required: false
+    - id: 13
+      name: special_interests
+      label: Areas of interest on campus
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academics/Classrooms
+      - Sports Facilities
+      - Library
+      - Student Housing
+      - Dining Facilities
+      - Recreation Center
+      - Engineering Labs
+      - Art/Music Facilities
+      - Other Specific Area
+      required: false
+    - id: 14
+      name: accessibility_section
+      label: -- Accessibility Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Do you require accessibility accommodations?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: accommodation_details
+      label: Please describe your accessibility needs
+      hint: Optional - provide details if yes above
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: academic_section
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: intended_major
+      label: What is your intended major or field of study?
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: class_year
+      label: Current or Expected Year of Entry
+      hint: Select one
+      type: select_one
+      options:
+      - '2025'
+      - '2026'
+      - '2027'
+      - '2028'
+      - Transfer Student
+      - Other
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Questions or Comments
+      hint: Let us know if there is anything else we should know
+      type: text
+      options: []
+      required: false

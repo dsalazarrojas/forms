@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_of_the_year_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: academic_program
+      label: Academic Program
+      hint: null
+      type: select_one
+      options:
+      - '- Arts
+
+        - Engineering
+
+        - Science'
+      - Other
+      required: true
+    - id: 6
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: award_recipients
+      label: Award Recipients
+      hint: null
+      type: select_multiple
+      options:
+      - '- 1st
+
+        - 2nd
+
+        - 3rd'
+      - Other
+      required: false
+    - id: 8
+      name: award_recipients_other
+      label: Other Award Recipients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: year_of_award
+      label: Year Of Award
+      hint: null
+      type: select_one
+      options:
+      - '- 2022
+
+        - 2023
+
+        - 2024'
+      - Other
+      required: false
+    - id: 10
+      name: nomination_form_submitter
+      label: Nomination Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: nominator
+      label: Nominator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: year_of_graduation
+      label: Year Of Graduation
+      hint: null
+      type: select_one
+      options:
+      - '- 2022
+
+        - 2023
+
+        - 2024'
+      - Other
+      required: false
+    - id: 15
+      name: date_of_submission
+      label: Date Of Submission
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Tour Request Form
+    pages:
+    - id: 1
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_date
+      label: tour_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: tour_guide
+      label: tour_guide
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_students
+      label: number_of_students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_age_range
+      label: student_age_range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: school_phone
+      label: school_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tour_topic
+      label: tour_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

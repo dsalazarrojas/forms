@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Conference Entry Confirmation Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Institution
+      hint: Company, university, agency, etc
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: conference_name
+      label: Conference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: conference_date
+      label: Conference Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: conference_location
+      label: Conference Location
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: session_or_track
+      label: Session or Track of Interest
+      hint: Which track are you attending
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Full Conference
+      - Single Day
+      - Half Day
+      - Workshop Only
+      required: true
+    - id: 11
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes, hotel accommodation
+      - Yes, day attendance only
+      - No, local resident
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: For conference meals and snacks
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_accommodations
+      label: Special Accommodations Required
+      hint: Accessibility, mobility, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transportation
+      label: Transportation Assistance Needed
+      hint: Parking, shuttle, etc
+      type: select_one
+      options:
+      - Yes, parking needed
+      - Yes, shuttle needed
+      - No assistance needed
+      required: true
+    - id: 15
+      name: registration_fee
+      label: Registration Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Purchase Order
+      - Invoicing
+      required: true
+    - id: 17
+      name: confirmation_number
+      label: Confirmation Number
+      hint: If already registered
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: arrival_date
+      label: Expected Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: departure_date
+      label: Expected Departure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_info
+      label: Additional Information
+      hint: Special requests or notes
+      type: text
+      options: []
+      required: false

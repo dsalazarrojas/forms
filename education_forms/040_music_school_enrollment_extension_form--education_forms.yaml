@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_school_enrollment_extension_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_year
+      label: School Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: instrument
+      label: Instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - Elementary
+      - Middle School
+      - High School
+      - College
+      required: true
+    - id: 11
+      name: music_school_name
+      label: Music School Name
+      hint: null
+      type: text
+      options: []
+      required: false

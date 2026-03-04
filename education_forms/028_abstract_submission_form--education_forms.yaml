@@ -1,0 +1,162 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Abstract Submission Form"
+    pages:
+    - id: 1
+      name: section_header_author_info
+      label: "-- Author Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_author_name
+      label: "Primary author full name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_author_email
+      label: "Primary author email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: affiliation
+      label: "Institutional affiliation"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: co_authors
+      label: "Co-author names and affiliations"
+      hint: "List each co-author on a separate line"
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_abstract_details
+      label: "-- Abstract Details --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: abstract_title
+      label: "Abstract title"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: presentation_type
+      label: "Preferred presentation type"
+      hint: null
+      type: select_one
+      options:
+        - "Oral presentation"
+        - "Poster presentation"
+        - "Workshop"
+        - "Panel discussion"
+        - "No preference"
+      required: true
+    - id: 9
+      name: topic_area
+      label: "Topic area or track"
+      hint: null
+      type: select_one
+      options:
+        - "Science and Technology"
+        - "Social Sciences"
+        - "Humanities"
+        - "Health and Medicine"
+        - "Education"
+        - "Engineering"
+        - "Other"
+      required: true
+    - id: 10
+      name: keywords
+      label: "Keywords (3-5 keywords separated by commas)"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: abstract_text
+      label: "Abstract text"
+      hint: "Maximum 300 words. Include background, methods, results, and conclusions."
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_additional
+      label: "-- Additional Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: funding_source
+      label: "Funding source (if applicable)"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: conflict_of_interest
+      label: "Do you have any conflicts of interest to declare"
+      hint: null
+      type: select_one
+      options:
+        - "No conflicts to declare"
+        - "Yes (please describe below)"
+      required: true
+    - id: 15
+      name: conflict_details
+      label: "If yes, describe the conflict of interest"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ethics_approval
+      label: "Has ethics or IRB approval been obtained if required"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+        - "Not applicable"
+      required: true
+    - id: 17
+      name: previous_presentation
+      label: "Has this work been previously presented or published"
+      hint: null
+      type: select_one
+      options:
+        - "No"
+        - "Yes - partially"
+        - "Yes - fully"
+      required: true
+    - id: 18
+      name: special_requirements
+      label: "Any special equipment or requirements for your presentation"
+      hint: null
+      type: text
+      options: []
+      required: false

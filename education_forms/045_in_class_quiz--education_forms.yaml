@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: in_class_quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: Quiz Start
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: questions
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: submit_quiz
+      label: Submit Quiz
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

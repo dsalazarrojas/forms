@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational AI Governance Perception Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: stakeholder_views
+      label: Stakeholder Views
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 3
+      name: education_background
+      label: Education Background
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: data_usage
+      label: Data Usage
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: ai_readiness
+      label: AI Readiness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ai_impact
+      label: AI Impact
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: future_plans
+      label: Future Plans
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

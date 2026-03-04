@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Return To School Survey
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_multiple
+      options:
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      required: true
+    - id: 6
+      name: reason_leaving
+      label: Reason for Not Returning to School
+      hint: null
+      type: select_one
+      options:
+      - Not Returning
+      - COVID-19 Concerns
+      - Health Concerns
+      required: true
+    - id: 7
+      name: school_returning
+      label: Will the student return to school?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Maybe
+      required: true

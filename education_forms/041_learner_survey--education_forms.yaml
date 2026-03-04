@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learner Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Start of Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: name_of_survey
+      label: Name of Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: name_of_surveyor_program
+      label: Name of Survey or Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name_of_surveyor_program_other
+      label: Name of Survey or Program (if Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: name_of_survey_or_learners
+      label: Name of Survey or Learners
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: name_of_survey_or_learners_other
+      label: Name of Survey or Learners (if Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name_of_survey_or_program_other
+      label: Name of Survey or Program (if Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_of_surveyor_learners_other
+      label: Name of Survey or Learners (if Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating_0_5
+      label: Rating 0-5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_6_10
+      label: Rating 6-10
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: rating_11_15
+      label: Rating 11-15
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: Select one option
+      type: select_one
+      options:
+      - None
+      - Option 1
+      - Option 2
+      required: true
+    - id: 16
+      name: submit_other
+      label: Select Other
+      hint: null
+      type: text
+      options: []
+      required: false

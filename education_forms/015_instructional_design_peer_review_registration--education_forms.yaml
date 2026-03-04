@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: instructional_design_peer_review_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: expertise
+      label: What type of expertise do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Instructional Design
+      - Adult Learning
+      - Educational Technology
+      - Assessment
+      required: true
+    - id: 6
+      name: available_time
+      label: What days are you available to review?
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 7
+      name: review_type
+      label: What kind of reviews do you want to participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - Module
+      - Lesson
+      - Full Course
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Enter comments about your experience and qualifications
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: association
+      label: Association Membership
+      hint: null
+      type: select_one
+      options:
+      - Association of Educational and Training Professionals
+      - American Society for Training and Development
+      - International Society for Performance and Learning
+      required: true
+    - id: 10
+      name: lms
+      label: Learning Management System (LMS) experience
+      hint: null
+      type: select_multiple
+      options:
+      - Canvas
+      - Brightspace
+      - Blackboard
+      required: false
+    - id: 11
+      name: other_info
+      label: Other relevant information
+      hint: null
+      type: text
+      options: []
+      required: false

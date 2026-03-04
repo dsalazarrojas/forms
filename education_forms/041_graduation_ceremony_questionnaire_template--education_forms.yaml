@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Ceremony Questionnaire Template
+    pages:
+    - id: 1
+      name: graduation_ceremony_details
+      label: Graduation Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Male''}'
+      - '{''id'': 2, ''name'': ''Female''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: post_graduate_plan
+      label: Post Graduate Plan
+      hint: null
+      type: text
+      options: []
+      required: false

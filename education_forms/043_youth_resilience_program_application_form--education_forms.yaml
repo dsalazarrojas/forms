@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: youth_resilience_program_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_completed
+      label: Grade Completed
+      hint: null
+      type: select_one
+      options:
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - African American
+      - Hispanic or Latino
+      - Caucasian
+      - Other
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: school_attendance
+      label: School Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: parent_guardian
+      label: Parent/Guardian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent
+      - Guardian
+      - School Official
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_id_type
+      label: Student ID Type
+      hint: null
+      type: select_one
+      options:
+      - SSN
+      - Student ID Number
+      - Other
+      required: false
+    - id: 18
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_id_type_other
+      label: Student ID Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_id_number_other
+      label: Student ID Number Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_id_type_other_description
+      label: Student ID Type Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_id_type_other_other
+      label: Student ID Type Other Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: false
+    - id: 24
+      name: school_start_date
+      label: School Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: school_end_date
+      label: School End Date
+      hint: null
+      type: date
+      options: []
+      required: false

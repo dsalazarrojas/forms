@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Agreement Submission
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Business
+      - Marketing
+      - HR
+      - Operations
+      - IT
+      required: true
+    - id: 5
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Monthly
+      - Semi-Monthly
+      required: true
+    - id: 6
+      name: contract_length
+      label: Contract Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgement_1
+      label: Acknowledgement 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: acknowledgement_2
+      label: Acknowledgement 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: acknowledgement_3
+      label: Acknowledgement 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement_4
+      label: Acknowledgement 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: details
+      label: Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: acknowledgement_5
+      label: Acknowledgement 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: acknowledgement_6
+      label: Acknowledgement 6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Expired
+      required: true
+    - id: 15
+      name: contract_amount
+      label: Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: agreement_status
+      label: Agreement Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: contract_date
+      label: Contract Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: contract_time
+      label: Contract Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: contract_duration2
+      label: Contract Duration 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: contract_notes
+      label: Contract Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

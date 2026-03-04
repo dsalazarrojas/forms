@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Tutoring Leadership Application Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_id
+      label: Contact ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: role_in_peers
+      label: Role in Peers
+      hint: null
+      type: select_one
+      options:
+      - Peer Mentor
+      - Team Member
+      - Team Lead
+      - Other
+      required: false
+    - id: 8
+      name: role_in_tutoring
+      label: Role in Tutoring
+      hint: null
+      type: select_one
+      options:
+      - Peer Mentor
+      - Tutor
+      - Assistant Director
+      - Other
+      required: false
+    - id: 9
+      name: hours_per_week
+      label: Average hours per week spent in tutoring
+      hint: Please provide number of hours per week spent in tutoring
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: average_hours_per_week
+      label: Average hours per week spent leading
+      hint: Please provide number of hours per week spent leading
+      type: number
+      options: []
+      required: false

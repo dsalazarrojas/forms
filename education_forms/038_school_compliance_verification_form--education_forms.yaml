@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Compliance Verification Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_signature
+      label: School Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name_check
+      label: Check School Name
+      hint: Check if school name matches above
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false

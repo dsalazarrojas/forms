@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Behavior Questionnaire
+    pages:
+    - id: 1
+      name: questionnaire_intro
+      label: -- Child Behavior Questionnaire --
+      hint: Evaluate child behavior and development
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: grade
+      label: Grade or grade level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observer_name
+      label: Name of person completing form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: observer_relationship
+      label: Your relationship to the child
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - School counselor
+      - Daycare provider
+      - Other caregiver
+      required: true
+    - id: 8
+      name: observation_date
+      label: Date of observation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: observation_duration
+      label: How long have you known this child?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 4-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 10
+      name: cooperation
+      label: How well does the child cooperate with adults?
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: follows_instructions
+      label: Does the child follow instructions?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 12
+      name: attention_span
+      label: Attention span and focus
+      hint: null
+      type: select_one
+      options:
+      - Very short (under 5 minutes)
+      - Short (5-15 minutes)
+      - Moderate (15-30 minutes)
+      - Good (30+ minutes)
+      - Excellent (sustained focus)
+      required: true
+    - id: 13
+      name: peer_interaction
+      label: Interaction with other children
+      hint: null
+      type: select_one
+      options:
+      - Withdrawn
+      - Shy
+      - Appropriate
+      - Outgoing
+      - Overly dominant
+      required: true
+    - id: 14
+      name: emotional_regulation
+      label: Ability to regulate emotions
+      hint: null
+      type: select_one
+      options:
+      - Very poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 15
+      name: tantrums_frequency
+      label: Frequency of tantrums or outbursts
+      hint: null
+      type: select_one
+      options:
+      - Very frequently
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 16
+      name: anger_management
+      label: How does the child handle anger?
+      hint: null
+      type: select_one
+      options:
+      - Aggressive
+      - Verbal lashing out
+      - Withdrawal
+      - Calmly discusses
+      - Appropriate coping strategies
+      required: true
+    - id: 17
+      name: anxiety_signs
+      label: Signs of anxiety or worry
+      hint: null
+      type: select_one
+      options:
+      - Severe
+      - Moderate
+      - Mild
+      - Minimal
+      - None
+      required: true
+    - id: 18
+      name: activity_level
+      label: Activity level
+      hint: null
+      type: select_one
+      options:
+      - Very hyperactive
+      - Hyperactive
+      - Normal
+      - Low
+      - Very low or lethargic
+      required: true
+    - id: 19
+      name: social_skills
+      label: Social skills development
+      hint: null
+      type: select_one
+      options:
+      - Well below age level
+      - Below age level
+      - At age level
+      - Above age level
+      - Advanced
+      required: true
+    - id: 20
+      name: concerning_behaviors
+      label: Any concerning behaviors observed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: strengths
+      label: Child's behavioral strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: recommendations
+      label: Recommendations or concerns
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_school_sports_participation_survey
+    pages:
+    - id: 1
+      name: student_participation
+      label: student_participation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: barriers_to_participation
+      label: barriers_to_participation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interest_in_future_teams
+      label: interest_in_future_teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

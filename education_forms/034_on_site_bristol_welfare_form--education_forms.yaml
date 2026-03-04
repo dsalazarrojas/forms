@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: on_site_bristol_welfare_form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_id
+      label: Course ID
+      hint: null
+      type: select_one
+      options:
+      - Bristol
+      - London
+      - Oxford
+      required: false
+    - id: 4
+      name: welfare_type
+      label: Welfare Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Add notes for the learner
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Graduates Content Request Form Template
+    pages:
+    - id: 1
+      name: student_full_name
+      label: Full Name
+      hint: As it should appear in yearbook
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: graduation_semester
+      label: Graduation Semester
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      required: true
+    - id: 5
+      name: degree_conferred
+      label: Degree Conferred
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Associate Degree
+      - Master's Degree
+      - Doctorate
+      - Certificate
+      required: true
+    - id: 6
+      name: major_field
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: cum_laude_status
+      label: Honors or Cum Laude Status
+      hint: null
+      type: select_one
+      options:
+      - Summa Cum Laude
+      - Magna Cum Laude
+      - Cum Laude
+      - No Honors
+      required: true
+    - id: 8
+      name: student_email
+      label: Email Address
+      hint: For contact and correspondence
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city_state_zip
+      label: City, State and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hometown
+      label: Hometown
+      hint: City and state where you are from
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_submission
+      label: High Quality Headshot Photo Submitted
+      hint: Professional graduation photo
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will Submit Later
+      required: true
+    - id: 14
+      name: photo_permission
+      label: Permission to Use Photo in Yearbook and Publications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: quote_or_message
+      label: Graduation Quote or Message
+      hint: Optional - something meaningful or funny
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: accomplishments_list
+      label: Key Accomplishments During College
+      hint: Awards, achievements, leadership roles
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: clubs_organizations
+      label: Clubs and Organizations Involved In
+      hint: List all memberships and roles
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: post_graduation_plans
+      label: Post-Graduation Plans
+      hint: Career, further education, plans
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: career_field
+      label: Career Field or Industry
+      hint: What field are you entering
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_interests
+      label: Special Interests or Hobbies
+      hint: Relevant interests to include
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_recognition
+      label: Special Recognition or Shout-Out
+      hint: Family, mentors, or others to thank
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: media_release_consent
+      label: Consent to Use Information in College Publications
+      hint: Yearbook, newsletter, website, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: alumni_contact_permission
+      label: Permission to Contact for Alumni Network
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: submission_deadline
+      label: Submission Date
+      hint: When you are submitting this form
+      type: date
+      options: []
+      required: true

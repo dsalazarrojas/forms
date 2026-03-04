@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: School Bus Driver Evaluation Form
+    pages:
+    - id: 1
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance
+      label: Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_evaluation
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_evaluation
+      label: Time of Evaluation
+      hint: null
+      type: time
+      options: []
+      required: true

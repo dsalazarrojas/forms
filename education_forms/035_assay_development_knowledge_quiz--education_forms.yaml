@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assay Development Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_respondent_name
+      label: Researcher Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lab_department_assay
+      label: Department or Lab Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date_assay
+      label: Date of Quiz
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: question_1_assay
+      label: What is the primary purpose of assay validation
+      hint: Select the best answer
+      type: select_one
+      options:
+      - To determine accuracy and precision
+      - To increase lab throughput
+      - To reduce reagent costs
+      - To train new staff
+      required: true
+    - id: 5
+      name: question_2_assay
+      label: Which factor most influences the Signal to Noise ratio
+      hint: null
+      type: select_one
+      options:
+      - Background interference
+      - Lab temperature
+      - Pipette brand
+      - Sample volume
+      required: true
+    - id: 6
+      name: question_3_assay
+      label: Define the Lower Limit of Quantification - LLOQ
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: question_4_assay
+      label: Which statistical parameter measures assay reproducibility
+      hint: null
+      type: select_one
+      options:
+      - Coefficient of Variation - CV
+      - Mean
+      - Standard Deviation
+      - P-value
+      required: true
+    - id: 8
+      name: expertise_self_eval_assay
+      label: Self-assessment of Assay Expertise
+      hint: null
+      type: select_one
+      options:
+      - Beginner - Learning concepts
+      - Intermediate - Performing assays
+      - Advanced - Developing new assays
+      - Expert - Troubleshooting and validating
+      required: true
+    - id: 9
+      name: quiz_difficulty_assay
+      label: How would you rate the difficulty of this quiz
+      hint: 1 - very easy, 5 - very hard
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: further_training_assay
+      label: Areas where you would like further training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: completion_confirmation_assay
+      label: I have completed this quiz independently
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

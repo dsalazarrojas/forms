@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classical Ballet Education Registration Form
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: Please provide the student's basic information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select the student's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: previous_ballet_experience
+      label: Previous Ballet Experience
+      hint: How many years of ballet training has the student had
+      type: select_one
+      options:
+      - None - Beginner
+      - 1-2 years
+      - 3-5 years
+      - 6-8 years
+      - 9+ years
+      required: true
+    - id: 5
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or legal guardian
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary contact email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact if parent is unavailable
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: Please list any medical conditions or allergies we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: class_preference
+      label: Class Preference
+      hint: Select preferred class type
+      type: select_one
+      options:
+      - Classical Ballet Fundamentals
+      - Intermediate Ballet Technique
+      - Advanced Ballet Performance
+      - Pointe Work
+      - Pas de Deux
+      required: true
+    - id: 12
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: Select preferred class days
+      type: select_multiple
+      options:
+      - Monday - Wednesday
+      - Tuesday - Thursday
+      - Saturday Morning
+      - Saturday Afternoon
+      - Sunday Morning
+      required: true
+    - id: 13
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you learn about our ballet school
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Friend or Family Referral
+      - School Recommendation
+      - Community Event
+      - Other
+      required: false
+    - id: 14
+      name: goals_and_expectations
+      label: Goals and Expectations
+      hint: What are the student's goals for ballet training
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agreement_terms
+      label: I agree to the terms and conditions
+      hint: Registration agreement confirmation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

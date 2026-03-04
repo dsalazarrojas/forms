@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Classroom Registration Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: course_location
+      label: Course Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_time
+      label: Course Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_type
+      label: Course Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11.1, ''label'': ''Online''}'
+      - '{''id'': 11.2, ''label'': ''Offline''}'
+      required: true
+    - id: 12
+      name: classroom_id
+      label: Classroom ID
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 12.1, ''label'': ''Classroom 1''}'
+      - '{''id'': 12.2, ''label'': ''Classroom 2''}'
+      required: false
+    - id: 13
+      name: classroom_type
+      label: Classroom Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13.1, ''label'': ''Virtual''}'
+      - '{''id'': 13.2, ''label'': ''Physical''}'
+      required: true
+    - id: 14
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14.1, ''label'': ''Available''}'
+      - '{''id'': 14.2, ''label'': ''Unavailable''}'
+      required: true
+    - id: 15
+      name: course_language
+      label: Course Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15.1, ''label'': ''English''}'
+      - '{''id'': 15.2, ''label'': ''Spanish''}'
+      required: true
+    - id: 16
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16.1, ''label'': ''Beginner''}'
+      - '{''id'': 16.2, ''label'': ''Intermediate''}'
+      required: true
+    - id: 17
+      name: course_capacity
+      label: Course Capacity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 17.1, ''label'': ''Full''}'
+      - '{''id'': 17.2, ''label'': ''Limited''}'
+      required: true
+    - id: 18
+      name: course_price
+      label: Course Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: course_instructor
+      label: Course Instructor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: classroom
+      label: Classroom
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: classroom_address
+      label: Classroom Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: classroom_location
+      label: Classroom Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: classroom_time
+      label: Classroom Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: classroom_status
+      label: Classroom Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 25.1, ''label'': ''Available''}'
+      - '{''id'': 25.2, ''label'': ''Unavailable''}'
+      required: true

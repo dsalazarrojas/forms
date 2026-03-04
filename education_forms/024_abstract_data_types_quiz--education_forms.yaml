@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Abstract Data Types Quiz"
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: "-- Participant Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: "Full name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: "Email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_or_program
+      label: "Course or program name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_quiz
+      label: "-- Quiz Questions --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: q1_stack_definition
+      label: "Which of the following best describes a Stack"
+      hint: null
+      type: select_one
+      options:
+        - "First-In, First-Out (FIFO)"
+        - "Last-In, First-Out (LIFO)"
+        - "Random access structure"
+        - "Sorted linear collection"
+      required: true
+    - id: 7
+      name: q2_queue_operations
+      label: "Which operations are fundamental to a Queue"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Enqueue"
+        - "Dequeue"
+        - "Push"
+        - "Pop"
+        - "Peek"
+      required: true
+    - id: 8
+      name: q3_linked_list_advantage
+      label: "What is a key advantage of a Linked List over an Array"
+      hint: null
+      type: select_one
+      options:
+        - "Constant-time random access"
+        - "Dynamic size with efficient insertion and deletion"
+        - "Lower memory usage"
+        - "Faster sorting"
+      required: true
+    - id: 9
+      name: q4_binary_tree_property
+      label: "In a Binary Search Tree, which property must hold true"
+      hint: null
+      type: select_one
+      options:
+        - "Each node has at most two children"
+        - "Left child is less than parent and right child is greater"
+        - "All leaves are at the same level"
+        - "Nodes are stored in an array"
+      required: true
+    - id: 10
+      name: q5_hash_table_purpose
+      label: "What is the primary purpose of a Hash Table"
+      hint: null
+      type: select_one
+      options:
+        - "Maintaining sorted order"
+        - "Fast key-value lookup"
+        - "Graph traversal"
+        - "Recursive computation"
+      required: true
+    - id: 11
+      name: q6_adt_definition
+      label: "What is an Abstract Data Type (ADT)"
+      hint: null
+      type: select_one
+      options:
+        - "A specific implementation of a data structure in a programming language"
+        - "A mathematical model that defines a set of operations and their behavior"
+        - "A type of database schema"
+        - "A programming language feature"
+      required: true
+    - id: 12
+      name: q7_graph_traversal
+      label: "Which of the following are common graph traversal algorithms"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Breadth-First Search (BFS)"
+        - "Depth-First Search (DFS)"
+        - "Binary Search"
+        - "Linear Search"
+      required: true
+    - id: 13
+      name: q8_priority_queue
+      label: "A Priority Queue typically uses which underlying data structure"
+      hint: null
+      type: select_one
+      options:
+        - "Array"
+        - "Linked List"
+        - "Heap"
+        - "Stack"
+      required: true
+    - id: 14
+      name: q9_set_characteristic
+      label: "What is the defining characteristic of a Set data type"
+      hint: null
+      type: select_one
+      options:
+        - "Elements are stored in sorted order"
+        - "No duplicate elements are allowed"
+        - "Elements are key-value pairs"
+        - "Elements are accessed by index"
+      required: true
+    - id: 15
+      name: q10_time_complexity
+      label: "What is the average time complexity for searching in a balanced Binary Search Tree"
+      hint: null
+      type: select_one
+      options:
+        - "O(1)"
+        - "O(log n)"
+        - "O(n)"
+        - "O(n log n)"
+      required: true
+    - id: 16
+      name: confidence_level
+      label: "How confident are you in your understanding of Abstract Data Types"
+      hint: null
+      type: select_one
+      options:
+        - "Very confident"
+        - "Somewhat confident"
+        - "Neutral"
+        - "Not very confident"
+        - "Not confident at all"
+      required: false

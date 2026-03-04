@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - English
+      - Science
+      - History
+      - Computer Science
+      - Music
+      required: false
+    - id: 6
+      name: position
+      label: position
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Headteacher
+      - Assistant
+      - Substitute
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false

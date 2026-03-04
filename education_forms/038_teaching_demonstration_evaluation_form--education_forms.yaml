@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: teaching Demonstration Evaluation Form
+    pages:
+    - id: 1
+      name: teacher
+      label: teacher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performance
+      label: performance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Education Forms
+      - Other
+      required: true
+    - id: 11
+      name: form_ids
+      label: form ids
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spirit Wear Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: size
+      label: Size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 8
+      name: address1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      required: true
+    - id: 15
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: confirmation2
+      label: Confirmation 2
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 20
+      name: confirmation3
+      label: Confirmation 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: confirmation4
+      label: Confirmation 4
+      hint: null
+      type: time
+      options: []
+      required: false

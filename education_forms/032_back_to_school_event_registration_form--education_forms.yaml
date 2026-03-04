@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Event Registration Form
+    pages:
+    - id: 1
+      name: school_event_header
+      label: -- Back-to-School Event Registration --
+      hint: Kick off the new school year with us!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_name_event
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_name_event
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_grade_level
+      label: Grade Level (Coming Year)
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - High School
+      required: true
+    - id: 5
+      name: specific_events_attending
+      label: Which events will you be attending?
+      hint: null
+      type: select_multiple
+      options:
+      - New Student Orientation
+      - School Supply Drop-off
+      - Meet the Teacher Night
+      - Back-to-School Picnic
+      - Parent-Teacher Association (PTA) Meeting
+      required: true
+    - id: 6
+      name: total_family_attendees
+      label: Total number of family members attending
+      hint: Including students
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: volunteer_interest_event
+      label: Are you interested in volunteering for this event?
+      hint: We need help with setup, food, and clean-up
+      type: select_one
+      options:
+      - Yes, I'd love to help!
+      - Not at this time
+      required: true
+    - id: 8
+      name: dietary_requirements_school
+      label: Any dietary requirements for the picnic?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email_event
+      label: Email Address for Updates
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: mobile_for_reminders
+      label: Mobile Phone for Text Reminders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: general_questions_event
+      label: Any questions about the upcoming school year?
+      hint: null
+      type: text
+      options: []
+      required: false

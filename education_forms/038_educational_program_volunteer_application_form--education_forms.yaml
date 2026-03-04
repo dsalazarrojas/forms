@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Program Volunteer Application Form
+    pages:
+    - id: 1
+      name: program_details
+      label: program_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_available
+      label: date_available
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_available
+      label: time_available
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: volunteer_hours
+      label: volunteer_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: volunteer_frequency
+      label: volunteer_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 10
+      name: volunteer_days_available
+      label: volunteer_days_available
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 11
+      name: volunteer_time_commitment
+      label: volunteer_time_commitment
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email And Narrative Writing Quiz
+    pages:
+    - id: 1
+      name: email_etiquette
+      label: Formal Email Writing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email_body
+      label: Email Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: narrative_writing
+      label: Narrative Writing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_cc
+      label: CCs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email_bcc
+      label: BCCs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email_subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_to
+      label: To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_from
+      label: From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email_signature
+      label: Email Signature
+      hint: null
+      type: text
+      options: []
+      required: false

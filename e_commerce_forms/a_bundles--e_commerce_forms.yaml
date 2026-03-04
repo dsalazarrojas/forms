@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A.L.P Services Application
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: "--- Applicant Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant full name
+      hint: Enter legal name as shown on ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company / organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Use a business email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Include country code if outside US
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Requested service type
+      hint: Select the primary service you are applying for
+      type: select_one
+      options:
+        - Advisory
+        - Implementation
+        - Managed Services
+        - Training
+        - Audit
+      required: true
+    - id: 7
+      name: service_description
+      label: Describe the service needs
+      hint: Briefly describe scope, objectives, and constraints
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_start_date
+      label: Preferred project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: estimated_budget
+      label: Estimated budget (USD)
+      hint: Enter approximate budget for planning
+      type: decimal
+      options: []
+      required: false
+    - id: 10
+      name: contract_term_months
+      label: Desired contract term (months)
+      hint: Enter whole number of months
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: industry_sectors
+      label: Industry sectors applicable (select all that apply)
+      hint: Choose up to 5 sectors
+      type: select_multiple
+      options:
+        - Finance
+        - Healthcare
+        - Retail
+        - Manufacturing
+        - Technology
+        - Education
+      required: false
+    - id: 12
+      name: prior_provider_experience
+      label: Previous experience with similar providers
+      hint: null
+      type: select_one
+      options:
+        - None
+        - Limited
+        - Moderate
+        - Extensive
+      required: false
+    - id: 13
+      name: agree_to_terms
+      label: Applicant agrees to initial terms and contact
+      hint: Select Yes to allow follow-up
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional notes or special requirements
+      hint: Use this field to provide any other details
+      type: text
+      options: []
+      required: false

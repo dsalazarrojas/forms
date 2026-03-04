@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: study_group_communication_form
+    pages:
+    - id: 1
+      name: meeting_info
+      label: Meeting Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_name
+      label: meeting_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_date
+      label: meeting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: meeting_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: meeting_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_sharing
+      label: resource_sharing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member_list
+      label: member_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: member_details
+      label: member_details
+      hint: null
+      type: text
+      options: []
+      required: false

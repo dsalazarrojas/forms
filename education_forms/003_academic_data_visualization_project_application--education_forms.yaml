@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Data Visualization Project Application
+    pages:
+      - id: 1
+        name: section_applicant_info
+        label: -- Applicant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Applicant name
+        hint: Full name of the project lead
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: applicant_email
+        label: Applicant email
+        hint: Preferred contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: affiliation
+        label: Institutional affiliation
+        hint: Department or organization
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: project_title
+        label: Project title
+        hint: Concise title for the visualization project
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: project_summary
+        label: Project summary
+        hint: Brief description of goals and expected outcomes
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: dataset_sources
+        label: Dataset sources
+        hint: Describe the datasets to be used and access status
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: tools_and_methods
+        label: Tools and methods to be used
+        hint: Software, libraries, or platforms planned for use
+        type: select_multiple
+        options:
+          - D3.js
+          - Python matplotlib or seaborn
+          - R ggplot2
+          - Tableau or Power BI
+          - GIS tools
+          - Other
+        required: false
+      - id: 9
+        name: timeline
+        label: Estimated project timeline
+        hint: Start and end dates or duration
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: expected_outputs
+        label: Expected outputs
+        hint: Visualizations, dashboards, publications
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: additional_needs
+        label: Additional support or resources needed
+        hint: Hardware, software, or data access needs
+        type: text
+        options: []
+        required: false

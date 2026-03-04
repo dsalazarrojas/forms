@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_insurance_claim_form
+    pages:
+    - id: 1
+      name: student_insurance_claim_form_1
+      label: claim_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_details
+      label: claimant_details
+      hint: Please enter details about the claimant.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: claimant_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: claimant_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: claimant_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: insurance_details
+      label: insurance_details
+      hint: Please enter details about the insurance coverage.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: claim_description
+      label: claim_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: select_multiple
+      options:
+      - Proof of Attendance
+      - Proof of Expenses
+      - Other
+      required: false
+    - id: 13
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

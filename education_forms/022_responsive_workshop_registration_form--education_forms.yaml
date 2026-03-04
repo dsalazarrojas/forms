@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Workshop Registration Form
+    pages:
+    - id: 1
+      name: header
+      label: Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_description
+      label: Workshop Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: further_comments
+      label: Further Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''option1'', ''value'': ''option1''}'
+      - '{''name'': ''option2'', ''value'': ''option2''}'
+      - '{''name'': ''option3'', ''value'': ''option3''}'
+      required: false
+    - id: 11
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''option1'', ''value'': ''option1''}'
+      - '{''name'': ''option2'', ''value'': ''option2''}'
+      - '{''name'': ''option3'', ''value'': ''option3''}'
+      required: false
+    - id: 12
+      name: workshop
+      label: Workshop
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Send'', ''value'': ''Send''}'
+      - '{''name'': ''Cancel'', ''value'': ''Cancel''}'
+      required: false

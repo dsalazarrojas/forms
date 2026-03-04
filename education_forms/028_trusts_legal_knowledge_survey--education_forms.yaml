@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trusts Legal Knowledge Survey
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: What is your role within the trust sector?
+      hint: null
+      type: select_one
+      options:
+      - Trustee
+      - Beneficiary
+      - Advisor
+      - Other
+      required: false
+    - id: 4
+      name: question_2
+      label: Which of the following best describe your level of understanding of trusts?
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 5
+      name: question_3
+      label: How long have you been involved in the trust sector?
+      hint: null
+      type: select_one
+      options:
+      - 1-5 years
+      - 5-10 years
+      - 10-20 years
+      - More than 20 years
+      required: false
+    - id: 6
+      name: question_4
+      label: How often do you engage in trust-related activities?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 7
+      name: question_5
+      label: How do you currently use the information from the trust sector?
+      hint: null
+      type: select_multiple
+      options:
+      - Directly
+      - Indirectly
+      - Rarely
+      required: false
+    - id: 8
+      name: question_6
+      label: Have you ever had any formal training related to trusts?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: question_7
+      label: What motivated you to take this survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_8
+      label: Additional comments or feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: question_9
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: question_10
+      label: How do you prefer to contact me?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Phone and Email
+      required: false
+    - id: 13
+      name: question_11
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: question_12
+      label: How do you currently use the information from the trust sector?
+      hint: null
+      type: text
+      options: []
+      required: false

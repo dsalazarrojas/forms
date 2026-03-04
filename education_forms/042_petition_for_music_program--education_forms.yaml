@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition For Music Program
+    pages:
+    - id: 1
+      name: petition_for_music_program
+      label: What's your school's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_grade_level
+      label: Student grade level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''9th''}'
+      - '{''id'': 2, ''name'': ''10th''}'
+      - '{''id'': 3, ''name'': ''11th''}'
+      required: false
+    - id: 4
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: teacher_name
+      label: Teacher name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: teacher_email
+      label: Teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: School department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: school_email
+      label: School email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: school_phone
+      label: School phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_address
+      label: School address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: student_grade_level_other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''9th''}'
+      - '{''id'': 2, ''name'': ''10th''}'
+      - '{''id'': 3, ''name'': ''11th''}'
+      required: false
+    - id: 13
+      name: student_comment
+      label: Other comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: teacher_comment
+      label: Teacher's comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: school_comment
+      label: School's comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: support
+      label: How do you want to show your support?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Online petition''}'
+      - '{''id'': 2, ''name'': ''On site event''}'
+      - '{''id'': 3, ''name'': ''Both''}'
+      required: false
+    - id: 17
+      name: online_signature
+      label: Sign
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Signature''}'
+      - '{''id'': 2, ''name'': ''Name''}'
+      required: false
+    - id: 18
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: signature_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: signature_ip
+      label: IP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: signature_province
+      label: Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_postal
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: student_signature
+      label: Student signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: teacher_signature
+      label: Teacher signature
+      hint: null
+      type: text
+      options: []
+      required: false

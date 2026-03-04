@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: role_play_evaluation_form
+    pages:
+    - id: 1
+      name: scenario_description
+      label: Scenario Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_played_as
+      label: Role Played As
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: observation
+      label: Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role_played_with
+      label: Role Played With
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: scenario_rating
+      label: Scenario Rating
+      hint: null
+      type: number
+      options: []
+      required: false

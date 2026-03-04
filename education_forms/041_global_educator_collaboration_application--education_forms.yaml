@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Educator Collaboration Application
+    pages:
+    - id: 1
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_interest
+      label: Collaboration Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: international_collaboration_interest
+      label: International Collaboration Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: other_collaboration_interest
+      label: Other Collaboration Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: language_spoken
+      label: Language Spoken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: preferred_collaboration_platform
+      label: Preferred Collaboration Platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: collaboration_dominance
+      label: Collaboration Dominance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: collaboration_format
+      label: Collaboration Format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: collaboration_language
+      label: Collaboration Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

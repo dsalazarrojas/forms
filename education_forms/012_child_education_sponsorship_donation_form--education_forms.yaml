@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Education Sponsorship Donation Form
+    pages:
+    - id: 1
+      name: section_donor_info
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Full Name
+      hint: Personal or Corporate name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Donor Email Address
+      hint: For receipt and acknowledgement
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Donor Phone Number
+      hint: Optional contact info
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_donation_selection
+      label: -- Donation Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: sponsorship_type
+      label: Sponsorship Type
+      hint: Choose your contribution frequency
+      type: select_one
+      options:
+      - label: One-time Gift
+        value: onetime
+      - label: Monthly Recurring
+        value: monthly
+      - label: Annual Sponsorship
+        value: annual
+      required: true
+    - id: 7
+      name: donation_amount_selection
+      label: Suggested Donation Amount
+      hint: Select an amount or enter custom below
+      type: select_one
+      options:
+      - label: $25 - Monthly Support
+        value: '25'
+      - label: $50 - Supply Kit
+        value: '50'
+      - label: $100 - Tuition Assistance
+        value: '100'
+      - label: $500 - Major Initiative
+        value: '500'
+      - label: Custom Amount
+        value: custom
+      required: true
+    - id: 8
+      name: custom_amount
+      label: Custom Donation Amount
+      hint: Enter numeric value only
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: primary_initiative
+      label: Primary Initiative to Support
+      hint: Where should your funds go?
+      type: select_one
+      options:
+      - label: Student Scholarships
+        value: scholarships
+      - label: School Supplies and Tech
+        value: supplies
+      - label: Teacher Training
+        value: training
+      - label: Facility Improvements
+        value: facilities
+      required: true
+    - id: 10
+      name: section_payment_pref
+      label: -- Payment Method Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Preferred Payment Method
+      hint: Secure processing will follow
+      type: select_one
+      options:
+      - label: Credit or Debit Card
+        value: card
+      - label: PayPal
+        value: paypal
+      - label: Bank Transfer (ACH)
+        value: ach
+      required: true
+    - id: 12
+      name: section_anonymous
+      label: -- Anonymous Donation Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: is_anonymous
+      label: Anonymous Donation?
+      hint: Select yes to keep your name private
+      type: select_one
+      options:
+      - label: Yes - Keep my donation anonymous
+        value: true
+      - label: No - Publicly acknowledge my gift
+        value: false
+      required: true

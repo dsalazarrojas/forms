@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barrett West Experience
+    pages:
+    - id: 1
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_phone
+      label: Student Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: high_school_name
+      label: Current High School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: graduation_year
+      label: High School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: intended_major
+      label: Intended Major or Area of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visit_date_preference
+      label: Preferred Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: session_time
+      label: Preferred Session Time
+      hint: null
+      type: select_one
+      options:
+      - Morning Session (9 AM - 12 PM)
+      - Afternoon Session (1 PM - 4 PM)
+      - Full Day Experience
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Let us know if we should provide specific meal options
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guests_count
+      label: Number of Guests Attending
+      hint: Including parents or guardians
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: questions_for_admissions
+      label: Do you have any specific questions for our admissions team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: source_of_info
+      label: How did you hear about the Barrett West Experience?
+      hint: null
+      type: select_one
+      options:
+      - School Counselor
+      - Social Media
+      - Website
+      - Friend or Family
+      - Email Invitation
+      required: false

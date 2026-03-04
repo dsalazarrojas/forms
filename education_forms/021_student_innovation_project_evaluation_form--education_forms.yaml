@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Innovation Project Evaluation Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_scale
+      label: evaluation_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_score
+      label: evaluation_score
+      hint: null
+      type: number
+      options: []
+      required: false

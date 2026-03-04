@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Activity Oriented Diagnostic Feedback Form
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of the educator or trainer providing feedback
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: Name of the course where the activity took place
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_name
+      label: Name of Activity Evaluated
+      hint: Title of the specific activity being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: activity_date
+      label: Date of Activity
+      hint: When was the activity conducted
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: participant_group
+      label: Participant Group
+      hint: Description of the group that participated in the activity
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: learning_objective_alignment
+      label: Alignment with Learning Objectives
+      hint: How well did the activity align with stated learning objectives
+      type: select_one
+      options: ["Excellent alignment", "Good alignment", "Moderate alignment", "Poor alignment", "No alignment"]
+      required: true
+    - id: 7
+      name: participant_engagement_level
+      label: Participant Engagement Level
+      hint: How engaged were participants during the activity
+      type: select_one
+      options: ["Very high", "High", "Moderate", "Low", "Very low"]
+      required: true
+    - id: 8
+      name: activity_difficulty
+      label: Appropriateness of Activity Difficulty
+      hint: Was the activity appropriately challenging for the participants
+      type: select_one
+      options: ["Too easy", "Slightly easy", "Just right", "Slightly difficult", "Too difficult"]
+      required: true
+    - id: 9
+      name: time_utilization
+      label: Time Utilization
+      hint: Was the time allocated to the activity appropriate
+      type: select_one
+      options: ["Too much time", "Slightly too much", "Just right", "Slightly too little", "Too little time"]
+      required: true
+    - id: 10
+      name: resource_utilization
+      label: Resource Utilization
+      hint: Were the resources used in the activity appropriate and effective
+      type: select_one
+      options: ["Excellent", "Good", "Adequate", "Inadequate", "Poor"]
+      required: true
+    - id: 11
+      name: diagnostic_insights_gained
+      label: Diagnostic Insights Gained
+      hint: What insights about participant learning did the activity reveal
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recommendations_for_revision
+      label: Recommendations for Revision
+      hint: What changes would improve the activity's effectiveness
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_observations
+      label: Additional Observations
+      hint: Any other observations about the activity
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Accommodation Plan Form
+    pages:
+    - id: 1
+      name: student_support_needs
+      label: Student Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: requested_accommodations
+      label: Requested Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: parent_guardian_consent
+      label: Parent or Guardian Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: captured_date
+      label: Captured Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: captured_time
+      label: Captured Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: parent_or_guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_identifier
+      label: Student Identifier
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

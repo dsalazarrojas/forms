@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Awards Nomination 2 Red Theme And Responsive
+    pages:
+      - id: 1
+        name: section_voter_info
+        label: -- Voter Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: voter_name
+        label: Full Name of Voter
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: voter_email
+        label: Email Address of Voter
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: school_affiliation
+        label: Voter School or Affiliation
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_vote_details
+        label: -- Vote and Nominee Selection --
+        hint: Cast your vote for the most deserving individual
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: voting_category
+        label: Category to Vote In
+        hint: Select the primary category
+        type: select_one
+        options:
+          - Teacher of the Year
+          - Student of the Year
+          - Best Support Staff
+          - Outstanding Researcher
+          - Community Outreach Award
+        required: true
+      - id: 7
+        name: nominee_name_vote
+        label: Nominee Full Name
+        hint: Name of the person you are voting for
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: nominee_position_vote
+        label: Nominee Grade or Position
+        hint: e.g. 10th Grade Student, Math Teacher
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: vote_reasoning
+        label: Reason for Voting
+        hint: Why does this nominee deserve the award?
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: duration_acquaintance
+        label: How long have you known the nominee?
+        hint: Choose the best duration
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 - 3 years
+          - 3 - 5 years
+          - Over 5 years
+        required: true
+      - id: 11
+        name: student_impact_rating
+        label: Impact on Students
+        hint: Rate from 1 (Low) to 5 (High)
+        type: select_one
+        options:
+          - 1 - Low Impact
+          - 2 - Fair
+          - 3 - Moderate
+          - 4 - Significant
+          - 5 - Transformative
+        required: true
+      - id: 12
+        name: school_community_rating
+        label: Impact on School Community
+        hint: Overall contribution to the school
+        type: select_one
+        options:
+          - 1 - Low
+          - 2 - Fair
+          - 3 - Moderate
+          - 4 - Significant
+          - 5 - Outstanding
+        required: true
+      - id: 13
+        name: nominee_key_strength
+        label: Primary Nominee Strength
+        hint: Choose the single best attribute
+        type: select_one
+        options:
+          - Empathy and Compassion
+          - Domain Expertise
+          - Innovation and Creativity
+          - Dedication and Hard Work
+          - Leadership and Vision
+        required: true
+      - id: 14
+        name: additional_vote_feedback
+        label: Additional Feedback or Comments
+        hint: Any other thoughts on the nominee
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: voting_date
+        label: Date of Vote
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: rule_agreement_vote
+        label: I agree to the Official Voting Rules and Regulations
+        hint: null
+        type: select_one
+        options:
+          - Yes, I agree
+          - No, I do not agree
+        required: true
+      - id: 17
+        name: voting_confirmation_sig
+        label: Voting Confirmation
+        hint: Type full name to confirm your vote
+        type: text
+        options: []
+        required: true

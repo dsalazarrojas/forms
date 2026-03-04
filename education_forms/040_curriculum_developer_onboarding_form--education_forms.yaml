@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Developer Onboarding Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: user_role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Curriculum Developer
+      - Education Coordinator
+      - Team Lead
+      required: true
+    - id: 5
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: onboarding_expectations
+      label: Onboarding Expectations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: education_background
+      label: Education Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Python
+      - HTML/CSS
+      - Java
+      - SQL
+      - JavaScript
+      required: true
+    - id: 14
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - Certified Scrum Master
+      - Certified Scrum Master (CSM)
+      - Certified Product Owner
+      required: true
+    - id: 15
+      name: onboarding_dates
+      label: Onboarding Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_lead_title
+      label: Team Lead Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: education_team
+      label: Education Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_lead_address
+      label: Team Lead Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: education_manager
+      label: Education Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: education_manager_email
+      label: Education Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

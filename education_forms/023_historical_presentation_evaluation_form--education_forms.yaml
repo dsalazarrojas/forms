@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Presentation Evaluation Form
+    pages:
+    - id: 1
+      name: score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: content
+      label: Content
+      hint: Please choose a reason
+      type: select_one
+      options:
+      - History is a subject with a rich and interesting past
+      - History is a subject that makes me sleepy
+      - History is a subject that is full of dates and facts
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: structure
+      label: Presentation Structure
+      hint: Please choose a reason
+      type: select_one
+      options:
+      - The presentation starts strongly and ends strongly
+      - The presentation has some strengths and weaknesses
+      - The presentation was just average
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: engagement
+      label: Engagement of Audience
+      hint: Please choose a reason
+      type: select_one
+      options:
+      - The audience was highly engaged
+      - The audience was somewhat engaged
+      - The audience was not engaged
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Question Addition Guide
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_type
+      label: Question Type
+      hint: null
+      type: select_one
+      options:
+      - Quiz
+      - Assessment
+      - Survey
+      required: false
+    - id: 3
+      name: question_text
+      label: Question Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_tags
+      label: Question Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - Review and Approve
+      - Approve
+      - Approve and Review
+      required: false
+    - id: 8
+      name: team_reviewer
+      label: Team Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_reviewer_email
+      label: Team Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: team_reviewer_phone
+      label: Team Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false

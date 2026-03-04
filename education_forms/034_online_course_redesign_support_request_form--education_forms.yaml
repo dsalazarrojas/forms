@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_course_redesign_support_request_form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: file
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 11
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment_name
+      label: Attachment Name
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachment_file_type
+      label: Attachment File Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 16
+      name: attachment_file_size
+      label: Attachment File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: attachment_file_name
+      label: Attachment File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_title
+      label: Attachment Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: attachment_date
+      label: Attachment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: attachment_time
+      label: Attachment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: attachment_user
+      label: Attachment User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_tags
+      label: Attachment Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_notes
+      label: Attachment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachment_comments
+      label: Attachment Comments
+      hint: null
+      type: text
+      options: []
+      required: false

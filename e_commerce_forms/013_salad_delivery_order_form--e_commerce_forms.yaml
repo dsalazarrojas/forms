@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salad Delivery Order Form
+    pages:
+    - id: 1
+      name: base_salad_order_form_1
+      label: base_salad_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: base_salad_name
+      label: salad_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: base_salad_type
+      label: select_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''label'': ''mixed'', ''value'': ''mixed''}'
+      - '{''id'': 12, ''label'': ''garden'', ''value'': ''garden''}'
+      - '{''id'': 13, ''label'': ''vegan'', ''value'': ''vegan''}'
+      required: false
+    - id: 4
+      name: base_salad_price
+      label: salad_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: base_salad_instructions
+      label: select_instructions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''label'': ''no_instructions'', ''value'': ''no_instructions''}'
+      - '{''id'': 22, ''label'': ''with_instructions'', ''value'': ''with_instructions''}'
+      required: false
+    - id: 6
+      name: base_salad_delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: base_salad_delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: base_salad_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: base_salad_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: base_salad_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Practice And Process Studies Summer School Registration
+    pages:
+    - id: 1
+      name: user_input_page
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_page
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_page
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_page
+      label: Phone
+      hint: Enter your 10-digit phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_page
+      label: Date
+      hint: Enter a date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_page
+      label: Time
+      hint: Enter a time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: practice_page
+      label: Practice
+      hint: Select a practice session
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 8
+      name: notes_page
+      label: Notes
+      hint: Any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_confirmation_page
+      label: Email Confirmation
+      hint: Enter a valid email address
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: submitted_page
+      label: Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

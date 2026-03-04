@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interest Survey
+    pages:
+    - id: 1
+      name: user_interests
+      label: User Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_education
+      label: User Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: user_date
+      label: User Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: user_time
+      label: User Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: user_category
+      label: User Category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 9
+      name: user_subcategory
+      label: User Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Subcategory A
+      - Subcategory B
+      - Subcategory C
+      - Subcategory D
+      required: false
+    - id: 10
+      name: user_interests_2
+      label: More Interests
+      hint: null
+      type: select_multiple
+      options:
+      - More Interest 1
+      - More Interest 2
+      - More Interest 3
+      required: false
+    - id: 11
+      name: user_interests_3
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Interest 1
+      - Interest 2
+      - Interest 3
+      - Interest 4
+      required: false
+    - id: 12
+      name: user_interests_4
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Interest 1
+      - Interest 2
+      - Interest 3
+      required: false

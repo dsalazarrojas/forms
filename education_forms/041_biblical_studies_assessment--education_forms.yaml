@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biblical Studies Assessment
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For results delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: Program or Class Name
+      hint: Which program are you in?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: When are you taking this?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_knowledge
+      label: -- Scripture Knowledge Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: testament_books
+      label: How Many Books Are in the New Testament
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: gospels_count
+      label: How Many Gospels Are in the Bible
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: paul_letters
+      label: How Many Letters Did Apostle Paul Write
+      hint: Approximately
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: jesus_disciples
+      label: How Many Main Disciples Did Jesus Call
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_comprehension
+      label: -- Comprehension and Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comprehension_level
+      label: Your Scripture Comprehension Level
+      hint: How well do you understand the Bible?
+      type: select_one
+      options:
+      - Excellent - deep understanding
+      - Good - solid grasp
+      - Adequate - general knowledge
+      - Limited - some understanding
+      - Minimal - just beginning
+      required: true
+    - id: 13
+      name: application_ability
+      label: Ability to Apply Scripture to Life
+      hint: Can you make practical connections?
+      type: select_one
+      options:
+      - Excellent ability
+      - Good ability
+      - Adequate ability
+      - Limited ability
+      - Unable to apply
+      required: true
+    - id: 14
+      name: section_header_engagement
+      label: -- Engagement and Study Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: study_frequency
+      label: Frequency of Personal Scripture Study
+      hint: How often do you study?
+      type: select_one
+      options:
+      - Daily
+      - 3-4 times per week
+      - 1-2 times per week
+      - Monthly
+      - Rarely
+      required: true
+    - id: 16
+      name: study_time
+      label: Average Time Spent in Study per Week
+      hint: Hours per week
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: study_method
+      label: Primary Scripture Study Method
+      hint: How do you study?
+      type: select_one
+      options:
+      - Verse by verse analysis
+      - Topical study
+      - Chapter reading
+      - Devotional approach
+      - Group study
+      - Multiple methods
+      required: true
+    - id: 18
+      name: engagement_level
+      label: Overall Engagement Level
+      hint: How engaged are you?
+      type: select_one
+      options:
+      - Very engaged and motivated
+      - Generally engaged
+      - Moderately engaged
+      - Minimally engaged
+      - Disengaged
+      required: true
+    - id: 19
+      name: section_header_growth
+      label: -- Growth and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: spiritual_growth
+      label: Perceived Spiritual Growth from Studies
+      hint: Have you grown spiritually?
+      type: select_one
+      options:
+      - Significant growth
+      - Moderate growth
+      - Some growth
+      - Minimal growth
+      - No growth
+      required: true
+    - id: 21
+      name: faith_strengthening
+      label: Faith Strengthened Through Learning
+      hint: Has your faith been strengthened?
+      type: select_one
+      options:
+      - Greatly strengthened
+      - Somewhat strengthened
+      - Neutral
+      - Slightly weakened
+      - Significantly challenged
+      required: true
+    - id: 22
+      name: key_learnings
+      label: Key Learnings or Insights Gained
+      hint: Major things you've learned
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_header_challenges
+      label: -- Challenges and Support Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: study_challenges
+      label: Challenges in Scripture Study
+      hint: What obstacles do you face?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: support_needed
+      label: Support or Resources Needed
+      hint: What would help you learn better?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: difficult_topics
+      label: Most Difficult Topics or Passages
+      hint: What is challenging for you?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_future
+      label: -- Future Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: future_goals
+      label: Future Learning Goals
+      hint: What do you want to study next?
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Any other thoughts?
+      type: text
+      options: []
+      required: false

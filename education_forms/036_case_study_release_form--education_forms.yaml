@@ -1,0 +1,400 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Study Release Form
+    pages:
+      - id: 1
+        name: release_header
+        label: Case Study Release Form
+        hint: Permission to publish and disseminate case study
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: release_date
+        label: Release Date
+        hint: Date of authorization
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: organization_info
+        label: Organization Information
+        hint: Publishing entity
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: organization_name
+        label: Organization Name
+        hint: Institution name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department
+        label: Department or Division
+        hint: Specific department
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: contact_person
+        label: Contact Person Name
+        hint: Primary contact
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: contact_email
+        label: Contact Email
+        hint: Email address
+        type: email
+        options: []
+        required: true
+      - id: 8
+        name: participant_info
+        label: Participant Information
+        hint: Case study subject
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: participant_name
+        label: Participant Full Name
+        hint: Legal name
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: participant_role
+        label: Participant Role or Title
+        hint: Position or status
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: case_study_title
+        label: Case Study Title
+        hint: Project name
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: case_study_period
+        label: Case Study Time Period
+        hint: Duration covered
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: release_scope
+        label: Scope of Release
+        hint: What is being released
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: materials_released
+        label: Materials Being Released
+        hint: Content types
+        type: select_multiple
+        options:
+          - Written case study
+          - Interview transcripts
+          - Photographs
+          - Video recordings
+          - Audio recordings
+          - Data and statistics
+          - Work samples
+          - Communications
+          - Other documents
+        required: true
+      - id: 15
+        name: publication_rights
+        label: Publication Rights Granted
+        hint: Usage permissions
+        type: select_multiple
+        options:
+          - Print publication
+          - Online publication
+          - Academic journals
+          - Conference presentations
+          - Teaching materials
+          - Marketing materials
+          - Press releases
+          - Social media
+          - Internal reports
+          - Other
+        required: true
+      - id: 16
+        name: distribution_scope
+        label: Distribution Scope
+        hint: Where it can be shared
+        type: select_one
+        options:
+          - Worldwide - all media
+          - Academic institutions only
+          - Internal use only
+          - Limited distribution
+          - Specific regions only
+        required: true
+      - id: 17
+        name: identity_usage
+        label: Identity Usage
+        hint: Name and likeness
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: name_usage
+        label: May Your Name Be Used
+        hint: Name permission
+        type: select_one
+        options:
+          - Yes - full name
+          - Yes - first name only
+          - Yes - initials only
+          - No - anonymous
+          - No - pseudonym
+        required: true
+      - id: 19
+        name: likeness_usage
+        label: May Your Likeness Be Used
+        hint: Photo or video
+        type: select_one
+        options:
+          - Yes - photographs
+          - Yes - video
+          - Yes - both
+          - No - no images
+        required: true
+      - id: 20
+        name: title_usage
+        label: May Your Title or Position Be Used
+        hint: Professional identification
+        type: select_one
+        options:
+          - Yes - full title
+          - Yes - general description
+          - No - do not disclose
+        required: true
+      - id: 21
+        name: review_rights
+        label: Review Rights
+        hint: Approval process
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: review_opportunity
+        label: Will You Review Before Publication
+        hint: Review status
+        type: select_one
+        options:
+          - Yes - full review required
+          - Yes - for accuracy only
+          - No - no review needed
+          - Maybe - if requested
+        required: true
+      - id: 23
+        name: review_timeframe
+        label: Review Timeframe
+        hint: How long for review
+        type: select_one
+        options:
+          - 3 business days
+          - 5 business days
+          - 1 week
+          - 2 weeks
+          - Not applicable
+        required: false
+      - id: 24
+        name: edits_allowed
+        label: Are Edits or Revisions Allowed
+        hint: Modification rights
+        type: select_one
+        options:
+          - Yes - participant can request edits
+          - Yes - for factual accuracy only
+          - No - organization decides
+          - Negotiable
+        required: true
+      - id: 25
+        name: compensation
+        label: Compensation
+        hint: Payment or consideration
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: compensation_provided
+        label: Will You Receive Compensation
+        hint: Payment status
+        type: select_one
+        options:
+          - Yes - monetary payment
+          - Yes - gift or incentive
+          - Yes - recognition only
+          - No - voluntary participation
+        required: true
+      - id: 27
+        name: compensation_details
+        label: Compensation Details
+        hint: What and when
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: confidentiality
+        label: Confidentiality
+        hint: Privacy terms
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: confidential_info
+        label: Is Any Information Confidential
+        hint: Restricted content
+        type: select_one
+        options:
+          - No - all can be published
+          - Yes - some restrictions
+          - Yes - significant restrictions
+        required: true
+      - id: 30
+        name: confidential_details
+        label: Describe Confidential Information
+        hint: What cannot be shared
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: term_duration
+        label: Term and Duration
+        hint: How long release lasts
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: release_duration
+        label: How Long Is This Release Valid
+        hint: Duration of permission
+        type: select_one
+        options:
+          - Perpetual - forever
+          - 5 years
+          - 10 years
+          - Until revoked
+          - For this project only
+        required: true
+      - id: 33
+        name: revocation
+        label: Can This Release Be Revoked
+        hint: Cancellation rights
+        type: select_one
+        options:
+          - No - irrevocable
+          - Yes - with written notice
+          - Yes - under certain conditions
+          - Unsure
+        required: true
+      - id: 34
+        name: legal_understanding
+        label: Legal Understanding
+        hint: Agreement acknowledgment
+        type: note
+        options: []
+        required: false
+      - id: 35
+        name: read_understood
+        label: I Have Read and Understood This Release
+        hint: Comprehension
+        type: select_one
+        options:
+          - Yes - fully
+          - Yes - generally
+          - No - need explanation
+        required: true
+      - id: 36
+        name: voluntary_agreement
+        label: I Agree Voluntarily
+        hint: Voluntary status
+        type: select_one
+        options:
+          - Yes - freely given
+          - Yes - with understanding
+          - No - under pressure
+        required: true
+      - id: 37
+        name: legal_capacity
+        label: I Have Legal Capacity to Sign
+        hint: Authority confirmation
+        type: select_one
+        options:
+          - Yes - I am authorized
+          - Yes - I am of legal age
+          - No - guardian signature needed
+        required: true
+      - id: 38
+        name: authorization
+        label: Authorization
+        hint: Final agreement
+        type: note
+        options: []
+        required: false
+      - id: 39
+        name: agreement
+        label: I Agree to the Terms of This Release
+        hint: Final consent
+        type: select_one
+        options:
+          - Yes - I agree
+          - No - I do not agree
+        required: true
+      - id: 40
+        name: participant_signature
+        label: Participant Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: true
+      - id: 41
+        name: witness_name
+        label: Witness Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 42
+        name: witness_signature_date
+        label: Witness Signature Date
+        hint: Date witnessed
+        type: date
+        options: []
+        required: false
+      - id: 43
+        name: organization_representative
+        label: Organization Representative Name
+        hint: Authorized signatory
+        type: text
+        options: []
+        required: false
+      - id: 44
+        name: organization_signature_date
+        label: Organization Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: false

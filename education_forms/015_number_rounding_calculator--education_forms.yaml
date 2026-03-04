@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Number Rounding Calculator
+    pages:
+    - id: 1
+      name: input_number
+      label: input_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: select_rounding_method
+      label: rounding_method
+      hint: null
+      type: select_multiple
+      options:
+      - round_to_nearest
+      - round_to_even
+      - no_rounding
+      required: false
+    - id: 3
+      name: input_context
+      label: context
+      hint: null
+      type: select_one
+      options:
+      - nearest
+      - financial
+      - scientific
+      - engineering
+      - other
+      required: false
+    - id: 4
+      name: input_precision
+      label: precision
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: select_rounding_type
+      label: rounding_type
+      hint: null
+      type: select_one
+      options:
+      - up
+      - down
+      - nearest
+      required: false
+    - id: 6
+      name: select_rounding_unit
+      label: rounding_unit
+      hint: null
+      type: select_one
+      options:
+      - none
+      - thousands
+      - millions
+      - billions
+      - trillions
+      required: false
+    - id: 7
+      name: select_number_format
+      label: number_format
+      hint: null
+      type: select_one
+      options:
+      - decimal
+      - scientific
+      - engineering
+      - other
+      required: false
+    - id: 8
+      name: input_number_1
+      label: number_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: select_rounding_precision
+      label: rounding_precision
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 10
+      name: input_number_2
+      label: number_2
+      hint: null
+      type: number
+      options: []
+      required: false

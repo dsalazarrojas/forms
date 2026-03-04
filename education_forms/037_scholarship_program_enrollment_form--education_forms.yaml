@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: scholarship_program_enrollment_form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_start
+      label: Program Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_end
+      label: Program End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: scholarship_amount
+      label: Scholarship Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Inactive
+      required: false
+    - id: 10
+      name: student_age
+      label: student age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: program_description
+      label: Program Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false

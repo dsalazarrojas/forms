@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Payment Form
+    pages:
+    - id: 1
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit
+      - Other
+      required: false
+    - id: 3
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 01/01/2022
+      - 01/02/2022
+      - 01/03/2022
+      required: false
+    - id: 5
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

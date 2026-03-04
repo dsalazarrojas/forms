@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Job Application Form
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_posting
+      label: Job Posting
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Professor''}'
+      - '{''value'': ''Instructor''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: application_documents
+      label: Application Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cover_letter
+      label: Cover Letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Professor''}'
+      - '{''value'': ''Instructor''}'
+      required: false
+    - id: 9
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Tenured''}'
+      - '{''value'': ''Non-Tenured''}'
+      required: false
+    - id: 10
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Tenure-Track''}'
+      - '{''value'': ''Tenure-Track (Non-tenurable)''}'
+      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured''}'
+      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured''}'
+      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured (part-time)''}'
+      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenured (part-time)/Tenured''}'
+      - '{''value'': ''Tenure-Track (Non-tenurable)/Tenure-Track (Non-tenurable)''}'
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 15
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Tenured''}'
+      - '{''value'': ''Non-Tenured''}'
+      - '{''value'': ''Adjunct''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 18
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Tenured''}'
+      - '{''value'': ''Tenured (Part-time)''}'
+      - '{''value'': ''Non-Tenured''}'
+      - '{''value'': ''Non-Tenured (Part-time)''}'
+      required: false
+    - id: 19
+      name: job_location
+      label: Job Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''New Brunswick''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Ontario''}'
+      required: false
+    - id: 20
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Tenured''}'
+      - '{''value'': ''Non-Tenured''}'
+      - '{''value'': ''Adjunct''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 21
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: application_process
+      label: Application Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: text
+      options: []
+      required: false

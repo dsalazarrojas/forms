@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Booking Form
+    pages:
+    - id: 1
+      name: form_data
+      label: School Booking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: booking_type
+      label: Booking Type
+      hint: null
+      type: select_multiple
+      options:
+      - Staff
+      - Facilities
+      - Other
+      required: false
+    - id: 6
+      name: facility
+      label: Facility
+      hint: null
+      type: select_one
+      options:
+      - Auditorium
+      - Library
+      - Playground
+      - Other
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

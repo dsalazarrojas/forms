@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Access Request Form
+    pages:
+    - id: 1
+      name: requestor_info
+      label: Requestor Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lab_facility_info
+      label: Laboratory Facility Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lab_access_date
+      label: Lab Access Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: lab_access_time
+      label: Lab Access Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: lab_access_duration
+      label: Lab Access Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: lab_access_type
+      label: Lab Access Type
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 7
+      name: lab_access_comment
+      label: Lab Access Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_staff
+      label: Assigned Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Staff 1
+      - Staff 2
+      - Staff 3
+      required: true
+    - id: 9
+      name: request_confirmation
+      label: Request Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: request_comments
+      label: Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true

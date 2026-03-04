@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artwork Order Form
+    pages:
+    - id: 1
+      name: artwork_selection_id
+      label: Artwork ID or Title
+      hint: Please refer to our online catalog
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: framing_option
+      label: Would you like this artwork framed
+      hint: null
+      type: select_one
+      options:
+      - Yes, please frame
+      - No, unframed print only
+      required: true
+    - id: 4
+      name: framing_style
+      label: Select Framing Style
+      hint: Only applicable if framing is selected
+      type: select_one
+      options:
+      - Modern Black Wood
+      - Classic Gold Leaf
+      - Natural Oak
+      - Floating White Frame
+      required: false
+    - id: 5
+      name: recipient_full_name
+      label: Recipient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address_full
+      label: Shipping Address
+      hint: Street, City, State, Zip, Country
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: gift_message_text
+      label: Optional Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method_pref
+      label: Preferred Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Ground - 7 to 10 days
+      - Expedited - 3 to 5 days
+      - Overnight Courier
+      required: true
+    - id: 9
+      name: delivery_acknowledgment
+      label: I understand that custom framing adds 14 days to delivery time
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 10
+      name: customer_contact_phone
+      label: Contact Phone for Delivery
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_email_addr
+      label: Billing Email Address
+      hint: null
+      type: email
+      options: []
+      required: true

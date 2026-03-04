@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fair Project Proposal Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: project_category
+      hint: null
+      type: select_one
+      options:
+      - category
+      - Other
+      required: false
+    - id: 4
+      name: description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false

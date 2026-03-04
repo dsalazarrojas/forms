@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: osce_evaluation_form
+    pages:
+    - id: 1
+      name: page_1
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: osce_station
+      label: osce_station
+      hint: null
+      type: select_one
+      options:
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: osce_station_id
+      label: osce_station
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: osce_station
+      label: osce_station
+      hint: null
+      type: select_one
+      options:
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 5
+      name: osce_station
+      label: osce_station
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      required: false
+    - id: 6
+      name: osce_station
+      label: osce_station
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: osce_station_id
+      label: osce_station
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: page_2
+      label: evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: page_3
+      label: conclusion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: osce_station
+      label: osce_station
+      hint: null
+      type: select_one
+      options:
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      required: false
+    - id: 14
+      name: osce_station_id
+      label: osce_station
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: page_4
+      label: final
+      hint: null
+      type: text
+      options: []
+      required: false

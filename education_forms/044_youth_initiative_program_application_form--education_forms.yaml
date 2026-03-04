@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Initiative Program Application Form
+    pages:
+    - id: 1
+      name: student_contact_info
+      label: Student Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_info
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_talents
+      label: What are your talents?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: student_interests
+      label: What are your interests?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: student_skills
+      label: What skills do you think are most important for your future career?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: true
+    - id: 7
+      name: student_education
+      label: What is your current level of education?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 8
+      name: student_gpa
+      label: What is your GPA?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: student_attendance
+      label: How many hours do you attend school?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: student_languages
+      label: What languages do you speak fluently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: student_references
+      label: Please provide 2 references
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: student_references_2
+      label: Please provide 2 references
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: student_additional_references
+      label: Additional references
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: student_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_file
+      label: Attach Resume or File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_agreement
+      label: I understand I am required to be honest about the information I enter.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: student_agreement_2
+      label: I understand that I will be contacted for an interview.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: student_agreement_3
+      label: I understand that all information provided here will be kept confidential.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: student_agreement_4
+      label: I understand that all information provided here will be reviewed and
+        verified.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: student_agreement_5
+      label: I understand that failure to provide accurate information may result
+        in disqualification from the program.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_agreement_6
+      label: I understand that all information provided here will be stored securely.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: student_agreement_7
+      label: Agreement 7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: parent_agreement
+      label: Parent or Guardian's Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: parent_signature
+      label: Parent/Guardian Signature
+      hint: null
+      type: text
+      options: []
+      required: true

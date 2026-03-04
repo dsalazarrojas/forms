@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Selection Form
+    pages:
+    - id: 1
+      name: course_selection_form
+      label: Select Subject
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: side_project
+      label: Have Side Project
+      hint: Yes/No
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false

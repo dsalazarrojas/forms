@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cisco Networking Academy Lesson Plan
+    pages:
+    - id: 1
+      name: instructor_name
+      label: Instructor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: academy_name
+      label: Cisco Networking Academy Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: null
+      type: select_one
+      options:
+      - CCNA - Introduction to Networks
+      - CCNA - Switching, Routing, and Wireless
+      - CCNA - Enterprise Networking
+      - Cybersecurity Essentials
+      - Introduction to IoT
+      - NDG Linux Essentials
+      - Other
+      required: true
+    - id: 5
+      name: lesson_title
+      label: Lesson Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lesson_number
+      label: Lesson Number
+      hint: e.g., 3.2.1
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lesson_date
+      label: Lesson Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: duration
+      label: Lesson Duration
+      hint: In minutes
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: class_section
+      label: Class Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What students will learn
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: prerequisites
+      label: Prerequisites
+      hint: Required prior knowledge
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: materials_needed
+      label: Materials Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Computer lab
+      - Packet Tracer
+      - Physical networking equipment
+      - Projector
+      - Whiteboard
+      - Handouts
+      - Online resources
+      - None
+      required: true
+    - id: 13
+      name: equipment_requirements
+      label: Equipment Requirements
+      hint: Routers, switches, cables
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: lesson_activities
+      label: Planned Activities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lecture
+      - Demonstration
+      - Hands-on lab
+      - Group discussion
+      - Quiz
+      - Packet Tracer activity
+      - Video presentation
+      required: true
+    - id: 15
+      name: lab_exercise
+      label: Lab Exercise Description
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assessment_method
+      label: Assessment Method
+      hint: How will you assess learning
+      type: select_one
+      options:
+      - Quiz
+      - Lab completion
+      - Written assignment
+      - Presentation
+      - Discussion participation
+      - Other
+      required: true
+    - id: 17
+      name: key_terms
+      label: Key Terms and Vocabulary
+      hint: List important terms
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: common_challenges
+      label: Common Student Challenges
+      hint: What to watch for
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: differentiation
+      label: Differentiation Strategies
+      hint: For varied learning levels
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: homework_assignment
+      label: Homework Assignment
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_resources
+      label: Additional Resources
+      hint: Links, references
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Instructor Notes
+      hint: For future reference
+      type: text
+      options: []
+      required: false

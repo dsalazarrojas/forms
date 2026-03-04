@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Enrollment Form
+    pages:
+    - id: 1
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_details
+      label: Parent Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fee_details
+      label: Fee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_enrollment_date
+      label: Student Enrollment Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_enrollment_time
+      label: Student Enrollment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_phone
+      label: Student Phone
+      hint: XXX-XXX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_enrollment_fee
+      label: Student Enrollment Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 10
+      name: payment_gateway_fee
+      label: Payment Gateway Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: student_enrollment_date_time
+      label: Student Enrollment Date/Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: student_enrollment_status
+      label: Student Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: student_enrollment_notes
+      label: Student Enrollment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: parent_phone
+      label: Parent Phone
+      hint: XXX-XXX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: parent_address
+      label: Parent Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: parent_relationship
+      label: Parent Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 20
+      name: student_enrollment_fee_payment_method
+      label: Student Enrollment Fee Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 21
+      name: student_enrollment_fee_payment_gateway
+      label: Student Enrollment Fee Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 22
+      name: student_enrollment_fee_payment_method_status
+      label: Student Enrollment Fee Payment Method Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 23
+      name: student_enrollment_fee_payment_gateway_status
+      label: Student Enrollment Fee Payment Gateway Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 24
+      name: student_enrollment_fee_payment_method_fee
+      label: Student Enrollment Fee Payment Method Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: student_enrollment_fee_payment_gateway_fee
+      label: Student Enrollment Fee Payment Gateway Fee
+      hint: null
+      type: number
+      options: []
+      required: true

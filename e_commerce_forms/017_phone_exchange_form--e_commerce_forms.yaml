@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Exchange Form
+    pages:
+    - id: 1
+      name: phone_exchange_form_data
+      label: Phone Exchange Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: account_id
+      label: Account ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exchange_type
+      label: Exchange Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''port''}'
+      - '{''value'': ''transfer''}'
+      - '{''value'': ''swap''}'
+      - '{''value'': ''merge''}'
+      - '{''value'': ''port_transfer''}'
+      - '{''value'': ''transfer_swap''}'
+      required: false
+    - id: 5
+      name: new_account
+      label: New Account
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''account1''}'
+      - '{''value'': ''account2''}'
+      - '{''value'': ''account3''}'
+      - '{''value'': ''account4''}'
+      required: false
+    - id: 6
+      name: confirm_exchange
+      label: Confirm Exchange
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: exchange_date
+      label: Exchange Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: exchange_time
+      label: Exchange Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: exchange_note
+      label: Exchange Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

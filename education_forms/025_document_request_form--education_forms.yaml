@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Transcript
+      - Diploma
+      - Certification
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Requested
+      - Issued
+      - Completed
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

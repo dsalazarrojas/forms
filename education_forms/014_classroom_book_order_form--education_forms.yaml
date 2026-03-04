@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Book Order Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: Full name of the teacher placing the order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_email
+      label: Teacher Email
+      hint: Email address for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: teacher_phone
+      label: Teacher Phone
+      hint: Contact telephone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: Name of the school or institution
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_district
+      label: School District
+      hint: District or region
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: Grade Level
+      hint: Grade of students who will use these books
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7-8
+      - Grade 9-12
+      required: true
+    - id: 7
+      name: section_header_order
+      label: -- Book Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: book_1_title
+      label: Book 1 - Title
+      hint: Title of the first book
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: book_1_author
+      label: Book 1 - Author
+      hint: Author name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: book_1_isbn
+      label: Book 1 - ISBN
+      hint: ISBN number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: book_1_quantity
+      label: Book 1 - Quantity
+      hint: Number of copies needed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: book_1_unit_price
+      label: Book 1 - Unit Price
+      hint: Price per book
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: book_2_title
+      label: Book 2 - Title
+      hint: Title of the second book
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: book_2_author
+      label: Book 2 - Author
+      hint: Author name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: book_2_quantity
+      label: Book 2 - Quantity
+      hint: Number of copies needed
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: book_3_title
+      label: Book 3 - Title
+      hint: Title of the third book
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: book_3_quantity
+      label: Book 3 - Quantity
+      hint: Number of copies needed
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: additional_books
+      label: Additional Books
+      hint: Information about any additional books
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_preferences
+      label: -- Preferences and Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: book_condition
+      label: Preferred Book Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Good Condition
+      - Used
+      - No Preference
+      required: false
+    - id: 21
+      name: hardcover_paperback
+      label: Format Preference
+      hint: Do you prefer hardcover or paperback?
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - No Preference
+      required: false
+    - id: 22
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any special instructions for this order
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_delivery
+      label: -- Delivery and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: delivery_address
+      label: Delivery Address
+      hint: Where should the books be delivered?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: delivery_date_needed
+      label: Date Books Needed By
+      hint: When do you need these books?
+      type: date
+      options: []
+      required: true

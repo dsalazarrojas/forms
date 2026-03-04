@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_front_end_client
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: confirm email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: role_options
+      label: roles
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Customer
+      - Employee
+      required: false
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_options
+      label: departments
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Finance
+      - IT
+      - HR
+      required: false
+    - id: 11
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_options
+      label: managers
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Mary
+      - Bob
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

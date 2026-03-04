@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: critical_thinking_curriculum_project_application_form
+    pages:
+    - id: 1
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_description
+      label: program_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dates_start_end
+      label: dates_start_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_year
+      label: time_of_year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: budget_range
+      label: budget_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: curriculum_area
+      label: curriculum_area
+      hint: null
+      type: select_one
+      options:
+      - Critical Thinking
+      - Other
+      required: false
+    - id: 12
+      name: application_type
+      label: application_type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Other
+      required: false
+    - id: 13
+      name: program_status
+      label: program_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - On Hold
+      - Inactive
+      - Other
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

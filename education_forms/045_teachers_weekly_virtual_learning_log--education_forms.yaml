@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teachers Weekly Virtual Learning Log
+    pages:
+    - id: 1
+      name: week_start_date
+      label: Week Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: total_teaching_days
+      label: Total Teaching Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: total_teachers
+      label: Total Teachers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_students
+      label: Total Students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: learning_platforms
+      label: Learning Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Google Meet
+      - Zoom
+      - Microsoft Teams
+      - Skype
+      - Google Classroom
+      required: false
+    - id: 6
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_one
+      options:
+      - Highly Engaged
+      - Moderately Engaged
+      - Not Engaged
+      required: true
+    - id: 7
+      name: teaching_methodologies
+      label: Teaching Methodologies
+      hint: null
+      type: select_one
+      options:
+      - Project Based
+      - Lecture Based
+      - Interactive
+      required: true
+    - id: 8
+      name: teaching_hours
+      label: Teaching Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      required: true
+    - id: 10
+      name: challenges_faced
+      label: Challenges Faced
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: solutions_used
+      label: Solutions Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

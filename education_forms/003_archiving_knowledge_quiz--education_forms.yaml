@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Archiving Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_level
+      label: Digital Archiving Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 6
+      name: section_quiz
+      label: -- Knowledge Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_1
+      label: What is the primary goal of digital archiving
+      hint: null
+      type: select_one
+      options:
+      - To preserve materials for future access
+      - To make files smaller in size
+      - To encrypt sensitive data
+      - To backup server systems
+      required: true
+    - id: 8
+      name: question_2
+      label: Which file format is best for long-term preservation
+      hint: null
+      type: select_one
+      options:
+      - JPEG
+      - PDF/A
+      - DOCX
+      - MP4
+      required: true
+    - id: 9
+      name: question_3
+      label: What does metadata provide in archives
+      hint: null
+      type: select_multiple
+      options:
+      - Description of content
+      - Access restrictions
+      - Creation date information
+      - File size information
+      required: true
+    - id: 10
+      name: question_4
+      label: Which is a key consideration for archive storage
+      hint: null
+      type: select_one
+      options:
+      - Temperature control
+      - Network speed
+      - User password complexity
+      - Monitor refresh rate
+      required: true
+    - id: 11
+      name: question_5
+      label: What is digital obsolescence
+      hint: null
+      type: select_one
+      options:
+      - When data becomes corrupted
+      - When technology used to access files becomes unavailable
+      - When files are deleted
+      - When bandwidth is exceeded
+      required: true
+    - id: 12
+      name: question_6
+      label: Name three archiving standards or practices
+      hint: List common archiving standards you know
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_7
+      label: What challenges have you faced with archiving
+      hint: null
+      type: select_multiple
+      options:
+      - Storage space limitations
+      - File format compatibility
+      - Cost constraints
+      - Lack of technical expertise
+      - Metadata management
+      required: false
+    - id: 14
+      name: section_feedback
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: quiz_difficulty
+      label: How would you rate the difficulty of this quiz
+      hint: null
+      type: select_one
+      options:
+      - Too easy
+      - Appropriate
+      - Too difficult
+      required: false
+    - id: 16
+      name: training_needs
+      label: Topics where you need additional training
+      hint: null
+      type: text
+      options: []
+      required: false

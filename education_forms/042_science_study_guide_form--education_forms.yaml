@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Study Guide Form
+    pages:
+    - id: 1
+      name: science_study_guide_form_1
+      label: Student Information
+      hint: Enter student's information
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: science_study_guide_form_2
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: science_study_guide_form_3
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: science_study_guide_form_4
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: science_study_guide_form_5
+      label: Topic of Interest
+      hint: Select topic of interest
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: science_study_guide_form_6
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: science_study_guide_form_7
+      label: Section
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: science_study_guide_form_8
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: science_study_guide_form_9
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: science_study_guide_form_10
+      label: Notes
+      hint: Enter notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: science_study_guide_form_11
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: science_study_guide_form_12
+      label: Science Subject
+      hint: Select science subject
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: science_study_guide_form_13
+      label: Science Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: science_study_guide_form_14
+      label: Science Level
+      hint: Select science level
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

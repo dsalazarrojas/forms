@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: School To Work Pathways Workshop Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_grade_level
+      label: School Grade Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Grade 1''}'
+      - '{''label'': ''Grade 2''}'
+      - '{''label'': ''Grade 3''}'
+      - '{''label'': ''Grade 4''}'
+      - '{''label'': ''Grade 5''}'
+      - '{''label'': ''Grade 6''}'
+      - '{''label'': ''Grade 7''}'
+      - '{''label'': ''Grade 8''}'
+      - '{''label'': ''Grade 9''}'
+      - '{''label'': ''Grade 10''}'
+      required: false
+    - id: 3
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_teacher
+      label: Assigned Teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Teacher 1''}'
+      - '{''label'': ''Teacher 2''}'
+      - '{''label'': ''Teacher 3''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

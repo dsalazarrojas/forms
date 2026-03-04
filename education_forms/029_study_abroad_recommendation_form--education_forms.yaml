@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Abroad Recommendation Form
+    pages:
+    - id: 1
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_program_interests
+      label: Student Program Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_educational_background
+      label: Student Educational Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_employment_status
+      label: Student Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: recommendation_details
+      label: Recommendation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommender_details
+      label: Recommender Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommender_relationship
+      label: Recommender-Student Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: recommender_position
+      label: Recommender Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: recommender_recommendations
+      label: Recommenders Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommender_contact
+      label: Recommenders Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recommender_signature
+      label: Recommenders Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_signature
+      label: Students Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false

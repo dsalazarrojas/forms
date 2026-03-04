@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_interview_questionnaire_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: teaching_certifications
+      label: Teaching Certifications
+      hint: List all teaching certifications you have earned (e.g., Bachelor's degree,
+        Master's degree, Teaching Certification)
+      type: select_multiple
+      options:
+      - Master's degree
+      - Teaching Certification
+      - Bachelor's degree
+      required: false
+    - id: 5
+      name: teaching_areas
+      label: Teaching Areas
+      hint: List all subject areas you are proficient in (e.g., Math, Science, English,
+        History)
+      type: select_multiple
+      options:
+      - Science
+      - Math
+      - English
+      - History
+      required: false
+    - id: 6
+      name: languages_spoken
+      label: Languages Spoken
+      hint: List all languages spoken (e.g., English, Spanish, Mandarin)
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      required: false
+    - id: 7
+      name: education_background
+      label: Education Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: Availability
+      hint: What time of day are you available to teach?
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: availability_2
+      label: Availability
+      hint: What day of the week are you available to teach?
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Online Application
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: online_application
+      label: Online Application
+      hint: Do you have an online application available?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: license
+      label: License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_info
+      label: Other Information
+      hint: Is there any other information you would like to share?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: references
+      label: References
+      hint: Do you have professional references available?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: reference_names
+      label: Reference Names
+      hint: List all professional references
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reference_relationship
+      label: Reference Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Current
+      - Past
+      required: false
+    - id: 21
+      name: reference_phone
+      label: Reference Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reference_email
+      label: Reference Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: reference_address
+      label: Reference Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_reference_info
+      label: Other Reference Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save for Later
+      - Cancel
+      required: false

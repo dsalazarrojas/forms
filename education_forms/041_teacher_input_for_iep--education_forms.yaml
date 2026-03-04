@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_input_for_iep
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: prophets_name
+      hint: Name of the teacher
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_last_attendance
+      label: date_of_last_attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_previous_attendance
+      label: date_of_previous_attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: physical_need_1
+      label: physical_needs
+      hint: null
+      type: select_multiple
+      options:
+      - Vision Impairment
+      - Hearing Impairment
+      - Mild Intellectual Disability
+      - Moderate Intellectual Disability
+      - Severe Intellectual Disability
+      - Speech or Language Impairment
+      - Speech or Language Disorder
+      - Physical Disability
+      - Emotional Disability
+      - Other
+      required: false
+    - id: 8
+      name: physical_need_2
+      label: other_physical_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: health_insurance
+      label: health_insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_health_insurance
+      label: other_health_insurance
+      hint: null
+      type: text
+      options: []
+      required: false

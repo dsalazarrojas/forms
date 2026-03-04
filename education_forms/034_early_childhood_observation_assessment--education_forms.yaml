@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Childhood Observation Assessment
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: observation_frequency
+      label: Observation Frequency
+      hint: How often the assessment is administered
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: observation_type
+      label: Observation Type
+      hint: null
+      type: select_multiple
+      options:
+      - Child Developmental Skills
+      - Social and Emotional Development
+      - Language and Literacy
+      - Fine and Gross Motor Skills
+      required: false
+    - id: 4
+      name: observation_duration
+      label: Observation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: observation_location
+      label: Observation Location
+      hint: Where the observation took place
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observation_notes
+      label: Observation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assessment_tool
+      label: Assessment Tool
+      hint: null
+      type: select_one
+      options:
+      - ChatJIMMY
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false

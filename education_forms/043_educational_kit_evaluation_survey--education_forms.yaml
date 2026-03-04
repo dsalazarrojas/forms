@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Kit Evaluation Survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: kit_type
+      label: Kit Type
+      hint: null
+      type: select_one
+      options:
+      - Kit A
+      - Kit B
+      - Kit C
+      required: false
+    - id: 3
+      name: kit_usefulness
+      label: Kit Usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: kit_content_quality
+      label: Kit Content Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: kit_usability
+      label: Kit Usability
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: kit_ease_of_use
+      label: Kit Ease of Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: kit_feedback
+      label: Kit Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: kit_additional_comments
+      label: Kit Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: rating_reasons
+      label: Rating Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_ethics_for_educators_registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: email_confirmation
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Educator''}'
+      - '{''value'': ''Program Organizer''}'
+      - '{''value'': ''Both''}'
+      required: false
+    - id: 7
+      name: workshop_info
+      label: Workshop Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Other (Specify)''}'
+      required: false
+    - id: 9
+      name: other_contact
+      label: Other Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: program_organizer
+      label: Program Organizer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: number
+      options: []
+      required: false

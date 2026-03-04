@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fair Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Science Projects
+      - Art and Design
+      - Robotics
+      - Other
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_multiple
+      options:
+      - 9-12
+      - 6-8
+      - K-5
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: Briefly describe your science project
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - Science Experiment
+      - Science Experiment - Other
+      - Science Experiment - Robotics
+      - Science Experiment - Engineering
+      required: false
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Accepted
+      - Rejected
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: Additional comments from our team
+      type: note
+      options: []
+      required: false

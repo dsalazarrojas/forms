@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Interconnections Quiz
+    pages:
+    - id: 1
+      name: goals_label
+      label: Global Interconnections Quiz Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category_label
+      label: Education Forms,Quizzes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description_label
+      label: Global Interconnections Quiz Form tests students’ knowledge of globalization,
+        technology, and international links, helping educators run quick online assessments
+        and collect results in one place.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool_label
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

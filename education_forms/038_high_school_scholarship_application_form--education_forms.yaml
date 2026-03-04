@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_school_scholarship_application_form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_3
+      label: Address 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_level_attending
+      label: Grade Level Attending
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      required: true
+    - id: 8
+      name: academic_programs
+      label: Academic Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Computer Science
+      - Mathematics
+      - Language Arts
+      - Science
+      required: true
+    - id: 9
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: academic_achievements
+      label: Academic Achievements
+      hint: Describe academic achievements such as AP courses, honor roll, or academic
+        awards
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Sports
+      - Music
+      - Drama
+      required: false
+    - id: 12
+      name: community_service
+      label: Community Service
+      hint: null
+      type: select_multiple
+      options:
+      - Volunteer Work
+      - Community Service
+      - Fundraising
+      required: false
+    - id: 13
+      name: awards
+      label: Awards
+      hint: List any awards or recognition you have received
+      type: select_multiple
+      options:
+      - Academic Award
+      - Athletic Award
+      - Artistic Award
+      required: false
+    - id: 14
+      name: financial_aid
+      label: Financial Aid
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: references
+      label: References
+      hint: Please list up to 3 references with name, email, and relationship
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Advisor
+      required: false
+    - id: 19
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: reference_2_relationship
+      label: Reference 2 Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Advisor
+      required: false
+    - id: 22
+      name: reference_3_name
+      label: Reference 3 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reference_3_email
+      label: Reference 3 Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: reference_3_relationship
+      label: Reference 3 Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Teacher
+      - Advisor
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: Upload supporting documentation or other relevant supporting materials
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: mentor_mentee_matching_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: goal_1
+      label: What do you want to achieve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goal_2
+      label: What's your current level of experience in this field?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: goal_3
+      label: How much time do you have available per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: mentor_interest_1
+      label: What type of mentor would you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: mentor_interest_2
+      label: What skills do you want to learn from your mentor?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: mentor_interest_3
+      label: What type of support do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: mentor_interest_4
+      label: What type of support do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: mentor_interest_5
+      label: What do you want to get out of mentoring?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: mentor_interest_6
+      label: Do you want to meet in-person or virtually?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: mentor_interest_7
+      label: How often would you like to meet with your mentor?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: mentor_interest_8
+      label: What kind of relationship would you prefer with your mentor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: mentor_interest_9
+      label: What time of the day would you like to meet with your mentor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: mentor_interest_10
+      label: Are you available to meet at different times of the day?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: mentor_interest_11
+      label: Are you available to meet at different times of the day?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: mentor_interest_12
+      label: What day would you like to meet with your mentor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: mentor_interest_13
+      label: Do you want to be matched with a mentor from the same company?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: mentor_interest_14
+      label: Do you want to be matched with a mentor from a different company?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: mentor_interest_15
+      label: What industry do you want to be matched with?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: mentor_interest_16
+      label: What is your preferred language?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: mentor_interest_17
+      label: Do you prefer to be matched with a mentor who is an introvert or extrovert?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: mentor_interest_18
+      label: Do you prefer to be matched with a mentor who is a male or female?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: mentor_interest_19
+      label: Do you prefer to be matched with a mentor who is a local or remote?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

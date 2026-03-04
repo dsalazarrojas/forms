@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Intake Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: Briefly describe the project
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estimated_budget
+      label: Estimated Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: Project location (e.g. campus or building)
+      type: text
+      options: []
+      required: false

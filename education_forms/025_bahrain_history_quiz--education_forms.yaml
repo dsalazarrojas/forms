@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bahrain History Quiz
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Bahrain History Quiz --
+      hint: Test your knowledge of Bahrain's rich history
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: class_or_group
+      Label: Class or Learning Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_questions
+      label: -- Quiz Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question_1
+      Label: What is the capital of Bahrain?
+      hint: null
+      type: select_one
+      options:
+      - Manama
+      - Riffa
+      - Muharraq
+      - Budaiya
+      required: true
+    - id: 8
+      name: question_2
+      Label: In what year did Bahrain become independent?
+      hint: null
+      type: select_one
+      options:
+      - '1961'
+      - '1968'
+      - '1971'
+      - '1973'
+      required: true
+    - id: 9
+      name: question_3
+      Label: What ancient civilization inhabited Bahrain?
+      hint: null
+      type: select_one
+      options:
+      - Dilmun
+      - Sumer
+      - Akkad
+      - Assyria
+      required: true
+    - id: 10
+      name: question_4
+      Label: Which sea borders Bahrain?
+      hint: null
+      type: select_one
+      options:
+      - Arabian Sea
+      - Persian Gulf
+      - Red Sea
+      - Gulf of Oman
+      required: true
+    - id: 11
+      name: question_5
+      Label: What is Bahrain's main religion?
+      hint: null
+      type: select_one
+      options:
+      - Christianity
+      - Hinduism
+      - Islam
+      - Buddhism
+      required: true
+    - id: 12
+      name: question_6
+      Label: The Qal'at al-Bahrain is an example of what?
+      hint: null
+      type: select_one
+      options:
+      - Ancient Fort
+      - Religious Temple
+      - Trading Port
+      - Palace
+      required: true
+    - id: 13
+      name: question_7
+      Label: When did the Pearl Trade Peak in Bahrain?
+      hint: null
+      type: select_one
+      options:
+      - 16th Century
+      - 18th Century
+      - 19th Century
+      - 20th Century
+      required: true
+    - id: 14
+      name: question_8
+      Label: Who ruled Bahrain in the 18th Century?
+      hint: null
+      type: select_one
+      options:
+      - Al Khalifa family
+      - Ottoman Empire
+      - Safavid Persia
+      - Portuguese
+      required: true
+    - id: 15
+      name: question_9
+      Label: What commodity made Bahrain wealthy historically?
+      hint: null
+      type: select_one
+      options:
+      - Oil
+      - Pearls
+      - Spices
+      - Silk
+      required: true
+    - id: 16
+      name: question_10
+      Label: How many islands comprise Bahrain?
+      hint: null
+      type: select_one
+      options:
+      - '17'
+      - '30'
+      - '50'
+      - '75'
+      required: true
+    - id: 17
+      name: question_11
+      Label: What is Bahrain's primary language?
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Arabic
+      - Farsi
+      - Urdu
+      required: true
+    - id: 18
+      name: question_12
+      Label: In what year was oil discovered in Bahrain?
+      hint: null
+      type: select_one
+      options:
+      - '1923'
+      - '1932'
+      - '1945'
+      - '1956'
+      required: true
+    - id: 19
+      name: section_feedback
+      label: -- Assessment Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: difficulty_level
+      Label: Quiz Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Appropriate
+      - Too Difficult
+      required: false
+    - id: 21
+      name: confidence_level
+      Label: Your Confidence in Your Answers
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Somewhat Confident
+      - Neutral
+      - Not Very Confident
+      - Not Confident
+      required: false
+    - id: 22
+      name: areas_for_improvement
+      Label: Areas You Would Like to Learn More About
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: quiz_feedback
+      Label: General Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: willing_retake
+      Label: Would You Like to Retake This Quiz?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: quiz_completion
+      Label: Thank You for Taking This Quiz
+      hint: Your responses have been recorded
+      type: select_one
+      options:
+      - Quiz Complete
+      - Other
+      required: true

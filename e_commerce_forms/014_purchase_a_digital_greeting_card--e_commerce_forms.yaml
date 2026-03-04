@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase A Digital Greeting Card
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: recipient_name
+      label: Recipient's Name
+      hint: Enter the name of the recipient
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: card_design
+      label: Card Design
+      hint: null
+      type: select_one
+      options:
+      - Design 1
+      - Design 2
+      - Design 3
+      required: true
+    - id: 6
+      name: recipient_email
+      label: Recipient's Email
+      hint: Enter the recipient's email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: card_price
+      label: Card Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_from
+      label: Form Submitted From
+      hint: null
+      type: select_multiple
+      options:
+      - Desktop
+      - Mobile
+      - Tablet
+      required: false
+    - id: 12
+      name: form_submitted_at
+      label: Form Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - ecard
+      - printcard
+      - physicalcard
+      required: true
+    - id: 14
+      name: recipient_address
+      label: Recipient's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recipient_phone
+      label: Recipient's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sender_address
+      label: Sender's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sender_phone
+      label: Sender's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - delivered
+      - cancelled
+      required: true
+    - id: 20
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: custom_fields_2
+      label: Custom Fields 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: custom_fields_3
+      label: Custom Fields 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: custom_fields_4
+      label: Custom Fields 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: custom_fields_5
+      label: Custom Fields 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: custom_fields_6
+      label: Custom Fields 6
+      hint: null
+      type: text
+      options: []
+      required: false

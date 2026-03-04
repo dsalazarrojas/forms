@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Integration Research Application Form
+    pages:
+    - id: 1
+      name: institution_select
+      label: Select an Institution
+      hint: Select one or more institutions to apply to
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: review_committee_select
+      label: Select a Review Committee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: research_title
+      label: Research Title
+      hint: Enter the title of your research proposal
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: proposal_type
+      label: Research Proposal Type
+      hint: Type of technology research proposal
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: research_description
+      label: Research Description
+      hint: Description of the research proposal
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: technology_use
+      label: Technology Use
+      hint: Describe the use of technology in your proposal
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: institution_email
+      label: Institution Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: institution_phone
+      label: Institution Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_committee_email
+      label: Review Committee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: review_committee_phone
+      label: Review Committee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: proposal_files
+      label: Proposal Files
+      hint: Attach relevant research proposal files
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: proposal_files_2
+      label: Additional Proposal Files
+      hint: null
+      type: note
+      options: []
+      required: false

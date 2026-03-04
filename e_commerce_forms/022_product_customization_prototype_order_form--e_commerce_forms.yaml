@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Customization Prototype Order Form
+    pages:
+    - id: 1
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_customization
+      label: Customization Options
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_info
+      label: Shipping Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      required: false
+    - id: 5
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 6
+      name: order_info
+      label: Order Information
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: category_id
+      label: Category ID
+      hint: null
+      type: text
+      options: []
+      required: false

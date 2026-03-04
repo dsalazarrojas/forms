@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Services Evaluation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Library Services Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: form_questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: form_answer
+      label: Answer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: form_date
+      label: Date Used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_time
+      label: Time Used
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_education_level
+      label: Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 13
+      name: form_frequency_used
+      label: Frequency Used
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: form_satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 15
+      name: form_likemindedness
+      label: Like Mindedness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: form_likely_visit
+      label: Will Likely Visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: form_recommend
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: form_comments
+      label: Other Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: form_instructor
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_instructor_website
+      label: Instructor Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_instructor_social
+      label: Instructor Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_attended
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: form_attended_name
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: true

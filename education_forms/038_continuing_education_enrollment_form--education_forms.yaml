@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education Enrollment Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: For currently admitted or returning students
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_id_number
+      label: Student ID Number (If known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_edu
+      label: Preferred Email for Course Material
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: course_selection_header
+      label: -- Course Enrollment --
+      hint: Choose your courses for the upcoming term
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: enrollment_term
+      label: Enrollment Term
+      hint: null
+      type: select_one
+      options:
+      - Spring 2026
+      - Summer 2026
+      - Fall 2026
+      - Winter 2026
+      required: true
+    - id: 7
+      name: courses_to_enroll
+      label: Select Course(s)
+      hint: Check prerequisites before selecting
+      type: select_multiple
+      options:
+      - CE-101 - Principles of Digital Marketing
+      - CE-205 - Advanced Project Management
+      - CE-310 - Python for Data Science
+      - CE-415 - Leadership in Global Teams
+      - CE-500 - Professional Ethics
+      required: true
+    - id: 8
+      name: payment_billing_header
+      label: -- Payment and Tuition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total_tuition_estimated
+      label: Estimated Total Tuition (USD)
+      hint: Refer to the course catalog for exact pricing
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: payment_method_preference
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card (Online)
+      - Electronic Bank Transfer
+      - Employer Direct Billing
+      - Scholarship/Grant Coverage
+      required: true
+    - id: 11
+      name: employer_reimbursement_program
+      label: Is your employer paying for this course
+      hint: null
+      type: select_one
+      options:
+      - Yes - Reimbursement
+      - Yes - Direct Bill
+      - No - Self Funded
+      required: true
+    - id: 12
+      name: authorization_header
+      label: -- Enrollment Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: terms_and_conditions_agreed
+      label: I agree to the tuition refund policy and terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: enrollment_date
+      label: Date of Enrollment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: student_signature
+      label: Student Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

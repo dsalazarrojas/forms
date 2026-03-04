@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Placement Host Assessment Form
+    pages:
+    - id: 1
+      name: first_contact_info
+      label: First Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: host_company
+      label: Host Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_placement_position
+      label: Job Placement Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On Leave
+      - Terminated
+      required: true
+    - id: 12
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_multiple
+      options:
+      - Internship
+      - Co-op
+      - Full-time
+      - Part-time
+      required: true
+    - id: 13
+      name: job_hours
+      label: Job Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_first_language
+      label: Primary Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_second_language
+      label: Secondary Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: placement_type
+      label: Type of Placement
+      hint: null
+      type: select_one
+      options:
+      - Internship
+      - Co-op
+      - Full-time
+      - Part-time
+      - Short-term
+      required: true
+    - id: 19
+      name: job_industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false

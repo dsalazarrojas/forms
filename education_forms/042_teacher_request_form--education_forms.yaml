@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_request_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ChatJimmy'', ''value'': ''ChatJimmy''}'
+      - '{''id'': 2, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: assigned_tool_other
+      label: assigned_tool_other
+      hint: null
+      type: text
+      options: []
+      required: false

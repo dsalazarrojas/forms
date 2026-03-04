@@ -1,0 +1,273 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cafeteria Menu Improvement Poll
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - student or staff name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_type
+        label: I Am A
+        hint: Are you a student or staff member
+        type: select_one
+        options:
+          - Student
+          - Faculty
+          - Staff
+          - Parent
+          - Visitor
+        required: true
+      - id: 3
+        name: grade_level_or_department
+        label: Grade Level or Department
+        hint: Your grade or department
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: meal_plan_status
+        label: Meal Plan Status
+        hint: Do you have a meal plan
+        type: select_one
+        options:
+          - Yes, full plan
+          - Yes, partial plan
+          - No meal plan
+          - Not applicable
+        required: true
+      - id: 5
+        name: cafeteria_usage
+        label: How Often Do You Eat in Cafeteria
+        hint: Your typical usage
+        type: select_one
+        options:
+          - Every day
+          - 4 times a week
+          - 2-3 times a week
+          - Once a week
+          - Rarely
+          - Never
+        required: true
+      - id: 6
+        name: typical_meal_time
+        label: Typical Meal Time
+        hint: When do you usually eat
+        type: select_multiple
+        options:
+          - Breakfast
+          - Lunch
+          - Dinner
+          - Snacks
+        required: false
+      - id: 7
+        name: food_quality_rating
+        label: Food Quality Rating
+        hint: How would you rate the food quality
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: food_temperature
+        label: Food Temperature
+        hint: Is food served at proper temperature
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 9
+        name: portion_sizes
+        label: Portion Sizes
+        hint: How are the portion sizes
+        type: select_one
+        options:
+          - Too small
+          - Somewhat small
+          - Just right
+          - Somewhat large
+          - Too large
+        required: true
+      - id: 10
+        name: menu_variety
+        label: Menu Variety
+        hint: How is the variety of options
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: healthy_options
+        label: Healthy Options Availability
+        hint: Are there enough healthy choices
+        type: select_one
+        options:
+          - More than enough
+          - Enough
+          - Somewhat limited
+          - Very limited
+          - None
+        required: true
+      - id: 12
+        name: dietary_accommodation
+        label: Dietary Accommodation
+        hint: Are your dietary needs met
+        type: select_one
+        options:
+          - Yes, fully
+          - Yes, mostly
+          - Somewhat
+          - Not really
+          - Not at all
+          - No dietary restrictions
+        required: false
+      - id: 13
+        name: dietary_restrictions
+        label: Dietary Restrictions
+        hint: Select any that apply
+        type: select_multiple
+        options:
+          - None
+          - Vegetarian
+          - Vegan
+          - Gluten-free
+          - Dairy-free
+          - Nut allergy
+          - Halal
+          - Kosher
+          - Other
+        required: false
+      - id: 14
+        name: favorite_menu_items
+        label: Favorite Menu Items
+        hint: What do you like most
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: least_favorite_items
+        label: Least Favorite Items
+        hint: What do you like least
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: new_items_requested
+        label: New Items You Would Like
+        hint: What should we add to the menu
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: items_to_remove
+        label: Items That Should Be Removed
+        hint: What should we stop serving
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: price_value
+        label: Price and Value
+        hint: How do you feel about the prices
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Overpriced
+        required: true
+      - id: 19
+        name: service_speed
+        label: Service Speed
+        hint: How fast is the service
+        type: select_one
+        options:
+          - Very fast
+          - Fast
+          - Average
+          - Slow
+          - Very slow
+        required: true
+      - id: 20
+        name: staff_friendliness
+        label: Staff Friendliness
+        hint: How friendly is the cafeteria staff
+        type: select_one
+        options:
+          - Very friendly
+          - Friendly
+          - Neutral
+          - Unfriendly
+          - Very unfriendly
+        required: true
+      - id: 21
+        name: cleanliness_rating
+        label: Cleanliness Rating
+        hint: How clean is the cafeteria
+        type: select_one
+        options:
+          - Very clean
+          - Clean
+          - Average
+          - Dirty
+          - Very dirty
+        required: true
+      - id: 22
+        name: seating_availability
+        label: Seating Availability
+        hint: Is there enough seating
+        type: select_one
+        options:
+          - Always enough
+          - Usually enough
+          - Sometimes limited
+          - Often limited
+          - Never enough
+        required: false
+      - id: 23
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you with cafeteria
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other suggestions or feedback
+        type: text
+        options: []
+        required: false

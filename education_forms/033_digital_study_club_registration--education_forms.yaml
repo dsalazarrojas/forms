@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Study Club Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Confirm email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: password_confirmation
+      label: Confirm password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interests
+      label: Interests
+      hint: List your interests ( separated by commas)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: format_preferences
+      label: Preferred format
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 9
+      name: timezone
+      label: Timezone
+      hint: Your timezone
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: session_time
+      label: Session time
+      hint: When can you start a session
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: availability
+      label: Availability
+      hint: When are you usually available?
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Other
+      required: false
+    - id: 12
+      name: availability_time
+      label: Availability time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: session_frequency
+      label: Session frequency
+      hint: How often can you join a session
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: session_length
+      label: Session length
+      hint: How long can you commit to a session
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5 hours
+      - Other
+      required: false
+    - id: 15
+      name: preferred_language
+      label: Preferred language
+      hint: What language do you prefer
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 16
+      name: preferred_topic
+      label: Preferred topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: preferred_topic_other
+      label: Other preferred topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_info
+      label: Additional info
+      hint: Any other information about you
+      type: text
+      options: []
+      required: false

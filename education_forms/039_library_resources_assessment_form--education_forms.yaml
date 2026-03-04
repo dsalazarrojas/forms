@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Resources Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: library_resources
+      label: library_resources
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Option 1''}'
+      - '{''id'': 1, ''label'': ''Option 2''}'
+      - '{''id'': 2, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: resource_availability
+      label: Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resource_accessibility
+      label: Accessibility
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 0, ''label'': ''Option 1''}'
+      - '{''id'': 1, ''label'': ''Option 2''}'
+      - '{''id'': 2, ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: resource_support
+      label: Support
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 0, ''label'': ''Option 1''}'
+      - '{''id'': 1, ''label'': ''Option 2''}'
+      - '{''id'': 2, ''label'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: resource_utilization
+      label: Utilization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

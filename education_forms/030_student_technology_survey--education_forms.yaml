@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Technology Survey
+    pages:
+    - id: 1
+      name: general_technology_use
+      label: General Technology Use
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: devices_used_at_home
+      label: Devices Used At Home
+      hint: null
+      type: select_multiple
+      options:
+      - Laptops
+      - Smartphones
+      - Tablets
+      - Gaming Consoles
+      - Smartwatches
+      - Other
+      required: false
+    - id: 3
+      name: primary_device_used
+      label: Primary Device Used
+      hint: null
+      type: select_one
+      options:
+      - Laptop
+      - Smartphone
+      - Tablet
+      - None
+      required: false
+    - id: 4
+      name: how_long_do_you_leave_your_device_on
+      label: How long Do You Leave Your Device On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: what_time_do_you_start_your_day
+      label: What Time Do You Start Your Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: average_screen_time
+      label: Average Screen Time
+      hint: Hours per week
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: average_screen_time_per_day
+      label: Average Screen Time per Day
+      hint: Hours per day
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: favorite_applications
+      label: Favorite Applications
+      hint: List your favorite applications used on your primary device
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: favorite_applications_ever
+      label: Favorite Applications Ever
+      hint: List any other favorite applications used
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: how_do_you_get_internet
+      label: How Do You Get Internet
+      hint: null
+      type: select_one
+      options:
+      - Wi-Fi
+      - Mobile
+      - Other
+      required: false
+    - id: 11
+      name: other_internet_source
+      label: Other Internet Source
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: how_many_days_in_a_week_do_you_use_your_device
+      label: How Many Days In A Week Do You Use Your Device
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - More
+      required: false
+    - id: 13
+      name: what_time_do_you_start_your_device
+      label: What Time Do You Start Your Device
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: average_battery_life
+      label: Average Battery Life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: favorite_social_media
+      label: Favorite Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - Snapchat
+      - TikTok
+      - Reddit
+      - Other
+      required: false
+    - id: 16
+      name: favorite_social_media_other
+      label: Other Social Media
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: what_time_do_you_stop_your_device
+      label: What Time Do You Stop Your Device
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: favorite_games
+      label: Favorite Games
+      hint: List your favorite games played on your primary device
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: favorite_games_other
+      label: Other Games
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: average_sleep_time_before_bed
+      label: Average Sleep Time Before Bed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: average_screen_time_before_bed
+      label: Average Screen Time Before Bed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: favorite_music
+      label: Favorite Music
+      hint: List your favorite music platforms or apps
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: favorite_music_other
+      label: Other Music
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: average_screen_time_before_bed_ever
+      label: Average Screen Time Before Bed Ever
+      hint: Hours before bed
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: how_do_you_charge_your_device
+      label: How Do You Charge Your Device
+      hint: null
+      type: select_multiple
+      options:
+      - Plug
+      - Wireless
+      - Other
+      required: false
+    - id: 26
+      name: other_charge_methods
+      label: Other Charge Methods
+      hint: Please specify
+      type: text
+      options: []
+      required: false

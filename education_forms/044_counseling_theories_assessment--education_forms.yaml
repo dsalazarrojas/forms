@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Theories Assessment
+    pages:
+    - id: 1
+      name: education_level
+      label: What is your education level?
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctorate
+      required: false
+    - id: 2
+      name: theory_preferences
+      label: Which theories do you have a preference for?
+      hint: null
+      type: select_multiple
+      options:
+      - Cognitive Behavioral
+      - Humanistic
+      - Existential
+      - Solution Focused
+      required: false
+    - id: 3
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_1
+      label: '1'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_2
+      label: '2'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: case_responses
+      label: Case Response
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - No Case
+      required: false
+    - id: 7
+      name: case_description
+      label: Case Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_description_response
+      label: Case Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: education_field
+      label: Education Field
+      hint: null
+      type: select_one
+      options:
+      - Psychology
+      - Counseling
+      - Social Work
+      - Other
+      required: false
+    - id: 10
+      name: theory_rating_1
+      label: '1'
+      hint: null
+      type: number
+      options: []
+      required: false

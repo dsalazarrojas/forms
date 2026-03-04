@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Accessibility Research Application
+    pages:
+    - id: 1
+      name: section_header_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: institution
+      label: University or research institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: academic_role
+      label: Academic role
+      hint: null
+      type: select_one
+      options:
+      - Faculty member
+      - Post-doctoral researcher
+      - Graduate student
+      - Undergraduate student
+      - Research assistant
+      - Other
+      required: true
+    - id: 8
+      name: section_header_research_proposal
+      label: -- Research Proposal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: research_title
+      label: Title of proposed research
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_area
+      label: Primary research area
+      hint: null
+      type: select_one
+      options:
+      - Physical accessibility
+      - Digital accessibility
+      - Learning disabilities
+      - Sensory impairments
+      - Cognitive accessibility
+      - Universal design
+      - Assistive technology
+      - Other
+      required: true
+    - id: 11
+      name: research_summary
+      label: Summary of proposed research
+      hint: Provide a 200-word overview of objectives, methodology, and expected outcomes
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_population
+      label: Target population for the study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expected_duration
+      label: Expected duration of the research
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - More than 12 months
+      required: true
+    - id: 14
+      name: section_header_accessibility_needs
+      label: -- Accessibility Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: researcher_accessibility_needs
+      label: Do you have any accessibility needs as a researcher
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Screen reader compatible materials
+      - Sign language interpretation
+      - Physical access accommodations
+      - Extended time for submissions
+      - Other
+      required: true
+    - id: 16
+      name: accessibility_needs_details
+      label: Please provide details about your accessibility needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_ethics
+      label: -- Ethics and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: ethics_approval_status
+      label: Ethics or IRB approval status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not yet submitted
+      - Not required
+      required: true
+    - id: 19
+      name: informed_consent_plan
+      label: Describe how informed consent will be obtained from participants
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: data_privacy_plan
+      label: Describe how participant data will be stored and protected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: applicant_declaration
+      label: I confirm that the information provided is accurate and that this research
+        will be conducted ethically
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - Other
+      required: true

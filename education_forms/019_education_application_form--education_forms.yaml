@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: education-application-form
+    pages:
+    - id: 1
+      name: prospective_student
+      label: prospective-student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_level
+      label: education-level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: previous_education
+      label: previous-education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_availability
+      label: student-availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: school_history
+      label: school-history
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: academic_achievements
+      label: academic-achievements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: personal_qualifications
+      label: personal-qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: references
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share
+      label: consent-to-share
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: uploaded_document
+      label: uploaded-document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_on
+      label: submitted-on
+      hint: null
+      type: date
+      options: []
+      required: false

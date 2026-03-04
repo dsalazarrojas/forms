@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Ethics In Education Research Application Form
+    pages:
+    - id: 1
+      name: applicant_details_header
+      label: --- Applicant and Project Information ---
+      hint: Standard identification for ethics review.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institutional_affiliation
+      label: Institutional Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: research_project_title
+      label: Research Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ethics_domain_header
+      label: --- Ethical Review Details ---
+      hint: Please identify and address specific ethical considerations.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ethical_concern_categories
+      label: Primary Ethical Domains
+      hint: Which areas are most relevant to your research?
+      type: select_multiple
+      options:
+      - label: Data Privacy and Protection
+        value: privacy
+      - label: Algorithmic Bias and Fairness
+        value: bias_fairness
+      - label: Human Agency and Oversight
+        value: human_agency
+      - label: Transparency and Explainability
+        value: transparency
+      - label: Safety and Robustness
+        value: safety
+      - label: Accountability
+        value: accountability
+      required: true
+    - id: 7
+      name: ai_involvement_description
+      label: Description of AI Involvement
+      hint: How will AI models or algorithms be utilized in the educational setting?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: risk_level_assessment
+      label: Initial Risk Assessment
+      hint: Based on institutional guidelines.
+      type: select_one
+      options:
+      - label: Low (Minimal risk to participants)
+        value: low
+      - label: Medium (Some potential for bias or data exposure)
+        value: medium
+      - label: High (Involves sensitive data or significant impact on learners)
+        value: high
+      required: true
+    - id: 9
+      name: risk_mitigation_plan
+      label: Risk Mitigation Strategies
+      hint: How will you minimize the risks identified above?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_consent_process
+      label: Participant Consent Process
+      hint: Describe how you will obtain informed consent, especially if minors are involved.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: data_storage_security
+      label: Data Storage and Security Measures
+      hint: Where and how will the research data be stored?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: third_party_ai_providers
+      label: Third-party AI Service Providers
+      hint: e.g., OpenAI, Google Cloud, Azure, Hugging Face
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: algorithmic_transparency
+      label: Algorithmic Transparency Plan
+      hint: How will you explain the AI's role or decisions to participants?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: oversight_mechanism
+      label: Oversight and Redress Mechanism
+      hint: Who will monitor the AI during the study? How can participants report issues?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: long_term_impact
+      label: Potential Long-term Impact Statement
+      hint: Consideration of future implications of this AI application.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: agreement_header
+      label: --- Declarations and Sign-off ---
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: ethics_guidelines_agreement
+      label: I agree to conduct this research in accordance with the established AI Ethical Guidelines.
+      hint: null
+      type: select_one
+      options:
+      - label: Yes, I agree
+        value: yes
+      - label: No
+        value: no
+      required: true
+    - id: 18
+      name: supervisor_approval_status
+      label: Supervisor / PI Approval
+      hint: Has your supervisor reviewed this application?
+      type: select_one
+      options:
+      - label: Yes, approved
+        value: approved
+      - label: Under review
+        value: review
+      - label: Not yet reviewed
+        value: pending
+      required: true
+    - id: 19
+      name: submission_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true

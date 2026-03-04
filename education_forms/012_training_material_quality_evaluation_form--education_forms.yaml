@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Material Quality Evaluation Form
+    pages:
+    - id: 1
+      name: training_material_id
+      label: Training Materials ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trainer_rating
+      label: Trainer Rating
+      hint: null
+      type: select_one
+      options:
+      - Not Rated
+      - Poor
+      - Good
+      - Excellent
+      required: false
+    - id: 3
+      name: content_relevance
+      label: Content Relevance
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      - Not Applicable
+      required: false
+    - id: 4
+      name: content_accuracy
+      label: Content Accuracy
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 5
+      name: content_comprehension
+      label: Content Comprehension
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 6
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Not Rated
+      - Poor
+      - Good
+      - Excellent
+      required: false
+    - id: 9
+      name: training_materials_used
+      label: Training Materials Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 10
+      name: training_materials_quality
+      label: Training Materials Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Fair
+      required: false
+    - id: 11
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: trainer_email
+      label: Trainer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: trainer_phone
+      label: Trainer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Educational Resources Donation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: select_institution
+      label: Select an institution
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''University of California, Berkeley''}'
+      - '{''value'': ''University of California, Davis''}'
+      - '{''value'': ''University of California, Los Angeles''}'
+      - '{''value'': ''University of California, San Francisco''}'
+      - '{''value'': ''University of California, San Diego''}'
+      required: true
+    - id: 10
+      name: select_other_institution
+      label: Select an other institution
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''University of Michigan''}'
+      - '{''value'': ''New York University''}'
+      - '{''value'': ''Carnegie Mellon University''}'
+      - '{''value'': ''Harvard University''}'
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Leave Time Off Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: num_days
+      label: Number of Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Approved''}'
+      - '{''value'': 2, ''label'': ''Approved (Awaiting Payment)''}'
+      - '{''value'': 3, ''label'': ''Denied''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: created_by
+      label: Created By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Option 1''}'
+      - '{''value'': 2, ''label'': ''Option 2''}'
+      - '{''value'': 3, ''label'': ''Option 3''}'
+      required: false

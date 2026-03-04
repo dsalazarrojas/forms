@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fine Arts Coach Interest Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_preferences
+      label: contact preferences
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - text
+      required: true
+    - id: 6
+      name: fine_arts_areas_of_interest
+      label: fine arts areas of interest
+      hint: null
+      type: select_multiple
+      options:
+      - dance
+      - theater
+      - music
+      - art
+      - visual art
+      - media_and_tech
+      - other
+      required: false
+    - id: 7
+      name: fine_arts_areas_of_interest_other
+      label: fine arts areas of interest other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: availability
+      label: availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: availability_time
+      label: availability time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: availability_note
+      label: availability note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: fine_arts_coach_type
+      label: fine arts coach type
+      hint: null
+      type: select_one
+      options:
+      - dance
+      - theater
+      - music
+      - art
+      - visual art
+      - media and tech
+      required: true
+    - id: 12
+      name: fine_arts_coach_type_other
+      label: fine arts coach type other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: fine_arts_coach_language
+      label: fine arts coach language
+      hint: null
+      type: select_multiple
+      options:
+      - english
+      - spanish
+      - mandarin
+      required: true
+    - id: 14
+      name: fine_arts_coach_language_other
+      label: fine arts coach language other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: fine_arts_coach_biography
+      label: fine arts coach biography
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: fine_arts_coach_education
+      label: fine arts coach education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: fine_arts_coach_experience
+      label: fine arts coach experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fine_arts_coach_certification
+      label: fine arts coach certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 19
+      name: fine_arts_coach_certification_other
+      label: fine arts coach certification other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - save for later
+      required: true
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fine_arts_coach_interest
+      label: fine arts coach interest
+      hint: null
+      type: select_one
+      options:
+      - very low
+      - low
+      - moderate
+      - high
+      - very high
+      required: true
+    - id: 24
+      name: additional_notes
+      label: additional notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fine_arts_coach_why_interested
+      label: fine arts coach why interested
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Club Registration Form
+    pages:
+    - id: 1
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: Date of birth for the student
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_grade
+      label: Current Grade Level
+      hint: What grade is the student currently in?
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 5
+      name: student_school
+      label: School Attended
+      hint: Name of the school the student attends
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_id_number
+      label: Student ID Number
+      hint: Student identification number (if available)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: club_selection_section
+      label: Club Selection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: selected_club
+      label: Select After-School Club
+      hint: Which after-school club would you like your child to join?
+      type: select_one
+      options:
+      - Art Club
+      - Science Club
+      - Chess Club
+      - Drama Club
+      - Robotics Club
+      - Sports Club
+      - Music Club
+      - Debate Club
+      - Coding Club
+      - Gardening Club
+      - Other
+      required: true
+    - id: 9
+      name: club_choice_reason
+      label: Reason for Club Choice
+      hint: Why did you choose this particular club for your child?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attendance_days
+      label: Days of Attendance
+      hint: Which days will your child attend the after-school program?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 11
+      name: parent_guardian_information_section
+      label: Parent/Guardian Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: parent_guardian_name
+      label: Parent/Guardian Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_guardian_relationship
+      label: Relationship to Student
+      hint: Your relationship to the student
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Aunt/Uncle
+      - Other
+      required: true
+    - id: 14
+      name: parent_guardian_email
+      label: Email Address
+      hint: Email for program updates and communication
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: parent_guardian_phone
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_information_section
+      label: Emergency Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship of emergency contact to the student
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_information_section
+      label: Medical Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Does your child have any medical conditions we should know about?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medications
+      label: Current Medications
+      hint: Is your child currently taking any medications?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: allergies
+      label: Allergies
+      hint: Does your child have any allergies (food, medication, environmental)?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_authorizations
+      label: Medical Authorization
+      hint: Do you authorize program staff to seek medical attention for your child
+        if needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: transportation_information_section
+      label: Transportation Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: transportation_method
+      label: Transportation Method
+      hint: How will your child get home from the after-school program?
+      type: select_one
+      options:
+      - Picked up by parent/guardian
+      - School bus
+      - Walk
+      - Other authorized adult
+      - Other
+      required: true
+    - id: 27
+      name: authorized_adults
+      label: Other Authorized Adults
+      hint: List any other adults authorized to pick up your child
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: dismissal_instructions
+      label: Dismissal Instructions
+      hint: Special instructions for dismissing your child
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: registration_agreements_section
+      label: Registration Agreements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to the terms and conditions of the after-school program
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: photo_release_agreement
+      label: Photo Release Agreement
+      hint: I give permission for my child to be photographed during program activities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: signature
+      label: Parent/Guardian Signature
+      hint: Electronic signature to confirm registration
+      type: text
+      options: []
+      required: true

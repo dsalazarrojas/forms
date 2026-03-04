@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Communication Preferences Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Communication Preferences Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Your institutional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: academic_role
+      label: Your primary role
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Teaching Assistant
+        - Administrator
+      required: true
+    - id: 5
+      name: program_or_department
+      label: Program or department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_channel_header
+      label: -- Preferred Communication Channels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_channel_instructor
+      label: Preferred way to receive updates from instructors
+      hint: null
+      type: select_one
+      options:
+        - Email
+        - Learning Management System (LMS)
+        - In-class announcements
+        - Text or SMS
+        - Messaging app
+      required: true
+    - id: 8
+      name: preferred_channel_admin
+      label: Preferred way to receive administrative announcements
+      hint: null
+      type: select_one
+      options:
+        - Email
+        - Student portal
+        - Mobile app notifications
+        - Social media
+        - Physical bulletin board
+      required: true
+    - id: 9
+      name: frequency_preference
+      label: How often would you like to receive institutional updates
+      hint: null
+      type: select_one
+      options:
+        - Daily
+        - A few times per week
+        - Weekly
+        - Bi-weekly
+        - Monthly
+      required: true
+    - id: 10
+      name: response_time_expectation
+      label: What is your expected response time for academic emails
+      hint: null
+      type: select_one
+      options:
+        - Within a few hours
+        - Within 24 hours
+        - Within 48 hours
+        - Within one week
+        - No specific expectation
+      required: true
+    - id: 11
+      name: tools_used
+      label: Which digital tools do you currently use for academic communication
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Email
+        - Microsoft Teams
+        - Slack
+        - Google Chat
+        - WhatsApp
+        - Zoom
+        - Discussion forums
+      required: true
+    - id: 12
+      name: preferred_meeting_format
+      label: Preferred format for group discussions or meetings
+      hint: null
+      type: select_one
+      options:
+        - In-person
+        - Video conference
+        - Hybrid (in-person and virtual)
+        - Asynchronous messaging
+      required: true
+    - id: 13
+      name: notification_overload
+      label: Do you feel overwhelmed by the number of academic notifications you receive
+      hint: null
+      type: select_one
+      options:
+        - Yes, significantly
+        - Somewhat
+        - Not really
+        - Not at all
+      required: true
+    - id: 14
+      name: accessibility_needs
+      label: Do you have any communication accessibility needs
+      hint: For example - screen reader compatibility, captioning, large text
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Any additional comments about academic communication
+      hint: null
+      type: text
+      options: []
+      required: false

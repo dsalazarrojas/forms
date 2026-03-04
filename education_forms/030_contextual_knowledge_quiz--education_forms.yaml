@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contextual Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_header_note
+      label: -- Contextual Understanding Assessment --
+      hint: Test your ability to analyze information within its proper context
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student/Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_id_code
+      label: Quiz Reference Code
+      hint: Provided by your instructor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_1_theory
+      label: -- Part 1 - Theoretical Foundations --
+      hint: Basic concepts of contextual analysis
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: question_1_definition
+      label: Which best defines 'Historical Context' in literature
+      hint: Choose the most accurate description
+      type: select_one
+      options:
+      - The sequence of events in the story
+      - The social and political environment of the author's time
+      - The personal biography of the main character
+      - The physical location where the book was published
+      required: true
+    - id: 6
+      name: question_2_importance
+      label: Why is context critical when interpreting data
+      hint: Short explanation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_2_application
+      label: -- Part 2 - Scenario Analysis --
+      hint: Apply your knowledge to real-world examples
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: scenario_1_analysis
+      label: Scenario - A growth rate of 50 percent is reported. When is this MISLEADING
+      hint: Identify the missing contextual factor
+      type: select_one
+      options:
+      - When the starting value is very small (e.g., from 2 to 3)
+      - When the timeframe is clearly stated
+      - When comparing to previous years
+      - When the currency is specified
+      required: true
+    - id: 9
+      name: scenario_2_open_ended
+      label: Describe how cultural context affects a business negotiation
+      hint: Provide a brief example (2-3 sentences)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_3_evaluation
+      label: -- Self-Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confidence_rating
+      label: How confident are you in your answers
+      hint: 1 = Not confident, 5 = Very confident
+      type: select_one
+      options:
+      - 1 - Not confident
+      - 2 - Low confidence
+      - 3 - Moderate
+      - 4 - High confidence
+      - 5 - Very confident
+      required: true
+    - id: 12
+      name: feedback_on_quiz
+      label: Was this quiz helpful for your learning
+      hint: null
+      type: select_one
+      options:
+      - Yes, very helpful
+      - Somewhat helpful
+      - Not helpful
+      required: false
+    - id: 13
+      name: time_taken_minutes
+      label: Estimated time taken to complete (Minutes)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: completion_timestamp
+      label: Date and Time of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: CFAC Fundraiser
+    pages:
+    - id: 1
+      name: fundraiser_header
+      label: -- Support Our Mission - CFAC Fundraiser --
+      hint: Your contribution makes a direct impact on our programs and services.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_full_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email_receipt
+      label: Email Address
+      hint: For your donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donation_amount_selection
+      label: Donation Amount
+      hint: Choose a suggested amount or enter your own
+      type: select_one
+      options:
+      - $25
+      - $50
+      - $100
+      - $250
+      - Other Amount
+      required: true
+    - id: 5
+      name: custom_donation_amount
+      label: Other Amount (USD)
+      hint: If 'Other' selected above
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fund_designation
+      label: Direct my donation to
+      hint: null
+      type: select_one
+      options:
+      - Greatest Need (General Fund)
+      - Youth Programs
+      - Community Outreach
+      - Facility Improvements
+      - Scholarship Fund
+      required: true
+    - id: 7
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-time Donation
+      - Monthly Recurring
+      - Annual Gift
+      required: true
+    - id: 8
+      name: dedication_info
+      label: This gift is in honor/memory of
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dedication_notification_email
+      label: Notification Email for Dedication
+      hint: We will notify them of your thoughtful gift (amount will be hidden)
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: payment_method_fundraiser
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal
+      - Bank Transfer (ACH)
+      required: true
+    - id: 11
+      name: employer_match_check
+      label: Does your employer match donations?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: anonymous_donor_request
+      label: I wish to remain anonymous
+      hint: We will not list your name in our annual report
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: mailing_address_donor
+      label: Mailing Address
+      hint: Required for tax records
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: fundraiser_referral_source
+      label: How did you hear about this fundraiser?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Friend/Family
+      - Event
+      - Other
+      required: false
+    - id: 15
+      name: donation_submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

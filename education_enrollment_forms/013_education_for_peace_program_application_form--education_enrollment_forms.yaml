@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education For Peace Program Application Form
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_details
+      label: Program Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: motivation
+      label: Motivation
+      hint: Why are you applying for this program?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: Availability
+      hint: When will you be available?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Application Submitted
+      - Application Reviewing
+      - Application Approved
+      - Application Declined
+      required: true
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Application Submitted
+      - Application Reviewing
+      - Application Approved
+      - Application Declined
+      required: false

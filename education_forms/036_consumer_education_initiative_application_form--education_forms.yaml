@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Education Initiative Application Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: Select your organization type
+      type: select_one
+      options:
+      - Nonprofit
+      - Educational Institution
+      - Government Agency
+      - Community Group
+      - Business
+      - Other
+      required: true
+    - id: 3
+      name: organization_address
+      label: Organization Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_website
+      label: Organization Website
+      hint: URL of your website
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_first_name
+      label: Contact First Name
+      hint: Primary contact first name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_last_name
+      label: Contact Last Name
+      hint: Primary contact last name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_title
+      label: Contact Title
+      hint: Job title of contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: initiative_name
+      label: Initiative Name
+      hint: Name of your education initiative
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: initiative_description
+      label: Initiative Description
+      hint: Describe your education program
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_audience
+      label: Target Audience
+      hint: Who will benefit from this initiative
+      type: select_one
+      options:
+      - Children
+      - Teenagers
+      - Young Adults
+      - Adults
+      - Seniors
+      - Families
+      - General Public
+      required: true
+    - id: 16
+      name: expected_participants
+      label: Expected Number of Participants
+      hint: Estimated reach
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: initiative_goals
+      label: Initiative Goals
+      hint: What do you aim to achieve
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: program_duration
+      label: Program Duration
+      hint: How long will the initiative run
+      type: select_one
+      options:
+      - One-Time Event
+      - Less than 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Ongoing
+      required: true
+    - id: 19
+      name: start_date
+      label: Proposed Start Date
+      hint: When will you begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: funding_needed
+      label: Funding Needed
+      hint: Amount of funding requested
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: budget_breakdown
+      label: Budget Breakdown
+      hint: How will funds be used
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: existing_partners
+      label: Existing Partners
+      hint: List any current partners
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_experience
+      label: Previous Experience
+      hint: Describe relevant past initiatives
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_resources_needed
+      label: Additional Resources Needed
+      hint: What other support do you need
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: application_date
+      label: Application Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

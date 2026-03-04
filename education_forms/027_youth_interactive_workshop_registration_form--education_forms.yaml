@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Interactive Workshop Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date
+      label: workshop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_time
+      label: workshop_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: registration_time
+      label: registration_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Payment'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Cash Payment'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Bank Transfer'', ''value'': 3}'
+      required: false
+    - id: 9
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Adult'', ''value'': ''adult''}'
+      - '{''id'': 2, ''label'': ''Child'', ''value'': ''child''}'
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 13
+      name: participant_age
+      label: participant_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: participant_school
+      label: participant_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_gender
+      label: participant_gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male'', ''value'': ''male''}'
+      - '{''id'': 2, ''label'': ''Female'', ''value'': ''female''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 16
+      name: parent_school
+      label: parent_school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parent_phone
+      label: parent_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_country
+      label: participant_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_city
+      label: participant_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: participant_postal_code
+      label: participant_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_email
+      label: parent_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: participant_address
+      label: participant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parent_country
+      label: parent_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_state
+      label: participant_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_zip
+      label: participant_zip
+      hint: null
+      type: text
+      options: []
+      required: false

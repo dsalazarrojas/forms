@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Feedback Form
+    pages:
+    - id: 1
+      name: respondent_information_section
+      label: Respondent Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: Enter your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_role
+      label: Your Role
+      hint: What is your relationship to the after-school program?
+      type: select_one
+      options:
+      - Parent/Guardian
+      - Student
+      - Teacher
+      - Program Staff
+      - Administrator
+      - Other
+      required: true
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: Name of the student participating in the after-school program
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_grade
+      label: Student Grade Level
+      hint: Current grade level of the student
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 6
+      name: program_information_section
+      label: Program Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_name
+      label: Program Name
+      hint: Name of the after-school program
+      type: select_one
+      options:
+      - Art Club
+      - Science Club
+      - Sports Program
+      - Homework Help
+      - Music Lessons
+      - Drama Club
+      - Robotics Club
+      - Chess Club
+      - Coding Club
+      - Other
+      required: true
+    - id: 8
+      name: program_duration
+      label: Program Duration
+      hint: How long has the student been participating in this program?
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 9
+      name: program_schedule
+      label: Program Schedule
+      hint: Which days does the program take place?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 10
+      name: program_quality_section
+      label: Program Quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with the after-school program?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: program_organization
+      label: Program Organization
+      hint: How would you rate the organization of the program?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: staff_quality
+      label: Staff Quality
+      hint: How would you rate the quality of the program staff?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: curriculum_relevance
+      label: Curriculum Relevance
+      hint: How relevant is the program curriculum to the student's interests?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: skill_development
+      label: Skill Development
+      hint: How well does the program help develop the student's skills?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: safety_environment_section
+      label: Safety and Environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: safety_measures
+      label: Safety Measures
+      hint: How would you rate the safety measures in place?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: facility_condition
+      label: Facility Condition
+      hint: How would you rate the condition of the facilities?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: supervision_quality
+      label: Supervision Quality
+      hint: How would you rate the quality of supervision?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: communication_section
+      label: Communication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: communication_frequency
+      label: Communication Frequency
+      hint: How often does the program communicate with parents/guardians?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 22
+      name: communication_clarity
+      label: Communication Clarity
+      hint: How clear are the communications from the program?
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: information_updates
+      label: Information Updates
+      hint: Are you kept informed about program updates and events?
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: student_experience_section
+      label: Student Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: student_enjoyment
+      label: Student Enjoyment
+      hint: How much does the student enjoy participating in the program?
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: student_participation
+      label: Student Participation
+      hint: How actively does the student participate in program activities?
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: student_behavior_improvement
+      label: Student Behavior Improvement
+      hint: Has the student's behavior improved since joining the program?
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: academic_performance
+      label: Academic Performance
+      hint: Has the program positively impacted the student's academic performance?
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: suggestions_improvements_section
+      label: Suggestions and Improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: program_strengths
+      label: Program Strengths
+      hint: What do you think are the greatest strengths of the program?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas of the program could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments or feedback about the after-school program
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend this program to other families?
+      type: number
+      options: []
+      required: true

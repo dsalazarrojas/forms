@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Compressor Knowledge Quiz
+    pages:
+    - id: 1
+      name: employee_info_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: e.g. Maintenance, Production
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_header
+      label: -- Knowledge Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: q1_types
+      label: 1. Which is a common type of compressor?
+      hint: null
+      type: select_one
+      options:
+      - Reciprocating
+      - Rotary Screw
+      - Centrifugal
+      - All of the above
+      required: true
+    - id: 6
+      name: q2_psi
+      label: 2. What does PSI stand for?
+      hint: null
+      type: select_one
+      options:
+      - Pounds per Square Inch
+      - Pressure Standard Index
+      - Power System Indicator
+      - Pneumatic Safety Interlock
+      required: true
+    - id: 7
+      name: q3_safety_valve
+      label: 3. What is the function of the safety relief valve?
+      hint: null
+      type: select_one
+      options:
+      - To drain water
+      - To release excess pressure to prevent explosion
+      - To turn off the motor
+      - To check oil level
+      required: true
+    - id: 8
+      name: q4_maintenance
+      label: 4. How often should the air intake filter be checked?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Once a year
+      - Weekly or per manufacturer spec
+      - Only when it breaks
+      required: true
+    - id: 9
+      name: q5_oil_check
+      label: 5. When should you check the oil level?
+      hint: For oil-lubricated compressors
+      type: select_one
+      options:
+      - While running under load
+      - Before starting / when off and cool
+      - While draining the tank
+      - Once a month
+      required: true
+    - id: 10
+      name: q6_drainage
+      label: 6. Why must the tank be drained?
+      hint: null
+      type: select_one
+      options:
+      - To remove accumulated water/moisture
+      - To lower the pressure
+      - To check for leaks
+      - To save air
+      required: true
+    - id: 11
+      name: q7_ppe
+      label: 7. What PPE is essential near loud compressors?
+      hint: null
+      type: select_one
+      options:
+      - Sunglasses
+      - Hearing Protection
+      - Gloves
+      - Hard Hat
+      required: true
+    - id: 12
+      name: q8_troubleshooting
+      label: 8. Describe steps if pressure drops unexpectedly
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: reading_log_form
+    pages:
+    - id: 1
+      name: reading_log_form_student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reading_log_form_date_read
+      label: Date Read
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reading_log_form_time_spent_reading
+      label: Time Spent Reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reading_log_form_comprehension
+      label: Comprehension
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: reading_log_form_total_pages_read
+      label: Total Pages Read
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reading_log_form_average_speed
+      label: Average Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reading_log_form_reading_frequency
+      label: Reading Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reading_log_form_reading_comfort
+      label: Reading Comport
+      hint: null
+      type: select_multiple
+      options:
+      - Very Comfortable
+      - Neutral
+      - Uncomfortable
+      required: false
+    - id: 9
+      name: reading_log_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

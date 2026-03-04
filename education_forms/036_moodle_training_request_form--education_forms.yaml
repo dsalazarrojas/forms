@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moodle Training Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course
+      label: Training course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: start_date
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_date
+      label: Training duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: training_mode
+      label: Training mode
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: training_level
+      label: Training level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: assigned_user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitted
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: submitted_at
+      label: Submit date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submitted_time
+      label: Submit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_ip
+      label: Submit ip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitted_city
+      label: Submit city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitted_country
+      label: Submit country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitted_region
+      label: Submit region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_postal
+      label: Submit postal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_state
+      label: Submit state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_language
+      label: Submit language
+      hint: null
+      type: text
+      options: []
+      required: false

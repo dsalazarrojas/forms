@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Exit Survey
+    pages:
+    - id: 1
+      name: course_enrolled
+      label: Course Enrolled
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_satisfaction
+      label: Course Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: educational_values
+      label: Educational Values
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teacher_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false

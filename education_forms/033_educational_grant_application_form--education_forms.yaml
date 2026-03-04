@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Grant Application Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: Applicant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_info
+      label: Institution Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grant_details
+      label: Grant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grant_currency
+      label: Grant Currency
+      hint: null
+      type: select_multiple
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 6
+      name: grant_start_date
+      label: Grant Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: grant_end_date
+      label: Grant End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: grant_amount_details
+      label: Grant Amount Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 10
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - Educational Grants
+      - Scholarship Grants
+      - Other
+      required: false
+    - id: 11
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: grant_category
+      label: Grant Category
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Research
+      - Community Service
+      required: false

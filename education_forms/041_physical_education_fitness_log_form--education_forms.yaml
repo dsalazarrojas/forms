@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: physical_education_fitness_log_form
+    pages:
+    - id: 1
+      name: exercise_name
+      label: Exercise Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exercise_date
+      label: Exercise Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: exercise_time
+      label: Exercise Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: exercise_intensity
+      label: Exercise Intensity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exercise_notes
+      label: Exercise Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: set_number
+      label: Set Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: exercise_type
+      label: Exercise Type
+      hint: null
+      type: select_one
+      options:
+      - Squats
+      - Lunges
+      - Pushups
+      - Other
+      required: false
+    - id: 8
+      name: exercise_reps
+      label: Reps
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: exercise_weight
+      label: Exercise Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: exercise_sets
+      label: Sets
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bootcamp Graduation Discharge Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: Student or participant number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bootcamp_name
+      label: Bootcamp Program Name
+      hint: Name of the program
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_start_date
+      label: Program Start Date
+      hint: When did you start
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: program_end_date
+      label: Program End Date
+      hint: Graduation date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: graduation_status
+      label: Graduation Status
+      hint: Did you complete the program
+      type: select_one
+      options:
+      - Completed successfully
+      - Completed with distinction
+      - Completed with honors
+      - Completed
+      - Did not complete
+      - Withdrew
+      required: true
+    - id: 7
+      name: final_grade
+      label: Final Grade or Score
+      hint: Overall performance grade
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: certification_issued
+      label: Certification Issued
+      hint: Was certification awarded
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 9
+      name: certification_type
+      label: Certification Type
+      hint: Type of certification
+      type: select_one
+      options:
+      - Standard certificate
+      - Professional certification
+      - Advanced certification
+      - Industry credential
+      - Other
+      required: false
+    - id: 10
+      name: employment_outcome
+      label: Employment Outcome
+      hint: Current employment status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Further education
+      - Seeking employment
+      - Other
+      required: false
+    - id: 11
+      name: employer_name
+      label: Current Employer
+      hint: If employed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skills_acquired
+      label: Key Skills Acquired
+      hint: Select skills learned
+      type: select_multiple
+      options:
+      - Technical skills
+      - Programming languages
+      - Project management
+      - Leadership
+      - Communication
+      - Problem solving
+      - Team collaboration
+      - Industry-specific skills
+      required: true
+    - id: 13
+      name: program_feedback
+      label: Program Feedback
+      hint: Overall impression of bootcamp
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recommend_program
+      label: Would You Recommend This Program
+      hint: Recommend to others
+      type: select_one
+      options:
+      - Highly recommend
+      - Recommend
+      - Neutral
+      - Not recommended
+      required: true
+    - id: 15
+      name: discharge_date
+      label: Discharge Date
+      hint: Date of program completion
+      type: date
+      options: []
+      required: true

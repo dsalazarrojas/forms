@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Gift Order Form
+    pages:
+    - id: 1
+      name: gift_details
+      label: Gift Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient
+      label: Recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - First Class
+      - Second Class
+      - Local Pickup
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: billing_details
+      label: Billing Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gift_image
+      label: Gift Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_image_description
+      label: Gift Image Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: image
+      label: Gift Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: gift_message
+      label: Gift Message
+      hint: null
+      type: text
+      options: []
+      required: false

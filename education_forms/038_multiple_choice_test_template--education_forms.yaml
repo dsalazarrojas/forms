@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multiple Choice Test Template
+    pages:
+    - id: 1
+      name: multiple_choice_test_template
+      label: Multiple Choice Question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: question_description
+      label: Question Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_text
+      label: Multiple Choice Question
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: answer_a
+      label: Option A
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: answer_b
+      label: Option B
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: answer_c
+      label: Option C
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

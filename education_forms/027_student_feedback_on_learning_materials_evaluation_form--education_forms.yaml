@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Feedback On Learning Materials Evaluation Form
+    pages:
+    - id: 1
+      name: student_feedback_on_learning_materials_evaluation_form
+      label: student_feedback_on_learning_materials_evaluation_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: course_materials
+      label: course_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: course_materials_important
+      label: course_materials_important
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_feedback_on_learning_materials_evaluation_form_additional_info
+      label: student_feedback_on_learning_materials_evaluation_form_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_materials_rating
+      label: course_materials_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: learning_materials
+      label: learning_materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: learning_materials_important
+      label: learning_materials_important
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 11
+      name: overall_satisfaction_rating
+      label: overall_satisfaction_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_materials_additional_info
+      label: course_materials_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

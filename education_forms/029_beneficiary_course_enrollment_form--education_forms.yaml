@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beneficiary Course Enrollment Form
+    pages:
+    - id: 1
+      name: section_beneficiary
+      label: -- Beneficiary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer Not to Say
+      required: false
+    - id: 8
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_postal
+      label: Zip/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_course
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: course_category
+      label: Course Category
+      hint: null
+      type: select_one
+      options:
+      - Technical Skills
+      - Business Skills
+      - Life Skills
+      - Language
+      - Health and Wellness
+      - Vocational
+      - Other
+      required: true
+    - id: 15
+      name: course_start_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 17
+      name: training_format
+      label: Training Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Online
+      - Hybrid
+      - On-the-Job
+      required: true
+    - id: 18
+      name: section_motivation
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: motivation
+      label: Motivation for Taking This Course
+      hint: Why do you want to take this course
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: learning_goals
+      label: Learning Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: prior_experience
+      label: Prior Experience in This Field
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some
+      - Moderate
+      - Extensive
+      required: false
+    - id: 22
+      name: section_support
+      label: -- Support and Accessibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: accessibility_needs
+      label: Special Accessibility Needs
+      hint: Any accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: financial_assistance
+      label: Financial Assistance Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: agreement_terms
+      label: I Agree to Course Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 26
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: true

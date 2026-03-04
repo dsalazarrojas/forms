@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reunion Registration
+    pages:
+    - id: 1
+      name: reunion_registration_form
+      label: Reunion Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_members
+      label: Family Members
+      hint: List the names of family members attending
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: Date of the reunion
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: Start time of the reunion
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: End time of the reunion
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reunion_type
+      label: Reunion Type
+      hint: Type of the reunion (School, Family, etc.)
+      type: select_one
+      options:
+      - Family
+      - School
+      - Other
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: Name of the person coordinating the reunion
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_details
+      label: Event Details
+      hint: Additional details about the event
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

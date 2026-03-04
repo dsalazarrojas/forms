@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Recording Session Booking Form
+    pages:
+    - id: 1
+      name: session_start_date
+      label: Session Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: session_end_date
+      label: Session End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: booking_duration
+      label: Booking Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: faculty_name
+      label: Faculty Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: faculty_email
+      label: Faculty Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: faculty_phone
+      label: Faculty Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recording_method
+      label: Recording Method
+      hint: null
+      type: select_one
+      options:
+      - Recording Method 1
+      - Recording Method 2
+      - Recording Method 3
+      required: true
+    - id: 10
+      name: recording_location
+      label: Recording Location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 11
+      name: recording_equipment
+      label: Recording Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      required: true
+    - id: 12
+      name: recording_notes
+      label: Recording Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: cancellation
+      label: Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false

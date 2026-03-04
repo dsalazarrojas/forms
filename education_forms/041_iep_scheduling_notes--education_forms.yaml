@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: ie_p_scheduling_notes
+    pages:
+    - id: 1
+      name: meeting_title
+      label: meeting_title
+      hint: Meeting title
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: attendee_0_name
+      label: attendee_1_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_0_role
+      label: attendee_1_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: attendee_0_notes
+      label: attendee_1_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_date
+      label: meeting_date
+      hint: Meeting date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: meeting_time
+      label: meeting_time
+      hint: Meeting time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: meeting_notes
+      label: meeting_notes
+      hint: Meeting notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_actions
+      label: follow_up_actions
+      hint: Follow-up actions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_action_0
+      label: follow_up_action_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_action_0_due_date
+      label: follow_up_action_1_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_action_0_due_time
+      label: follow_up_action_1_due_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_action_0_status
+      label: follow_up_action_1_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ie_scheduling_notes_id
+      label: scheduling_notes_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false

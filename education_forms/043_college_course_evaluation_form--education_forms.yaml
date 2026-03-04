@@ -1,0 +1,303 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College Course Evaluation Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: Optional for anonymity
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: student_email
+        label: Email Address
+        hint: Optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: student_id
+        label: Student ID
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: course_name
+        label: Course Name
+        hint: Course title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: course_number
+        label: Course Number
+        hint: Course code
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: instructor_name
+        label: Instructor Name
+        hint: Professor name
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: semester
+        label: Semester
+        hint: Term
+        type: select_one
+        options:
+          - Fall 2025
+          - Spring 2026
+          - Summer 2026
+          - Fall 2026
+        required: true
+      - id: 8
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: overall_course_rating
+        label: Overall Course Rating
+        hint: Rate the course overall
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: overall_instructor_rating
+        label: Overall Instructor Rating
+        hint: Rate the instructor overall
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: course_objectives_clarity
+        label: Course Objectives Were Clear
+        hint: How clear were goals
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 12
+        name: course_content_relevance
+        label: Course Content Was Relevant
+        hint: Material relevance
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 13
+        name: workload_appropriate
+        label: Workload Was Appropriate
+        hint: Amount of work
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 14
+        name: assignments_helpful
+        label: Assignments Helped Me Learn
+        hint: Assignment quality
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 15
+        name: grading_fair
+        label: Grading Was Fair
+        hint: Grading fairness
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 16
+        name: instructor_knowledge
+        label: Instructor Was Knowledgeable
+        hint: Subject expertise
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 17
+        name: instructor_organization
+        label: Instructor Was Organized
+        hint: Course organization
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 18
+        name: instructor_availability
+        label: Instructor Was Available for Help
+        hint: Office hours and availability
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 19
+        name: instructor_communication
+        label: Instructor Communicated Clearly
+        hint: Communication clarity
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 20
+        name: instructor_respect
+        label: Instructor Treated Students With Respect
+        hint: Respect level
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 21
+        name: class_discussions
+        label: Class Discussions Were Valuable
+        hint: Discussion quality
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 22
+        name: materials_helpful
+        label: Course Materials Were Helpful
+        hint: Textbook and resources
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 23
+        name: skills_improved
+        label: My Skills Improved in This Course
+        hint: Skill development
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 24
+        name: would_recommend
+        label: Would Recommend This Course
+        hint: To other students
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 25
+        name: course_strengths
+        label: Course Strengths
+        hint: What worked well
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: course_weaknesses
+        label: Course Weaknesses
+        hint: What could improve
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: instructor_strengths
+        label: Instructor Strengths
+        hint: What they did well
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: instructor_improvements
+        label: Suggestions for Instructor Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

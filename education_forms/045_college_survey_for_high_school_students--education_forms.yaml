@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Survey For High School Students
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: high_school_name
+      label: High School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 7
+      name: expected_graduation_year
+      label: Expected High School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: college_visitation
+      label: Have you visited this college
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Plan to Soon
+      required: true
+    - id: 9
+      name: visit_experience
+      label: College Visit Experience
+      hint: If you have visited
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - N/A
+      required: true
+    - id: 10
+      name: college_size_preference
+      label: College Size Preference
+      hint: null
+      type: select_one
+      options:
+      - Small (under 5000)
+      - Medium (5000-15000)
+      - Large (15000+)
+      - No Preference
+      required: true
+    - id: 11
+      name: location_preference
+      label: Location Preference
+      hint: null
+      type: select_one
+      options:
+      - Urban
+      - Suburban
+      - Rural
+      - No Preference
+      required: true
+    - id: 12
+      name: residential_vs_commute
+      label: Housing Preference
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commute
+      - No Preference
+      required: true
+    - id: 13
+      name: academic_reputation
+      label: How important is academic reputation
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 14
+      name: program_offerings
+      label: Variety of Academic Programs
+      hint: How important is program selection
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 15
+      name: financial_aid_importance
+      label: Financial Aid Availability
+      hint: How important is affordability
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 16
+      name: student_life_importance
+      label: Student Life and Social Activities
+      hint: How important are campus activities
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 17
+      name: athletics_importance
+      label: Importance of Athletic Programs
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 18
+      name: intended_major
+      label: Intended Major or Field of Study
+      hint: What are you interested in
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: major_offered_at_college
+      label: Is your intended major offered at this college
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: college_fit_assessment
+      label: Overall College Fit Assessment
+      hint: How well does this college match your goals
+      type: select_one
+      options:
+      - Excellent Fit
+      - Good Fit
+      - Moderate Fit
+      - Poor Fit
+      - Very Poor Fit
+      required: true
+    - id: 21
+      name: likely_to_apply
+      label: Likelihood of Applying to This College
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Unsure
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 22
+      name: college_strengths
+      label: Perceived Strengths of This College
+      hint: What appeals to you most
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: college_concerns
+      label: Any Concerns or Questions
+      hint: What would you like to know more about
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_input
+      label: Parent or Guardian Input
+      hint: Any additional feedback from family
+      type: text
+      options: []
+      required: false

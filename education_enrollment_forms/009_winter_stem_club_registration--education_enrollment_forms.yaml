@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter STEM Club Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Program 1'', ''value'': ''program_1''}'
+      - '{''label'': ''Program 2'', ''value'': ''program_2''}'
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Transition Survey
+    pages:
+    - id: 1
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_feedback_question1
+      label: What was the most challenging part of the transition?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_feedback
+      label: Parent Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: parent_feedback_question1
+      label: What support systems or resources do you think would be helpful?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_systems
+      label: Support Systems
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''option_3''}'
+      required: false
+    - id: 6
+      name: resources
+      label: Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''resource_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''resource_2''}'
+      - '{''label'': ''Option 3'', ''value'': ''resource_3''}'
+      required: false
+    - id: 7
+      name: student_feedback_question2
+      label: How can we improve support systems for you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_feedback_question2
+      label: How can we improve support systems for students?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction_question1
+      label: What would you rate your overall satisfaction with the support systems
+        and resources provided?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction_question2
+      label: Why did you feel this way?
+      hint: null
+      type: text
+      options: []
+      required: false

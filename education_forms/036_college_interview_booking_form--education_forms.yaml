@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Interview Booking Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_id
+      label: Application ID Number
+      hint: Your application reference number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: intended_major
+      label: Intended Major or Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: interview_type
+      label: Interview Type Preference
+      hint: null
+      type: select_one
+      options:
+      - In-Person Campus Visit
+      - Virtual Video Interview
+      - Phone Interview
+      - No Preference
+      required: true
+    - id: 8
+      name: interview_format
+      label: Interview Format Preference
+      hint: null
+      type: select_one
+      options:
+      - One-on-One
+      - Group Interview
+      - No Preference
+      required: true
+    - id: 9
+      name: preferred_date_1
+      label: First Preferred Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: preferred_time_1
+      label: First Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: preferred_date_2
+      label: Second Preferred Interview Date
+      hint: Alternative option
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: preferred_time_2
+      label: Second Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: preferred_date_3
+      label: Third Preferred Interview Date
+      hint: Another alternative
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: preferred_time_3
+      label: Third Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: time_zone
+      label: Your Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: interview_language
+      label: Preferred Interview Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Mandarin
+      - French
+      - Other
+      required: true
+    - id: 17
+      name: interpreter_needed
+      label: Do You Need an Interpreter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: interpreter_language
+      label: Interpreter Language Needed
+      hint: If yes above
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_accommodations
+      label: Accessibility or Accommodation Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: accommodation_details
+      label: Accommodation Details
+      hint: Describe your needs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: campus_tour_interested
+      label: Interested in Campus Tour
+      hint: Before or after interview
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 22
+      name: questions_or_concerns
+      label: Questions or Concerns to Discuss
+      hint: Anything you want to cover in interview
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: interview_location
+      label: Interview Location - for in-person
+      hint: Building or campus location preference
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confirmation_consent
+      label: I confirm accuracy of information and agree to interview terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

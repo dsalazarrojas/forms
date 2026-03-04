@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contemporary History Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Name of the history course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz administration
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of instructor or teacher
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quiz_section
+      label: Quiz Section
+      hint: Which section of the course does this cover?
+      type: select_one
+      options:
+      - Post-World War II Era
+      - Cold War Period
+      - Civil Rights Movement
+      - Modern Globalization
+      - Digital Revolution
+      - Contemporary Conflicts
+      - Environmental Movement
+      required: true
+    - id: 7
+      name: question_1_answer
+      label: Question 1 - Post-WWII Organization
+      hint: Which organization was established after WWII to maintain international
+        peace?
+      type: select_one
+      options:
+      - League of Nations
+      - United Nations
+      - NATO
+      - European Union
+      required: true
+    - id: 8
+      name: question_2_answer
+      label: Question 2 - Cold War Alliance
+      hint: Which military alliance was formed by Western powers during the Cold War?
+      type: select_one
+      options:
+      - Warsaw Pact
+      - NATO
+      - SEATO
+      - CENTO
+      required: true
+    - id: 9
+      name: question_3_answer
+      label: Question 3 - Civil Rights Leader
+      hint: Who delivered the famous I Have a Dream speech in 1963?
+      type: select_one
+      options:
+      - Malcolm X
+      - Martin Luther King Jr.
+      - John Lewis
+      - Rosa Parks
+      required: true
+    - id: 10
+      name: question_4_answer
+      label: Question 4 - Berlin Wall
+      hint: In what year did the Berlin Wall fall?
+      type: select_one
+      options:
+      - 1987
+      - 1989
+      - 1991
+      - 1993
+      required: true
+    - id: 11
+      name: question_5_answer
+      label: Question 5 - Internet Development
+      hint: Which decade saw the widespread public adoption of the Internet?
+      type: select_one
+      options:
+      - 1970s
+      - 1980s
+      - 1990s
+      - 2000s
+      required: true
+    - id: 12
+      name: question_6_answer
+      label: Question 6 - European Union Treaty
+      hint: Which treaty established the European Union?
+      type: select_one
+      options:
+      - Treaty of Rome
+      - Maastricht Treaty
+      - Lisbon Treaty
+      - Treaty of Paris
+      required: true
+    - id: 13
+      name: question_7_answer
+      label: Question 7 - Climate Agreement
+      hint: Which international agreement addresses climate change?
+      type: select_one
+      options:
+      - Kyoto Protocol
+      - Paris Agreement
+      - Montreal Protocol
+      - All of the above
+      required: true
+    - id: 14
+      name: question_8_answer
+      label: Question 8 - September 11 Attacks
+      hint: In what year did the September 11 terrorist attacks occur?
+      type: select_one
+      options:
+      - 1999
+      - 2000
+      - 2001
+      - 2002
+      required: true
+    - id: 15
+      name: question_9_answer
+      label: Question 9 - Arab Spring
+      hint: In which year did the Arab Spring begin?
+      type: select_one
+      options:
+      - 2008
+      - 2010
+      - 2012
+      - 2014
+      required: true
+    - id: 16
+      name: question_10_answer
+      label: Question 10 - Brexit Referendum
+      hint: In what year was the Brexit referendum held?
+      type: select_one
+      options:
+      - 2014
+      - 2016
+      - 2018
+      - 2020
+      required: true
+    - id: 17
+      name: essay_response
+      label: Essay Question
+      hint: Discuss the impact of globalization on contemporary world politics
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: time_spent
+      label: Time Spent on Quiz
+      hint: How many minutes did you spend on this quiz?
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: confidence_level
+      label: Confidence Level
+      hint: How confident are you in your answers?
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Confident
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any feedback about this quiz?
+      type: text
+      options: []
+      required: false

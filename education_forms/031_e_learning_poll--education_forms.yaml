@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_learning_poll
+    pages:
+    - id: 1
+      name: e_learning_platform_choice
+      label: eLearning Platform
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: preferred_time
+      label: preferred time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

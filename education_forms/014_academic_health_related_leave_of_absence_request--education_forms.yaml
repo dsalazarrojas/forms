@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Health Related Leave Of Absence Request
+    pages:
+      - id: 1
+        name: section_student_information
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student identification number
+        hint: University ID or registration number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: email
+        label: Contact email
+        hint: For leave communication
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: program_or_course
+        label: Program or major
+        hint: Enrollment program
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: leave_start_date
+        label: Leave start date
+        hint: Date leave begins
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: leave_end_date
+        label: Leave end date
+        hint: Expected return date if known
+        type: date
+        options: []
+        required: false
+      - id: 8
+        name: reason_for_leave
+        label: Reason for leave
+        hint: Brief description of health related reason
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: supporting_documents
+        label: Supporting documents provided
+        hint: Medical certificates or related documentation
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: contact_during_leave
+        label: Contact method during leave
+        hint: Preferred method for urgent contact
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - No contact
+        required: false
+      - id: 11
+        name: signature_name
+        label: Applicant signature name
+        hint: Type full name to confirm request
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: submission_date
+        label: Submission date
+        hint: Date of form submission
+        type: date
+        options: []
+        required: true

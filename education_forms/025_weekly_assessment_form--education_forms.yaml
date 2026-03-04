@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: weekly assessment form
+    pages:
+    - id: 1
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: weekly_period
+      label: Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: Enter start date of the period
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: Enter end date of the period
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: weekly_progress_status
+      label: Weekly Progress Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 6
+      name: weekly_progress_notes
+      label: Weekly Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: weekly_progress_issues
+      label: Weekly Progress Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weekly_goals
+      label: Weekly Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weekly_objectives
+      label: Weekly Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: weekly_actions
+      label: Weekly Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: weekly_actions_status
+      label: Weekly Actions Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true

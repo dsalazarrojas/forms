@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: University History Tournament Entry Form
+    pages:
+    - id: 1
+      name: user_info
+      label: University Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_type
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual'', ''value'': ''individual''}'
+      - '{''label'': ''Team'', ''value'': ''team''}'
+      required: false
+    - id: 3
+      name: individual_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: university
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_category
+      label: Student Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Undergraduate'', ''value'': ''undergraduate''}'
+      - '{''label'': ''Graduate'', ''value'': ''graduate''}'
+      required: false
+    - id: 7
+      name: entry_category
+      label: Entry Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual'', ''value'': ''individual''}'
+      - '{''label'': ''Team'', ''value'': ''team''}'
+      required: false
+    - id: 8
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: university_logo
+      label: University Logo
+      hint: null
+      type: text
+      options: []
+      required: false

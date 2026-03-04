@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Therapy Certification Program Application Form
+    pages:
+    - id: 1
+      name: application_information
+      label: Application Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: birth_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: music_therapy_degree
+      label: music_therapy_degree
+      hint: null
+      type: select_one
+      options:
+      - Music Therapy
+      - Music Therapy (Non-Degree)
+      - Other
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: years_of_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: education_background
+      label: education_background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: personal_statement
+      label: personal_statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: music_therapy_certification
+      label: music_therapy_certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: music_therapy_license
+      label: music_therapy_license
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      - None
+      required: false
+    - id: 12
+      name: certification_date
+      label: certification_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: music_therapy_licence_renewal
+      label: music_therapy_licence_renewal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: date_of_submission
+      label: date_of_submission
+      hint: null
+      type: date
+      options: []
+      required: false

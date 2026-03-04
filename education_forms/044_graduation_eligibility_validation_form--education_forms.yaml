@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Eligibility Validation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: graduation_status
+      label: Graduation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Graduated
+      - Incomplete
+      required: false
+    - id: 6
+      name: program_name
+      label: Program Name
+      hint: Name of the program the student is in
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_id
+      label: Student ID
+      hint: Student's ID number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_requirements
+      label: Graduation Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: graduation_eligibility_date
+      label: Graduation Eligibility Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: graduation_requirements_met
+      label: Graduation Requirements Met
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: outstanding_requirement
+      label: Outstanding Requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: outstanding_requirement_status
+      label: Outstanding Requirement Status
+      hint: Status of the outstanding requirement
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: outstanding_requirement_details
+      label: Outstanding Requirement Details
+      hint: Description of outstanding requirement
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: outstanding_requirements
+      label: Outstanding Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: program_requirements
+      label: Program Requirements
+      hint: Requirements of the program the student is in
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Full Reset Coaching Client Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: coaching_type
+      label: What Kind Of Coaching Are You Interested In
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: preferred_coaching_method
+      label: Preferred Coaching Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: coaching_frequencies
+      label: How Often Would You Like To Meet
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false

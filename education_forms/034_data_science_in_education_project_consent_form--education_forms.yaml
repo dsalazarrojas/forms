@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Science In Education Project Consent Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: Lead Researcher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: research_institutions
+      label: Research Institutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: Check the box if you are giving your consent.
+      type: select_multiple
+      options:
+      - I have read and understood the project description.
+      - I am aware of the data collection and usage.
+      - I am providing my informed consent.
+      required: false

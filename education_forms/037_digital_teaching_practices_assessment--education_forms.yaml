@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Teaching Practices Assessment
+    pages:
+    - id: 1
+      name: school_id
+      label: school-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: school_name
+      label: school-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: district_id
+      label: district-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: district_name
+      label: district-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: teacher-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: teacher_id
+      label: teacher-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: teaching_assistance
+      label: teaching-assistance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''a'', ''value'': ''a''}'
+      - '{''id'': 2, ''label'': ''b'', ''value'': ''b''}'
+      required: true
+    - id: 8
+      name: teaching_challenges
+      label: teaching-challenges
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''a'', ''value'': ''a''}'
+      - '{''id'': 2, ''label'': ''b'', ''value'': ''b''}'
+      - '{''id'': 3, ''label'': ''c'', ''value'': ''c''}'
+      required: true
+    - id: 9
+      name: teaching_practices
+      label: teaching-practices
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: teacher_technologies
+      label: teacher-technologies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''a'', ''value'': ''a''}'
+      - '{''id'': 2, ''label'': ''b'', ''value'': ''b''}'
+      - '{''id'': 3, ''label'': ''c'', ''value'': ''c''}'
+      - '{''id'': 4, ''label'': ''d'', ''value'': ''d''}'
+      - '{''id'': 5, ''label'': ''e'', ''value'': ''e''}'
+      - '{''id'': 6, ''label'': ''f'', ''value'': ''f''}'
+      - '{''id'': 7, ''label'': ''g'', ''value'': ''g''}'
+      required: false
+    - id: 11
+      name: teacher_support
+      label: teacher-support
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: teacher_coaching
+      label: teacher-coaching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: teacher_communication
+      label: teacher-communication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: form_id
+      label: form-id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: summary_survey
+      label: summary-survey
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: teacher_survey
+      label: teacher-survey
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''a'', ''value'': ''a''}'
+      - '{''id'': 2, ''label'': ''b'', ''value'': ''b''}'
+      required: true
+    - id: 17
+      name: form_score
+      label: form-score
+      hint: null
+      type: number
+      options: []
+      required: true

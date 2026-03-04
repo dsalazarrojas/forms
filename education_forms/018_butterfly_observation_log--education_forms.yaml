@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Butterfly Observation Log
+    pages:
+    - id: 1
+      name: observer_name
+      label: Observer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: observer_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or School
+      hint: Your affiliated organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observation_date
+      label: Observation Date
+      hint: Date of butterfly sighting
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: observation_time
+      label: Observation Time
+      hint: Time of sighting
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location_name
+      label: Location Name
+      hint: Name of the observation site
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location_coordinates
+      label: GPS Coordinates
+      hint: Latitude and Longitude if available
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Describe the weather
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: temperature
+      label: Temperature
+      hint: In degrees Fahrenheit or Celsius
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: butterfly_species
+      label: Butterfly Species Observed
+      hint: Identify the species if known
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: butterfly_count
+      label: Number of Butterflies
+      hint: How many did you observe
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: butterfly_behavior
+      label: Butterfly Behavior
+      hint: What were they doing
+      type: select_multiple
+      options:
+      - Feeding
+      - Flying
+      - Mating
+      - Resting
+      - Basking
+      - Other
+      required: false
+    - id: 13
+      name: wing_condition
+      label: Wing Condition
+      hint: General state of the wings
+      type: select_one
+      options:
+      - Perfect
+      - Good
+      - Fair
+      - Damaged
+      - Unknown
+      required: false
+    - id: 14
+      name: habitat_description
+      label: Habitat Description
+      hint: Describe the surrounding environment
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: host_plants
+      label: Host Plants Present
+      hint: Plants that butterflies use
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: observations_notes
+      label: Additional Notes
+      hint: Any other relevant observations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: photo_attached
+      label: Photo Attached
+      hint: Did you take a photo
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

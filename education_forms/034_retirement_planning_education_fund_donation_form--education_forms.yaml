@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Planning Education Fund Donation Form
+    pages:
+    - id: 1
+      name: organization
+      label: Donor Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: amount_donated
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purpose_donated
+      label: Purpose of Donation
+      hint: null
+      type: select_one
+      options:
+      - Education and Research
+      - General Donation
+      - Specific Initiative
+      required: false
+    - id: 8
+      name: comment
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_data
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false

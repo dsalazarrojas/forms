@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Work Load
+    pages:
+    - id: 1
+      name: faculty_work_load
+      label: Faculty Work Load
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: faculty_work_load_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: faculty_work_load_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: faculty_work_load_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: faculty_work_load_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: faculty_work_load_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: faculty_work_load_select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: faculty_work_load_select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

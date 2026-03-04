@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Notebook Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: notebook_info
+      label: Notebook Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_summary
+      label: Order Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_info
+      label: Payment Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_info_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_total_shipping
+      label: Order Total Shipping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_summary_2
+      label: Order Summary 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_info_2
+      label: Payment Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_info_2
+      label: Customer Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Australia''}'
+      - '{''id'': 2, ''name'': ''New Zealand''}'
+      - '{''id'': 3, ''name'': ''USA''}'
+      - '{''id'': 4, ''name'': ''Canada''}'
+      required: false
+    - id: 16
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sydney''}'
+      - '{''id'': 2, ''name'': ''Auckland''}'
+      - '{''id'': 3, ''name'': ''New York''}'
+      - '{''id'': 4, ''name'': ''Toronto''}'
+      required: false
+    - id: 17
+      name: notebook_color
+      label: Notebook Color
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Black''}'
+      - '{''id'': 2, ''name'': ''Red''}'
+      - '{''id'': 3, ''name'': ''Blue''}'
+      - '{''id'': 4, ''name'': ''Green''}'
+      required: false
+    - id: 18
+      name: notebook_cover_type
+      label: Notebook Cover Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Plain''}'
+      - '{''id'': 2, ''name'': ''Printed''}'
+      - '{''id'': 3, ''name'': ''Leather''}'
+      - '{''id'': 4, ''name'': ''Cloth''}'
+      required: false
+    - id: 19
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_total_amount
+      label: Order Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: order_shipping_amount
+      label: Order Shipping Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: customer_notes_2
+      label: Customer Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: order_total_amount_2
+      label: Order Total Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: order_shipping_amount_2
+      label: Order Shipping Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''PayPal''}'
+      - '{''id'': 3, ''name'': ''Bank Transfer''}'
+      required: false
+    - id: 26
+      name: customer_country_2
+      label: Customer Country 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Australia''}'
+      - '{''id'': 2, ''name'': ''New Zealand''}'
+      - '{''id'': 3, ''name'': ''USA''}'
+      - '{''id'': 4, ''name'': ''Canada''}'
+      required: false
+    - id: 27
+      name: customer_city_2
+      label: Customer City 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sydney''}'
+      - '{''id'': 2, ''name'': ''Auckland''}'
+      - '{''id'': 3, ''name'': ''New York''}'
+      - '{''id'': 4, ''name'': ''Toronto''}'
+      required: false
+    - id: 28
+      name: customer_info_2
+      label: Customer Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: customer_notes_2
+      label: Customer Notes 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: order_shipping
+      label: Order Shipping
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: order_total_2
+      label: Order Total 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: order_shipping_2
+      label: Order Shipping 2
+      hint: null
+      type: number
+      options: []
+      required: false

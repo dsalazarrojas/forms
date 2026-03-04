@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: AMC Answer Sheet
+    pages:
+    - id: 1
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your unique identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: exam_date
+      label: Exam Date
+      hint: Date when the exam is taken
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: exam_type
+      label: Exam Type
+      hint: Which AMC exam are you taking?
+      type: select_one
+      options:
+      - AMC 10A
+      - AMC 10B
+      - AMC 12A
+      - AMC 12B
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Current grade in school
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Name of your school
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: teacher_name
+      label: Teacher or Proctor Name
+      hint: Name of the supervising teacher
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_1_answer
+      label: Question 1 Answer
+      hint: Enter your answer for question 1 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 9
+      name: question_2_answer
+      label: Question 2 Answer
+      hint: Enter your answer for question 2 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 10
+      name: question_3_answer
+      label: Question 3 Answer
+      hint: Enter your answer for question 3 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 11
+      name: question_4_answer
+      label: Question 4 Answer
+      hint: Enter your answer for question 4 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 12
+      name: question_5_answer
+      label: Question 5 Answer
+      hint: Enter your answer for question 5 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 13
+      name: question_6_answer
+      label: Question 6 Answer
+      hint: Enter your answer for question 6 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 14
+      name: question_7_answer
+      label: Question 7 Answer
+      hint: Enter your answer for question 7 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 15
+      name: question_8_answer
+      label: Question 8 Answer
+      hint: Enter your answer for question 8 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 16
+      name: question_9_answer
+      label: Question 9 Answer
+      hint: Enter your answer for question 9 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 17
+      name: question_10_answer
+      label: Question 10 Answer
+      hint: Enter your answer for question 10 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 18
+      name: question_11_answer
+      label: Question 11 Answer
+      hint: Enter your answer for question 11 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 19
+      name: question_12_answer
+      label: Question 12 Answer
+      hint: Enter your answer for question 12 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 20
+      name: question_13_answer
+      label: Question 13 Answer
+      hint: Enter your answer for question 13 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 21
+      name: question_14_answer
+      label: Question 14 Answer
+      hint: Enter your answer for question 14 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 22
+      name: question_15_answer
+      label: Question 15 Answer
+      hint: Enter your answer for question 15 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 23
+      name: question_16_answer
+      label: Question 16 Answer
+      hint: Enter your answer for question 16 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 24
+      name: question_17_answer
+      label: Question 17 Answer
+      hint: Enter your answer for question 17 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false
+    - id: 25
+      name: question_25_answer
+      label: Question 25 Answer
+      hint: Enter your answer for question 25 (A, B, C, D, or E)
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      - Blank
+      required: false

@@ -1,0 +1,154 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: global_education_exchange_registration_form
+    pages:
+    - id: 1
+      name: exchange_participant_info
+      label: exchange_participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Student''}'
+      - '{''value'': ''Teacher''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Parent/Guardian''}'
+      required: false
+    - id: 3
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Address''}'
+      - '{''value'': ''Fax''}'
+      required: false
+    - id: 5
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High School''}'
+      - '{''value'': ''Bachelor''}'
+      - '{''value'': ''Master''}'
+      - '{''value'': ''Doctoral''}'
+      required: false
+    - id: 6
+      name: education_field
+      label: education_field
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Arts''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Science''}'
+      - '{''value'': ''Languages''}'
+      required: false
+    - id: 7
+      name: language_proficiency
+      label: language_proficiency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''Chinese''}'
+      required: false
+    - id: 8
+      name: preferred_location
+      label: preferred_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''USA''}'
+      - '{''value'': ''Europe''}'
+      - '{''value'': ''Asia''}'
+      - '{''value'': ''Africa''}'
+      required: false
+    - id: 9
+      name: exchange_program
+      label: exchange_program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Short-Term''}'
+      - '{''value'': ''Long-Term''}'
+      - '{''value'': ''Summer''}'
+      required: false
+    - id: 10
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 11
+      name: exchange_start_date
+      label: exchange_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: exchange_end_date
+      label: exchange_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: participant_termination_date
+      label: participant_termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: participant_termination_reason
+      label: participant_termination_reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Expiration of Exchange''}'
+      - '{''value'': "Participant''s request"}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 15
+      name: exchange_renewal_date
+      label: exchange_renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false

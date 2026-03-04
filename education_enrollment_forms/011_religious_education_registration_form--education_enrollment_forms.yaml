@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: religious_education_registration_form
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_selection
+      label: Courses
+      hint: Select the courses you want to register for
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: religious_background
+      label: Religious Background
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

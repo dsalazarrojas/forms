@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Algebra Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Algebra course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: 'Question 1: Evaluate 3x + 5 when x = 4'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: question_2
+      label: 'Question 2: Solve for x: x + 8 = 15'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: question_3
+      label: 'Question 3: Simplify: 2x + 3x'
+      hint: Enter simplified expression
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_4
+      label: 'Question 4: Solve for y: 2y = 18'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: question_5
+      label: 'Question 5: Expand: 3(x + 4)'
+      hint: Enter expanded form
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_6
+      label: 'Question 6: What is the coefficient of x in 7x - 3?'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: question_7
+      label: 'Question 7: Solve: 4x - 7 = 13'
+      hint: Enter value of x
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: question_8
+      label: 'Question 8: Combine like terms: 5a + 3b - 2a + b'
+      hint: Enter simplified expression
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: question_9
+      label: 'Question 9: If x = 3, what is x^2 + 2x?'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: question_10
+      label: 'Question 10: Solve for m: m/3 = 5'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: question_11
+      label: 'Question 11: What is the constant term in 4x + 9?'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: question_12
+      label: 'Question 12: Solve: 5x + 2 = 3x + 12'
+      hint: Enter value of x
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: question_13
+      label: 'Question 13: Simplify: 2(3x + 1) + 4x'
+      hint: Enter simplified expression
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: question_14
+      label: 'Question 14: Find the value of 2a + 3b when a = 5 and b = 4'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: question_15
+      label: 'Question 15: Solve for x: 7 - x = 3'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: question_16
+      label: 'Question 16: Which property is shown: a(b + c) = ab + ac?'
+      hint: Select the property
+      type: select_one
+      options:
+      - Commutative Property
+      - Associative Property
+      - Distributive Property
+      - Identity Property
+      required: true
+    - id: 21
+      name: question_17
+      label: 'Question 17: Write an expression for: 5 more than twice a number'
+      hint: Use x for the number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: question_18
+      label: 'Question 18: Solve: -2x = 14'
+      hint: Enter value of x
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: question_19
+      label: 'Question 19: What is the slope of the line y = 2x + 1?'
+      hint: Enter the slope
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: question_20
+      label: 'Question 20: Factor: 6x + 9'
+      hint: Enter factored form
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: difficulty_rating
+      label: Difficulty Rating
+      hint: How difficult was this quiz?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 26
+      name: time_spent
+      label: Time Spent
+      hint: Minutes spent
+      type: number
+      options: []
+      required: false

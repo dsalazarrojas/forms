@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Before And After School Care Registration Form
+    pages:
+    - id: 1
+      name: section_registration_basics
+      label: -- Registration Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registration_academic_year
+      label: Academic Year
+      hint: null
+      type: select_one
+      options:
+      - 2025 - 2026
+      - 2026 - 2027
+      required: true
+    - id: 3
+      name: student_full_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id_if_known
+      label: School Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_program_selection
+      label: -- Program and Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: program_type_enrolling
+      label: Program Selection
+      hint: null
+      type: select_one
+      options:
+      - Morning Care Only (7AM - Start of School)
+      - Afternoon Care Only (Dismissal - 6PM)
+      - Full Wrap-Around Care (Morning and Afternoon)
+      - Early Release Days Only
+      required: true
+    - id: 7
+      name: attendance_plan
+      label: Attendance Plan
+      hint: null
+      type: select_one
+      options:
+      - 5 Days Per Week (Full-time)
+      - 3 Days Per Week (Part-time)
+      - 2 Days Per Week (Part-time)
+      - Drop-in / Occasional Use
+      required: true
+    - id: 8
+      name: specific_days_requested
+      label: Requested Attendance Days
+      hint: For part-time plans
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 9
+      name: section_financials
+      label: -- Billing and Financials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: primary_billing_contact
+      label: Responsible Party for Payment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: billing_email
+      label: Billing Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: subsidy_eligibility_check
+      label: Are you applying for or receiving childcare subsidy?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: auto_pay_enrollment
+      label: Would you like to enroll in automatic monthly billing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: section_acknowledgments
+      label: -- Terms and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tuition_policy_agreement
+      label: I have read and agree to the tuition and late pick-up fee policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: registration_fee_acknowledgment
+      label: I understand there is a $50 non-refundable registration fee
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 17
+      name: signature_guardian_printed
+      label: Guardian Signature (Printed Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: registration_timestamp
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

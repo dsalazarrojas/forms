@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: high_school_student_check_in_form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_grade_level
+      label: grade_level
+      hint: 9th 10th 11th 12th
+      type: select_one
+      options:
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: false
+    - id: 4
+      name: student_room_number
+      label: room_number
+      hint: null
+      type: select_multiple
+      options:
+      - '101'
+      - '102'
+      - '103'
+      - '104'
+      - '201'
+      - '202'
+      - '203'
+      - '204'
+      - '301'
+      - '302'
+      - '303'
+      - '304'
+      required: false
+    - id: 5
+      name: student_teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_grade
+      label: grade
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - F
+      required: false
+    - id: 7
+      name: student_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late
+      required: false
+    - id: 8
+      name: student_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: student_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_other_info
+      label: other_info
+      hint: null
+      type: text
+      options: []
+      required: false

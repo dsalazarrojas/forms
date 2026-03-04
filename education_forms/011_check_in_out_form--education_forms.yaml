@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Check In Out Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - Middle School
+      - High School
+      required: true
+    - id: 5
+      name: action_type
+      label: Action Type
+      hint: null
+      type: select_one
+      options:
+      - Check-In (Late Arrival)
+      - Check-Out (Early Departure)
+      required: true
+    - id: 6
+      name: log_timestamp
+      label: Current Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: section_reason
+      label: -- Reason for Entry or Exit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_check_in_out
+      label: Reason
+      hint: Select the most appropriate reason
+      type: select_one
+      options:
+      - Medical Appointment
+      - Illness
+      - Family Emergency
+      - Late Bus / Transportation
+      - Personal
+      - School Activity
+      required: true
+    - id: 9
+      name: detailed_explanation
+      label: Additional Explanation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required if check-out
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_staff_verification
+      label: -- Staff Use Only --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: staff_member_name
+      label: Processing Staff Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: id_verified
+      label: Parent ID Verified
+      hint: For early check-out only
+      type: select_one
+      options:
+      - true
+      - N/A
+      required: true
+    - id: 14
+      name: staff_verification_ack
+      label: Staff Acknowledgment Signature
+      hint: null
+      type: select_one
+      options:
+      - Verified and Logged
+      - Other
+      required: true

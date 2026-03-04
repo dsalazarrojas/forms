@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Living Application Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_major
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_year
+      label: Academic Year
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Other
+      required: true
+    - id: 9
+      name: section_housing_preferences
+      label: -- Housing Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: housing_type
+      label: Preferred Housing Type
+      hint: null
+      type: select_one
+      options:
+      - Dormitory
+      - Residence Hall
+      - Apartment
+      - Shared Housing
+      - Other
+      required: true
+    - id: 11
+      name: room_type
+      label: Room Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Triple Room
+      - Suite
+      - No Preference
+      required: true
+    - id: 12
+      name: floor_preference
+      label: Floor Preference
+      hint: null
+      type: select_one
+      options:
+      - Ground Floor
+      - Middle Floor
+      - Top Floor
+      - No Preference
+      required: false
+    - id: 13
+      name: special_accommodation
+      label: Special Housing Accommodations Needed
+      hint: Accessibility, quiet floor, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_roommate
+      label: -- Roommate Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: roommate_request
+      label: Do you want a specific roommate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Open to assignment
+      required: true
+    - id: 16
+      name: roommate_name
+      label: Requested Roommate Name
+      hint: If yes selected above
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: roommate_student_id
+      label: Requested Roommate Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_lifestyle
+      label: -- Lifestyle and Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: sleep_schedule
+      label: Sleep Schedule
+      hint: null
+      type: select_one
+      options:
+      - Early Bird
+      - Night Owl
+      - Variable
+      - No Preference
+      required: true
+    - id: 20
+      name: smoking_preference
+      label: Smoking Preference
+      hint: null
+      type: select_one
+      options:
+      - Non-smoker
+      - Smoker
+      - No Preference
+      required: true
+    - id: 21
+      name: cleanliness_level
+      label: Cleanliness Standards
+      hint: null
+      type: select_one
+      options:
+      - Very Clean
+      - Clean
+      - Moderate
+      - Relaxed
+      - No Preference
+      required: true
+    - id: 22
+      name: section_health_safety
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Medical Conditions or Accessibility Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true

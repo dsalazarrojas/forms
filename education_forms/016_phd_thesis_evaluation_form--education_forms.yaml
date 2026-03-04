@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: PhD Thesis Evaluation Form
+    pages:
+    - id: 1
+      name: thesis_title
+      label: Thesis Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Artificial Intelligence
+      - Computer Science
+      - Mathematics
+      - Statistics
+      required: false
+    - id: 4
+      name: reviewer_rating
+      label: Reviewer Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_evaluated
+      label: Date Evaluated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_evaluated
+      label: Time Evaluated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: thesis_type
+      label: Thesis Type
+      hint: null
+      type: select_one
+      options:
+      - Ph.D.
+      - M.Sc.
+      - M.A.
+      required: false
+    - id: 9
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: final_grade
+      label: Final Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: grade_scale
+      label: Grade Scale
+      hint: null
+      type: select_one
+      options:
+      - A+
+      - A
+      - A-
+      - B+
+      - B
+      - B-
+      - C+
+      - C
+      - C-
+      - D
+      required: false
+    - id: 13
+      name: evaluation_form_type
+      label: Evaluation Form Type
+      hint: null
+      type: select_multiple
+      options:
+      - Thesis
+      - Report
+      required: false

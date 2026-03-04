@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Performance Review Checklist Form
+    pages:
+    - id: 1
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_performance
+      label: overall_performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_last_seen
+      label: date_last_seen
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_comments
+      label: student_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: instructor_comments
+      label: instructor_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: performance_level
+      label: performance_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: student_progress
+      label: student_progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_goals
+      label: student_goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_progress_overall
+      label: student_progress_overall
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_name_checklist
+      label: student_name_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_level_label
+      label: performance_level_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_info_label
+      label: student_info_label
+      hint: null
+      type: text
+      options: []
+      required: false

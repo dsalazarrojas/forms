@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Webinar Clip Distribution Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: webinar_details
+      label: Webinar Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: distribution_channels
+      label: Distribution Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - I consent to the distribution of my webinar clip
+      - I do not consent to the distribution of my webinar clip
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

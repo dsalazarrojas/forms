@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Assessment Form
+    pages:
+    - id: 1
+      name: assessment_form
+      label: Online Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessment_question
+      label: What is your question?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_score
+      label: Assessment Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: assessment_comments
+      label: Comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: assessment_time
+      label: Assessment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false

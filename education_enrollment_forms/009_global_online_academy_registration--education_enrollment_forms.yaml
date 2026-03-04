@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Online Academy Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_confirmation
+      label: Confirm Email
+      hint: Confirm Email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: timezone
+      label: Time Zone
+      hint: Select your time zone
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: timezone_abbreviation
+      label: Time Zone Abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: course
+      label: Course
+      hint: Select a course
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: Select a date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: Select a time
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: first_name_confirmation
+      label: Confirm First Name
+      hint: Confirm your first name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: last_name_confirmation
+      label: Confirm Last Name
+      hint: Confirm your last name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_abbreviation
+      label: Course Abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: course_date
+      label: Course Date
+      hint: Select a course date
+      type: date
+      options: []
+      required: false

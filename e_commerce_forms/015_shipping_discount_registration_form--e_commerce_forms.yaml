@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipping Discount Registration Form
+    pages:
+    - id: 1
+      name: business_information
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wholesale
+      - Retail
+      - Other
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_discount
+      label: Shipping Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: discount_percentage
+      label: Discount Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: discount_amount
+      label: Discount Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

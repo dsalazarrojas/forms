@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kindergarten Graduation Information Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Kindergarten Graduation Information Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_first_name
+      label: Student First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_last_name
+      label: Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_grade_completed
+      label: Grade Completed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pre-Kindergarten''}'
+      - '{''value'': ''Kindergarten''}'
+      - '{''value'': ''First Grade''}'
+      - '{''value'': ''Second Grade''}'
+      - '{''value'': ''Third Grade''}'
+      - '{''value'': ''Fourth Grade''}'
+      - '{''value'': ''Fifth Grade''}'
+      - '{''value'': ''Sixth Grade''}'
+      - '{''value'': ''Seventh Grade''}'
+      - '{''value'': ''Eighth Grade''}'
+      - '{''value'': ''Ninth Grade''}'
+      - '{''value'': ''Tenth Grade''}'
+      - '{''value'': ''Eleventh Grade''}'
+      - '{''value'': ''Twelfth Grade''}'
+      required: false
+    - id: 7
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_city
+      label: Student City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''2019-2020''}'
+      - '{''value'': ''2020-2021''}'
+      - '{''value'': ''2021-2022''}'
+      - '{''value'': ''2022-2023''}'
+      - '{''value'': ''2023-2024''}'
+      - '{''value'': ''2024-2025''}'
+      - '{''value'': ''2025-2026''}'
+      required: false
+    - id: 14
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false

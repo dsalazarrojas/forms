@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: CHW Resource Form
+    pages:
+    - id: 1
+      name: section_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resource_name
+      label: Resource name
+      hint: Name of the organization or service
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resource_category
+      label: Resource category
+      hint: Choose the most appropriate category
+      type: select_one
+      options:
+      - Food assistance
+      - Housing
+      - Employment
+      - Healthcare
+      - Education
+      - Legal aid
+      required: true
+    - id: 4
+      name: resource_description
+      label: Resource description
+      hint: Brief description of services offered
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact person
+      hint: Name of primary contact at resource
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_phone
+      label: Resource phone
+      hint: Main phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resource_email
+      label: Resource email
+      hint: General contact email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: service_area
+      label: Service area
+      hint: City or counties served
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: hours_of_operation
+      label: Hours of operation
+      hint: Regular hours or scheduling notes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: referral_instructions
+      label: Referral instructions
+      hint: Steps to refer a client to this resource
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branded Merchandise Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: For delivery contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address_line1
+      label: Shipping Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address_line2
+      label: Shipping Address Line 2
+      hint: Apartment, suite, unit
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_state
+      label: State or Province
+      hint: State or Province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_zip
+      label: ZIP or Postal Code
+      hint: ZIP or Postal Code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 11
+      name: product_category
+      label: Product Category
+      hint: What type of merchandise
+      type: select_one
+      options:
+      - Apparel
+      - Drinkware
+      - Tech Accessories
+      - Office Supplies
+      - Bags and Totes
+      - Lifestyle Products
+      - Gift Sets
+      required: true
+    - id: 12
+      name: selected_products
+      label: Selected Products
+      hint: Which products do you want
+      type: select_multiple
+      options:
+      - T-Shirts
+      - Hoodies
+      - Caps
+      - Water Bottles
+      - Coffee Mugs
+      - Phone Cases
+      - Laptop Sleeves
+      - Notebooks
+      - Pens
+      - Tote Bags
+      - Backpacks
+      - Keychains
+      required: true
+    - id: 13
+      name: quantity_total
+      label: Total Quantity
+      hint: Total number of items
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: size_breakdown
+      label: Size Breakdown
+      hint: Specify sizes for apparel
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: color_preference
+      label: Color Preference
+      hint: Preferred colors
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: logo_placement
+      label: Logo Placement
+      hint: Where should logo appear
+      type: select_one
+      options:
+      - Front Center
+      - Left Chest
+      - Back
+      - Sleeve
+      - Multiple Locations
+      required: true
+    - id: 17
+      name: customization_notes
+      label: Customization Notes
+      hint: Any special customization requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Purchase Order
+      - Invoice
+      required: true
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any delivery or order notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept our terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

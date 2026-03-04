@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Class Student Project Progress Check In
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student and Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: check_in_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_medium
+      label: Project Medium or Medium
+      hint: Drawing, painting, sculpture, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: project_due_date
+      label: Project Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: section_progress
+      label: -- Progress Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: percent_complete
+      label: Percentage of Project Complete
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: progress_status
+      label: Current Progress Status
+      hint: null
+      type: select_one
+      options:
+      - Ahead of schedule
+      - On schedule
+      - Slightly behind
+      - Significantly behind
+      - Complete
+      required: true
+    - id: 15
+      name: current_phase
+      label: Current Phase of Project
+      hint: Planning, sketching, drafting, final, etc.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_challenges
+      label: -- Challenges and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: challenges_faced
+      label: Challenges or Obstacles Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: technical_skills
+      label: Technical Skills - Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Lacking confidence
+      - Need significant help
+      required: true
+    - id: 19
+      name: materials_access
+      label: Access to Materials and Resources
+      hint: null
+      type: select_one
+      options:
+      - Excellent access
+      - Good access
+      - Adequate access
+      - Limited access
+      - No access
+      required: true
+    - id: 20
+      name: support_needed
+      label: Additional Support Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Technique instruction
+      - Material recommendations
+      - Design feedback
+      - Time management help
+      - Motivation or encouragement
+      - Peer feedback
+      - None
+      required: false
+    - id: 21
+      name: section_quality
+      label: -- Work Quality Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: technique_execution
+      label: Technical Execution of Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Needs improvement
+      required: true
+    - id: 23
+      name: creativity_level
+      label: Creativity and Originality
+      hint: null
+      type: select_one
+      options:
+      - Highly creative
+      - Creative
+      - Moderately creative
+      - Limited creativity
+      - Copying reference
+      required: true
+    - id: 24
+      name: concept_development
+      label: Concept Development
+      hint: null
+      type: select_one
+      options:
+      - Well developed
+      - Developed
+      - Partially developed
+      - Underdeveloped
+      - Unclear
+      required: true
+    - id: 25
+      name: section_feedback
+      label: -- Student Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: self_satisfaction
+      label: How satisfied are you with your progress
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 27
+      name: next_steps
+      label: Next Steps or Goals for Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: instructor_feedback
+      label: Instructor Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

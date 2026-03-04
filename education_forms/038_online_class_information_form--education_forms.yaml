@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Class Information Form
+    pages:
+    - id: 1
+      name: class_title
+      label: Online Class Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_description
+      label: Description
+      hint: Brief description of the class
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: Select a category
+      type: select_multiple
+      options:
+      - Art
+      - Science
+      - Math
+      - History
+      - Language
+      required: false
+    - id: 4
+      name: course_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: course_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: course_duration
+      label: Duration
+      hint: Select a duration
+      type: select_one
+      options:
+      - 1 hour
+      - 2 hours
+      - 3 hours
+      - 4 hours
+      - 5 hours
+      required: false
+    - id: 7
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_price
+      label: Price
+      hint: Price of the course
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: class_schedule
+      label: Schedule
+      hint: Select a schedule
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 10
+      name: course_level
+      label: Level
+      hint: Level of the course
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 11
+      name: course_format
+      label: Format
+      hint: Format of the class
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Hybrid
+      required: false
+    - id: 12
+      name: course_capacity
+      label: Capacity
+      hint: Maximum number of students
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: course_language
+      label: Language
+      hint: Language of the course
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_level_requirement
+      label: Level Requirement
+      hint: Select a level requirement
+      type: select_one
+      options:
+      - High School Diploma
+      - Bachelor's Degree
+      - Master's Degree
+      - Associate's Degree
+      - PhD
+      required: false
+    - id: 15
+      name: course_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: course_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: course_status
+      label: Status
+      hint: Status of the course
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: false
+    - id: 18
+      name: course_tags
+      label: Tags
+      hint: Select a tag
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false
+    - id: 19
+      name: course_url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: course_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course_video
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: course_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_enrollment
+      label: Enrollment
+      hint: Select a enrollment method
+      type: select_one
+      options:
+      - Self-Enrollment
+      - Instructed
+      required: false
+    - id: 25
+      name: course_enrollment_status
+      label: Enrollment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

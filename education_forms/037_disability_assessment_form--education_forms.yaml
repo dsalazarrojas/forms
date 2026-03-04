@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disability Assessment Form
+    pages:
+    - id: 1
+      name: disability_assessment
+      label: Disability Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: disability_type
+      label: Disability Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: disability_description
+      label: Disability Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_contact_info
+      label: Student Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

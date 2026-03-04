@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Query Form
+    pages:
+    - id: 1
+      name: student_query_form_page
+      label: Student Query Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: query_type
+      label: query type
+      hint: null
+      type: select_multiple
+      options:
+      - questions
+      - requests
+      - concerns
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: contact info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Academic Affairs
+      - Counseling
+      - Financial Aid
+      - Student Activities
+      required: true
+    - id: 7
+      name: file_upload
+      label: file upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

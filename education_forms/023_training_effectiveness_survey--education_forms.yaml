@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Effectiveness Survey
+    pages:
+    - id: 1
+      name: training_effectiveness_survey_form
+      label: Training Effectiveness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_title
+      label: program title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_duration
+      label: program duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program_type
+      label: program type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Instructor Led''}'
+      - '{''value'': ''Online''}'
+      - '{''value'': ''In-House''}'
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Education''}'
+      - '{''value'': ''Training''}'
+      - '{''value'': ''Development''}'
+      required: false
+    - id: 10
+      name: submission_date
+      label: submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: session_time
+      label: session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: training_duration
+      label: training duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: session_duration
+      label: session duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: attendees
+      label: attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: attendees_attire
+      label: attendees attire
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Formal''}'
+      - '{''value'': ''Casual''}'
+      - '{''value'': ''Business Casual''}'
+      required: false
+    - id: 17
+      name: session_type
+      label: session type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''In-House''}'
+      - '{''value'': ''In-Person''}'
+      required: false
+    - id: 18
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Remote''}'
+      - '{''value'': ''On-site''}'
+      required: false
+    - id: 19
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Maybe''}'
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_time
+      label: follow-up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: session_attendees
+      label: session attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments_attendees
+      label: comments attendees
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_session_duration
+      label: follow-up session duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

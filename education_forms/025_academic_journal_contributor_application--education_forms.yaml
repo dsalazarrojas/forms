@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Journal Contributor Application
+    pages:
+      - id: 1
+        name: section_applicant
+        label: -- Applicant Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: contributor_name
+        label: Contributor name
+        hint: Full name for author
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_email
+        label: Contact email
+        hint: Email for editorial communication
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: affiliation
+        label: Affiliation
+        hint: Institutional or organizational affiliation
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: submission_type
+        label: Submission type
+        hint: Type of contribution
+        type: select_one
+        options:
+          - Research article
+          - Review
+          - Commentary
+          - Case study
+          - Other
+        required: true
+      - id: 6
+        name: manuscript_title
+        label: Manuscript title
+        hint: Title of proposed submission
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: abstract
+        label: Abstract
+        hint: Brief summary of the submission
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: keywords
+        label: Keywords
+        hint: Comma separated list of keywords
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: coauthors
+        label: Coauthor names
+        hint: List coauthors and affiliations
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: supporting_documents
+        label: Supporting documents
+        hint: List of documents provided
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: conflict_of_interest
+        label: Conflict of interest statement
+        hint: Disclose any potential conflicts
+        type: text
+        options: []
+        required: false

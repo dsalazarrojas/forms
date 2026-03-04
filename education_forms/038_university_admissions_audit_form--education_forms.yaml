@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Admissions Audit Form
+    pages:
+    - id: 1
+      name: applicant_files
+      label: Applicant Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: Enter the student's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: program_name
+      hint: Enter the program name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_application
+      label: date of application
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: application_status
+      label: application status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: review_notes
+      label: review notes
+      hint: Enter any review notes
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Enter the reviewer name
+      type: text
+      options: []
+      required: false

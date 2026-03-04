@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Camp Detailed Registration Form
+    pages:
+      - id: 1
+        name: section_header_1
+        label: -- Athlete Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: athlete_first_name
+        label: First name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: athlete_last_name
+        label: Last name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: athlete_date_of_birth
+        label: Date of birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: athlete_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 6
+        name: athlete_phone
+        label: Phone number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 7
+        name: grade_level
+        label: Grade level
+        hint: null
+        type: select_one
+        options: [6th Grade, 7th Grade, 8th Grade, High School, College]
+        required: true
+      - id: 8
+        name: section_header_2
+        label: -- Parent/Guardian Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: parent_name
+        label: Parent/Guardian name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: parent_phone
+        label: Parent/Guardian phone
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 11
+        name: parent_email
+        label: Parent/Guardian email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 12
+        name: section_header_3
+        label: -- Emergency Contact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: emergency_contact
+        label: Emergency contact name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: emergency_relationship
+        label: Relationship to athlete
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: emergency_phone
+        label: Emergency contact phone
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 16
+        name: section_header_4
+        label: -- Basketball Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: experience_level
+        label: Basketball experience level
+        hint: null
+        type: select_one
+        options: [Beginner, Intermediate, Advanced, Competitive/Varsity]
+        required: true
+      - id: 18
+        name: years_playing
+        label: Years of basketball experience
+        hint: null
+        type: integer
+        options: []
+        required: false
+      - id: 19
+        name: position_played
+        label: Primary position
+        hint: null
+        type: select_one
+        options: [Point Guard, Shooting Guard, Small Forward, Power Forward, Center, Flexible]
+        required: false
+      - id: 20
+        name: section_header_5
+        label: -- Camp Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: camp_session
+        label: Camp session selected
+        hint: null
+        type: select_one
+        options: [Week 1, Week 2, Week 3, Week 4, Full Month]
+        required: true
+      - id: 22
+        name: camp_dates
+        label: Camp dates
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: section_header_6
+        label: -- Health Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: medical_conditions
+        label: Any medical conditions or allergies?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: medications
+        label: Current medications
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: insurance_provider
+        label: Insurance provider
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: section_header_7
+        label: -- Liability Release --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: liability_waiver
+        label: I have read and agree to the liability waiver
+        hint: null
+        type: select_one
+        options: [I Agree, I Do Not Agree]
+        required: true
+      - id: 29
+        name: parent_consent
+        label: "Parent/Guardian: I consent to athlete participation"
+        hint: null
+        type: select_one
+        options: [I Consent, I Do Not Consent]
+        required: true
+      - id: 30
+        name: registration_confirmation
+        label: I confirm all information is accurate
+        hint: null
+        type: select_one
+        options: [I Confirm, I Need to Review]
+        required: true

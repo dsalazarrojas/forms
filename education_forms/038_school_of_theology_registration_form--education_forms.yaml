@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Of Theology Registration Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: program_selection
+      label: Program Selection
+      hint: Please select one program
+      type: select_one
+      options:
+      - '{''value'': ''Theology'', ''label'': ''Theology''}'
+      - '{''value'': ''Pastoral Ministry'', ''label'': ''Pastoral Ministry''}'
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: academic_history
+      label: Academic History
+      hint: Please attach documents if necessary.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: program_start_date
+      label: Program Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false

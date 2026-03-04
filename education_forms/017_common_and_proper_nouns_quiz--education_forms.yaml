@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Common And Proper Nouns Quiz
+    pages:
+    - id: 1
+      name: section_student_identification
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name_nouns_quiz
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_id_nouns
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_instructions
+      label: -- Instructions --
+      hint: Read each question carefully and select the best answer.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_one
+      label: Select the proper noun in this sentence - The family went to Disney World.
+      hint: null
+      type: select_one
+      options:
+      - family
+      - went
+      - Disney World
+      - to
+      required: true
+    - id: 7
+      name: question_two
+      label: Which of these is a common noun
+      hint: null
+      type: select_one
+      options:
+      - London
+      - city
+      - Monday
+      - Amazon
+      required: true
+    - id: 8
+      name: question_three
+      label: Identify the proper noun - My dog, Max, loves to play fetch.
+      hint: null
+      type: select_one
+      options:
+      - dog
+      - Max
+      - loves
+      - fetch
+      required: true
+    - id: 9
+      name: question_four
+      label: Which word should always be capitalized
+      hint: null
+      type: select_one
+      options:
+      - Common nouns
+      - Proper nouns
+      - Adjectives
+      - Verbs
+      required: true
+    - id: 10
+      name: question_five
+      label: In the sentence - We visited the Grand Canyon - Grand Canyon is a...
+      hint: null
+      type: select_one
+      options:
+      - Common noun
+      - Proper noun
+      - Verb
+      - Pronoun
+      required: true
+    - id: 11
+      name: section_written_response
+      label: -- Written Practice --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: write_common_noun_example
+      label: List three common nouns you can find in a classroom
+      hint: Separate them with commas
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: write_proper_noun_example
+      label: Write a proper noun for each common noun - teacher, store, holiday.
+      hint: e.g., teacher - Mrs. Smith
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: sentence_writing_proper
+      label: Write a complete sentence using at least one proper noun
+      hint: Remember to use correct capitalization
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: nouns_quiz_self_reflection
+      label: How well do you think you understand common and proper nouns
+      hint: null
+      type: select_one
+      options:
+      - I am an expert!
+      - I understand pretty well
+      - I still need a little practice
+      - I am very confused
+      required: true
+    - id: 16
+      name: student_reflection_notes
+      label: Any questions you have about nouns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_acknowledgment_quiz
+      label: I have double-checked my answers before submitting
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true

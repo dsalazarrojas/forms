@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storytelling Engagement Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Storytelling Engagement Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: story_type
+      label: Story type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: audience_type
+      label: Audience type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: How often do you listen to or participate in storytelling?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: engagement
+      label: Engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographics
+      label: Demographics
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_contact
+      label: Submitter contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: Submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_location
+      label: Submitter location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_department
+      label: Submitter department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_job
+      label: Submitter job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_organization
+      label: Submitter organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_notes
+      label: Submitter notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_agreement
+      label: Submitter agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: additional_submitter_info
+      label: Additional submitter information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: submitter_survey
+      label: Additional submitter information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_survey_notes
+      label: Additional submitter survey notes
+      hint: null
+      type: text
+      options: []
+      required: false

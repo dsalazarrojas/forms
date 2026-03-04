@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Workshop Check In Form
+    pages:
+    - id: 1
+      name: workshop_check_in_form
+      label: Workshop Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: Participant First Name
+      hint: Enter participant first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_last_name
+      label: Participant Last Name
+      hint: Enter participant last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Enter participant phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workshop_type
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Italian
+      - Portuguese
+      - Japanese
+      required: false
+    - id: 7
+      name: workshop_level
+      label: Level
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Proficient
+      required: false
+    - id: 8
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Italian
+      - Portuguese
+      - Japanese
+      required: false
+    - id: 9
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: check_in_status
+      label: Check In Status
+      hint: null
+      type: select_one
+      options:
+      - Checked In
+      - Not Checked In
+      required: false
+    - id: 13
+      name: workshop_status
+      label: Workshop Status
+      hint: null
+      type: select_one
+      options:
+      - Started
+      - Finished
+      - Cancelled
+      required: false
+    - id: 14
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false

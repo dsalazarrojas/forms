@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educator Testimonial Collection
+    pages:
+    - id: 1
+      name: testimonial
+      label: What is your testimonial about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testimonials_about_programs
+      label: List programs
+      hint: List the programs that you have taught
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: false
+    - id: 3
+      name: initiatives
+      label: Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - Initiative 1
+      - Initiative 2
+      - Initiative 3
+      required: false
+    - id: 4
+      name: testimonial
+      label: Please provide a testimonial
+      hint: Please share your story in 2-3 short paragraphs
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: testimonials_from_participants
+      label: List participants
+      hint: List the participants
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_age
+      label: Participant age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: testimonials_from_parents
+      label: List parents
+      hint: List the parents
+      type: select_multiple
+      options:
+      - Parent 1
+      - Parent 2
+      - Parent 3
+      required: false
+    - id: 9
+      name: participant_age
+      label: Participant age
+      hint: null
+      type: text
+      options: []
+      required: false

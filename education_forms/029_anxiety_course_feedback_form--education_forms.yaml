@@ -1,0 +1,312 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anxiety Course Feedback Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Optional - can be anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Which course did you attend
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_date
+      label: Course Date
+      hint: When did you attend
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: course_format
+      label: Course Format
+      hint: How was the course delivered
+      type: select_one
+      options:
+        - In-person workshop
+        - Virtual live session
+        - Self-paced online
+        - Hybrid
+        - Recorded session
+      required: true
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: Who taught the course
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall experience
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true
+    - id: 8
+      name: content_quality
+      label: Content Quality
+      hint: Rate the course content
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 9
+      name: content_relevance
+      label: Content Relevance
+      hint: How relevant was the content
+      type: select_one
+      options:
+        - Highly relevant
+        - Somewhat relevant
+        - Neutral
+        - Not very relevant
+        - Not relevant
+      required: true
+    - id: 10
+      name: learning_objectives
+      label: Learning Objectives Met
+      hint: Were objectives achieved
+      type: select_one
+      options:
+        - Completely met
+        - Mostly met
+        - Partially met
+        - Not met
+      required: true
+    - id: 11
+      name: instructor_effectiveness
+      label: Instructor Effectiveness
+      hint: Rate the instructor
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+      required: true
+    - id: 12
+      name: instructor_knowledge
+      label: Instructor Knowledge
+      hint: How knowledgeable was the instructor
+      type: select_one
+      options:
+        - Very knowledgeable
+        - Knowledgeable
+        - Somewhat knowledgeable
+        - Not very knowledgeable
+        - Not knowledgeable
+      required: true
+    - id: 13
+      name: instructor_approachability
+      label: Instructor Approachability
+      hint: Was the instructor approachable
+      type: select_one
+      options:
+        - Very approachable
+        - Approachable
+        - Neutral
+        - Unapproachable
+        - Very unapproachable
+      required: true
+    - id: 14
+      name: course_materials
+      label: Course Materials Quality
+      hint: Rate the materials provided
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very poor
+        - No materials provided
+      required: true
+    - id: 15
+      name: course_pace
+      label: Course Pace
+      hint: Was the pace appropriate
+      type: select_one
+      options:
+        - Too slow
+        - Just right
+        - Too fast
+      required: true
+    - id: 16
+      name: course_length
+      label: Course Length
+      hint: Was the duration appropriate
+      type: select_one
+      options:
+        - Too short
+        - Just right
+        - Too long
+      required: true
+    - id: 17
+      name: topics_covered
+      label: Topics Covered
+      hint: Select all that were covered
+      type: select_multiple
+      options:
+        - Understanding anxiety
+        - Anxiety symptoms
+        - Coping strategies
+        - Relaxation techniques
+        - Cognitive behavioral techniques
+        - Mindfulness practices
+        - Medication information
+        - Lifestyle changes
+        - Support resources
+        - Other
+      required: true
+    - id: 18
+      name: most_helpful_topic
+      label: Most Helpful Topic
+      hint: What was most useful
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: least_helpful_topic
+      label: Least Helpful Topic
+      hint: What was least useful
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: knowledge_gained
+      label: Knowledge Gained
+      hint: How much did you learn
+      type: select_one
+      options:
+        - A great deal
+        - A lot
+        - A moderate amount
+        - A little
+        - Nothing
+      required: true
+    - id: 21
+      name: skills_developed
+      label: Skills Developed
+      hint: What skills did you gain
+      type: select_multiple
+      options:
+        - Relaxation techniques
+        - Breathing exercises
+        - Cognitive restructuring
+        - Problem-solving
+        - Communication skills
+        - Self-monitoring
+        - Time management
+        - None
+      required: true
+    - id: 22
+      name: confidence_level
+      label: Confidence in Managing Anxiety
+      hint: How confident do you feel now
+      type: select_one
+      options:
+        - Very confident
+        - Confident
+        - Somewhat confident
+        - Not very confident
+        - Not confident
+      required: true
+    - id: 23
+      name: would_recommend
+      label: Would You Recommend This Course
+      hint: To others
+      type: select_one
+      options:
+        - Definitely yes
+        - Probably yes
+        - Undecided
+        - Probably no
+        - Definitely no
+      required: true
+    - id: 24
+      name: course_expectations
+      label: Did the Course Meet Expectations
+      hint: Your expectations
+      type: select_one
+      options:
+        - Exceeded expectations
+        - Met expectations
+        - Partially met expectations
+        - Did not meet expectations
+      required: true
+    - id: 25
+      name: additional_topics
+      label: Additional Topics You Would Like
+      hint: What else would you like to learn
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: suggestions_improvement
+      label: Suggestions for Improvement
+      hint: How can we improve
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: future_courses_interest
+      label: Interest in Future Courses
+      hint: Would you take another course
+      type: select_one
+      options:
+        - Yes, definitely
+        - Probably yes
+        - Undecided
+        - Probably no
+        - No
+      required: true
+    - id: 29
+      name: feedback_date
+      label: Feedback Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true

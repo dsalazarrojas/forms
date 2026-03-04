@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Administration Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Awaiting
+      required: false
+    - id: 10
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: student_group
+      label: Student Group
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

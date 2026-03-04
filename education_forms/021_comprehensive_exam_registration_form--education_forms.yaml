@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Exam Registration Form
+    pages:
+    - id: 1
+      name: registration_id
+      label: Registration ID
+      hint: Unique registration identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: student_full_name
+      label: Student Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email for exam notifications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mailing_address
+      label: Mailing Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 13
+      name: exam_name
+      label: Exam Name
+      hint: Select the exam you are registering for
+      type: select_one
+      options:
+      - Mathematics Comprehensive Exam
+      - English Language Arts Exam
+      - Science Comprehensive Exam
+      - Social Studies Exam
+      - Foreign Language Proficiency
+      - General Comprehensive Exam
+      - Advanced Placement Exam
+      - Other
+      required: true
+    - id: 14
+      name: exam_level
+      label: Exam Level
+      hint: Select exam level
+      type: select_one
+      options:
+      - Basic Level
+      - Intermediate Level
+      - Advanced Level
+      - Honors Level
+      - Graduate Level
+      required: true
+    - id: 15
+      name: preferred_exam_date
+      label: Preferred Exam Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: preferred_exam_time
+      label: Preferred Exam Time
+      hint: Select preferred time
+      type: select_one
+      options:
+      - Morning Session (8 AM - 12 PM)
+      - Afternoon Session (12 PM - 4 PM)
+      - Evening Session (4 PM - 8 PM)
+      required: true
+    - id: 17
+      name: exam_location
+      label: Exam Location Preference
+      hint: Where would you like to take the exam
+      type: select_one
+      options:
+      - Main Testing Center
+      - Satellite Location A
+      - Satellite Location B
+      - Online Proctored
+      - School Campus
+      required: true
+    - id: 18
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Do you require any accommodations
+      type: select_one
+      options:
+      - No Accommodations Needed
+      - Extended Time
+      - Separate Room
+      - Reader or Scribe
+      - Assistive Technology
+      - Large Print Materials
+      - Other
+      required: true
+    - id: 19
+      name: accommodations_documentation
+      label: Accommodations Documentation
+      hint: Have you submitted documentation for accommodations
+      type: select_one
+      options:
+      - Yes, Already Submitted
+      - Yes, Attached to This Form
+      - Will Submit Separately
+      - No Documentation Needed
+      required: false
+    - id: 20
+      name: previous_exam_attempts
+      label: Previous Exam Attempts
+      hint: How many times have you taken this exam
+      type: select_one
+      options:
+      - First Time
+      - Second Attempt
+      - Third Attempt
+      - Fourth or More
+      required: true
+    - id: 21
+      name: preparation_course_completed
+      label: Preparation Course Completed
+      hint: Did you complete a prep course
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay the exam fee
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - School Voucher
+      - Fee Waiver Approved
+      - Other
+      required: true
+    - id: 23
+      name: exam_fee_paid
+      label: Exam Fee Paid
+      hint: Has the exam fee been paid
+      type: select_one
+      options:
+      - Yes, Paid in Full
+      - Partial Payment
+      - Fee Waiver Applied
+      - Not Yet Paid
+      required: true
+    - id: 24
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: I agree to follow all exam rules and regulations
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 27
+      name: academic_integrity_pledge
+      label: Academic Integrity Pledge
+      hint: I pledge to maintain academic integrity during the exam
+      type: select_one
+      options:
+      - I Pledge
+      - I Do Not Pledge
+      required: true
+    - id: 28
+      name: registration_status
+      label: Registration Status
+      hint: Current registration status
+      type: select_one
+      options:
+      - Submitted
+      - Payment Pending
+      - Confirmed
+      - Waitlisted
+      - Cancelled
+      required: true

@@ -1,0 +1,298 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: middle_name
+      label: Middle Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select one
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Other
+      required: true
+    - id: 13
+      name: citizenship
+      label: Citizenship Status
+      hint: Are you a US citizen
+      type: select_one
+      options:
+      - US Citizen
+      - US Permanent Resident
+      - International Student
+      - DACA Recipient
+      - Other
+      required: true
+    - id: 14
+      name: high_school_name
+      label: High School Name
+      hint: Name of school
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: high_school_address
+      label: High School Address
+      hint: School address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: graduation_date
+      label: Graduation Date
+      hint: When did you graduate
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: gpa
+      label: Current GPA
+      hint: Unweighted GPA
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: class_rank
+      label: Class Rank
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sat_score
+      label: SAT Score
+      hint: Total score if submitted
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: act_score
+      label: ACT Score
+      hint: Composite score if submitted
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: intended_major
+      label: Intended Major
+      hint: Field of study
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: intended_degree
+      label: Intended Degree
+      hint: Degree type
+      type: select_one
+      options:
+      - Bachelor of Arts
+      - Bachelor of Science
+      - Bachelor of Fine Arts
+      - Bachelor of Business Administration
+      - Bachelor of Engineering
+      - Undecided
+      required: true
+    - id: 23
+      name: enrollment_term
+      label: Enrollment Term
+      hint: When will you start
+      type: select_one
+      options:
+      - Fall 2026
+      - Spring 2027
+      - Fall 2027
+      - Spring 2028
+      required: true
+    - id: 24
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Full-time or part-time
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      required: true
+    - id: 25
+      name: housing_preference
+      label: Housing Preference
+      hint: Where will you live
+      type: select_one
+      options:
+      - On-Campus Dormitory
+      - Off-Campus
+      - With Family
+      - Undecided
+      required: true
+    - id: 26
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 28
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: financial_aid_interest
+      label: Interest in Financial Aid
+      hint: Will you apply
+      type: select_one
+      options:
+      - Yes Will Apply
+      - Maybe
+      - false
+      required: true
+    - id: 30
+      name: fafsa_filed
+      label: Have You Filed FAFSA
+      hint: Free Application for Federal Student Aid
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: false
+    - id: 31
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: List activities and leadership
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: honors_awards
+      label: Honors and Awards
+      hint: Academic or other recognition
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: work_experience
+      label: Work Experience
+      hint: Relevant employment
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: personal_statement
+      label: Personal Statement
+      hint: Why do you want to attend
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: application_fee
+      label: Application Fee Payment
+      hint: Fee status
+      type: select_one
+      options:
+      - Paid
+      - Fee Waiver Requested
+      - Will Pay Later
+      required: true
+    - id: 36
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - Yes I Accept
+      - false
+      required: true

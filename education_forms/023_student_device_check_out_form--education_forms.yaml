@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: student_device_check_out_form
+    pages:
+    - id: 1
+      name: device_name
+      label: Device Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Laptop
+      - Tablet
+      - Smartphone
+      - Other
+      required: false
+    - id: 3
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: teacher_id
+      label: Teacher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: device_status
+      label: Device Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

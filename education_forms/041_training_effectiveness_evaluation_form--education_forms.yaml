@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: course_name
+      label: training course name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_type
+      label: course type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In-person''}'
+      - '{''id'': 2, ''label'': ''Online''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: course_location
+      label: training location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor
+      label: instructor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Name''}'
+      - '{''id'': 2, ''label'': ''Title''}'
+      - '{''id'': 3, ''label'': ''Organization''}'
+      required: false
+    - id: 5
+      name: date_attended
+      label: date attended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: overall rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: content_relevance
+      label: content relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: interaction_design
+      label: interaction design
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: presentation_delivery
+      label: presentation delivery
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: instructor_performance
+      label: instructor performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: material_use
+      label: material use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_support
+      label: follow-up support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_comments
+      label: evaluation comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: training_effectiveness_score
+      label: training effectiveness score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: training_recommendation
+      label: training recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Repeat the training''}'
+      - '{''id'': 2, ''label'': ''Improve the training''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      - '{''id'': 4, ''label'': ''Cancel the training''}'
+      required: false
+    - id: 19
+      name: participant_id
+      label: participant id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_email
+      label: participant email
+      hint: null
+      type: email
+      options: []
+      required: false

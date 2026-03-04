@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Information Form Dark And Responsive
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_age
+      label: Student Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter Student Email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Enter Contact Number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_background
+      label: Student Background
+      hint: Enter Student Background information
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: select_background
+      label: Select Background
+      hint: Select one option
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: select_multiple_background
+      label: Select Multiple Background
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false

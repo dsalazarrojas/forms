@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overnight Leave Request Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: leave_details
+      label: Leave Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: leave_details_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_details_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: leave_details_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: leave_details_reason
+      label: Reason
+      hint: null
+      type: select_one
+      options:
+      - Sick leave
+      - Vacation
+      - Other
+      required: false
+    - id: 11
+      name: leave_details_number_of_nights
+      label: Number of Nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: leave_details_additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false

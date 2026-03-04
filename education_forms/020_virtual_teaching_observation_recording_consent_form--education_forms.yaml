@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Teaching Observation Recording Consent Form
+    pages:
+    - id: 1
+      name: teacher_consent
+      label: Teacher Consent
+      hint: null
+      type: select_one
+      options:
+      - I am a licensed teacher
+      - I am a non-licensed teacher
+      - I am a non-teaching staff
+      required: true
+    - id: 2
+      name: participant_consent
+      label: Participant Consent
+      hint: null
+      type: select_one
+      options:
+      - I am a participant in this virtual class
+      - I am not a participant in this virtual class
+      required: true
+    - id: 3
+      name: observation_recording_consent
+      label: Observation Recording Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recording_consent_message
+      label: Recording Consent Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: participant_consent_note
+      label: Participant Consent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: teacher_consent_note
+      label: Teacher Consent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_agree
+      label: Participant Agreed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: teacher_agree
+      label: Teacher Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: recording_consent
+      label: Recording Consent
+      hint: null
+      type: select_one
+      options:
+      - Allow
+      - Not Allow
+      required: true
+    - id: 17
+      name: teacher_informed_consent
+      label: Teacher Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: participant_informed_consent
+      label: Participant Informed Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: participant_consent_form
+      label: Participant Consent Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: teacher_consent_form
+      label: Teacher Consent Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: recording_permission
+      label: Recording Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: participant_permission
+      label: Participant Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: recording_consent_note_2
+      label: Recording Consent Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: note
+      options: []
+      required: true

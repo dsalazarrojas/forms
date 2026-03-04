@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Class Verification Form
+    pages:
+    - id: 1
+      name: teacher_class_verification_form
+      label: teacher_class_verification_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_title
+      label: student_course_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_start
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_end
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: attendance_status
+      label: attendance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: student_class_status
+      label: student_class_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: teacher_signature
+      label: teacher_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: class_participation
+      label: class_participation
+      hint: null
+      type: number
+      options: []
+      required: false

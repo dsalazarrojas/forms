@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: teacher_complaint_form
+    pages:
+    - id: 1
+      name: complainant_name
+      label: complainant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_id
+      label: teacher id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_date
+      label: complaint date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: complaint_description
+      label: complaint description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resolution_date
+      label: resolution date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: resolution_status
+      label: resolution status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - resolved
+      - ongoing
+      required: false
+    - id: 8
+      name: evidence
+      label: evidence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: attachment
+      label: attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: submitter name
+      hint: null
+      type: text
+      options: []
+      required: false

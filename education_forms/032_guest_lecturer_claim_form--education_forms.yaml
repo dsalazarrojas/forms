@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Lecturer Claim Form
+    pages:
+    - id: 1
+      name: claimer_form_1
+      label: Guest Lecturer Claim Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: claim_form_2
+      label: Reimbursement Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_form_3
+      label: Date of Claim
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount_form_4
+      label: Claim Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: claimer_form_5
+      label: Total Amount Claimed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submitter_form_6
+      label: Submit Claim
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitter_form_7
+      label: Submit Claim
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitter_form_8
+      label: Submit Claim
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Pedagogy Research Fellowship Application
+    pages:
+    - id: 1
+      name: proposal
+      label: proposal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cv
+      label: cv
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: references
+      label: references
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: academic_affiliation
+      label: academic-affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_focus
+      label: research-focus
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 6
+      name: research_interests
+      label: research-interests
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: cv_uploaded_file
+      label: cv-uploaded-file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: references_uploaded_files
+      label: references_uploaded_files
+      hint: null
+      type: text
+      options: []
+      required: false

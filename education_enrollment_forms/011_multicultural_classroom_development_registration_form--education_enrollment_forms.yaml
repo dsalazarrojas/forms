@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multicultural Classroom Development Registration Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bachelor'', ''value'': ''bachelor''}'
+      - '{''label'': ''Master'', ''value'': ''master''}'
+      - '{''label'': ''Doctoral'', ''value'': ''doctoral''}'
+      required: true
+    - id: 6
+      name: training_interests
+      label: Training Interests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Diversity'', ''value'': ''diversity''}'
+      - '{''label'': ''Classroom Management'', ''value'': ''classroom_management''}'
+      - '{''label'': ''Leadership'', ''value'': ''leadership''}'
+      required: true
+    - id: 7
+      name: training_participation
+      label: Training Participation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online'', ''value'': ''online''}'
+      - '{''label'': ''In-Person'', ''value'': ''in-person''}'
+      - '{''label'': ''Both'', ''value'': ''both''}'
+      required: true
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: confirm_attendance
+      label: Confirm Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I confirm that my submission is complete and accurate.'', ''value'':
+        ''I confirm that my submission is complete and accurate.''}'
+      - '{''label'': ''Not yet'', ''value'': ''not_yet''}'
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_complete
+      label: Submission Complete
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 18
+      name: confirm_submission_date
+      label: Confirm Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

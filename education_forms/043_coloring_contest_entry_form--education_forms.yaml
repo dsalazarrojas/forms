@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coloring Contest Entry Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Contest Entry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entrant_name
+      label: Entrant name
+      hint: Full name of participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: Participant age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: school_or_group
+      label: School or group
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_contact
+      label: Guardian contact
+      hint: Required for minors
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: entry_title
+      label: Entry title
+      hint: Optional title for artwork
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_link
+      label: Upload link or reference
+      hint: Where the entry is uploaded
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent_to_publish
+      label: Consent to publish entry
+      hint: Consent for public display
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: category
+      label: Category
+      hint: Choose category
+      type: select_one
+      options:
+      - Age 5 and under
+      - Age 6 to 10
+      - Age 11 to 15
+      - Adult
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

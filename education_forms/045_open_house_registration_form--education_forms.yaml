@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_house_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: Enter Event Location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: visitor_interest
+      label: Visitor Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reffered_by
+      label: Referred By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: text
+      options: []
+      required: false

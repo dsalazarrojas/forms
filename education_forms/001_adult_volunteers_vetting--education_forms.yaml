@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Volunteers Vetting
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Please enter your legal first and last name.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_information_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Home Address
+      hint: Please provide your full address including postcode.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: volunteering_details_header
+      label: -- Volunteering Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: connection_to_school
+      label: Connection to School
+      hint: e.g., Parent of a student, Former student, Community member
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: areas_of_interest
+      label: Areas of Interest for Volunteering
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Classroom Assistance
+      - Field Trips
+      - Sports Coaching
+      - Arts and Crafts
+      - Library Support
+      - Fundraising Events
+      required: false
+    - id: 10
+      name: availability
+      label: General Availability
+      hint: When are you usually available to help?
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Evenings
+      - Weekends
+      required: true
+    - id: 11
+      name: dbs_check_consent
+      label: DBS Check Consent
+      hint: Do you consent to a Disclosure and Barring Service (DBS) check?
+      type: select_one
+      options:
+      - true
+      - false
+      - I already have a valid DBS certificate
+      required: true
+    - id: 12
+      name: previous_experience
+      label: Previous Volunteering Experience
+      hint: Briefly describe any relevant experience working with children.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: declaration
+      label: Declaration
+      hint: I confirm that the information provided is accurate and I agree to the
+        school's volunteer code of conduct.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

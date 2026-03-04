@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Leader Board Content Submission Form
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_content
+      label: Form Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_url
+      label: Form Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_image
+      label: Form Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Type 1'', ''value'': ''type1''}'
+      - '{''label'': ''Type 2'', ''value'': ''type2''}'
+      required: true
+    - id: 6
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Category 1'', ''value'': ''category1''}'
+      - '{''label'': ''Category 2'', ''value'': ''category2''}'
+      required: true
+    - id: 7
+      name: form_tags
+      label: Form Tags
+      hint: Comma separated list of tags
+      type: select_multiple
+      options:
+      - '{''label'': ''tag1'', ''value'': ''tag1''}'
+      - '{''label'': ''tag2'', ''value'': ''tag2''}'
+      required: false
+    - id: 8
+      name: form_author
+      label: Form Author
+      hint: null
+      type: text
+      options: []
+      required: false

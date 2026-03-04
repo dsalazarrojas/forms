@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Literacy Referral Form
+    pages:
+    - id: 1
+      name: user_information
+      label: user_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student
+      label: student
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: referral_reason
+      label: referral_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_type
+      label: referral_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: referral_location
+      label: referral_location
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: librarian
+      label: librarian
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: library
+      label: library
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: contact_librarian
+      label: contact_librarian
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: follow_up_reminder
+      label: follow_up_reminder
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: referral_date
+      label: referral_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 18
+      name: form_version
+      label: form_version
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: library_location
+      label: library_location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: library_contact
+      label: library_contact
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 23
+      name: submission_comments
+      label: submission_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: librarian_notes
+      label: librarian_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Orientation Registration
+    pages:
+    - id: 1
+      name: section_orientation_details
+      label: -- Orientation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferred_session
+      label: Preferred Orientation Session
+      hint: Select the time that works best for you
+      type: select_one
+      options:
+      - label: Morning - 9AM
+        value: morning
+      - label: Afternoon - 2PM
+        value: afternoon
+      - label: Evening - 6PM
+        value: evening
+      required: true
+    - id: 3
+      name: section_student_details
+      label: -- Student Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: Child Full Name
+      hint: New student name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_dob
+      label: Date of Birth
+      hint: To confirm grade placement
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_guardian_contact
+      label: -- Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guardian_name
+      label: Primary Guardian Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_email
+      label: Primary Email Address
+      hint: For orientation materials
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: guardian_phone
+      label: Primary Phone Number
+      hint: For session reminders
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: child_interests
+      label: Interests and Hobbies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: Visual Arts and Crafts
+        value: art
+      - label: Music and Rhythm
+        value: music
+      - label: Sports and Outdoor Play
+        value: sports
+      - label: Science and Discovery
+        value: science
+      required: false
+    - id: 12
+      name: orientation_questions
+      label: Any questions for orientation?
+      hint: We will address these during the session
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: childcare_required
+      label: Will you require childcare during the session?
+      hint: Available for siblings and students
+      type: select_one
+      options:
+      - label: Yes - Need Childcare
+        value: true
+      - label: No - Not Needed
+        value: false
+      required: true

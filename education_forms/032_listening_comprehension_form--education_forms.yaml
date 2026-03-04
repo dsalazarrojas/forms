@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: listening-comprehension-form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: comprehension_question
+      label: comprehension-question
+      hint: 'Please answer the following question:'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: listening_task
+      label: listening-task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: response_options
+      label: response-options
+      hint: null
+      type: select_multiple
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: true
+    - id: 5
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_zone
+      label: time-zone
+      hint: null
+      type: time
+      options: []
+      required: false

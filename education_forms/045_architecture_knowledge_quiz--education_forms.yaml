@@ -1,0 +1,183 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Architecture Knowledge Quiz
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Your Name
+      hint: Optional for tracking
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_section
+      label: Class or Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_quiz_intro
+      label: -- Architecture Concepts Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_one
+      label: Question 1 - Which architectural order is known for its slender, unfluted columns?
+      hint: null
+      type: select_one
+      options:
+      - Doric
+      - Ionic
+      - Corinthian
+      - Tuscan
+      required: true
+    - id: 7
+      name: question_two
+      label: Question 2 - What is the primary function of a flying buttress?
+      hint: null
+      type: select_one
+      options:
+      - To decorate the exterior
+      - To distribute weight and support walls
+      - To provide ventilation
+      - To create shadow effects
+      required: true
+    - id: 8
+      name: question_three
+      label: Question 3 - Which movement emphasized form follows function?
+      hint: null
+      type: select_one
+      options:
+      - Art Deco
+      - Modernism
+      - Postmodernism
+      - Brutalism
+      required: true
+    - id: 9
+      name: question_four
+      label: Question 4 - What is the term for the triangular gable end of a roof?
+      hint: null
+      type: select_one
+      options:
+      - Pediment
+      - Architrave
+      - Frieze
+      - Entablature
+      required: true
+    - id: 10
+      name: question_five
+      label: Question 5 - Who is famous for organic architecture?
+      hint: null
+      type: select_one
+      options:
+      - Frank Lloyd Wright
+      - Le Corbusier
+      - Bauhaus architects
+      - Zaha Hadid
+      required: true
+    - id: 11
+      name: question_six
+      label: Question 6 - What does BIM stand for in architecture?
+      hint: null
+      type: select_one
+      options:
+      - Building Information Modeling
+      - Basic Interior Management
+      - Building Integration Module
+      - Boundary Information Map
+      required: true
+    - id: 12
+      name: question_seven
+      label: Question 7 - Which element is essential to Gothic architecture?
+      hint: null
+      type: select_one
+      options:
+      - Barrel vault
+      - Pointed arch
+      - Flat ceiling
+      - Load-bearing wall
+      required: true
+    - id: 13
+      name: question_eight
+      label: Question 8 - What is a spandrel?
+      hint: null
+      type: select_one
+      options:
+      - A type of window
+      - A decorative exterior frame
+      - The area between the arch and the horizontal line
+      - A vertical structural support
+      required: true
+    - id: 14
+      name: section_reflection
+      label: -- Self Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confidence_level
+      label: How confident are you in architecture knowledge?
+      hint: null
+      type: select_one
+      options:
+      - Very low
+      - Low
+      - Moderate
+      - High
+      - Very high
+      required: true
+    - id: 16
+      name: areas_of_strength
+      label: Areas of Strength in Architecture
+      hint: What do you know well?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: areas_to_improve
+      label: Areas You Want to Improve
+      hint: What would you like to learn more about?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: quiz_difficulty
+      label: Quiz Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Too easy
+      - Appropriate
+      - Challenging
+      - Too difficult
+      required: false

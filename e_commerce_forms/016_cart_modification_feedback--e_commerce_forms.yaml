@@ -1,0 +1,285 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cart Modification Feedback
+    pages:
+      - id: 1
+        name: feedback_header
+        label: Cart Modification Feedback
+        hint: Help us improve your shopping cart experience
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: feedback_date
+        label: Date of Feedback
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: shopping_frequency
+        label: How Often Do You Shop on Our Site
+        hint: Shopping habits
+        type: select_one
+        options:
+          - First time shopper
+          - Once a month or less
+          - 2 to 3 times per month
+          - Weekly
+          - Multiple times per week
+        required: true
+      - id: 6
+        name: cart_usage
+        label: How Often Do You Modify Cart Items
+        hint: Cart editing frequency
+        type: select_one
+        options:
+          - Always - frequently edit
+          - Often - usually edit
+          - Sometimes - occasionally edit
+          - Rarely - seldom edit
+          - Never - do not edit
+        required: true
+      - id: 7
+        name: modification_types
+        label: What Modifications Do You Typically Make
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Change item quantity
+          - Remove items
+          - Add more items
+          - Change item size or color
+          - Save for later
+          - Move items to wishlist
+          - Apply discount codes
+          - None - do not modify
+        required: true
+      - id: 8
+        name: ease_of_use
+        label: How Easy Is It to Modify Items in Your Cart
+        hint: Usability rating
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 9
+        name: find_edit_options
+        label: How Easy Is It to Find Edit Options
+        hint: Discoverability rating
+        type: select_one
+        options:
+          - Very easy to find
+          - Easy to find
+          - Neutral
+          - Hard to find
+          - Very hard to find
+        required: true
+      - id: 10
+        name: quantity_adjustment
+        label: Rate the Quantity Adjustment Feature
+        hint: Plus and minus controls
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did not use
+        required: true
+      - id: 11
+        name: remove_items
+        label: Rate the Remove Item Feature
+        hint: Deleting items from cart
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did not use
+        required: true
+      - id: 12
+        name: save_for_later
+        label: Rate the Save for Later Feature
+        hint: If available
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not available
+          - Did not use
+        required: true
+      - id: 13
+        name: cart_updates
+        label: How Well Does the Cart Update After Changes
+        hint: Responsiveness
+        type: select_one
+        options:
+          - Updates instantly
+          - Updates quickly
+          - Updates with slight delay
+          - Updates slowly
+          - Does not update properly
+        required: true
+      - id: 14
+        name: price_visibility
+        label: Is Price Information Clear After Modifications
+        hint: Price display clarity
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 15
+        name: total_accuracy
+        label: Is the Cart Total Accurate After Changes
+        hint: Total calculation
+        type: select_one
+        options:
+          - Always accurate
+          - Usually accurate
+          - Sometimes inaccurate
+          - Often inaccurate
+          - Always inaccurate
+        required: true
+      - id: 16
+        name: mobile_experience
+        label: How Is the Mobile Cart Modification Experience
+        hint: Mobile usability
+        type: select_one
+        options:
+          - Excellent on mobile
+          - Good on mobile
+          - Acceptable on mobile
+          - Poor on mobile
+          - Very poor on mobile
+          - Have not used mobile
+        required: true
+      - id: 17
+        name: issues_encountered
+        label: Did You Encounter Any Issues
+        hint: Problems experienced
+        type: select_one
+        options:
+          - No issues
+          - Minor issues
+          - Moderate issues
+          - Major issues
+          - Critical issues
+        required: true
+      - id: 18
+        name: issue_details
+        label: Describe Any Issues Encountered
+        hint: Problem details
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: confusing_aspects
+        label: What Aspects Were Confusing
+        hint: Areas of confusion
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: missing_features
+        label: What Features Would You Like to See Added
+        hint: Feature requests
+        type: select_multiple
+        options:
+          - Bulk quantity edit
+          - Compare items in cart
+          - Price alerts for cart items
+          - Automatic coupon application
+          - Cart sharing
+          - Scheduled cart updates
+          - Price history display
+          - Stock availability alerts
+          - None needed
+          - Other
+        required: false
+      - id: 21
+        name: satisfaction_level
+        label: Overall Satisfaction with Cart Modifications
+        hint: General satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 22
+        name: abandonment_risk
+        label: Have You Ever Abandoned a Cart Due to Modification Difficulties
+        hint: Cart abandonment
+        type: select_one
+        options:
+          - Yes - multiple times
+          - Yes - once or twice
+          - No - never
+        required: true
+      - id: 23
+        name: improvement_suggestions
+        label: What Improvements Would You Suggest
+        hint: Enhancement ideas
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: follow_up_consent
+        label: May We Contact You for Follow-Up
+        hint: Permission to contact
+        type: select_one
+        options:
+          - Yes - happy to help
+          - Yes - for major issues only
+          - No - thank you
+        required: true

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Parent Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: survey_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

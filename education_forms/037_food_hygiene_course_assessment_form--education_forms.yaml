@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Hygiene Course Assessment Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions_page
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assessment_page
+      label: Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: evaluation_page
+      label: Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certification_page
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments_page
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature_page
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false

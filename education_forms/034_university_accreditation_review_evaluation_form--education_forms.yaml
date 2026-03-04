@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Accreditation Review Evaluation Form
+    pages:
+    - id: 1
+      name: institution_name
+      label: institution_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department_name
+      label: department_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_type
+      label: review_type
+      hint: null
+      type: select_one
+      options:
+      - Accreditation Committee Review
+      - Self-Study Review
+      - Peer Review
+      - Advisory Review
+      required: false
+    - id: 6
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - Program Chair
+      - Committee Member
+      - University Representative
+      - Accreditation Committee
+      required: false
+    - id: 7
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - University Board of Trustees
+      - Accreditation Committee
+      - Dean
+      - Department Chair
+      required: false
+    - id: 8
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_status
+      label: evaluation_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Partial
+      - Incomplete
+      - No Action
+      required: false
+    - id: 13
+      name: evaluation_result
+      label: evaluation_result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: institution_evaluated
+      label: institution_evaluated
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: institution_satisfies
+      label: institution_satisfies
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: evaluation_criteria
+      label: evaluation_criteria
+      hint: null
+      type: select_multiple
+      options:
+      - Criteria 1
+      - Criteria 2
+      - Criteria 3
+      required: false
+    - id: 19
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_name
+      label: submitted_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_title
+      label: submitted_by_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Computer Science
+      - Mathematics
+      - Engineering
+      - Physics
+      - Chemistry
+      - Biology
+      - Geology
+      - Astronomy
+      - Environmental Science
+      required: false
+    - id: 23
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - University Board of Trustees
+      - Accreditation Committee
+      - Dean
+      - Department Chair
+      required: false
+    - id: 24
+      name: institution_name
+      label: institution_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: institution_url
+      label: institution_url
+      hint: null
+      type: text
+      options: []
+      required: false

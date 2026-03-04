@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Clubs Survey
+    pages:
+    - id: 1
+      name: purpose_of_club
+      label: What is the purpose of the club
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: club_activities
+      label: What activities does the club offer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: number_students
+      label: How many students are currently part of the club
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: club_condition
+      label: What is the current condition of the club
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Disbanded''}'
+      required: false
+    - id: 5
+      name: contact_teacher
+      label: Contact teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_email
+      label: Contact teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: teacher_phone
+      label: Contact teacher phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_availability
+      label: When are you available to meet with the students
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: school_year
+      label: School year this club started
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: club_meeting_time
+      label: How long does the club meet
+      hint: Enter a number in hours
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: club_meeting_days
+      label: How many days a week the club meets
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: meeting_place
+      label: Where does the club meet
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''School Library''}'
+      - '{''label'': ''School Auditorium''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: club_sponsor
+      label: Who is the club sponsor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Teacher''}'
+      - '{''label'': ''School Administration''}'
+      - '{''label'': ''School Counselor''}'
+      required: false
+    - id: 14
+      name: student_club_interest
+      label: What is the student club interest
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Academic''}'
+      - '{''label'': ''Social''}'
+      - '{''label'': ''Sports''}'
+      - '{''label'': ''Arts''}'
+      - '{''label'': ''Clubs''}'
+      required: false
+    - id: 15
+      name: meeting_frequency
+      label: How often does the club meet
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Bi-Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      - '{''label'': ''Annually''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: club_status
+      label: Club status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Disbanded''}'
+      required: false
+    - id: 17
+      name: school_department
+      label: What school department is the club affiliated with
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Mathematics''}'
+      - '{''label'': ''Science''}'
+      - '{''label'': ''History''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: club_description
+      label: Club description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_supervisor
+      label: Teacher supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Teacher''}'
+      - '{''label'': ''School Administration''}'
+      - '{''label'': ''School Counselor''}'
+      required: false
+    - id: 20
+      name: student_club_leadership
+      label: Student club leadership
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student President''}'
+      - '{''label'': ''Faculty Advisor''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 21
+      name: club_meeting_time
+      label: Club meeting time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: school_year_ended
+      label: School year this club ended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: student_club_funding
+      label: What is the source of the club's funding
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''School Administration''}'
+      - '{''label'': ''Student Government''}'
+      - '{''label'': ''Parent Volunteers''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: student_club_participation
+      label: What percentage of students participate in this club
+      hint: Enter a number from 0-100
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

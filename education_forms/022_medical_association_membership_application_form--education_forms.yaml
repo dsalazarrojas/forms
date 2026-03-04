@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Association Membership Application Form
+    pages:
+    - id: 1
+      name: medical_association_membership_application_form_page_1
+      label: First page
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: medical_degree
+      label: Medical Degree
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: personal_information
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical_practice
+      label: Medical Practice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_graduation
+      label: Date of Graduation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: medical_association_membership_application
+      label: Medical Association Membership Application
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active Member''}'
+      - '{''value'': ''Non Active Member''}'
+      - '{''value'': ''Pending Membership''}'
+      required: true
+    - id: 9
+      name: medical_association_membership_application_verification
+      label: Medical Association Membership Application Verification
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active Member''}'
+      - '{''value'': ''Non Active Member''}'
+      - '{''value'': ''Pending Membership''}'
+      required: false
+    - id: 10
+      name: date_of_application
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: medical_association_membership_application_fee
+      label: Medical Association Membership Application Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: medical_association_membership_application_status
+      label: Medical Association Membership Application Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_association_membership_application_comments
+      label: Medical Association Membership Application Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_association_membership_application_verified
+      label: Medical Association Membership Application Verified
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 15
+      name: medical_association_membership_application_review_date
+      label: Medical Association Membership Application Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: medical_association_membership_application_reviewer
+      label: Medical Association Membership Application Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_association_membership_application_reviewer_verified
+      label: Medical Association Membership Application Reviewer Verified
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 18
+      name: medical_association_membership_application_comments_reviewer
+      label: Medical Association Membership Application Comments Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_association_membership_application_reviewer_comments
+      label: Medical Association Membership Application Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: medical_association_membership_application_administrative_fee
+      label: Medical Association Membership Application Administrative Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: medical_association_membership_application_fee_amount
+      label: Medical Association Membership Application Fee Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: medical_association_membership_application_fee_paid
+      label: Medical Association Membership Application Fee Paid
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 23
+      name: medical_association_membership_application_fee_paid_date
+      label: Medical Association Membership Application Fee Paid Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: medical_association_membership_application_status_updated_by
+      label: Medical Association Membership Application Status Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_association_membership_application_reviewer_review_date
+      label: Medical Association Membership Application Reviewer Review Date
+      hint: null
+      type: date
+      options: []
+      required: true

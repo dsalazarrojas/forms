@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cotton Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: cotton_knowledge_quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: cotton_types
+      hint: null
+      type: select_one
+      options:
+      - Cotton
+      - Linen
+      - Polyester
+      - Rayon
+      - Acrylic
+      - Nylon
+      required: false
+    - id: 3
+      name: question_2
+      label: cotton_fibre
+      hint: null
+      type: select_multiple
+      options:
+      - Cotton
+      - Linen
+      - Tencel
+      required: false
+    - id: 4
+      name: question_3
+      label: quiz_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: quiz_duration_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: quiz_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: quiz_score_out_of
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: quiz_score_out_of_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: quiz_submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 10
+      name: question_9
+      label: quiz_submission_method
+      hint: null
+      type: select_one
+      options:
+      - online
+      - offline
+      required: false
+    - id: 11
+      name: question_10
+      label: quiz_completion_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: question_11
+      label: quiz_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: question_12
+      label: quiz_completion_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: question_13
+      label: quiz_completion_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: question_14
+      label: quiz_completion_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: question_15
+      label: email_notification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: question_16
+      label: email_notification_time
+      hint: null
+      type: select_one
+      options:
+      - 1 minute
+      - 5 minutes
+      - 10 minutes
+      required: false
+    - id: 18
+      name: question_17
+      label: email_notification_time_unit
+      hint: null
+      type: select_one
+      options:
+      - seconds
+      - minutes
+      - hours
+      required: false
+    - id: 19
+      name: question_18
+      label: email_notification_time_interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: question_19
+      label: quiz_participation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: question_20
+      label: quiz_participation_time
+      hint: null
+      type: select_one
+      options:
+      - 1 minute
+      - 5 minutes
+      - 10 minutes
+      required: false
+    - id: 22
+      name: question_21
+      label: quiz_participation_time_unit
+      hint: null
+      type: select_one
+      options:
+      - seconds
+      - minutes
+      - hours
+      required: false
+    - id: 23
+      name: question_22
+      label: quiz_participation_time_interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: question_23
+      label: quiz_participation_frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 25
+      name: question_24
+      label: quiz_participation_frequency_label
+      hint: null
+      type: select_one
+      options:
+      - 1 time
+      - 2 times
+      - 3 times
+      required: false
+    - id: 26
+      name: question_25
+      label: quiz_participation_frequency_interval
+      hint: null
+      type: select_one
+      options:
+      - time
+      - times
+      - days
+      required: false

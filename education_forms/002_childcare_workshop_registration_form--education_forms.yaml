@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Workshop Registration Form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: -- Workshop Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_title
+      label: Workshop Title
+      hint: Effective Communication in Childcare Environments
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: workshop_date
+      label: Workshop Date
+      hint: February 28 - March 2, 2026
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: workshop_time
+      label: Workshop Time
+      hint: "9:00 AM - 4:00 PM daily"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: workshop_location
+      label: Location
+      hint: Training Center, Room 101
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: registrant_information
+      label: -- Registrant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: We will send workshop materials to this email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: organization
+      label: Organization or School Name
+      hint: Where you currently work
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: experience_level
+      label: Childcare Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 14
+      name: registration_goals
+      label: -- Registration Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_interest
+      label: What is your primary interest in this workshop
+      hint: null
+      type: select_one
+      options:
+      - Improve communication skills
+      - Learn new child management techniques
+      - Develop conflict resolution strategies
+      - Professional development
+      required: true
+    - id: 16
+      name: specific_topics
+      label: Which topics interest you most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Effective listening
+      - Difficult conversations
+      - Parent communication
+      - Team collaboration
+      - Crisis management
+      required: true
+    - id: 17
+      name: expectations
+      label: What do you expect to learn from this workshop
+      hint: Please describe your learning objectives
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_section
+      label: -- Special Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Do you require any accessibility accommodations
+      hint: Select yes if you have specific needs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: accommodation_details
+      label: Please describe your accommodation needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Do you have dietary restrictions
+      hint: For the workshop lunch
+      type: select_one
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Other
+      required: false
+    - id: 22
+      name: payment_section
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: registration_fee
+      label: Workshop Registration Fee
+      hint: Standard fee is 199.99
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Purchase Order
+      required: true

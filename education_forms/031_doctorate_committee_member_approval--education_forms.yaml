@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctorate Committee Member Approval
+    pages:
+    - id: 1
+      name: committee_member_name
+      label: Committee Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 3
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: decision
+      label: Decision
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: committee_member_email
+      label: Committee Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: committee_member_phone
+      label: Committee Member Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: committee_member_institution
+      label: Committee Member Institution
+      hint: null
+      type: text
+      options: []
+      required: false

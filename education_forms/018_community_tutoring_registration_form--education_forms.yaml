@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Tutoring Registration Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: applicant_type
+      label: Are you registering as a tutor or student?
+      hint: Your role
+      type: select_one
+      options:
+      - Tutor
+      - Student
+      - Parent/Guardian (for student)
+      required: true
+    - id: 7
+      name: student_name
+      label: If parent, student's name
+      hint: Name of student
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_grade
+      label: Student Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Elementary (K-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      - College/University
+      - Adult Learner
+      - Not applicable
+      required: false
+    - id: 9
+      name: subjects_tutor
+      label: Which subjects do you need/want to tutor in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mathematics
+      - English/Language Arts
+      - Science (General)
+      - Biology
+      - Chemistry
+      - Physics
+      - History
+      - Social Studies
+      - Foreign Language
+      - Computer Science
+      - Reading
+      - Writing
+      - Test Prep (SAT/ACT)
+      - Study Skills
+      - Other
+      required: true
+    - id: 10
+      name: subject_details
+      label: Please specify subjects in detail
+      hint: Specific topics or levels
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education_level
+      label: Highest Education Level Completed
+      hint: For tutors
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Currently Enrolled
+      required: true
+    - id: 12
+      name: current_institution
+      label: Current School or Institution
+      hint: Where are you enrolled/employed?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: major_field
+      label: Major or Field of Study
+      hint: Area of expertise
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tutoring_experience
+      label: Do you have tutoring experience?
+      hint: Previous experience
+      type: select_one
+      options:
+      - No experience
+      - Informal (helped friends/family)
+      - Formal (1-2 years)
+      - Formal (3-5 years)
+      - Formal (5+ years)
+      required: true
+    - id: 15
+      name: experience_details
+      label: Please describe your tutoring experience
+      hint: Previous roles and settings
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: availability_days
+      label: Available Days
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 17
+      name: availability_times
+      label: Available Times
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-4pm)
+      - Evening (4pm-8pm)
+      - Late Evening (8pm+)
+      required: true
+    - id: 18
+      name: tutoring_format
+      label: Preferred Tutoring Format
+      hint: How would you like to meet?
+      type: select_one
+      options:
+      - In-person only
+      - Online only
+      - Either format
+      required: true
+    - id: 19
+      name: tutoring_location
+      label: Preferred Location for In-Person Tutoring
+      hint: Where should sessions take place?
+      type: select_one
+      options:
+      - Community Center
+      - Library
+      - School
+      - Student's Home
+      - Tutor's Home
+      - Coffee Shop/Cafe
+      - Other
+      required: false
+    - id: 20
+      name: hourly_rate_expectation
+      label: Expected Hourly Rate (for tutors)
+      hint: Compensation expectation
+      type: select_one
+      options:
+      - Volunteer (unpaid)
+      - $10-$20/hour
+      - $21-$30/hour
+      - $31-$40/hour
+      - $41-$50/hour
+      - Over $50/hour
+      - Not applicable (student)
+      required: false
+    - id: 21
+      name: background_check_consent
+      label: I consent to a background check
+      hint: Required for working with minors
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Do Not Consent
+      required: true
+    - id: 22
+      name: references_available
+      label: Can you provide references?
+      hint: Professional or academic references
+      type: select_one
+      options:
+      - Yes, 1-2 references
+      - Yes, 3+ references
+      - No, not at this time
+      required: false
+    - id: 23
+      name: special_needs_experience
+      label: Do you have experience working with special needs students?
+      hint: Specialized tutoring
+      type: select_one
+      options:
+      - No experience
+      - Some experience
+      - Extensive experience
+      - Certified in special education
+      required: false
+    - id: 24
+      name: languages_spoken
+      label: What languages do you speak?
+      hint: For ESL or bilingual tutoring
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Chinese (Mandarin)
+      - Chinese (Cantonese)
+      - French
+      - German
+      - Arabic
+      - Vietnamese
+      - Korean
+      - Tagalog
+      - Other
+      required: false
+    - id: 25
+      name: motivation_statement
+      label: Why do you want to tutor/be tutored?
+      hint: Your goals and motivation
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Any additional comments or questions?
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: registration_date
+      label: Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

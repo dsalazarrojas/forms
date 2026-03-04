@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_valedictorian_selection_voting_form
+    pages:
+    - id: 1
+      name: candidate_1
+      label: Candidate 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Alice''}'
+      - '{''id'': 2, ''label'': ''Bob''}'
+      - '{''id'': 3, ''label'': ''Charlie''}'
+      required: false
+    - id: 2
+      name: candidate_2
+      label: Candidate 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Alice''}'
+      - '{''id'': 2, ''label'': ''Bob''}'
+      - '{''id'': 3, ''label'': ''Charlie''}'
+      required: false
+    - id: 3
+      name: candidate_3
+      label: Candidate 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Alice''}'
+      - '{''id'': 2, ''label'': ''Bob''}'
+      - '{''id'': 3, ''label'': ''Charlie''}'
+      required: false
+    - id: 4
+      name: vote_count
+      label: Vote Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vote_count_2
+      label: Vote Count 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: vote_count_3
+      label: Vote Count 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false

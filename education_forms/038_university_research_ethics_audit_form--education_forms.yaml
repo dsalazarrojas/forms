@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Research Ethics Audit Form
+    pages:
+    - id: 1
+      name: study_name
+      label: Study Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_id
+      label: Study ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: study_lead_person
+      label: Study Lead Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: study_co_investigators
+      label: Study Co-Investigators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: study_co_investigators_emails
+      label: Study Co-Investigators Emails
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: study_co_investigators_emails_list
+      label: Study Co-Investigators Emails List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department_approving
+      label: Department Approving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: department_approving_list
+      label: Department Approving List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ethics_review_committee
+      label: Ethics Review Committee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: ethics_review_committee_list
+      label: Ethics Review Committee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: risk_level_list
+      label: Risk Level List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: study_start_date
+      label: Study Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: study_end_date
+      label: Study End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: study_status
+      label: Study Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: study_status_list
+      label: Study Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: research_area
+      label: Research Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: study_budget
+      label: Study Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: study_notes
+      label: Study Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: study_files
+      label: Study Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

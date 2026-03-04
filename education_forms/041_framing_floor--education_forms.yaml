@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: framing-floor
+    pages:
+    - id: 1
+      name: component_choices
+      label: Component Choices
+      hint: null
+      type: select_one
+      options:
+      - choice-1
+      - choice-2
+      - choice-3
+      required: false
+    - id: 2
+      name: quality_score
+      label: Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

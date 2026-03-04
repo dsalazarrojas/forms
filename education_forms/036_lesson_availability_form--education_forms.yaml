@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lesson Availability Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lesson_name
+      label: Lesson Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: max_students
+      label: Max Students
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: min_students
+      label: Min Students
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false

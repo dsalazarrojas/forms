@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Shipping Form
+    pages:
+    - id: 1
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: shipping_notes
+      label: shipping_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: shipping_cost_status
+      label: shipping_cost_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: shipping_method_status
+      label: shipping_method_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: shipping_details_status
+      label: shipping_details_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: order_notes_status
+      label: order_notes_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: contact_name_status
+      label: contact_name_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: contact_phone_status
+      label: contact_phone_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: contact_email_status
+      label: contact_email_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: contact_address_status
+      label: contact_address_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: contact_email_verified
+      label: contact_email_verified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

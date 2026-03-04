@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: BEd College Admission Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: Use YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Official email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Contact phone
+      hint: Mobile number preferred
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Permanent address
+      hint: Street city state postal code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: previous_education
+      label: Previous education details
+      hint: Institution degree year
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: teaching_experience_years
+      label: Years of teaching experience
+      hint: Enter 0 if none
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_specialization
+      label: Preferred specialization
+      hint: Select the area you wish to focus on
+      type: select_one
+      options:
+      - Primary education
+      - Secondary education
+      - Special education
+      - Educational leadership
+      required: true
+    - id: 9
+      name: reference_contact
+      label: Reference contact information
+      hint: Name and phone of professional reference
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporting_documents
+      label: Supporting documents uploaded
+      hint: Transcript and ID required
+      type: note
+      options: []
+      required: false

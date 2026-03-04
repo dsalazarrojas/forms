@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Induction Questionnaire Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_information
+      label: background-information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: presentation_type
+      label: presentation-type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option 1''}'
+      - '{''id'': 2, ''label'': ''option 2''}'
+      - '{''id'': 3, ''label'': ''option 3''}'
+      required: true
+    - id: 4
+      name: presenter
+      label: presenter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presentation_materials
+      label: presentation-materials
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''option 1''}'
+      - '{''id'': 2, ''label'': ''option 2''}'
+      - '{''id'': 3, ''label'': ''option 3''}'
+      required: false
+    - id: 6
+      name: date_time
+      label: date-time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: presentation_evaluation
+      label: presentation-evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''option 1''}'
+      - '{''id'': 2, ''label'': ''option 2''}'
+      - '{''id'': 3, ''label'': ''option 3''}'
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

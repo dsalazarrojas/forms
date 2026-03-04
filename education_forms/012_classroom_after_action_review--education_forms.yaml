@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom After Action Review
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the instructor or facilitator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_session_date
+      label: Class Session Date
+      hint: Date of the session being reviewed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: class_topic
+      label: Class Topic
+      hint: Subject or topic covered in the session
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_duration_minutes
+      label: Session Duration (minutes)
+      hint: How long was the session?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_header_objectives
+      label: -- Learning Objectives and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: objectives_clarity
+      label: Were the learning objectives clearly stated?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: objectives_met
+      label: To what extent were the learning objectives met?
+      hint: null
+      type: select_one
+      options:
+      - All objectives fully met
+      - Most objectives met
+      - Some objectives met
+      - Few objectives met
+      - No objectives met
+      required: true
+    - id: 9
+      name: section_header_instruction
+      label: -- Instruction Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: instruction_pacing
+      label: Pacing of the instruction
+      hint: Was the pace appropriate?
+      type: select_one
+      options:
+      - Too Fast
+      - Just Right
+      - Too Slow
+      required: true
+    - id: 11
+      name: instructor_clarity
+      label: Instructor clarity and communication
+      hint: How well did the instructor explain concepts?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: material_engagement
+      label: Were the materials engaging?
+      hint: Were students engaged with the content?
+      type: select_one
+      options:
+      - Very Engaging
+      - Engaging
+      - Neutral
+      - Somewhat Boring
+      - Very Boring
+      required: true
+    - id: 13
+      name: content_difficulty
+      label: Content difficulty level
+      hint: Was the material appropriately challenging?
+      type: select_one
+      options:
+      - Too Easy
+      - Just Right
+      - Too Difficult
+      required: true
+    - id: 14
+      name: section_header_environment
+      label: -- Learning Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: classroom_environment
+      label: Overall classroom environment
+      hint: How conducive was the environment to learning?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: time_management
+      label: Instructor time management
+      hint: Did the instructor manage time effectively?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: section_header_feedback
+      label: -- Strengths and Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: session_strengths
+      label: What were the greatest strengths of this session?
+      hint: Describe what went well
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: areas_for_improvement
+      label: Areas for improvement
+      hint: What could be done better next time?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: specific_recommendations
+      label: Specific recommendations for next session
+      hint: Actionable suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: overall_session_rating
+      label: Overall session rating
+      hint: How would you rate this session overall?
+      type: select_one
+      options:
+      - Excellent (5/5)
+      - Very Good (4/5)
+      - Good (3/5)
+      - Fair (2/5)
+      - Poor (1/5)
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional comments or observations
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Co Op Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Bob Smith''}'
+      required: true
+    - id: 3
+      name: co_op_details
+      label: Co Op Details
+      hint: Enter co-op details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: co_op_hours
+      label: Co Op Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_info
+      label: Supervisor Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Smith''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Bob Johnson''}'
+      required: true
+    - id: 8
+      name: co_op_notes
+      label: Co Op Notes
+      hint: Enter co-op notes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: institution_info
+      label: Institution Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''University of A''}'
+      - '{''value'': ''University of B''}'
+      - '{''value'': ''University of C''}'
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false

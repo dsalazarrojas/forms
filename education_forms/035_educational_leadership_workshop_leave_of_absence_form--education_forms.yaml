@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Leadership Workshop Leave Of Absence Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: workshop_details
+      label: workshop_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_member
+      label: team_member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: leave_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: leave_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: leave_duration
+      label: duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: leave_days
+      label: leave_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: leave_reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_approval
+      label: team_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_lead_email
+      label: team_lead_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: team_lead_phone
+      label: team_lead_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approval_note
+      label: approval_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

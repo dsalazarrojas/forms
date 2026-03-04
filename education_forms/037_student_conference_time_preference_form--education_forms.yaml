@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Conference Time Preference Form
+    pages:
+    - id: 1
+      name: conference_day
+      label: Which day of the week do you prefer for the conference?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: conference_time
+      label: What time of day do you prefer for the conference?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: note
+      label: Do you have any other preferences or comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

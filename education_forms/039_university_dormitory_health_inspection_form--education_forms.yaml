@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Dormitory Health Inspection Form
+    pages:
+    - id: 1
+      name: residencehall
+      label: Residence Hall
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: health_inspection_date
+      label: Health Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: findings
+      label: Findings
+      hint: List any health and safety concerns found during inspection
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: recommendations
+      label: Recommendations
+      hint: List any recommendations to improve health and safety conditions
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Not Required
+      - Required
+      - Follow-up Completed
+      required: true
+    - id: 6
+      name: campus_housing_staff
+      label: Campus Housing Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_residence_name
+      label: Student Residence Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_residence_id
+      label: Student Residence ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dormitory_name
+      label: Dormitory Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

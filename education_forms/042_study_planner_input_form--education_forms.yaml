@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Planner Input Form
+    pages:
+    - id: 1
+      name: study_planner_input
+      label: Study Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 3
+      name: goal_type
+      label: Goal Type
+      hint: null
+      type: select_one
+      options:
+      - Homework Help
+      - Test Prep
+      - Project Work
+      required: false
+    - id: 4
+      name: preferred_time_slots
+      label: Preferred Time Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 08:00 - 12:00
+      - 13:00 - 17:00
+      - 18:00 - 20:00
+      required: false
+    - id: 5
+      name: study_frequency
+      label: Study Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: best_time
+      label: Best Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: study_duration
+      label: Study Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_reminder
+      label: Follow Up Reminder
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: select_multiple
+      options:
+      - 2 days
+      - 1 week
+      - 2 weeks
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

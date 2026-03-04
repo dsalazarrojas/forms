@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Education Registration Form
+    pages:
+    - id: 1
+      name: personal_information_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your full first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your family surname
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: We will use this to send workshop details
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for enrollment confirmation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_affiliation
+      label: Organization or Affiliation
+      hint: School, shelter, nonprofit, or other organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interest_areas
+      label: Areas of Interest in Animal Welfare
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Animal Care and Nutrition
+      - Wildlife Protection
+      - Animal Behavior
+      - Shelter Operations
+      - Veterinary Health
+      - Animal Rights and Advocacy
+      required: true
+    - id: 8
+      name: experience_level
+      label: Your Experience with Animals
+      hint: Choose the option that best describes you
+      type: select_one
+      options:
+      - Beginner - No formal training
+      - Intermediate - Some experience or coursework
+      - Advanced - Professional experience
+      - Expert - Specialized knowledge
+      required: true
+    - id: 9
+      name: preferred_workshop_format
+      label: Preferred Workshop Format
+      hint: How would you like to attend
+      type: select_one
+      options:
+      - In-Person
+      - Online Live
+      - Self-Paced Online
+      - Hybrid
+      required: true
+    - id: 10
+      name: availability_dates
+      label: Preferred Workshop Dates
+      hint: Select dates when you are available
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekend Mornings
+      - Weekend Afternoons
+      required: true
+    - id: 11
+      name: participant_type
+      label: Participant Type
+      hint: What best describes your role
+      type: select_one
+      options:
+      - Student
+      - Educator
+      - Shelter Staff
+      - Volunteer
+      - Community Member
+      - Professional
+      required: true
+    - id: 12
+      name: dietary_requirements
+      label: Any Dietary or Accessibility Requirements
+      hint: Please describe any special needs
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: specific_goals
+      label: What are your learning goals for this program
+      hint: What would you like to achieve
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: consent_header
+      label: -- Consent and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: code_of_conduct
+      label: I agree to the Code of Conduct for this workshop
+      hint: Read our workshop guidelines and policies
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: photography_consent
+      label: I consent to be photographed during the workshop
+      hint: Images may be used for promotional purposes
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      - Ask me for each photo
+      required: false
+    - id: 17
+      name: data_privacy_consent
+      label: I consent to the collection and use of my data
+      hint: Your information will be kept confidential
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of person to contact in case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: referral_source
+      label: How did you hear about this program
+      hint: Where did you learn about this workshop
+      type: select_one
+      options:
+      - Social Media
+      - Email Newsletter
+      - Word of Mouth
+      - School or Organization
+      - Website Search
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Please share any other information you think we should know
+      type: text
+      options: []
+      required: false

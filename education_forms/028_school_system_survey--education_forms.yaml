@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: School System Survey
+    pages:
+    - id: 1
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_grade_level
+      label: School Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: school_starting_year
+      label: School Starting Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_multiple
+      options:
+      - Elementary
+      - Junior High
+      - High School
+      required: false
+    - id: 6
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_count
+      label: Student Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: school_funding
+      label: School Funding
+      hint: null
+      type: select_one
+      options:
+      - Government Funded
+      - Private Funded
+      - Public Funded
+      required: false
+    - id: 10
+      name: prophet_name
+      label: Prophet Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Responsibility Agreement Form
+    pages:
+    - id: 1
+      name: student_responsibility_agreement_form_title
+      label: Student Responsibility Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_responsibility_agreement_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Education Forms''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: student_responsibility_agreement_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_responsibility_agreement_form_signature_1
+      label: Signature 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: student_responsibility_agreement_form_signature_2
+      label: Signature 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_responsibility_agreement_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_responsibility_agreement_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: student_responsibility_agreement_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_responsibility_agreement_form_teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Teacher 1''}'
+      - '{''value'': ''Teacher 2''}'
+      - '{''value'': ''Teacher 3''}'
+      required: false
+    - id: 10
+      name: student_responsibility_agreement_form_student_signature
+      label: Student Signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Student 1''}'
+      - '{''value'': ''Student 2''}'
+      - '{''value'': ''Student 3''}'
+      required: false
+    - id: 11
+      name: student_responsibility_agreement_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_responsibility_agreement_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

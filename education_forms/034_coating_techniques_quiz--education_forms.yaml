@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coating Techniques Quiz
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company or training program
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_experience
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: experience_level
+      label: Coating Industry Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 7
+      name: current_role
+      label: Current Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_quiz
+      label: -- Quiz Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_1
+      label: Question 1 - What is the primary purpose of surface preparation?
+      hint: null
+      type: select_one
+      options:
+      - To ensure proper adhesion of coating
+      - To reduce material costs
+      - To improve drying time
+      - To enhance color appearance
+      required: true
+    - id: 10
+      name: question_2
+      label: Question 2 - Which coating method provides the best coverage for complex surfaces?
+      hint: null
+      type: select_one
+      options:
+      - Spray application
+      - Brush application
+      - Roller application
+      - Immersion
+      required: true
+    - id: 11
+      name: question_3
+      label: Question 3 - What is the ideal humidity level for most coating applications?
+      hint: null
+      type: select_one
+      options:
+      - 30-50 percent
+      - 50-70 percent
+      - 70-90 percent
+      - Above 90 percent
+      required: true
+    - id: 12
+      name: question_4
+      label: Question 4 - How does temperature affect coating viscosity?
+      hint: null
+      type: select_one
+      options:
+      - Higher temperature increases viscosity
+      - Higher temperature decreases viscosity
+      - Temperature has no effect
+      - Effect depends on coating type
+      required: true
+    - id: 13
+      name: question_5
+      label: Question 5 - What is the purpose of primer in coating systems?
+      hint: null
+      type: select_one
+      options:
+      - To provide aesthetic appearance
+      - To enhance corrosion protection and adhesion
+      - To reduce application time
+      - To lower material cost
+      required: true
+    - id: 14
+      name: question_6
+      label: Question 6 - Which defect is caused by inadequate mixing?
+      hint: null
+      type: select_one
+      options:
+      - Sagging
+      - Color inconsistency
+      - Cracking
+      - Spalling
+      required: true
+    - id: 15
+      name: question_7
+      label: Question 7 - What is dry film thickness (DFT) measured in?
+      hint: null
+      type: select_one
+      options:
+      - Millimeters
+      - Square meters
+      - Grams per liter
+      - Liters per hour
+      required: true
+    - id: 16
+      name: section_feedback
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: difficulty_rating
+      label: Quiz Difficulty
+      hint: Rate the difficulty level
+      type: select_one
+      options:
+      - Too easy
+      - Appropriate
+      - Challenging
+      - Too difficult
+      required: true
+    - id: 18
+      name: topic_interest
+      label: Topics You Would Like to Learn More About
+      hint: null
+      type: select_multiple
+      options:
+      - Application techniques
+      - Safety procedures
+      - Quality control
+      - Environmental considerations
+      - Equipment maintenance
+      - Problem solving
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any feedback about the training
+      type: text
+      options: []
+      required: false

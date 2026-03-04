@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: BCC Course Selection
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID number
+      hint: University student identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Student email
+      hint: Official student email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: semester
+      label: Semester
+      hint: e.g., Fall 2026
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: courses_selected
+      label: Courses selected
+      hint: List course codes and titles
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: total_credits
+      label: Total credits
+      hint: Sum of selected course credits
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: advisor_approval
+      label: Advisor approval status
+      hint: Obtained prior to submission
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: false
+    - id: 8
+      name: special_requests
+      label: Special scheduling requests
+      hint: Time conflicts health needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of form submission
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Visit Permission Form
+    pages:
+    - id: 1
+      name: school_trip_header
+      label: -- School Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_class
+      label: Grade - Class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: teacher_in_charge
+      label: Teacher in Charge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exhibition_name
+      label: Gallery Exhibition to be Visited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: trip_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: arrival_departure_times
+      label: Estimated Arrival and Departure Times
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medical_conditions_allergies
+      label: Relevant Medical Conditions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_header
+      label: -- Parent - Guardian Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: parent_guardian_name
+      label: Parent - Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_guardian_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: permission_granted
+      label: I give permission for my child to attend the art gallery field trip
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Grant Permission
+      - No - I Do Not Grant Permission
+      required: true
+    - id: 15
+      name: photography_consent_educational
+      label: Permission for gallery staff to photograph students for educational -
+        school purposes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: electronic_signature_parent
+      label: Digital Signature of Parent - Guardian
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

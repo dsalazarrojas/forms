@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Theory Quiz
+    pages:
+    - id: 1
+      name: music_theory_quiz
+      label: Music Theory Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Education Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: music_theory_quiz_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: can_be_filled_out_anywhere
+      label: Can be filled out on any device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: can_be_customized
+      label: Easy to customize
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: can_be_shared
+      label: Can be shared with students
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Constant Calculation Form
+    pages:
+    - id: 1
+      name: circuit_type
+      label: Circuit Type
+      hint: null
+      type: select_one
+      options:
+      - capacitive
+      - inductive
+      - resistive
+      required: false
+    - id: 2
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: unit
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - seconds
+      - hertz
+      - ohms
+      required: false

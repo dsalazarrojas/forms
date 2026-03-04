@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Emotional Health Support Request Form
+    pages:
+    - id: 1
+      name: teacher_request_form
+      label: teacher_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school
+      label: school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: subject_area
+      label: subject_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: problem_statement
+      label: problem_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support_needed
+      label: support_needed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 9
+      name: frequency_of_support_needed
+      label: frequency_of_support_needed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Every day''}'
+      - '{''label'': ''Every 2 weeks''}'
+      - '{''label'': ''Every 3 weeks''}'
+      - '{''label'': ''Every 4 weeks''}'
+      - '{''label'': ''Every 6 weeks''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 10
+      name: support_duration
+      label: support_duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

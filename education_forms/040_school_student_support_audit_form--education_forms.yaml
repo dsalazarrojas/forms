@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Student Support Audit Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_level
+      label: Support Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_services
+      label: Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - Guidance and Counseling
+      - Academic Support
+      - Mental Health
+      - Special Needs
+      required: true
+    - id: 17
+      name: other_support_services
+      label: Other Support Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: school_name
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - School A
+      - School B
+      - School C
+      required: true
+    - id: 22
+      name: student_name
+      label: Student
+      hint: null
+      type: select_one
+      options:
+      - Student 1
+      - Student 2
+      - Student 3
+      required: true
+    - id: 23
+      name: support_level
+      label: Support Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 24
+      name: teacher_id
+      label: Teacher
+      hint: null
+      type: select_one
+      options:
+      - Teacher 1
+      - Teacher 2
+      - Teacher 3
+      required: true
+    - id: 25
+      name: school_id
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - School A
+      - School B
+      - School C
+      required: true

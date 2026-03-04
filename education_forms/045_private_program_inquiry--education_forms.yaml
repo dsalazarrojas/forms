@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Program Inquiry
+    pages:
+    - id: 1
+      name: preferred_program_type
+      label: Preferred program type
+      hint: null
+      type: select_multiple
+      options:
+      - Dance
+      - Music
+      - Fitness
+      - Other
+      required: false
+    - id: 2
+      name: preferred_dates
+      label: Preferred dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: preferred_time
+      label: Preferred time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: preferred_session_length
+      label: Session length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_details
+      label: Program details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_program_name
+      label: Preferred program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Online
+      required: false
+    - id: 11
+      name: preferred_contact_method_details
+      label: Contact method details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_type
+      label: Program type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: session_type
+      label: Session type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: session_details
+      label: Session details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: program_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: session_time
+      label: Session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: program_name
+      label: Program name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: program_length
+      label: Program length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: program_frequency
+      label: Program frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: program_start_date
+      label: Session start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: program_start_time
+      label: Session start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: program_end_time
+      label: Session end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: program_status
+      label: Program status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 24
+      name: program_notes
+      label: Session notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Send
+      hint: null
+      type: text
+      options: []
+      required: false

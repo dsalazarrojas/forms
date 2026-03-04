@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Resource Sharing Agreement Request
+    pages:
+    - id: 1
+      name: resource_sharing_agreement_intro
+      label: Academic Resource Sharing Agreement Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting access to resources
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Professional email for communication about this request
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_institution
+      label: Requester Institution
+      hint: University or organization affiliation of the requester
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_department
+      label: Requester Department
+      hint: Academic department or research unit of the requester
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resource_owner_name
+      label: Resource Owner Name
+      hint: Full name of the person who owns/manages the resources
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resource_owner_institution
+      label: Resource Owner Institution
+      hint: University or organization affiliation of the resource owner
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: resource_type
+      label: Type of Resource Requested
+      hint: What type of resource is being requested?
+      type: select_one
+      options:
+      - Database access
+      - Software license
+      - Lab equipment
+      - Specialized instruments
+      - Research materials
+      - Computational resources
+      - Library materials
+      - Other
+      required: true
+    - id: 9
+      name: resource_description
+      label: Resource Description
+      hint: Detailed description of the specific resources requested
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: intended_use
+      label: Intended Use
+      hint: How will these resources be used?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sharing_duration
+      label: Sharing Duration
+      hint: How long do you need access to these resources?
+      type: select_one
+      options:
+      - One-time use
+      - One week
+      - One month
+      - Three months
+      - Six months
+      - One year
+      - Ongoing
+      required: true
+    - id: 12
+      name: access_level_required
+      label: Access Level Required
+      hint: What level of access do you need to the resources?
+      type: select_one
+      options:
+      - Read-only
+      - Read and write
+      - Full administrative
+      - Specific functions only
+      - Other
+      required: true
+    - id: 13
+      name: number_of_users
+      label: Number of Users
+      hint: How many people will need access to these resources?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: compliance_acknowledgment
+      label: Compliance Acknowledgment
+      hint: Do you acknowledge that you will comply with all usage terms and conditions?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - Yes, with questions
+      - Need clarification
+      - No, not applicable
+      required: true
+    - id: 15
+      name: intellectual_property_acknowledgment
+      label: Intellectual Property Acknowledgment
+      hint: Do you acknowledge the intellectual property rights associated with these
+        resources?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - Yes, with questions
+      - Need clarification
+      - No, not applicable
+      required: true
+    - id: 16
+      name: liability_acceptance
+      label: Liability Acceptance
+      hint: Do you accept responsibility for any damages caused by misuse of the resources?
+      type: select_one
+      options:
+      - Yes, I accept
+      - Yes, with limitations
+      - Need clarification
+      - No, not applicable
+      required: true
+    - id: 17
+      name: agreement_signature
+      label: Agreement Signature
+      hint: Type your full name as your electronic signature agreeing to the terms
+      type: text
+      options: []
+      required: true

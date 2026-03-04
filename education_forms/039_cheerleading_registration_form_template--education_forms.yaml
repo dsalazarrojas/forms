@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheerleading Registration Form Template
+    pages:
+    - id: 1
+      name: section_participant_profile
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: registrant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registrant_age_years
+      label: Current Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: registrant_grade_level
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registrant_birth_date
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_guardian_contact_main
+      label: -- Parent / Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: main_guardian_name
+      label: Primary Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: main_guardian_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: main_guardian_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_alt
+      label: Secondary / Emergency Contact
+      hint: Name and Relationship
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_phone_alt
+      label: Emergency Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_medical_consent
+      label: -- Medical and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: medical_allergies_conditions_list
+      label: Medical Allergies or Conditions
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_cheer_experience_summary
+      label: Previous Cheerleading Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: liability_consent_agreement
+      label: Liability Waiver and Consent
+      hint: I allow my child to participate and release liability
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 16
+      name: registration_fee_status
+      label: Registration Fee Status
+      hint: null
+      type: select_one
+      options:
+      - Paid Online
+      - Will Bring Check
+      - Financial Aid Requested
+      required: true
+    - id: 17
+      name: form_submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

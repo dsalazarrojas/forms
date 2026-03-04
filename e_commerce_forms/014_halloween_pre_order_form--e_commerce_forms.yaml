@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Halloween Pre Order Form
+    pages:
+    - id: 1
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer_email
+      hint: Enter customer email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: quantity
+      label: product_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: select_one
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''T-Shirt''}'
+      - '{''id'': 2, ''label'': ''Tote Bag''}'
+      - '{''id'': 3, ''label'': ''Mug''}'
+      required: false
+    - id: 7
+      name: date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: special_instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

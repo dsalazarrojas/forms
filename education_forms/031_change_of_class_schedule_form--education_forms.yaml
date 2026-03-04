@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Class Schedule Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Student identification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student Email
+      hint: School email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grade_level
+      label: Grade Level or Year
+      hint: Current grade/year
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - 1st Year College
+      - 2nd Year College
+      - 3rd Year College
+      - 4th Year College
+      required: true
+    - id: 7
+      name: school_name
+      label: School or University Name
+      hint: Name of institution
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: academic_term
+      label: Academic Term
+      hint: Current term or semester
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Session
+      - Winter Break
+      required: true
+    - id: 9
+      name: current_class_1
+      label: Class to Drop - Course Name and Number
+      hint: Class you want to remove
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_class_1_time
+      label: Current Class - Meeting Time
+      hint: When the class meets
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_class_1_instructor
+      label: Current Class - Instructor Name
+      hint: Teacher name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_class_1
+      label: Class to Add - Course Name and Number
+      hint: Class you want to take
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_class_1_time
+      label: New Class - Meeting Time
+      hint: When the new class meets
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: new_class_1_instructor
+      label: New Class - Instructor Name
+      hint: Teacher name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_class_changes
+      label: Additional Class Changes Needed
+      hint: Any other class changes
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_change
+      label: Reason for Schedule Change
+      hint: Why are you changing classes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: change_deadline_aware
+      label: Aware of Change Deadline
+      hint: Know the deadline for changes
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 18
+      name: advisor_approval
+      label: Academic Advisor Approval
+      hint: Has advisor approved
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: false
+    - id: 19
+      name: advisor_name
+      label: Academic Advisor Name
+      hint: Your advisor's name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_acknowledgment
+      label: I Understand the Change Deadline
+      hint: Acknowledge deadline awareness
+      type: select_one
+      options:
+      - Yes, I Understand
+      - 'No'
+      required: true

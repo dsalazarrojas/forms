@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standardized Test Exam Form
+    pages:
+    - id: 1
+      name: test_taker_info
+      label: Test Taker Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exam_info
+      label: Exam Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_score
+      label: Test Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: test_result
+      label: Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Incomplete
+      - No Result
+      required: false
+    - id: 5
+      name: date_of_exam
+      label: Date of Exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_exam
+      label: Time of Exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: exam_center
+      label: Exam Center
+      hint: null
+      type: select_multiple
+      options:
+      - Center 1
+      - Center 2
+      - Center 3
+      required: false

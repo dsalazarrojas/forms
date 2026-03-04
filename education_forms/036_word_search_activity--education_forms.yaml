@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Word Search Activity
+    pages:
+    - id: 1
+      name: word_search_form
+      label: Word Search Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grid_size
+      label: Grid Size
+      hint: null
+      type: select_one
+      options:
+      - 10x10
+      - 12x12
+      - 15x15
+      - 20x20
+      required: false
+    - id: 3
+      name: grid_orientation
+      label: Grid Orientation
+      hint: null
+      type: select_one
+      options:
+      - Horizontal
+      - Vertical
+      required: false
+    - id: 4
+      name: grid_orientation_label
+      label: Grid Orientation Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: word_list
+      label: Word List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grid_cells
+      label: Grid Cells
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: background_color
+      label: Background Color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Blue
+      required: false
+    - id: 8
+      name: background_image
+      label: Background Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: font_color
+      label: Font Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Blue
+      required: false
+    - id: 10
+      name: font_size
+      label: Font Size
+      hint: null
+      type: select_one
+      options:
+      - 10pt
+      - 12pt
+      - 14pt
+      required: false
+    - id: 11
+      name: font_style
+      label: Font Style
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Italic
+      - Oblique
+      required: false
+    - id: 12
+      name: word_count
+      label: Word Count
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '10'
+      - '15'
+      required: false
+    - id: 13
+      name: word_type
+      label: Word Type
+      hint: null
+      type: select_one
+      options:
+      - Word list
+      - Phrase list
+      - Mixed list
+      required: false
+    - id: 14
+      name: word_description
+      label: Word Description
+      hint: null
+      type: select_one
+      options:
+      - Brief
+      - Short
+      - Long
+      required: false
+    - id: 15
+      name: word_list_example
+      label: Word List Example
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: education_level_survey
+    pages:
+    - id: 1
+      name: educational_background
+      label: Educational Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_level
+      label: current_level
+      hint: Enter current level (e.g., Elementary, Secondary, Tertiary)
+      type: select_one
+      options:
+      - Elementary
+      - Secondary
+      - Tertiary
+      required: false
+    - id: 3
+      name: current_level_other
+      label: current_level_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_age_group
+      label: Student Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - 18-20
+      - 21-24
+      - 25-29
+      - 30+
+      required: false
+    - id: 5
+      name: student_age_group_other
+      label: student_age_group_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: educational_attainment
+      label: Educational Attainment
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Some college
+      - College degree
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate degree
+      required: false
+    - id: 7
+      name: highest_degree_level
+      label: Highest Degree Level
+      hint: null
+      type: select_multiple
+      options:
+      - High school diploma
+      - Some college
+      - College degree
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      required: false
+    - id: 8
+      name: educational_institution
+      label: Educational Institution
+      hint: null
+      type: select_multiple
+      options:
+      - Public School
+      - Private School
+      - Online School
+      required: false
+    - id: 9
+      name: educational_institution_other
+      label: educational_institution_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_training
+      label: Teacher Training
+      hint: null
+      type: select_multiple
+      options:
+      - Basic training
+      - Intermediate training
+      - Advanced training
+      - Other training
+      required: false
+    - id: 11
+      name: teacher_training_other
+      label: teacher_training_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: educational_language
+      label: Educational Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Japanese
+      - Other language
+      required: false

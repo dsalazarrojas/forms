@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Teaching Innovation Index Survey
+    pages:
+    - id: 1
+      name: global_teaching_innovation_index_survey
+      label: Survey Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: institution_name
+      label: Institution Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: institution_address
+      label: Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department_name
+      label: Department Name
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Other
+      required: true
+    - id: 5
+      name: number_of_faculty_members
+      label: Number Of Faculty Members
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: number_of_employees
+      label: Number Of Employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_students
+      label: Number Of Students
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_part_time_fellows
+      label: Number Of Part-time Fellows
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: years_of_experience
+      label: Years Of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: innovation_in_english_language
+      label: Innovation in English Language
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Other
+      required: true
+    - id: 11
+      name: innovation_in_math
+      label: Innovation in Math
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Other
+      required: true
+    - id: 12
+      name: innovation_in_science
+      label: Innovation in Science
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Other
+      required: true
+    - id: 13
+      name: innovation_in_social_sciences
+      label: Innovation in Social Sciences
+      hint: null
+      type: select_one
+      options:
+      - Select One
+      - Other
+      required: true
+    - id: 14
+      name: innovation_in_english_language
+      label: Innovation in English Language
+      hint: null
+      type: select_multiple
+      options:
+      - Select One
+      - Select Two
+      - Select Three
+      required: false
+    - id: 15
+      name: innovation_in_math
+      label: Innovation in Math
+      hint: null
+      type: select_multiple
+      options:
+      - Select One
+      - Select Two
+      - Select Three
+      required: false
+    - id: 16
+      name: innovation_in_science
+      label: Innovation in Science
+      hint: null
+      type: select_multiple
+      options:
+      - Select One
+      - Select Two
+      - Select Three
+      required: false
+    - id: 17
+      name: innovation_in_social_sciences
+      label: Innovation in Social Sciences
+      hint: null
+      type: select_multiple
+      options:
+      - Select One
+      - Select Two
+      - Select Three
+      required: false
+    - id: 18
+      name: total_hours_per_week
+      label: Total Hours Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: innovation_rating
+      label: Innovation Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: average_hours_per_student
+      label: Average Hours Per Student
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: average_hours_per_faculty
+      label: Average Hours Per Faculty
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_funds_earmarked
+      label: Total Funds Earned
+      hint: null
+      type: number
+      options: []
+      required: false

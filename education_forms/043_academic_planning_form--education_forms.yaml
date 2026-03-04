@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Planning Form
+    pages:
+      - id: 1
+        name: section_student_info
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student identification number
+        hint: University ID or registration number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: program
+        label: Program or major
+        hint: Current program of study
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: academic_goals
+        label: Academic goals
+        hint: Short term and long term goals
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: planned_courses
+        label: Planned courses for next term
+        hint: Course codes or titles
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: support_needed
+        label: Support needed to meet goals
+        hint: Tutoring, advising, or resources
+        type: select_multiple
+        options:
+          - Academic advising
+          - Tutoring
+          - Financial assistance
+          - Mental health services
+          - Career counseling
+        required: false
+      - id: 8
+        name: timeline
+        label: Timeline for goals
+        hint: Expected milestones and dates
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: advisor_name
+        label: Advisor name
+        hint: Assigned academic advisor
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

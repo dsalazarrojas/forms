@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: School of Nursing Grading Report Form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: grading_period
+      label: grading_period
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Quarter 1''}'
+      - '{''id'': 2, ''label'': ''Quarter 2''}'
+      - '{''id'': 3, ''label'': ''Quarter 3''}'
+      required: false
+    - id: 4
+      name: assignment_name
+      label: assignment_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade
+      label: grade
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''0-49''}'
+      - '{''id'': 2, ''label'': ''50-59''}'
+      - '{''id'': 3, ''label'': ''60-69''}'
+      - '{''id'': 4, ''label'': ''70-79''}'
+      - '{''id'': 5, ''label'': ''80-89''}'
+      - '{''id'': 6, ''label'': ''90-100''}'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signed_by
+      label: signed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: grading_comments
+      label: grading_comments
+      hint: null
+      type: text
+      options: []
+      required: false

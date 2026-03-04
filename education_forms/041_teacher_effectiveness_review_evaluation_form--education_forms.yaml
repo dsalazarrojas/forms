@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Effectiveness Review Evaluation Form
+    pages:
+    - id: 1
+      name: teacher_performance_metrics
+      label: Teacher Performance Metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_cycle
+      label: Review Cycle
+      hint: The review cycle refers to the academic term
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Academic year
+      required: false
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher's Name
+      hint: Enter the teacher's name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_rating
+      label: Teacher's Rating
+      hint: Enter teacher's overall rating
+      type: select_multiple
+      options:
+      - High
+      - Good
+      - Fair
+      - Low
+      required: true
+    - id: 6
+      name: teacher_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: areas_of_strength
+      label: Areas of Strength
+      hint: List areas where the teacher excels
+      type: select_multiple
+      options:
+      - Lesson planning
+      - Classroom environment
+      - Assessment
+      - Communication
+      required: true
+    - id: 8
+      name: areas_of_improvement
+      label: Areas for Improvement
+      hint: List areas where the teacher needs improvement
+      type: select_multiple
+      options:
+      - Classroom management
+      - Parent-teacher communication
+      - Time management
+      - Technology integration
+      required: true
+    - id: 9
+      name: evaluation_comments
+      label: Evaluator's Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluator_name
+      label: Evaluator's Name
+      hint: Enter the evaluator's name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluator_position
+      label: Evaluator's Position
+      hint: Enter the evaluator's position
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - Head of Department
+      - Department Head
+      - Chairperson
+      required: true
+    - id: 13
+      name: reviewers_position
+      label: Reviewers Position
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: hand_hygiene_education_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What do you do to wash your hands?
+      hint: Describe your hand washing practices
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_2
+      label: How often do you wash your hands after using the bathroom?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: question_3
+      label: Do you wash your hands after blowing your nose?
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: true
+    - id: 5
+      name: question_4
+      label: Do you wash your hands after eating?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 6
+      name: question_5
+      label: Do you cover your mouth when coughing?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 7
+      name: question_6
+      label: Do you wash your hands before eating?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 8
+      name: question_7
+      label: Do you use hand sanitizer when soap is not available?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 9
+      name: question_8
+      label: Have you ever had a hand infection?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: question_9
+      label: Do you think this survey was helpful?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - not sure
+      required: true
+    - id: 11
+      name: question_10
+      label: Have you received hand hygiene training in the past 6 months?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: false
+    - id: 12
+      name: question_11
+      label: What type of hand hygiene education have you received?
+      hint: null
+      type: select_one
+      options:
+      - verbal
+      - written
+      - online
+      - hands on
+      - other
+      required: false
+    - id: 13
+      name: question_12
+      label: Have you ever received any hand hygiene education or training?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 14
+      name: question_13
+      label: Do you have any concerns about your hand hygiene practices?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 15
+      name: question_14
+      label: How often do you perform hand hygiene after using public transportation?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: question_15
+      label: Do you wash your hands after handling waste or garbage?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 17
+      name: question_17
+      label: Do you have a designated hand hygiene area or station?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 18
+      name: question_18
+      label: Have you ever used hand sanitizer?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: false
+    - id: 19
+      name: question_19
+      label: Do you perform hand hygiene before administering medications?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 20
+      name: question_20
+      label: Do you clean your hands before preparing food?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 21
+      name: question_21
+      label: Do you use hand sanitizer before eating?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 22
+      name: question_22
+      label: Do you have access to hand soap?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 23
+      name: question_23
+      label: Are there hand hygiene stations near you?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - never
+      required: true
+    - id: 24
+      name: question_24
+      label: Do you have any suggestions to improve hand hygiene practices?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: question_25
+      label: Do you have any concerns about hand hygiene practices?
+      hint: null
+      type: note
+      options: []
+      required: false

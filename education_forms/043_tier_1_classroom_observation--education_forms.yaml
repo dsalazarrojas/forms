@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tier 1 Classroom Observation
+    pages:
+    - id: 1
+      name: classroom_observation
+      label: classroom_observation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school
+      label: school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '6'
+      - '9'
+      - '12'
+      required: false
+    - id: 5
+      name: classroom_observation_date
+      label: classroom_observation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: student_population
+      label: student_population
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_students
+      label: total_students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: number
+      options: []
+      required: false

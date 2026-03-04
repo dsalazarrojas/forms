@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beer Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Shipping Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: age_verification
+      label: Age Verification
+      hint: I confirm I am 21 years or older
+      type: select_one
+      options:
+      - Yes I am 21 or older
+      - No I am under 21
+      required: true
+    - id: 7
+      name: order_type
+      label: Order Type
+      hint: Type of order
+      type: select_one
+      options:
+      - Individual Purchase
+      - Subscription
+      - Wholesale
+      - Event or Catering
+      - Gift Order
+      required: true
+    - id: 8
+      name: beer_selection
+      label: Beer Selection
+      hint: Select beers to order
+      type: select_multiple
+      options:
+      - IPA
+      - Pale Ale
+      - Stout
+      - Porter
+      - Lager
+      - Pilsner
+      - Wheat Beer
+      - Sour Beer
+      - Seasonal
+      - Variety Pack
+      - Mixed Case
+      required: true
+    - id: 9
+      name: quantity
+      label: Quantity
+      hint: Number of cases or packs
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: package_size
+      label: Package Size
+      hint: Preferred package size
+      type: select_one
+      options:
+      - 6-Pack
+      - 12-Pack
+      - 24-Pack
+      - Case (30 cans)
+      - Half Barrel Keg
+      - Quarter Barrel Keg
+      - Sixth Barrel Keg
+      required: true
+    - id: 11
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - Home Delivery
+      - Store Pickup
+      - Brewery Pickup
+      - Shipping
+      required: true
+    - id: 12
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When would you like delivery
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: shipping_method
+      label: Shipping Method
+      hint: Select shipping speed
+      type: select_one
+      options:
+      - Standard (5-7 days)
+      - Expedited (2-3 days)
+      - Express (1-2 days)
+      - Not Applicable
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      required: true
+    - id: 15
+      name: subscription_frequency
+      label: Subscription Frequency
+      hint: If subscribing how often
+      type: select_one
+      options:
+      - Not Applicable
+      - Monthly
+      - Every 2 Months
+      - Quarterly
+      - Twice a Year
+      required: false
+    - id: 16
+      name: special_occasion
+      label: Special Occasion
+      hint: Is this for a special occasion
+      type: select_one
+      options:
+      - false
+      - Birthday
+      - Anniversary
+      - Wedding
+      - Holiday
+      - Housewarming
+      - Other
+      required: false
+    - id: 17
+      name: gift_message
+      label: Gift Message
+      hint: Message to include if gift
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: promotional_code
+      label: Promotional Code
+      hint: If you have a promo code
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_notes
+      label: Order Notes
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: estimated_total
+      label: Estimated Total
+      hint: Approximate order total
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to all terms
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true
+    - id: 22
+      name: alcohol_warning
+      label: Alcohol Warning Acknowledgment
+      hint: I understand the risks of alcohol consumption
+      type: select_one
+      options:
+      - I acknowledge
+      - I do not acknowledge
+      required: true
+    - id: 23
+      name: order_date
+      label: Order Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,67 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Scholar Progress Survey
+    pages:
+    - id: 1
+      name: student_academic_period
+      label: selected_academic_period
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      required: true
+    - id: 2
+      name: student_academic_ratings
+      label: overall_academic_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Satisfactory
+      - Needs Improvement
+      required: false
+    - id: 3
+      name: student_strengths
+      label: student_strengths
+      hint: Please list student strengths
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_goals
+      label: student_goals
+      hint: Please list student goals
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_recommendations
+      label: teacher_recommendations
+      hint: Please list teacher recommendations
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_recommendations
+      label: student_recommendations
+      hint: Please list any additional comments or recommendations
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Integrity Form
+    pages:
+      - id: 1
+        name: section_incident_report
+        label: -- Incident Report --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Reporter name
+        hint: Your name if not anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: reporter_contact
+        label: Reporter contact email
+        hint: For follow up if applicable
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: incident_date
+        label: Date of incident
+        hint: Date when the incident occurred
+        type: date
+        options: []
+        required: false
+      - id: 5
+        name: accused_person
+        label: Accused person or parties
+        hint: Name(s) if known
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: description_of_incident
+        label: Description of incident
+        hint: Detailed account of events
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: evidence_provided
+        label: Evidence provided
+        hint: Attachments or descriptions of evidence
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: desired_outcome
+        label: Desired outcome from report
+        hint: What resolution do you seek
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: confidentiality_requested
+        label: Confidentiality requested
+        hint: Whether reporter requests confidentiality
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: signature
+        label: Signature name
+        hint: Type full name to confirm report
+        type: text
+        options: []
+        required: false

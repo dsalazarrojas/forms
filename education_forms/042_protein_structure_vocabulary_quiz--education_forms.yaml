@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: protein_structure_vocabulary_quiz
+    pages:
+    - id: 1
+      name: quiz_start
+      label: Quiz Start
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: protein_name
+      label: protein_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: protein_function
+      label: protein_function
+      hint: null
+      type: select_multiple
+      options:
+      - alpha helix
+      - beta sheet
+      - coiled coil
+      required: false
+    - id: 4
+      name: protein_domain
+      label: protein_domain
+      hint: null
+      type: select_one
+      options:
+      - intracellular
+      - extracellular
+      required: false
+    - id: 5
+      name: amino_acid
+      label: amino_acid
+      hint: null
+      type: select_multiple
+      options:
+      - alanine
+      - arginine
+      - asparagine
+      - glutamic
+      - glutamine
+      - glycine
+      - isoleucine
+      - leucine
+      - lysine
+      - methionine
+      - phenilalanine
+      - proline
+      - serine
+      - threonine
+      - valine
+      required: false
+    - id: 6
+      name: protein_structure
+      label: protein_structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: correct_answer
+      label: correct_answer
+      hint: null
+      type: select_multiple
+      options:
+      - 3D
+      - alpha helix
+      - beta sheet
+      - coiled coil
+      required: false
+    - id: 8
+      name: protein_sequence
+      label: protein_sequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: end_of_quiz
+      label: End of Quiz
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

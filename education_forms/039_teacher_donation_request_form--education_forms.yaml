@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Donation Request Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: amount_requested
+      label: amount_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Admissions Process Survey
+    pages:
+    - id: 1
+      name: application_submission
+      label: Application Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: communication_channel_2
+      label: Communication Channel 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: contact_person_2
+      label: Contact Person 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_2
+      label: Follow up 2
+      hint: null
+      type: time
+      options: []
+      required: false

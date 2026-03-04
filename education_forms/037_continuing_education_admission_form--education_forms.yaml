@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education Admission Form
+    pages:
+      - id: 1
+        name: applicant_identity_header
+        label: -- Personal Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name_legal
+        label: Legal Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: social_security_last_four
+        label: Last 4 digits of SSN/ID
+        hint: For student record matching only
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: academic_background_header
+        label: -- Academic and Professional Background --
+        hint: Tell us about your previous experience
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: highest_degree_earned
+        label: Highest Degree Earned
+        hint: null
+        type: select_one
+        options:
+          - High School Diploma/GED
+          - Associate Degree
+          - Bachelor Degree
+          - Master Degree
+          - Doctorate/Professional Degree
+          - None of the above
+        required: true
+      - id: 7
+        name: previous_institution_name
+        label: Name of Most Recent Educational Institution
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: current_employment_status
+        label: Current Employment Status
+        hint: null
+        type: select_one
+        options:
+          - Employed Full-time
+          - Employed Part-time
+          - Self-employed
+          - Unemployed/Seeking work
+          - Retired
+        required: true
+      - id: 9
+        name: admission_details_header
+        label: -- Admission Interests --
+        hint: Select your intended program of study
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: program_of_interest
+        label: Continuing Education Program
+        hint: null
+        type: select_one
+        options:
+          - Professional Certificate in Management
+          - Technical Skills Accelerator (IT)
+          - Healthcare Administration Update
+          - Creative Arts and Design Series
+          - Language Proficiency Program
+        required: true
+      - id: 11
+        name: motivation_for_admission
+        label: Statement of Intent
+        hint: Why are you applying to this program at this time (Max 200 words)
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: transcript_delivery_method
+        label: How will you provide previous transcripts
+        hint: null
+        type: select_one
+        options:
+          - Digital Upload (attached to email)
+          - Official Mail from Institution
+          - No transcripts required for this program
+        required: true
+      - id: 13
+        name: application_signature_date
+        label: Date of Application
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: applicant_digital_signature
+        label: Applicant Digital Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true

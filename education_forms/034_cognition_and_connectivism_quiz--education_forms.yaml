@@ -1,0 +1,212 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cognition And Connectivism Quiz
+    pages:
+      - id: 1
+        name: section_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: institution
+        label: Institution or Organization
+        hint: School or company name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: course_code
+        label: Course or Program Code
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: section_questions
+        label: -- Quiz Questions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: q1_cognition
+        label: Question 1 - What is cognition primarily concerned with
+        hint: null
+        type: select_one
+        options:
+          - Memory storage and retrieval
+          - Mental processes and knowledge
+          - Behavioral responses
+          - Social interactions
+        required: true
+      - id: 8
+        name: q2_piaget
+        label: Question 2 - Piaget's theory focuses on
+        hint: null
+        type: select_one
+        options:
+          - Social learning
+          - Cognitive development stages
+          - Behavioral conditioning
+          - Cultural context
+        required: true
+      - id: 9
+        name: q3_connectivism
+        label: Question 3 - Connectivism emphasizes
+        hint: null
+        type: select_one
+        options:
+          - Individual knowledge creation
+          - Learning through network connections
+          - Teacher-centered instruction
+          - Memorization of facts
+        required: true
+      - id: 10
+        name: q4_siemens
+        label: Question 4 - Who is a key theorist in connectivism
+        hint: null
+        type: select_one
+        options:
+          - Jean Piaget
+          - Lev Vygotsky
+          - George Siemens
+          - B.F. Skinner
+        required: true
+      - id: 11
+        name: q5_learning_network
+        label: Question 5 - In connectivism, learning happens through
+        hint: null
+        type: select_one
+        options:
+          - Formal instruction
+          - Network relationships and diversity
+          - Individual reflection
+          - Competitive assessment
+        required: true
+      - id: 12
+        name: q6_metacognition
+        label: Question 6 - Metacognition refers to
+        hint: null
+        type: select_one
+        options:
+          - Ability to memorize facts
+          - Thinking about your own thinking
+          - Social awareness
+          - Physical coordination
+        required: true
+      - id: 13
+        name: q7_schema
+        label: Question 7 - A schema in cognitive theory is
+        hint: null
+        type: select_one
+        options:
+          - A learning schedule
+          - A diagram or plan
+          - A mental framework for understanding
+          - A behavioral pattern
+        required: true
+      - id: 14
+        name: q8_distributed
+        label: Question 8 - Distributed cognition theory suggests
+        hint: null
+        type: select_one
+        options:
+          - Cognition is spread across people and tools
+          - Intelligence is fixed at birth
+          - Learning is individual only
+          - Environment has no role
+        required: true
+      - id: 15
+        name: q9_situated_learning
+        label: Question 9 - Situated learning theory emphasizes
+        hint: null
+        type: select_one
+        options:
+          - Learning independent of context
+          - Learning within specific contexts
+          - Classroom instruction only
+          - Abstract problem-solving
+        required: true
+      - id: 16
+        name: q10_nodes
+        label: Question 10 - In connectivism, nodes represent
+        hint: null
+        type: select_one
+        options:
+          - Physical classrooms
+          - Individuals, groups, systems, and information sources
+          - Assessment tools
+          - Textbooks
+        required: true
+      - id: 17
+        name: section_reflection
+        label: -- Reflection Questions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: confidence_level
+        label: How confident are you in your answers
+        hint: Rate from 1 - not confident to 5 - very confident
+        type: select_one
+        options:
+          - "1 - Not confident"
+          - "2 - Somewhat unconfident"
+          - "3 - Moderately confident"
+          - "4 - Quite confident"
+          - "5 - Very confident"
+        required: true
+      - id: 19
+        name: strongest_area
+        label: Which area did you find strongest
+        hint: null
+        type: select_one
+        options:
+          - Cognition concepts
+          - Connectivism concepts
+          - Both equally
+          - Neither area
+        required: false
+      - id: 20
+        name: improvement_areas
+        label: Areas needing more study
+        hint: Topics that were unclear
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Feedback on the quiz
+        type: text
+        options: []
+        required: false

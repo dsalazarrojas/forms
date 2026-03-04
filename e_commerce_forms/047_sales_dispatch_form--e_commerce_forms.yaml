@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Dispatch Form
+    pages:
+    - id: 1
+      name: sale
+      label: sale
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: dispatch_date
+      label: dispatch date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_number
+      label: order number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false

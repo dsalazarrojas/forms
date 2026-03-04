@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fluid And Blood Knowledge Quiz
+    pages:
+    - id: 1
+      name: first_question
+      label: First Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - AB
+      - O
+      required: true
+    - id: 3
+      name: rh_factor
+      label: Rh Factor
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      required: true
+    - id: 4
+      name: blood_pressure
+      label: Blood Pressure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pulse_reading
+      label: Pulse Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: temperature_reading
+      label: Temperature Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: breathing_rate
+      label: Breathing Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: note
+      options: []
+      required: false

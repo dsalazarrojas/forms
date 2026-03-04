@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orientation Log Submission
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: orientation_type
+      label: Orientation Type
+      hint: null
+      type: select_one
+      options:
+      - New Hire
+      - New Student
+      - New Employee
+      - New Faculty
+      - New Staff
+      - New Parent
+      - New Volunteer
+      - Other
+      required: false
+    - id: 3
+      name: topics_covered
+      label: Topics Covered
+      hint: null
+      type: select_multiple
+      options:
+      - Introduction
+      - Policies
+      - Code of Conduct
+      - Emergency Procedures
+      - Other
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: orientation_date
+      label: Orientation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: orientation_time
+      label: Orientation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_facilitator
+      label: Session Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_facilitators
+      label: Session Facilitators
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 12
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false

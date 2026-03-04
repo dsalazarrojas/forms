@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Cancellation Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher or Instructor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_email
+      label: Email Address
+      hint: School email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: teacher_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department or Division
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: class_name
+      label: Class or Course Name
+      hint: e.g. Mathematics 101
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: class_section
+      label: Section Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: class_code
+      label: Course Code
+      hint: e.g. MATH101-001
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: original_date
+      label: Original Class Date
+      hint: Date being cancelled
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: original_time
+      label: Original Class Time
+      hint: Scheduled time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: cancellation_type
+      label: Type of Cancellation
+      hint: Select the type
+      type: select_one
+      options:
+      - Class cancelled
+      - Class rescheduled
+      - Class moved online
+      - Instructor absent
+      - Emergency closure
+      - Other
+      required: true
+    - id: 11
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Select the reason
+      type: select_one
+      options:
+      - Illness
+      - Family emergency
+      - Weather conditions
+      - Facility issues
+      - Professional development
+      - Conference or travel
+      - Personal reasons
+      - Other
+      required: true
+    - id: 12
+      name: reason_details
+      label: Additional Details
+      hint: Explain if needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reschedule_date
+      label: Rescheduled Date
+      hint: If rescheduling
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reschedule_time
+      label: Rescheduled Time
+      hint: New time if applicable
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: reschedule_location
+      label: Rescheduled Location
+      hint: If different from original
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: makeup_class_required
+      label: Is a Makeup Class Required
+      hint: Select yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 17
+      name: alternative_assignment
+      label: Will There Be an Alternative Assignment
+      hint: For students to complete
+      type: select_one
+      options:
+      - Yes, assignment will be posted
+      - Yes, reading assignment
+      - Yes, online activity
+      - No alternative assignment
+      - Undecided
+      required: true
+    - id: 18
+      name: assignment_details
+      label: Assignment Details
+      hint: Describe the assignment
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notification_method
+      label: How Will Students Be Notified
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email
+      - Learning management system
+      - Text message
+      - Phone call
+      - Department office
+      - Class website
+      required: true
+    - id: 20
+      name: notification_sent
+      label: Has Notification Been Sent
+      hint: To students
+      type: select_one
+      options:
+      - Yes, already sent
+      - Sending now
+      - Will send shortly
+      required: true
+    - id: 21
+      name: supervisor_notified
+      label: Has Your Supervisor Been Notified
+      hint: Department head or principal
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments or Instructions
+      hint: For students or administration
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Curriculum Review Committee Registration
+    pages:
+    - id: 1
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: areas_of_expertise
+      label: Areas of Expertise
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English Language and Literature'', ''id'': 1}'
+      - '{''label'': ''French Language and Culture'', ''id'': 2}'
+      - '{''label'': ''Mathematics'', ''id'': 3}'
+      required: false
+    - id: 3
+      name: member_consent
+      label: Member Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I understand and agree to this form'', ''id'': 1}'
+      - '{''label'': ''I do not understand or disagree with this form'', ''id'': 2}'
+      required: true
+    - id: 4
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_position
+      label: Member Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: member_phone
+      label: Member Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submission_location
+      label: Submission Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Reviewer 1'', ''id'': 1}'
+      - '{''label'': ''Reviewer 2'', ''id'': 2}'
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved'', ''id'': 1}'
+      - '{''label'': ''Not Approved'', ''id'': 2}'
+      required: true
+    - id: 15
+      name: submission_date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submission_time_approved
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submission_comments_approved
+      label: Comments Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: submission_time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: submission_comments_reviewed
+      label: Comments Reviewed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_status_reviewed
+      label: Submission Status Reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approved'', ''id'': 1}'
+      - '{''label'': ''Not Approved'', ''id'': 2}'
+      required: true
+    - id: 22
+      name: submission_date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submission_time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: submission_comments_submitted
+      label: Comments Submitted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_reviewers_submitted
+      label: Reviewers Submitted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Reviewer 1'', ''id'': 1}'
+      - '{''label'': ''Reviewer 2'', ''id'': 2}'
+      required: false

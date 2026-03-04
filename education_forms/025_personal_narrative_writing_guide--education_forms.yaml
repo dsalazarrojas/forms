@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Narrative Writing Guide
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_story
+      label: Background Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: writing_goals
+      label: Writing Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: current_position
+      label: Current Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: narrative_plan
+      label: Narrative Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: next_step
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: final_checklist
+      label: Final Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

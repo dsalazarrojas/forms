@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Educators Book Club Registration
+    pages:
+    - id: 1
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interests
+      label: Interests
+      hint: What subjects do you teach or are interested in?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: When are you available to meet?
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: book_club_interests
+      label: Book Club Interests
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_to_other
+      label: Other
+      hint: Other assigned individual or group
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Notes
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: text
+      options: []
+      required: false

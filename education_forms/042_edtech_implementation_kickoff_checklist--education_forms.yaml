@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: EdTech Implementation Kickoff Checklist
+    pages:
+    - id: 1
+      name: confirm_technology_readiness
+      label: confirm-technology-readiness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: confirm_stakeholder_engagement
+      label: confirm-stakeholder-engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: identify_implementation_roles
+      label: identify-implementation-roles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: confirm_stakeholder_roles
+      label: confirm-stakeholder-roles
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confirm_technology_budget
+      label: confirm-technology-budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: confirm_technology_plan
+      label: confirm-technology-plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: confirm_project_schedule
+      label: confirm-project-schedule
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: confirm_training_plan
+      label: confirm-training-plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: confirm_project_review
+      label: confirm-project-review
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: confirm_technology_rollout
+      label: confirm-technology-rollout
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: confirm_project_schedule
+      label: confirm-project-schedule
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: confirm_technical_support_plan
+      label: confirm-technical-support-plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: confirm_project_review
+      label: confirm-project-review
+      hint: null
+      type: time
+      options: []
+      required: true

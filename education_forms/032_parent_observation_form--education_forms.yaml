@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Observation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: select_one
+      options:
+      - Student Name
+      - Student ID
+      - Student Class
+      required: false
+    - id: 3
+      name: observations
+      label: Observations
+      hint: Please provide observations about the student
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: select_one
+      options:
+      - Parent A
+      - Parent B
+      - Parent C
+      required: false
+    - id: 6
+      name: email_parent
+      label: Email Parent
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_parent
+      label: Phone Parent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_name
+      label: Teacher
+      hint: null
+      type: select_multiple
+      options:
+      - Teacher A
+      - Teacher B
+      - Teacher C
+      required: false
+    - id: 9
+      name: date_observe
+      label: Date of Observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_observe
+      label: Time of Observation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_teacher
+      label: Teacher Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_parent
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

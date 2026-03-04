@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Service Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of person making request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_role
+      label: Requestor Role or Title
+      hint: Student, staff, faculty, etc.
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Department
+      - Organization
+      - Other
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department_affiliation
+      label: Department or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_type
+      label: Type of Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Maintenance or Repairs
+      - Facilities Support
+      - Technology Support
+      - Catering or Food Service
+      - Custodial Services
+      - Security
+      - Grounds Maintenance
+      - Other
+      required: true
+    - id: 8
+      name: service_description
+      label: Description of Service Needed
+      hint: Detailed explanation of request
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location for Service
+      hint: Building, room number, or area
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_date
+      label: Date Service is Needed
+      hint: When do you need the service
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: service_time
+      label: Preferred Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: duration_estimate
+      label: Estimated Duration
+      hint: How long will it take
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - Half day
+      - Full day
+      - Multiple days
+      - Ongoing
+      required: true
+    - id: 13
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Urgent
+      - Standard
+      - Low Priority
+      required: true
+    - id: 14
+      name: specific_requirements
+      label: Specific Requirements or Special Instructions
+      hint: Any special considerations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_budget
+      label: Estimated Budget or Cost
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: budget_code
+      label: Budget Code or Account Number
+      hint: For billing purposes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: access_requirements
+      label: Special Access or Key Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_during_service
+      label: Contact Name During Service
+      hint: Who should be present or contacted
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_phone_service
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_obtained
+      label: Appropriate Approvals Obtained
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: true
+    - id: 21
+      name: supervisor_name
+      label: Supervisor or Manager Name
+      hint: Authorizing this request
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: priority_number
+      label: Request Priority Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

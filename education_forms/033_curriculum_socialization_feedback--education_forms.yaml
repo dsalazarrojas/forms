@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Socialization Feedback
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_comments
+      label: Overall Comments
+      hint: null
+      type: note
+      options: []
+      required: false

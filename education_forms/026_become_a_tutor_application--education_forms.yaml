@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Become A Tutor Application
+    pages:
+    - id: 1
+      name: section_applicant_contact
+      label: -- Applicant Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_academic_background
+      label: -- Academic Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_education_level
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctoral Degree
+      required: true
+    - id: 8
+      name: current_major_or_profession
+      label: Current Major or Profession
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: subjects_to_tutor
+      label: Subjects You Are Qualified to Tutor
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Mathematics (Basic to Algebra)
+      - Advanced Mathematics (Calculus, Statistics)
+      - English Literature and Composition
+      - Science (Biology, Chemistry, Physics)
+      - History and Social Studies
+      - Foreign Languages
+      - Test Prep (SAT, ACT, GRE)
+      required: true
+    - id: 10
+      name: tutoring_experience_years
+      label: Previous Tutoring Experience (Years)
+      hint: Enter 0 if none
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_tutoring_preferences
+      label: -- Tutoring Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_student_level
+      label: Preferred Student Grade Level
+      hint: null
+      type: select_multiple
+      options:
+      - Elementary (K-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      - College / Adult
+      required: true
+    - id: 13
+      name: tutoring_format
+      label: Preferred Tutoring Format
+      hint: null
+      type: select_one
+      options:
+      - In-Person
+      - Online / Remote
+      - Both In-Person and Online
+      required: true
+    - id: 14
+      name: weekly_availability_hours
+      label: Estimated Hours Available Per Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: background_check_consent
+      label: I consent to a background check as part of the application process
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 16
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: personal_statement
+      label: Why do you want to become a tutor?
+      hint: Briefly describe your teaching philosophy
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Analysis Of Student Work Sample
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Enter the full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Enter the unique student identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: Grade Level
+      hint: Select the current grade level
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: Name of the teacher conducting the analysis
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_work_sample
+      label: -- Work Sample Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: subject_area
+      label: Subject Area
+      hint: Select the subject of the work sample
+      type: select_one
+      options:
+      - Mathematics
+      - Reading
+      - Writing
+      - Science
+      - Social Studies
+      - Art
+      - Physical Education
+      required: true
+    - id: 8
+      name: assignment_title
+      label: Assignment Title
+      hint: Enter the title or name of the assignment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_completed
+      label: Date Completed
+      hint: Select the date the work was completed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: learning_objective
+      label: Learning Objective
+      hint: Describe the learning objective being assessed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_analysis
+      label: -- Analysis and Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: mastery_level
+      label: Mastery Level
+      hint: Select the overall mastery level demonstrated
+      type: select_one
+      options:
+      - Not Yet Demonstrated
+      - Beginning
+      - Developing
+      - Proficient
+      - Advanced
+      required: true
+    - id: 13
+      name: strengths_identified
+      label: Strengths Identified
+      hint: List the strengths demonstrated in the work sample
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Identify specific areas where the student needs growth
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: next_steps
+      label: Next Steps for Instruction
+      hint: Describe instructional next steps based on the analysis
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: accommodations_used
+      label: Accommodations Used
+      hint: List any accommodations provided during this assignment
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any other relevant observations or notes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: analysis_date
+      label: Date of Analysis
+      hint: Select the date this analysis was completed
+      type: date
+      options: []
+      required: true

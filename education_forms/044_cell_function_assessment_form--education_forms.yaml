@@ -1,0 +1,256 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cell Function Assessment Form
+    pages:
+      - id: 1
+        name: section_student_info
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student ID Number
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: class_name
+        label: Class Name or Course
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: assessment_date
+        label: Assessment Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_cell_structures
+        label: -- Cell Structures and Organelles --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: question_1_nucleus
+        label: What is the primary function of the nucleus?
+        hint: null
+        type: select_one
+        options:
+          - Control of cell activities and storage of genetic material
+          - Energy production for the cell
+          - Protein synthesis
+          - Transport of molecules
+          - Cell movement
+        required: true
+      - id: 8
+        name: question_2_mitochondria
+        label: Mitochondria are known as the powerhouse of the cell because they
+        hint: null
+        type: select_one
+        options:
+          - Produce ATP through cellular respiration
+          - Store genetic material
+          - Synthesize proteins
+          - Create cell wall components
+          - Filter waste products
+        required: true
+      - id: 9
+        name: question_3_ribosome_function
+        label: What is the function of ribosomes?
+        hint: null
+        type: select_one
+        options:
+          - Protein synthesis
+          - DNA replication
+          - Energy storage
+          - Waste removal
+          - Cell division
+        required: true
+      - id: 10
+        name: question_4_golgi_apparatus
+        label: The Golgi apparatus is primarily involved in
+        hint: null
+        type: select_one
+        options:
+          - Processing and packaging of proteins
+          - Photosynthesis
+          - Storage of water
+          - Cell wall formation
+          - Breaking down waste
+        required: true
+      - id: 11
+        name: section_membrane_transport
+        label: -- Membrane and Transport --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: question_5_cell_membrane
+        label: The cell membrane controls
+        hint: null
+        type: select_one
+        options:
+          - What enters and leaves the cell
+          - Cell division
+          - Photosynthesis
+          - Digestion of food
+          - Storage of minerals
+        required: true
+      - id: 13
+        name: question_6_osmosis
+        label: Osmosis is the movement of
+        hint: null
+        type: select_one
+        options:
+          - Water across a semipermeable membrane
+          - Glucose molecules
+          - Proteins
+          - Salts only
+          - Light energy
+        required: true
+      - id: 14
+        name: question_7_active_transport
+        label: Active transport requires
+        hint: null
+        type: select_one
+        options:
+          - Energy (ATP) to move substances against concentration gradient
+          - Only water molecules
+          - No energy input
+          - Photons only
+          - Heat only
+        required: true
+      - id: 15
+        name: section_cell_processes
+        label: -- Cell Processes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: question_8_photosynthesis
+        label: Photosynthesis primarily occurs in
+        hint: null
+        type: select_one
+        options:
+          - Chloroplasts
+          - Mitochondria
+          - Nucleus
+          - Ribosomes
+          - Golgi apparatus
+        required: true
+      - id: 17
+        name: question_9_respiration
+        label: Cellular respiration breaks down glucose to produce
+        hint: null
+        type: select_one
+        options:
+          - ATP and carbon dioxide
+          - Oxygen and water
+          - Proteins and lipids
+          - Chlorophyll and glucose
+          - Glucose and oxygen
+        required: true
+      - id: 18
+        name: question_10_enzyme_function
+        label: Enzymes function by
+        hint: null
+        type: select_one
+        options:
+          - Speeding up chemical reactions without being consumed
+          - Slowing down reactions
+          - Storing energy
+          - Blocking transport
+          - Creating new molecules
+        required: true
+      - id: 19
+        name: section_prokaryotic_eukaryotic
+        label: -- Prokaryotic and Eukaryotic Cells --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: question_11_prokaryotic
+        label: Which of the following is a prokaryotic cell?
+        hint: null
+        type: select_one
+        options:
+          - Bacteria
+          - Plant cell
+          - Animal cell
+          - Fungi
+          - Protist
+        required: true
+      - id: 21
+        name: question_12_difference
+        label: A key difference between prokaryotic and eukaryotic cells is
+        hint: null
+        type: select_one
+        options:
+          - Eukaryotes have a membrane-bound nucleus
+          - Prokaryotes are larger
+          - Eukaryotes lack cell membranes
+          - Prokaryotes have mitochondria
+          - They have no differences
+        required: true
+      - id: 22
+        name: section_student_confidence
+        label: -- Student Confidence --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: confidence_level
+        label: Your Overall Confidence in Cell Biology
+        hint: null
+        type: select_one
+        options:
+          - Very Confident
+          - Confident
+          - Somewhat Confident
+          - Not Very Confident
+          - Not Confident
+        required: true
+      - id: 24
+        name: difficult_topics
+        label: Most Difficult Topics Covered
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: study_recommendations
+        label: Study or Learning Support Recommendations
+        hint: null
+        type: text
+        options: []
+        required: false

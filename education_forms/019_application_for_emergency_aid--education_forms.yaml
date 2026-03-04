@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Emergency Aid
+    pages:
+    - id: 1
+      name: student_name
+      label: Student name
+      hint: Full name of student requesting aid
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: University or college ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Student contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: emergency_type
+      label: Type of emergency
+      hint: Brief category of the emergency
+      type: select_one
+      options:
+      - Medical
+      - Housing
+      - Financial
+      - Family
+      - Other
+      required: true
+    - id: 5
+      name: description
+      label: Description of emergency
+      hint: Explain circumstances and immediate needs
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: amount_requested
+      label: Amount requested
+      hint: Financial amount requested
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents filename
+      hint: Indicate uploaded files such as bills or statements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact
+      label: Preferred contact method
+      hint: How student prefers to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 9
+      name: study_status
+      label: Study status
+      hint: Current enrollment status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Not enrolled
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information to assist review
+      type: text
+      options: []
+      required: false

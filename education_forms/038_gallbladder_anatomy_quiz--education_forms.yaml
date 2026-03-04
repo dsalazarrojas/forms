@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gallbladder Anatomy Quiz
+    pages:
+    - id: 1
+      name: gallbladder_anatomy_quiz_form_1
+      label: Anatomy Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gallbladder_anatomy_quiz_form_2
+      label: Quiz Question 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: gallbladder_anatomy_quiz_form_3
+      label: Quiz Question 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: gallbladder_anatomy_quiz_form_4
+      label: Quiz Question 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gallbladder_anatomy_quiz_form_5
+      label: Quiz Question 4
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: gallbladder_anatomy_quiz_form_6
+      label: Review Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gallbladder_anatomy_quiz_form_7
+      label: Anatomy Quiz Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gallbladder_anatomy_quiz_form_8
+      label: Quiz Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

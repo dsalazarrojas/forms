@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: hifz_class_assessment_form
+    pages:
+    - id: 1
+      name: hifz_class_progress
+      label: Class Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hifz_class_participants
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - Student 1
+      - Student 2
+      required: false
+    - id: 3
+      name: hifz_class_start_date
+      label: Start Date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: hifz_class_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hifz_class_assessment_frequency
+      label: Assessment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every week
+      - Quarterly
+      - Monthly
+      required: false
+    - id: 6
+      name: hifz_class_total_sheets_assessed
+      label: Total Sheets Assessed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hifz_class_total_corrected
+      label: Total Corrected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hifz_class_assessments
+      label: Assessments
+      hint: null
+      type: select_multiple
+      options:
+      - Corrected
+      - Partially Corrected
+      - Not Corrected
+      required: false
+    - id: 9
+      name: hifz_class_progress_percent
+      label: Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: hifz_class_note
+      label: Note
+      hint: Additional notes about the class
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: hifz_class_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: hifz_class_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hifz_class_address
+      label: Address
+      hint: Address
+      type: text
+      options: []
+      required: false

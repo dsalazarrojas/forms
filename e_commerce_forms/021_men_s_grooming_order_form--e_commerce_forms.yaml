@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Men’s Grooming Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_option
+      label: delivery_option
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: false
+    - id: 4
+      name: payment_option
+      label: payment_option
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Other
+      required: false
+    - id: 5
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false

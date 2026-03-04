@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law School Application Deadline Tracker
+    pages:
+    - id: 1
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Application Received
+      - Application Under Review
+      - Interview Scheduled
+      - Interviewed
+      - Accepted
+      - Rejected
+      - Withdrawn
+      required: true
+    - id: 2
+      name: law_school_name
+      label: Law School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: application_deadline
+      label: Application Deadline
+      hint: Deadline date and time
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: application_completed
+      label: Application Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: interview_scheduled
+      label: Interview Scheduled
+      hint: Date and time of interview
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: interview_completed
+      label: Interview Completed
+      hint: Date and time of interview
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: application_received
+      label: Application Received
+      hint: Date received by law school
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: communication_status
+      label: Communication Status
+      hint: null
+      type: select_multiple
+      options:
+      - Accepted
+      - Rejected
+      - Under Review
+      - Withdrawn
+      required: true
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - Send follow-up email
+      - Review and update status
+      - Send reminder email
+      - Complete interview prep materials
+      - None of the above
+      required: true
+    - id: 10
+      name: submitted_materials
+      label: Submitted Materials
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submitted_documents
+      label: Submitted Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Resume
+      - Transcripts
+      - Letter of recommendation
+      - Application essay
+      - Other
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: Additional notes on application status
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_email
+      label: Follow Up Email
+      hint: Send a follow up email
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: interview_faculty
+      label: Interview Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: interview_faculty_response
+      label: Interview Faculty Response
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: application_status_updated
+      label: Application Status Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_materials_description
+      label: Submitted Materials Description
+      hint: Brief description of materials submitted
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes_description
+      label: Notes Description
+      hint: Brief description of notes
+      type: text
+      options: []
+      required: false

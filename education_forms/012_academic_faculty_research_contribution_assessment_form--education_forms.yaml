@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Faculty Research Contribution Assessment Form
+    pages:
+    - id: 1
+      name: section_faculty_info
+      label: -- Faculty Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: faculty_name
+      label: Faculty name
+      hint: Full name of faculty member
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: faculty_email
+      label: Faculty email
+      hint: Contact email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Academic unit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: research_projects
+      label: Research projects in reporting period
+      hint: List major projects or grants
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: publications_count
+      label: Number of publications
+      hint: Enter whole number of publications
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: grants_awarded
+      label: Grants awarded
+      hint: Describe active grants and funding levels
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: impact_and_outcomes
+      label: Research impact and outcomes
+      hint: Describe significant outcomes or impacts
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_and_service
+      label: Collaboration and service contributions
+      hint: Departmental and community service
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_assessment
+      label: Overall assessment and recommendations
+      hint: Summary evaluation of contributions
+      type: text
+      options: []
+      required: true

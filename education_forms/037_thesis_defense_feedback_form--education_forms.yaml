@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thesis Defense Feedback Form
+    pages:
+    - id: 1
+      name: committee_member
+      label: Committee Member
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: score_1
+      label: Score 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': 8}'
+      - '{''value'': 9}'
+      - '{''value'': 10}'
+      - '{''value'': 11}'
+      - '{''value'': 12}'
+      required: false
+    - id: 5
+      name: score_2
+      label: Score 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': 8}'
+      - '{''value'': 9}'
+      - '{''value'': 10}'
+      - '{''value'': 11}'
+      - '{''value'': 12}'
+      required: false
+    - id: 6
+      name: score_3
+      label: Score 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      - '{''value'': 5}'
+      - '{''value'': 6}'
+      - '{''value'': 7}'
+      - '{''value'': 8}'
+      - '{''value'': 9}'
+      - '{''value'': 10}'
+      - '{''value'': 11}'
+      - '{''value'': 12}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: defense_date
+      label: Defense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: defense_time
+      label: Defense Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: committee_size
+      label: Committee Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: committee_type
+      label: Committee Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: defense_location
+      label: Defense Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: thesis_title
+      label: Thesis Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: department_head
+      label: Department Head
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Present''}'
+      - '{''value'': ''Absent''}'
+      - '{''value'': ''Unable to Attend''}'
+      required: false
+    - id: 22
+      name: department_head_note
+      label: Department Head Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: defense_presentation
+      label: Defense Presentation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 24
+      name: defense_presentation_note
+      label: Defense Presentation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: false

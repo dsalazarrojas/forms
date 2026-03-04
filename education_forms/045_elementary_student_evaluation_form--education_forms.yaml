@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary Student Evaluation Form
+    pages:
+    - id: 1
+      name: student_info
+      label: student_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: strengths
+      label: student_strengths
+      hint: Write the student's strengths.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: weaknesses
+      label: student_weaknesses
+      hint: Write the student's weaknesses.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: development_areas
+      label: student_development_areas
+      hint: Write areas of development for the student.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

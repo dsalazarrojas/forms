@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Tech Integration Interview Consent Form
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consent_type
+      label: consent_type
+      hint: null
+      type: select_multiple
+      options:
+      - option3
+      - option4
+      required: false
+    - id: 3
+      name: interview_info
+      label: interview_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: audio_or_video
+      label: audio_or_video
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: recording_method
+      label: recording_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: faculty_informed
+      label: faculty_informed
+      hint: null
+      type: select_multiple
+      options:
+      - option4
+      - option5
+      required: false
+    - id: 7
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: select_multiple
+      options:
+      - option6
+      - option7
+      required: false
+    - id: 8
+      name: faculty_consent
+      label: faculty_consent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option8
+      required: false
+    - id: 9
+      name: faculty_consent_date
+      label: faculty_consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: faculty_consent_time
+      label: faculty_consent_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: faculty_consent_duration
+      label: faculty_consent_duration
+      hint: null
+      type: number
+      options: []
+      required: false

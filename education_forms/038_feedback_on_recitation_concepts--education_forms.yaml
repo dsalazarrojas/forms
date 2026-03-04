@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: feedback_on_recitation_concepts
+    pages:
+    - id: 1
+      name: session_feedback
+      label: session_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: concept_clarity
+      label: concept_clarity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: concept_relevance
+      label: concept_relevance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: session_usefulness
+      label: session_usefulness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_effectiveness
+      label: instructor_effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recitation_concepts
+      label: recitation_concepts
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: recitation_concepts_other
+      label: recitation_concepts_other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_suggestions
+      label: student_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_feedback
+      label: submit_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false

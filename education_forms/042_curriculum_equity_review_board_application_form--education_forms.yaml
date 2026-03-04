@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Equity Review Board Application Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_attended
+      label: Years Attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: ref_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: ref_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ref_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ref_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Family''}'
+      - '{''id'': 2, ''value'': ''Friend''}'
+      - '{''id'': 3, ''value'': ''Colleague''}'
+      required: true

@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breeding Management Knowledge Quiz
+    pages:
+      - id: 1
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: participant_email
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization or Affiliation
+        hint: Your organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: experience_level
+        label: Breeding Experience Level
+        hint: Your background
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Expert
+        required: true
+      - id: 5
+        name: quiz_date
+        label: Quiz Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: question_1
+        label: What is the primary goal of selective breeding
+        hint: Select the best answer
+        type: select_one
+        options:
+          - To increase genetic diversity
+          - To improve specific desirable traits in animals
+          - To reduce breeding costs
+          - To eliminate record keeping
+        required: true
+      - id: 7
+        name: question_2
+        label: What does inbreeding coefficient measure
+        hint: Select the correct answer
+        type: select_one
+        options:
+          - The cost of breeding animals
+          - The probability of inheriting two copies of the same allele from a common ancestor
+          - The number of offspring produced
+          - The age of breeding animals
+        required: true
+      - id: 8
+        name: question_3
+        label: Which factor is most important in a breeding program
+        hint: Select the most important
+        type: select_one
+        options:
+          - Animal size
+          - Genetic health and trait consistency
+          - Coat color
+          - Animal age
+        required: true
+      - id: 9
+        name: question_4
+        label: What is a breed standard
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - The minimum price for breeding animals
+          - A detailed description of ideal characteristics for a breed
+          - The maximum number of offspring allowed
+          - The age animals must be before breeding
+        required: true
+      - id: 10
+        name: question_5
+        label: Which health screening is most commonly recommended for breeders
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Hip dysplasia screening
+          - Genetic testing
+          - Temperament testing
+          - Dental evaluation
+        required: true
+      - id: 11
+        name: question_6
+        label: What is the purpose of pedigree analysis
+        hint: Select the best answer
+        type: select_one
+        options:
+          - To determine animal prices
+          - To understand genetic lineage and potential hereditary issues
+          - To calculate breeding costs
+          - To schedule breeding dates
+        required: true
+      - id: 12
+        name: question_7
+        label: How often should breeding animals be evaluated
+        hint: Select the recommendation
+        type: select_one
+        options:
+          - Once annually
+          - Before each breeding
+          - Never
+          - Only when problems arise
+        required: true
+      - id: 13
+        name: question_8
+        label: What is linebreeding
+        hint: Select the correct definition
+        type: select_one
+        options:
+          - Mating unrelated animals
+          - Mating animals that share common ancestors
+          - Selecting for single traits only
+          - Preventing all breeding
+        required: true
+      - id: 14
+        name: question_9
+        label: Which record is essential for breeding management
+        hint: Select all important records
+        type: select_multiple
+        options:
+          - Pedigree records
+          - Health and genetic screening results
+          - Performance records
+          - Breeding dates and offspring data
+        required: true
+      - id: 15
+        name: question_10
+        label: What does genetic diversity contribute to
+        hint: Select the primary benefit
+        type: select_one
+        options:
+          - Reduced trait variation
+          - Increased production costs
+          - Better adaptation and disease resistance
+          - Faster breeding cycles
+        required: true
+      - id: 16
+        name: question_11
+        label: At what age should animals typically be evaluated for breeding suitability
+        hint: Select the recommendation
+        type: select_one
+        options:
+          - As newborns
+          - At sexual maturity with sufficient development
+          - Only after first offspring
+          - Never before age 10 years
+        required: true
+      - id: 17
+        name: question_12
+        label: What is the benefit of maintaining detailed records
+        hint: Select all benefits
+        type: select_multiple
+        options:
+          - Track genetic traits
+          - Identify health problems early
+          - Improve future breeding decisions
+          - Comply with regulations
+        required: true
+      - id: 18
+        name: knowledge_assessment
+        label: How would you rate your breeding management knowledge
+        hint: Self-assessment after quiz
+        type: select_one
+        options:
+          - Needs improvement
+          - Basic understanding
+          - Good understanding
+          - Excellent mastery
+        required: true
+      - id: 19
+        name: areas_to_improve
+        label: Areas You Would Like to Learn More About
+        hint: Select topics of interest
+        type: select_multiple
+        options:
+          - Genetic testing and selection
+          - Health screening protocols
+          - Breed standards and judging
+          - Record keeping systems
+          - Ethical breeding practices
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any feedback or comments
+        type: text
+        options: []
+        required: false

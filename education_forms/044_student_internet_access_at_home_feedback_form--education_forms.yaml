@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Internet Access At Home Feedback Form
+    pages:
+    - id: 1
+      name: home_internet_access
+      label: Is there a computer or tablet available to you at home?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 2
+      name: internet_access_at_school
+      label: Do you have access to a school-provided device at home?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: internet_access_at_home
+      label: How often do you use the internet at home?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: time_spent_online
+      label: How much time do you spend on the internet at home?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: parental_supervision
+      label: How often do you have your parents supervise your internet usage?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: device_type_at_home
+      label: What type of device do you have access to at home?
+      hint: None
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: internet_access_goals
+      label: What do you use the internet for at home?
+      hint: None
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: internet_access_barriers
+      label: Are there any barriers to accessing the internet at home?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: internet_access_consequences
+      label: How often do you experience consequences of internet access at home?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: comments
+      label: Any additional comments
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: time_at_home
+      label: Time of day that you usually spend most time on the internet at home
+      hint: None
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: frequency_at_home
+      label: Frequency of using internet at home
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 16
+      name: internet_access_duration_at_home
+      label: How many hours do you usually spend on the internet at home?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 17
+      name: time_at_school
+      label: What time of day do you usually spend most of your time online at school?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 18
+      name: internet_access_at_school
+      label: How often do you access the internet at school?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 19
+      name: device_type_at_school
+      label: What type of device do you have access to at school?
+      hint: None
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 20
+      name: internet_access_barriers_at_school
+      label: Are there any barriers to accessing the internet at school?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 21
+      name: internet_access_consequences_at_school
+      label: How often do you experience consequences of internet access at school?
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 22
+      name: internet_access_at_school_comments
+      label: Any additional comments
+      hint: None
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: school_internet_access
+      label: School Internet Access
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 24
+      name: student_internet_access
+      label: Student Internet Access
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 25
+      name: student_internet_access_consequences
+      label: Student Internet Access Consequences
+      hint: None
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Directory Form
+    pages:
+    - id: 1
+      name: family_name
+      label: family_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: family_income
+      label: family_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: student_age
+      label: student_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: school_email
+      label: school_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_phone
+      label: family_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: family_member_type
+      label: family_member_type
+      hint: null
+      type: select_multiple
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: false
+    - id: 14
+      name: student_grade_level
+      label: student_grade_level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle
+      - High
+      - College
+      required: false
+    - id: 15
+      name: school_start_date
+      label: school_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: school_end_date
+      label: school_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: student_start_date
+      label: student_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: student_end_date
+      label: student_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: family_note
+      label: family_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_status
+      label: student_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      - Withdrawn
+      required: false
+    - id: 22
+      name: family_status
+      label: family_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      - Withdrawn
+      required: false
+    - id: 23
+      name: student_language
+      label: student_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 24
+      name: family_language
+      label: family_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 25
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_appraisal_form
+    pages:
+    - id: 1
+      name: self_appraisal
+      label: self_appraisal_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_number
+      label: student_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_type
+      label: evaluation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: appraisal_form_status
+      label: appraisal_form_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submitted_by_role
+      label: submitted_by_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comments
+      label: evaluation_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_score
+      label: evaluation_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_status
+      label: evaluation_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

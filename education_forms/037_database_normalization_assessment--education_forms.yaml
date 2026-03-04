@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: database_normalization_assessment
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_experience
+      label: Candidate Experience
+      hint: null
+      type: select_one
+      options:
+      - First-time user
+      - Returning user
+      - Hiring Manager
+      - Educator
+      required: false
+    - id: 3
+      name: database_name
+      label: Database Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_keys
+      label: Primary Keys
+      hint: null
+      type: select_multiple
+      options:
+      - Candidate's Primary Key
+      - Foreign Key
+      - Natural Key
+      - Synthetic Key
+      required: false
+    - id: 5
+      name: candidate_info_education
+      label: Candidate Information (Education)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candidate_info_experience
+      label: Candidate Information (Experience)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: candidate_info_other_info
+      label: Candidate Information (Other Info)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: database_normalization_concept
+      label: Database Normalization Concept
+      hint: null
+      type: select_one
+      options:
+      - Concept 1
+      - Concept 2
+      - Concept 3
+      - Concept 4
+      required: false
+    - id: 9
+      name: database_normalization_example
+      label: Database Normalization Example
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: candidate_answer_1
+      label: Candidate Answer 1
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 11
+      name: candidate_answer_2
+      label: Candidate Answer 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_comments
+      label: User Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email_confirmation
+      label: Email Confirmation
+      hint: Please enter your email
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: phone_confirmation
+      label: Phone Confirmation
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_confirmation_confirmation
+      label: Confirm Email Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: phone_confirmation_confirmation
+      label: Confirm Phone Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: submit_confirmation
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirmation_message
+      label: Confirmation Message
+      hint: null
+      type: note
+      options: []
+      required: false

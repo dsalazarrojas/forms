@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Piano Lesson Sign Up Form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lesson_schedule
+      label: Lesson Schedule
+      hint: null
+      type: select_one
+      options:
+      - Monday, Wednesday, Friday
+      - Tuesday, Thursday
+      - Monday
+      - Wednesday
+      - Friday
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: lesson_duration
+      label: Lesson Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lesson_frequency
+      label: Lesson Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a week
+      - Twice a week
+      - Three times a week
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lesson_time
+      label: Lesson Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_one
+      options:
+      - Piano
+      - Guitar
+      - Violin
+      - Cello
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false

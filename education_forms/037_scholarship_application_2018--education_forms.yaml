@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scholarship Application 2018
+    pages:
+    - id: 1
+      name: scholarship_form_1
+      label: Scholarship Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gpa
+      label: Gpa
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gpa_scale
+      label: Gpa Scale
+      hint: null
+      type: select_one
+      options:
+      - '3.0'
+      - '3.5'
+      - '4.0'
+      - '4.5'
+      - '5.0'
+      required: false
+    - id: 6
+      name: major
+      label: Major
+      hint: null
+      type: select_multiple
+      options:
+      - Computer Science
+      - Engineering
+      - Business
+      - Arts
+      required: false
+    - id: 7
+      name: minor
+      label: Minor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: date_of_birth_date
+      label: Date of Birth (date)
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: date_of_birth_time
+      label: Date of Birth (time)
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: date_of_birth_date_range
+      label: Date of Birth (range)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: date_of_graduation
+      label: Date of Graduation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: date_of_graduation_time
+      label: Date of Graduation (time)
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: date_of_graduation_date_range
+      label: Date of Graduation (range)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: date_of_death
+      label: Date of Death
+      hint: 'Note: Only for deceased students.'
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: date_of_death_date
+      label: Date of Death (date)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_of_death_time
+      label: Date of Death (time)
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: date_of_death_date_range
+      label: Date of Death (range)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

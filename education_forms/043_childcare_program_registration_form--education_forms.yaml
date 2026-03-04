@@ -1,0 +1,283 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Program Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of program registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_nickname
+      label: Child Nickname
+      hint: Preferred name or nickname
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 8
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: program_selection
+      label: Program Selection
+      hint: Which program are you enrolling in?
+      type: select_one
+      options:
+      - Full-day program
+      - Half-day morning program
+      - Half-day afternoon program
+      - Extended care program
+      - Weekend program
+      - Summer program
+      - After-school program
+      required: true
+    - id: 17
+      name: start_date
+      label: Start Date
+      hint: Desired start date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: schedule_days
+      label: Schedule Days
+      hint: Which days will the child attend?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 19
+      name: drop_off_time
+      label: Drop-Off Time
+      hint: Expected drop-off time
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: pick_up_time
+      label: Pick-Up Time
+      hint: Expected pick-up time
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: siblings_enrolled
+      label: Siblings Enrolled
+      hint: Do you have other children enrolled?
+      type: select_one
+      options:
+      - Yes, currently enrolled
+      - Yes, also enrolling now
+      - No siblings
+      required: true
+    - id: 22
+      name: how_did_you_hear_about_us
+      label: How Did You Hear About Us
+      hint: How did you learn about our program?
+      type: select_one
+      options:
+      - Friend or family referral
+      - Online search
+      - Social media
+      - Community event
+      - School referral
+      - Previous client
+      - Other
+      required: true
+    - id: 23
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any medical conditions or allergies
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: List any dietary restrictions
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to child
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Aunt or Uncle
+      - Family friend
+      - Other
+      required: true
+    - id: 28
+      name: authorized_pickup_persons
+      label: Authorized Pickup Persons
+      hint: List all people authorized to pick up your child
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: photo_video_consent
+      label: Photo and Video Consent
+      hint: Do you consent to photos and videos of your child?
+      type: select_one
+      options:
+      - Yes, for any purpose
+      - Yes, for internal use only
+      - Yes, but no face photos
+      - No, do not consent
+      required: true
+    - id: 30
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need transportation services?
+      type: select_one
+      options:
+      - Yes, to program
+      - Yes, from program
+      - Yes, both ways
+      - false
+      required: true
+    - id: 31
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the program?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Cash
+      - Bank transfer
+      - Subsidy or assistance
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or questions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true

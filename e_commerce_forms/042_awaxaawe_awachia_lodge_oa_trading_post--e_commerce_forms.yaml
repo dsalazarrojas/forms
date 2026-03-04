@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Awaxaawe Awachia Lodge OA Trading Post
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer and Lodge Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lodge_member_id
+      label: Lodge Member ID
+      hint: Unique ID for membership verification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_patch_orders
+      label: -- Patch and Insignia Orders --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patch_type_selection
+      label: Patch Type Selection
+      hint: Select the primary patch being ordered
+      type: select_one
+      options:
+      - Lodge Flap (Standard)
+      - CSP (Council Shoulder Patch)
+      - Event Patch (Limited Edition)
+      - No Patch Order
+      required: true
+    - id: 8
+      name: patch_quantity
+      label: Quantity of Patches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: section_apparel_orders
+      label: -- Apparel and Gear Orders --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: apparel_selection
+      label: Apparel Selection
+      hint: Select the clothing item
+      type: select_one
+      options:
+      - T-shirt (Lodge Logo)
+      - Hoodie (Embroidered)
+      - Cap/Hat (One Size)
+      - No Apparel Order
+      required: true
+    - id: 11
+      name: apparel_size_selection
+      label: Apparel Size
+      hint: Select if apparel is ordered
+      type: select_one
+      options:
+      - Small (S)
+      - Medium (M)
+      - Large (L)
+      - Extra Large (XL)
+      - Double Extra Large (XXL)
+      required: false
+    - id: 12
+      name: apparel_quantity
+      label: Quantity of Apparel
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: accessory_selection
+      label: Accessory Selection
+      hint: Select the accessory item
+      type: select_one
+      options:
+      - Coffee Mug (Ceramic)
+      - Vinyl Sticker (Pack)
+      - Collector Pin
+      - Challenge Coin
+      - No Accessory Order
+      required: true
+    - id: 14
+      name: section_logistics_payment
+      label: -- Fulfillment and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: fulfillment_preference
+      label: Fulfillment Preference
+      hint: How will you receive your order?
+      type: select_one
+      options:
+      - Pickup at Lodge Meeting
+      - Pickup at Scout Office
+      - Standard Shipping (to address)
+      required: true
+    - id: 16
+      name: shipping_address_oa
+      label: Shipping Address
+      hint: Full address if shipping is selected
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_total_oa
+      label: Order Total Amount
+      hint: Sum of all items in USD
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method_oa
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit/Debit Card
+      - PayPal Account
+      - Personal Check (to Lodge)
+      required: true
+    - id: 19
+      name: lodge_rule_agreement
+      label: I agree to all Lodge Trading Post Policies
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

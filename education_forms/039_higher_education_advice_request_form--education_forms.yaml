@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: higher_education_advice_request_form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: academic_achievements
+      label: Academic Achievements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: college_application_info
+      label: College Application Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_circumstances
+      label: Special Circumstances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: college_search
+      label: College Search
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: academic_year
+      label: Academic Year
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      required: false
+    - id: 7
+      name: graduation_month
+      label: Graduation Month
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: scholarship_info
+      label: Scholarship Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Partially''}'
+      required: false
+    - id: 9
+      name: college_type
+      label: College Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Private''}'
+      - '{''label'': ''Public''}'
+      - '{''label'': ''Community College''}'
+      required: false
+    - id: 10
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: graduation_time
+      label: Graduation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: graduation_status
+      label: Graduation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Graduated''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Not Applying''}'
+      required: false
+    - id: 13
+      name: graduation_year_start
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: graduation_year_end
+      label: Graduation Year End
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: academic_program
+      label: Academic Program
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Bachelor''}'
+      - '{''label'': ''Master''}'
+      - '{''label'': ''Doctorate''}'
+      required: false
+    - id: 16
+      name: academic_program_year
+      label: Academic Program Year
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      required: false
+    - id: 17
+      name: college_search_location
+      label: College Search Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''On-campus''}'
+      - '{''label'': ''Off-campus''}'
+      required: false
+    - id: 18
+      name: search_location_other
+      label: Search Location Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_needs_info
+      label: Other Needs Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: college_search_preferences
+      label: College Search Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: search_preferences_info
+      label: Search Preferences Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: college_search_location_other
+      label: College Search Location Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_college_search_location
+      label: Other College Search Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

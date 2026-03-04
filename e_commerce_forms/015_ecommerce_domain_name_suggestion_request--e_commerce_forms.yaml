@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: ecommerce_domain_name_suggestion_request
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: domain_suggestion
+      label: Suggested Domain
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Amazon''}'
+      - '{''label'': ''Flipkart''}'
+      - '{''label'': ''Flip''}'
+      - '{''label'': ''Flipa''}'
+      - '{''label'': ''Flipb''}'
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Electronics''}'
+      - '{''label'': ''Fashion''}'
+      - '{''label'': ''Health''}'
+      - '{''label'': ''Beauty''}'
+      required: false
+    - id: 4
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fruits''}'
+      - '{''label'': ''Vegetables''}'
+      - '{''label'': ''Electronics''}'
+      - '{''label'': ''Accessories''}'
+      required: false
+    - id: 5
+      name: keyword
+      label: Keyword
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_description
+      label: Store Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: store_url
+      label: Store Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''USA''}'
+      - '{''label'': ''USA1''}'
+      - '{''label'': ''USA2''}'
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false

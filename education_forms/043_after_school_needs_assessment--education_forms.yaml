@@ -1,0 +1,338 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Needs Assessment
+    pages:
+    - id: 1
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_grade
+      label: Current Grade Level
+      hint: What grade is the student currently in?
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 5
+      name: student_school
+      label: School Attended
+      hint: Name of the school the student attends
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Date when the assessment is being conducted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_information_section
+      label: Parent/Guardian Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_guardian_name
+      label: Parent/Guardian Name
+      hint: Name of the student's parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_phone
+      label: Parent/Guardian Phone
+      hint: Phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_guardian_email
+      label: Parent/Guardian Email
+      hint: Email address for communication
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: academic_assessment_section
+      label: Academic Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_grade_performance
+      label: Current Grade Performance
+      hint: How would you rate the student's current academic performance?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: subject_difficulties
+      label: Subject Difficulties
+      hint: Which subjects does the student struggle with the most?
+      type: select_multiple
+      options:
+      - Mathematics
+      - Reading
+      - Writing
+      - Science
+      - Social Studies
+      - Foreign Language
+      - None
+      required: true
+    - id: 14
+      name: homework_completion
+      label: Homework Completion
+      hint: How often does the student complete homework assignments?
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 15
+      name: study_skills_assessment
+      label: Study Skills Assessment
+      hint: How would you rate the student's study skills?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 16
+      name: learning_style_preference
+      label: Learning Style Preference
+      hint: What is the student's preferred learning style?
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Kinesthetic
+      - Reading/Writing
+      - Mixed
+      required: true
+    - id: 17
+      name: behavioral_social_assessment_section
+      label: Behavioral and Social Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: classroom_behavior
+      label: Classroom Behavior
+      hint: How would you rate the student's classroom behavior?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 19
+      name: peer_relationships
+      label: Peer Relationships
+      hint: How well does the student interact with peers?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 20
+      name: attention_focus_issues
+      label: Attention/Focus Issues
+      hint: Does the student have difficulty focusing or paying attention?
+      type: select_one
+      options:
+      - Yes, significant issues
+      - Yes, minor issues
+      - No issues
+      - Not observed
+      required: true
+    - id: 21
+      name: emotional_regulation
+      label: Emotional Regulation
+      hint: How well does the student manage emotions and stress?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 22
+      name: after_school_program_needs_section
+      label: After-School Program Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: academic_support_needed
+      label: Academic Support Needed
+      hint: What type of academic support does the student need?
+      type: select_multiple
+      options:
+      - Tutoring in specific subjects
+      - Homework help
+      - Study skills development
+      - Reading intervention
+      - Math intervention
+      - Writing support
+      - Test preparation
+      - None needed
+      required: true
+    - id: 24
+      name: enrichment_activities_interest
+      label: Enrichment Activities Interest
+      hint: What enrichment activities would the student be interested in?
+      type: select_multiple
+      options:
+      - Arts and crafts
+      - Music
+      - Drama
+      - Sports
+      - Science experiments
+      - Technology/Computers
+      - Creative writing
+      - Leadership activities
+      - None
+      required: true
+    - id: 25
+      name: schedule_availability
+      label: Schedule Availability
+      hint: How many days per week can the student attend after-school programs?
+      type: select_one
+      options:
+      - 1 day
+      - 2 days
+      - 3 days
+      - 4 days
+      - 5 days
+      - Variable
+      required: true
+    - id: 26
+      name: family_resources_constraints_section
+      label: Family Resources and Constraints
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: transportation_availability
+      label: Transportation Availability
+      hint: Is transportation available for after-school programs?
+      type: select_one
+      options:
+      - Yes, reliable
+      - Yes, sometimes
+      - false
+      - Need assistance
+      required: true
+    - id: 28
+      name: family_income_impact
+      label: Family Income Impact
+      hint: Does family income impact participation in paid programs?
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Significant impact
+      - Prevents participation
+      required: true
+    - id: 29
+      name: parental_involvement_level
+      label: Parental Involvement Level
+      hint: How involved are parents/guardians in the student's education?
+      type: select_one
+      options:
+      - Highly involved
+      - Moderately involved
+      - Minimally involved
+      - Unable to be involved
+      required: true
+    - id: 30
+      name: additional_needs_concerns
+      label: Additional Needs or Concerns
+      hint: Any additional needs, concerns, or special considerations?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: goals_objectives_section
+      label: Goals and Objectives
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: short_term_goals
+      label: Short-Term Goals
+      hint: What academic or behavioral goals should be achieved in the next 3 months?
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: long_term_goals
+      label: Long-Term Goals
+      hint: What academic or behavioral goals should be achieved by the end of the
+        school year?
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: assessment_completed_by
+      label: Assessment Completed By
+      hint: Name of the person completing this assessment
+      type: text
+      options: []
+      required: true

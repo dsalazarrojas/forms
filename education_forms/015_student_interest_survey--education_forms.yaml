@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interest Survey
+    pages:
+    - id: 1
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activities
+      label: School Activities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Sports''}'
+      - '{''value'': ''Arts''}'
+      - '{''value'': ''Music''}'
+      - '{''value'': ''Clubs''}'
+      required: true
+    - id: 3
+      name: lessons
+      label: School Lessons
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Math''}'
+      - '{''value'': ''Science''}'
+      - '{''value'': ''History''}'
+      - '{''value'': ''Geography''}'
+      - '{''value'': ''English''}'
+      required: false
+    - id: 4
+      name: expectations
+      label: Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Improve skills''}'
+      - '{''value'': ''Have fun''}'
+      - '{''value'': ''Learn new things''}'
+      - '{''value'': ''Get grades''}'
+      required: true
+    - id: 5
+      name: enjoy_school
+      label: Enjoy School
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 6
+      name: school_activities_lessons
+      label: School Activities & Lessons
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Both''}'
+      - '{''value'': ''Activities''}'
+      - '{''value'': ''Lessons''}'
+      required: false
+    - id: 7
+      name: school_year
+      label: School Year
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: school_year_2
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Summer''}'
+      - '{''value'': ''Fall''}'
+      - '{''value'': ''Winter''}'
+      - '{''value'': ''Spring''}'
+      required: false
+    - id: 9
+      name: school_time
+      label: School Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: school_time_2
+      label: School Time
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Morning''}'
+      - '{''value'': ''Afternoon''}'
+      - '{''value'': ''Evening''}'
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: student_school
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_grade
+      label: Grade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false

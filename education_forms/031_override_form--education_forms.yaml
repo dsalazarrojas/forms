@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: override_form
+    pages:
+    - id: 1
+      name: override_form_1
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: override_form_2
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Education Forms''}'
+      - '{''value'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: form_category_id
+      label: category_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_override_id
+      label: override_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pending'', ''label'': ''pending''}'
+      - '{''value'': ''approved'', ''label'': ''approved''}'
+      - '{''value'': ''denied'', ''label'': ''denied''}'
+      required: false
+    - id: 7
+      name: form_submitter
+      label: submitter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''student'', ''label'': ''Student''}'
+      - '{''value'': ''instructor'', ''label'': ''Instructor''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: form_student_id
+      label: student_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_override_type
+      label: override_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''academic'', ''label'': ''academic''}'
+      - '{''value'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 10
+      name: form_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: form_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: form_reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_override_status
+      label: override_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending'', ''label'': ''pending''}'
+      - '{''value'': ''approved'', ''label'': ''approved''}'
+      - '{''value'': ''denied'', ''label'': ''denied''}'
+      required: false
+    - id: 16
+      name: form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_override_request
+      label: override_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_instructor_approval
+      label: instructor_approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_override_request_date
+      label: override_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: form_override_request_time
+      label: override_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: form_override_requester
+      label: override_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_instructor_comments
+      label: instructor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: form_student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false

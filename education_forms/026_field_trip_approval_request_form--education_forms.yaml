@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Approval Request Form
+    pages:
+    - id: 1
+      name: field_trip_approval_request_form
+      label: Field Trip Approval Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_principal_approver
+      label: School Principal Approver
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''School Principal'', ''value'': ''School Principal''}'
+      - '{''id'': 2, ''label'': ''Sponsor Company'', ''value'': ''Sponsor Company''}'
+      required: false
+    - id: 3
+      name: student_trip_details
+      label: Student Trip Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trip_location
+      label: Trip Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trip_duration
+      label: Trip Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: trip_budget
+      label: Trip Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_participants
+      label: Student Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_supervisors
+      label: Student Supervisors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_medical_info
+      label: Student Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: field_trip_justification
+      label: Field Trip Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_admin_approval
+      label: School Admin Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 14
+      name: sponsor_company_approval
+      label: Sponsor Company Approval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 15
+      name: trip_approval_status
+      label: Trip Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved'', ''value'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Pending Approval'', ''value'': ''Pending Approval''}'
+      - '{''id'': 3, ''label'': ''Denied'', ''value'': ''Denied''}'
+      required: false
+    - id: 16
+      name: trip_approval_comments
+      label: Trip Approval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_principal_signature
+      label: School Principal Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sponsor_company_signature
+      label: Sponsor Company Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active'', ''value'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Archived'', ''value'': ''Archived''}'
+      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''Completed''}'
+      required: false
+    - id: 24
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Citation Style Quiz
+    pages:
+      - id: 1
+        name: section_header_instructions
+        label: -- Citation Style Knowledge Quiz --
+        hint: Test your knowledge of different citation formats
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: grade_level
+        label: Grade Level or Class
+        hint: null
+        type: select_one
+        options:
+          - High school
+          - Undergraduate
+          - Graduate
+          - Professional
+        required: true
+      - id: 5
+        name: question_1
+        label: Which citation style is commonly used in humanities and literature
+        hint: null
+        type: select_one
+        options:
+          - APA
+          - MLA
+          - Chicago
+          - IEEE
+        required: true
+      - id: 6
+        name: question_2
+        label: In APA style, where does the publication date appear in a citation
+        hint: null
+        type: select_one
+        options:
+          - After the author name
+          - At the end of the citation
+          - At the beginning
+          - In parentheses after the title
+        required: true
+      - id: 7
+        name: question_3
+        label: What does MLA stand for
+        hint: null
+        type: select_one
+        options:
+          - Modern Language Association
+          - Modern Literature Analysis
+          - Multilingual Learning Association
+          - Modern Legal Authority
+        required: true
+      - id: 8
+        name: question_4
+        label: In Chicago style, what comes between the author name and publication year
+        hint: null
+        type: select_one
+        options:
+          - A colon
+          - A comma
+          - A period
+          - An ampersand
+        required: true
+      - id: 9
+        name: question_5
+        label: Which style is most commonly used in STEM fields
+        hint: null
+        type: select_one
+        options:
+          - MLA
+          - Chicago
+          - IEEE
+          - APA
+        required: true
+      - id: 10
+        name: question_6
+        label: In APA, how are multiple authors listed
+        hint: null
+        type: select_one
+        options:
+          - Separated by commas, no ampersand
+          - All connected with and
+          - Separated by commas with ampersand before last author
+          - Only first author listed
+        required: true
+      - id: 11
+        name: question_7
+        label: What is the proper format for a website citation in MLA
+        hint: null
+        type: select_one
+        options:
+          - Author. Title of Page. Website Name. Access Date.
+          - Author (Date). Title. Retrieved from URL
+          - Title of Website. Author. Date Accessed.
+          - Author. Year. Website Title. Publisher.
+        required: true
+      - id: 12
+        name: question_8
+        label: In APA, how do you cite a direct quotation
+        hint: null
+        type: select_one
+        options:
+          - Author, no page number needed
+          - Author (Year, p. page number)
+          - Author, Year
+          - Just page number
+        required: true
+      - id: 13
+        name: question_9
+        label: Which citation style uses footnotes or endnotes
+        hint: null
+        type: select_one
+        options:
+          - APA
+          - MLA
+          - Chicago
+          - IEEE
+        required: true
+      - id: 14
+        name: question_10
+        label: What is the correct title format for a book in MLA
+        hint: null
+        type: select_one
+        options:
+          - "Title of Book"
+          - Title of Book
+          - Title of Book (italicized)
+          - TITLE OF BOOK
+        required: true
+      - id: 15
+        name: section_header_additional
+        label: -- Additional Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: citation_experience
+        label: How Much Experience Do You Have with Citations
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Some experience
+          - Comfortable
+          - Expert
+        required: false
+      - id: 17
+        name: most_challenging
+        label: Which Citation Style Do You Find Most Challenging
+        hint: null
+        type: select_one
+        options:
+          - APA
+          - MLA
+          - Chicago
+          - IEEE
+          - All equally challenging
+          - None - I find them all easy
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Comments or Questions About Citations
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Course Enrollment Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: student_id
+      label: Student ID (if returning)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_academic_info
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_education_level
+      label: Current Education Level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Other
+      required: true
+    - id: 9
+      name: degree_program
+      label: Degree Program
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: gpa
+      label: Current GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_course_selection
+      label: -- Course Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: course_title
+      label: Course Title
+      hint: Name of the architectural course
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Introductory
+      - Intermediate
+      - Advanced
+      - Graduate
+      required: true
+    - id: 14
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Winter
+      required: true
+    - id: 15
+      name: enrollment_year
+      label: Enrollment Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_prerequisites
+      label: -- Prerequisites --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: prerequisites_met
+      label: All prerequisites met or waived
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Waiver requested
+      required: true
+    - id: 18
+      name: prerequisite_courses
+      label: Prerequisite Courses Completed
+      hint: List courses if applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_goals
+      label: -- Learning Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: enrollment_reason
+      label: Why are you enrolling in this course?
+      hint: Academic requirement, career development, etc
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: learning_objectives
+      label: What do you hope to learn?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: financial_aid_needed
+      label: Financial aid information needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

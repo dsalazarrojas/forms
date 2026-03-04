@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Exchange Application
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_program
+      label: Student Program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School'', ''value'': ''High School''}'
+      - '{''id'': 2, ''label'': ''University'', ''value'': ''University''}'
+      - '{''id'': 3, ''label'': ''College'', ''value'': ''College''}'
+      required: false
+    - id: 3
+      name: academic_level
+      label: Academic Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High School Diploma'', ''value'': ''High School
+        Diploma''}'
+      - '{''id'': 2, ''label'': "Associate''s Degree", ''value'': "Associate''s Degree"}'
+      - '{''id'': 3, ''label'': "Bachelor''s Degree", ''value'': "Bachelor''s Degree"}'
+      - '{''id'': 4, ''label'': "Master''s Degree", ''value'': "Master''s Degree"}'
+      - '{''id'': 5, ''label'': ''Doctoral Degree'', ''value'': ''Doctoral Degree''}'
+      required: false
+    - id: 4
+      name: host_info
+      label: Host Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: host_program
+      label: Host Program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High School'', ''value'': ''High School''}'
+      - '{''id'': 2, ''label'': ''University'', ''value'': ''University''}'
+      - '{''id'': 3, ''label'': ''College'', ''value'': ''College''}'
+      required: false
+    - id: 6
+      name: host_education
+      label: Host Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High School Diploma'', ''value'': ''High School
+        Diploma''}'
+      - '{''id'': 2, ''label'': "Associate''s Degree", ''value'': "Associate''s Degree"}'
+      - '{''id'': 3, ''label'': "Bachelor''s Degree", ''value'': "Bachelor''s Degree"}'
+      - '{''id'': 4, ''label'': "Master''s Degree", ''value'': "Master''s Degree"}'
+      - '{''id'': 5, ''label'': ''Doctoral Degree'', ''value'': ''Doctoral Degree''}'
+      required: false
+    - id: 7
+      name: host_program_duration
+      label: Host Program Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: host_program_start_date
+      label: Host Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: host_program_end_date
+      label: Host Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: host_program_duration
+      label: Host Program Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_exchange_duration
+      label: Student Exchange Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: host_currency
+      label: Host Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: host_language
+      label: Host Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English'', ''value'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish'', ''value'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French'', ''value'': ''French''}'
+      required: false
+    - id: 14
+      name: host_exchange_rate
+      label: Host Exchange Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: student_currency
+      label: Student Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_language
+      label: Student Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English'', ''value'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish'', ''value'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French'', ''value'': ''French''}'
+      required: false
+    - id: 17
+      name: student_exchange_rate
+      label: Student Exchange Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: student_exchange_fees
+      label: Student Exchange Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: host_address
+      label: Host Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: host_email
+      label: Host Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_email
+      label: Student Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: host_phone
+      label: Host Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

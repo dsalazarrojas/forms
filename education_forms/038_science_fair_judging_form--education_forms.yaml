@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Fair Judging Form
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: presentation
+      label: Presentation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Physics
+      - Biology
+      - Chemistry
+      - Math
+      - Engineering
+      - Environmental Science
+      - Computer Science
+      - Other
+      required: true
+    - id: 5
+      name: science_area
+      label: Science Area
+      hint: null
+      type: select_multiple
+      options:
+      - Physics
+      - Biology
+      - Chemistry
+      - Math
+      - Engineering
+      - Environmental Science
+      required: true
+    - id: 6
+      name: judge_name
+      label: Judge Name
+      hint: Enter judge's name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: score_given
+      label: Score Given
+      hint: Score between 0 and 10
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true

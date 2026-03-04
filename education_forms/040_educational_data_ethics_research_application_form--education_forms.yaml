@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Data Ethics Research Application Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: institution_id
+      label: Institution ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_information
+      label: Research Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_type
+      label: Research Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: research_purpose
+      label: Research Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_description
+      label: Research Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_duration
+      label: Research Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: number_of_researchers
+      label: Number of Researchers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: research_start_date
+      label: Research Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: institution_ethics_review
+      label: Institution Ethic Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ethics_committee_review
+      label: Ethics Committee Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: institutional_approval
+      label: Institutional Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: research_acknowledgement
+      label: Research Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chinese Classifier Examination Expert Validity Survey
+    pages:
+    - id: 1
+      name: expert_name
+      label: Expert Name
+      hint: Name of examiner or expert
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: affiliation
+      label: Affiliation
+      hint: Institution or organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_experience
+      label: Years of Relevant Experience
+      hint: Number of years working with language assessment
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: item_relevance
+      label: Relevance of Test Items
+      hint: Rate how relevant items are to competencies
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 5
+      name: clarity_of_instructions
+      label: Clarity of Instructions
+      hint: Rate clarity for test administrators and takers
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      required: true
+    - id: 6
+      name: difficulty_alignment
+      label: Item Difficulty Alignment
+      hint: Are item difficulties appropriate for target level
+      type: select_one
+      options:
+      - true
+      - Somewhat
+      - false
+      required: true
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: Provide any recommended changes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_validity
+      label: Overall Validity Rating
+      hint: Expert judgement on exam validity
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: true

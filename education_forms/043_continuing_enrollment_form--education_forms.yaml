@@ -1,0 +1,134 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Enrollment Form
+    pages:
+      - id: 1
+        name: current_status_header
+        label: -- Current Student Status --
+        hint: Maintain your active status for the upcoming academic period
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_id_active
+        label: Student Identification Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_full_name
+        label: Student Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: degree_program_department
+        label: Degree Program or Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: enrollment_continuation_header
+        label: -- Continuation Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: continuation_semester_year
+        label: Semester and Year for Continuation
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: intent_to_continue
+        label: Do you intend to remain active in your current program
+        hint: null
+        type: select_one
+        options:
+          - Yes - Full-time Status
+          - Yes - Part-time Status
+          - No - Requesting Leave of Absence
+          - No - Graduating/Withdrawing
+        required: true
+      - id: 8
+        name: expected_graduation_date
+        label: Expected Graduation Date
+        hint: (Month/Year)
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: profile_updates_header
+        label: -- Profile Updates --
+        hint: Tell us if any of your contact details have changed
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: contact_info_changes
+        label: Any changes to Address or Phone
+        hint: null
+        type: select_one
+        options:
+          - No - No changes
+          - Yes - Provide updates below
+        required: true
+      - id: 11
+        name: updated_contact_details
+        label: Updated Contact Information (If any)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: continuation_fee_header
+        label: -- Financial Status --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: continuation_fee_reference
+        label: Continuation Fee Transaction ID
+        hint: Proof of payment for maintaining active status
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: signature_authorization
+        label: I certify my intent to continue my studies
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: form_date
+        label: Today's Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: academic_advisor_name
+        label: Name of Academic Advisor
+        hint: For administrative routing
+        type: text
+        options: []
+        required: false

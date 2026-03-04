@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Counseling Group Sign Up
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: School email preferred
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID Number
+      hint: University ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: class_year
+      label: Class Year
+      hint: Current year in school
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Other
+      required: true
+    - id: 7
+      name: major
+      label: Major or Field of Study
+      hint: Your major
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sign_up_date
+      label: Sign-Up Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: group_type_interest
+      label: Type of Group You Are Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Anxiety Management
+      - Depression Support
+      - Stress Reduction
+      - Grief and Loss
+      - Relationship Issues
+      - Social Skills
+      - Body Image
+      - LGBTQ+ Support
+      - International Student Support
+      - First-Generation College Student
+      - Substance Use Support
+      - Trauma Recovery
+      - General Support Group
+      required: true
+    - id: 10
+      name: specific_group
+      label: Specific Group Preference
+      hint: If you have a preference
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_group_experience
+      label: Have You Participated in Group Counseling Before
+      hint: Previous experience
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: previous_experience_details
+      label: Tell Us About Your Previous Experience
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: availability
+      label: Your General Availability
+      hint: When are you free
+      type: select_multiple
+      options:
+      - Monday Morning
+      - Monday Afternoon
+      - Monday Evening
+      - Tuesday Morning
+      - Tuesday Afternoon
+      - Tuesday Evening
+      - Wednesday Morning
+      - Wednesday Afternoon
+      - Wednesday Evening
+      - Thursday Morning
+      - Thursday Afternoon
+      - Thursday Evening
+      - Friday Morning
+      - Friday Afternoon
+      required: true
+    - id: 14
+      name: time_preference
+      label: Preferred Time of Day
+      hint: Best time for you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - No Preference
+      required: true
+    - id: 15
+      name: group_size_preference
+      label: Group Size Preference
+      hint: How large a group
+      type: select_one
+      options:
+      - Small 4-6 people
+      - Medium 7-10 people
+      - Large 11-15 people
+      - No Preference
+      required: false
+    - id: 16
+      name: goals_for_group
+      label: What Are Your Goals for Joining a Group
+      hint: What do you hope to gain
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: concerns_about_group
+      label: Any Concerns About Group Counseling
+      hint: What worries you
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_counseling
+      label: Are You Currently in Individual Counseling
+      hint: Current therapy status
+      type: select_one
+      options:
+      - Yes On Campus
+      - Yes Off Campus
+      - false
+      - Previously
+      required: true
+    - id: 19
+      name: counselor_name
+      label: Current Counselor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Are You Currently Taking Any Psychiatric Medications
+      hint: Medication status
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: false
+    - id: 21
+      name: crisis_history
+      label: Have You Ever Had Thoughts of Harming Yourself
+      hint: Safety screening
+      type: select_one
+      options:
+      - Yes Currently
+      - Yes In the Past
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 22
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How related
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: referral_source
+      label: How Did You Hear About Group Counseling
+      hint: Information source
+      type: select_one
+      options:
+      - Counselor Recommendation
+      - Friend
+      - Professor
+      - Website
+      - Social Media
+      - Flyer or Poster
+      - Other
+      required: true
+    - id: 26
+      name: consent_to_participate
+      label: Consent to Participate in Group Counseling
+      hint: I understand and agree to participate
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      required: true
+    - id: 27
+      name: confidentiality_agreement
+      label: Confidentiality Agreement
+      hint: I agree to maintain confidentiality of group members
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

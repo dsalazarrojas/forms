@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care Contract
+    pages:
+    - id: 1
+      name: section_header_personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name of student responsible for care
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Guardian or parent name
+      hint: Required if student is under 18
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: animal_type
+      label: Animal type
+      hint: Species or common description of animal
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: care_responsibilities
+      label: Care responsibilities summary
+      hint: Outline daily tasks the student will perform
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: health_and_safety_rules_acknowledgement
+      label: Health and safety rules acknowledgement
+      hint: Confirm that the student and guardian reviewed rules
+      type: select_one
+      options:
+      - Acknowledged
+      - Not acknowledged
+      required: true
+    - id: 8
+      name: liability_and_insurance
+      label: Liability and insurance agreement
+      hint: Confirm understanding of liability terms
+      type: select_one
+      options:
+      - Agree
+      - Do not agree
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special care instructions
+      hint: Dietary restrictions or medical needs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Contract start date
+      hint: Date when responsibilities begin
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: signature_guardian
+      label: Guardian signature name
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true

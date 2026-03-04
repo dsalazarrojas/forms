@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_technology_needs_survey
+    pages:
+    - id: 1
+      name: course_goals
+      label: Course goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_background
+      label: Student background
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_interests
+      label: Student interests
+      hint: What are the student's interests
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: faculty_expectations
+      label: Faculty expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
+    - id: 5
+      name: educational_background
+      label: Educational background
+      hint: null
+      type: select_one
+      options:
+      - Option E
+      - Option F
+      - Option G
+      - Option H
+      - Option I
+      - Option J
+      required: true
+    - id: 6
+      name: school_name
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_size
+      label: School size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_type
+      label: School type
+      hint: null
+      type: text
+      options: []
+      required: false

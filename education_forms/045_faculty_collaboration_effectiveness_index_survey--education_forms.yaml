@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Collaboration Effectiveness Index Survey
+    pages:
+    - id: 1
+      name: collaboration_frequency
+      label: How Often Do You Collaborate
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Almost Always
+      required: false
+    - id: 2
+      name: collaboration_satisfaction
+      label: What Do You Think Is the Most Important Factor Affecting Collaboration
+      hint: null
+      type: select_one
+      options:
+      - Trust Among Team Members
+      - Clear Goals and Expectations
+      - Effective Communication
+      - Shared Resources and Responsibilities
+      - Other (please specify)
+      - None
+      required: false
+    - id: 3
+      name: challenges
+      label: What Are Some Challenges You Face in Collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - Time constraints
+      - Lack of Shared Resources
+      - Different Priorities
+      - Communication Breakdown
+      - Other (please specify)
+      - None
+      required: false
+    - id: 4
+      name: suggestions
+      label: Do You Have Any Suggestions for Improving Collaboration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: collaboration_frequency_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

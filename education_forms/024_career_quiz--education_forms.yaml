@@ -1,0 +1,290 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Quiz
+    pages:
+      - id: 1
+        name: quiz_participant_name
+        label: Your Name
+        hint: First and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: quiz_participant_email
+        label: Email Address
+        hint: We will send you results
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options:
+          - Under 18
+          - "18-25"
+          - "26-35"
+          - "36-45"
+          - "46-55"
+          - "56+"
+        required: true
+      - id: 4
+        name: education_level
+        label: Current Education Level
+        hint: null
+        type: select_one
+        options:
+          - High School Student
+          - High School Graduate
+          - Some College
+          - College Graduate
+          - Graduate Degree
+          - Other
+        required: true
+      - id: 5
+        name: question_1_interests
+        label: What Interests You Most?
+        hint: Select your primary interest
+        type: select_one
+        options:
+          - Working with people and helping others
+          - Creating and designing new things
+          - Solving problems and analyzing data
+          - Building and constructing things
+          - Managing and organizing projects
+          - Teaching and mentoring
+          - Exploring and discovering new things
+          - Making art or music
+        required: true
+      - id: 6
+        name: question_2_work_style
+        label: Your Ideal Work Style
+        hint: How do you prefer to work?
+        type: select_one
+        options:
+          - Independent work at your own pace
+          - Team collaboration and group projects
+          - Mix of both independent and team
+          - Working with clients or customers
+          - Working with computers and technology
+          - Working outdoors
+        required: true
+      - id: 7
+        name: question_3_environment
+        label: Ideal Work Environment
+        hint: Where would you like to work?
+        type: select_one
+        options:
+          - Office or corporate setting
+          - Remote or home-based
+          - Outdoor environment
+          - Laboratory or research facility
+          - School or educational setting
+          - Creative studio
+          - Diverse and dynamic setting
+          - No strong preference
+        required: true
+      - id: 8
+        name: question_4_priority
+        label: What Is Your Top Priority in Career?
+        hint: null
+        type: select_one
+        options:
+          - High income and financial success
+          - Helping others and making impact
+          - Creative expression and innovation
+          - Job security and stability
+          - Flexibility and work-life balance
+          - Professional growth and learning
+          - Status and recognition
+          - Doing what I love
+        required: true
+      - id: 9
+        name: question_5_strengths
+        label: Which Describes Your Strengths?
+        hint: Select your greatest strength
+        type: select_one
+        options:
+          - Communication and speaking
+          - Problem-solving and analysis
+          - Creativity and innovation
+          - Leadership and decision-making
+          - Attention to detail and accuracy
+          - Teamwork and collaboration
+          - Physical abilities and hands-on skills
+          - Emotional intelligence
+        required: true
+      - id: 10
+        name: question_6_subjects
+        label: Which Subjects Excited You Most in School?
+        hint: Select your favorite area
+        type: select_one
+        options:
+          - Math and science
+          - English and writing
+          - History and social studies
+          - Arts and design
+          - Technology and computers
+          - Physical education and sports
+          - Multiple subjects equally
+          - Not interested in any subject
+        required: true
+      - id: 11
+        name: question_7_learning
+        label: How Do You Like to Learn?
+        hint: null
+        type: select_one
+        options:
+          - Hands-on and practical
+          - Reading and research
+          - Listening and discussion
+          - Visual demonstrations
+          - Interactive and game-based
+          - One-on-one instruction
+          - Group learning
+          - Self-paced online
+        required: true
+      - id: 12
+        name: question_8_challenge
+        label: How Do You Handle Challenges?
+        hint: null
+        type: select_one
+        options:
+          - Face them head-on with confidence
+          - Ask for help and collaborate
+          - Research and plan carefully
+          - Get frustrated and avoid
+          - See them as learning opportunities
+          - Break them into smaller steps
+          - Prefer to avoid challenges
+        required: true
+      - id: 13
+        name: question_9_values
+        label: Which Value Is Most Important to You?
+        hint: null
+        type: select_one
+        options:
+          - Honesty and integrity
+          - Helping and compassion
+          - Innovation and progress
+          - Tradition and stability
+          - Freedom and independence
+          - Success and achievement
+          - Community and belonging
+          - Creativity and self-expression
+        required: true
+      - id: 14
+        name: question_10_salary
+        label: How Important Is Salary?
+        hint: null
+        type: select_one
+        options:
+          - Very important - top priority
+          - Important but not most important
+          - Somewhat important
+          - Not very important
+          - Not important at all
+        required: true
+      - id: 15
+        name: question_11_responsibility
+        label: Your Preferred Level of Responsibility
+        hint: null
+        type: select_one
+        options:
+          - Individual contributor - few responsibilities
+          - Team member with shared responsibility
+          - Team lead or supervisor
+          - Manager or executive
+          - No preference
+        required: true
+      - id: 16
+        name: question_12_travel
+        label: Willingness to Travel for Work
+        hint: null
+        type: select_one
+        options:
+          - Willing to travel frequently
+          - Occasional travel is fine
+          - Prefer minimal travel
+          - No travel preferred
+          - Open to any arrangement
+        required: false
+      - id: 17
+        name: question_13_specialization
+        label: Preference for Specialization vs. Generalization
+        hint: null
+        type: select_one
+        options:
+          - Deep specialization in one area
+          - Broad knowledge across many areas
+          - Mix of both
+          - No preference
+        required: false
+      - id: 18
+        name: question_14_entrepreneurship
+        label: Interest in Entrepreneurship
+        hint: Starting your own business?
+        type: select_one
+        options:
+          - Very interested - want to start business
+          - Somewhat interested - would consider
+          - Not interested - prefer employment
+          - Unsure - still exploring
+        required: false
+      - id: 19
+        name: question_15_fields
+        label: Which Career Fields Interest You?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Technology and IT
+          - Healthcare and Medicine
+          - Business and Finance
+          - Engineering
+          - Education
+          - Arts and Entertainment
+          - Law and Government
+          - Sales and Marketing
+          - Trades and Manufacturing
+          - Non-profit and Social Services
+        required: true
+      - id: 20
+        name: clarification_question
+        label: What Aspect of Career Concerns You Most?
+        hint: What do you want help with?
+        type: select_one
+        options:
+          - Choosing a career field
+          - Finding a job
+          - Advancing in current field
+          - Changing careers
+          - Understanding your strengths
+          - Planning education
+          - Salary expectations
+          - Work-life balance
+        required: false
+      - id: 21
+        name: quiz_completion_confidence
+        label: How Confident Are You About Your Career Direction?
+        hint: null
+        type: select_one
+        options:
+          - Very confident - know my path
+          - Confident - have a general idea
+          - Somewhat confident - exploring
+          - Uncertain - still figuring out
+          - Not confident - very confused
+        required: true

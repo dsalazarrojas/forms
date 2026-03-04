@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Management Tools Instructor Inquiry Form
+    pages:
+    - id: 1
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: tool_name
+      label: tool_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tool_version
+      label: tool_version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tool_description
+      label: tool_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: platform_feature
+      label: platform_feature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_institution
+      label: contact_institution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: contact_department
+      label: contact_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_title
+      label: contact_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tool_evaluation
+      label: tool_evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: tool_implementation
+      label: tool_implementation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: tool_satisfaction
+      label: tool_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training
+      label: training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_tools
+      label: other_tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: tool_suggest
+      label: tool_suggest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tool_request
+      label: tool_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: platform_satisfaction
+      label: platform_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 24
+      name: platform_implementation
+      label: platform_implementation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: true

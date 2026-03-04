@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutorial Completion Acknowledgment
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: completed_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_completed_range
+      label: completion_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''category1''}'
+      - '{''id'': 2, ''label'': ''category2''}'
+      - '{''id'': 3, ''label'': ''category3''}'
+      required: false

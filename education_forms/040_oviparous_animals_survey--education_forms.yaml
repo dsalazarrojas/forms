@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: oviparous_animals_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: species
+      label: species
+      hint: null
+      type: select_one
+      options:
+      - Bird
+      - Reptile
+      - Fish
+      required: false
+    - id: 3
+      name: eggs_laid
+      label: eggs_laid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: egg_size
+      label: egg_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: incubation_time
+      label: incubation_time
+      hint: null
+      type: select_multiple
+      options:
+      - 1-7 days
+      - 8-14 days
+      - 15-30 days
+      - 31-60 days
+      - 61-90 days
+      - 91 days or more
+      required: false
+    - id: 6
+      name: egg_shape
+      label: egg_shape
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - Oval
+      - Elliptical
+      - Irregular
+      required: false
+    - id: 7
+      name: lay_frequency
+      label: lay_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: egg_color
+      label: egg_color
+      hint: null
+      type: select_multiple
+      options:
+      - Brown
+      - Green
+      - Blue
+      - Red
+      - Yellow
+      - Other
+      required: false
+    - id: 9
+      name: incubation_period
+      label: incubation_period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Neutral
+      required: false
+    - id: 11
+      name: species_additional_info
+      label: species_additional_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 12
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: researcher_name
+      label: researcher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: researcher_institution
+      label: researcher_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: researcher_email
+      label: researcher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: researcher_phone
+      label: researcher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: researcher_title
+      label: researcher_title
+      hint: null
+      type: text
+      options: []
+      required: false

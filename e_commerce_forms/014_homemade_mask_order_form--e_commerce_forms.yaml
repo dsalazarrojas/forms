@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: homemade-mask-order-form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_message
+      label: order message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: order total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''credit card''}'
+      - '{''label'': ''cash''}'
+      - '{''label'': ''bank transfer''}'
+      required: true
+    - id: 9
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: shipping_method
+      label: shipping method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''shipping option 1''}'
+      - '{''label'': ''shipping option 2''}'
+      - '{''label'': ''shipping option 3''}'
+      required: true
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''user1''}'
+      - '{''label'': ''user2''}'
+      required: true
+    - id: 13
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''pending''}'
+      - '{''label'': ''shipped''}'
+      - '{''label'': ''delivered''}'
+      required: true
+    - id: 14
+      name: customer_notes
+      label: customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_id
+      label: order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: customer_title
+      label: customer title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: order_type
+      label: order type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''custom''}'
+      - '{''label'': ''standard''}'
+      - '{''label'': ''premium''}'
+      required: false
+    - id: 18
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_date_added
+      label: order date added
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipping_cost
+      label: shipping cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: tax_rate
+      label: tax rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_cost
+      label: total cost
+      hint: null
+      type: number
+      options: []
+      required: false

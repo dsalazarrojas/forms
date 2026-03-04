@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Effectiveness Evaluation Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_performance
+      label: Teacher Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: teacher_strengths
+      label: Teacher Strengths
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      required: true
+    - id: 4
+      name: teacher_weaknesses
+      label: Teacher Weaknesses
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: true
+    - id: 5
+      name: parent_feedback
+      label: Parent Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false

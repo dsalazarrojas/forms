@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Quality Survey
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: overall_quality
+      label: Overall Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teaching_quality
+      label: Teaching Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: true
+    - id: 4
+      name: teaching_quality_what_improvement
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teaching_quality_what_improve
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_environment
+      label: School Environment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: true
+    - id: 7
+      name: school_facilities
+      label: School Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 8
+      name: teacher_quality
+      label: Teacher Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: true
+    - id: 9
+      name: teacher_helpfulness
+      label: Teacher Helpfulness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: student_quality
+      label: Student Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: true
+    - id: 11
+      name: school_leadership
+      label: School Leadership
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: true
+    - id: 12
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 13
+      name: student_satisfaction
+      label: Student Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: false
+    - id: 14
+      name: parent_satisfaction
+      label: Parent Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: false
+    - id: 15
+      name: teacher_satisfaction
+      label: Teacher Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: false
+    - id: 16
+      name: parent_satisfaction_what_improvement
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: teacher_satisfaction_what_improvement
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: overall_quality_what_improvement
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: overall_quality_what_improvement_what
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_quality_what_improvement_what_2
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: overall_quality_what_improvement_what_3
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: overall_quality_what_improvement_what_4
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_quality_what_improvement_what_5
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: overall_quality_what_improvement_what_6
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_quality_what_improvement_what_7
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false

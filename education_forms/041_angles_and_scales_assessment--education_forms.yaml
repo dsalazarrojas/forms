@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Angles And Scales Assessment
+    pages:
+    - id: 1
+      name: section_instructions
+      label: -- Assessment Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_1
+      label: Calculate the angle given two lines
+      hint: Short answer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_2
+      label: Scale conversion problem
+      hint: Provide numerical answer
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: confidence
+      label: Confidence level
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: false
+    - id: 6
+      name: teacher_notes
+      label: Teacher notes
+      hint: For grading feedback
+      type: text
+      options: []
+      required: false

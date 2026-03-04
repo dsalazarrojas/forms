@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Technique Assessment
+    pages:
+    - id: 1
+      name: --assessment_instructions--
+      label: -- Assessment Instructions --
+      hint: Rate techniques based on understanding and application
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessor_name
+      label: Assessor name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: technique_name
+      label: Technique name
+      hint: Example Transformer models, clustering
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: understanding_level
+      label: Understanding level
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: application_experience
+      label: Experience applying the technique
+      hint: Select one
+      type: select_one
+      options:
+      - None
+      - Some guided practice
+      - Applied in projects
+      - Led implementations
+      required: true
+    - id: 6
+      name: complexity_rating
+      label: Perceived complexity for learners
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: recommended_resources
+      label: Recommended learning resources
+      hint: Books, courses, tutorials
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessment_notes
+      label: Additional assessment notes
+      hint: Optional
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Robotics Upskilling Registration Form
+    pages:
+    - id: 1
+      name: workforce_robots_upskilling_registration_form_page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workforce_robots_upskilling_training_programs
+      label: Select training programs
+      hint: null
+      type: select_multiple
+      options:
+      - Introduction to Robotics
+      - Python Programming for Robotics
+      - Robotics Design
+      required: true
+    - id: 3
+      name: workforce_robots_upskill_start_date
+      label: Upskill start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: workforce_robots_upskill_end_date
+      label: Upskill end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: workforce_robots_upskilling_registration_status
+      label: Registration status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Completed
+      - Pending
+      required: true
+    - id: 6
+      name: workforce_robots_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: workforce_robots_email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: workforce_robots_phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: workforce_robots_additional_notes
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

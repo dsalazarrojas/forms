@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Is The Milk You Are Having Safe!!!
+    pages:
+    - id: 1
+      name: milk_water
+      label: Check for Water
+      hint: Look for cloudiness
+      type: select_one
+      options:
+      - Water
+      - Milk
+      required: false
+    - id: 2
+      name: milk_starch
+      label: Check for Starch
+      hint: null
+      type: select_one
+      options:
+      - Water
+      - Starch
+      - No Starch
+      required: false
+    - id: 3
+      name: milk_detergent
+      label: Check for Detergent
+      hint: null
+      type: select_one
+      options:
+      - Detergent
+      - No Detergent
+      required: false
+    - id: 4
+      name: milk_color
+      label: Check Color
+      hint: null
+      type: select_one
+      options:
+      - Normal Color
+      - Changed Color
+      required: false
+    - id: 5
+      name: milk_smell
+      label: Check Smell
+      hint: null
+      type: select_one
+      options:
+      - Normal Smell
+      - Changed Smell
+      required: false
+    - id: 6
+      name: milk_taste
+      label: Check Taste
+      hint: null
+      type: select_one
+      options:
+      - Normal Taste
+      - Changed Taste
+      required: false
+    - id: 7
+      name: milk_feel
+      label: Check Feel
+      hint: null
+      type: select_one
+      options:
+      - Normal Feel
+      - Changed Feel
+      required: false
+    - id: 8
+      name: milk_visual
+      label: Check Visual
+      hint: null
+      type: select_one
+      options:
+      - Normal Visual
+      - Changed Visual
+      required: false
+    - id: 9
+      name: milk_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: milk_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: milk_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: milk_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: milk_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: milk_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

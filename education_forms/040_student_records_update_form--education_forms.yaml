@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Records Update Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: grade_level_id
+      label: Grade Levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: school_id
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: student_record_status
+      label: Student Record Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: student_record_updated_by
+      label: Student Record Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: grade_level_ids
+      label: Grade Levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false

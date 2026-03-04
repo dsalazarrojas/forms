@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Lunch Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Middle School
+      - Elementary
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: school
+      label: School
+      hint: null
+      type: select_multiple
+      options:
+      - Elementary
+      - High School
+      - Middle School
+      required: false
+    - id: 8
+      name: lunch_type
+      label: Lunch Type
+      hint: null
+      type: select_one
+      options:
+      - Pizza
+      - Salad
+      - Sandwich
+      - Soup
+      - Fruit
+      required: true
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: favorite_food
+      label: Favorite Food
+      hint: null
+      type: select_multiple
+      options:
+      - Pizza
+      - Salad
+      - Sandwich
+      - Fruit
+      required: true
+    - id: 11
+      name: favorite_drink
+      label: Favorite Drink
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Juice
+      - Soda
+      required: false
+    - id: 12
+      name: favorite_activity
+      label: Favorite Activity
+      hint: null
+      type: select_multiple
+      options:
+      - Playing outside
+      - Reading
+      - Art
+      - Music
+      required: true
+    - id: 13
+      name: favorite_time
+      label: Favorite Time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 14
+      name: favorite_food_at_school
+      label: Favorite Food at School
+      hint: Select up to 3 options
+      type: select_multiple
+      options:
+      - Pizza
+      - Salad
+      - Sandwich
+      - Soup
+      - Fruit
+      required: false
+    - id: 15
+      name: favorite_drink_at_school
+      label: Favorite Drink at School
+      hint: Select up to 3 options
+      type: select_multiple
+      options:
+      - Water
+      - Juice
+      - Soda
+      required: false
+    - id: 16
+      name: favorite_activity_at_school
+      label: Favorite Activity at School
+      hint: Select up to 3 options
+      type: select_multiple
+      options:
+      - Playing outside
+      - Reading
+      - Art
+      - Music
+      required: false
+    - id: 17
+      name: favorite_time_at_school
+      label: Favorite Time at School
+      hint: Select up to 3 options
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 18
+      name: school_rating
+      label: School Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: comments_about_school
+      label: Comments about School
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: comments_about_food
+      label: Comments about Food
+      hint: null
+      type: note
+      options: []
+      required: false

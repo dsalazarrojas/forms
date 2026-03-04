@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Learning Research Pilot Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Adaptive Learning Research Pilot Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Valid email for communication about the study
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: institution_name
+      label: Institution Name
+      hint: Name of your school, university, or educational organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role_in_education
+      label: Role in Educational Setting
+      hint: Your position or role in the educational environment
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Administrator
+      - Researcher
+      - Parent
+      - Other
+      required: true
+    - id: 7
+      name: education_level
+      label: Education Level
+      hint: What level of education do you primarily work with?
+      type: select_one
+      options:
+      - Elementary School
+      - Middle School
+      - High School
+      - College/University
+      - Adult Education
+      - Other
+      required: false
+    - id: 8
+      name: years_experience
+      label: Years of Experience in Education
+      hint: How many years have you worked in education?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: technology_experience
+      label: Experience with Educational Technology
+      hint: Rate your comfort level with educational technology
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: adaptive_learning_experience
+      label: Previous Experience with Adaptive Learning
+      hint: Have you previously used adaptive learning systems?
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, some experience
+      - No, but interested
+      - No, unfamiliar
+      required: true
+    - id: 11
+      name: research_interests
+      label: Research Interests
+      hint: What aspects of adaptive learning interest you most?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: time_commitment
+      label: Estimated Time Commitment
+      hint: How much time can you dedicate to this pilot study per week?
+      type: select_one
+      options:
+      - Less than 2 hours
+      - 2-5 hours
+      - 5-10 hours
+      - More than 10 hours
+      required: true
+    - id: 13
+      name: computer_access
+      label: Access to Computer/Internet
+      hint: Do you have reliable access to a computer and internet?
+      type: select_one
+      options:
+      - Yes, reliable access
+      - Yes, limited access
+      - No, limited access
+      required: true
+    - id: 14
+      name: pilot_goals
+      label: Goals for Participating in Pilot
+      hint: What do you hope to gain from participating in this pilot?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: challenges_expected
+      label: Expected Challenges
+      hint: What challenges do you anticipate during the pilot?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: data_privacy_consent
+      label: Data Privacy Consent
+      hint: Do you consent to having your data collected and analyzed for research
+        purposes?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: publication_consent
+      label: Publication Consent
+      hint: Do you consent to findings being published (anonymized)?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: withdrawal_rights
+      label: Withdrawal Rights Acknowledged
+      hint: Do you understand you can withdraw from the study at any time?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: research_benefits_understood
+      label: Research Benefits Understood
+      hint: Do you understand the potential benefits of this research?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing this registration form
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: participant_signature
+      label: Participant Signature
+      hint: Your electronic signature
+      type: text
+      options: []
+      required: true

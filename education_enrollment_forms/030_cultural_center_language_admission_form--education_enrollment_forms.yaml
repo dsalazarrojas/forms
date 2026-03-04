@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cultural Center Language Admission Form
+    pages:
+    - id: 1
+      name: language_admission_form
+      label: LanguageAdmissionForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_info
+      label: ApplicantInfo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: language_level
+      label: LanguageLevel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Beginner''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false
+    - id: 4
+      name: course_type
+      label: CourseType
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Language Course''}'
+      - '{''id'': 2, ''label'': ''Culture Course''}'
+      - '{''id'': 3, ''label'': ''Art Course''}'
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: application_date
+      label: ApplicationDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_slot
+      label: TimeSlot
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''Spanish''}'
+      - '{''id'': 3, ''label'': ''French''}'
+      - '{''id'': 4, ''label'': ''Chinese''}'
+      - '{''id'': 5, ''label'': ''Japanese''}'
+      required: false
+    - id: 11
+      name: cultural_center
+      label: CulturalCenter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Language Institute''}'
+      - '{''id'': 2, ''label'': ''Culture Institute''}'
+      - '{''id'': 3, ''label'': ''Art Institute''}'
+      required: false
+    - id: 12
+      name: course_length
+      label: CourseLength
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: course_frequency
+      label: CourseFrequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: language_proficiency
+      label: LanguageProficiency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Proficient''}'
+      - '{''id'': 2, ''label'': ''Beginner''}'
+      - '{''id'': 3, ''label'': ''Intermediate''}'
+      required: false
+    - id: 16
+      name: language_proficiency_level
+      label: LanguageProficiencyLevel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 17
+      name: language_proficiency_scale
+      label: LanguageProficiencyScale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''1-5''}'
+      - '{''id'': 2, ''label'': ''6-10''}'
+      - '{''id'': 3, ''label'': ''11-15''}'
+      required: false
+    - id: 18
+      name: language_proficiency_scale_scale
+      label: LanguageProficiencyScaleScale
+      hint: null
+      type: number
+      options: []
+      required: false

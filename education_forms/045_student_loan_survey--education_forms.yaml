@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Loan Survey
+    pages:
+    - id: 1
+      name: student_loan_survey_form
+      label: student_loan_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: federal_loan
+      label: federal_loan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: private_loan
+      label: private_loan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: student_loan_survey_comments
+      label: student_loan_survey_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: student_loan_survey_comments
+      label: student_loan_survey_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_disbursal
+      label: date_of_last_disbursal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_last_disbursal
+      label: time_of_last_disbursal
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: student_loan_interest_rate
+      label: student_loan_interest_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: monthly_payment
+      label: monthly_payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: total_outstanding_balance
+      label: total_outstanding_balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_interest_paid
+      label: total_interest_paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_amount_paid
+      label: total_amount_paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: loan_originator
+      label: loan_originator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: loan_servicer
+      label: loan_servicer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: student_loan_survey_satisfaction
+      label: student_loan_survey_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 18
+      name: student_loan_survey_satisfaction_level
+      label: student_loan_survey_satisfaction_level
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

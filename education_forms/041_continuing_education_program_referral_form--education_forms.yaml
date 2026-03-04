@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education Program Referral Form
+    pages:
+    - id: 1
+      name: referrer_info_header
+      label: -- Referrer Information --
+      hint: Tell us who is making this referral
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: referrer_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referrer_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: referrer_relationship
+      label: Relationship to Candidate
+      hint: e.g., Colleague, Manager, Instructor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_info_header
+      label: -- Candidate Information --
+      hint: Information about the person you are referring
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: candidate_full_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: candidate_email
+      label: Candidate Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: candidate_phone
+      label: Candidate Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: candidate_career_level
+      label: Candidate Current Career Level
+      hint: null
+      type: select_one
+      options:
+      - Entry Level (0-2 Years)
+      - Mid-Career (3-7 Years)
+      - Senior Professional (8-15 Years)
+      - Executive/Director (15 plus Years)
+      required: true
+    - id: 10
+      name: referral_details_header
+      label: -- Referral Details --
+      hint: Why is this person a good fit
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recommended_program
+      label: Recommended Educational Program
+      hint: Which program would benefit them most
+      type: select_one
+      options:
+      - Advanced Strategic Leadership
+      - Technical Project Management
+      - Specialized Medical Coding
+      - Digital Content Strategy
+      - Conflict Resolution and Mediation
+      required: true
+    - id: 12
+      name: referral_reason
+      label: Why are you referring this candidate
+      hint: Mention specific strengths or career goals (Max 150 words)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: referral_date
+      label: Date of Referral
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_permission
+      label: May we mention your name when we contact the candidate
+      hint: null
+      type: select_one
+      options:
+      - Yes - Feel free to use my name
+      - No - I prefer this referral to be anonymous
+      required: true
+    - id: 15
+      name: notification_on_admission
+      label: Notify me if the candidate is admitted
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

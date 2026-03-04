@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: standardized_testing_procedures_audit_form
+    pages:
+    - id: 1
+      name: test_form
+      label: Testing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_audit
+      label: Date of Audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: school_or_testing_center
+      label: School or Testing Center
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_one
+      options:
+      - Compliant
+      - Not Compliant
+      required: false
+    - id: 5
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: compliance_comments
+      label: Compliance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: observations
+      label: Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_action_date
+      label: Next Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_actions_taken
+      label: Follow-up Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false

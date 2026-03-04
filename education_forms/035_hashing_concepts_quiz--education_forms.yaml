@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hashing Concepts Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: Hashing Concepts Quiz Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Question
+      hint: null
+      type: select_multiple
+      options:
+      - Hash Function
+      - Message Digest
+      - Digital Signatures
+      required: false
+    - id: 3
+      name: question_3
+      label: Hash Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_4
+      label: Hashing
+      hint: null
+      type: select_one
+      options:
+      - Hash
+      - Non-reversible Hash
+      - Reversible Hash
+      required: false
+    - id: 5
+      name: question_5
+      label: Hashing Concepts Quiz
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Impact Analysis Teachers Survey
+    pages:
+    - id: 1
+      name: university
+      label: University of Delhi
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ug_programmes
+      label: UG Programmes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teachers
+      label: Teachers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: survey_response
+      label: Survey Response
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: impact_analysis
+      label: Impact Analysis
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

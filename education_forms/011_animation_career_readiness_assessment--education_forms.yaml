@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Career Readiness Assessment
+    pages:
+    - id: 1
+      name: candidate_header
+      label: -- Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For assessment results
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_school
+      label: Current School or Program
+      hint: Name of institution
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: education_header
+      label: -- Education and Training --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: highest_degree
+      label: Highest Level of Education
+      hint: Select your educational background
+      type: select_one
+      options:
+      - High School Diploma
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Diploma from Animation School
+      - Self-taught
+      required: true
+    - id: 8
+      name: animation_experience
+      label: Years of Animation Experience
+      hint: How long have you been studying animation
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-3 years
+      - 3-5 years
+      - 5+ years
+      required: true
+    - id: 9
+      name: specializations
+      label: Your Animation Specializations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 2D Traditional Animation
+      - 3D CGI Animation
+      - Motion Graphics
+      - Stop-Motion
+      - Character Animation
+      - Environmental Design
+      - Visual Effects
+      - Storyboarding
+      required: true
+    - id: 10
+      name: relevant_coursework
+      label: Relevant Coursework Completed
+      hint: Select courses you have taken
+      type: select_multiple
+      options:
+      - Principles of Animation
+      - Character Design
+      - Digital Illustration
+      - Video Production
+      - 3D Modeling
+      - After Effects
+      - Maya or Blender
+      - Story Development
+      required: false
+    - id: 11
+      name: portfolio_header
+      label: -- Portfolio Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_pieces
+      label: Number of Portfolio Pieces
+      hint: How many finished works do you have
+      type: select_one
+      options:
+      - 0-5 pieces
+      - 6-10 pieces
+      - 11-20 pieces
+      - 20+ pieces
+      required: true
+    - id: 13
+      name: portfolio_quality
+      label: Rate the Quality of Your Portfolio
+      hint: Self-assessment of work quality
+      type: select_one
+      options:
+      - Excellent - Professional level
+      - Good - Strong fundamentals
+      - Adequate - Demonstrates skills
+      - Developing - Shows potential
+      - Beginner - Early stages
+      required: true
+    - id: 14
+      name: portfolio_url
+      label: Portfolio Website or Link
+      hint: URL to your portfolio
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: professional_experience_header
+      label: -- Professional Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: internship_experience
+      label: Do you have animation internship experience
+      hint: Any professional work experience
+      type: select_one
+      options:
+      - Yes, multiple internships
+      - Yes, one internship
+      - Yes, freelance projects
+      - No, but completed projects
+      - No experience
+      required: true
+    - id: 17
+      name: industry_knowledge
+      label: Knowledge of Animation Industry
+      hint: Your understanding of the field
+      type: select_one
+      options:
+      - Excellent - Very informed
+      - Good - Well informed
+      - Adequate - Basic knowledge
+      - Limited - Some awareness
+      - Minimal - Just starting
+      required: true
+    - id: 18
+      name: technical_skills_header
+      label: -- Technical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: software_proficiency
+      label: Software Programs You Master
+      hint: Select programs you know well
+      type: select_multiple
+      options:
+      - Maya
+      - Blender
+      - After Effects
+      - Procreate
+      - Photoshop
+      - Illustrator
+      - Cinema 4D
+      - Toon Boom
+      required: false
+    - id: 20
+      name: technical_proficiency_overall
+      label: Overall Technical Proficiency
+      hint: Rate your technical skills
+      type: select_one
+      options:
+      - Expert - Advanced technical skills
+      - Advanced - Strong capabilities
+      - Intermediate - Solid skills
+      - Beginner - Learning the tools
+      - Novice - Very new to software
+      required: true
+    - id: 21
+      name: soft_skills_header
+      label: -- Soft Skills and Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: collaboration_skills
+      label: Collaboration and Teamwork
+      hint: Ability to work with others
+      type: select_one
+      options:
+      - Excellent team player
+      - Good collaboration skills
+      - Adequate collaboration
+      - Limited group experience
+      - Prefer working alone
+      required: true
+    - id: 23
+      name: deadline_management
+      label: Meeting Deadlines and Time Management
+      hint: Your ability to manage projects
+      type: select_one
+      options:
+      - Excellent - Always on time
+      - Good - Usually meets deadlines
+      - Adequate - Sometimes late
+      - Challenging - Often late
+      - Very challenging - Frequently late
+      required: true
+    - id: 24
+      name: career_goals
+      label: What are your animation career goals
+      hint: Describe your aspirations
+      type: text
+      options: []
+      required: false

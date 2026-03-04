@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_study_planning_form
+    pages:
+    - id: 1
+      name: study_schedule
+      label: Study Schedule
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: study_materials
+      label: Materials Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Textbooks
+      - Lecture Notes
+      - Online Resources
+      - Other
+      required: false
+    - id: 3
+      name: study_group
+      label: Study Group
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      required: false
+    - id: 4
+      name: study_location
+      label: Study Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Classroom
+      - Library
+      - Other
+      required: false
+    - id: 5
+      name: study_time
+      label: Study Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: study_resources
+      label: Other Resources Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_notification
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

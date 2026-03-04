@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Academy Trainer Renewal Application Form
+    pages:
+    - id: 1
+      name: trainer_first_name
+      label: First Name
+      hint: Trainer first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trainer_last_name
+      label: Last Name
+      hint: Trainer last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trainer_id
+      label: Trainer ID Number
+      hint: Your ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: certification_number
+      label: Certification Number
+      hint: License or cert number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: certification_expiry
+      label: Current Certification Expiry
+      hint: When does it expire
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: subjects_taught
+      label: Subjects Taught
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cosmetology
+      - Esthetics
+      - Nail Technology
+      - Barbering
+      - Makeup Artistry
+      - Hair Styling
+      - Business Skills
+      - Other
+      required: true
+    - id: 9
+      name: years_teaching
+      label: Years Teaching at Academy
+      hint: Teaching experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - Over 15 years
+      required: true
+    - id: 10
+      name: courses_completed
+      label: Number of Courses Completed
+      hint: In past year
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: student_success_rate
+      label: Student Success Rate
+      hint: Pass rate percentage
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: continuing_education
+      label: Continuing Education Hours
+      hint: Hours completed
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: ce_certificates
+      label: CE Certificates Uploaded
+      hint: Have you uploaded
+      type: select_one
+      options:
+      - true
+      - No - Will Submit Later
+      required: true
+    - id: 14
+      name: new_qualifications
+      label: New Qualifications Obtained
+      hint: Any new certs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: teaching_evaluations
+      label: Teaching Evaluation Score
+      hint: Average score
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      required: true
+    - id: 16
+      name: renewal_type
+      label: Renewal Type
+      hint: What type of renewal
+      type: select_one
+      options:
+      - Standard Renewal
+      - Late Renewal
+      - Reinstatement
+      - Initial Application
+      required: true
+    - id: 17
+      name: renewal_fee
+      label: Renewal Fee Paid
+      hint: Have you paid
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: background_check
+      label: Background Check Current
+      hint: Is it current
+      type: select_one
+      options:
+      - true
+      - No - Will Submit
+      required: true
+    - id: 19
+      name: academy_comments
+      label: Academy Comments
+      hint: Any comments from academy
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: trainer_signature
+      label: Trainer Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

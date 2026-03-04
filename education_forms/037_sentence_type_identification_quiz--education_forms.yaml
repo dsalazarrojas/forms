@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sentence Type Identification Quiz
+    pages:
+    - id: 1
+      name: sentence_type
+      label: type_of_sentence
+      hint: null
+      type: select_one
+      options:
+      - declarative
+      - interrogative
+      - imperative
+      - exclamatory
+      required: false
+    - id: 2
+      name: example_sentence_1
+      label: example_sentence1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: example_sentence_2
+      label: example_sentence2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: example_sentence_3
+      label: example_sentence3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: example_sentence_4
+      label: example_sentence4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: example_sentence_5
+      label: example_sentence5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: example_sentence_6
+      label: example_sentence6
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: example_sentence_7
+      label: example_sentence7
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: example_sentence_8
+      label: example_sentence8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: example_sentence_9
+      label: example_sentence9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: example_sentence_10
+      label: example_sentence10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: answer
+      label: answer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Education
+      - Other
+      required: false
+    - id: 15
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_user
+      label: submitted_by_user
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 19
+      name: form_completed_at
+      label: form_completed_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_completed_by
+      label: form_completed_by
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 21
+      name: tool_used
+      label: tool_used
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 25
+      name: notes_2
+      label: notes_2
+      hint: null
+      type: text
+      options: []
+      required: false

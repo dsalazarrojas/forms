@@ -1,0 +1,73 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: online_course_completion_evaluation_form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_effectiveness
+      label: How would you rate the effectiveness of this course?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly effective''}'
+      - '{''label'': ''Somewhat effective''}'
+      - '{''label'': ''Not very effective''}'
+      - '{''label'': ''Not at all effective''}'
+      required: true
+    - id: 3
+      name: instructor_support
+      label: How would you rate the support received from the instructor?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly supportive''}'
+      - '{''label'': ''Somewhat supportive''}'
+      - '{''label'': ''Not very supportive''}'
+      - '{''label'': ''Not at all supportive''}'
+      required: true
+    - id: 4
+      name: overall_experience
+      label: Overall, how would you rate your experience with this course?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Highly satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Highly dissatisfied''}'
+      required: true
+    - id: 5
+      name: recommend
+      label: Would you recommend this course to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 6
+      name: feedback
+      label: Any additional feedback about the course?
+      hint: Please provide any comments or suggestions about the course.
+      type: text
+      options: []
+      required: true

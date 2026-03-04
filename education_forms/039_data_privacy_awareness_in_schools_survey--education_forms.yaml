@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Privacy Awareness In Schools Survey
+    pages:
+    - id: 1
+      name: school_survey_data_privacy
+      label: School Survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_training_needs
+      label: Training Needs
+      hint: Identify the training needs for your staff.
+      type: select_multiple
+      options:
+      - Data Breaches and Incidents
+      - Data Collection
+      - Data Security
+      - Data Minimization
+      - Data Protection
+      - Data Subject Consent
+      - Data Storage and Retention
+      - Data Transfers and Sharing
+      required: true
+    - id: 3
+      name: student_privacy_knowledge
+      label: Student Privacy Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Somewhat Agree
+      - Strongly Agree
+      required: true
+    - id: 4
+      name: parental_privacy_knowledge
+      label: Parental Privacy Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Somewhat Agree
+      - Strongly Agree
+      required: true
+    - id: 5
+      name: student_privacy_risks
+      label: Student Privacy Risks
+      hint: null
+      type: select_multiple
+      options:
+      - Data Collection
+      - Data Storage and Retention
+      - Data Breaches and Incidents
+      - Data Transfers and Sharing
+      - Data Subject Consent
+      - Data Minimization
+      required: true
+    - id: 6
+      name: staff_privacy_knowledge
+      label: Staff Privacy Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Somewhat Agree
+      - Strongly Agree
+      required: true
+    - id: 7
+      name: district_satisfaction
+      label: District Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 8
+      name: school_satisfactions
+      label: School Satisfactions
+      hint: null
+      type: select_multiple
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Innovation Toolkit Request Form
+    pages:
+    - id: 1
+      name: section_requester
+      label: -- Requester Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of requester
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact for toolkit delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or unit
+      hint: Where the toolkit will be used
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: toolkit_requested
+      label: Toolkit requested
+      hint: Name or category of toolkit
+      type: select_one
+      options:
+      - Teaching innovation toolkit
+      - Data literacy toolkit
+      - Project management toolkit
+      - Assessment and feedback toolkit
+      required: true
+    - id: 6
+      name: intended_use
+      label: Intended use of toolkit
+      hint: How the toolkit will be used in practice
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: quantity_needed
+      label: Quantity needed
+      hint: Number of toolkit copies or licenses
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: delivery_preference
+      label: Delivery preference
+      hint: Digital or physical delivery options
+      type: select_one
+      options:
+      - Digital
+      - Physical
+      - Both
+      required: false
+    - id: 9
+      name: timeline
+      label: Required timeline
+      hint: Date by which toolkit is needed
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Any special requests or context
+      type: text
+      options: []
+      required: false

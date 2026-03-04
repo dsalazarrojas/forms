@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: SAT Exam Registration Form
+    pages:
+    - id: 1
+      name: sat_exam_registration_page
+      label: Page 1
+      hint: Enter all necessary information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exam_info
+      label: Exam Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment_method_selected
+      label: Payment Method Selected
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

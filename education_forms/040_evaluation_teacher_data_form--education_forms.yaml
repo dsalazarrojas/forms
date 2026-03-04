@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evaluation Teacher Data Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Please enter first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Mathematics
+      - Science
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Principal
+      - Vice Principal
+      - Teacher
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: assigned_tool_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitted_by_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false

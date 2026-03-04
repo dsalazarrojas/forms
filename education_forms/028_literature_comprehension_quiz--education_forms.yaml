@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Literature Comprehension Quiz
+    pages:
+    - id: 1
+      name: reading_check
+      label: Reading Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: question 1
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: question2
+      label: question 2
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: question3
+      label: question 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: question 4
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false

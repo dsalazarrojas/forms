@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bessel Functions Knowledge Quiz
+    pages:
+      - id: 1
+        name: student_info_header
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_full_name
+        label: Student Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id_number
+        label: Student ID Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: course_identifier
+        label: Course Name and Section
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: quiz_questions_header
+        label: -- Quiz Questions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: bessel_order_question
+        label: What is the standard notation for the order of a Bessel function of the first kind
+        hint: null
+        type: select_one
+        options:
+          - n
+          - J_n(x)
+          - x
+          - pi
+        required: true
+      - id: 7
+        name: bessel_equation_order
+        label: Bessel's equation is a linear differential equation of what order
+        hint: null
+        type: select_one
+        options:
+          - First Order
+          - Second Order
+          - Third Order
+          - Fourth Order
+        required: true
+      - id: 8
+        name: coordinate_system_question
+        label: In what coordinate system do Bessel functions most frequently arise
+        hint: null
+        type: select_one
+        options:
+          - Cartesian Coordinates
+          - Polar and Cylindrical Coordinates
+          - Spherical Coordinates
+          - All of the above
+        required: true
+      - id: 9
+        name: bessel_solutions_selection
+        label: Which of the following are solutions to Bessel's differential equation
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - J_n(x) - First Kind
+          - Y_n(x) - Second Kind
+          - I_n(x) - Modified First Kind
+          - K_n(x) - Modified Second Kind
+        required: true
+      - id: 10
+        name: neumann_function_alias
+        label: The Bessel function of the second kind Y_n(x) is also known as what
+        hint: null
+        type: select_one
+        options:
+          - Neumann function
+          - Hankel function
+          - Airy function
+          - Gamma function
+        required: true
+      - id: 11
+        name: asymptotic_behavior_desc
+        label: Describe the asymptotic behavior of J_n(x) as x approaches infinity
+        hint: Provide a brief mathematical description
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: recurrence_relation_text
+        label: Briefly state one recurrence relation for Bessel functions
+        hint: Example - d/dx [x^n J_n(x)] = ...
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: orthogonality_tf
+        label: True or False - Bessel functions are orthogonal with respect to a weight function
+        hint: null
+        type: select_one
+        options:
+          - True
+          - False
+        required: true
+      - id: 14
+        name: submission_header
+        label: -- Submission Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: confidence_level
+        label: Confidence Level in Your Answers
+        hint: null
+        type: select_one
+        options:
+          - High
+          - Medium
+          - Low
+        required: true
+      - id: 16
+        name: time_to_complete
+        label: Time Taken to Complete Quiz
+        hint: Approximate time in minutes
+        type: time
+        options: []
+        required: false
+      - id: 17
+        name: quiz_date
+        label: Date of Quiz
+        hint: null
+        type: date
+        options: []
+        required: true

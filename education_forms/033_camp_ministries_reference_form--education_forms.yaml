@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Camp Ministries Reference Form
+    pages:
+      - id: 1
+        name: applicant_info_header_ref
+        label: -- Ministry Applicant Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name_ref_ministry
+        label: Name of Applicant
+        hint: The individual seeking a position in camp ministry
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reference_name_ministry
+        label: Your Full Name (Reference)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: reference_church_affiliation
+        label: Your Church Affiliation
+        hint: Name of your local church or ministry
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: reference_contact_info_ministry
+        label: Your Phone or Email Address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: length_relationship_ministry
+        label: How long have you known the applicant?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: character_ministry_eval_header
+        label: -- Evaluation of Spiritual Maturity and Character --
+        hint: Please rate the applicant on the following
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: spiritual_maturity_rating
+        label: Spiritual Maturity and Commitment
+        hint: null
+        type: select_one
+        options:
+          - Exceptional
+          - Consistent
+          - Growing
+          - Immature
+          - Unknown
+        required: true
+      - id: 9
+        name: leadership_ability_rating
+        label: Leadership and Initiative
+        hint: null
+        type: select_one
+        options:
+          - Natural Leader
+          - Good Follower - Cooperative
+          - Needs Direction
+          - Lacks Leadership Skills
+        required: true
+      - id: 10
+        name: work_with_youth_suitability_ministry
+        label: Suitability for Working with Youth
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Very Capable
+          - Good
+          - Fair
+          - Not Recommended for Youth
+        required: true
+      - id: 11
+        name: emotional_resilience_rating
+        label: Emotional Resilience and Stability
+        hint: Ability to handle stress and long hours
+        type: select_one
+        options:
+          - Very Strong
+          - Average
+          - Needs Support
+        required: true
+      - id: 12
+        name: integrity_honesty_ministry_rating
+        label: Integrity and Honesty
+        hint: null
+        type: select_one
+        options:
+          - Unquestionable
+          - Good
+          - Average
+          - Concerns Exist
+        required: true
+      - id: 13
+        name: applicant_primary_strengths_ministry
+        label: Applicant Primary Strengths
+        hint: How will they contribute to the ministry?
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: applicant_areas_for_growth_ministry
+        label: Areas for Further Development
+        hint: Challenges the applicant may face in this role
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: recommend_for_ministry_role
+        label: Do you recommend this person for the position?
+        hint: null
+        type: select_one
+        options:
+          - Highly Recommend
+          - Recommend
+          - Recommend with reservations
+          - Do not recommend
+        required: true
+      - id: 16
+        name: reference_ministry_signature
+        label: Electronic Signature (Typed Name)
+        hint: I certify that this reference is true and given in good faith
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: reference_ministry_date
+        label: Date of Reference
+        hint: null
+        type: date
+        options: []
+        required: true

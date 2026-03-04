@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Zealand School Enrolment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: school name
+      hint: Enter school name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_address
+      label: student address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: false
+    - id: 6
+      name: parent_name
+      label: parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_phone
+      label: parent phone
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: school_year_level
+      label: year level
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      required: false
+    - id: 10
+      name: school_address
+      label: school address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_phone
+      label: school phone
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_nationality
+      label: nationality
+      hint: null
+      type: select_multiple
+      options:
+      - Australian
+      - New Zealand
+      - British
+      - Other
+      required: false
+    - id: 13
+      name: student_language
+      label: native language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Maori
+      - Other languages
+      required: false
+    - id: 14
+      name: guardian_name
+      label: guardian name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guardian_phone
+      label: guardian phone
+      hint: Optional
+      type: text
+      options: []
+      required: false

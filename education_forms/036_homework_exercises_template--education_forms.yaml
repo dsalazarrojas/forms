@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homework Exercises Template
+    pages:
+    - id: 1
+      name: form_description
+      label: This is a template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: What is your phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: exercise_1
+      label: What is your favorite subject in school
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: exercise_2
+      label: What do you think will be the most interesting thing about this class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exercise_3
+      label: What is your biggest take away from this class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

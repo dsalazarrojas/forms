@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-physio-course-registration-form
+    pages:
+    - id: 1
+      name: user_info
+      label: User info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_select
+      label: Select course
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: course_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: course_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: course_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: course_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

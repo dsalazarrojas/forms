@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Completion Discharge Form
+    pages:
+    - id: 1
+      name: school_completion_date
+      label: School Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: program_id
+      label: Program ID
+      hint: Please enter your school's program ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: re_enrollment_date
+      label: Re-Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: student_group
+      label: Student Group
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''student_group_1''}'
+      - '{''option'': ''student_group_2''}'
+      - '{''option'': ''student_group_3''}'
+      required: false
+    - id: 10
+      name: student_level
+      label: Student Level
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''student_level_1''}'
+      - '{''option'': ''student_level_2''}'
+      - '{''option'': ''student_level_3''}'
+      required: false

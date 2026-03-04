@@ -1,0 +1,331 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Application Intake Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Other
+      required: true
+    - id: 11
+      name: high_school_name
+      label: High School Name
+      hint: Current or most recent school
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: high_school_city
+      label: High School City
+      hint: Location of school
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: high_school_state
+      label: High School State
+      hint: State of school
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: gpa_unweighted
+      label: Unweighted GPA
+      hint: On 4.0 scale
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: gpa_weighted
+      label: Weighted GPA
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: class_rank
+      label: Class Rank
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_optional
+      label: Submitting Test Scores
+      hint: SAT or ACT
+      type: select_one
+      options:
+      - Yes Submitting SAT
+      - Yes Submitting ACT
+      - Yes Submitting Both
+      - No Test Optional
+      required: true
+    - id: 19
+      name: sat_total
+      label: SAT Total Score
+      hint: If submitting
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: act_composite
+      label: ACT Composite Score
+      hint: If submitting
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: intended_major
+      label: Intended Major
+      hint: First choice
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: second_major
+      label: Second Choice Major
+      hint: Alternative interest
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: degree_type
+      label: Degree Type
+      hint: Bachelor degree
+      type: select_one
+      options:
+      - Bachelor of Arts
+      - Bachelor of Science
+      - Bachelor of Fine Arts
+      - Bachelor of Business Administration
+      - Undecided
+      required: true
+    - id: 24
+      name: start_term
+      label: Starting Term
+      hint: When will you enroll
+      type: select_one
+      options:
+      - Fall 2026
+      - Spring 2027
+      - Fall 2027
+      required: true
+    - id: 25
+      name: housing_interest
+      label: Interested in On-Campus Housing
+      hint: Will you live on campus
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: true
+    - id: 26
+      name: financial_aid_needed
+      label: Will You Apply for Financial Aid
+      hint: Need-based aid
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 27
+      name: fafsa_status
+      label: FAFSA Status
+      hint: Completion status
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      - Not Applicable
+      required: false
+    - id: 28
+      name: css_profile
+      label: CSS Profile Status
+      hint: If applicable
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Required
+      - Not Applicable
+      required: false
+    - id: 29
+      name: first_generation
+      label: First-Generation College Student
+      hint: Parents college education
+      type: select_one
+      options:
+      - true
+      - false
+      - Prefer Not to Say
+      required: true
+    - id: 30
+      name: veteran_status
+      label: Veteran or Active Duty
+      hint: Military service
+      type: select_one
+      options:
+      - Yes Veteran
+      - Yes Active Duty
+      - Yes Dependent of Veteran
+      - false
+      required: false
+    - id: 31
+      name: transfer_student
+      label: Are You a Transfer Student
+      hint: Previous college attendance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: previous_college
+      label: Previous College Name
+      hint: If transfer
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: credits_earned
+      label: College Credits Earned
+      hint: Number of credits
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Information source
+      type: select_one
+      options:
+      - High School Counselor
+      - College Fair
+      - Website
+      - Friend or Family
+      - Alumni
+      - Social Media
+      - Advertisement
+      - Other
+      required: true
+    - id: 35
+      name: campus_visit
+      label: Have You Visited Campus
+      hint: Campus tour
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning To
+      required: false
+    - id: 36
+      name: application_type
+      label: Application Type
+      hint: Decision plan
+      type: select_one
+      options:
+      - Early Decision
+      - Early Action
+      - Regular Decision
+      - Rolling Admission
+      - Transfer
+      required: true
+    - id: 37
+      name: application_fee_waiver
+      label: Requesting Fee Waiver
+      hint: Do you need waiver
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 38
+      name: certification
+      label: Information Certification
+      hint: I certify all information is true
+      type: select_one
+      options:
+      - Yes I Certify
+      - Other
+      required: true

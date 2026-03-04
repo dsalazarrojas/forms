@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Education Research Partnership Request Form
+    pages:
+    - id: 1
+      name: institutional_info_header
+      label: '--- Principal Investigator and Institution ---'
+      hint: Primary contact and institutional details for the partnership request.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pi_full_name
+      label: Principal Investigator (PI) Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pi_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institutional_affiliation
+      label: Institutional Affiliation
+      hint: University, Research Lab, or Company Name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department_center
+      label: Department / Research Center
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: partnership_type
+      label: Partnership Type
+      hint: null
+      type: select_one
+      options:
+      - label: Academic-Industry Collaboration
+        value: academic_industry
+      - label: Inter-University Partnership
+        value: inter_university
+      - label: Non-Profit / Public Sector Collaboration
+        value: non_profit_public
+      - label: Technology Provider Partnership
+        value: tech_provider
+      required: true
+    - id: 7
+      name: research_overview_header
+      label: '--- Research Proposal Overview ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: research_title
+      label: Research Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: research_abstract
+      label: Research Abstract / Executive Summary
+      hint: Provide a brief summary of the proposed research and partnership goals.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ai_focus_areas
+      label: AI in Education Focus Areas
+      hint: Select all relevant topics.
+      type: select_multiple
+      options:
+      - label: Generative AI / LLMs in the Classroom
+        value: gen_ai
+      - label: Personalized / Adaptive Learning Systems
+        value: personalized_learning
+      - label: AI Ethics and Policy in Education
+        value: ethics_policy
+      - label: Intelligent Tutoring Systems
+        value: tutoring_systems
+      - label: Automated Assessment & Feedback
+        value: assessment
+      - label: Educational Data Mining / Analytics
+        value: data_mining
+      required: true
+    - id: 11
+      name: target_educational_level
+      label: Target Educational Level
+      hint: null
+      type: select_multiple
+      options:
+      - label: Early Childhood (Pre-K)
+        value: early_childhood
+      - label: K-12 Education
+        value: k12
+      - label: Higher Education (Undergraduate/Graduate)
+        value: higher_ed
+      - label: Vocational / Professional Training
+        value: vocational
+      - label: Informal / Lifelong Learning
+        value: informal
+      required: true
+    - id: 12
+      name: logistics_header
+      label: '--- Project Logistics and Outcomes ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: proposed_duration_months
+      label: Proposed Project Duration (Months)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: funding_status
+      label: Current Funding Status
+      hint: null
+      type: select_one
+      options:
+      - label: Fully Funded
+        value: fully_funded
+      - label: Partially Funded
+        value: partially_funded
+      - label: Seeking Funding (Grant Proposal Phase)
+        value: seeking
+      - label: Not Funded (In-kind partnership only)
+        value: not_funded
+      required: true
+    - id: 15
+      name: resources_requested
+      label: Resources Requested from Partner
+      hint: e.g., Data access, Computing power, Subject access, Funding.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expected_outcomes
+      label: Expected Outcomes and Impact
+      hint: Publications, software tools, policy recommendations, etc.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: ethics_approval_status
+      label: Institutional Review Board (IRB) / Ethics Approval Status
+      hint: null
+      type: select_one
+      options:
+      - label: Approved
+        value: approved
+      - label: Submitted / Pending
+        value: pending
+      - label: Not Yet Submitted
+        value: not_submitted
+      - label: Not Applicable
+        value: na
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments or Specific Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

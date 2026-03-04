@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Loan Assistance Request Form
+    pages:
+    - id: 1
+      name: student_loan_assistance_request
+      label: Student Loan Assistance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Unemployed''}'
+      - '{''label'': ''Part-time''}'
+      - '{''label'': ''Full-time''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: student_loan_type
+      label: Student Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Federal Loans''}'
+      - '{''label'': ''Private Loans''}'
+      - '{''label'': ''Parent Loans''}'
+      required: false
+    - id: 4
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: loan_interest_rate
+      label: Loan Interest Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 6.9}'
+      - '{''label'': 7.0}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: student_loan_balance
+      label: Student Loan Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: loan_payment_status
+      label: Loan Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Making Payments''}'
+      - '{''label'': ''Behind on Payments''}'
+      - '{''label'': ''In Default''}'
+      required: false
+    - id: 9
+      name: loan_counseling_status
+      label: Loan Counseling Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Incomplete''}'
+      required: false
+    - id: 10
+      name: annual_income_hint
+      label: Annual Income
+      hint: Enter your annual income
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: loan_payment_plan
+      label: Loan Payment Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Standard Repayment''}'
+      - '{''label'': ''Graduated Repayment''}'
+      - '{''label'': ''Income-Driven Repayment''}'
+      required: false
+    - id: 12
+      name: loan_forgiveness_option
+      label: Loan Forgiveness Option
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Public Service Forgiveness''}'
+      - '{''label'': ''Teacher Forgiveness''}'
+      - '{''label'': ''Perkins Loan Forgiveness''}'
+      required: false
+    - id: 13
+      name: student_loan_assistance_request
+      label: Student Loan Assistance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: student_loan_assistance_request_hint
+      label: Student Loan Assistance Request
+      hint: Please describe your request
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_loan_assistance_request_form_category
+      label: Student Loan Assistance Request Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_assigned_tool
+      label: Form Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

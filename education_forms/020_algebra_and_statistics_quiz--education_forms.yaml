@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Algebra And Statistics Quiz
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Math course
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quiz_date
+      label: Quiz Date
+      hint: Date of quiz
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: question_1
+      label: 'Question 1: Solve for x: 3x + 7 = 22'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: question_2
+      label: 'Question 2: What is the mean of: 5, 8, 12, 15, 20?'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: question_3
+      label: 'Question 3: Simplify: 2(x + 4) - 3(x - 1)'
+      hint: Enter simplified expression
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: question_4
+      label: 'Question 4: What is the median of: 3, 7, 9, 12, 15, 18, 21?'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: question_5
+      label: 'Question 5: Factor: x^2 - 9'
+      hint: Enter factored form
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: question_6
+      label: 'Question 6: What is the mode of: 2, 3, 3, 5, 7, 7, 7, 9?'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: question_7
+      label: 'Question 7: Solve: 2x - 5 = x + 10'
+      hint: Enter value of x
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: question_8
+      label: 'Question 8: Calculate the range of: 4, 9, 15, 22, 28'
+      hint: Enter your answer
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: question_9
+      label: 'Question 9: Expand: (x + 3)(x - 5)'
+      hint: Enter expanded form
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: question_10
+      label: 'Question 10: What is the probability of rolling a 4 on a standard die?'
+      hint: Enter as fraction
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: question_11
+      label: 'Question 11: Solve for y: 4y + 8 = 32'
+      hint: Enter value of y
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: question_12
+      label: 'Question 12: Find the standard deviation of: 2, 4, 4, 4, 5, 5, 7, 9'
+      hint: Round to 2 decimal places
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: question_13
+      label: 'Question 13: Simplify: (3x^2)(4x^3)'
+      hint: Enter simplified expression
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: question_14
+      label: 'Question 14: In a normal distribution, what percentage falls within
+        1 standard deviation?'
+      hint: Enter percentage
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: question_15
+      label: 'Question 15: Factor completely: 2x^2 + 7x + 3'
+      hint: Enter factored form
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: question_16
+      label: 'Question 16: What is the correlation coefficient range?'
+      hint: Select the correct range
+      type: select_one
+      options:
+      - 0 to 1
+      - -1 to 1
+      - -infinity to infinity
+      - 0 to 100
+      required: true
+    - id: 22
+      name: question_17
+      label: 'Question 17: Solve the system: x + y = 10, x - y = 4'
+      hint: Enter x and y values
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: question_18
+      label: 'Question 18: What type of correlation exists when one variable increases
+        as the other decreases?'
+      hint: Select the best answer
+      type: select_one
+      options:
+      - Positive correlation
+      - Negative correlation
+      - No correlation
+      - Perfect correlation
+      required: true
+    - id: 24
+      name: question_19
+      label: 'Question 19: Simplify: (x^5)/(x^2)'
+      hint: Enter simplified expression
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: question_20
+      label: 'Question 20: If P(A) = 0.3 and P(B) = 0.5, and events are independent,
+        what is P(A and B)?'
+      hint: Enter as decimal
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: time_spent
+      label: Time Spent on Quiz
+      hint: Minutes spent
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: difficulty_rating
+      label: Difficulty Rating
+      hint: How difficult was this quiz?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any feedback
+      type: text
+      options: []
+      required: false

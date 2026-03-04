@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent_roles_and_responsibilities_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_address
+      label: Parent Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: roles
+      label: Roles
+      hint: null
+      type: select_multiple
+      options:
+      - Teacher
+      - Parent
+      - Guardian
+      - Coach
+      - Leader
+      - Other
+      required: false
+    - id: 8
+      name: responsibilities
+      label: Responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - Teacher
+      - Parent
+      - Guardian
+      - Coach
+      - Leader
+      - Other
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

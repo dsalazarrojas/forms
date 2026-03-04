@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Abroad Scholarship Inquiry Form
+    pages:
+    - id: 1
+      name: study_abroad_scholarship_inquiry
+      label: study_abroad_scholarship_inquiry
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: study_abroad_country
+      label: study_abroad_country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: study_abroad_program
+      label: study_abroad_program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: study_abroad_duration
+      label: study_abroad_duration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: study_abroad_language
+      label: study_abroad_language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: study_abroad_budget
+      label: study_abroad_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: study_abroad_email
+      label: study_abroad_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: study_abroad_phone
+      label: study_abroad_phone
+      hint: null
+      type: text
+      options: []
+      required: false

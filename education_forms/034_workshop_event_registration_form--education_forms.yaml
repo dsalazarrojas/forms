@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workshop Event Registration Form
+    pages:
+    - id: 1
+      name: workshop_event_registration_form
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_names
+      label: attendee names
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: workshop_duration
+      label: workshop duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: instructor_name
+      label: instructor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: registration_confirmation
+      label: registration confirmation
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 9
+      name: workshop_details
+      label: workshop details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: workshop_aim
+      label: workshop aim
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 11
+      name: registration_fee
+      label: registration fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 13
+      name: event_status
+      label: event status
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 14
+      name: workshop_location
+      label: workshop location
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 15
+      name: event_start
+      label: event start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: event_finish
+      label: event finish
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: event_duration
+      label: event duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: workshop_organizer
+      label: workshop organizer
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 19
+      name: workshop_coordinators
+      label: workshop coordinators
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 20
+      name: event_notes
+      label: event notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: workshop_participants
+      label: workshop participants
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 22
+      name: event_attendance
+      label: event attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: workshop_evaluation
+      label: workshop evaluation
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      required: false
+    - id: 24
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: contact_details
+      label: contact details
+      hint: null
+      type: text
+      options: []
+      required: false

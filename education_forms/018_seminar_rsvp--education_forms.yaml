@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: seminar_rsvp
+    pages:
+    - id: 1
+      name: seminar_details
+      label: Seminar Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendance_status
+      label: Is Attending
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: number_of_attendance
+      label: Number of Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: further_comments
+      label: Further Comments
+      hint: null
+      type: text
+      options: []
+      required: false

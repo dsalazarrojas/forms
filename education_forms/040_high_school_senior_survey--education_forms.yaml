@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Senior Survey
+    pages:
+    - id: 1
+      name: high_school_background
+      label: High School Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graduation_plans
+      label: Graduation Plans
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''College''}'
+      - '{''value'': ''University''}'
+      - '{''value'': ''Community College''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: favorite_subjects
+      label: Favorite Subjects
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Math''}'
+      - '{''value'': ''Science''}'
+      - '{''value'': ''English''}'
+      - '{''value'': ''History''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: teacher_quality
+      label: Teacher Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: school_climate
+      label: School Climate
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive''}'
+      - '{''value'': ''Negative''}'
+      - '{''value'': ''Neutral''}'
+      required: false
+    - id: 6
+      name: student_life
+      label: Student Life
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: graduation_commitment
+      label: Graduation Commitment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strong Commitment''}'
+      - '{''value'': ''Somewhat Commitment''}'
+      - '{''value'': ''No Commitment''}'
+      required: false
+    - id: 8
+      name: student_leadership
+      label: Student Leadership
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Class Officer''}'
+      - '{''value'': ''School Organization''}'
+      - '{''value'': ''Student Club''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: favorite_activities
+      label: Favorite Activities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Sports''}'
+      - '{''value'': ''Clubs''}'
+      - '{''value'': ''Organizations''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: student_satisfaction
+      label: Student Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Disability Verification Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_identification
+      label: student_identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: disability_type
+      label: disability_type
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Mental
+      - Emotional
+      required: false
+    - id: 6
+      name: disability_severity
+      label: disability_severity
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: date_of_disability_onset
+      label: date_of_disability_onset
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: disability_implications
+      label: disability_implications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_documentation
+      label: medical_documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_provider
+      label: medical_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: disability_statement
+      label: disability_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: disability_statement_date
+      label: disability_statement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: disability_statement_signed
+      label: disability_statement_signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: disability_statement_signed_by
+      label: disability_statement_signed_by
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,158 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Absent Work Form"
+    pages:
+    - id: 1
+      name: section_header_student_info
+      label: "-- Student Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: "Student full name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: "Student ID number"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: "Grade level or class"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: teacher_name
+      label: "Teacher name"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_absence_details
+      label: "-- Absence Details --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: absence_date
+      label: "Date of absence"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: absence_reason
+      label: "Reason for absence"
+      hint: null
+      type: select_one
+      options:
+        - "Illness"
+        - "Family emergency"
+        - "Medical appointment"
+        - "Personal reasons"
+        - "School-related activity"
+        - "Other"
+      required: true
+    - id: 9
+      name: absence_excused
+      label: "Is this absence excused"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+        - "Pending verification"
+      required: true
+    - id: 10
+      name: section_header_missed_work
+      label: "-- Missed Work and Assignments --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: subjects_missed
+      label: "Subjects or classes missed"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Mathematics"
+        - "English or Language Arts"
+        - "Science"
+        - "Social Studies"
+        - "Physical Education"
+        - "Elective"
+        - "Other"
+      required: true
+    - id: 12
+      name: assignments_missed
+      label: "List assignments or homework missed"
+      hint: "Include assignment names and due dates"
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tests_missed
+      label: "Were any tests or quizzes missed"
+      hint: null
+      type: select_one
+      options:
+        - "Yes"
+        - "No"
+      required: true
+    - id: 14
+      name: test_details
+      label: "If yes, provide test or quiz details"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: makeup_deadline
+      label: "Deadline for completing makeup work"
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: work_collected_by
+      label: "Missed work was collected or provided by"
+      hint: null
+      type: select_one
+      options:
+        - "Teacher"
+        - "Classmate"
+        - "Online portal"
+        - "Parent or guardian"
+        - "Not yet collected"
+      required: true
+    - id: 17
+      name: teacher_notes
+      label: "Teacher notes or comments"
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Procedure Study Quiz
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student and Study Group Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_id_section
+      label: Course Number and Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_body_header
+      label: -- Civil Procedure Concepts (Rules-Based) --
+      hint: Choose the best answer based on the Federal Rules of Civil Procedure (FRCP)
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: q1_service_deadline
+      label: Under FRCP 4, how many days does a plaintiff have to serve the summons?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: q2_diversity_jurisdiction
+      label: What is the minimum amount in controversy for diversity jurisdiction?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: q3_venue_proper
+      label: Proper venue is generally determined based on...
+      hint: null
+      type: select_one
+      options:
+      - Where the plaintiff resides
+      - Where the defendant resides or events occurred
+      - Where the attorney's office is located
+      - Where the nearest federal court is
+      required: true
+    - id: 8
+      name: q4_rule_12b6
+      label: A motion under Rule 12(b)(6) is for...
+      hint: null
+      type: select_one
+      options:
+      - Lack of subject matter jurisdiction
+      - Insufficient service of process
+      - Failure to state a claim upon which relief can be granted
+      - Failure to join a party under Rule 19
+      required: true
+    - id: 9
+      name: q5_amended_pleadings
+      label: Under Rule 15, a party may amend its pleading once as a matter of course
+        within...
+      hint: null
+      type: select_one
+      options:
+      - 7 days
+      - 14 days
+      - 21 days
+      - 30 days
+      required: true
+    - id: 10
+      name: q6_discovery_scope
+      label: Parties may obtain discovery regarding any nonprivileged matter that
+        is...
+      hint: null
+      type: select_one
+      options:
+      - Admissible at trial
+      - Relevant to any party's claim or defense and proportional
+      - Publicly available
+      - Known to the opposing counsel
+      required: true
+    - id: 11
+      name: q7_interrogatory_limit
+      label: Unless otherwise stipulated, how many interrogatories are allowed per
+        party?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: q8_joinder_parties
+      label: Rule 20 deals with which of the following?
+      hint: null
+      type: select_one
+      options:
+      - Compulsory Counterclaims
+      - Permissive Joinder of Parties
+      - Interpleader
+      - Class Actions
+      required: true
+    - id: 13
+      name: study_materials_quality
+      label: Did the current study materials adequately cover these questions?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Somewhat
+      - false
+      required: false
+    - id: 14
+      name: feedback_text
+      label: Areas where you need more study help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quiz_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

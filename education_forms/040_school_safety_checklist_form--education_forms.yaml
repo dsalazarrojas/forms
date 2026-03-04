@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Safety Checklist Form
+    pages:
+    - id: 1
+      name: school_safety_checklist_form_title
+      label: School Safety Checklist Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Education Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_protocols
+      label: Safety Protocols
+      hint: null
+      type: select_multiple
+      options:
+      - Fire safety
+      - Emergency evacuation plan
+      - Bullying prevention
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_admin
+      label: School Administrator
+      hint: null
+      type: select_one
+      options:
+      - Principal
+      - Teacher
+      - Other
+      required: false
+    - id: 7
+      name: staff_count
+      label: Staff Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: student_count
+      label: Student Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Campus
+      - Classroom
+      - Other
+      required: false
+    - id: 10
+      name: security_measures
+      label: Security Measures
+      hint: null
+      type: select_multiple
+      options:
+      - CCTV cameras
+      - Metal detectors
+      - Other
+      required: false
+    - id: 11
+      name: safety_training
+      label: Safety Training
+      hint: null
+      type: select_multiple
+      options:
+      - Fire safety training
+      - First aid training
+      - Other
+      required: false
+    - id: 12
+      name: incident_reporting
+      label: Incident Reporting
+      hint: null
+      type: select_multiple
+      options:
+      - Reporting incidents
+      - Filing reports
+      - Other
+      required: false
+    - id: 13
+      name: emergency_equipment
+      label: Emergency Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Fire extinguishers
+      - First aid kit
+      - Other
+      required: false
+    - id: 14
+      name: safety_measures
+      label: Safety Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Fire doors
+      - Safety signs
+      - Other
+      required: false

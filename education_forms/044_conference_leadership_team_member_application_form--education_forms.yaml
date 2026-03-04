@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Leadership Team Member Application Form
+    pages:
+    - id: 1
+      name: application_header
+      label: Leadership Team Application
+      hint: Apply to join the conference leadership team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: applicant_info
+      label: Applicant Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_address
+      label: Current Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: professional_info
+      label: Professional Information
+      hint: Work details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_position
+      label: Current Position
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization
+      label: Organization
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_of_experience
+      label: Years of Experience
+      hint: In relevant field
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: education_level
+      label: Education Level
+      hint: Highest degree
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 13
+      name: field_of_expertise
+      label: Field of Expertise
+      hint: Area of specialization
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: leadership_experience
+      label: Leadership Experience
+      hint: Previous leadership roles
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: previous_leadership_roles
+      label: Previous Leadership Roles
+      hint: Describe your experience
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: conference_involvement
+      label: Conference Involvement
+      hint: Past participation
+      type: select_one
+      options:
+      - First Time Applicant
+      - Previous Attendee
+      - Previous Speaker
+      - Previous Volunteer
+      - Previous Organizer
+      required: true
+    - id: 17
+      name: motivation
+      label: Motivation
+      hint: Why do you want to join
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: why_apply
+      label: Why Do You Want to Join Leadership Team
+      hint: Your motivation
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: what_bring_to_role
+      label: What Do You Bring to This Role
+      hint: Your strengths
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: leadership_style
+      label: Describe Your Leadership Style
+      hint: How you lead
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: role_preferences
+      label: Role Preferences
+      hint: Areas of interest
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_roles
+      label: Preferred Roles
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Program Committee
+      - Marketing and Communications
+      - Sponsorship and Partnerships
+      - Logistics and Operations
+      - Volunteer Coordination
+      - Speaker Liaison
+      - Attendee Experience
+      required: false
+    - id: 23
+      name: time_commitment
+      label: Time Commitment
+      hint: Hours per week available
+      type: select_one
+      options:
+      - 1 to 5 Hours
+      - 5 to 10 Hours
+      - 10 to 20 Hours
+      - 20 Plus Hours
+      required: true
+    - id: 24
+      name: availability
+      label: Availability
+      hint: When can you contribute
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Weekends
+      - Flexible Schedule
+      required: false
+    - id: 25
+      name: skills
+      label: Relevant Skills
+      hint: What skills do you have
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: references
+      label: References
+      hint: Professional references
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: agreement
+      label: Agreement
+      hint: Accept terms
+      type: select_one
+      options:
+      - I Agree to Terms
+      - I Do Not Agree
+      required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trello Suppliers
+    pages:
+    - id: 1
+      name: trello_suppliers_form
+      label: trello_suppliers_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supplier_type
+      label: Supplier type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: supplier_name
+      label: Supplier name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supplier_website
+      label: Supplier website
+      hint: null
+      type: text
+      options: []
+      required: false

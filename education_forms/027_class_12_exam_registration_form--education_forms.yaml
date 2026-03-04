@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class 12 Exam Registration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: As it appears on official records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: School identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: Your current school
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_code
+      label: School Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: For correspondence
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: exam_year
+      label: Exam Year
+      hint: When will you take the exam
+      type: select_one
+      options:
+      - 2026
+      - 2027
+      - 2028
+      required: true
+    - id: 12
+      name: exam_session
+      label: Preferred Exam Session
+      hint: Select your session
+      type: select_one
+      options:
+      - Spring Session
+      - Summer Session
+      - Fall Session
+      - Winter Session
+      required: true
+    - id: 13
+      name: stream_selection
+      label: Academic Stream
+      hint: Select your stream
+      type: select_one
+      options:
+      - Science
+      - Commerce
+      - Humanities and Arts
+      - Vocational
+      required: true
+    - id: 14
+      name: subject_1
+      label: Core Subject 1
+      hint: First core subject
+      type: select_one
+      options:
+      - English Core
+      - English Elective
+      - Hindi
+      - Other Language
+      required: true
+    - id: 15
+      name: subject_2
+      label: Core Subject 2
+      hint: Second core subject
+      type: select_one
+      options:
+      - Physics
+      - Chemistry
+      - Mathematics
+      - Biology
+      - Accountancy
+      - Business Studies
+      - Economics
+      - History
+      - Political Science
+      - Geography
+      - Sociology
+      - Psychology
+      required: true
+    - id: 16
+      name: subject_3
+      label: Core Subject 3
+      hint: Third core subject
+      type: select_one
+      options:
+      - Physics
+      - Chemistry
+      - Mathematics
+      - Biology
+      - Accountancy
+      - Business Studies
+      - Economics
+      - History
+      - Political Science
+      - Geography
+      - Sociology
+      - Psychology
+      - Computer Science
+      - Informatics Practices
+      required: true
+    - id: 17
+      name: subject_4
+      label: Core Subject 4
+      hint: Fourth core subject
+      type: select_one
+      options:
+      - Physics
+      - Chemistry
+      - Mathematics
+      - Biology
+      - Accountancy
+      - Business Studies
+      - Economics
+      - History
+      - Political Science
+      - Geography
+      - Sociology
+      - Psychology
+      - Computer Science
+      - Physical Education
+      - Fine Arts
+      required: true
+    - id: 18
+      name: subject_5
+      label: Optional Subject 5
+      hint: Fifth subject if applicable
+      type: select_one
+      options:
+      - None
+      - Computer Science
+      - Informatics Practices
+      - Physical Education
+      - Fine Arts
+      - Music
+      - Home Science
+      - Entrepreneurship
+      required: false
+    - id: 19
+      name: previous_exam_attempt
+      label: Is This Your First Attempt
+      hint: Have you taken Class 12 exams before
+      type: select_one
+      options:
+      - Yes, first attempt
+      - No, second attempt
+      - No, third attempt
+      required: true
+    - id: 20
+      name: special_requirements
+      label: Do You Need Special Accommodations
+      hint: For disabilities or medical needs
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: accommodations_details
+      label: Describe Required Accommodations
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: exam_center_preference
+      label: Preferred Exam Center Location
+      hint: City or area
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: registration_fee
+      label: Registration Fee Payment
+      hint: Fee status
+      type: select_one
+      options:
+      - Paid in full
+      - Partial payment made
+      - Will pay later
+      - Fee waiver requested
+      required: true
+    - id: 24
+      name: declaration
+      label: Do You Declare the Information Is Correct
+      hint: By selecting yes you confirm accuracy
+      type: select_one
+      options:
+      - Yes, I declare this is correct
+      - No, I need to make changes
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_type
+      label: Customer Type
+      hint: Select your customer type
+      type: select_one
+      options:
+      - Individual
+      - Bookstore
+      - Library
+      - School
+      - Organization
+      - Reseller
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: If ordering for a business
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: Postal or ZIP Code
+      hint: Your postal or ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - European Union
+      - Other
+      required: true
+    - id: 11
+      name: book_1_title
+      label: Book 1 Title
+      hint: Title of first book
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: book_1_author
+      label: Book 1 Author
+      hint: Author of first book
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: book_1_isbn
+      label: Book 1 ISBN
+      hint: ISBN if available
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: book_1_quantity
+      label: Book 1 Quantity
+      hint: How many copies
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: book_1_format
+      label: Book 1 Format
+      hint: Select format
+      type: select_one
+      options:
+      - Hardcover
+      - Paperback
+      - eBook
+      - Audiobook
+      required: true
+    - id: 16
+      name: book_2_title
+      label: Book 2 Title
+      hint: Title of second book
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: book_2_author
+      label: Book 2 Author
+      hint: Author of second book
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: book_2_quantity
+      label: Book 2 Quantity
+      hint: How many copies
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: book_3_title
+      label: Book 3 Title
+      hint: Title of third book
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: book_3_author
+      label: Book 3 Author
+      hint: Author of third book
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: book_3_quantity
+      label: Book 3 Quantity
+      hint: How many copies
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_books
+      label: Total Number of Books
+      hint: Total quantity ordered
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: shipping_method
+      label: Shipping Method
+      hint: Select shipping preference
+      type: select_one
+      options:
+      - Standard 5-7 days
+      - Express 2-3 days
+      - Overnight
+      - International
+      - Store Pickup
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Bank Transfer
+      - Purchase Order
+      - Invoice
+      required: true
+    - id: 25
+      name: promo_code
+      label: Promo Code
+      hint: Enter any promotional code
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: gift_wrap
+      label: Gift Wrapping
+      hint: Would you like gift wrapping
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: terms_agreement
+      label: I Agree to Terms and Conditions
+      hint: By selecting yes you agree to terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 29
+      name: order_date
+      label: Order Date
+      hint: Date of order
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: sustainability_education_materials_request_form
+    pages:
+    - id: 1
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Request for Resources
+      - Request for Training
+      - Request for Consultation
+      required: true
+    - id: 3
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_multiple
+      options:
+      - Resources for Education
+      - Resources for Training
+      - Resources for Community
+      required: false
+    - id: 4
+      name: resource_requests
+      label: Resource Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_requests
+      label: Training Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: audience
+      label: Audience
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Nonprofit
+      - Organization
+      required: true
+    - id: 7
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Virtual
+      - Email
+      required: true
+    - id: 8
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_multiple
+      options:
+      - PDF
+      - Video
+      - Document
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_fax
+      label: School Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_city
+      label: School City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_state
+      label: School State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_zip
+      label: School Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: organization_email
+      label: Organization Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: organization_phone
+      label: Organization Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: organization_fax
+      label: Organization Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: organization_city
+      label: Organization City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: organization_state
+      label: Organization State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: organization_zip
+      label: Organization Zip
+      hint: null
+      type: text
+      options: []
+      required: false

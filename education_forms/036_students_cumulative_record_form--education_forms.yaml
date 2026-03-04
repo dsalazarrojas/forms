@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Students Cumulative Record Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 4
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: course_1
+      label: Course 1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Math 101''}'
+      - '{''id'': 2, ''name'': ''English 202''}'
+      - '{''id'': 3, ''name'': ''Science 101''}'
+      - '{''id'': 4, ''name'': ''History 101''}'
+      required: false
+    - id: 6
+      name: course_2
+      label: Course 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''name'': ''Math 202''}'
+      - '{''id'': 6, ''name'': ''English 203''}'
+      - '{''id'': 7, ''name'': ''Science 202''}'
+      - '{''id'': 8, ''name'': ''History 202''}'
+      required: false
+    - id: 7
+      name: term_start_date
+      label: Term Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: term_end_date
+      label: Term End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

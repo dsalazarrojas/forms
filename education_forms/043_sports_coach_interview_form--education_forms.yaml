@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_coach_interview_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_history
+      label: What is your highest level of education completed?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''High School''}'
+      - '{''name'': ''Some College''}'
+      - '{''name'': "Bachelor''s"}'
+      - '{''name'': "Master''s"}'
+      - '{''name'': ''Doctorate''}'
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: Years of Experience
+      hint: Enter the number of years
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: coaching_licenses
+      label: Coaching Licenses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Coaching Certification 1''}'
+      - '{''name'': ''Coaching Certification 2''}'
+      required: false
+    - id: 5
+      name: sport_background
+      label: Sport Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: List your work experience
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: personal_statement
+      label: Personal Statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Reference 1''}'
+      - '{''name'': ''Reference 2''}'
+      - '{''name'': ''Reference 3''}'
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

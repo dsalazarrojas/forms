@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Building Standards Seminar Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: seminar_date
+      label: Seminar Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: seminar_time
+      label: Seminar Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: building_standard
+      label: Building Standard
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: seminar_attendance
+      label: Seminar Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

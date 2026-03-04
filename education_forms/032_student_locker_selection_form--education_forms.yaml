@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Locker Selection Form
+    pages:
+    - id: 1
+      name: student_locker_selection_form
+      label: Choose Your Locker
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: selected_locker
+      label: Locker Number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: locker_number
+      label: Locker Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: locker_number_hint
+      label: Locker Number Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_location
+      label: School Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_name_hint
+      label: Student Name Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth_hint
+      label: Date of Birth Hint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

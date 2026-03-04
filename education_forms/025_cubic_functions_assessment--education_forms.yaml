@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cubic Functions Assessment
+    pages:
+    - id: 1
+      name: mixed_questions
+      label: Mixed Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: mixed_questions_answer
+      label: What is your answer for question 1?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: mixed_questions_answer
+      label: What is your answer for question 2?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mixed_questions_answer
+      label: What is your answer for question 3?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload
+      label: Upload Solution
+      hint: Upload your solution file
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confidence_rating
+      label: Confidence Rating
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      - Unknown
+      required: false
+    - id: 7
+      name: confidence_rating_reason
+      label: Reason for Confidence Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false

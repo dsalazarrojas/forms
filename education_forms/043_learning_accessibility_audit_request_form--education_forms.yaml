@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_accessibility_audit_request_form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - accessibility_audit
+      - accessibility_report
+      - accessibility_recommendation
+      required: true
+    - id: 4
+      name: resources
+      label: resources
+      hint: null
+      type: select_multiple
+      options:
+      - courses
+      - platforms
+      - learning_materials
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: categories
+      label: categories
+      hint: null
+      type: select_multiple
+      options:
+      - accessibility
+      - education
+      - training
+      required: true
+    - id: 8
+      name: teams
+      label: teams
+      hint: null
+      type: select_multiple
+      options:
+      - schools
+      - universities
+      - training_teams
+      required: true
+    - id: 9
+      name: requestee
+      label: requestee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - in_progress
+      - completed
+      required: true
+    - id: 13
+      name: urgency
+      label: urgency
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: true
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assignee
+      label: assignee
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - user1
+      - user2
+      required: true
+    - id: 17
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - school_1
+      - school_2
+      - school_3
+      required: true
+    - id: 18
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: goals
+      label: goals
+      hint: null
+      type: select_multiple
+      options:
+      - prophets
+      - Other
+      required: false
+    - id: 20
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag_goals
+      - tag2
+      - tag3
+      required: true
+    - id: 24
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false

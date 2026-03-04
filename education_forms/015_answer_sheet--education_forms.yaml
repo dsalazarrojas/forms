@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Answer Sheet
+    pages:
+    - id: 1
+      name: student_details_header
+      label: -- Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_info
+      label: Course Name and Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exam_title
+      label: Examination or Quiz Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exam_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: mcq_header
+      label: -- Section 1 - Multiple Choice --
+      hint: Select the best answer for each question
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: q1
+      label: Question 1
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 9
+      name: q2
+      label: Question 2
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 10
+      name: q3
+      label: Question 3
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 11
+      name: q4
+      label: Question 4
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 12
+      name: q5
+      label: Question 5
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      required: true
+    - id: 13
+      name: short_answer_header
+      label: -- Section 2 - Short Answer --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: q6_text
+      label: Answer for Question 6
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: q7_text
+      label: Answer for Question 7
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: q8_text
+      label: Answer for Question 8
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: signature_confirmation
+      label: I certify that this work is my own
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - Other
+      required: true

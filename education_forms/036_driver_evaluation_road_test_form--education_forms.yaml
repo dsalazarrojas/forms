@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Evaluation Road Test Form
+    pages:
+    - id: 1
+      name: road_test_form
+      label: Road Test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: evaluated_by
+      label: Evaluuated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: license_number
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: test_location
+      label: Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make
+      label: Vehicle Make prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: evaluator_signature
+      label: Evaluator Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

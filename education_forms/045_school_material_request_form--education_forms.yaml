@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Material Request Form
+    pages:
+    - id: 1
+      name: school_material_request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_material_request_form_items
+      label: School Materials
+      hint: null
+      type: select_multiple
+      options:
+      - School supplies
+      - Educational resources
+      - Technology
+      required: false
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supply_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: supply_requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - School Admin
+      - Other
+      required: false
+    - id: 10
+      name: school_supply_type
+      label: Supply Type
+      hint: null
+      type: select_multiple
+      options:
+      - Books
+      - Materials
+      - Resources
+      - Technology
+      required: false
+    - id: 11
+      name: school_material_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: school_supply_request_details
+      label: Supply Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_material_request_form_submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - School Admin
+      - Other
+      required: false
+    - id: 15
+      name: school_material_request_form_submitted_via
+      label: Submitted Via
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - JotForm
+      - Other
+      required: false
+    - id: 16
+      name: school_material_request_form_submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

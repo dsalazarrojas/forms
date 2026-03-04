@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recombination Knowledge Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: genetics_concepts
+      label: genetics_concepts
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 3
+      name: gene_expression
+      label: gene_expression
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: inheritance
+      label: inheritance
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 5
+      name: gene_flow
+      label: gene_flow
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: gene_linkage
+      label: gene_linkage
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 7
+      name: pedigree
+      label: pedigree
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recombination
+      label: recombination
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 9
+      name: mutation
+      label: mutation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 10
+      name: gene_flow_2
+      label: gene_flow_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: final_question
+      label: final_question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

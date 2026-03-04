@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transcript Authorization Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: Enter a valid phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false

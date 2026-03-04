@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Enrollment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Student email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: For notifications
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: class_name
+      label: Class or Course Name
+      hint: Select the class
+      type: select_one
+      options:
+      - Mathematics 101
+      - Mathematics 201
+      - English Literature
+      - English Composition
+      - Biology
+      - Chemistry
+      - Physics
+      - History
+      - Art History
+      - Computer Science
+      required: true
+    - id: 11
+      name: class_section
+      label: Preferred Section
+      hint: If applicable
+      type: select_one
+      options:
+      - Section A - Morning
+      - Section B - Afternoon
+      - Section C - Evening
+      - No preference
+      required: false
+    - id: 12
+      name: academic_year
+      label: Academic Year
+      hint: School year
+      type: select_one
+      options:
+      - 2025-2026
+      - 2026-2027
+      - 2027-2028
+      required: true
+    - id: 13
+      name: semester_term
+      label: Semester or Term
+      hint: When to start
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Summer Session
+      - Winter Term
+      required: true
+    - id: 14
+      name: enrollment_type
+      label: Enrollment Type
+      hint: Select your status
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Audit only
+      - Continuing education
+      required: true
+    - id: 15
+      name: credit_hours
+      label: Number of Credit Hours
+      hint: If applicable
+      type: select_one
+      options:
+      - 1 credit
+      - 2 credits
+      - 3 credits
+      - 4 credits
+      - Non-credit
+      required: false
+    - id: 16
+      name: prior_education
+      label: Highest Level of Education Completed
+      hint: Select your level
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Associates degree
+      - Bachelors degree
+      - Masters degree
+      - Doctorate
+      required: true
+    - id: 17
+      name: prerequisites_met
+      label: Have You Met the Prerequisites
+      hint: For this class
+      type: select_one
+      options:
+      - Yes, all prerequisites met
+      - Yes, with equivalent experience
+      - No, but requesting waiver
+      - Unsure
+      required: true
+    - id: 18
+      name: special_needs
+      label: Do You Require Special Accommodations
+      hint: For disabilities
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: special_needs_details
+      label: Please Describe Accommodation Needs
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Financial aid
+      - Scholarship
+      - Employer sponsorship
+      - Payment plan
+      required: true
+    - id: 21
+      name: transportation_method
+      label: How Will You Travel to Class
+      hint: Select your method
+      type: select_one
+      options:
+      - Personal vehicle
+      - Public transportation
+      - Bicycle or walking
+      - School shuttle
+      - Carpool
+      required: false
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About This Class
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School website
+      - Social media
+      - Friend or family
+      - Teacher recommendation
+      - Advertisement
+      - Previous student
+      - Other
+      required: false
+    - id: 23
+      name: terms_acceptance
+      label: Do You Accept the Terms and Conditions
+      hint: Enrollment policies
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Any other information
+      type: text
+      options: []
+      required: false

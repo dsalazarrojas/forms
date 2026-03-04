@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Questionaire
+    pages:
+    - id: 1
+      name: student_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 6
+      name: nationality
+      label: nationality
+      hint: null
+      type: select_multiple
+      options:
+      - Indian
+      - Chinese
+      - Japanese
+      - Korean
+      required: false
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: graduation_year
+      label: graduation year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: education_background
+      label: education background
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - Phd
+      required: false
+    - id: 12
+      name: student_data
+      label: student data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: family_status
+      label: family status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      required: false
+    - id: 14
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      required: false
+    - id: 15
+      name: income_range
+      label: income range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 16
+      name: education_aim
+      label: education aim
+      hint: null
+      type: select_one
+      options:
+      - Primary school
+      - Secondary school
+      - Higher Education
+      required: false
+    - id: 17
+      name: family_income
+      label: family income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: family_member_count
+      label: family member count
+      hint: null
+      type: number
+      options: []
+      required: false

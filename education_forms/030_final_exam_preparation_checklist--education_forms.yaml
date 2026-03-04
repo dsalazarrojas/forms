@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Final Exam Preparation Checklist
+    pages:
+    - id: 1
+      name: exam_dates
+      label: Exam Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: revision_topics
+      label: Revision Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: study_progress
+      label: Study Progress
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: confidence_levels
+      label: Confidence Levels
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: revision_plan
+      label: Revision Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exam_notes
+      label: Exam Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: study_materials
+      label: Study Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: revision_schedule
+      label: Revision Schedule
+      hint: null
+      type: date
+      options: []
+      required: false

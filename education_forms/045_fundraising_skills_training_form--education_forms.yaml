@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising Skills Training Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Basic
+      required: false
+    - id: 7
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Ongoing
+      - Pending
+      required: false
+    - id: 8
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_multiple
+      options:
+      - Participant
+      - Organizer
+      - Both
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online Payment
+      - Offline Payment
+      - No Payment
+      required: false
+    - id: 10
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

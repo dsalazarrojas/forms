@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Wish List TB!
+    pages:
+    - id: 1
+      name: section_tb_intro
+      label: -- TB - Wish List and Order Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tb_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tb_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: tb_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_tb_selection
+      label: -- Wish List Items --
+      hint: List items you want to order or add to your wish list
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tb_sets_list
+      label: Sets Requested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tb_total_count
+      label: Total Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tb_is_preorder
+      label: Is this for a Pre-Order?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: section_tb_payment
+      label: -- Payment and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tb_payment_type
+      label: How will you pay?
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Facebook Pay
+      required: true
+    - id: 11
+      name: tb_payment_handle
+      label: Payment Handle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tb_shipping_type
+      label: Delivery Option
+      hint: null
+      type: select_one
+      options:
+      - Shipping ($4.00)
+      - TB Pick-up (Free)
+      required: true
+    - id: 13
+      name: tb_hostess
+      label: Hostess Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tb_notes
+      label: Additional Notes for TB
+      hint: null
+      type: text
+      options: []
+      required: false

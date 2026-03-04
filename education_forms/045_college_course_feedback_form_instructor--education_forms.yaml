@@ -1,0 +1,284 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College Course Feedback Form Instructor
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: Optional for anonymity
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: student_email
+        label: Email Address
+        hint: Optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: course_name
+        label: Course Name
+        hint: Course title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: course_number
+        label: Course Number
+        hint: Course code
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: instructor_name
+        label: Instructor Name
+        hint: Professor name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: semester
+        label: Semester
+        hint: Term
+        type: select_one
+        options:
+          - Fall 2025
+          - Spring 2026
+          - Summer 2026
+          - Fall 2026
+        required: true
+      - id: 7
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: instructor_rating_overall
+        label: Overall Instructor Rating
+        hint: Rate overall
+        type: select_one
+        options:
+          - 5 Stars - Excellent
+          - 4 Stars - Very Good
+          - 3 Stars - Good
+          - 2 Stars - Fair
+          - 1 Star - Poor
+        required: true
+      - id: 9
+        name: instructor_knowledge
+        label: Instructor Knowledge of Subject
+        hint: Expertise level
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: instructor_preparation
+        label: Instructor Preparation for Class
+        hint: How prepared
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: instructor_clarity
+        label: Instructor Clarity of Explanations
+        hint: How clear
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: instructor_enthusiasm
+        label: Instructor Enthusiasm
+        hint: Passion for teaching
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: instructor_availability
+        label: Instructor Availability
+        hint: Office hours and help
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: instructor_responsiveness
+        label: Instructor Responsiveness
+        hint: Response to questions
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: instructor_organization
+        label: Instructor Organization
+        hint: How organized
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: instructor_fairness
+        label: Instructor Fairness
+        hint: Grading and treatment
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: instructor_respect
+        label: Instructor Respect for Students
+        hint: How respectful
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 18
+        name: teaching_methods
+        label: Teaching Methods Effectiveness
+        hint: How effective
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 19
+        name: class_engagement
+        label: Instructor Ability to Engage Class
+        hint: How engaging
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: feedback_quality
+        label: Quality of Feedback on Assignments
+        hint: Feedback helpfulness
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 21
+        name: feedback_timeliness
+        label: Timeliness of Feedback
+        hint: How timely
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 22
+        name: would_take_again
+        label: Would You Take Another Course With This Instructor
+        hint: Future enrollment
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 23
+        name: instructor_strengths
+        label: Instructor Strengths
+        hint: What they do well
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: instructor_weaknesses
+        label: Areas for Instructor Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: teaching_style
+        label: Describe the Teaching Style
+        hint: Your observation
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: memorable_moment
+        label: Most Memorable Aspect of the Course
+        hint: What stood out
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: additional_comments
+        label: Additional Comments for Instructor
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Officer Speech Submission
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID Number
+      hint: Your school ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: School email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: Your current grade
+      type: select_one
+      options:
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 6
+      name: position_sought
+      label: Position You Are Running For
+      hint: Select the office
+      type: select_one
+      options:
+      - Class President
+      - Class Vice President
+      - Class Secretary
+      - Class Treasurer
+      - Class Representative
+      - Student Council Representative
+      required: true
+    - id: 7
+      name: campaign_slogan
+      label: Campaign Slogan
+      hint: A short catchy phrase
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: speech_title
+      label: Speech Title
+      hint: Name for your speech
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: speech_text
+      label: Speech Text
+      hint: Your full speech content
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: speech_duration
+      label: Estimated Speech Duration
+      hint: In minutes
+      type: select_one
+      options:
+      - Under 1 minute
+      - 1-2 minutes
+      - 2-3 minutes
+      - 3-5 minutes
+      - Over 5 minutes
+      required: true
+    - id: 11
+      name: key_platform_points
+      label: Key Platform Points
+      hint: What you stand for
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_experience
+      label: Do You Have Previous Leadership Experience
+      hint: In student government or clubs
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, some experience
+      - Yes, limited experience
+      - No experience
+      required: true
+    - id: 13
+      name: experience_details
+      label: Please Describe Your Experience
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: goals_if_elected
+      label: What Are Your Goals If Elected
+      hint: Your objectives
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: why_vote_for_you
+      label: Why Should Students Vote for You
+      hint: Your unique qualities
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: photo_upload
+      label: Campaign Photo
+      hint: Headshot or campaign photo
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: photo_description
+      label: Photo Description
+      hint: Describe your uploaded photo
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_media_handle
+      label: Social Media Handle
+      hint: For campaign promotion
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: campaign_materials
+      label: Will You Submit Campaign Materials
+      hint: Posters, flyers, etc.
+      type: select_one
+      options:
+      - Yes, already submitted
+      - Yes, will submit soon
+      - No campaign materials
+      required: false
+    - id: 20
+      name: debate_availability
+      label: Are You Available for Candidate Debate
+      hint: If scheduled
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, with scheduling
+      - No, cannot attend
+      required: true
+    - id: 21
+      name: faculty_advisor
+      label: Faculty Advisor Name
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: nomination_confirmation
+      label: Do You Confirm Your Candidacy
+      hint: By selecting yes you confirm
+      type: select_one
+      options:
+      - Yes, I confirm my candidacy
+      - No, do not submit
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

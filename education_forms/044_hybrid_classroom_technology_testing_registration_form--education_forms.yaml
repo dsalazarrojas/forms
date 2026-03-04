@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hybrid Classroom Technology Testing Registration Form
+    pages:
+    - id: 1
+      name: demo_details
+      label: demo_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: testing_schedule
+      label: testing_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: technology_details
+      label: technology_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: testing_preferences
+      label: testing_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

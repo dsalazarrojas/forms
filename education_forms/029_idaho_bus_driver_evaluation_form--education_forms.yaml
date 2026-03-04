@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: idaho_bus_driver_evaluation_form
+    pages:
+    - id: 1
+      name: bus_driver_id
+      label: Bus Driver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: license_plate_number
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_last_inspection
+      label: Date Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year_last_inspection
+      label: Vehicle Year Last Inspection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Car
+      - Truck
+      required: false
+    - id: 9
+      name: vehicle_license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_registration_last_inspection
+      label: Vehicle Registration Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_registration_status
+      label: Vehicle Registration Status
+      hint: null
+      type: select_multiple
+      options:
+      - Registered
+      - Unregistered
+      - Pending Registration
+      required: false
+    - id: 13
+      name: vehicle_weight_certified
+      label: Vehicle Weight Certified
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Non-Certified
+      - Unknown
+      required: false
+    - id: 14
+      name: vehicle_weight_certification_status
+      label: Vehicle Weight Certification Status
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Non-Certified
+      - Unknown
+      required: false
+    - id: 15
+      name: vehicle_inspection_type
+      label: Vehicle Inspection Type
+      hint: null
+      type: select_multiple
+      options:
+      - Inspections Performed
+      - No Inspections Performed
+      - Unknown
+      required: false
+    - id: 16
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_inspection_status
+      label: Vehicle Inspection Status
+      hint: null
+      type: select_multiple
+      options:
+      - Passed
+      - Failed
+      - Not Tested
+      required: false

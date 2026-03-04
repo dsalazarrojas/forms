@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Payment Integration Registration
+    pages:
+    - id: 1
+      name: merchant_info
+      label: merchant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: payment_details
+      hint: This field is for payment details
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tax_rate
+      label: tax_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: integration_type
+      label: integration_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: api_key
+      label: api_key
+      hint: Enter your API key here
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: api_secret
+      label: api_secret
+      hint: Enter your API secret here
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: callback_url
+      label: callback_url
+      hint: Enter the callback URL here
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: merchant_id
+      label: merchant_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 13
+      name: payment_currency
+      label: payment_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 14
+      name: integration_status
+      label: integration_status
+      hint: null
+      type: select_one
+      options:
+      - Success
+      - Failure
+      - Pending
+      required: false

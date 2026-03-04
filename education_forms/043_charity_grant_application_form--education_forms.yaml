@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Grant Application Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For eligibility
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grant_type
+      label: Grant Type
+      hint: What you are applying for
+      type: select_one
+      options:
+      - Educational scholarship
+      - Vocational training
+      - Professional development
+      - Research grant
+      - Community project
+      - Emergency assistance
+      - Other
+      required: true
+    - id: 8
+      name: amount_requested
+      label: Amount Requested
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: program_name
+      label: Program or Course Name
+      hint: What you will study
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: institution_name
+      label: Institution Name
+      hint: School or organization
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: program_start_date
+      label: Program Start Date
+      hint: When begins
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: program_end_date
+      label: Program End Date
+      hint: When ends
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: gpa
+      label: Current or Last GPA
+      hint: Grade point average
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: employment_status
+      label: Employment Status
+      hint: Current status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Unemployed
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 15
+      name: household_income
+      label: Annual Household Income
+      hint: Before taxes
+      type: select_one
+      options:
+      - Under $20000
+      - $20000 to $40000
+      - $40001 to $60000
+      - $60001 to $80000
+      - Over $80000
+      required: true
+    - id: 16
+      name: financial_need
+      label: Describe Your Financial Need
+      hint: Why you need assistance
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: career_goals
+      label: Describe Your Career Goals
+      hint: Future plans
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: how_will_help
+      label: How Will This Grant Help You
+      hint: Impact statement
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: other_funding
+      label: Other Funding Sources
+      hint: Additional support
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: references
+      label: Professional References
+      hint: Names and contacts
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supporting_documents
+      label: Can You Provide Supporting Documents
+      hint: Transcripts letters etc
+      type: select_one
+      options:
+      - Yes will upload
+      - Yes will mail
+      - Need assistance
+      required: true
+    - id: 22
+      name: agreement
+      label: Do You Agree to Terms
+      hint: Grant conditions
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

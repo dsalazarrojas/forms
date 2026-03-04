@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course AddDrop Request Form
+    pages:
+    - id: 1
+      name: course_adddrop_request_form
+      label: course adddrop request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program
+      label: program
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Program 1''}'
+      - '{''value'': ''Program 2''}'
+      - '{''value'': ''Program 3''}'
+      required: false
+    - id: 6
+      name: add_course_list
+      label: add course list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: drop_course_list
+      label: drop course list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: add_course
+      label: add course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: drop_course
+      label: drop course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_request
+      label: submit request
+      hint: null
+      type: note
+      options: []
+      required: false

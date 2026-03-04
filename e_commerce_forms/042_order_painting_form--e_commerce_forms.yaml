@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Order Painting Form
+    pages:
+    - id: 1
+      name: painting_size
+      label: painting size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Medium
+      - Small
+      required: false
+    - id: 2
+      name: color
+      label: color
+      hint: Please choose a color
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 3
+      name: painting_term
+      label: painting term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: painting_upload
+      label: upload painting picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: video
+      label: video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: order notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Credit Card
+      - PayPal
+      required: false
+    - id: 10
+      name: order_terms
+      label: order terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_address
+      label: customer address
+      hint: null
+      type: text
+      options: []
+      required: true

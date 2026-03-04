@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_order_experience_feedback_contact_form
+    pages:
+    - id: 1
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Cancelled
+      - Delayed
+      - On-time
+      - Late
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

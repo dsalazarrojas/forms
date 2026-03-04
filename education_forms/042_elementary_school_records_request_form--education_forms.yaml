@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary School Records Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: record_request_type
+      label: Record Request Type
+      hint: null
+      type: select_one
+      options:
+      - Elementary School Report Card
+      - Progress Report
+      - Transcript
+      - Other
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: false

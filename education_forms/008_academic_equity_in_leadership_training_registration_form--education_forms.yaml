@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Equity In Leadership Training Registration Form
+    pages:
+    - id: 1
+      name: section_program_info
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant email
+      hint: Contact email for program updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution or employer
+      hint: Affiliated organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role or title
+      hint: Job title or position
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_selection
+      label: Session selection
+      hint: Choose preferred session date
+      type: select_one
+      options:
+      - Morning workshop
+      - Afternoon workshop
+      - Full day intensive
+      required: true
+    - id: 7
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Specify any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Request accommodations if required
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: learning_objectives
+      label: Learning objectives
+      hint: What you hope to gain from the training
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false

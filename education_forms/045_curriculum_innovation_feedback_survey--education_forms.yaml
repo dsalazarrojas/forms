@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Innovation Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your role at the school or training provider?
+      hint: null
+      type: select_one
+      options:
+      - Teacher
+      - Student
+      - Administrator
+      - Other
+      required: false
+    - id: 2
+      name: role_institution
+      label: What is your role within the institution?
+      hint: null
+      type: select_multiple
+      options:
+      - School Principal
+      - School Vice Principal
+      - School Teacher
+      - School Student
+      - University Lecturer
+      - University Professor
+      - Training Provider
+      - Other
+      required: false
+    - id: 3
+      name: curriculum_initiative
+      label: What is the name of the new or existing curriculum initiative you are
+        providing feedback on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_question_1
+      label: How would you rate the quality of support provided by the curriculum
+        initiative?
+      hint: Rate your experience from 1 to 5, where 1 is very poor and 5 is very good
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: What factors most influenced your response to the new curriculum initiative?
+      hint: null
+      type: select_multiple
+      options:
+      - Curriculum design and structure
+      - Resources and materials
+      - Teaching methods and approaches
+      - Learning outcomes and assessment
+      - Other
+      required: false
+    - id: 6
+      name: curriculum_initiative_satisfied
+      label: Are you satisfied with the new or existing curriculum initiative?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: feedback_suggestions
+      label: Do you have any feedback or suggestions for the new or existing curriculum
+        initiative?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Do you have any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

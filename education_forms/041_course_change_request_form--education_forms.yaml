@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Change Request Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_id
+      label: Course Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: new_course_id
+      label: New Course Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: faculty_approval
+      label: Faculty Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approve
+      - Deny
+      - Pending
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Open
+      - Closed
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

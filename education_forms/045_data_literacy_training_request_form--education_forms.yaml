@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Data Literacy Training Request Form
+    pages:
+    - id: 1
+      name: session_preferences
+      label: Session Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_details
+      label: Training Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: select_one
+      options:
+      - Participant 1
+      - Participant 2
+      - Participant 3
+      required: false
+    - id: 6
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false

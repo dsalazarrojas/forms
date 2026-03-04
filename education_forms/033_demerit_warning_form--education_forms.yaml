@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Demerit Warning Form
+    pages:
+    - id: 1
+      name: warning_details
+      label: Warning Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: warning_type
+      label: warning type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Misconduct''}'
+      - '{''id'': 2, ''name'': ''Rule Violation''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_date_of_birth
+      label: student date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_contact_details
+      label: contact details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_warning_given
+      label: date warning given
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_warning_given
+      label: time warning given
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: warning_by
+      label: warning by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: warning_status
+      label: warning status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Open''}'
+      - '{''id'': 2, ''name'': ''Closed''}'
+      - '{''id'': 3, ''name'': ''Resolved''}'
+      required: false
+    - id: 12
+      name: reason_for_resolution
+      label: reason for resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resolution_date
+      label: resolution date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: resolution_by
+      label: resolution by
+      hint: null
+      type: text
+      options: []
+      required: false

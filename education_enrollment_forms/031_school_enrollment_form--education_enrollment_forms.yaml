@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Enrollment Form
+    pages:
+    - id: 1
+      name: school_enrollment_form
+      label: School Enrollment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: false
+    - id: 7
+      name: student_enrolled_grade
+      label: Student Enrolled Grade
+      hint: null
+      type: select_one
+      options:
+      - Pre-1st
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: false
+    - id: 8
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: false

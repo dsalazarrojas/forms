@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Quiz Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_id
+      label: class_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: score
+      label: Class Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: subject_ids
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Math
+      - Science
+      - History
+      required: false
+    - id: 5
+      name: section_id
+      label: Section
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      required: false

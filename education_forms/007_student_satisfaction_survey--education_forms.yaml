@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: introduction-page-label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_page
+      label: rating-question
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: suggestion_page
+      label: suggestion-question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion_input
+      label: suggestion-answer
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''suggest''}'
+      - '{''text'': ''something''}'
+      - '{''text'': ''anything''}'
+      required: false
+    - id: 5
+      name: comment_page
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_page
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_page
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_page
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

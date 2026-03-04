@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational VR Research Participation Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      - '{''value'': None, ''label'': None}'
+      - '{''value'': None, ''label'': None}'
+      - '{''value'': None, ''label'': None}'
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent/Guardian E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': ''I consent for the participant to participate
+        in this VR-based education project''}'
+      - '{''value'': False, ''label'': ''I do not consent for the participant to participate
+        in this VR-based education project''}'
+      - '{''value'': None, ''label'': None}'
+      - '{''value'': None, ''label'': None}'
+      - '{''value'': None, ''label'': None}'
+      required: false
+    - id: 10
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: researcher_info
+      label: Researcher Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: researcher_age
+      label: Researcher Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: researcher_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male'', ''label'': ''Male''}'
+      - '{''value'': ''female'', ''label'': ''Female''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      - '{''value'': None, ''label'': None}'
+      - '{''value'': None, ''label'': None}'
+      required: false
+    - id: 15
+      name: researcher_email
+      label: Researcher E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: researcher_phone
+      label: Researcher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_signature_image
+      label: Participant Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: researcher_signature
+      label: Researcher Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: researcher_signature_image
+      label: Researcher Signature Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: participant_vr_experiences
+      label: Participant VR Experiences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

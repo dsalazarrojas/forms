@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: CET Candidate Declaration Form
+    pages:
+    - id: 1
+      name: cet_declaration_header
+      label: -- Common Entrance Test (CET) Declaration --
+      hint: This form must be completed before entering the examination hall.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name_cet
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cet_roll_number
+      label: Examination Roll Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: exam_center_code_cet
+      label: Examination Center Code
+      hint: Found on your admit card
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: exam_date_cet
+      label: Date of Examination
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: cet_subject_stream
+      label: Subject Stream
+      hint: null
+      type: select_one
+      options:
+      - Engineering (PCM)
+      - Medical (PCB)
+      - Humanities
+      - Commerce
+      required: true
+    - id: 7
+      name: conduct_agreement_cet
+      label: I agree to abide by all rules and regulations of the CET
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 8
+      name: prohibited_items_ack
+      label: I certify that I am not carrying any prohibited electronic devices
+      hint: No mobile phones, smartwatches, or calculators.
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 9
+      name: health_declaration_cet
+      label: Are you currently experiencing any fever or respiratory symptoms?
+      hint: For health and safety monitoring
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: candidate_signature_text
+      label: Candidate Digital Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_consent_cet
+      label: Parent/Guardian Consent (for minors)
+      hint: Required for candidates under 18.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: identity_verification_check
+      label: Have you brought your original Government ID?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 13
+      name: cet_portal_username
+      label: Application Portal Username
+      hint: For record matching
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: cet_declaration_timestamp
+      label: Submission Timestamp
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: cet_final_notice
+      label: -- Final Notice --
+      hint: Failure to provide truthful information may result in disqualification.
+      type: note
+      options: []
+      required: false

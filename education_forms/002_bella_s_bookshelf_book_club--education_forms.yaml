@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bella's Bookshelf Book Club
+    pages:
+    - id: 1
+      name: member_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: We will send meeting reminders to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Optional contact for urgent updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: membership_type
+      label: Membership Type
+      hint: Choose your preferred membership level
+      type: select_one
+      options:
+      - Standard Member
+      - Premium Member
+      - Student Member
+      - Senior Member
+      - Family Membership
+      required: true
+    - id: 5
+      name: favorite_genres
+      label: Favorite Book Genres
+      hint: Select all genres you enjoy reading
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Non-Fiction
+      - Biography
+      - Historical Fiction
+      - Thriller
+      - Young Adult
+      required: true
+    - id: 6
+      name: reading_frequency
+      label: How Often Do You Read
+      hint: Your typical reading habits
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Once a week
+      - 2-3 times a month
+      - Once a month
+      - Occasionally
+      required: true
+    - id: 7
+      name: meeting_preference
+      label: Preferred Meeting Time
+      hint: When would you like book club meetings to be held
+      type: select_one
+      options:
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Weekend evenings
+      - Flexible
+      required: true
+    - id: 8
+      name: attendance_frequency
+      label: Expected Attendance Frequency
+      hint: How often do you plan to attend meetings
+      type: select_one
+      options:
+      - Every meeting
+      - Most meetings
+      - About half
+      - Occasionally
+      - Just trying it out
+      required: true
+    - id: 9
+      name: book_recommendation
+      label: Would You Like to Recommend Books
+      hint: Are you interested in suggesting books for the club
+      type: select_one
+      options:
+      - Yes, I have several recommendations
+      - Maybe, I will think about it
+      - No, I prefer others to choose
+      required: true
+    - id: 10
+      name: discussion_leader_interest
+      label: Interest in Leading Discussions
+      hint: Would you be willing to lead a book discussion sometime
+      type: select_one
+      options:
+      - Yes, I would love to
+      - Maybe in the future
+      - No, I prefer to participate only
+      required: true
+    - id: 11
+      name: snack_contribution
+      label: Willing to Contribute Snacks or Beverages
+      hint: Our book club shares refreshments at meetings
+      type: select_one
+      options:
+      - Yes, I can bring something
+      - Occasionally
+      - No, but I appreciate others who do
+      required: false
+    - id: 12
+      name: how_heard_about
+      label: How Did You Hear About Us
+      hint: We would love to know how you found our book club
+      type: select_one
+      options:
+      - Friend or family member
+      - Social media
+      - Library bulletin board
+      - Community center
+      - Online search
+      - Local bookstore
+      - Other
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Do you have any accessibility needs we should know about
+      type: select_one
+      options:
+      - None
+      - Wheelchair access
+      - Large print materials
+      - Hearing assistance
+      - Other
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else you would like us to know
+      type: text
+      options: []
+      required: false

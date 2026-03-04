@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Progress Check In
+    pages:
+    - id: 1
+      name: progress_check_in_1
+      label: Weekly Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: goals_achieved_1
+      label: Goals Achieved
+      hint: null
+      type: select_one
+      options:
+      - Coaching
+      - Training
+      - Course
+      required: false
+    - id: 3
+      name: participation_2
+      label: Participation
+      hint: How many sessions have you participated in?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: progress_comments_3
+      label: Progress Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: progress_ratings_4
+      label: Progress Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: feedback_5
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress_status_6
+      label: Progress Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Suspended
+      required: false
+    - id: 8
+      name: next_steps_7
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_8
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: progress_date_9
+      label: Progress Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worksheet Completion Survey
+    pages:
+    - id: 1
+      name: survey_completion_survey
+      label: Survey completion
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: worksheet_clarity
+      label: Clarity
+      hint: How clear was the content?
+      type: select_one
+      options:
+      - Clear
+      - Somewhat clear
+      - Not clear
+      required: false
+    - id: 3
+      name: instructional_materials
+      label: Instructional materials
+      hint: Please select the materials you use most often when creating worksheets.
+      type: select_multiple
+      options:
+      - Textbook
+      - Online resources
+      - Handouts
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: engagement
+      label: Engagement
+      hint: How engaging was the content?
+      type: select_one
+      options:
+      - Engaging
+      - Somewhat engaging
+      - Not engaging
+      required: false
+    - id: 5
+      name: learning_outcomes
+      label: Learning outcomes
+      hint: To what extent did this worksheet help the students achieve the desired
+        learning outcomes?
+      type: select_one
+      options:
+      - Achieved the learning outcomes
+      - Mostly achieved the learning outcomes
+      - Did not achieve the learning outcomes
+      required: false
+    - id: 6
+      name: ease_of_use
+      label: Ease of use
+      hint: How easy was it to use?
+      type: select_one
+      options:
+      - Easy to use
+      - Somewhat easy to use
+      - Not easy to use
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: Please add any additional comments.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false

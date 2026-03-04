@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: nxt_gen_registration_form
+    pages:
+    - id: 1
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interest_areas
+      label: Interest Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Artificial Intelligence
+      - Data Science
+      - Machine Learning
+      - Internet of Things
+      - Cyber Security
+      - Computer Vision
+      - Natural Language Processing
+      - Robotics
+      - Gaming
+      - Blockchain
+      - Data Analytics
+      - Cloud Computing
+      required: false
+    - id: 4
+      name: participant_interests
+      label: Participant Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Arts and Design
+      - Music and Arts
+      - Dance and Performance
+      - Drama and Theater
+      - Language and Literature
+      - Mathematics and Statistics
+      - Science and Technology
+      - Sports and Fitness
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - School Program
+      - Youth Program
+      - Innovation Initiative
+      required: true
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - CST
+      - PST
+      - MST
+      - AST
+      - CST
+      - PST
+      - MST
+      - EST
+      - CST
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: note
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

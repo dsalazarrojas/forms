@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Relief Scholarship Application Form
+    pages:
+    - id: 1
+      name: student_name_full
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: grade_level_val
+      label: Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: income_change_cat
+      label: Household Income Change
+      hint: Select the statement that best describes your situation
+      type: select_one
+      options:
+      - Significant decrease (50%+)
+      - Moderate decrease (25-50%)
+      - Slight decrease (<25%)
+      - No change
+      required: true
+    - id: 5
+      name: application_reason_text
+      label: Reason for Application
+      hint: Describe how the pandemic has impacted your ability to pay school fees
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: documentation_type_cat
+      label: Type of Supporting Documentation Available
+      hint: null
+      type: select_one
+      options:
+      - Unemployment letter
+      - Payroll stubs
+      - Tax return
+      - Employer letter
+      required: true
+    - id: 7
+      name: current_fees_balance
+      label: Current School Fees Balance ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: scholarship_amount_requested
+      label: Scholarship Amount Requested ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: financial_need_statement
+      label: Detailed Statement of Financial Need
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: academic_progress_summary
+      label: Student Academic Progress Summary
+      hint: Briefly describe student performance this year
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone_no
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: application_auth_ack
+      label: I authorize the school to verify the information provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I authorize
+      required: true

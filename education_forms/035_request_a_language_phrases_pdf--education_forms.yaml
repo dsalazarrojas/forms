@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Language Phrases PDF
+    pages:
+    - id: 1
+      name: education_form
+      label: education_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_form
+      label: Request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: language_phrases_pdf
+      label: Language Phrases PDF
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: language_level
+      label: language_level
+      hint: null
+      type: select_one
+      options:
+      - Language Level 1
+      - Language Level 2
+      - Language Level 3
+      - Language Level 4
+      required: true
+    - id: 5
+      name: purpose
+      label: purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Purpose 1
+      - Purpose 2
+      - Purpose 3
+      required: true
+    - id: 6
+      name: delivery_method
+      label: delivery_method
+      hint: null
+      type: select_one
+      options:
+      - Delivery Method 1
+      - Delivery Method 2
+      - Delivery Method 3
+      required: true
+    - id: 7
+      name: language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      required: true
+    - id: 8
+      name: level
+      label: level
+      hint: null
+      type: number
+      options: []
+      required: false

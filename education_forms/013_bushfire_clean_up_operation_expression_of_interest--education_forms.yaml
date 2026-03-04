@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bushfire Clean Up Operation Expression Of Interest
+    pages:
+    - id: 1
+      name: section_volunteer_identity
+      label: -- Volunteer Identity --
+      hint: Thank you for your interest in helping the community
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: affiliate_organization
+      label: Affiliate Organization
+      hint: e.g. NGO, Corporate Team, Community Group (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone_volunteer
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email_volunteer
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_logistics_availability
+      label: -- Availability and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: weekly_availability_selection
+      label: Days Available for Operations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 8
+      name: previous_disaster_experience
+      label: Previous Experience with Disaster Clean-up
+      hint: Please describe any relevant past work
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physical_fitness_self_assessment
+      label: Physical Fitness Level
+      hint: Clean-up can be physically demanding
+      type: select_one
+      options:
+      - High (Can lift 50lbs+, walk long distances)
+      - Moderate (Can lift 25lbs, moderate activity)
+      - Light (Administrative or light clearing only)
+      required: true
+    - id: 10
+      name: ppe_availability
+      label: Personal Protective Equipment (PPE) Available
+      hint: What gear can you provide for yourself
+      type: select_multiple
+      options:
+      - Steel-toed Boots
+      - Heavy Duty Gloves
+      - N95 or P2 Masks
+      - Safety Glasses/Goggles
+      - High-Visibility Vest
+      required: true
+    - id: 11
+      name: section_emergency_safety
+      label: -- Safety and Emergency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_volunteer
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: safety_training_acknowledgment
+      label: I agree to undergo mandatory on-site safety training
+      hint: Before starting any clean-up work
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: eoi_submission_date
+      label: Date of Expression of Interest
+      hint: null
+      type: date
+      options: []
+      required: true

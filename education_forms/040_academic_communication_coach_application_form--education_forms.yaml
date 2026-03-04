@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Communication Coach Application Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_affiliation
+      label: Current university or institutional affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_qualifications
+      label: -- Qualifications and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: highest_degree
+      label: Highest degree earned
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's degree
+      - Master's degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 9
+      name: field_of_study
+      label: Field of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: teaching_experience_years
+      label: Years of teaching or coaching experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 11
+      name: coaching_areas
+      label: Which communication areas are you qualified to coach
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Academic writing
+      - Public speaking and presentations
+      - Research communication
+      - Grant writing
+      - ESL or language support
+      - Professional correspondence
+      - Thesis and dissertation writing
+      required: true
+    - id: 12
+      name: relevant_certifications
+      label: Relevant certifications or training
+      hint: e.g. TESOL, writing center certification
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_coaching_approach
+      label: -- Coaching Approach --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: coaching_philosophy
+      label: Describe your coaching philosophy and approach
+      hint: How do you help students improve their academic communication skills
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: target_audience
+      label: Which student populations do you prefer to work with
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Undergraduate students
+      - Graduate students
+      - International students
+      - Faculty and staff
+      - All populations
+      required: true
+    - id: 16
+      name: availability
+      label: Availability for coaching sessions
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time (20+ hours per week)
+      - Part-time (10-20 hours per week)
+      - Limited (less than 10 hours per week)
+      required: true
+    - id: 17
+      name: preferred_format
+      label: Preferred coaching format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online or virtual
+      - Hybrid
+      - No preference
+      required: true
+    - id: 18
+      name: section_header_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reference_1_name
+      label: Reference 1 - Name and title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reference_1_email
+      label: Reference 1 - Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: reference_2_name
+      label: Reference 2 - Name and title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reference_2_email
+      label: Reference 2 - Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: additional_info
+      label: Any additional information you would like to share
+      hint: null
+      type: text
+      options: []
+      required: false

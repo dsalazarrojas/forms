@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lesson Plan Form
+    pages:
+    - id: 1
+      name: lesson_plan_form_page_1
+      label: Lesson Plan Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: lesson_planned
+      label: Lesson Planned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: lesson_actual
+      label: Lesson Actual
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: lesson_attended
+      label: Lesson Attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

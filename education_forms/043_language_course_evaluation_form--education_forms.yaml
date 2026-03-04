@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Course Evaluation Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language_course_id
+      label: Language Course
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: course_evaluation
+      label: Course Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: teacher
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false

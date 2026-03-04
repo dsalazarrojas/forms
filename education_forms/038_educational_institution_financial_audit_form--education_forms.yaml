@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Institution Financial Audit Form
+    pages:
+    - id: 1
+      name: institution_name
+      label: institution name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: auditor_name
+      label: auditor name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: audit_date
+      label: audit date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: auditor_title
+      label: auditor title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: auditor_organization
+      label: auditor organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: financial_year
+      label: financial year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: audit_results
+      label: audit results
+      hint: null
+      type: select_one
+      options:
+      - Financially Healthy
+      - Financially Unhealthy
+      - Not Audited
+      required: false
+    - id: 8
+      name: supporting_documents
+      label: supporting documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: institution_website
+      label: institution website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: institution_phone
+      label: institution phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: institution_email
+      label: institution email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

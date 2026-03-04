@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Supplies Donation Form
+    pages:
+    - id: 1
+      name: donor_header
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: association_with_school
+      label: Association with School
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Alumni
+      - Community Member
+      - Local Business
+      - Other
+      required: true
+    - id: 6
+      name: donation_details_header
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: supplies_donated
+      label: Type of Supplies Donated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Writing Tools (Pens, Pencils)
+      - Paper Products (Notebooks, Printer Paper)
+      - Art Supplies (Glue, Markers, Paint)
+      - Cleaning Supplies (Wipes, Hand Sanitizer)
+      - Technology (Tablets, Headphones)
+      - Classroom Furniture
+      - Books/Reading Material
+      required: true
+    - id: 8
+      name: items_description
+      label: Description of Items and Quantity
+      hint: e.g. 5 boxes of pencils, 2 packs of paper
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: condition_of_items
+      label: Condition of Items
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Like New
+      - Gently Used
+      required: true
+    - id: 10
+      name: estimated_value
+      label: Estimated Total Value ($)
+      hint: For tax receipt purposes
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_method
+      label: How will the items be delivered?
+      hint: null
+      type: select_one
+      options:
+      - Dropped off at Front Office
+      - Sent with Student
+      - Requires Pickup
+      required: true
+    - id: 12
+      name: receipt_requested
+      label: Would you like a donation receipt for tax purposes?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments or Specific Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: thank_you_footer
+      label: -- Thank you for your generosity! --
+      hint: Your contribution directly impacts our students' learning environment.
+      type: note
+      options: []
+      required: false

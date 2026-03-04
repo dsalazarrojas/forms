@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Egypt Architecture Quiz
+    pages:
+    - id: 1
+      name: section_quiz_header
+      label: -- Ancient Egypt Architecture Quiz --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_pyramids_temples
+      label: -- Pyramids and Temples --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: oldest_pyramid_type
+      label: Which is considered the oldest type of pyramid in Egypt?
+      hint: null
+      type: select_one
+      options:
+      - Step Pyramid
+      - Bent Pyramid
+      - Giza Pyramid
+      - Red Pyramid
+      required: true
+    - id: 5
+      name: pharaoh_of_great_pyramid
+      label: For which Pharaoh was the Great Pyramid of Giza built?
+      hint: null
+      type: select_one
+      options:
+      - Khufu
+      - Khafre
+      - Menkaure
+      - Tutankhamun
+      required: true
+    - id: 6
+      name: materials_used_in_temples
+      label: Which materials were commonly used in the construction of Egyptian temples?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Limestone
+      - Sandstone
+      - Granite
+      - Wood
+      - Plastic
+      required: true
+    - id: 7
+      name: sphinx_location
+      label: Where is the Great Sphinx located?
+      hint: null
+      type: select_one
+      options:
+      - Giza
+      - Luxor
+      - Karnak
+      - Abu Simbel
+      required: true
+    - id: 8
+      name: section_construction_design
+      label: -- Construction and Design --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: obelisk_shape
+      label: What is the characteristic shape of an Egyptian obelisk?
+      hint: null
+      type: select_one
+      options:
+      - Four-sided with pyramid top
+      - Circular tower
+      - Flat wall
+      - Triangular prism
+      required: true
+    - id: 10
+      name: what_is_a_pylon_in_egyptian_architecture
+      label: In Egyptian architecture, what is a Pylon?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: number_of_major_pyramids_at_giza
+      label: How many major pyramids are located at the Giza complex?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_assessment
+      label: -- Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: difficulty_level_of_quiz
+      label: How would you rate the difficulty of this quiz?
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Hard
+      required: true
+    - id: 14
+      name: additional_student_comments
+      label: Additional Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false

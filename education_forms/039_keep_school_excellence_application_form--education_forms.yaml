@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Keep School Excellence Application Form
+    pages:
+    - id: 1
+      name: school_excellence_form
+      label: School Excellence Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_id
+      label: School Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: application_period
+      label: Application Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: application_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: application_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

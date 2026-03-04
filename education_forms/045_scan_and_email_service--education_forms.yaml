@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scan And Email Service
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_page
+      label: Start Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: end_page
+      label: End Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: chapters
+      label: Chapters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pages_requested
+      label: Pages Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - JPEG
+      - PNG
+      - DOCX
+      - RTF
+      - TXT
+      required: false
+    - id: 9
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Tuteering Dynamics Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: roles
+      label: peer_tuteeing_roles
+      hint: null
+      type: select_one
+      options:
+      - Peer Tuteurer
+      - Tuteur
+      - Tuteurer
+      required: false
+    - id: 3
+      name: frequency
+      label: peer_tuteeing_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 4
+      name: effectiveness
+      label: peer_tuteeing_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: challenges
+      label: peer_tuteeing_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions_to_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions_details
+      label: details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: roles_frequency
+      label: peer_tuteeing_roles_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Role 1
+      - Role 2
+      - Role 3
+      required: false
+    - id: 9
+      name: effectiveness_scale
+      label: peer_tuteeing_effectiveness_scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: suggestions_for_improvement
+      label: improvement
+      hint: null
+      type: select_one
+      options:
+      - Improvement 1
+      - Improvement 2
+      - Improvement 3
+      required: false
+    - id: 11
+      name: roles_suggestions
+      label: peer_tuteeing_roles_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - Suggestion 1
+      - Suggestion 2
+      - Suggestion 3
+      required: false
+    - id: 12
+      name: challenges_suggestions
+      label: peer_tuteeing_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Suggestion 1
+      - Suggestion 2
+      - Suggestion 3
+      required: false
+    - id: 13
+      name: suggestions_improvement_details
+      label: more_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suggestions_improvement_frequency
+      label: peer_tuteeing_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Improvement 1
+      - Improvement 2
+      - Improvement 3
+      required: false

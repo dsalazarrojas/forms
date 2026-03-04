@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutoring Program Enrollment Form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_program_enrollment_date
+      label: Program Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: user_program_duration
+      label: Program Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1 month''}'
+      - '{''value'': ''3 months''}'
+      - '{''value'': ''6 months''}'
+      required: false
+    - id: 7
+      name: user_program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: user_program_status
+      label: Program Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Discontinued''}'
+      required: false
+    - id: 9
+      name: user_program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: user_program_notes
+      label: Program Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: user_tutoring_frequency
+      label: Tutoring Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Bi-weekly''}'
+      required: false
+    - id: 12
+      name: user_tutoring_start_date
+      label: Tutoring Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: user_tutoring_status
+      label: Tutoring Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Discontinued''}'
+      required: false
+    - id: 14
+      name: user_tutoring_end_date
+      label: Tutoring End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: user_tutoring_notes
+      label: Tutoring Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: program_id
+      label: Program ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tutor
+      label: Assigned Tutor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jim''}'
+      - '{''value'': ''Jane''}'
+      - '{''value'': ''John''}'
+      required: false
+    - id: 19
+      name: assigned_room
+      label: Assigned Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned_status
+      label: Assigned Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Available''}'
+      - '{''value'': ''Unavailable''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 23
+      name: assigned_notes
+      label: Assigned Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: user_institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_instructor
+      label: Assigned Instructor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mr. John Doe''}'
+      - '{''value'': ''Ms. Jane Doe''}'
+      - '{''value'': ''Mr. Jim Smith''}'
+      required: false

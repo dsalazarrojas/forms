@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education System Reform Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Education System Reform Awareness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: demographic
+      label: Demographic
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Male''}'
+      - Female
+      - Other
+      required: true
+    - id: 3
+      name: education_level
+      label: Education Level
+      hint: What level of education do you currently have?
+      type: select_multiple
+      options:
+      - '{''name'': ''Primary''}'
+      - Secondary
+      - Tertiary
+      - Postgraduate
+      required: true
+    - id: 4
+      name: education_field
+      label: Education Field
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Arts''}'
+      - Humanities
+      - Sciences
+      - Technology
+      - Engineering
+      - Health and Social Sciences
+      required: true
+    - id: 5
+      name: awareness
+      label: Awareness of the current education system reforms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission
+      label: Submission
+      hint: null
+      type: time
+      options: []
+      required: true

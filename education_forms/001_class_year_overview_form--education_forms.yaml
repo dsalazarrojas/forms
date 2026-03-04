@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Year Overview Form
+    pages:
+    - id: 1
+      name: academic_year
+      label: Academic Year
+      hint: Enter the academic year (e.g., 2023-2024)
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: class_cohort_name
+      label: Class or Cohort Name
+      hint: Name or designation of the class (e.g., Class of 2024, Cohort A)
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_header_highlights
+      label: -- Key Highlights and Achievements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: major_achievements
+      label: What were the major achievements this year?
+      hint: Describe academic, athletic, or social accomplishments
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: notable_events
+      label: Notable events or milestones
+      hint: List special events, competitions, performances, or milestones
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_challenges
+      label: -- Challenges and Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: main_challenges
+      label: What challenges did the class face?
+      hint: Describe obstacles encountered academically or socially
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: improvement_areas
+      label: Areas identified for improvement
+      hint: Specific areas the class should focus on next year
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: enrollment_count
+      label: Total student enrollment
+      hint: Number of students in the class
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: attendance_rate
+      label: Average attendance rate
+      hint: Percentage or decimal (e.g., 95.5%)
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_header_programs
+      label: -- Programs and Initiatives --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: special_programs
+      label: Special programs or initiatives launched
+      hint: Describe any new programs, clubs, or initiatives
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: community_service_hours
+      label: Total community service hours
+      hint: Estimated hours contributed by the class
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_header_goals
+      label: -- Goals for Next Year --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: next_year_goals
+      label: Goals for the next academic year
+      hint: What does the class aim to accomplish?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: goal_focus_area
+      label: Primary focus area for next year
+      hint: null
+      type: select_one
+      options:
+      - Academic Excellence
+      - Community Engagement
+      - Leadership Development
+      - Wellness and Wellbeing
+      - Diversity and Inclusion
+      required: true
+    - id: 17
+      name: advisor_name
+      label: Class Advisor Name
+      hint: Primary advisor for the class
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_date
+      label: Report submission date
+      hint: Date this overview is being submitted
+      type: date
+      options: []
+      required: true

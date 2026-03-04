@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Advising Form
+    pages:
+    - id: 1
+      name: section_header_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: major_or_program
+      label: Major or program of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_year
+      label: Current academic year
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate
+      required: true
+    - id: 7
+      name: advisor_name
+      label: Academic advisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: meeting_date
+      label: Date of advising meeting
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_header_academic_status
+      label: -- Academic Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_gpa
+      label: Current cumulative GPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: credits_completed
+      label: Total credits completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: credits_remaining
+      label: Estimated credits remaining to graduate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: expected_graduation
+      label: Expected graduation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: section_header_advising_topics
+      label: -- Advising Topics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: topics_discussed
+      label: Topics discussed during this meeting
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Course selection and registration
+      - Degree requirements
+      - Career planning
+      - Academic performance concerns
+      - Change of major or minor
+      - Study abroad or exchange programs
+      - Graduate school planning
+      required: true
+    - id: 16
+      name: courses_planned
+      label: Courses planned for next semester
+      hint: List course names or numbers
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: action_items
+      label: Action items or next steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_needed
+      label: Is a follow-up meeting needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: follow_up_date
+      label: Suggested follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: advisor_notes
+      label: Advisor notes
+      hint: null
+      type: text
+      options: []
+      required: false

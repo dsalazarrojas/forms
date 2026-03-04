@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Civil War Map Worksheet
+    pages:
+      - id: 1
+        name: student_info_header
+        label: -- Student and Class Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: class_period
+        label: Class Period
+        hint: null
+        type: select_one
+        options:
+          - 1st Period
+          - 2nd Period
+          - 3rd Period
+          - 4th Period
+          - 5th Period
+          - 6th Period
+        required: true
+      - id: 4
+        name: map_analysis_header
+        label: -- Map Analysis Questions --
+        hint: Based on the 1861 map provided in class
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: union_states_list
+        label: List three major Union states (North)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: confederate_states_list
+        label: List three major Confederate states (South)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: border_states_definition
+        label: What was a "Border State" during the Civil War?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: mississippi_river_importance
+        label: Why was control of the Mississippi River strategically important?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: battle_of_gettysburg_location
+        label: In which state did the Battle of Gettysburg take place?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: geographic_advantage_north
+        label: Identify one geographic advantage for the North
+        hint: e.g., Industry, Railroads, Population
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: geographic_advantage_south
+        label: Identify one geographic advantage for the South
+        hint: e.g., Defensive position, Knowledge of terrain
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: blockade_impact
+        label: How did the naval blockade (Anaconda Plan) affect Southern ports?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: map_reading_difficulty
+        label: How easy was it to read the provided historical map?
+        hint: null
+        type: select_one
+        options:
+          - Very Easy
+          - Fairly Easy
+          - Difficult
+        required: false
+      - id: 14
+        name: additional_comments
+        label: Any other observations from the map analysis?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: completion_date
+        label: Date
+        hint: null
+        type: date
+        options: []
+        required: true

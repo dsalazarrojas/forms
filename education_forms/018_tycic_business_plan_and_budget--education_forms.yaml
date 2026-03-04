@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tycic Business Plan And Budget
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: idea
+      label: Idea
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      required: true
+    - id: 11
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 12
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: useful
+      label: Useful
+      hint: null
+      type: select_one
+      options:
+      - Useful
+      - Not Very Useful
+      required: false
+    - id: 14
+      name: make_up
+      label: Make Up
+      hint: null
+      type: text
+      options: []
+      required: false

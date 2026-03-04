@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: STEM Educator Of The Year Nomination Form
+    pages:
+    - id: 1
+      name: nominate_educator
+      label: Nominate Educator
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name_of_educator
+      label: name_of_educator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: nominee_email
+      label: nominee_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: school_district
+      label: school_district
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_phone
+      label: nominee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_name
+      label: nominator_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_email
+      label: nominator_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: nominator_phone
+      label: nominator_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_nomination
+      label: reason_for_nomination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: nominator_organization
+      label: nominator_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: nominator_position
+      label: nominator_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominator_department
+      label: nominator_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nominator_title
+      label: nominator_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: nominator_office
+      label: nominator_office
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nominator_work_phone
+      label: nominator_work_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: nominator_work_email
+      label: nominator_work_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: nominator_work_ext
+      label: nominator_work_ext
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: nominator_work_title
+      label: nominator_work_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nominator_work_url
+      label: nominator_work_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: nominator_work
+      label: nominator_work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: nominator_notes
+      label: nominator_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: nominator_agree
+      label: nominator_agree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: nominator_agree_other
+      label: nominator_agree_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

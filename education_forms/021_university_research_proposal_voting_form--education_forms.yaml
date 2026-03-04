@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Research Proposal Voting Form
+    pages:
+    - id: 1
+      name: university_research_proposal_voting_form
+      label: University Research Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_committees
+      label: Research Committee
+      hint: null
+      type: select_one
+      options:
+      - Chairman of the Committee
+      - Committee Member 1
+      - Committee Member 2
+      - Committee Member 3
+      required: true
+    - id: 3
+      name: proposal_title
+      label: Proposal Title
+      hint: Enter proposal title (e.g., Research Project)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: proposal_summary
+      label: Proposal Summary
+      hint: Write a brief summary of your proposal
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: e.g., 1-5, 1-3, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: proposal_score
+      label: Proposal Score
+      hint: Enter score (0-100)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vote
+      label: Vote
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of evaluation (YYYY-MM-DD)
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: university_name
+      label: University
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: research_committee_member
+      label: Research Committee Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: research_project_title
+      label: Research Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: research_project_description
+      label: Research Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: research_funding
+      label: Research Funding
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: research_funding_justification
+      label: Research Funding Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: research_project_start_date
+      label: Research Project Start Date
+      hint: Date of project start (YYYY-MM-DD)
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: research_project_end_date
+      label: Research Project End Date
+      hint: Date of project end (YYYY-MM-DD)
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: research_project_status
+      label: Research Project Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: research_project_category
+      label: Research Project Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: research_funding_amount
+      label: Research Funding Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: research_proposal_status
+      label: Research Proposal Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

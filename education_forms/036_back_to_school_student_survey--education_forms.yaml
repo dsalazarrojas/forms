@@ -1,0 +1,127 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Student Survey
+    pages:
+      - id: 1
+        name: student_welcome_header
+        label: -- Welcome Back! Student Survey --
+        hint: Help your teacher get to know you better so we can have a great year together
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_full_name_survey
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_nickname
+        label: Do you have a nickname you prefer?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: favorite_subject_student
+        label: What is your favorite subject in school?
+        hint: null
+        type: select_one
+        options:
+          - Math
+          - Science
+          - English/Reading
+          - Social Studies
+          - Art
+          - Music
+          - PE/Gym
+          - Technology/Computers
+        required: true
+      - id: 5
+        name: least_favorite_subject
+        label: What subject is most challenging for you?
+        hint: null
+        type: select_one
+        options:
+          - Math
+          - Science
+          - English/Reading
+          - Social Studies
+          - Art
+          - Music
+          - PE/Gym
+          - Technology/Computers
+        required: false
+      - id: 6
+        name: learning_style_preference
+        label: How do you learn best?
+        hint: Select your top two preferences
+        type: select_multiple
+        options:
+          - Watching a demonstration (Visual)
+          - Listening to an explanation (Auditory)
+          - Doing it myself (Hands-on/Kinesthetic)
+          - Reading and taking notes
+          - Working in a group
+          - Working alone
+        required: true
+      - id: 7
+        name: student_hobbies_interests
+        label: What do you like to do outside of school?
+        hint: Hobbies, sports, games, collections
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: excited_about_this_year
+        label: What are you most excited about this school year?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: nervous_about_this_year
+        label: Is there anything you are nervous or worried about?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: classroom_seating_preference
+        label: Where do you feel you learn best in the classroom?
+        hint: null
+        type: select_one
+        options:
+          - At the front
+          - In the back
+          - Near a window
+          - Away from distractions
+          - Near the teacher's desk
+        required: true
+      - id: 11
+        name: student_social_goal
+        label: What is one social goal you have for this year?
+        hint: e.g., make a new friend, be more helpful
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: teacher_support_need
+        label: How can your teacher help you be successful this year?
+        hint: null
+        type: text
+        options: []
+        required: false

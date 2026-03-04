@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chess Skill Assessment Survey
+    pages:
+    - id: 1
+      name: assessment_intro
+      label: -- Chess Skill Assessment Survey --
+      hint: Evaluate your chess skills and playing ability
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age group
+      hint: null
+      type: select_one
+      options:
+      - Under 10
+      - 10-15
+      - 16-25
+      - 26-40
+      - 41-60
+      - Over 60
+      required: true
+    - id: 5
+      name: years_playing
+      label: How many years have you played chess?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 6
+      name: current_rating
+      label: Current Elo rating (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: self_assessed_level
+      label: Self-assessed skill level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Elementary
+      - Intermediate
+      - Advanced
+      - Expert
+      - Master
+      required: true
+    - id: 8
+      name: tactical_ability
+      label: Tactical ability assessment
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 9
+      name: strategic_ability
+      label: Strategic understanding assessment
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: endgame_knowledge
+      label: Endgame knowledge
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: opening_knowledge
+      label: Opening knowledge
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Above average
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: calculation_ability
+      label: Ability to calculate variations
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very poor
+      - 2 - Poor
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: time_controls
+      label: Preferred time controls
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Blitz (less than 3 minutes)
+      - Rapid (3-25 minutes)
+      - Classical (25+ minutes)
+      - Bullet (1 minute or less)
+      - All time controls
+      required: true
+    - id: 14
+      name: play_format
+      label: Preferred play format
+      hint: null
+      type: select_one
+      options:
+      - Over-the-board only
+      - Online only
+      - Both equally
+      - No preference
+      required: true
+    - id: 15
+      name: competitive_experience
+      label: Competitive tournament experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Local tournaments only
+      - Regional tournaments
+      - National tournaments
+      - International tournaments
+      required: true
+    - id: 16
+      name: strengths
+      label: Your main chess strengths
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Opening preparation
+      - Tactical vision
+      - Strategic planning
+      - Endgame technique
+      - Time management
+      - Position evaluation
+      - Calculation accuracy
+      required: false
+    - id: 17
+      name: weaknesses
+      label: Areas needing improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Opening knowledge
+      - Tactical spotting
+      - Strategic understanding
+      - Endgame knowledge
+      - Time management
+      - Position evaluation
+      - Emotional control
+      - Other
+      required: false
+    - id: 18
+      name: training_goals
+      label: What are your chess training goals?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: coach_interest
+      label: Interest in coaching or instruction
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not very interested
+      - Not interested
+      required: true

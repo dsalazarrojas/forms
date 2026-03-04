@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: intermediate_course_delegate_feedback_form
+    pages:
+    - id: 1
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 3
+      name: feedback_comment
+      label: Feedback Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommended_course_changes
+      label: Recommended Course Changes
+      hint: null
+      type: select_multiple
+      options:
+      - New course topic
+      - New course material
+      required: false
+    - id: 5
+      name: rating_scale
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: would_take_again
+      label: Would take again
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 7
+      name: participant_suggestions
+      label: Participant Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

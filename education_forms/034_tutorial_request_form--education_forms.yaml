@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: tutorial_request_form
+    pages:
+    - id: 1
+      name: tutorial_request_form
+      label: request_tutorial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subject
+      label: subject_area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: topic
+      label: topic_area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Contact me via email
+      - Contact me via phone
+      - Contact me via chat
+      required: false
+    - id: 6
+      name: preferred_contact_time
+      label: preferred_contact_time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy2
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy3
+      - chatjimmy4
+      required: false

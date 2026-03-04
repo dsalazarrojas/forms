@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yearbook Student Superlatives 2019
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_gender
+      label: Student Gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_gender_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: first_name_female
+      label: First Name (F)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: first_name_male
+      label: First Name (M)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: last_name_female
+      label: Last Name (F)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: last_name_male
+      label: Last Name (M)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: student_type_student
+      label: Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_type_student_group
+      label: Student Group
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

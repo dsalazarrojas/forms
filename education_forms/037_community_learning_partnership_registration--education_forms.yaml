@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Learning Partnership Registration
+    pages:
+    - id: 1
+      name: partner_org_name
+      label: Partner Organization Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Classification
+      hint: null
+      type: select_one
+      options:
+      - Non-Profit or Charity (NGO)
+      - Public School or Educational Institution
+      - Community Volunteer Group
+      - Government Agency or Local Authority
+      - Private Sector Business
+      required: true
+    - id: 3
+      name: primary_contact
+      label: Primary Point of Contact
+      hint: Full Name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Primary Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: expertise_areas
+      label: Core Areas of Educational Expertise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Literacy and Early Education
+      - STEM (Science, Tech, Engineering, Math)
+      - Arts, Culture, and Design
+      - Vocational and Job Training
+      - Soft Skills and Leadership
+      - Public Health and Safety Awareness
+      required: true
+    - id: 7
+      name: partnership_role
+      label: Proposed Primary Partnership Role
+      hint: What will your main contribution be?
+      type: select_one
+      options:
+      - Learning Resource Provider
+      - Workshop or Course Instructor
+      - Venue Host and Facility Provider
+      - Marketing and Outreach Partner
+      - Financial and Scholarship Sponsor
+      required: true
+    - id: 8
+      name: target_demographic
+      label: Intended Target Demographic for Partnership
+      hint: Describe the group you primarily serve
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: prior_collaboration
+      label: Summary of Previous Collaborative Experience
+      hint: List any similar partnerships held
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: joint_grant_interest
+      label: Interest in Joint Grant Applications or Funding?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very interested
+      - Potentially interested
+      - No, not interested
+      required: true
+    - id: 11
+      name: registration_date
+      label: Date of Partnership Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_confirmation
+      label: I confirm the information is correct and truthful
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

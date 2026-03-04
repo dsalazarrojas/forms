@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Late Retake Exam Form
+    pages:
+    - id: 1
+      name: late_retake_exam_form_for_class_1
+      label: Late Retake Exam Form for Class 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_id_1
+      label: Class 1
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - Other
+      required: false
+    - id: 3
+      name: class_id_2
+      label: Class 2
+      hint: null
+      type: select_one
+      options:
+      - '2'
+      - Other
+      required: false
+    - id: 4
+      name: class_id_3
+      label: Class 3
+      hint: null
+      type: select_one
+      options:
+      - '3'
+      - Other
+      required: false
+    - id: 5
+      name: reason_for_requesting_retake
+      label: Reason for requesting retake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: excuses
+      label: Excuses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_exam
+      label: Date of Exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_exam
+      label: Time of Exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_teacher
+      label: Assigned Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

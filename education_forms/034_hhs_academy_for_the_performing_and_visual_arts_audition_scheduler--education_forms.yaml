@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hhs Academy For The Performing And Visual Arts Audition Scheduler
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: example@hsrockdale.org
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: audition_date
+      label: Audition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: audition_time
+      label: Audition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: audition_type
+      label: Audition Type
+      hint: null
+      type: select_one
+      options:
+      - Instrumental
+      - Vocal
+      - Dance
+      - Theatre
+      required: true
+    - id: 8
+      name: audition_location
+      label: Audition Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: audition_instrument
+      label: Audition Instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: audition_dance
+      label: Audition Dance Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: audition_additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: audition_attendance
+      label: Audition Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Present
+      - Absent
+      required: true
+    - id: 13
+      name: form_submission_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_comment
+      label: Parent Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parent_email
+      label: Parent Email
+      hint: example@hsrockdale.org
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: audition_confirmation_status
+      label: Audition Confirmation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 18
+      name: audition_confirmation_date
+      label: Audition Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: audition_confirmation_time
+      label: Audition Confirmation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_comments
+      label: Parent Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: form_submission_time
+      label: Form Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: chatjimmy
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: chatjimmy
+      type: text
+      options: []
+      required: false

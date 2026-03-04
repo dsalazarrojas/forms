@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Center Teacher Sign In Form
+    pages:
+    - id: 1
+      name: signin_intro
+      label: -- Teacher Sign In Form --
+      hint: Record your daily attendance and schedule
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sign_in_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: sign_in_time
+      label: Sign in time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: teacher_name
+      label: Teacher name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: classroom_assigned
+      label: Classroom assigned
+      hint: null
+      type: select_one
+      options:
+      - Infant room
+      - Toddler room
+      - Preschool room
+      - Pre-K room
+      - Mixed age room
+      - Other
+      required: true
+    - id: 7
+      name: shift_scheduled
+      label: Scheduled shift
+      hint: null
+      type: select_one
+      options:
+      - Early shift (opening)
+      - Mid shift
+      - Late shift (closing)
+      - Full day
+      - Other
+      required: true
+    - id: 8
+      name: expected_checkout
+      label: Expected checkout time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: shift_lead_role
+      label: Role for this shift
+      hint: null
+      type: select_one
+      options:
+      - Lead teacher
+      - Assistant teacher
+      - Substitute
+      - Support staff
+      required: true
+    - id: 10
+      name: health_status
+      label: Current health status
+      hint: null
+      type: select_one
+      options:
+      - Healthy
+      - Minor illness
+      - Not feeling well
+      - Injured
+      - Other
+      required: true
+    - id: 11
+      name: illness_details
+      label: If ill, describe symptoms or concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: schedule_changes
+      label: Any schedule changes or modifications today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_assignments
+      label: Special assignments or responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: room_activity_lead
+      label: Leading special activity or project
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: activity_description
+      label: Activity description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: co_teacher_name
+      label: Co-teacher name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: children_present
+      label: Approximate number of children present
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: supply_needs
+      label: Supply needs or requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_issues
+      label: Any maintenance or facility issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sign_out_time
+      label: Sign out time
+      hint: Record when leaving
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: attendance_notes
+      label: Additional attendance notes
+      hint: null
+      type: text
+      options: []
+      required: false

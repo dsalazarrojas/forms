@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Common And Proper Nouns Worksheet
+    pages:
+    - id: 1
+      name: section_student_ws_info
+      label: -- Student Worksheet Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name_nouns_ws
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_class_period
+      label: Class Period or Section
+      hint: null
+      type: select_one
+      options:
+      - A Period
+      - B Period
+      - C Period
+      - D Period
+      - E Period
+      required: true
+    - id: 5
+      name: worksheet_date
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_ws_activity_1
+      label: -- Activity 1 - Identification --
+      hint: Look at the nouns below and decide if they are common or proper.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: noun_id_apple
+      label: apple
+      hint: null
+      type: select_one
+      options:
+      - Common
+      - Proper
+      required: true
+    - id: 8
+      name: noun_id_california
+      label: California
+      hint: null
+      type: select_one
+      options:
+      - Common
+      - Proper
+      required: true
+    - id: 9
+      name: noun_id_boy
+      label: boy
+      hint: null
+      type: select_one
+      options:
+      - Common
+      - Proper
+      required: true
+    - id: 10
+      name: noun_id_monday
+      label: Monday
+      hint: null
+      type: select_one
+      options:
+      - Common
+      - Proper
+      required: true
+    - id: 11
+      name: noun_id_school
+      label: school
+      hint: null
+      type: select_one
+      options:
+      - Common
+      - Proper
+      required: true
+    - id: 12
+      name: section_ws_activity_2
+      label: -- Activity 2 - Matching Pairs --
+      hint: Write a matching proper noun for each common noun provided.
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: matching_restaurant
+      label: Common Noun - Restaurant -> Write a Proper Noun Example
+      hint: e.g., McDonald's
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: matching_month
+      label: Common Noun - Month -> Write a Proper Noun Example
+      hint: e.g., October
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: matching_planet
+      label: Common Noun - Planet -> Write a Proper Noun Example
+      hint: e.g., Jupiter
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: matching_author
+      label: Common Noun - Author -> Write a Proper Noun Example
+      hint: e.g., J.K. Rowling
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_ws_activity_3
+      label: -- Activity 3 - Capitalization Practice --
+      hint: Re-write the following sentences with correct capitalization for proper
+        nouns.
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: capitalization_sentence_1
+      label: Sentence - my family and i visited the san diego zoo in july.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: capitalization_sentence_2
+      label: Sentence - mr. jones said that we will read a book by dr. seuss.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: worksheet_summary
+      label: What was the most challenging part of this worksheet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: worksheet_completion_check
+      label: I have finished all activities on this worksheet
+      hint: null
+      type: select_one
+      options:
+      - I have finished
+      - Other
+      required: true

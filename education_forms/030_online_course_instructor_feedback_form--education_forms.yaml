@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Instructor Feedback Form
+    pages:
+    - id: 1
+      name: course_instructor
+      label: Course Instructor
+      hint: null
+      type: select_one
+      options:
+      - Instructor 1
+      - Instructor 2
+      required: false
+    - id: 2
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion_for_improvement
+      label: Suggestion for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_on_quality
+      label: Feedback on Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_on_effectiveness
+      label: Feedback on Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: course_instructor_info
+      label: Course Instructor Info
+      hint: null
+      type: select_multiple
+      options:
+      - Informational
+      - Supportive
+      - Unhelpful
+      - Very helpful
+      - Extremely helpful
+      required: false

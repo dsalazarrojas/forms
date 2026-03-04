@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Needs Assessment Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: child_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: in_counseling_service
+      label: In Counseling Service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requests_from_service_provider
+      label: Requests From Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false

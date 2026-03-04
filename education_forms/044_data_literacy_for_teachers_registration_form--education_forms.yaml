@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Literacy For Teachers Registration Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_email
+      label: school email
+      hint: Enter your school email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: participant name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course
+      label: course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_start_date
+      label: program start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: program_end_date
+      label: program end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_location
+      label: program location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_length
+      label: course length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: course_length_hint
+      label: course length hint
+      hint: Enter course length in weeks
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_length_unit
+      label: course length unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_length_unit_hint
+      label: course length unit
+      hint: Select course length unit
+      type: select_one
+      options:
+      - week
+      - months
+      required: false
+    - id: 13
+      name: participant_start_date
+      label: participant_start_date
+      hint: Enter participant start date
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: participant_end_date
+      label: participant_end_date
+      hint: Enter participant end date
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 16
+      name: participant_status_hint
+      label: participant status
+      hint: Select participant status
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: course_status
+      label: course status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - completed
+      required: false
+    - id: 18
+      name: course_status_hint
+      label: course status
+      hint: Select course status
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: program_status
+      label: program status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - completed
+      required: false
+    - id: 20
+      name: program_status_hint
+      label: program status
+      hint: Select program status
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_notes
+      label: participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: participant_notes_hint
+      label: participant notes
+      hint: Enter participant notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_notes
+      label: course notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: course_notes_hint
+      label: course notes
+      hint: Enter course notes
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: course_participants
+      label: course participants
+      hint: null
+      type: select_multiple
+      options:
+      - participant 1
+      - participant 2
+      - participant 3
+      required: false

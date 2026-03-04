@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: taylor_ffa_chapter_officer_application_recommendation_form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: chapter_officer_position
+      label: Chapter Officer Position
+      hint: null
+      type: select_one
+      options:
+      - Chapter President
+      - Chapter Secretary
+      - Chapter Treasurer
+      - Chapter Historian
+      required: true
+    - id: 7
+      name: chapter_officer_start_date
+      label: Chapter Officer Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: chapter_officer_end_date
+      label: Chapter Officer End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: chapter_committee_position
+      label: Committee Position
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Blockchain Pilot Application Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''E-commerce''}'
+      - '{''name'': ''Finance''}'
+      - '{''name'': ''Health''}'
+      required: false
+    - id: 6
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''E-commerce''}'
+      - '{''name'': ''Finance''}'
+      - '{''name'': ''Health''}'
+      - '{''name'': ''Technology''}'
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: company_url
+      label: Company URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: application_reason
+      label: Application Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Open''}'
+      - '{''name'': ''In Progress''}'
+      - '{''name'': ''Pending''}'
+      - '{''name'': ''Closed''}'
+      required: false
+    - id: 20
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Incomplete''}'
+      - '{''name'': ''Complete''}'
+      - '{''name'': ''In Progress''}'
+      required: false
+    - id: 22
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: review_note
+      label: Review Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arbor Day Poster Contest School Winner Regional Judge Form
+    pages:
+    - id: 1
+      name: section_judge_info
+      label: -- Judge Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: judge_name
+      label: Judge Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: judge_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: judge_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: judge_affiliation
+      label: Professional Affiliation
+      hint: Organization or institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_contest_info
+      label: -- Contest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contest_year
+      label: Contest Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: regional_division
+      label: Regional Division
+      hint: Geographic region judging for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: grade_level
+      label: Grade Level Category
+      hint: null
+      type: select_one
+      options:
+      - K-2
+      - 3-5
+      - 6-8
+      - 9-12
+      required: true
+    - id: 10
+      name: section_entry_evaluation
+      label: -- Entry Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: school_name
+      label: School Name (Winning Entry)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: student_name
+      label: Student Name (Artist)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: teacher_name
+      label: Teacher or Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: entry_number
+      label: Entry Number or ID
+      hint: Contest reference number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_scoring
+      label: -- Scoring Criteria --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: artistic_quality
+      label: Artistic Quality Rating (1-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: tree_representation
+      label: Tree Representation Rating (1-10)
+      hint: How well does poster represent trees?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: message_clarity
+      label: Arbor Day Message Clarity (1-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: creativity_originality
+      label: Creativity and Originality (1-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: overall_impression
+      label: Overall Impression (1-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: judge_comments
+      label: Judge Comments and Feedback
+      hint: Constructive feedback for student
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: judging_date
+      label: Date of Judgment
+      hint: null
+      type: date
+      options: []
+      required: true

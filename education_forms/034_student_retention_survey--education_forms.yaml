@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Retention Survey
+    pages:
+    - id: 1
+      name: student_retention_survey_form
+      label: What is your student id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_why_leave_school
+      label: Why did you leave school
+      hint: null
+      type: select_one
+      options:
+      - Leaving for another school
+      - Not able to pay fees
+      - Parental issues
+      - Personal reasons
+      - Other
+      required: false
+    - id: 3
+      name: student_reasons_leave_school
+      label: Reasons for leaving school
+      hint: null
+      type: select_multiple
+      options:
+      - Leaving for another school
+      - Not able to pay fees
+      - Parental issues
+      - Personal reasons
+      - Other
+      required: false
+    - id: 4
+      name: teacher_feedback
+      label: How often would you rate how well you know your teacher
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: teacher_feedback_2
+      label: How often would you rate how well your teacher understands you
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: teacher_feedback_3
+      label: How often would you rate how well your teacher listens to you
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: teacher_feedback_4
+      label: How often would you rate how well your teacher cares about you
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: teacher_feedback_5
+      label: How often would you rate how well your teacher is approachable
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: teacher_feedback_6
+      label: How often would you rate how well your teacher gives feedback
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: teacher_feedback_7
+      label: How often would you rate how well your teacher is clear
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: teacher_feedback_8
+      label: How often would you rate how well your teacher is organized
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: teacher_feedback_9
+      label: How often would you rate how well your teacher is supportive
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: teacher_feedback_10
+      label: How often would you rate how well your teacher is enthusiastic
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: student_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: teacher_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: teacher_suggestion
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: teacher_suggestion_2
+      label: Suggestion 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: teacher_suggestion_3
+      label: Suggestion 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: teacher_suggestion_4
+      label: Suggestion 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: teacher_suggestion_5
+      label: Suggestion 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_attendance
+      label: How often do you attend school
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: student_attendance_2
+      label: How often would you rate your attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: student_attendance_3
+      label: What is the average number of days you have been absent in a term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: student_attendance_4
+      label: What is the average number of times you have been late in a term
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: student_attendance_5
+      label: How often do you come to school on time
+      hint: null
+      type: number
+      options: []
+      required: true

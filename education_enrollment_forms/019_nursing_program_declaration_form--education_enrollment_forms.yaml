@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Program Declaration Form
+    pages:
+    - id: 1
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_multiple
+      options:
+      - Diploma
+      - Certificate
+      - Associate's Degree
+      required: false
+    - id: 3
+      name: campus_location
+      label: Campus Location
+      hint: null
+      type: select_one
+      options:
+      - On Campus
+      - Off Campus
+      - Online
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: Start date of the nursing program
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: End date of the nursing program
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: name_of_program
+      label: Name of Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_provider
+      label: Training Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: confirm_phone_number
+      label: Confirm Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: Signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - I confirm I am applying for the nursing program
+      - I need more information
+      required: false

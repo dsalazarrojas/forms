@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Transfer Request Form
+    pages:
+    - id: 1
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Student Transfer
+      - Student Transfer - Other
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: Enter school name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: Enter student's name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_transfer
+      label: Reason For Transfer
+      hint: Enter reason for transfer
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_transfer_request_details
+      label: School Transfer Request Details
+      hint: Enter transfer request details
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: other_reasons
+      label: Other Reasons (optional)
+      hint: Enter other reasons
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: student_class_level
+      label: Student Class Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_subjects
+      label: Student Subjects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false

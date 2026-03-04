@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Sign Out Form
+    pages:
+    - id: 1
+      name: form_1
+      label: sign_out_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_in
+      label: time_in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_out
+      label: time_out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sign_out_status
+      label: sign_out_status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: teacher_name
+      label: teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false

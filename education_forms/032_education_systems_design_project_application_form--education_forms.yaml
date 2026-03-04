@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Systems Design Project Application Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_leadership
+      label: Team Leadership
+      hint: null
+      type: select_one
+      options:
+      - School/University Representative
+      - Project Team Lead
+      - Program Director
+      - Other
+      required: false
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: null
+      type: select_multiple
+      options:
+      - School/University
+      - Community
+      - Other
+      required: false
+    - id: 4
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Inactive
+      required: false
+    - id: 9
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - Grant
+      - Innovation
+      - Design
+      required: false
+    - id: 12
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - University
+      - College
+      required: false
+    - id: 13
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Design
+      - Innovation
+      - Development
+      required: false

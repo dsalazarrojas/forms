@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: recurring_credit_card_authorization_form
+    pages:
+    - id: 1
+      name: cardholder_info
+      label: Card Holder Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: card_number
+      label: Card Number
+      hint: null
+      type: select_one
+      options:
+      - card_number
+      - expiry_date
+      - cvv
+      - expiry_month
+      required: false
+    - id: 3
+      name: expiry_month
+      label: Expiry Month
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - 08
+      - 09
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      required: false
+    - id: 4
+      name: expiry_year
+      label: Expiry Year
+      hint: null
+      type: select_one
+      options:
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      - '26'
+      - '27'
+      - '28'
+      - '29'
+      - '30'
+      - '31'
+      - '32'
+      - '33'
+      - '34'
+      - '35'
+      - '36'
+      - '37'
+      - '38'
+      - '39'
+      - '40'
+      required: false
+    - id: 5
+      name: card_holder_name
+      label: Card Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: card_holder_address
+      label: Card Holder Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: card_cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: stripe_api_key
+      label: Stripe API Key
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: amount_to_charge
+      label: Amount to Charge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: stripe_api_secret
+      label: Stripe API Secret Key
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Other
+      required: false
+    - id: 13
+      name: recurring_credit_card_authorization
+      label: Recurring Credit Card Authorization
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - Card Holder Name
+      - Card Holder Address
+      - Card Number
+      - Expiry Month
+      - Expiry Year
+      - CVV
+      required: false
+    - id: 15
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Other
+      required: false
+    - id: 16
+      name: amount_to_charge
+      label: Amount to Charge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: expiry_date
+      label: Expiry Date
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - 08
+      - 09
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 18
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: card_number
+      label: Card Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: select_multiple
+      options:
+      - Card Holder Name
+      - Card Holder Address
+      - Card Number
+      - Expiry Date
+      - Expiry Month
+      required: false
+    - id: 21
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: stripe_api_key
+      label: Stripe API Key
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - Other
+      required: false
+    - id: 24
+      name: cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: amount_to_charge
+      label: Amount to Charge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: card_cvv
+      label: CVV
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: card_holder_info
+      label: Card Holder Info
+      hint: null
+      type: select_multiple
+      options:
+      - Card Holder Name
+      - Card Holder Address
+      - Card Number
+      - Expiry Month
+      - Expiry Year
+      - CVV
+      - Expiry Date
+      required: false

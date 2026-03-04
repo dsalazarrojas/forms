@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Impact Story Sharing Consent Form
+    pages:
+    - id: 1
+      name: story_info
+      label: story_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attribution_preferences
+      label: attribution_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Attribution''}'
+      - '{''label'': ''Anonymous''}'
+      - '{''label'': ''Both''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: sharing_consent
+      label: sharing_consent
+      hint: Please select one or more ways to share your story.
+      type: select_multiple
+      options:
+      - '{''label'': ''Publicly''}'
+      - '{''label'': ''Privately''}'
+      - '{''label'': ''With educators''}'
+      - '{''label'': ''With the school community''}'
+      required: false
+    - id: 4
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Call''}'
+      - '{''label'': ''In-person''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 5
+      name: follow_up_email
+      label: follow_up_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_phone
+      label: follow_up_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sharing_consent_notes
+      label: sharing_consent_notes
+      hint: Please provide more information about how you would like to be recognized
+        when sharing your story.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sharing_consent_attribution
+      label: sharing_consent_attribution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sharing_consent_publicly
+      label: sharing_consent_publicly
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: follow_up_in_person
+      label: follow_up_in_person
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: attribution_name
+      label: attribution_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attribution_title
+      label: attribution_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: attribution_institution
+      label: attribution_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attribution_url
+      label: attribution_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attribution_image
+      label: attribution_image
+      hint: null
+      type: text
+      options: []
+      required: false

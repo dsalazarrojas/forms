@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Offense Report Form
+    pages:
+    - id: 1
+      name: student_information
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: offense_details
+      label: Offense Details
+      hint: Description of offense
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: offense_grade
+      label: Offense Grade
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: action_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conversation_summary
+      label: Conversation Summary
+      hint: Summary of conversation with guardian
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_signature
+      label: Guardian Signature
+      hint: null
+      type: text
+      options: []
+      required: false

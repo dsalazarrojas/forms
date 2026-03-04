@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduate Teaching Feedback Form
+    pages:
+    - id: 1
+      name: graduate_teaching_feedback_form_1
+      label: Teaching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graduate_teaching_feedback_form_2
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: graduate_teaching_feedback_form_3
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: graduate_teaching_feedback_form_4
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

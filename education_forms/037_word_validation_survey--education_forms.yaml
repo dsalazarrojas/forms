@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Word Validation Survey
+    pages:
+    - id: 1
+      name: survey_page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_page_2
+      label: Section A - Comprehension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: survey_section_a_comprehension_2_1
+      label: What type of texts do you usually read?
+      hint: null
+      type: select_multiple
+      options:
+      - Newspapers
+      - Novels
+      - Newsletters
+      - Other
+      required: false
+    - id: 4
+      name: survey_section_a_comprehension_2_2
+      label: Which type of texts do you usually write?
+      hint: null
+      type: select_multiple
+      options:
+      - Blog posts
+      - Social media updates
+      - Research articles
+      - Other
+      required: false
+    - id: 5
+      name: survey_section_a_comprehension_2_3
+      label: What is your favorite reading material?
+      hint: null
+      type: select_one
+      options:
+      - Newspapers
+      - Novels
+      - Newsletters
+      - Other
+      required: false
+    - id: 6
+      name: survey_section_a_comprehension_3_1
+      label: How often do you read?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: survey_section_a_comprehension_3_2
+      label: How often do you write?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: survey_page_2
+      label: Section B - Usage
+      hint: null
+      type: text
+      options: []
+      required: false

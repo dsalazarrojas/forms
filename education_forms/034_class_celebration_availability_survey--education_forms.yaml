@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Celebration Availability Survey
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Your child name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: Teacher Name
+      hint: Classroom teacher
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: celebration_type
+      label: What Celebration Is This For
+      hint: Select the event
+      type: select_one
+      options:
+      - Holiday Party
+      - End of Year Celebration
+      - Class Birthday Party
+      - Achievement Celebration
+      - Field Day
+      - Other
+      required: true
+    - id: 7
+      name: proposed_dates
+      label: Which Dates Work for Your Family
+      hint: Select all that work
+      type: select_multiple
+      options:
+      - Monday morning
+      - Monday afternoon
+      - Tuesday morning
+      - Tuesday afternoon
+      - Wednesday morning
+      - Wednesday afternoon
+      - Thursday morning
+      - Thursday afternoon
+      - Friday morning
+      - Friday afternoon
+      required: true
+    - id: 8
+      name: parent_availability
+      label: Are You Available to Help
+      hint: As a volunteer
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe, depends on date
+      - No, cannot volunteer
+      required: true
+    - id: 9
+      name: volunteer_tasks
+      label: What Tasks Can You Help With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food preparation
+      - Decorating
+      - Setup and cleanup
+      - Supervising activities
+      - Photography
+      - Shopping for supplies
+      - Coordinating games
+      - Cannot volunteer
+      required: false
+    - id: 10
+      name: item_contribution
+      label: What Can You Contribute
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Snacks or treats
+      - Beverages
+      - Plates and napkins
+      - Cups and utensils
+      - Decorations
+      - Party favors
+      - Games or activities
+      - Cannot contribute items
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Does Your Child Have Dietary Restrictions
+      hint: Allergies or preferences
+      type: select_one
+      options:
+      - Yes, nut allergy
+      - Yes, gluten-free needed
+      - Yes, dairy-free needed
+      - Yes, other allergy
+      - Yes, vegetarian
+      - Yes, vegan
+      - No restrictions
+      required: true
+    - id: 12
+      name: dietary_details
+      label: Please Describe Dietary Restrictions
+      hint: If yes, provide details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: food_preferences
+      label: What Foods Does Your Child Enjoy
+      hint: For party planning
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: activity_preferences
+      label: What Activities Would Your Child Enjoy
+      hint: Games or activities
+      type: select_multiple
+      options:
+      - Arts and crafts
+      - Outdoor games
+      - Board games
+      - Music and dancing
+      - Movie time
+      - Story time
+      - Science activities
+      - Sports
+      required: false
+    - id: 15
+      name: budget_contribution
+      label: Can You Contribute to Class Fund
+      hint: For supplies and treats
+      type: select_one
+      options:
+      - Yes, up to 10 dollars
+      - Yes, 10-20 dollars
+      - Yes, over 20 dollars
+      - Cannot contribute financially
+      required: false
+    - id: 16
+      name: special_requests
+      label: Any Special Requests or Suggestions
+      hint: For the celebration
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

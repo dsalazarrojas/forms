@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Critical Pedagogy Study Group Registration Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: password
+      label: Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: confirm_password
+      label: Confirm Password
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Leader
+      - Observer
+      - Teacher
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Department of Education
+      - Department of Fine Arts
+      - Department of Humanities
+      - Department of Science
+      required: true
+    - id: 7
+      name: study_group
+      label: Study Group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: study_group_type
+      label: Study Group Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: meeting_frequency
+      label: Meeting Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: meeting_days
+      label: Meeting Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 15
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: join_code
+      label: Join Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false

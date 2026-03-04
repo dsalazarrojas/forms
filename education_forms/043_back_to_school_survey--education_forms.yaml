@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Survey
+    pages:
+      - id: 1
+        name: respondent_role
+        label: Respondent role
+        hint: Parent student teacher staff
+        type: select_one
+        options: [Parent, Student, Teacher, Staff]
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: readiness_rating
+        label: Readiness rating for reopening
+        hint: 1 low to 5 high
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 4
+        name: concerns
+        label: Primary concerns
+        hint: Health logistics curriculum
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: communication_effectiveness
+        label: Communication effectiveness
+        hint: How clear have school communications been
+        type: select_one
+        options: [Poor, Fair, Good, Excellent]
+        required: false
+      - id: 6
+        name: technology_access
+        label: Access to necessary technology
+        hint: Devices internet reliability
+        type: select_one
+        options: [No access, Limited access, Full access]
+        required: false
+      - id: 7
+        name: support_priorities
+        label: Support priorities
+        hint: Where should school focus resources
+        type: select_multiple
+        options: [Health safety, Academic recovery, Social emotional, Technology]
+        required: false
+      - id: 8
+        name: suggested_improvements
+        label: Suggested improvements
+        hint: Specific ideas for school leaders
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: follow_up_acceptance
+        label: Accept follow up contact
+        hint: May be contacted for clarification
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 10
+        name: submission_date
+        label: Submission date
+        hint: Date completed
+        type: date
+        options: []
+        required: true

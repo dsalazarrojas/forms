@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Mental Health Support Appointment Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: support_type
+      label: Support Type
+      hint: null
+      type: select_one
+      options:
+      - Academic Support
+      - Career Support
+      - Personal Support
+      required: false
+    - id: 7
+      name: support_duration
+      label: Support Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: support_location
+      label: Support Location
+      hint: null
+      type: select_multiple
+      options:
+      - Counseling Office
+      - Residence Hall
+      - Campus Library
+      - Student Union
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

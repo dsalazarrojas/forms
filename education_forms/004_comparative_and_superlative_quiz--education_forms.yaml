@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comparative And Superlative Quiz
+    pages:
+      - id: 1
+        name: instructions
+        label: -- Quiz Instructions --
+        hint: read each sentence and choose the correct form
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: student name
+        hint: enter full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: class_section
+        label: class or section
+        hint: e g grade or group
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: q1_choice
+        label: q1 select correct form
+        hint: quick choices
+        type: select_one
+        options:
+          - comparative
+          - superlative
+          - positive
+        required: true
+      - id: 5
+        name: q2_choice
+        label: q2 select correct form
+        hint: choose the best option
+        type: select_one
+        options:
+          - comparative
+          - superlative
+          - positive
+        required: true
+      - id: 6
+        name: q3_choice
+        label: q3 select correct form
+        hint: choose the best option
+        type: select_one
+        options:
+          - comparative
+          - superlative
+          - positive
+        required: true
+      - id: 7
+        name: q4_choice
+        label: q4 select correct form
+        hint: choose the best option
+        type: select_one
+        options:
+          - comparative
+          - superlative
+          - positive
+        required: true
+      - id: 8
+        name: teacher_comments
+        label: teacher comments
+        hint: optional feedback after grading
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: submission_date
+        label: submission date
+        hint: date student completed quiz
+        type: date
+        options: []
+        required: true

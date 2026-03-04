@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: mbr_online_parent_teacher_meeting_2020
+    pages:
+    - id: 1
+      name: meeting_request
+      label: Meeting Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_duration
+      label: Meeting Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_details
+      label: Meeting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_booking
+      label: Meeting Booking
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': True, ''value'': 1}'
+      - '{''id'': ''7.1.1'', ''label'': False, ''value'': 0}'
+      required: false
+    - id: 8
+      name: meeting_booking_conf
+      label: Meeting Booking Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''Email'', ''value'': ''Email''}'
+      - '{''id'': 8.2, ''label'': ''Call'', ''value'': ''Call''}'
+      - '{''id'': 8.3, ''label'': ''SMS'', ''value'': ''SMS''}'
+      required: false

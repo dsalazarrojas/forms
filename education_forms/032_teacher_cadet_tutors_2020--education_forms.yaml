@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Cadet Tutors 2020
+    pages:
+    - id: 1
+      name: teacher_cadet_tutors_2020
+      label: teacher_cadet_tutors_2020
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: teacher_cadet_tutors_2020_category
+      label: education_forms
+      hint: null
+      type: select_one
+      options:
+      - Bahamas
+      - Other
+      required: false
+    - id: 3
+      name: teacher_cadet_tutors_2020_description
+      label: bahamas_teacher_cadets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_cadet_tutors_2020_form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

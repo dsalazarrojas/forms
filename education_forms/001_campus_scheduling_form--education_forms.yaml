@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Scheduling Form
+    pages:
+    - id: 1
+      name: event_section_header
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Enter the name of your event or activity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_type
+      label: Type of Event
+      hint: Select the category that best fits your event
+      type: select_one
+      options:
+      - Academic Lecture
+      - Student Club Meeting
+      - Sports Event
+      - Social Gathering
+      - Workshop or Training
+      - Other
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization or Department Name
+      hint: Which campus organization is hosting this event?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: scheduling_section_header
+      label: -- Date and Time Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: requested_date
+      label: Requested Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: What time should the event begin?
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: What time should the event conclude?
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location_section_header
+      label: -- Location Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: location_preference
+      label: Preferred Location
+      hint: Where do you want to hold this event?
+      type: select_one
+      options:
+      - Student Center
+      - Gymnasium
+      - Auditorium
+      - Classroom Building
+      - Outdoor Lawn
+      - Virtual/Online
+      - Other (please specify)
+      required: true
+    - id: 11
+      name: room_number
+      label: Room Number or Specific Area
+      hint: If applicable, specify the room or area
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: estimated_attendance
+      label: Estimated Number of Attendees
+      hint: Approximately how many people will attend?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: contact_section_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: organizer_name
+      label: Organizer Name
+      hint: Name of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: organizer_email
+      label: Organizer Email
+      hint: Your campus email address
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: organizer_phone
+      label: Organizer Phone Number
+      hint: How can we reach you?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: requirements_section_header
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_equipment
+      label: Do you need special equipment or setup?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Sound System
+      - Microphone
+      - Tables and Chairs
+      - Catering Service
+      - Parking Accommodations
+      - Accessibility Accommodations
+      - None
+      required: false
+    - id: 19
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: Provide any additional information we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: acknowledgment
+      label: I acknowledge that all information provided is accurate
+      hint: Confirm that you have provided truthful information
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I need to make changes
+      required: true

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Scholarship Application Form
+    pages:
+    - id: 1
+      name: scholarship_name
+      label: Scholarship Name
+      hint: Which scholarship are you applying for
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: school_name
+      label: School or College Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: year_in_school
+      label: Year in School
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      required: true
+    - id: 10
+      name: major_field
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gpa
+      label: Current Grade Point Average (GPA)
+      hint: On 4.0 scale
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: minimum_gpa_met
+      label: Meet Minimum GPA Requirement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: financial_need
+      label: Level of Financial Need
+      hint: null
+      type: select_one
+      options:
+      - Exceptional Need
+      - Significant Need
+      - Moderate Need
+      - Limited Need
+      required: true
+    - id: 14
+      name: family_income_range
+      label: Family Income Range
+      hint: Optional for financial consideration
+      type: select_one
+      options:
+      - Under 25k
+      - 25k-50k
+      - 50k-75k
+      - 75k-100k
+      - 100k+
+      - Prefer not to answer
+      required: false
+    - id: 15
+      name: extracurricular_activities
+      label: Extracurricular Activities and Leadership
+      hint: Clubs, sports, volunteer work, positions held
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: community_service
+      label: Community Service Hours
+      hint: Volunteer and community involvement
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: academic_honors
+      label: Academic Honors and Awards
+      hint: Dean's list, scholarships, special recognition
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: essay_prompt_1
+      label: Essay Question 1
+      hint: Why do you deserve this scholarship - max 500 words
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: essay_prompt_2
+      label: Essay Question 2
+      hint: Describe how this scholarship will impact your education - max 500 words
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: personal_statement
+      label: Personal Statement or Story
+      hint: Tell us about yourself - max 750 words
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Teacher, counselor, or mentor
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: application_agreement
+      label: I certify that all information is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

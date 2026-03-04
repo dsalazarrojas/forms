@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Grading Pilot Participation Consent Form
+    pages:
+    - id: 1
+      name: pilot_info_header
+      label: '--- AI Grading Pilot Program ---'
+      hint: Participation in this research pilot is voluntary.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_role
+      label: Your Role in the Institution
+      hint: null
+      type: select_one
+      options:
+      - label: Undergraduate Student
+        value: undergrad
+      - label: Graduate Student
+        value: grad
+      - label: Faculty / Instructor
+        value: faculty
+      - label: Teaching Assistant (TA)
+        value: ta
+      required: true
+    - id: 5
+      name: institution_department
+      label: Department / School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: study_details_note
+      label: '--- About the Pilot Study ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pilot_purpose_description
+      label: Purpose of the Pilot
+      hint: This pilot aims to evaluate the accuracy, consistency, and fairness of
+        AI-assisted grading compared to traditional human-only grading. Participants'
+        assignments will be processed by both systems for research comparison purposes.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: information_sheet_read
+      label: Have you read the Pilot Participation Information Sheet?
+      hint: This document contains detailed risks and benefits.
+      type: select_one
+      options:
+      - label: Yes, I have read it
+        value: true
+      - label: No, I need a copy
+        value: request_copy
+      required: true
+    - id: 9
+      name: participation_consent
+      label: Participation Consent
+      hint: Do you agree to participate in the AI Grading Pilot?
+      type: select_one
+      options:
+      - label: Yes, I consent to participate
+        value: true
+      - label: No, I do not wish to participate
+        value: false
+      required: true
+    - id: 10
+      name: data_sharing_consent
+      label: Data Sharing for Research
+      hint: Do you consent to having your anonymized assignment data and scores shared
+        with the research team?
+      type: select_one
+      options:
+      - label: Yes, I consent
+        value: true
+      - label: No, I do not consent
+        value: false
+      required: true
+    - id: 11
+      name: anonymization_preference
+      label: Data Anonymization Preference
+      hint: null
+      type: select_one
+      options:
+      - label: Complete Anonymization (No identifying links)
+        value: complete
+      - label: Linked Pseudonymization (Allows withdrawal of data later)
+        value: linked
+      required: true
+    - id: 12
+      name: right_to_withdraw_ack
+      label: Withdrawal Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - label: I understand I can withdraw from the pilot at any time without academic
+          penalty.
+        value: acknowledged
+      - Other
+      required: true
+    - id: 13
+      name: research_feedback_optin
+      label: Would you like to receive the final summary report of this pilot?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: false
+    - id: 14
+      name: academic_integrity_promise
+      label: Academic Integrity Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - label: I understand that this pilot does not change the existing academic
+          integrity policies of the institution.
+        value: agreed
+      - Other
+      required: true
+    - id: 15
+      name: digital_signature_confirmation
+      label: Confirmation Signature
+      hint: null
+      type: select_one
+      options:
+      - label: I confirm my participation and agreement to the terms above.
+        value: signed
+      - Other
+      required: true
+    - id: 16
+      name: date_of_consent
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: pilot_coordinator_contact
+      label: '--- Contact Information ---'
+      hint: If you have questions, contact the Pilot Coordinator at ai-pilot@university.edu
+      type: note
+      options: []
+      required: false

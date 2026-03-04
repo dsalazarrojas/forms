@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_referral_form
+    pages:
+    - id: 1
+      name: referral_source
+      label: referral_source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: referral_type
+      label: referral_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: referred_by
+      label: customer_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_reason
+      label: referral_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_referral_code
+      label: customer_referral_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reward
+      label: reward
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_referral_message
+      label: customer_referral_message
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Of Academic Records Form
+    pages:
+    - id: 1
+      name: release_of_academic_records_form
+      label: Release Of Academic Records Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: education_forms
+      hint: null
+      type: select_one
+      options:
+      - education_forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: authorized_release_of_academic_records_form
+      label: Authorized Release Of Academic Records Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

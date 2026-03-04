@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: August Flex Days 2020
+    pages:
+    - id: 1
+      name: interest_date
+      label: Date of Interest Submission
+      hint: When are you submitting this form
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Your school email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School or District Name
+      hint: Your school
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: grade_level
+      label: Grade Level Taught
+      hint: Select your grade level
+      type: select_one
+      options:
+      - Elementary K-2
+      - Elementary 3-5
+      - Middle School
+      - High School
+      - Multi-Grade
+      - Administration
+      - Support Staff
+      required: true
+    - id: 7
+      name: subject_area
+      label: Subject Area or Specialty
+      hint: What do you teach
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_of_experience
+      label: Years of Teaching Experience
+      hint: How long have you been teaching
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: workshop_interest
+      label: Workshop Topics of Interest
+      hint: Select all workshops you would attend
+      type: select_multiple
+      options:
+      - Classroom Management
+      - Differentiated Instruction
+      - Technology Integration
+      - Social-Emotional Learning
+      - Assessment Strategies
+      - Inclusive Teaching
+      - Curriculum Development
+      - Professional Wellness
+      required: true
+    - id: 10
+      name: primary_workshop
+      label: Primary Workshop Preference
+      hint: Your top choice workshop
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: learning_goals
+      label: Professional Development Goals
+      hint: What do you hope to learn
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: attendance_commitment
+      label: Able to Attend Full Days
+      hint: Can you participate all 5 days
+      type: select_one
+      options:
+      - Yes - All Days
+      - Mostly All Days
+      - Some Days
+      - Flexible
+      - Not Sure Yet
+      required: true
+    - id: 13
+      name: preferred_days
+      label: Preferred Flex Days
+      hint: Which days work best for you
+      type: select_multiple
+      options:
+      - Monday Aug 3
+      - Tuesday Aug 4
+      - Wednesday Aug 5
+      - Thursday Aug 6
+      - Friday Aug 7
+      - All Days Acceptable
+      - TBD
+      required: false
+    - id: 14
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need help with transportation
+      type: select_one
+      options:
+      - 'No'
+      - Yes - Partial Day
+      - Yes - Full Day
+      - Yes - Multiple Days
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: For meals provided
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: technology_requirements
+      label: Technology Needs
+      hint: Special tech requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: accommodation_needs
+      label: Accessibility Accommodations Needed
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: collaboration_interest
+      label: Interest in Collaboration Sessions
+      hint: Work with other teachers
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 19
+      name: feedback_previous_pd
+      label: Feedback on Previous Professional Development
+      hint: What worked well for you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suggested_topics
+      label: Suggested Workshop Topics
+      hint: Topics you would like to see offered
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

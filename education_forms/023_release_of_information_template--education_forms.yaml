@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: release_of_information_template
+    pages:
+    - id: 1
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_method_other
+      label: other_contact_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method_phone
+      label: contact_method_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_method_email
+      label: contact_method_email
+      hint: null
+      type: email
+      options: []
+      required: false

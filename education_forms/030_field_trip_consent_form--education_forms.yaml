@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Consent Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact_info
+      label: Parent Emergency Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: true
+    - id: 7
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: student_medical_condition
+      label: Student Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_medication
+      label: Student Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: trip_start_date
+      label: Trip Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: trip_end_date
+      label: Trip End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: trip_start_time
+      label: Trip Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: trip_end_time
+      label: Trip End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: trip_address
+      label: Trip Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: trip_notes
+      label: Trip Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: student_agreement
+      label: Student Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that I am going on a school-sponsored field trip.
+      - I understand that I am being supervised by a teacher or staff member at all
+        times during the trip.
+      - I understand that I will be required to follow all school rules and safety
+        guidelines during the trip.
+      - I understand that I will be held accountable for any damages or losses incurred
+        during the trip.
+      - I understand that I will receive a copy of this signed consent form.
+      - I understand that this field trip is a school-sponsored trip and not a private
+        activity.
+      - I am aware that my parent/guardian has signed this form, indicating that they
+        are aware of the trip details and have given their permission for me to attend.
+      required: true
+    - id: 19
+      name: parent_agreement
+      label: Parent Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I, the parent/guardian, understand that I am responsible for my child's safety
+        and well-being during the trip.
+      - I, the parent/guardian, understand that the school will have a teacher or
+        staff member accompanying my child at all times during the trip.
+      - I, the parent/guardian, understand that my child will be required to follow
+        all school rules and safety guidelines during the trip.
+      - I, the parent/guardian, understand that my child will be held accountable
+        for any damages or losses incurred during the trip.
+      - I, the parent/guardian, understand that I will receive a copy of this signed
+        consent form.
+      - I, the parent/guardian, understand that this field trip is a school-sponsored
+        trip and not a private activity.
+      - I, the parent/guardian, understand that my child has given their agreement
+        to the trip terms.
+      required: true
+    - id: 20
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: school_signature
+      label: School Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: school_signature_date
+      label: School Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: student_dob_verification
+      label: Student DOB Verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: trip_notes_school_admin
+      label: Trip Notes School Admin
+      hint: null
+      type: note
+      options: []
+      required: false

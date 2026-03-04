@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: CDA Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_intro_section
+      label: -- Clinical Document Architecture (CDA) Quiz --
+      hint: Test your knowledge of HL7 CDA standards and implementation.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: professional_role_cda
+      label: Your Professional Role
+      hint: null
+      type: select_one
+      options:
+      - Health IT Developer
+      - Clinical Analyst
+      - Integration Engineer
+      - Health Information Manager
+      - Student/Researcher
+      required: true
+    - id: 4
+      name: cda_level_check
+      label: CDA Level 1 primarily consists of
+      hint: Select the most accurate answer
+      type: select_one
+      options:
+      - Fully structured XML body only
+      - Non-XML body or unstructured text
+      - Header only with no body content
+      required: true
+    - id: 5
+      name: cda_header_components
+      label: Which component is REQUIRED in every CDA Header?
+      hint: null
+      type: select_one
+      options:
+      - LegalAuthenticator
+      - ConfidentialityCode
+      - RealmCode
+      - LanguageCode
+      required: true
+    - id: 6
+      name: xml_root_element
+      label: What is the root element of a CDA document?
+      hint: null
+      type: select_one
+      options:
+      - HL7Document
+      - ClinicalDocument
+      - CDADocument
+      - MedicalRecord
+      required: true
+    - id: 7
+      name: oid_definition
+      label: What does OID stand for in the context of CDA?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ccd_vs_cda
+      label: The Continuity of Care Document (CCD) is a specific implementation of
+        CDA.
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: cda_body_structure
+      label: A structured CDA body consists of which elements?
+      hint: null
+      type: select_multiple
+      options:
+      - Section
+      - Entry
+      - Observation
+      - NarrativeBlock
+      required: true
+    - id: 10
+      name: loinc_coding_usage
+      label: Which coding system is most commonly used for CDA Section codes?
+      hint: null
+      type: select_one
+      options:
+      - ICD-10
+      - SNOMED-CT
+      - LOINC
+      - CPT
+      required: true
+    - id: 11
+      name: rim_relationship
+      label: CDA is based on which HL7 Model?
+      hint: null
+      type: select_one
+      options:
+      - Reference Information Model (RIM)
+      - Clinical Information Model (CIM)
+      - Fast Healthcare Model (FHM)
+      required: true
+    - id: 12
+      name: importance_of_v3
+      label: CDA is a part of the HL7 Version 3 family of standards.
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: participant_experience_level
+      label: Years of experience working with HL7 standards
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: quiz_feedback_request
+      label: Any comments on this quiz or training session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date_cda_quiz
+      label: Quiz Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: PTCAS Observation Hours Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: observer_name
+      label: observer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: observation_date
+      label: observation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: hours_observed
+      label: hours observed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: hours_awarded
+      label: hours awarded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hours_suggested
+      label: hours suggested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hours_completed
+      label: hours completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: observation_type
+      label: observation type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 11
+      name: hours_averaged
+      label: hours averaged
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: position
+      label: position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: student_id
+      label: student id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: observation_hours_form_version
+      label: observation hours form version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: institution_code
+      label: institution code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: institution_name
+      label: institution name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: institution_phone
+      label: institution phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: institution_email
+      label: institution email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: comments_comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: false

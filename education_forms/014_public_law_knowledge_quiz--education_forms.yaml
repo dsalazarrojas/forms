@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_law_knowledge_quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: correct_answer
+      label: Correct Answer
+      hint: Enter correct answer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quiz_type
+      label: Quiz Type
+      hint: null
+      type: select_one
+      options:
+      - Multiple Choice
+      - Short Answer
+      - Essay
+      required: true
+    - id: 4
+      name: question_number
+      label: Question Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: question_points
+      label: Question Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: correct_answer_points
+      label: Correct Answer Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: total_points
+      label: Total Points
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: quiz_questions_text
+      label: Quiz Questions Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: quiz_type_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_quiz
+      label: Submit Quiz
+      hint: null
+      type: text
+      options: []
+      required: false

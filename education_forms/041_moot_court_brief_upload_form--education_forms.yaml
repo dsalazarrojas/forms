@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moot Court Brief Upload Form
+    pages:
+    - id: 1
+      name: moot_court_brief_upload_form_title
+      label: Moot Court Brief Upload Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: upload_brief
+      label: Upload Brief
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: moot_court_brief_upload_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Moot Court
+      - Mock Trial
+      - Other
+      required: false
+    - id: 5
+      name: moot_court_brief_upload_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_date
+      label: Date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: upload_time
+      label: Time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: moot_court_brief_upload_form_file
+      label: Upload Brief File
+      hint: Upload briefs as PDF or Word document
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supporting_upload_file
+      label: Upload Supporting File
+      hint: Upload supporting documents as PDF or Word document
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: moot_court_brief_upload_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: moot_court_brief_upload_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

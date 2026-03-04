@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Age Enrollment Packet Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parents_first_name
+      label: parents first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parents_last_name
+      label: parents last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: student_grade
+      label: grade
+      hint: null
+      type: select_one
+      options:
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      required: false
+    - id: 8
+      name: parents_phone
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parents_email
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: student_address
+      label: student address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_address
+      label: parents address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_enrollment_status
+      label: enrollment status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - New
+      required: false
+    - id: 13
+      name: student_enrollment_date
+      label: enrollment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: student_last_attended_school_name
+      label: last attended school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_last_attended_school_state
+      label: last attended school state
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - NY
+      - NJ
+      - PA
+      - Other
+      required: false
+    - id: 16
+      name: student_last_attended_school_city
+      label: last attended school city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parents_last_attended_school
+      label: parents last attended school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_education_institution
+      label: education institution
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - Charter
+      - Magnet
+      - Other
+      required: false
+    - id: 19
+      name: student_education_level
+      label: education level
+      hint: null
+      type: select_one
+      options:
+      - Elementary
+      - Middle
+      - High
+      required: false
+    - id: 20
+      name: student_english_language
+      label: language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      required: false
+    - id: 21
+      name: student_native_language
+      label: native language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_additional_language_skills
+      label: additional languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: parents_additional_language_skills
+      label: additional languages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_languages_proficiency
+      label: language proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: student_languages_proficiency_other
+      label: language proficiency other
+      hint: null
+      type: text
+      options: []
+      required: false

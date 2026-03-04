@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: CQEL TK Family Survey
+    pages:
+    - id: 1
+      name: family_name
+      label: Family Name
+      hint: Last name of family
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Person completing survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_name
+      label: Child Name
+      hint: Name of child considering TK
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_age
+      label: Child Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: current_school
+      label: Currently Attending School
+      hint: Current school or preschool
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tk_knowledge
+      label: How Much Do You Know About Transitional Kindergarten
+      hint: null
+      type: select_one
+      options:
+      - Very familiar
+      - Somewhat familiar
+      - Heard of it
+      - Not familiar
+      required: true
+    - id: 9
+      name: tk_information_source
+      label: Where Did You Learn About TK
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School or district website
+      - Flyer or brochure
+      - Word of mouth
+      - Social media
+      - News article
+      - Other parent
+      - Have not heard about it
+      required: false
+    - id: 10
+      name: tk_benefit_understanding
+      label: Understand Benefits of TK Program
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Somewhat
+      - false
+      required: true
+    - id: 11
+      name: child_readiness
+      label: Is Your Child Ready for TK
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely ready
+      - Probably ready
+      - Uncertain
+      - Probably not ready
+      - Not ready
+      required: true
+    - id: 12
+      name: readiness_concerns
+      label: Concerns About Child's Readiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tk_enrollment_likelihood
+      label: Likelihood of Enrolling Child in TK
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Maybe
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 14
+      name: enrollment_barriers
+      label: Barriers to TK Enrollment
+      hint: If any, select all that apply
+      type: select_multiple
+      options:
+      - Cost or tuition
+      - Transportation issues
+      - Program timing or schedule
+      - Prefer other options
+      - Uncertain about program
+      - Work schedule conflicts
+      - None
+      required: false
+    - id: 15
+      name: tk_location_preference
+      label: Preferred TK Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: program_features_importance
+      label: Most Important Program Features
+      hint: Select top three
+      type: select_multiple
+      options:
+      - Academic preparation
+      - Social-emotional learning
+      - Play-based learning
+      - Bilingual instruction
+      - Arts and music
+      - Physical activity
+      - Small class size
+      required: false
+    - id: 17
+      name: feedback_communication
+      label: How Would You Like to Receive TK Program Information
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - In-person meeting
+      - Community event
+      - Website
+      - Social media
+      required: false
+    - id: 18
+      name: more_information
+      label: Would You Like More Information About TK
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: willing_advocate
+      label: Willing to Share Information About TK with Other Families
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Share any feedback
+      type: text
+      options: []
+      required: false

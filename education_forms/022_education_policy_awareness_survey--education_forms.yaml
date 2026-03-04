@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Policy Awareness Survey
+    pages:
+    - id: 1
+      name: student_role
+      label: what_is_your_student_role
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Teacher
+      - Parent
+      - Other
+      required: true
+    - id: 2
+      name: years_of_service
+      label: what_is_your_years_of_service_in_education
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: policy_understanding
+      label: what_is_your_understanding_of_educational_policies
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 4
+      name: policy_importance
+      label: how_important_is_educational_policy_in_your_decision_making
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Very Important
+      - Not At All Important
+      required: true
+    - id: 5
+      name: additional_comments
+      label: do_you_have_any_additional_comments_or_suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: what_is_your_preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true
+    - id: 7
+      name: email
+      label: what_is_your_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: what_is_your_phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: name
+      label: what_is_your_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: what_department_do_you_work_for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_district
+      label: what_school_district_do_you_believe_you_work_for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: school
+      label: what_school_do_you_believe_you_work_for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: school_level
+      label: what_level_of_school_do_you_believe_you_work_for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: school_name
+      label: what_is_the_name_of_the_school
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_title
+      label: what_is_your_job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: school_email
+      label: what_is_the_schools_email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: school_phone
+      label: what_is_the_schools_phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: school_address_1
+      label: what_is_the_schools_address_line_1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: school_address_2
+      label: what_is_the_schools_address_line_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: school_city
+      label: what_is_the_schools_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: school_state
+      label: what_is_the_schools_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: school_zip
+      label: what_is_the_schools_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: school_fax
+      label: what_is_the_schools_fax_number
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Functions Math Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: function_type
+      label: Function Type
+      hint: null
+      type: select_one
+      options:
+      - Quadratic
+      - Cubic
+      - Linear
+      - Exponential
+      - Logarithmic
+      - Polynomial
+      - Trigonometric
+      - Rational
+      - Absolute Value
+      required: true
+    - id: 6
+      name: question_1
+      label: Question 1
+      hint: null
+      type: select_multiple
+      options:
+      - What is the domain and range of the function?
+      - What is the inverse of the function?
+      - What is the vertex of the function?
+      - What is the value of a function?
+      - What is the derivative of the function?
+      required: true
+    - id: 7
+      name: question_2
+      label: Question 2
+      hint: null
+      type: select_multiple
+      options:
+      - What is the equation of the function?
+      - What is the graph of the function?
+      - What is the value of a function?
+      - What is the inverse of the function?
+      - What is the derivative of the function?
+      - What is the domain of the function?
+      - What is the range of the function?
+      required: true
+    - id: 8
+      name: question_3
+      label: Question 3
+      hint: null
+      type: select_multiple
+      options:
+      - What is the graph of a function?
+      - What is the equation of the function?
+      - What is the value of a function?
+      - What is the inverse of the function?
+      - What is the domain of the function?
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comment
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false

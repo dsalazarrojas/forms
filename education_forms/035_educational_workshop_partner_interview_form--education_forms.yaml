@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Workshop Partner Interview Form
+    pages:
+    - id: 1
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''School''}'
+      - '{''name'': ''Nonprofit''}'
+      - '{''name'': ''Training Team''}'
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Enter the contact person's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter the contact person's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: Enter the school name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_since
+      label: Partner Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: partner_status
+      label: Partner Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Active''}'
+      - '{''name'': ''Inactive''}'
+      - '{''name'': ''Pending''}'
+      required: false
+    - id: 8
+      name: partner_comments
+      label: Comments
+      hint: Provide any comments or additional information about the partner
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: partner_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: partner_recommendation
+      label: Recommendation
+      hint: Is this a strong recommendation?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: partner_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: partner_rating_comment
+      label: Rating Comment
+      hint: Enter a short reason for the rating
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: partner_next_steps
+      label: Next Steps
+      hint: null
+      type: date
+      options: []
+      required: false

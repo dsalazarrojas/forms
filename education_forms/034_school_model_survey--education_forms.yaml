@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Model Survey
+    pages:
+    - id: 1
+      name: school_model_survey
+      label: school_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian
+      label: parent_guaridan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: learning_method
+      label: learning_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option 1'', ''description'':
+        ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option 2'', ''description'':
+        ''Option 2''}'
+      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option 3'', ''description'':
+        ''Option 3''}'
+      required: false
+    - id: 4
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: school_model_survey_category
+      label: school_model_survey_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option 1'', ''description'':
+        ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option 2'', ''description'':
+        ''Option 2''}'
+      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option 3'', ''description'':
+        ''Option 3''}'
+      required: false
+    - id: 10
+      name: school_model_survey_subcategory
+      label: school_model_survey_subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option 1'', ''description'':
+        ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option 2'', ''description'':
+        ''Option 2''}'
+      - '{''id'': 3, ''name'': ''option_3'', ''label'': ''option 3'', ''description'':
+        ''Option 3''}'
+      required: false

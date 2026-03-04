@@ -1,0 +1,132 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Currents Knowledge Quiz
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_name
+      label: Class Name
+      hint: e.g. Earth Science 101
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: quiz_questions_header
+      label: -- Quiz Questions --
+      hint: Select the best answer
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: q1_convection
+      label: "1. Convection is:"
+      hint: null
+      type: select_one
+      options:
+      - Transfer of heat by touching
+      - Transfer of heat by movement of fluid/air
+      - Transfer of heat by light waves
+      - None of the above
+      required: true
+    - id: 6
+      name: q2_jet_stream
+      label: 2. Where are Jet Streams found?
+      hint: null
+      type: select_one
+      options:
+      - In the ocean
+      - In the upper troposphere
+      - Underground
+      - Near the equator surface
+      required: true
+    - id: 7
+      name: q3_coriolis
+      label: "3. The Coriolis Effect causes winds to:"
+      hint: null
+      type: select_one
+      options:
+      - Stop completely
+      - Curve due to Earth's rotation
+      - Move in straight lines
+      - Heat up rapidly
+      required: true
+    - id: 8
+      name: q4_sea_breeze
+      label: "4. A Sea Breeze occurs because:"
+      hint: null
+      type: select_one
+      options:
+      - Land heats up faster than water
+      - Water heats up faster than land
+      - The moon pulls the air
+      - It is raining
+      required: true
+    - id: 9
+      name: q5_trade_winds
+      label: "5. Trade Winds blow from:"
+      hint: null
+      type: select_one
+      options:
+      - West to East
+      - East to West
+      - North to South directly
+      - South to North directly
+      required: true
+    - id: 10
+      name: q6_pressure
+      label: "6. Air moves from:"
+      hint: null
+      type: select_one
+      options:
+      - Low pressure to High pressure
+      - High pressure to Low pressure
+      - It does not move based on pressure
+      - High pressure to High pressure
+      required: true
+    - id: 11
+      name: q7_speed
+      label: "7. Wind speed is measured by an:"
+      hint: null
+      type: select_one
+      options:
+      - Thermometer
+      - Barometer
+      - Anemometer
+      - Hygrometer
+      required: true
+    - id: 12
+      name: q8_circulation
+      label: "8. The Global Circulation Model includes:"
+      hint: null
+      type: select_one
+      options:
+      - Hadley, Ferrel, and Polar Cells
+      - Only Hadley Cells
+      - Only Polar Cells
+      - Random Cells
+      required: true

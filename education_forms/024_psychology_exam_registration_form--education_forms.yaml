@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychology Exam Registration Form
+    pages:
+    - id: 1
+      name: candidate_enrollment
+      label: Enroll Candidate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: session_scheduling
+      label: Session Scheduling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: accommodation_requests
+      label: Accommodation Requests
+      hint: null
+      type: text
+      options: []
+      required: false

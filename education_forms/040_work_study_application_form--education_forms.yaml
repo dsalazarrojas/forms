@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_study_application_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: study_program
+      label: Study Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: transcripts
+      label: Transcripts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: letters_of_recommendation
+      label: Letters of Recommendation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: note
+      options: []
+      required: false

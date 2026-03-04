@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Survey
+    pages:
+    - id: 1
+      name: student_survey_form_1
+      label: Curriculum
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_survey_form_2
+      label: Facilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_survey_form_3
+      label: Materials
+      hint: null
+      type: text
+      options: []
+      required: false

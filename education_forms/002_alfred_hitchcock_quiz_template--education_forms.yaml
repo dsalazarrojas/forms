@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alfred Hitchcock Quiz Template
+    pages:
+    - id: 1
+      name: section_instructions
+      label: -- Quiz Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full name of the respondent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Participant email
+      hint: Used to send results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: question_1
+      label: Which film is known as a silent film director turning to thrillers
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - The Birds
+      - Psycho
+      - Rear Window
+      required: true
+    - id: 5
+      name: question_2
+      label: What year did Psycho release
+      hint: Enter the year as a number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: question_3
+      label: Name a recurring theme in Hitchcock films
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: score_estimate
+      label: Estimated score
+      hint: For instructor use
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback about the quiz
+      hint: Optional comments from participant
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: I agree to have my responses used for teaching analysis
+      hint: Select yes to consent
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

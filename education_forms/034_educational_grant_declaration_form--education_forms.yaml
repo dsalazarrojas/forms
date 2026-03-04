@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Grant Declaration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: educational_institution
+      label: Educational Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: declaration_date
+      label: Declaration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purpose_statement
+      label: Purpose Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: educational_grant_declaration_status
+      label: Educational Grant Declaration Status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - Declined
+      - Approved
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

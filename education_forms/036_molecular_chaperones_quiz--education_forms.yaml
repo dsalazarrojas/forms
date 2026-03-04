@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Molecular Chaperones Quiz
+    pages:
+    - id: 1
+      name: quiz_questions
+      label: Quiz questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: answer_1
+      label: What is the process of protein folding?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: answer_2
+      label: What is the role of chaperones in protein folding?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: answer_3
+      label: What is the relationship between protein structure and function?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: answer_4
+      label: What is the difference between a protein structure and a protein complex?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_comments
+      label: Submission comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission_email
+      label: Educator email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submission_phone
+      label: Educator phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_name
+      label: Educator name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_school
+      label: School name
+      hint: null
+      type: text
+      options: []
+      required: false

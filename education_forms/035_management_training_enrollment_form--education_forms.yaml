@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Management Training Enrollment Form
+    pages:
+    - id: 1
+      name: training_program_id
+      label: training_program_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: training_session_date
+      label: training_session_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: training_session_time
+      label: training_session_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_organization
+      label: manager_organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: training_enrollment_notes
+      label: training_enrollment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: training_enrollment_confirmation
+      label: training_enrollment_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Do not confirm
+      required: true
+    - id: 17
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms of this form
+      - I have not read and do not agree to the terms of this form
+      required: true
+    - id: 18
+      name: manager_agreement
+      label: manager_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms of this form
+      - I have not read and do not agree to the terms of this form
+      required: false
+    - id: 19
+      name: training_enrollment_status
+      label: training_enrollment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Cancelled
+      required: true
+    - id: 20
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: select_one
+      options:
+      - Participant did not show up
+      - No show
+      - Participant cancelled
+      - Unable to secure funding
+      - Other
+      required: false
+    - id: 21
+      name: reason_for_completion
+      label: reason_for_completion
+      hint: null
+      type: select_one
+      options:
+      - Participant attended
+      - Manager confirmed
+      required: false
+    - id: 22
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: training_enrollment_date
+      label: training_enrollment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: training_enrollment_time
+      label: training_enrollment_time
+      hint: null
+      type: time
+      options: []
+      required: true

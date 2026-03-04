@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty School Financial Agreement
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_enrolled
+      label: Program of Enrollment
+      hint: null
+      type: select_one
+      options:
+      - Cosmetology
+      - Esthetics
+      - Nail Technology
+      - Hair Design
+      - Instructor Training
+      required: true
+    - id: 5
+      name: section_financial_terms
+      label: -- Tuition and Fees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: total_tuition_amount
+      label: Total Program Tuition
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: enrollment_fee
+      label: Non-Refundable Enrollment Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payment_plan_selection
+      label: Preferred Payment Plan
+      hint: null
+      type: select_one
+      options:
+      - Full Payment (Upfront)
+      - Monthly Installments
+      - Bi-Weekly Payments
+      - Financial Aid / Loan
+      required: true
+    - id: 9
+      name: monthly_payment_amount
+      label: Agreed Monthly Payment
+      hint: Only if on installment plan
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_due_day
+      label: Day of Month Payment is Due
+      hint: e.g. 1st, 15th
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_agreement
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: late_fee_acknowledgment
+      label: I understand that late payments will incur a 5% fee
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: refund_policy_acknowledgment
+      label: I have read and agree to the refund policy
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: responsible_party_name
+      label: Name of Person Responsible for Payment
+      hint: If different from student
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date signed
+      hint: null
+      type: date
+      options: []
+      required: true

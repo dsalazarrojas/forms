@@ -1,0 +1,402 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Case Study Evaluation Form
+    pages:
+      - id: 1
+        name: evaluation_header
+        label: Case Study Evaluation Form
+        hint: Evaluate case study presentation and content
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_info
+        label: Evaluator Information
+        hint: Who is evaluating
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Full name
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: evaluator_role
+        label: Evaluator Role
+        hint: Position or title
+        type: select_one
+        options:
+          - Instructor
+          - Teaching assistant
+          - Peer evaluator
+          - External reviewer
+          - Other
+        required: true
+      - id: 6
+        name: presenter_info
+        label: Presenter Information
+        hint: Who presented
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: presenter_name
+        label: Presenter Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: presentation_title
+        label: Case Study Title
+        hint: Presentation name
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: presentation_date
+        label: Presentation Date
+        hint: When presented
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: presentation_setting
+        label: Presentation Setting
+        hint: Where presented
+        type: select_one
+        options:
+          - Classroom
+          - Conference
+          - Seminar
+          - Workshop
+          - Online webinar
+          - Other
+        required: true
+      - id: 11
+        name: time_management
+        label: Time Management
+        hint: Use of allotted time
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: time_allocation
+        label: Time Allocation
+        hint: How well time was used
+        type: select_one
+        options:
+          - Excellent - perfect pacing
+          - Very Good - well paced
+          - Good - acceptable pacing
+          - Fair - some timing issues
+          - Poor - significant timing problems
+        required: true
+      - id: 13
+        name: stayed_within_time
+        label: Did Presenter Stay Within Time Limit
+        hint: Time adherence
+        type: select_one
+        options:
+          - Yes - under time
+          - Yes - exactly on time
+          - Slightly over - under 5 minutes
+          - Moderately over - 5 to 10 minutes
+          - Significantly over - over 10 minutes
+        required: true
+      - id: 14
+        name: subject_mastery
+        label: Subject Mastery
+        hint: Knowledge demonstration
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: knowledge_depth
+        label: Depth of Knowledge
+        hint: Understanding level
+        type: select_one
+        options:
+          - Excellent - expert level
+          - Very Good - thorough knowledge
+          - Good - adequate knowledge
+          - Fair - superficial knowledge
+          - Poor - inadequate knowledge
+        required: true
+      - id: 16
+        name: accuracy
+        label: Accuracy of Information
+        hint: Factual correctness
+        type: select_one
+        options:
+          - Excellent - all accurate
+          - Very Good - mostly accurate
+          - Good - generally accurate
+          - Fair - some inaccuracies
+          - Poor - many inaccuracies
+        required: true
+      - id: 17
+        name: question_handling
+        label: Handling of Questions
+        hint: Response quality
+        type: select_one
+        options:
+          - Excellent - thoughtful responses
+          - Very Good - good responses
+          - Good - adequate responses
+          - Fair - weak responses
+          - Poor - unable to respond
+        required: true
+      - id: 18
+        name: organization
+        label: Organization
+        hint: Presentation structure
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: structure
+        label: Presentation Structure
+        hint: Logical flow
+        type: select_one
+        options:
+          - Excellent - very logical
+          - Very Good - well organized
+          - Good - clear structure
+          - Fair - somewhat disorganized
+          - Poor - confusing structure
+        required: true
+      - id: 20
+        name: introduction
+        label: Introduction Quality
+        hint: Opening effectiveness
+        type: select_one
+        options:
+          - Excellent - engaging and clear
+          - Very Good - effective
+          - Good - adequate
+          - Fair - weak
+          - Poor - missing or confusing
+        required: true
+      - id: 21
+        name: conclusion
+        label: Conclusion Quality
+        hint: Closing effectiveness
+        type: select_one
+        options:
+          - Excellent - strong summary
+          - Very Good - clear conclusion
+          - Good - adequate summary
+          - Fair - weak conclusion
+          - Poor - no conclusion
+        required: true
+      - id: 22
+        name: transitions
+        label: Transitions Between Sections
+        hint: Flow quality
+        type: select_one
+        options:
+          - Excellent - smooth transitions
+          - Very Good - clear transitions
+          - Good - adequate transitions
+          - Fair - abrupt transitions
+          - Poor - no transitions
+        required: true
+      - id: 23
+        name: visuals
+        label: Visual Aids
+        hint: Presentation materials
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: visual_quality
+        label: Visual Aid Quality
+        hint: Slide or material quality
+        type: select_one
+        options:
+          - Excellent - professional
+          - Very Good - well designed
+          - Good - adequate
+          - Fair - needs improvement
+          - Poor - distracting
+          - Not applicable - no visuals
+        required: true
+      - id: 25
+        name: visual_clarity
+        label: Visual Clarity
+        hint: Readability
+        type: select_one
+        options:
+          - Excellent - very clear
+          - Very Good - clear
+          - Good - readable
+          - Fair - somewhat unclear
+          - Poor - difficult to read
+        required: false
+      - id: 26
+        name: visual_relevance
+        label: Visual Relevance
+        hint: Support for content
+        type: select_one
+        options:
+          - Excellent - highly relevant
+          - Very Good - supportive
+          - Good - somewhat relevant
+          - Fair - marginally relevant
+          - Poor - irrelevant
+          - Not applicable
+        required: false
+      - id: 27
+        name: communication
+        label: Communication Skills
+        hint: Delivery quality
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: verbal_clarity
+        label: Verbal Clarity
+        hint: Speech quality
+        type: select_one
+        options:
+          - Excellent - very clear
+          - Very Good - clear
+          - Good - mostly clear
+          - Fair - somewhat unclear
+          - Poor - difficult to understand
+        required: true
+      - id: 29
+        name: volume_pace
+        label: Volume and Pace
+        hint: Speaking delivery
+        type: select_one
+        options:
+          - Excellent - perfect
+          - Very Good - well modulated
+          - Good - acceptable
+          - Fair - inconsistent
+          - Poor - problematic
+        required: true
+      - id: 30
+        name: body_language
+        label: Body Language
+        hint: Non-verbal communication
+        type: select_one
+        options:
+          - Excellent - confident and engaging
+          - Very Good - professional
+          - Good - adequate
+          - Fair - distracting
+          - Poor - inappropriate
+        required: true
+      - id: 31
+        name: audience_engagement
+        label: Audience Engagement
+        hint: Interaction quality
+        type: select_one
+        options:
+          - Excellent - highly engaging
+          - Very Good - engaging
+          - Good - some engagement
+          - Fair - minimal engagement
+          - Poor - no engagement
+        required: true
+      - id: 32
+        name: overall_impression
+        label: Overall Impression
+        hint: General assessment
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: overall_rating
+        label: Overall Presentation Rating
+        hint: Total score
+        type: select_one
+        options:
+          - Excellent - outstanding
+          - Very Good - above average
+          - Good - satisfactory
+          - Fair - below average
+          - Poor - unsatisfactory
+        required: true
+      - id: 34
+        name: met_objectives
+        label: Did Presentation Meet Objectives
+        hint: Goal achievement
+        type: select_one
+        options:
+          - Yes - exceeded objectives
+          - Yes - met all objectives
+          - Partially - met some objectives
+          - No - did not meet objectives
+        required: true
+      - id: 35
+        name: would_recommend
+        label: Would You Recommend This Presenter
+        hint: Recommendation
+        type: select_one
+        options:
+          - Yes - highly recommend
+          - Yes - recommend
+          - Maybe - with reservations
+          - No - do not recommend
+        required: true
+      - id: 36
+        name: strong_points
+        label: Strong Points
+        hint: What went well
+        type: text
+        options: []
+        required: true
+      - id: 37
+        name: weak_points
+        label: Weak Points
+        hint: Areas for improvement
+        type: text
+        options: []
+        required: true
+      - id: 38
+        name: suggestions
+        label: Suggestions for Improvement
+        hint: Recommendations
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: additional_comments
+        label: Additional Comments
+        hint: Other feedback
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: evaluator_signature
+        label: Evaluator Signature Date
+        hint: Date signed
+        type: date
+        options: []
+        required: false

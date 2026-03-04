@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interactive Learning Worksheet
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: Enter student name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_name
+      label: teacher_name
+      hint: Enter teacher's name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lesson_plan
+      label: lesson_plan
+      hint: Upload lesson plan document
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_responses
+      label: student_responses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submission_date
+      label: submission_date
+      hint: Date of submission
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: submission_time
+      hint: Time of submission
+      type: time
+      options: []
+      required: false

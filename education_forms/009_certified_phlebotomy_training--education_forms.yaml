@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certified Phlebotomy Training
+    pages:
+    - id: 1
+      name: section_student_registration
+      label: -- Student Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_legal_name
+      label: Student Full Legal Name
+      hint: Enter your name as it appears on your government-issued ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_contact_email
+      label: Student Contact Email
+      hint: For course materials and communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_contact_phone
+      label: Student Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: To verify age requirements for certification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_program_information
+      label: -- Program Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phlebotomy_program_session
+      label: Phlebotomy Program Session
+      hint: Select the 4-week program cycle you wish to join
+      type: select_one
+      options:
+      - Spring Cycle (March - April)
+      - Summer Cycle (June - July)
+      - Fall Cycle (September - October)
+      - Winter Cycle (January - February)
+      required: true
+    - id: 8
+      name: training_modality_selected
+      label: Training Modality
+      hint: Select your preferred learning format
+      type: select_one
+      options:
+      - Full-Time (Daytime Intensive)
+      - Part-Time (Evenings and Weekends)
+      - Hybrid (Online Theory / In-Person Lab)
+      required: true
+    - id: 9
+      name: section_educational_background
+      label: -- Educational Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: highest_level_education_attained
+      label: Highest Level of Education Attained
+      hint: Select your completed level of schooling
+      type: select_one
+      options:
+      - High School Diploma or GED
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree or Higher
+      - Current Healthcare Professional
+      required: true
+    - id: 11
+      name: medical_experience_healthcare
+      label: Previous Healthcare Experience?
+      hint: Do you have prior experience working in a medical setting?
+      type: select_one
+      options:
+      - Yes - Clinical Experience
+      - Yes - Administrative Experience
+      - No - Entry Level Student
+      required: true
+    - id: 12
+      name: section_clinical_requirements
+      label: -- Clinical Requirements and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vaccinations_up_to_date_confirmed
+      label: Vaccinations Up to Date?
+      hint: I confirm that all required healthcare vaccinations are current
+      type: select_one
+      options:
+      - Yes - All Current
+      - No - In Progress
+      required: true
+    - id: 14
+      name: tuberculosis_screening_complete
+      label: TB Screening Completed?
+      hint: Required within the last 12 months for clinical training
+      type: select_one
+      options:
+      - Yes - Negative Result
+      - No - Pending Appointment
+      required: true
+    - id: 15
+      name: criminal_background_check_consent
+      label: Consent for Criminal Background Check
+      hint: Required for clinical placement in healthcare facilities
+      type: select_one
+      options:
+      - I Consent and Authorize
+      - Other
+      required: true
+    - id: 16
+      name: section_program_acknowledgements
+      label: -- Program Acknowledgements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: attendance_requirement_agreement
+      label: Attendance Requirement Agreement
+      hint: I understand that 100 percent attendance is required for program completion
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 18
+      name: nha_exam_policy_acknowledgement
+      label: NHA Exam Policy Acknowledgement
+      hint: I understand tuition covers only the first attempt of the National Exam
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 19
+      name: phlebotomy_student_signature_date
+      label: Student Registration Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_student_info_comments
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

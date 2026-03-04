@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: prophets
+    pages:
+    - id: 1
+      name: officer_id
+      label: Officer ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: shift
+      label: shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''morning''}'
+      - '{''id'': 2, ''name'': ''afternoon''}'
+      - '{''id'': 3, ''name'': ''evening''}'
+      required: false
+    - id: 5
+      name: events
+      label: Events
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool_id
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_name
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: duty_report
+      label: Duty Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: duty_report_id
+      label: Duty Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: officer_name_id
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: officer_name_full
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: officer_name_last
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: duty_type
+      label: Duty Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''prophets''}'
+      - '{''id'': 2, ''name'': ''duty''}'
+      - '{''id'': 3, ''name'': ''shift''}'
+      required: false
+    - id: 19
+      name: duty_type_id
+      label: Duty Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: duty_type_name
+      label: Duty Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: officer_id
+      label: Officer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: officer_name_full_id
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: officer_last_id
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: officer_last
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: officer_last_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false

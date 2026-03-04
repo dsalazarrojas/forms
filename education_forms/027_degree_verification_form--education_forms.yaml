@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Degree Verification Form
+    pages:
+    - id: 1
+      name: verification_form
+      label: Education Forms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employer_name
+      label: Educational Institution
+      hint: Institution Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employer_email
+      label: Email
+      hint: institution email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: employer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: institution_address
+      label: Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: degree_verification_number
+      label: Degree Verification Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: degree_verification_date
+      label: Degree Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: background_check_company
+      label: Background Check Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: background_check_id
+      label: Background Check ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: background_check_date
+      label: Background Check Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: degree_verification_type
+      label: Degree Verification Type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 12
+      name: degree_verification_notes
+      label: Degree Verification Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false

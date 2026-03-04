@@ -1,0 +1,284 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Path Assessment Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_age
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 4
+      name: current_education
+      label: Current Education Level
+      hint: Highest level completed or currently pursuing
+      type: select_one
+      options:
+      - High School Student
+      - High School Graduate
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD or Doctorate
+      - Vocational Training
+      required: true
+    - id: 5
+      name: career_status
+      label: Current Career Status
+      hint: null
+      type: select_one
+      options:
+      - Student exploring career options
+      - Recently graduated seeking first job
+      - Early career professional
+      - Mid-career considering change
+      - Career changer
+      - Returning to workforce
+      - Job seeker
+      - Other
+      required: true
+    - id: 6
+      name: work_experience
+      label: Years of Work Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: communication_skills
+      label: Rate Your Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 8
+      name: analytical_skills
+      label: Rate Your Analytical and Problem-Solving Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 9
+      name: leadership_skills
+      label: Rate Your Leadership and Team Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 10
+      name: technical_skills
+      label: Rate Your Technical Skills
+      hint: Computer, software, technical knowledge
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: creativity_innovation
+      label: Rate Your Creativity and Innovation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 12
+      name: interpersonal_skills
+      label: Rate Your Interpersonal and People Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Fair
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: strongest_abilities
+      label: Your Strongest Abilities
+      hint: What are you best at?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: skills_to_develop
+      label: Skills You Need to Develop
+      hint: What areas need improvement?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: personality_type
+      label: How Would You Describe Your Personality?
+      hint: Select characteristics that apply
+      type: select_multiple
+      options:
+      - Analytical and detail-oriented
+      - Creative and imaginative
+      - People-focused and empathetic
+      - Results-driven and ambitious
+      - Reliable and dependable
+      - Adaptable and flexible
+      - Organized and methodical
+      - Risk-taking and adventurous
+      required: true
+    - id: 16
+      name: work_environment_preference
+      label: Ideal Work Environment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Structured and organized
+      - Fast-paced and dynamic
+      - Collaborative and team-oriented
+      - Independent and autonomous
+      - Creative and innovative
+      - Stable and predictable
+      - Outdoor or active
+      - Academic or research-focused
+      required: true
+    - id: 17
+      name: career_interests
+      label: Career Field Interests
+      hint: Select up to 5 fields
+      type: select_multiple
+      options:
+      - Technology and IT
+      - Business and Finance
+      - Healthcare and Medicine
+      - Engineering
+      - Science and Research
+      - Education and Training
+      - Arts and Design
+      - Law and Government
+      - Sales and Marketing
+      - Trades and Manufacturing
+      - Agriculture and Environment
+      - Hospitality and Tourism
+      - Non-profit and Social Services
+      - Entertainment and Media
+      - Military and Security
+      required: true
+    - id: 18
+      name: career_values
+      label: What Matters Most in Your Career?
+      hint: Select your top 3 values
+      type: select_multiple
+      options:
+      - High salary and financial security
+      - Job security and stability
+      - Meaningful and purposeful work
+      - Helping others and making difference
+      - Creativity and self-expression
+      - Work-life balance and flexibility
+      - Learning and professional growth
+      - Leadership and responsibility
+      - Recognition and status
+      - Independence and autonomy
+      - Teamwork and collaboration
+      - Innovation and progress
+      required: true
+    - id: 19
+      name: work_style
+      label: Your Preferred Work Style
+      hint: null
+      type: select_one
+      options:
+      - Strictly independent
+      - Mostly independent with some teamwork
+      - Equal balance of independent and team
+      - Mostly team-based with some independence
+      - Strictly team-based
+      required: true
+    - id: 20
+      name: risk_tolerance
+      label: Risk Tolerance Level
+      hint: How comfortable are you with risk and change?
+      type: select_one
+      options:
+      - High risk-taker
+      - Moderate risk-taker
+      - Low to moderate risk
+      - Very risk-averse
+      - Prefer stability
+      required: false
+    - id: 21
+      name: salary_expectations
+      label: Desired Salary Range
+      hint: What income level are you targeting?
+      type: select_one
+      options:
+      - Entry-level - under 40k
+      - Mid-level - 40k to 75k
+      - Senior level - 75k to 125k
+      - Executive level - 125k+
+      - Open to negotiation
+      required: false
+    - id: 22
+      name: assessment_purpose
+      label: Purpose of This Assessment
+      hint: Why are you completing this assessment?
+      type: select_one
+      options:
+      - Exploring career options
+      - Changing careers
+      - Academic guidance
+      - Job search preparation
+      - Personal development
+      - Required assessment
+      - Other
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information About Your Career Goals
+      hint: Any other relevant details?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: graham_cracker_structure_ranking
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: graham_cracker_photo_url
+      label: photo_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: graham_cracker_rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photo1
+      label: photo1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo2
+      label: photo2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo3
+      label: photo3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo4
+      label: photo4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''admin'', ''label'': ''admin''}'
+      - '{''id'': 2, ''name'': ''student'', ''label'': ''student''}'
+      - '{''id'': 3, ''name'': ''staff'', ''label'': ''staff''}'
+      - '{''id'': 4, ''name'': ''parent'', ''label'': ''parent''}'
+      - '{''id'': 5, ''name'': ''other'', ''label'': ''other''}'
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: drama_academy_class_registration_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: class
+      label: Class
+      hint: null
+      type: select_one
+      options:
+      - Drama
+      - Dance
+      - Music
+      - Art
+      required: false
+    - id: 6
+      name: class_time
+      label: Class Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: class_day
+      label: Class Day
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: class_start_date
+      label: Class Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: student_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false

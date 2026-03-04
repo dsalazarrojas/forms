@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Baptism Interest Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Enter your contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: faith_background
+      label: Faith Background
+      hint: Describe your current faith background
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: church
+      label: Church
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: church_other
+      label: Church (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: Check the box below to indicate your consent
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: schedule_baptism
+      label: Schedule Baptism
+      hint: Check the box below to schedule baptism
+      type: select_multiple
+      options:
+      - Baptism Service
+      - Baptism Class
+      - Baptism Study
+      required: true

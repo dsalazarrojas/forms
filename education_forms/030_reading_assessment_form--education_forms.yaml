@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reading Assessment Form
+    pages:
+    - id: 1
+      name: reading_assessment_form_1
+      label: What is your favorite book
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reading_assessment_form_2
+      label: How often do you read
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Every day''}'
+      - '{''value'': ''Every week''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 3
+      name: reading_assessment_form_3
+      label: What type of books do you prefer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fiction''}'
+      - '{''value'': ''Non-Fiction''}'
+      - '{''value'': ''Comic''}'
+      - '{''value'': ''Graphic Novel''}'
+      required: false
+    - id: 4
+      name: reading_assessment_form_4
+      label: Do you have a preferred reading mode
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Print''}'
+      - '{''value'': ''Digital''}'
+      - '{''value'': ''Audio''}'
+      required: false
+    - id: 5
+      name: reading_assessment_form_5
+      label: How long does it take you to read a book
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reading_assessment_form_6
+      label: What is your reading speed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Fast''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Slow''}'
+      required: false
+    - id: 7
+      name: reading_assessment_form_7
+      label: Do you have difficulty reading due to eye sight
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': False}'
+      - '{''value'': True}'
+      required: false
+    - id: 8
+      name: reading_assessment_form_8
+      label: reading_assessment_form_8
+      hint: null
+      type: time
+      options: []
+      required: false

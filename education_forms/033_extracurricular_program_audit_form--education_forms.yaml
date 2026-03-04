@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Extracurricular Program Audit Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_id
+      label: school_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Middle School
+      - College/University
+      - Community Center
+      - Youth Organization
+      required: true
+    - id: 4
+      name: program_level
+      label: program_level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      - Level 5
+      required: true
+    - id: 5
+      name: program_description
+      label: program_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_objectives
+      label: program_objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_outcomes
+      label: program_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: true
+    - id: 8
+      name: evaluation_criterion
+      label: evaluation_criterion
+      hint: null
+      type: select_one
+      options:
+      - Criterion 1
+      - Criterion 2
+      - Criterion 3
+      - Criterion 4
+      required: true
+    - id: 9
+      name: evaluation_process
+      label: evaluation_process
+      hint: null
+      type: select_multiple
+      options:
+      - Process 1
+      - Process 2
+      - Process 3
+      required: true
+    - id: 10
+      name: improvement_needs
+      label: improvement_needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: quality_control
+      label: quality_control
+      hint: null
+      type: select_one
+      options:
+      - Control 1
+      - Control 2
+      - Control 3
+      required: true
+    - id: 12
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reviewer_title
+      label: reviewer_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: reviewer_phone
+      label: reviewer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: school_admin_email
+      label: school_admin_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: school_admin_phone
+      label: school_admin_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: school_admin_name
+      label: school_admin_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: school_admin_title
+      label: school_admin_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: school_admin_department
+      label: school_admin_department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: true
+    - id: 23
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - By School
+      - By Reviewer
+      required: true
+    - id: 24
+      name: submitted
+      label: submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: select_one
+      options:
+      - Signature 1
+      - Signature 2
+      - Signature 3
+      required: false

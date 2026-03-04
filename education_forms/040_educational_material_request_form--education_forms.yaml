@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Material Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_multiple
+      options:
+      - Books
+      - Resources
+      - Other
+      required: true
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Science
+      - Arts
+      - Other
+      required: true
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Science Exam Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_exam
+      label: Date of Exam
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_exam
+      label: Time of Exam
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      - fish
+      required: true
+    - id: 8
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - cat
+      - dog
+      - fish
+      - bird
+      - horses
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: veterinary_science_question
+      label: Veterinary Science Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

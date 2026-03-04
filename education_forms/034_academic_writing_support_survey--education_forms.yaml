@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Writing Support Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Writing Support Survey --
+      hint: Share your experience with writing support services to help us serve you better.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+        - Undergraduate Student
+        - Graduate Student
+        - Faculty
+        - Staff
+      required: true
+    - id: 3
+      name: department
+      label: Department or major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: used_writing_support
+      label: Have you used the institutions writing support services
+      hint: null
+      type: select_one
+      options:
+        - Yes - regularly
+        - Yes - a few times
+        - Yes - once
+        - No - but I am interested
+        - No - I was not aware of them
+      required: true
+    - id: 5
+      name: services_used
+      label: Which writing support services have you used (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Writing center consultations
+        - Online writing tutoring
+        - Writing workshops or seminars
+        - Citation and reference help
+        - ESL writing support
+        - Thesis or dissertation writing group
+        - None
+      required: true
+    - id: 6
+      name: satisfaction_with_services
+      label: How satisfied are you with the writing support services you have used
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+        - Have not used any
+      required: true
+    - id: 7
+      name: quality_of_feedback
+      label: How helpful was the feedback you received from writing support staff
+      hint: null
+      type: select_one
+      options:
+        - Not helpful at all
+        - Slightly helpful
+        - Moderately helpful
+        - Very helpful
+        - Extremely helpful
+        - Not applicable
+      required: true
+    - id: 8
+      name: writing_challenges
+      label: What are your biggest writing challenges (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Grammar and mechanics
+        - Organizing ideas
+        - Developing arguments
+        - Academic tone and style
+        - Citation formatting
+        - Time management for writing
+        - Writer block or motivation
+      required: true
+    - id: 9
+      name: preferred_format
+      label: What format do you prefer for writing support
+      hint: null
+      type: select_one
+      options:
+        - One-on-one in-person consultation
+        - Online one-on-one session
+        - Group workshop
+        - Self-paced online resources
+        - Email feedback on drafts
+      required: true
+    - id: 10
+      name: availability_rating
+      label: How easy is it to schedule a writing support appointment
+      hint: null
+      type: select_one
+      options:
+        - Very difficult
+        - Difficult
+        - Neutral
+        - Easy
+        - Very easy
+        - Never tried to schedule
+      required: true
+    - id: 11
+      name: additional_services_wanted
+      label: What additional writing support services would you find valuable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: overall_impact
+      label: How much has writing support improved your academic writing
+      hint: null
+      type: select_one
+      options:
+        - No impact
+        - Slight improvement
+        - Moderate improvement
+        - Significant improvement
+        - Transformative improvement
+        - Have not used services
+      required: true
+    - id: 13
+      name: recommend_services
+      label: Would you recommend writing support services to other students
+      hint: null
+      type: select_one
+      options:
+        - Yes - definitely
+        - Yes - with some reservations
+        - Neutral
+        - No
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Any additional feedback or suggestions for improving writing support
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Test Result Submission Form
+    pages:
+    - id: 1
+      name: student_number
+      label: student_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_test_date
+      label: student_test_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_exam_score
+      label: exam_score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: student_test_result
+      label: test_result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_test_grade
+      label: student_test_grade
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: teacher_comments
+      label: teacher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_grade_distribution
+      label: student_grade_distribution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: student_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_reference
+      label: reference
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: student_attendance_status
+      label: attendance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: student_conduct_status
+      label: conduct_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: student_health_status
+      label: health_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: student_absence_status
+      label: absence_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: student_carry_over_status
+      label: carry_over_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: student_attendance_percentage
+      label: attendance_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: student_average_attendance
+      label: average_attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: student_total_attendance
+      label: total_attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: student_classroom_att_report_attendance
+      label: classroom_attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: student_classroom_attendance_percentage
+      label: classroom_attendance_percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: student_classroom_average_attendance
+      label: classroom_average_attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: student_classroom_total_attendance
+      label: classroom_total_attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: student_classroom_attendance_days
+      label: classroom_attendance_days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: student_classroom_attendance_frequency
+      label: classroom_attendance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

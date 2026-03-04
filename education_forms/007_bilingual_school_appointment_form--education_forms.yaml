@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bilingual School Appointment Form
+    pages:
+    - id: 1
+      name: language_preference_header
+      label: -- Language Preference - Preferencia de Idioma --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferred_language
+      label: Preferred Language for Communication
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Español
+      - Bilingual (Both)
+      required: true
+    - id: 3
+      name: appointment_details_header
+      label: -- Appointment Details - Detalles de la Cita --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent or Guardian Name - Nombre del Padre o Tutor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_name
+      label: Student Name - Nombre del Estudiante
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_grade
+      label: Student Grade Level - Grado del Estudiante
+      hint: null
+      type: select_one
+      options:
+      - Pre-K
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      required: true
+    - id: 7
+      name: appointment_reason
+      label: Reason for Appointment - Motivo de la Cita
+      hint: null
+      type: select_one
+      options:
+      - General Progress - Progreso General
+      - Academic Concerns - Preocupaciones Académicas
+      - Behavioral Issues - Problemas de Conducta
+      - Enrollment - Inscripción
+      - Other - Otro
+      required: true
+    - id: 8
+      name: requested_date
+      label: Requested Date - Fecha Solicitada
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_time_slot
+      label: Preferred Time - Horario Preferido
+      hint: null
+      type: select_one
+      options:
+      - Morning (8 AM - 11 AM)
+      - Mid-day (11 AM - 1 PM)
+      - Afternoon (1 PM - 3 PM)
+      - After School (3 PM - 4 PM)
+      required: true
+    - id: 10
+      name: meeting_format
+      label: Meeting Format - Formato de la Reunión
+      hint: null
+      type: select_one
+      options:
+      - In-Person - En Persona
+      - Virtual (Zoom/Teams)
+      - Phone Call - Llamada Telefónica
+      required: true
+    - id: 11
+      name: interpreter_needed
+      label: Do you require an interpreter? - ¿Necesita un intérprete?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Sí
+      - false
+      required: true
+    - id: 12
+      name: contact_info_header
+      label: -- Contact Information - Información de Contacto --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number - Número de Teléfono
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email_address
+      label: Email Address - Correo Electrónico
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments - Comentarios Adicionales
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Project Topic Submission Form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Project
+      - Education
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - California
+      - Chicago
+      - Other
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: required_documents
+      label: required_documents
+      hint: null
+      type: select_multiple
+      options:
+      - Project Plan
+      - Budget Plan
+      required: false
+    - id: 8
+      name: lead_person
+      label: lead_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_one
+      options:
+      - Organization
+      - Individual
+      required: false
+    - id: 12
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_topic
+      label: project_topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - John
+      required: false
+    - id: 17
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      - In Progress
+      required: false
+    - id: 18
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - Project Type 1
+      - Project Type 2
+      - Project Type 3
+      - Project Type 4
+      required: false
+    - id: 19
+      name: submitted_on_date
+      label: submitted_on_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_on_time
+      label: submitted_on_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

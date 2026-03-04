@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rsvp For Mum Deans And President S Lists
+    pages:
+    - id: 1
+      name: parent_meetings
+      label: Parent Meetings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_recognitions
+      label: Award Recognitions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: Meeting Time
+      hint: "HH:MM 24HR"
+      type: time
+      options: []
+      required: false

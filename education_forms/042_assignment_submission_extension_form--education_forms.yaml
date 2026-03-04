@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Submission Extension Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: School email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: Which course
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_code
+      label: Course Code
+      hint: Course ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: instructor_name
+      label: Instructor Name
+      hint: Teacher or professor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_title
+      label: Assignment Title
+      hint: Name of assignment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_description
+      label: Assignment Description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: original_due_date
+      label: Original Due Date
+      hint: When originally due
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: original_due_time
+      label: Original Due Time
+      hint: When originally due
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: requested_extension_date
+      label: Requested Extension Date
+      hint: New due date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: requested_extension_time
+      label: Requested Extension Time
+      hint: New due time
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: extension_days_requested
+      label: Number of Days Requested
+      hint: How many extra days
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: reason_for_extension
+      label: Reason for Extension Request
+      hint: Why you need it
+      type: select_one
+      options:
+      - Medical Issue
+      - Family Emergency
+      - Technical Difficulties
+      - Work Commitment
+      - Overlapping Deadlines
+      - Personal Circumstances
+      - Other
+      required: true
+    - id: 16
+      name: reason_details
+      label: Detailed Explanation
+      hint: Describe situation
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: supporting_documentation
+      label: Do You Have Supporting Documentation
+      hint: Doctor note etc
+      type: select_one
+      options:
+      - Yes - Will Attach
+      - Yes - Will Provide Later
+      - 'No'
+      required: true
+    - id: 18
+      name: documentation_type
+      label: Type of Documentation
+      hint: What you have
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: progress_made
+      label: How Much Progress Have You Made
+      hint: Percentage complete
+      type: select_one
+      options:
+      - Not Started
+      - 1-25% Complete
+      - 26-50% Complete
+      - 51-75% Complete
+      - 76-99% Complete
+      required: true
+    - id: 20
+      name: work_completed
+      label: Describe Work Completed
+      hint: What you have done
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: remaining_work
+      label: Describe Remaining Work
+      hint: What is left to do
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: previous_extensions
+      label: Have You Requested Extensions Before
+      hint: For this course
+      type: select_one
+      options:
+      - Yes - This Course
+      - Yes - Other Courses
+      - 'No'
+      required: true
+    - id: 23
+      name: previous_count
+      label: Number of Previous Extensions
+      hint: How many times
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: commitment_statement
+      label: I Commit to Submitting by New Date
+      hint: Promise to complete
+      type: select_one
+      options:
+      - Yes I Commit
+      - 'No'
+      required: true
+    - id: 25
+      name: understand_penalties
+      label: I Understand Late Penalties May Still Apply
+      hint: Aware of consequences
+      type: select_one
+      options:
+      - Yes I Understand
+      - 'No'
+      required: true
+    - id: 26
+      name: alternative_plan
+      label: Do You Need Alternative Arrangements
+      hint: Special accommodations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: alternative_details
+      label: Alternative Arrangement Details
+      hint: Describe needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: instructor_approval
+      label: Instructor Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending Review
+      - Approved with Conditions
+      required: false
+    - id: 29
+      name: instructor_comments
+      label: Instructor Comments
+      hint: Feedback
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: request_date
+      label: Request Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: student_signature
+      label: Student Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

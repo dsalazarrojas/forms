@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: robotics_training_evaluation_form
+    pages:
+    - id: 1
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trainee_id
+      label: trainee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: training_session_date
+      label: training session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: robotics_systems_used
+      label: robotics systems used
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: session_duration
+      label: session duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_score
+      label: evaluation score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_outcome
+      label: training outcome
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: session_location
+      label: session location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_instructor
+      label: session instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_date
+      label: evaluation date
+      hint: null
+      type: date
+      options: []
+      required: false

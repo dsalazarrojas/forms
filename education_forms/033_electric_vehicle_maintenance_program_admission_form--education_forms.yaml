@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Vehicle Maintenance Program Admission Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Health Declaration Form
+    pages:
+    - id: 1
+      name: health_declaration_header
+      label: -- Student Health and Wellness Declaration --
+      hint: Please complete this form before the first day of school
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name_health
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number
+      label: Student ID Number (If known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade_health
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Elementary (K-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      required: true
+    - id: 5
+      name: parent_guardian_contact
+      label: Parent/Guardian Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone_health
+      label: Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: wellness_check_header
+      label: -- Current Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_fever_check
+      label: Has the student had a fever of 100.4 F or higher in the last 24 hours?
+      hint: Without the use of fever-reducing medication
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: new_cough_check
+      label: Does the student have a new or worsening cough or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: loss_of_taste_smell
+      label: Has the student experienced a new loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 11
+      name: international_travel_health
+      label: Has the student traveled internationally in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: household_illness_check
+      label: Is anyone in your household currently sick with COVID-19 or similar symptoms?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: chronic_health_disclosure
+      label: Any chronic health conditions the school should be aware of?
+      hint: e.g., Asthma, Diabetes, Heart condition
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_screen_authorization
+      label: I authorize the school to perform daily temperature checks on my child
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - I do not authorize
+      required: true
+    - id: 15
+      name: declaration_signature_date
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: electronic_signature_parent
+      label: I certify that the information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true

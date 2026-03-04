@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oral Examination Feedback Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: examiner_name
+      label: Examiner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

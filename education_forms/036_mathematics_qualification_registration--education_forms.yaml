@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mathematics Qualification Registration
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Basic''}'
+      - '{''id'': 2, ''label'': ''Intermediate''}'
+      - '{''id'': 3, ''label'': ''Advanced''}'
+      required: false
+    - id: 3
+      name: exam_preferences
+      label: Exam Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exam_date
+      label: Exam Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: exam_time
+      label: Exam Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Decline''}'
+      required: false
+    - id: 9
+      name: no_consent_reason
+      label: No Consent Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: no_additional_comments
+      label: No Additional Comments
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: false

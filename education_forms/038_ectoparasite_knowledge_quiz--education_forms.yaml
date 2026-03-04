@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ectoparasite Knowledge Quiz
+    pages:
+    - id: 1
+      name: main_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fleas_page
+      label: What are fleas?
+      hint: What is the main life cycle of fleas?
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tick_page
+      label: Ticks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lice_page
+      label: Lice
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prevention_page
+      label: Prevention
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quiz_question_1
+      label: What is the most common way to prevent ticks in pets?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sprays''}'
+      - '{''id'': 2, ''label'': ''Medication''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: quiz_question_2
+      label: How often do you apply topical flea medications to pets?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Biweekly''}'
+      - '{''id'': 4, ''label'': ''Monthly''}'
+      required: true
+    - id: 8
+      name: quiz_question_3
+      label: What is the primary reason to use ivermectin?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Flea control''}'
+      - '{''id'': 2, ''label'': ''Tick control''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: quiz_question_4
+      label: What is the most common way to diagnose lice infestation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Visual inspection''}'
+      - '{''id'': 2, ''label'': ''Laboratory test''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: quiz_question_5
+      label: What is the most common way to treat lice?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medication''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      - '{''id'': 3, ''label'': ''No treatment needed''}'
+      required: true
+    - id: 11
+      name: quiz_question_6
+      label: How often do you treat for lice?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quiz_question_7
+      label: What is the primary way to prevent lice infestation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good hygiene''}'
+      - '{''id'': 2, ''label'': ''Medication''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 13
+      name: quiz_question_8
+      label: What are the most common lice species found on animals?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Ctenocephalides''}'
+      - '{''id'': 2, ''label'': ''Ixodida''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 14
+      name: quiz_question_9
+      label: What is the most common way to prevent lice?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good hygiene''}'
+      - '{''id'': 2, ''label'': ''Medication''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 15
+      name: quiz_question_10
+      label: Which of the following is NOT a type of ectoparasite?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Fleas''}'
+      - '{''id'': 2, ''label'': ''Ticks''}'
+      - '{''id'': 3, ''label'': ''Lice''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: quiz_question_11
+      label: What is the primary reason for the spread of ticks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Animal interaction''}'
+      - '{''id'': 2, ''label'': ''Environmental factor''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 17
+      name: quiz_question_12
+      label: Why are there so many ticks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Animal interaction''}'
+      - '{''id'': 2, ''label'': ''Environmental factor''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 18
+      name: quiz_question_13
+      label: What is the most effective way to control ticks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medication''}'
+      - '{''id'': 2, ''label'': ''Repellent''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 19
+      name: quiz_question_14
+      label: What is the most common reason for the lack of control of ticks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Poor hygiene''}'
+      - '{''id'': 2, ''label'': ''Lack of treatment''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 20
+      name: quiz_question_15
+      label: What is the primary way to treat ticks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medication''}'
+      - '{''id'': 2, ''label'': ''Removal''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 21
+      name: quiz_question_16
+      label: How often do you check for ticks?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 22
+      name: quiz_question_17
+      label: What is the primary reason for the spread of lice?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Human interaction''}'
+      - '{''id'': 2, ''label'': ''Animal interaction''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 23
+      name: quiz_question_18
+      label: Why do lice cause so much damage?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Allergic reaction''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      - '{''id'': 3, ''label'': ''Skin irritation''}'
+      required: true
+    - id: 24
+      name: quiz_question_19
+      label: What is the primary way to kill lice?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medication''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      - '{''id'': 3, ''label'': ''Heat treatment''}'
+      required: true
+    - id: 25
+      name: quiz_question_20
+      label: What is the most effective way to treat lice?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Medication''}'
+      - '{''id'': 2, ''label'': ''Removal''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 26
+      name: quiz_question_21
+      label: What is the most common reason for lice infestation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Poor hygiene''}'
+      - '{''id'': 2, ''label'': ''Animal interaction''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true

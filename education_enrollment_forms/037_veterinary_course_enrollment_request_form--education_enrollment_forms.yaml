@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Course Enrollment Request Form
+    pages:
+    - id: 1
+      name: course_interest
+      label: Course Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_details
+      label: Background Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: select_one_course
+      label: Select a Course
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Basic Training''}'
+      - '{''id'': 2, ''label'': ''Intermediate Training''}'
+      - '{''id'': 3, ''label'': ''Advanced Training''}'
+      required: false
+    - id: 9
+      name: select_multiple_courses
+      label: Select Multiple Courses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Basic Training''}'
+      - '{''id'': 2, ''label'': ''Intermediate Training''}'
+      - '{''id'': 3, ''label'': ''Advanced Training''}'
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: course_enrollment_request
+      label: Course Enrollment Request
+      hint: null
+      type: text
+      options: []
+      required: false

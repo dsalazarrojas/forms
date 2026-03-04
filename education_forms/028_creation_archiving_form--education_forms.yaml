@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creation Archiving Form
+    pages:
+    - id: 1
+      name: creation_archiving_form_creation_date
+      label: Creation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: creation_archiving_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: creation_archiving_form_creator
+      label: Creator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: creation_archiving_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Art
+      - Science
+      - Other
+      required: false
+    - id: 5
+      name: creation_archiving_form_keywords
+      label: Keywords
+      hint: null
+      type: select_multiple
+      options:
+      - Art
+      - Science
+      - Technology
+      - Other
+      required: false
+    - id: 6
+      name: creation_archiving_form_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Art
+      - Science
+      - Technology
+      - Other
+      required: false
+    - id: 7
+      name: creation_archiving_form_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: creation_archiving_form_video
+      label: Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: creation_archiving_form_audio
+      label: Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: creation_archiving_form_document
+      label: Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: creation_archiving_form_additional_file
+      label: Additional file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: creation_archiving_form_additional_file_type
+      label: Additional File Type
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - mp3
+      - mp4
+      - image
+      required: false
+    - id: 13
+      name: creation_archiving_form_archivist
+      label: Archivist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: creation_archiving_form_archivist_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: creation_archiving_form_archivist_email
+      label: Archivist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: creation_archiving_form_archivist_phone
+      label: Archivist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: creation_archiving_form_archivist_notes
+      label: Archivist Notes
+      hint: null
+      type: note
+      options: []
+      required: false

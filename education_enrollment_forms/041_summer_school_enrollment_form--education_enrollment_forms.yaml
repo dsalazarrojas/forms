@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer School Enrollment Form
+    pages:
+    - id: 1
+      name: summer_school_enrollment_form_student_name
+      label: Summer School Enrollment Form Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summer_school_enrollment_form_parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: summer_school_enrollment_form_student_email
+      label: Summer School Enrollment Form Student Email
+      hint: 'Example: johndoe@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: summer_school_enrollment_form_student_email_2
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: summer_school_enrollment_form_student_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: summer_school_enrollment_form_parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: summer_school_enrollment_form_student_birth_date
+      label: Student Birth Date
+      hint: 'Format: MM/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: summer_school_enrollment_form_parent_birth_date
+      label: Parent/Guardian Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: summer_school_enrollment_form_grade_level
+      label: Grade Level
+      hint: 'Select one: 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th'
+      type: select_one
+      options:
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      required: false
+    - id: 10
+      name: summer_school_enrollment_form_course_choices
+      label: Course Choices
+      hint: Select multiple courses
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - English
+      - History
+      - Music
+      - PE
+      required: false
+    - id: 11
+      name: summer_school_enrollment_form_program_choices
+      label: Program Choices
+      hint: Select multiple programs
+      type: select_multiple
+      options:
+      - Summer Reading Program
+      - Art Program
+      - Sports Camp
+      - STEM
+      - Leadership
+      - Community Service
+      required: false
+    - id: 12
+      name: summer_school_enrollment_form_summer_program_dates
+      label: Summer Program Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: summer_school_enrollment_form_student_availability
+      label: Student Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: summer_school_enrollment_form_parent_availability
+      label: Parent/Guardian Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: summer_school_enrollment_form_student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: summer_school_enrollment_form_parent_comments
+      label: Parent/Guardian Comments
+      hint: null
+      type: text
+      options: []
+      required: false

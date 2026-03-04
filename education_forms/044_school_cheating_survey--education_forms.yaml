@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Cheating Survey
+    pages:
+    - id: 1
+      name: school_cheating_survey
+      label: Do you cheat in school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_attitude_towards_cheating
+      label: What is your attitude towards cheating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always cheat''}'
+      - '{''label'': ''Never cheat''}'
+      - '{''label'': ''Sometimes cheat''}'
+      required: false
+    - id: 3
+      name: teacher_support
+      label: Do teachers support cheating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: school_environment
+      label: How does the school environment influence cheating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: peers_influence_cheating
+      label: Do your peers influence your cheating behavior
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Weak''}'
+      - '{''label'': ''No influence''}'
+      required: false
+    - id: 6
+      name: parents_support_cheating
+      label: Do your parents influence you to cheat
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Weak''}'
+      - '{''label'': ''No influence''}'
+      required: false
+    - id: 7
+      name: school_rules
+      label: Are there clear rules against cheating in school
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: student_consequences
+      label: What are the consequences for cheating in school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_support_proofs
+      label: How would you rate your teachers' support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: parent_involvement
+      label: How involved are your parents in your school life
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very involved''}'
+      - '{''label'': ''Somewhat involved''}'
+      - '{''label'': ''Not involved''}'
+      required: false
+    - id: 11
+      name: school_resources
+      label: Are there enough resources available in the school
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: student_support_proofs
+      label: Do you get support from your parents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Weak''}'
+      - '{''label'': ''No support''}'
+      required: false
+    - id: 13
+      name: school_climate
+      label: How would you rate the school climate
+      hint: null
+      type: number
+      options: []
+      required: false

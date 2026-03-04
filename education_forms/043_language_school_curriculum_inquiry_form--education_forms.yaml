@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language School Curriculum Inquiry Form
+    pages:
+    - id: 1
+      name: language_school_curriculum_inquiry_form
+      label: Language School Curriculum Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language_school_name
+      label: Language School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: language_level
+      label: Language Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Proficient
+      required: false
+    - id: 4
+      name: language_inquiry_type
+      label: Language Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - General Information
+      - Admission
+      - Enrollment
+      required: true
+    - id: 5
+      name: language_programs_of_interest
+      label: Language Programs of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - French
+      - Spanish
+      - Mandarin Chinese
+      - English
+      required: false
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_date_start
+      label: Program Date Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: program_date_end
+      label: Program Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: language_school_address
+      label: Language School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false

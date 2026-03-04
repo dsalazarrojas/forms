@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Writer Consultation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: writer_support_preferences
+      label: Writer Support Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: writer_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: writer_agreement
+      label: Writer Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: writer_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: writer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: writer_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: writer_employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: writer_edu
+      label: Education
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: writer_experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: writer_availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: writer_special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: writer_manager
+      label: Writer Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: writer_references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weathering And Erosion Assessment
+    pages:
+    - id: 1
+      name: site_conditions
+      label: Site Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weathering_observation
+      label: Weathering Observation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: erosion_observation
+      label: Erosion Observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: educational_material
+      label: Educational Material
+      hint: null
+      type: select_multiple
+      options:
+      - Materials Used
+      - Methods Used
+      - Locations
+      - Other
+      required: true
+    - id: 6
+      name: educational_objectives
+      label: Educational Objectives
+      hint: null
+      type: select_one
+      options:
+      - To document site conditions
+      - To record observations
+      - To plan actions
+      - Other
+      required: true
+    - id: 7
+      name: environmental_impact
+      label: Environmental Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: recommended_action_plan
+      label: Recommended Action Plan
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 9
+      name: educational_outcome
+      label: Educational Outcome
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false

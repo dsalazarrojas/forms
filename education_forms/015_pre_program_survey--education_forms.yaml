@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Program Survey
+    pages:
+    - id: 1
+      name: program_interested
+      label: What are you interested in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_length
+      label: Program length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_level
+      label: Program level
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma
+      - Associate's Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Other (Specify)
+      required: false
+    - id: 4
+      name: program_length_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: program_start_date
+      label: Program start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: program_start_time
+      label: Program start time
+      hint: null
+      type: time
+      options: []
+      required: false

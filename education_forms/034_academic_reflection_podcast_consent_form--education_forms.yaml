@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Reflection Podcast Consent Form
+    pages:
+    - id: 1
+      name: podcast_consent_intro
+      label: Academic Reflection Podcast Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: Full name of the person giving consent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: Contact email for the participant
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_institution
+      label: Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: podcast_title
+      label: Podcast Title
+      hint: Title of the academic reflection podcast
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: podcast_topic
+      label: Podcast Topic
+      hint: Main topic or theme of the podcast episode
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recording_date
+      label: Recording Date
+      hint: Date when the podcast recording will take place
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: consent_to_participate
+      label: Consent to Participate
+      hint: Do you consent to participate in the academic reflection podcast?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with conditions", "No, I do not consent"]
+      required: true
+    - id: 9
+      name: consent_to_recording
+      label: Consent to Recording
+      hint: Do you consent to having your voice/image recorded for the podcast?
+      type: select_one
+      options: ["Yes, I consent", "Yes, audio only", "Yes, with restrictions", "No, I do not consent"]
+      required: true
+    - id: 10
+      name: consent_to_distribution
+      label: Consent to Distribution
+      hint: Do you consent to the podcast being distributed to others?
+      type: select_one
+      options: ["Yes, for educational purposes", "Yes, with restrictions", "No, only for course participants", "No, I do not consent"]
+      required: true
+    - id: 11
+      name: consent_to_publication
+      label: Consent to Publication
+      hint: Do you consent to the podcast being published online?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with editorial review", "No, not for publication", "Conditional on anonymity"]
+      required: true
+    - id: 12
+      name: podcast_purpose
+      label: Purpose of Podcast
+      hint: What is the intended purpose of the podcast?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: access_restriction_preferences
+      label: Access Restriction Preferences
+      hint: How should access to the podcast be restricted?
+      type: select_one
+      options: ["Open to public", "Restricted to institution", "Limited to course participants", "Private to session attendees", "Other restrictions"]
+      required: true
+    - id: 14
+      name: recording_retention_period
+      label: Recording Retention Period
+      hint: How long should recordings be retained?
+      type: select_one
+      options: ["One semester", "One academic year", "Three years", "Permanent", "Until I request removal"]
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: Do you have any special requests regarding the podcast recording?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: withdrawal_rights_acknowledged
+      label: Withdrawal Rights Acknowledged
+      hint: Do you understand you can withdraw consent at any time?
+      type: select_one
+      options: ["Yes, I understand", "No, need clarification"]
+      required: true
+    - id: 17
+      name: participant_signature
+      label: Participant Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Histogram Quiz
+    pages:
+    - id: 1
+      name: student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 4
+      name: class_section
+      label: Class Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quiz_date
+      label: Quiz Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: histogram_basics
+      label: -- Histogram Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_1
+      label: What is a histogram
+      hint: Choose the best answer
+      type: select_one
+      options:
+      - A graph showing data in bars grouped by intervals
+      - A graph showing data points as dots
+      - A circular graph divided into sections
+      - A line graph showing change over time
+      required: true
+    - id: 9
+      name: question_2
+      label: What does the height of a bar in a histogram represent
+      hint: null
+      type: select_one
+      options:
+      - The frequency or count of data in that interval
+      - The highest value in the dataset
+      - The width of the interval
+      - The average value
+      required: true
+    - id: 10
+      name: question_3
+      label: What is the difference between a bar graph and a histogram
+      hint: null
+      type: select_one
+      options:
+      - Histograms use intervals and show continuous data, bar graphs show categorical
+        data
+      - There is no difference
+      - Histograms are always colored
+      - Bar graphs use intervals
+      required: true
+    - id: 11
+      name: data_interpretation
+      label: -- Data Interpretation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question_4
+      label: Looking at a histogram, how do you find the most common interval
+      hint: null
+      type: select_one
+      options:
+      - Find the tallest bar
+      - Find the smallest bar
+      - Find the middle bar
+      - Add all the heights
+      required: true
+    - id: 13
+      name: question_5
+      label: If a histogram shows student test scores, what does each interval represent
+      hint: null
+      type: select_one
+      options:
+      - A range of scores, like 70-79 or 80-89
+      - A single score
+      - The average score
+      - The highest possible score
+      required: true
+    - id: 14
+      name: question_6
+      label: How many students scored between 80-89 if the bar height is 7
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: real_world_application
+      label: -- Real-World Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: question_7
+      label: Which of these would be best shown in a histogram
+      hint: null
+      type: select_one
+      options:
+      - The heights of students in a class
+      - The favorite color of each student
+      - The number of pets each student has
+      - The name of each student
+      required: true
+    - id: 17
+      name: question_8
+      label: A histogram shows daily temperature readings. What information does it
+        best show
+      hint: null
+      type: select_one
+      options:
+      - How often certain temperature ranges occur
+      - The exact temperature at each hour
+      - The average temperature
+      - Whether it is hot or cold
+      required: true
+    - id: 18
+      name: analysis_skills
+      label: -- Analysis Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: question_9
+      label: If a histogram has two bars of equal height, what does that tell you
+      hint: null
+      type: select_one
+      options:
+      - Those two intervals have the same frequency
+      - Both intervals represent the same data
+      - One histogram is incorrect
+      - The data is not valid
+      required: true
+    - id: 20
+      name: question_10
+      label: How would a histogram change if more data from one interval was added
+      hint: null
+      type: select_one
+      options:
+      - The bar for that interval would be taller
+      - The bar for that interval would be shorter
+      - All bars would be taller
+      - The histogram would not change
+      required: true
+    - id: 21
+      name: confidence_level
+      label: -- Self-Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: confidence
+      label: How confident are you in understanding histograms
+      hint: Rate 1 (not confident) to 5 (very confident)
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: difficult_parts
+      label: What parts of histograms do you find most difficult
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: need_more_help
+      label: Do you need more help understanding histograms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Somewhat
+      required: false
+    - id: 25
+      name: quiz_submission
+      label: I have completed this quiz
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

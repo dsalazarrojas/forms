@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Biographical Form
+    pages:
+    - id: 1
+      name: form_intro
+      label: -- Child Biographical Form --
+      hint: Personal and medical information for school records
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_first_name
+      label: Child's first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child's last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: place_of_birth
+      label: Place of birth (city, state, country)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: citizenship_status
+      label: Citizenship status
+      hint: null
+      type: select_one
+      options:
+      - Citizen
+      - Permanent resident
+      - Visa holder
+      - Other
+      required: false
+    - id: 8
+      name: primary_language
+      label: Primary language spoken at home
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_1_name
+      label: Parent or guardian 1 name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_1_relationship
+      label: Relationship to child
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      required: true
+    - id: 11
+      name: parent_1_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_1_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: parent_2_name
+      label: Parent or guardian 2 name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: parent_2_relationship
+      label: Relationship to child
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Other
+      - Not applicable
+      required: false
+    - id: 15
+      name: parent_2_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relationship
+      label: Relationship to child
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: health_insurance_provider
+      label: Health insurance provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_number
+      label: Policy number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: allergies
+      label: Allergies (food, medication, environmental)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medications
+      label: Current medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: chronic_conditions
+      label: Chronic medical conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_needs_accommodations
+      label: Special needs or accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: immunization_status
+      label: Immunization status
+      hint: null
+      type: select_one
+      options:
+      - Up to date
+      - Partially complete
+      - Not started
+      - Medical exemption
+      - Other exemption
+      required: true
+    - id: 26
+      name: recent_illness_exposure
+      label: Recent illness or exposure to illness
+      hint: null
+      type: text
+      options: []
+      required: false

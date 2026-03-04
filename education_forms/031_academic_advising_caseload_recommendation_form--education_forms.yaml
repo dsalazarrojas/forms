@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Advising Caseload Recommendation Form
+    pages:
+    - id: 1
+      name: section_header_advisor_info
+      label: -- Advisor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisor_name
+      label: Advisor full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: advisor_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department_or_college
+      label: Department or college
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: advisor_role
+      label: Advising role
+      hint: null
+      type: select_one
+      options:
+      - Full-time academic advisor
+      - Part-time academic advisor
+      - Faculty advisor
+      - Peer advisor
+      - Other
+      required: true
+    - id: 6
+      name: years_advising
+      label: Years of advising experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - More than 10 years
+      required: true
+    - id: 7
+      name: section_header_current_caseload
+      label: -- Current Caseload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_caseload_size
+      label: Current number of students in your caseload
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: student_population_types
+      label: Types of students you primarily advise
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Freshmen
+      - Sophomores
+      - Juniors and seniors
+      - Transfer students
+      - Graduate students
+      - At-risk or probationary students
+      required: true
+    - id: 10
+      name: average_meetings_per_week
+      label: Average number of advising meetings per week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: current_workload_rating
+      label: How would you rate your current workload
+      hint: null
+      type: select_one
+      options:
+      - Manageable
+      - Somewhat heavy
+      - Heavy
+      - Overwhelming
+      required: true
+    - id: 12
+      name: section_header_recommendation
+      label: -- Caseload Recommendation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: recommended_caseload
+      label: Recommended ideal caseload size
+      hint: Number of students you believe would allow for effective advising
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: recommendation_rationale
+      label: Rationale for your recommended caseload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: additional_support_needed
+      label: What additional support would help you manage your caseload
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Additional advising staff
+      - Better technology and tools
+      - More training or professional development
+      - Reduced administrative duties
+      - Peer advisor support
+      - Other
+      required: false
+    - id: 16
+      name: impact_on_students
+      label: How does caseload size impact the quality of advising you provide
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

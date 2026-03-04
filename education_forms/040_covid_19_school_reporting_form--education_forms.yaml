@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 School Reporting Form
+    pages:
+    - id: 1
+      name: school_name_val
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: district_name_text
+      label: School District
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_officer_name
+      label: Reporting Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_date_val
+      label: Date of Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: total_students_count
+      label: Total Student Population
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: students_vax_full
+      label: Number of Fully Vaccinated Students
+      hint: Completed all doses in primary series
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: students_vax_part
+      label: Number of Partially Vaccinated Students
+      hint: Received at least one dose
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_staff_count
+      label: Total Staff Population
+      hint: Teachers, admin, and support staff
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: staff_vax_full
+      label: Number of Fully Vaccinated Staff
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vax_calc_note
+      label: -- Vaccination Metrics --
+      hint: Data will be used for district-wide health monitoring
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: new_cases_count
+      label: New Positive COVID-19 Cases this Week
+      hint: Total for students and staff
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quarantine_count
+      label: Current Number of Individuals in Quarantine
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: health_dept_notif_yn
+      label: Local Health Department has been notified of all new cases
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 14
+      name: school_reporting_cert
+      label: I certify the above data is accurate and reflects current school records
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I certify
+      required: true

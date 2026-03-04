@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Approval Form
+    pages:
+    - id: 1
+      name: course_approval_form_course_details
+      label: Course Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_approval_form_approvals
+      label: Approvals
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''admin_approvals'', ''label'': ''Admin Approvals''}'
+      - '{''value'': ''external_approvals'', ''label'': ''External Approvals''}'
+      required: true
+    - id: 3
+      name: course_approval_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: course_approval_form_course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_approval_form_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: course_approval_form_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: course_approval_form_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      required: true
+    - id: 8
+      name: course_approval_form_course_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: course_approval_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: course_approval_form_external_url
+      label: External URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: course_approval_form_uploads
+      label: Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: course_approval_form_attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_approval_form_approver
+      label: Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_approval_form_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_approval_form_section
+      label: Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: course_approval_form_room
+      label: Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: course_approval_form_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: course_approval_form_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: course_approval_form_total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: course_approval_form_employees
+      label: Employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course_approval_form_students
+      label: Students
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: course_approval_form_faculty
+      label: Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: course_approval_form_external_url_label
+      label: External URL Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: course_approval_form_course_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: course_approval_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

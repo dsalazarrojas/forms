@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Student Welcome Event Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: school_id
+      label: School ID
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: select_multiple
+      options:
+      - '12345'
+      - '67890'
+      - '11111'
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_description
+      label: Event Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      required: true
+    - id: 14
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: true

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Completion Check Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: ID number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_name
+      label: Class Name
+      hint: Course title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: Instructor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: check_date
+      label: Check Date
+      hint: Date of check
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: assignment_title
+      label: Assignment Title
+      hint: Name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assignment_id
+      label: Assignment ID
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_date
+      label: Date Assigned
+      hint: When given
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: due_date
+      label: Due Date
+      hint: When due
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: completion_status
+      label: Completion Status
+      hint: Current state
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      - Submitted for Review
+      - Returned for Revision
+      required: true
+    - id: 11
+      name: percent_complete
+      label: Percentage Complete
+      hint: How much done
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: submitted_date
+      label: Date Submitted
+      hint: When turned in
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submission_method
+      label: Submission Method
+      hint: How submitted
+      type: select_one
+      options:
+      - Online Upload
+      - Email
+      - In Person
+      - Mail
+      - Learning Platform
+      required: false
+    - id: 14
+      name: all_parts_completed
+      label: Are All Parts Completed
+      hint: Full completion
+      type: select_one
+      options:
+      - Yes - All Parts Done
+      - No - Some Parts Missing
+      - Not Applicable
+      required: true
+    - id: 15
+      name: missing_parts
+      label: Missing Parts Description
+      hint: What is missing
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meets_requirements
+      label: Does It Meet Requirements
+      hint: All criteria met
+      type: select_one
+      options:
+      - Yes - Fully
+      - Partially
+      - 'No'
+      required: true
+    - id: 17
+      name: quality_check
+      label: Quality Check Status
+      hint: Review status
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 18
+      name: formatting_correct
+      label: Is Formatting Correct
+      hint: Follows guidelines
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: word_count_met
+      label: Is Word Count Met
+      hint: Length requirement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 20
+      name: citations_complete
+      label: Are Citations Complete
+      hint: References listed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 21
+      name: teacher_comments
+      label: Teacher Comments
+      hint: Feedback
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: revision_needed
+      label: Is Revision Needed
+      hint: Needs rework
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: revision_due_date
+      label: Revision Due Date
+      hint: When to resubmit
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: grade_assigned
+      label: Grade Assigned
+      hint: If graded
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: teacher_signature
+      label: Teacher Signature
+      hint: Type name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: student_acknowledgment
+      label: Student Acknowledges Status
+      hint: Student confirms
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

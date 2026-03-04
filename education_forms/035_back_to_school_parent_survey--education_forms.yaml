@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back To School Parent Survey
+    pages:
+    - id: 1
+      name: parent_survey_intro
+      label: -- Back-to-School Parent Feedback Survey --
+      hint: Share your thoughts on the upcoming school year and your child's needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name_survey
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name_grade_survey
+      label: Child's Name and Grade Level
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: distance_learning_experience
+      label: Rate your experience with distance learning last semester
+      hint: 1 = Very Poor, 5 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reopening_concerns
+      label: What are your primary concerns about schools reopening?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Health and Safety Protocols
+      - Academic Gaps/Learning Loss
+      - Child's Social-Emotional Well-being
+      - Logistics and Scheduling
+      - Transportation
+      - Quality of Instruction
+      required: true
+    - id: 6
+      name: preferred_learning_model_parent
+      label: Which learning model do you prefer for your child?
+      hint: null
+      type: select_one
+      options:
+      - Full In-Person (100% at school)
+      - Hybrid (Part school, part home)
+      - Full Remote (100% at home)
+      required: true
+    - id: 7
+      name: technology_access_home
+      label: Does your child have reliable internet and a device at home?
+      hint: null
+      type: select_one
+      options:
+      - Yes, both
+      - Internet only
+      - Device only
+      - Neither
+      required: true
+    - id: 8
+      name: school_supply_assistance
+      label: Does your family need assistance with school supplies or uniforms?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: emotional_wellbeing_rating
+      label: How would you rate your child's current emotional well-being?
+      hint: 1 = Struggling, 5 = Thriving
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: support_needed_from_school
+      label: What specific support could the school provide to help your family?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: childcare_needs_after_school
+      label: Will you require after-school childcare this year?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: communication_preference_school
+      label: Preferred way for the school to communicate with you
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - Mobile App (e.g., Bloomz, Remind)
+      required: true
+    - id: 13
+      name: additional_thoughts_survey
+      label: Any other information we should know as we plan for the new year?
+      hint: null
+      type: text
+      options: []
+      required: false

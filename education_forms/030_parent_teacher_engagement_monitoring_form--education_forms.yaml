@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: parent-teacher-engagement-monitoring-form
+    pages:
+    - id: 1
+      name: parent_teacher_engagement_monitoring_form_parent_information
+      label: parent-teacher-engagement-monitoring-form-parent-information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_teacher_engagement_monitoring_form_communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very-often''}'
+      - '{''value'': ''often''}'
+      - '{''value'': ''rarely''}'
+      - '{''value'': ''never''}'
+      required: false
+    - id: 3
+      name: parent_teacher_engagement_monitoring_form_involvement
+      label: involvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very-high''}'
+      - '{''value'': ''high''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''low''}'
+      required: true
+    - id: 4
+      name: parent_teacher_engagement_monitoring_form_engagement
+      label: engagement
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very-often''}'
+      - '{''value'': ''often''}'
+      - '{''value'': ''rarely''}'
+      - '{''value'': ''never''}'
+      required: true
+    - id: 5
+      name: parent_teacher_engagement_monitoring_form_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: parent_teacher_engagement_monitoring_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: parent_teacher_engagement_monitoring_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_teacher_engagement_monitoring_form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

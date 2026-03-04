@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: play_school_admission_form
+    pages:
+    - id: 1
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - first
+      - second
+      - third
+      - fourth
+      required: true
+    - id: 7
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false

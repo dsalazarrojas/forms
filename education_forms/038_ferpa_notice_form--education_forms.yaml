@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: ferpa_notice_form
+    pages:
+    - id: 1
+      name: ferpa_consent
+      label: ferpa_consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: record_view
+      label: records_and_data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: purpose
+      label: different_purposes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tool_use
+      label: opened_on
+      hint: null
+      type: select_one
+      options:
+      - laptop
+      - smartphone
+      - tablet
+      required: false
+    - id: 5
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ferpa_consent_2
+      label: ferpa_consent_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Counselor Information Form
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_method
+      label: Contact Method
+      hint: Select one method
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Text''}'
+      required: false
+    - id: 3
+      name: contact_method_2
+      label: Contact Method 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Text''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: User's email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: User's phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_grade
+      label: Student Grade
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 9}'
+      - '{''id'': 2, ''label'': 10}'
+      - '{''id'': 3, ''label'': 11}'
+      - '{''id'': 4, ''label'': 12}'
+      - '{''id'': 5, ''label'': 1}'
+      - '{''id'': 6, ''label'': 2}'
+      - '{''id'': 7, ''label'': 3}'
+      - '{''id'': 8, ''label'': 4}'
+      - '{''id'': 9, ''label'': 5}'
+      - '{''id'': 10, ''label'': 6}'
+      - '{''id'': 11, ''label'': 7}'
+      - '{''id'': 12, ''label'': 8}'
+      - '{''id'': 13, ''label'': 9}'
+      - '{''id'': 14, ''label'': 10}'
+      - '{''id'': 15, ''label'': 11}'
+      - '{''id'': 16, ''label'': 12}'
+      - '{''id'': 17, ''label'': 13}'
+      - '{''id'': 18, ''label'': 14}'
+      - '{''id'': 19, ''label'': 15}'
+      - '{''id'': 20, ''label'': 16}'
+      - '{''id'': 21, ''label'': 17}'
+      - '{''id'': 22, ''label'': 18}'
+      - '{''id'': 23, ''label'': 19}'
+      - '{''id'': 24, ''label'': 20}'
+      - '{''id'': 25, ''label'': 21}'
+      required: false
+    - id: 9
+      name: user_type
+      label: User Type
+      hint: Select one type
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Student''}'
+      - '{''id'': 2, ''label'': ''Parent''}'
+      - '{''id'': 3, ''label'': ''Teacher''}'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Teacher''}'
+      - '{''id'': 2, ''label'': ''Teacher 1''}'
+      - '{''id'': 3, ''label'': ''Teacher 2''}'
+      required: false
+    - id: 12
+      name: assigned_to_2
+      label: Assigned To 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Teacher''}'
+      - '{''id'': 2, ''label'': ''Teacher 1''}'
+      - '{''id'': 3, ''label'': ''Teacher 2''}'
+      required: false
+    - id: 13
+      name: submitted_on
+      label: Submitted On
+      hint: Date submitted
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_2
+      label: Submitted By 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Smith''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 16
+      name: submitted_by_3
+      label: Submitted By 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John Smith''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: false
+    - id: 17
+      name: submitted_on_2
+      label: Submitted On 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitted_on_3
+      label: Submitted On 3
+      hint: null
+      type: date
+      options: []
+      required: false

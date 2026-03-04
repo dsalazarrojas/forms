@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signal Words Assessment
+    pages:
+    - id: 1
+      name: form_title
+      label: signal_words_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: signal_words_assessed
+      label: signal_words_assessed
+      hint: null
+      type: select_multiple
+      options:
+      - acknowledge
+      - recognise
+      - recall
+      - infer
+      - interpret
+      - generalise
+      - predict
+      - reorganise
+      - speculate
+      required: false
+    - id: 4
+      name: reading_transitions
+      label: reading_transitions
+      hint: null
+      type: select_multiple
+      options:
+      - read aloud
+      - text only
+      - text and image
+      - text and diagram
+      - text and chart/graph
+      - text and table
+      - text and formula
+      required: false
+    - id: 5
+      name: reading_speed
+      label: reading_speed
+      hint: Please enter your reading speed in words per minute (wpm)
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reading_level
+      label: reading_level
+      hint: null
+      type: select_one
+      options:
+      - A2
+      - B1
+      - B2
+      - C1
+      - C2
+      - C1+
+      required: false
+    - id: 7
+      name: reading_accuracy
+      label: reading_accuracy
+      hint: Enter your reading accuracy as a percentage
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reading_comprehension
+      label: reading_comprehension
+      hint: How well do you understand the text?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reading_focus
+      label: reading_focus
+      hint: null
+      type: select_multiple
+      options:
+      - main idea
+      - supporting idea
+      - other
+      required: false
+    - id: 10
+      name: reading_difficulty
+      label: reading_difficulty
+      hint: null
+      type: select_multiple
+      options:
+      - easy
+      - moderately difficult
+      - very difficult
+      required: false

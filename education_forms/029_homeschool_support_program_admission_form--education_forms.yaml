@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeschool Support Program Admission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Homeschool
+      - Virtual
+      - Hybrid
+      required: false
+    - id: 6
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Preschool
+      - Elementary
+      - Middle School
+      - High School
+      required: false
+    - id: 7
+      name: student_ages
+      label: Student Ages
+      hint: null
+      type: select_multiple
+      options:
+      - 5-10
+      - 11-14
+      - 15-18
+      required: false
+    - id: 8
+      name: educational_goals
+      label: Educational Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: educational_background
+      label: Educational Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parental_involvement
+      label: Parental Involvement
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 11
+      name: special_needs
+      label: Special Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_relationship
+      label: Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 16
+      name: contact_message
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: program_start_time
+      label: Program Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: program_end_time
+      label: Program End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: program_frequency
+      label: Program Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 21
+      name: program_days
+      label: Program Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 22
+      name: program_schedule
+      label: Program Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: program_cost
+      label: Program Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: program_cost_details
+      label: Program Cost Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

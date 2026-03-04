@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Information Packet Request
+    pages:
+    - id: 1
+      name: requester_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: current_school
+      label: Current High School or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: graduation_year
+      label: High School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate Programs
+      - Graduate Programs
+      - Specific Major Information
+      - Financial Aid Information
+      - Admissions Process
+      - Campus Tour Information
+      - General Information
+      - Other
+      required: true
+    - id: 9
+      name: academic_interests
+      label: Academic Interests or Intended Major
+      hint: What are you interested in studying
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Associate Degree
+      - Master's Degree
+      - Doctoral Program
+      - Certificate
+      - Undecided
+      required: true
+    - id: 11
+      name: enrollment_timeline
+      label: Planned Enrollment Timeline
+      hint: When do you plan to enroll
+      type: select_one
+      options:
+      - Next Fall
+      - Next Spring
+      - Following Year
+      - Undecided
+      required: true
+    - id: 12
+      name: citizenship_status
+      label: Citizenship Status
+      hint: null
+      type: select_one
+      options:
+      - U.S. Citizen
+      - International Student
+      - Green Card Holder
+      - Other
+      required: true
+    - id: 13
+      name: country_origin
+      label: Country of Origin
+      hint: If international student
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: state_origin
+      label: State or Region
+      hint: If U.S. student
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: campus_visit_interested
+      label: Interested in Scheduling Campus Visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 16
+      name: preferred_visit_date
+      label: Preferred Campus Visit Date
+      hint: If interested
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: financial_aid_interested
+      label: Interested in Financial Aid Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: scholarship_interested
+      label: Interested in Scholarship Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: how_heard_about_us
+      label: How Did You Hear About Our College
+      hint: null
+      type: select_multiple
+      options:
+      - Website
+      - Social Media
+      - Search Engine
+      - School Counselor
+      - College Fair
+      - Word of Mouth
+      - Advertisement
+      - Other
+      required: true
+    - id: 20
+      name: mailing_preference
+      label: Mailing Address for Information Packet
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: mailing_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mailing_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: mailing_zip
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: additional_information
+      label: Additional Information or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

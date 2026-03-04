@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: summit_student_application_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Enter student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_grade
+      label: student grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: student_course
+      label: student course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_degree
+      label: degree
+      hint: null
+      type: select_one
+      options:
+      - degree1
+      - degree2
+      - degree3
+      required: false
+    - id: 9
+      name: student_start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: student_end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: student_status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 12
+      name: student_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

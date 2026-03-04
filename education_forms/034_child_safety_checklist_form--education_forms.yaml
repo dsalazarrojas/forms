@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Safety Checklist Form
+    pages:
+      - id: 1
+        name: section_environment_assessment
+        label: -- Environment Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: location_name
+        label: Location or Room Name
+        hint: e.g., Nursery, Playground, Living Room
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluation_date
+        label: Date of Evaluation
+        hint: Select date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: section_physical_hazards
+        label: -- Physical Hazards --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: outlet_covers
+        label: Outlet covers in place?
+        hint: Child-proof covers
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 6
+        name: furniture_anchored
+        label: Furniture anchored to walls?
+        hint: Prevents tip-overs
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 7
+        name: sharp_corners
+        label: Sharp corners protected?
+        hint: Edge guards or padding
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 8
+        name: section_toxins
+        label: -- Toxins and Hazards --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: cleaning_supplies_locked
+        label: Cleaning supplies locked away?
+        hint: Secure cabinets
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 10
+        name: medications_out_reach
+        label: Medications out of reach?
+        hint: High or locked storage
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 11
+        name: choking_hazards_removed
+        label: Choking hazards removed?
+        hint: Small items off floor
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 12
+        name: section_fire_safety
+        label: -- Fire and Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: smoke_detector_working
+        label: Working smoke detector present?
+        hint: Tested recently
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 14
+        name: first_aid_kit
+        label: First aid kit available?
+        hint: Fully stocked
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 15
+        name: section_outdoor_safety
+        label: -- Outdoor Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: gates_secured
+        label: Gates secured?
+        hint: Latched and working
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+          - label: Not Applicable
+            value: na
+        required: true
+      - id: 17
+        name: additional_concerns
+        label: Additional safety concerns observed
+        hint: List anything else found
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: overall_safety_rating
+        label: Overall Safety Rating
+        hint: Evaluator judgment
+        type: select_one
+        options:
+          - label: Safe Environment
+            value: safe
+          - label: Minor changes needed
+            value: minor
+          - label: Urgent action required
+            value: urgent
+        required: true

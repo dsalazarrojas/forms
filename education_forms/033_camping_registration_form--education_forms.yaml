@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camping Registration Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: section_guardian
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guardian_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: section_education
+      label: -- Education Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_grade
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - K
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      - 7th
+      - 8th
+      - 9th
+      - 10th
+      - 11th
+      - 12th
+      required: true
+    - id: 13
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: academic_performance
+      label: Academic Performance
+      hint: Overall academic standing
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      required: true
+    - id: 15
+      name: section_musical_talent
+      label: -- Musical Talent Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: musical_instrument
+      label: Primary Musical Instrument
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: years_of_experience
+      label: Years of Musical Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: music_skill_level
+      label: Music Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 19
+      name: special_talents
+      label: Other Special Talents or Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_health
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: allergies
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_consent
+      label: -- Parental Consent and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: consent_agreement
+      label: I give consent for participation in camping and educational activities
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true

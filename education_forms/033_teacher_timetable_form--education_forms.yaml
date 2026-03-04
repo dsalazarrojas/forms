@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Timetable Form
+    pages:
+    - id: 1
+      name: teacher_information
+      label: Teacher Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: teacher_surname
+      label: teacher_surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_email
+      label: teacher_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: teacher_phone
+      label: teacher_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: classroom_details
+      label: Classroom Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: class_name
+      label: class_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: class_start_time
+      label: class_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: class_end_time
+      label: class_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: timetable
+      label: Timetable
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: subject
+      label: subject
+      hint: null
+      type: text
+      options: []
+      required: false

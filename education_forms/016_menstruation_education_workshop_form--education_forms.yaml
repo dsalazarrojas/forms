@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menstruation Education Workshop Form
+    pages:
+    - id: 1
+      name: workshop_details
+      label: Workshop details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

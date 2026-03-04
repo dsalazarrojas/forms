@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bachelor Program Evaluation Form
+    pages:
+    - id: 1
+      name: evaluation_header
+      label: -- Bachelor Program Quality Evaluation --
+      hint: Help us improve our undergraduate offerings with your honest feedback
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_program_name
+      label: Bachelor Program Name
+      hint: e.g., BSc Computer Science, BA English
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_year_of_study
+      label: Current Year of Study
+      hint: null
+      type: select_one
+      options:
+      - Year 1
+      - Year 2
+      - Year 3
+      - Year 4
+      - Recent Graduate
+      required: true
+    - id: 4
+      name: curriculum_relevance_rating
+      label: Relevance of the curriculum to your career goals
+      hint: 1 = Not relevant, 5 = Highly relevant
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: teaching_quality_rating
+      label: Overall quality of instruction and teaching
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: academic_support_rating
+      label: Quality of academic support and advising
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: facilities_resources_rating
+      label: Quality of facilities and learning resources (Library, Labs)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: student_engagement_opportunities
+      label: Satisfaction with opportunities for student engagement
+      hint: e.g., Clubs, Research, Internships
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: empowerment_and_respect
+      label: I feel empowered and respected as a student in this program
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: program_environment_description
+      label: How would you describe the overall learning environment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: strengths_of_program
+      label: What are the greatest strengths of this program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: areas_for_improvement
+      label: What areas need the most improvement?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: recommend_program
+      label: Would you recommend this program to others?
+      hint: null
+      type: select_one
+      options:
+      - Yes, highly recommend
+      - Yes, with reservations
+      - false
+      required: true
+    - id: 14
+      name: additional_comments_student
+      label: Any other comments for the Dean or Program Director?
+      hint: null
+      type: text
+      options: []
+      required: false

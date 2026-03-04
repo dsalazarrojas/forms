@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Exam Study Plan Tracker
+    pages:
+    - id: 1
+      name: tracker_date
+      label: Tracking Date
+      hint: Date of this study plan update
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: bar_exam_date
+      label: Bar Exam Date
+      hint: When is your bar exam scheduled?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: weeks_until_exam
+      label: Weeks Until Exam
+      hint: How many weeks until test day?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: study_method
+      label: Primary Study Method
+      hint: How are you studying?
+      type: select_one
+      options:
+      - Bar Review Course
+      - Private Tutor
+      - Self-Study
+      - Study Group
+      - Combination Approach
+      required: true
+    - id: 7
+      name: review_course_name
+      label: Bar Review Course Name
+      hint: If using a course
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: weekly_study_hours
+      label: Planned Weekly Study Hours
+      hint: How many hours per week?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: subjects_to_study
+      label: Subjects to Focus On
+      hint: Select which subjects
+      type: select_multiple
+      options:
+      - Constitutional Law
+      - Civil Procedure
+      - Criminal Law
+      - Contracts
+      - Real Property
+      - Torts
+      - Evidence
+      - Professional Responsibility
+      - Other
+      required: true
+    - id: 10
+      name: weakest_subject
+      label: Weakest Subject Areas
+      hint: Where do you need most help?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: strongest_subject
+      label: Strongest Subject Areas
+      hint: Where are you confident?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: study_schedule
+      label: Study Schedule
+      hint: How are you organizing study time?
+      type: select_one
+      options:
+      - Morning Sessions
+      - Afternoon Sessions
+      - Evening Sessions
+      - Mixed Schedule
+      - Flexible Schedule
+      required: true
+    - id: 13
+      name: practice_test_frequency
+      label: Practice Test Frequency
+      hint: How often are you taking practice tests?
+      type: select_one
+      options:
+      - Daily
+      - Several Times Weekly
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: true
+    - id: 14
+      name: recent_practice_score
+      label: Most Recent Practice Test Score
+      hint: Your latest score
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: target_score
+      label: Target Score
+      hint: What score do you need to pass?
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: study_resources
+      label: Study Resources Using
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Textbooks
+      - Outlines
+      - Flashcards
+      - Online Practice
+      - Video Lessons
+      - Live Classes
+      - Study Groups
+      - Books
+      required: false
+    - id: 17
+      name: current_confidence
+      label: Current Confidence Level
+      hint: How confident are you?
+      type: select_one
+      options:
+      - Not Confident
+      - Somewhat Unconfident
+      - Neutral
+      - Somewhat Confident
+      - Very Confident
+      required: true
+    - id: 18
+      name: main_challenges
+      label: Main Study Challenges
+      hint: What is making studying difficult?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: study_group_members
+      label: Study Group Members
+      hint: If applicable, who is in your group?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: mental_health_support
+      label: Seeking Mental Health or Wellness Support?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Considering It
+      required: false
+    - id: 21
+      name: sleep_hours
+      label: Average Sleep Hours Per Night
+      hint: Are you getting adequate rest?
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: next_action_items
+      label: Next Action Items for This Week
+      hint: What will you focus on?
+      type: text
+      options: []
+      required: false

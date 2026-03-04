@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Children's FAQ Submission Form
+    pages:
+      - id: 1
+        name: student_information
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: grade_level
+        label: Grade Level
+        hint: null
+        type: select_one
+        options:
+          - "K"
+          - "1st"
+          - "2nd"
+          - "3rd"
+          - "4th"
+          - "5th"
+          - "6th"
+          - "7th"
+          - "8th"
+          - "9th"
+          - "10th"
+          - "11th"
+          - "12th"
+        required: true
+      - id: 4
+        name: email
+        label: Email Address
+        hint: Student or parent email
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: school_name
+        label: School Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: teacher_name
+        label: Teacher or Class Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: question_section
+        label: -- Question Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: question_category
+        label: Question Category
+        hint: What is your question about
+        type: select_one
+        options:
+          - "Science"
+          - "Math"
+          - "History"
+          - "Literature"
+          - "Social Studies"
+          - "Technology"
+          - "Health"
+          - "Art"
+          - "Music"
+          - "Physical Education"
+          - "General Knowledge"
+          - "Other"
+        required: true
+      - id: 9
+        name: question_topic
+        label: Specific Topic
+        hint: What specific topic does your question relate to
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: question_text
+        label: Your Question
+        hint: Please write your question clearly
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: question_urgency
+        label: How important is this question
+        hint: null
+        type: select_one
+        options:
+          - "High priority"
+          - "Medium priority"
+          - "Low priority"
+          - "Just curious"
+        required: false
+      - id: 12
+        name: context_section
+        label: -- Additional Context --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: related_assignment
+        label: Is this related to a school assignment
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 14
+        name: assignment_name
+        label: Assignment Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: already_researched
+        label: Have you already researched this question
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 16
+        name: research_info
+        label: What sources have you checked
+        hint: Books, websites, videos, etc.
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: background_knowledge
+        label: What do you already know about this topic
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: why_important
+        label: -- Why This Matters --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: question_importance
+        label: Why is this question important to you
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: expected_usage
+        label: How will you use the answer
+        hint: For school, personal interest, etc.
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: follow_up_section
+        label: -- Follow-up --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: want_detailed_answer
+        label: Would you like a detailed answer
+        hint: null
+        type: select_one
+        options:
+          - "Yes, detailed answer"
+          - "Yes, simple answer"
+          - "Either is fine"
+        required: false
+      - id: 23
+        name: response_preference
+        label: Preferred way to receive answer
+        hint: null
+        type: select_one
+        options:
+          - "Email"
+          - "In-person discussion"
+          - "Class presentation"
+          - "Online discussion"
+        required: false
+      - id: 24
+        name: anonymous_submission
+        label: Submit this question anonymously
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: false
+      - id: 25
+        name: submit_confirmation
+        label: I agree to submit this question
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Development Plan
+    pages:
+    - id: 1
+      name: training_development_plan_form
+      label: Training Development Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_plan_name
+      label: training-plan-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_plan_goal
+      label: Training Plan Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: training_plan_duration
+      label: Training Plan Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: training_plan_target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - All
+      required: false
+    - id: 6
+      name: training_plan_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_plan_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: training_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_plan_status
+      label: Training Plan Status
+      hint: Active if form is ready for use, Inactive if the form is not ready for
+        use, Draft if form is not approved
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Draft
+      required: false
+    - id: 10
+      name: training_plan_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: training_plan_owners
+      label: Plan Owners
+      hint: List of users who own the plan
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false

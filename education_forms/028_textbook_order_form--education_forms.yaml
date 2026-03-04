@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Textbook Order Form
+    pages:
+    - id: 1
+      name: order_form
+      label: Textbook Order
+      hint: Form used for online textbook orders
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_info
+      label: Store Info
+      hint: Enter store information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: textbook_info
+      label: Textbook Info
+      hint: Enter textbook information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_status
+      label: Order Status
+      hint: 'Order status: pending|processing|delivered'
+      type: select_one
+      options:
+      - pending
+      - processing
+      - delivered
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: order_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: coupon_code
+      label: Coupon Code
+      hint: Enter coupon code, if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_details
+      label: Order Details
+      hint: Additional order information
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_comments
+      label: Order Comments
+      hint: Any additional comments about the order
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: Student email address
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: store_address
+      label: Store Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_school
+      label: Student School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: textbook_price
+      label: Textbook Price
+      hint: Enter price of the textbook
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: textbook_quantity
+      label: Textbook Quantity
+      hint: Enter quantity of the textbook
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: textbook_image_url
+      label: Textbook Image URL
+      hint: Enter URL of the textbook image
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Square
+      required: false
+    - id: 21
+      name: payment_gateway_key
+      label: Payment Gateway Key
+      hint: Enter payment gateway key
+      type: text
+      options: []
+      required: false

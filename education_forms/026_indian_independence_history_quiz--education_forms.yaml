@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Indian Independence History Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Indian Independence History Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: organizer_name
+      label: Organizer Name
+      hint: Please provide your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: Who is the leader of the Indian National Congress?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Gandhi''}'
+      - '{''option2'': ''Nehru''}'
+      - '{''option3'': ''Patel''}'
+      required: true
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Online''}'
+      - '{''option2'': ''Offline''}'
+      - '{''option3'': ''Both''}'
+      required: true
+    - id: 8
+      name: question_2
+      label: What is the name of the Indian national animal?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Lion''}'
+      - '{''option2'': ''Tiger''}'
+      - '{''option3'': ''Elephant''}'
+      required: false
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question_3
+      label: When was Indian Independence celebrated?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question_4
+      label: What is the capital of India?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''New Delhi''}'
+      - '{''option2'': ''Mumbai''}'
+      - '{''option3'': ''Chennai''}'
+      required: true
+    - id: 13
+      name: participant_website
+      label: Participant Website
+      hint: null
+      type: text
+      options: []
+      required: false

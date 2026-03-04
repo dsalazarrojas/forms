@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Associate Application Form
+    pages:
+    - id: 1
+      name: research_associate_application_form
+      label: Research Associate Application
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_experience
+      label: Research Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relevant_courses
+      label: Relevant Courses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: expected_graduation_date
+      label: Expected Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: research_topics
+      label: Research Topics
+      hint: null
+      type: select_one
+      options:
+      - Machine Learning
+      - Data Science
+      - Computer Vision
+      - Natural Language Processing
+      required: true
+    - id: 12
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Machine Learning
+      - Data Science
+      - Computer Vision
+      - Natural Language Processing
+      required: false
+    - id: 13
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false

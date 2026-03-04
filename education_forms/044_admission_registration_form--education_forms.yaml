@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admission Registration Form
+    pages:
+    - id: 1
+      name: registration_header
+      label: -- Admission Registration Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Full Name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Email Address
+      hint: Valid email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_address
+      label: Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_state
+      label: State/Province
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_zip
+      label: ZIP/Postal Code
+      hint: Postal code of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: student_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: program_applying_for
+      label: Program Applying For
+      hint: What program are you applying for?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: degree_level
+      label: Degree Level
+      hint: What level of degree are you pursuing?
+      type: select_one
+      options:
+      - Certificate
+      - Diploma
+      - Associate
+      - Bachelor's
+      - Master's
+      - Doctorate
+      - Other
+      required: true
+    - id: 13
+      name: start_term
+      label: Start Term
+      hint: Which term do you wish to start?
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Winter
+      - Other
+      required: true
+    - id: 14
+      name: start_year
+      label: Start Year
+      hint: What year do you wish to start?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: education_background
+      label: Education Background
+      hint: Describe your educational background
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: previous_institution
+      label: Previous Institution
+      hint: Name of your previous educational institution
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gpa
+      label: GPA
+      hint: Your cumulative GPA
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: standardized_test_scores
+      label: Standardized Test Scores
+      hint: SAT, ACT, GRE, GMAT, or other test scores
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_experience
+      label: Work Experience
+      hint: Describe any relevant work experience
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: Describe any extracurricular activities
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: personal_statement
+      label: Personal Statement
+      hint: Write a personal statement about your goals
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: references
+      label: References
+      hint: Provide contact information for references
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: housing_request
+      label: Housing Request
+      hint: Do you require on-campus housing?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Undecided
+      required: false
+    - id: 27
+      name: financial_aid_status
+      label: Financial Aid Status
+      hint: What is your financial aid status?
+      type: select_one
+      options:
+      - Applied
+      - Awarded
+      - Declined
+      - Not Applying
+      - Pending
+      required: false
+    - id: 28
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Do you require any special accommodations?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: registration_date
+      label: Registration Date
+      hint: Date of submitting this registration
+      type: date
+      options: []
+      required: true
+    - id: 30
+      name: student_signature
+      label: Student Signature
+      hint: Electronic signature to confirm registration
+      type: text
+      options: []
+      required: true

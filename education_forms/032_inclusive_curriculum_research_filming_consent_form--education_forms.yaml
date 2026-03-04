@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Curriculum Research Filming Consent Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Participant 1''}'
+      - '{''id'': 2, ''label'': ''Participant 2''}'
+      - '{''id'': 3, ''label'': ''Participant 3''}'
+      required: false
+    - id: 3
+      name: filming_details
+      label: Filming Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: filming_location
+      label: Filming Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: camera_angle
+      label: Camera Angle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: camera_distance
+      label: Camera Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: researcher_contact
+      label: Resercher Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: consent_form_completed
+      label: Consent Form Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

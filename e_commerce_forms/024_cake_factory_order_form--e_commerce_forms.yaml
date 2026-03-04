@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Factory Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name for order
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: pickup_date
+      label: Pickup Date
+      hint: When do you need your cake
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: pickup_time
+      label: Pickup Time
+      hint: Preferred pickup time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: cake_flavor
+      label: Cake Flavor
+      hint: Choose your cake flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Marble
+      - Lemon
+      - Strawberry
+      - Carrot
+      - Coconut
+      - Chocolate Fudge
+      - Vanilla Bean
+      required: true
+    - id: 8
+      name: cake_size
+      label: Cake Size
+      hint: What size cake do you need
+      type: select_one
+      options:
+      - 6 inch round (serves 8-10)
+      - 8 inch round (serves 12-16)
+      - 10 inch round (serves 20-25)
+      - 12 inch round (serves 30-40)
+      - Quarter sheet (serves 15-20)
+      - Half sheet (serves 30-40)
+      - Full sheet (serves 60-80)
+      - Custom size
+      required: true
+    - id: 9
+      name: frosting_type
+      label: Frosting Type
+      hint: Choose your frosting
+      type: select_one
+      options:
+      - Buttercream
+      - Cream cheese
+      - Fondant
+      - Ganache
+      - Whipped cream
+      - Swiss meringue
+      - Italian meringue
+      required: true
+    - id: 10
+      name: frosting_flavor
+      label: Frosting Flavor
+      hint: Select frosting flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      - Cream cheese
+      - Lemon
+      - Mocha
+      - Caramel
+      - Raspberry
+      required: true
+    - id: 11
+      name: number_of_layers
+      label: Number of Layers
+      hint: How many layers
+      type: select_one
+      options:
+      - Single layer
+      - Two layers
+      - Three layers
+      - Four or more layers
+      required: false
+    - id: 12
+      name: filling_choice
+      label: Filling Choice
+      hint: Cake filling between layers
+      type: select_one
+      options:
+      - Same as frosting
+      - Fruit preserve
+      - Custard
+      - Mousse
+      - Ganache
+      - Buttercream
+      - No filling
+      required: false
+    - id: 13
+      name: design_style
+      label: Design Style
+      hint: What style of decoration
+      type: select_one
+      options:
+      - Simple and elegant
+      - Floral design
+      - Themed cake
+      - Photo cake
+      - Drip cake
+      - Geometric design
+      - Rustic design
+      - Custom design
+      required: true
+    - id: 14
+      name: cake_message
+      label: Cake Message
+      hint: Text to write on cake
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: color_scheme
+      label: Color Scheme
+      hint: Preferred colors for decoration
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: Any special dietary needs
+      type: select_one
+      options:
+      - None
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      - Sugar-free
+      - Egg-free
+      required: true
+    - id: 17
+      name: special_decorations
+      label: Special Decorations
+      hint: Describe any special decoration requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: occasion
+      label: Occasion
+      hint: What is this cake for
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Graduation
+      - Baby shower
+      - Bridal shower
+      - Corporate event
+      - Holiday
+      - Just because
+      - Other
+      required: true
+    - id: 19
+      name: quantity
+      label: Quantity
+      hint: How many cakes
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: delivery_option
+      label: Delivery Option
+      hint: How will you receive your cake
+      type: select_one
+      options:
+      - Pickup in store
+      - Local delivery
+      - Event delivery and setup
+      required: true
+    - id: 21
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery, provide address
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Gift card
+      required: true
+    - id: 23
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Custom cakes require 50 percent deposit
+      type: select_one
+      options:
+      - Yes, deposit included
+      - Will pay deposit later
+      - Not applicable
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about your order
+      type: text
+      options: []
+      required: false

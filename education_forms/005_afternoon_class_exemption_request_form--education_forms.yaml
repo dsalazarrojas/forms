@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afternoon Class Exemption Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Afternoon Class Exemption Request --
+      hint: Submit this request for formal exemption from afternoon curriculum
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: Enter numerical grade (e.g., 9)
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_header
+      label: -- Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exemption_type
+      label: Type of exemption requested
+      hint: select the category of exemption
+      type: select_one
+      options:
+      - Permanent (Full Semester)
+      - Temporary (Specific Dates)
+      - Recurring (Specific Days)
+      required: true
+    - id: 8
+      name: course_name
+      label: Course name for exemption
+      hint: Name of the afternoon class to be exempt from
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: duration_type
+      label: Duration of exemption
+      hint: null
+      type: select_one
+      options:
+      - One week
+      - One month
+      - Full term
+      - Custom range
+      required: true
+    - id: 10
+      name: start_date
+      label: Effective Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: end_date
+      label: Effective End Date (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: request_reason
+      label: Reason for request (e.g., medical, sports, work)
+      hint: Provide a brief explanation for the exemption
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supporting_docs
+      label: Supporting documents provided
+      hint: Indicate which files are being submitted
+      type: select_multiple
+      options:
+      - Medical Certificate
+      - Employer Letter
+      - Sports Academy Schedule
+      - Other legal document
+      required: false

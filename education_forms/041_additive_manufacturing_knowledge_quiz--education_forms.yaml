@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additive Manufacturing Knowledge Quiz
+    pages:
+    - id: 1
+      name: quiz_header
+      label: -- 3D Printing and Additive Manufacturing Quiz --
+      hint: Test your technical knowledge of modern manufacturing processes
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: knowledge_level_self
+      label: How would you rate your current AM knowledge?
+      hint: null
+      type: select_one
+      options:
+      - Beginner (Curious)
+      - Intermediate (Practitioner)
+      - Advanced (Specialist)
+      - Expert (Engineer/Researcher)
+      required: true
+    - id: 4
+      name: question_1
+      label: Which technology uses a laser to sinter powdered metal?
+      hint: Select the most accurate term
+      type: select_one
+      options:
+      - Fused Deposition Modeling (FDM)
+      - Selective Laser Sintering (SLS)
+      - Direct Metal Laser Sintering (DMLS)
+      - Stereolithography (SLA)
+      required: true
+    - id: 5
+      name: question_2
+      label: What does FDM stand for in additive manufacturing?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_3
+      label: True or False - SLA technology uses a liquid resin that is cured by UV
+        light
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: question_4
+      label: Which of these materials are commonly used in industrial AM?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Titanium Alloys
+      - Nylon (Polyamide)
+      - PLA (Polylactic Acid)
+      - Inconel
+      - PEEK
+      required: true
+    - id: 8
+      name: question_5
+      label: Identify a primary advantage of additive manufacturing over subtractive
+        methods
+      hint: null
+      type: select_one
+      options:
+      - Faster mass production of simple parts
+      - Ability to create complex internal geometries
+      - Lower material cost for all parts
+      - Better surface finish without post-processing
+      required: true
+    - id: 9
+      name: question_6
+      label: What is the purpose of 'support structures' in 3D printing?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_7
+      label: Which file format is the industry standard for 3D printing?
+      hint: null
+      type: select_one
+      options:
+      - .JPG
+      - .STL
+      - .PDF
+      - .DWG
+      - .OBJ
+      required: true
+    - id: 11
+      name: question_8
+      label: Rate the importance of post-processing in metal additive manufacturing
+      hint: 1 = Not important, 5 = Critical
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: quiz_feedback
+      label: Any comments on the quiz difficulty?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_email
+      label: Email Address for Results
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: date_taken
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

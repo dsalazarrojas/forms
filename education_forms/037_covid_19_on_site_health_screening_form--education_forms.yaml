@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 On Site Health Screening Form
+    pages:
+    - id: 1
+      name: onsite_screening_header
+      label: -- Participant Information --
+      hint: Please provide your details for screening
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: onsite_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: onsite_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: onsite_date_of_birth
+      Label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: onsite_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: onsite_phone
+      Label: Phone Number
+      hint: Your phone number
+      type: phone
+      options: []
+      required: false
+    - id: 7
+      name: onsite_program_header
+      label: -- Program Information --
+      hint: Details about your attendance
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: onsite_program_name
+      Label: Program or Course Name
+      hint: Name of the in-person program
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: onsite_program_date
+      label: Program Start Date
+      hint: When does the program begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: onsite_program_location
+      Label: Program Location
+      hint: Where the program is being held
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: onsite_health_screening_header
+      label: -- Health Screening Questions --
+      hint: Please answer these questions honestly
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: onsite_fever_or_chills
+      Label: Do You Currently Have a Fever or Chills
+      hint: Temperature of 100.4F or higher
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 13
+      name: onsite_cough
+      label: Do You Have a Cough
+      hint: New or persistent cough
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 14
+      name: onsite_shortness_of_breath
+      Label: Do You Have Shortness of Breath
+      hint: Difficulty breathing
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 15
+      name: onsite_loss_of_taste_smell
+      label: Loss of Taste or Smell
+      hint: New loss of taste or smell
+      type: select_one
+      options:
+        - No
+        - Yes
+        - Unsure
+      required: true
+    - id: 16
+      name: onsite_other_symptoms
+      Label: Other COVID-19 Symptoms
+      hint: Any other symptoms like body aches, headache
+      type: select_one
+      options:
+        - No other symptoms
+        - Yes, have other symptoms
+        - Unsure
+      required: true
+    - id: 17
+      name: onsite_covid_exposure_header
+      label: -- Exposure Assessment --
+      hint: Your exposure to COVID-19
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: onsite_close_contact_positive
+      Label: Close Contact with COVID-19 Positive Person
+      hint: Contact in last 14 days with someone positive
+      type: select_one
+      options:
+        - No close contact
+        - Yes, close contact
+        - Unsure
+      required: true
+    - id: 19
+      name: onsite_positive_test
+      label: Tested Positive for COVID-19
+      hint: Recent positive COVID-19 test
+      type: select_one
+      options:
+        - No positive test
+        - Yes, tested positive
+        - Unsure
+      required: true
+    - id: 20
+      name: onsite_positive_test_date
+      Label: Date of Positive Test
+      hint: When did you test positive
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: onsite_vaccination_header
+      label: -- Vaccination Status --
+      hint: Your COVID-19 vaccination status
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: onsite_vaccination_status
+      Label: COVID-19 Vaccination Status
+      hint: Your vaccination status
+      type: select_one
+      options:
+        - Fully vaccinated and boosted
+        - Fully vaccinated, not boosted
+        - Partially vaccinated
+        - Not vaccinated
+        - Prefer not to disclose
+      required: true
+    - id: 23
+      name: onsite_screening_result_header
+      label: -- Screening Result --
+      hint: Based on your responses
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: onsite_approved_for_attendance
+      Label: Are You Approved for In-Person Attendance
+      hint: Based on screening questions
+      type: select_one
+      options:
+        - Yes, approved to attend
+        - No, not approved to attend
+        - Conditional approval pending review
+      required: true
+    - id: 25
+      name: onsite_screening_date
+      label: Date of Screening
+      hint: Date this screening was completed
+      type: date
+      options: []
+      required: true

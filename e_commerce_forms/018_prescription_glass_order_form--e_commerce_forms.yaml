@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: prescription_glass_order_form
+    pages:
+    - id: 1
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Prescription
+      - Non Prescription
+      required: false
+    - id: 2
+      name: glass_type
+      label: Glass Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Vision
+      - Bifocals
+      - Trifocals
+      - Progressive
+      required: false
+    - id: 3
+      name: lens_type
+      label: Lens
+      hint: null
+      type: select_multiple
+      options:
+      - Single Vision
+      - Progressive
+      required: false
+    - id: 4
+      name: frame_type
+      label: Frame Type
+      hint: null
+      type: select_one
+      options:
+      - Single Frame
+      - Progressive Frame
+      - Non Prescription
+      required: false
+    - id: 5
+      name: prescription
+      label: Prescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Other
+      required: false
+    - id: 7
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shipping_postal_code
+      label: Shipping Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: select_one
+      options:
+      - US
+      - Canada
+      - UK
+      - Australia
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Pay with Cash
+      - Pay with Check
+      required: false
+    - id: 11
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false

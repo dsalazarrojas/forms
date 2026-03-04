@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student COVID 19 Vaccination Status Form
+    pages:
+    - id: 1
+      name: student_vaccination_status
+      label: Student Vaccination Status
+      hint: Select the vaccination status of the student
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: false
+    - id: 2
+      name: vaccine_type
+      label: Vaccine Type
+      hint: null
+      type: select_one
+      options:
+      - Pfizer
+      - Moderna
+      - J&J
+      - AstraZeneca
+      required: false
+    - id: 3
+      name: vaccination_date
+      label: Vaccination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_location
+      label: Vaccination Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dose_number
+      label: Dose Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: dose_date
+      label: Dose Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: student_vaccination_status_note
+      label: Student Vaccination Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: teacher_confirmation
+      label: Teacher Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: false
+    - id: 9
+      name: school_admin_confirmation
+      label: School Admin Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      required: false

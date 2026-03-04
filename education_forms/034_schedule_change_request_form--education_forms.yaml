@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Schedule Change Request Form
+    pages:
+    - id: 1
+      name: teacher
+      label: teacher
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_change
+      label: reason for change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: new_start_date
+      label: new start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: new_end_date
+      label: new end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_return
+      label: reason for return
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Student has not adjusted to the schedule change''}'
+      - '{''value'': ''Teacher has not adjusted to the schedule change''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''None''}'
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

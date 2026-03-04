@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Feedback Form
+    pages:
+    - id: 1
+      name: teacher_performance_rating
+      label: Teacher Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_feedback
+      label: Parent Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_given
+      label: Date Given
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Enter a brief explanation
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutor Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: description_of_homework_question
+      label: Description Of Homework Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: available_day
+      label: Available Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 6
+      name: select_topic
+      label: Select Topic
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - Science
+      - History
+      - English
+      - Geography
+      - Physics
+      - Chemistry
+      - Biology
+      required: false
+    - id: 7
+      name: select_tutor_type
+      label: Select Tutor Type
+      hint: null
+      type: select_one
+      options:
+      - Online Tutor
+      - Offline Tutor
+      - Both
+      required: false
+    - id: 8
+      name: select_language
+      label: Select Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      required: false
+    - id: 9
+      name: available_duration
+      label: Available Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: required_price
+      label: Required Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: student_university
+      label: Student University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tutor_university
+      label: Tutor University
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: select_payment_method
+      label: Select Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Payment
+      - Offline Payment
+      required: false
+    - id: 14
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email_to_tutor
+      label: Email To Tutor
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: select_subject
+      label: Select Subject
+      hint: null
+      type: select_multiple
+      options:
+      - Physics
+      - Chemistry
+      - Biology
+      - Math
+      - English
+      - History
+      required: false
+    - id: 18
+      name: select_level
+      label: Select Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      required: false
+    - id: 19
+      name: select_gender
+      label: Select Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 20
+      name: select_location
+      label: Select Location
+      hint: null
+      type: select_one
+      options:
+      - On Campus
+      - Online
+      required: false
+    - id: 21
+      name: select_language_2
+      label: Select Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      required: false
+    - id: 22
+      name: select_topic_2
+      label: Select Topic
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - Physics
+      - Chemistry
+      - Biology
+      - History
+      required: false
+    - id: 23
+      name: select_tutor_level
+      label: Select Tutor Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 24
+      name: select_tutor_qualification
+      label: Select Tutor Qualification
+      hint: null
+      type: select_one
+      options:
+      - Bachelor
+      - Master
+      - PhD
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

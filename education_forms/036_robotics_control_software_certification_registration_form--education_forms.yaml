@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robotics Control Software Certification Registration Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: robot_name
+      label: Robot Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: robot_type
+      label: Robot Type
+      hint: null
+      type: select_multiple
+      options:
+      - Robotics
+      - Industrial
+      - Educational
+      required: true
+    - id: 7
+      name: certification_level
+      label: Certification Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 8
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: robot_model
+      label: Robot Model
+      hint: null
+      type: text
+      options: []
+      required: true

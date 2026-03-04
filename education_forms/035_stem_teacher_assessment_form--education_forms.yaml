@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stem Teacher Assessment Form
+    pages:
+    - id: 1
+      name: subject_area
+      label: Subject Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_assessment
+      label: Student Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: teacher_assessment
+      label: Teacher Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: student_performance
+      label: Student Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teacher_performance
+      label: Teacher Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_assessment
+      label: Date Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_assessment
+      label: Time Assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note_assessment
+      label: Note Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_assessment
+      label: Email Assessment
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_assessment
+      label: Phone Assessment
+      hint: null
+      type: text
+      options: []
+      required: false

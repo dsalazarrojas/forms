@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Lesson Student Check In Form
+    pages:
+    - id: 1
+      name: student_checkin_form
+      label: Student Checkin
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Present'', ''required'': True}'
+      - '{''value'': 2, ''label'': ''Absent'', ''required'': True}'
+      - '{''value'': 3, ''label'': ''Tardy'', ''required'': True}'
+      required: true
+    - id: 2
+      name: lesson_date
+      label: Lesson Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: lesson_time
+      label: Lesson Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lesson_location
+      label: Lesson Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tutor_note
+      label: Tutor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Present'', ''label'': ''Present''}'
+      - '{''value'': 1, ''label'': ''Absent'', ''required'': True}'
+      - '{''value'': 2, ''label'': ''Tardy'', ''required'': True}'
+      required: true
+    - id: 12
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Tutors''}'
+      - '{''value'': 2, ''label'': ''Administrators''}'
+      - '{''value'': 3, ''label'': ''Students''}'
+      required: true
+    - id: 13
+      name: form_submitted_at
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_submitted_by_device
+      label: Form Submitted By Device
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Desktop''}'
+      - '{''value'': 2, ''label'': ''Mobile''}'
+      - '{''value'': 3, ''label'': ''Tablet''}'
+      required: false
+    - id: 15
+      name: form_ip_address
+      label: Form IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_user_agent
+      label: Form User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_session_id
+      label: Form Session ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: session_status
+      label: Session Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_modified
+      label: Form Modified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_submitted_at
+      label: Form Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Tutors''}'
+      - '{''value'': 2, ''label'': ''Administrators''}'
+      - '{''value'': 3, ''label'': ''Students''}'
+      required: true
+    - id: 24
+      name: form_submitted_by_ip_address
+      label: Form Submitted By IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_user_agent
+      label: Form Submitter User Agent
+      hint: null
+      type: text
+      options: []
+      required: false

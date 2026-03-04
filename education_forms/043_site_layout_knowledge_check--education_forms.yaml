@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Layout Knowledge Check
+    pages:
+    - id: 1
+      name: site_layout_knowledge_check
+      label: What is your current role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - Administrator
+      - Designer
+      - Manager
+      required: false
+    - id: 2
+      name: site_layout_knowledge_check_answer
+      label: How often do you usually check the site's layout?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: site_layout_knowledge_check_comment
+      label: What are some common site layout mistakes?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: site_layout_knowledge_check_email
+      label: What is your preferred email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: site_layout_knowledge_check_phone
+      label: What is your preferred phone number?
+      hint: null
+      type: text
+      options: []
+      required: false

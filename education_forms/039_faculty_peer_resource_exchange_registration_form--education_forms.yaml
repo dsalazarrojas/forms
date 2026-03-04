@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Peer Resource Exchange Registration Form
+    pages:
+    - id: 1
+      name: registration_details
+      label: Registration Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: faculty_member_id
+      label: Faculty Member ID
+      hint: Enter Faculty Member ID
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: faculty_position
+      label: Faculty Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: research_expertise
+      label: Research Expertise
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_projects
+      label: Research Projects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: collaborators
+      label: Collaborators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: project_funding
+      label: Project Funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: faculty_peer_exchange_goals
+      label: Faculty Peer Exchange Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: collaboration_details
+      label: Collaboration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_evaluation
+      label: Project Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: peer_review_process
+      label: Peer Review Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: peer_reviewers
+      label: Peer Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: project_completion_date
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

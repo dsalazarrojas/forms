@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Nomination Form
+    pages:
+    - id: 1
+      name: graduating_student
+      label: Graduating student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: group_or_organization
+      label: Group or Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: nomination_time
+      label: Nomination Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: nominator
+      label: Nominator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominee
+      label: Nominee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: nomination_reason
+      label: Nomination Reason
+      hint: null
+      type: text
+      options: []
+      required: false

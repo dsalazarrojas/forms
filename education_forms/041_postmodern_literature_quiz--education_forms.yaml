@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Postmodern Literature Quiz
+    pages:
+    - id: 1
+      name: introduction_question
+      label: What is Postmodern literature?
+      hint: Describe your understanding of postmodern literature
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author_question
+      label: Who is the author of 'The Crying of the Sun'?
+      hint: null
+      type: select_one
+      options:
+      - Thomas Pynchon
+      - William S. Burroughs
+      - Kurt Vonnegut
+      required: true
+    - id: 3
+      name: favorite_author
+      label: Who is your favorite postmodern author?
+      hint: null
+      type: select_multiple
+      options:
+      - Thomas Pynchon
+      - William S. Burroughs
+      - Kurt Vonnegut
+      required: true
+    - id: 4
+      name: favorite_book
+      label: What is your favorite postmodern book?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_book_other
+      label: If not listed, what is your favorite book?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: favorite_book_other_text
+      label: Other book -
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_completion
+      label: Date of completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_completion
+      label: Time of completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional thoughts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_confirmation
+      label: Confirm email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_confirmation
+      label: Confirm phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

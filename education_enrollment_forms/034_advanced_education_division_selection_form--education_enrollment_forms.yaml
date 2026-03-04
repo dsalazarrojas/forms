@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Education Division Selection Form
+    pages:
+    - id: 1
+      name: selection_header
+      label: -- Division Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student email
+      hint: For enrollment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: desired_division
+      label: Desired division or major
+      hint: Select one
+      type: select_one
+      options:
+      - Science and Technology
+      - Arts and Humanities
+      - Business and Management
+      - Health Sciences
+      required: true
+    - id: 5
+      name: prior_qualifications
+      label: Prior qualifications
+      hint: Highest degree or certificate held
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: start_term
+      label: Preferred start term
+      hint: Semester or quarter
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting documents provided
+      hint: Transcripts, CV, or certificates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: admission_priority
+      label: Admission priority category
+      hint: If applicable
+      type: select_one
+      options:
+      - Regular
+      - Priority
+      - Scholarship
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission date
+      hint: Date of selection request
+      type: date
+      options: []
+      required: true

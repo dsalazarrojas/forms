@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Exam Result Submission Form Template
+    pages:
+    - id: 1
+      name: exam_submission_form
+      label: Exam Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_data
+      label: Student Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: exam_result
+      label: Exam Result
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: examiner_comments
+      label: Examiner Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: e_signature
+      label: E-signature
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: examiner_name
+      label: Examiner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: examiner_position
+      label: Examiner Position
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 9
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: exam_score
+      label: Exam Score
+      hint: null
+      type: number
+      options: []
+      required: true

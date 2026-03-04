@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instruction And Evaluation Quiz
+    pages:
+    - id: 1
+      name: section_label
+      label: section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: main_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: main_question_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''option_1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''option_2''}'
+      required: false
+    - id: 4
+      name: question_3
+      label: main_question_3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: main_question_4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: main_question_5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: main_question_6
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: main_question_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_8
+      label: main_question_8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''option_9'', ''label'': ''option_9''}'
+      - '{''id'': 2, ''name'': ''option_10'', ''label'': ''option_10''}'
+      - '{''id'': 3, ''name'': ''option_11'', ''label'': ''option_11''}'
+      required: false
+    - id: 10
+      name: question_9
+      label: main_question_9
+      hint: null
+      type: number
+      options: []
+      required: false

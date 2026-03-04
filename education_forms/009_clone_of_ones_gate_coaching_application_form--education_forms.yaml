@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clone Of ONES GATE Coaching Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Coaching Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name for application
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Preferred contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Mobile phone with country code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: coaching_experience
+      label: Coaching experience summary
+      hint: Brief background and years of experience
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability
+      label: Availability
+      hint: Days and times available for coaching
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: qualifications
+      label: Qualifications or certifications
+      hint: Relevant credentials
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_coaching_area
+      label: Preferred coaching area
+      hint: Select one area
+      type: select_one
+      options:
+      - Academic coaching
+      - Career coaching
+      - Life coaching
+      - Performance coaching
+      required: true
+    - id: 9
+      name: references
+      label: References
+      hint: Provide names and contact details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_information
+      label: Additional information
+      hint: Anything else to support the application
+      type: text
+      options: []
+      required: false

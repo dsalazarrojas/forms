@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Schedule Selection Form
+    pages:
+    - id: 1
+      name: course_select
+      label: Select Course
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: schedule_select
+      label: Select Schedule
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 3
+      name: language_select
+      label: Select Language
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 4
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter student email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Enter student phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Select Date
+      hint: Select date of selection
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Select Time
+      hint: Select time of selection
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: language_schedule_select
+      label: Select Language Schedule
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: course_id
+      label: Select Course ID
+      hint: Enter course ID
+      type: number
+      options: []
+      required: false

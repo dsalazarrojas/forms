@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Usage Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: This survey is about social media usage among different genders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 3
+      name: social_media
+      label: Which social media do you use?
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - TikTok
+      - YouTube
+      required: true
+    - id: 4
+      name: frequency
+      label: How often do you use social media?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than once a day
+      - Several times a week
+      - Daily
+      required: true
+    - id: 5
+      name: time_spent
+      label: How much time do you spend on social media daily?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: social_media_usage
+      label: Do you use social media for socializing?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: online_communities
+      label: Do you participate in online communities?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: online_shopping
+      label: Do you use social media for online shopping?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: social_media_usage_dangers
+      label: Do you think social media usage can be dangerous for you?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: online_privacy
+      label: Are you concerned about online privacy?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: email
+      label: Do you have an email account?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: phone_number
+      label: Do you have a phone number?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: location
+      label: What is your location?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: age
+      label: How old are you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: income
+      label: What is your income?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: education
+      label: What is your level of education?
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - Doctorate
+      required: true
+    - id: 17
+      name: occupation
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: marital_status
+      label: What is your marital status?
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widow
+      required: false
+    - id: 19
+      name: social_media_usage_by_genders
+      label: Do you think social media usage differs by gender?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: gender_difference
+      label: What do you think is the main reason for gender differences in social
+        media usage?
+      hint: null
+      type: text
+      options: []
+      required: false

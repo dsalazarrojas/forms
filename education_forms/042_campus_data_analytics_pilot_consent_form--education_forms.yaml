@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Data Analytics Pilot Consent Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: participant_id
+      label: Student or Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_role
+      label: Role on Campus
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Administrator
+      required: true
+    - id: 7
+      name: participant_department
+      label: Department or School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: pilot_project_name
+      label: Analytics Pilot Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_purpose
+      label: Purpose of the Pilot Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: data_collection_methods
+      label: Data Collection Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Academic Performance Data
+      - Campus System Usage
+      - Survey Responses
+      - Event Participation
+      - Engagement Metrics
+      - Other
+      required: true
+    - id: 12
+      name: duration_of_pilot
+      label: Duration of Pilot Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_data_usage
+      label: -- Data Usage and Privacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: understand_data_collection
+      label: I understand what data will be collected
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 15
+      name: understand_data_usage
+      label: I understand how my data will be used
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 16
+      name: privacy_protection
+      label: My data will be protected and kept confidential
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 17
+      name: data_anonymization
+      label: My personal information will be anonymized
+      hint: null
+      type: select_one
+      options:
+      - Yes, will be anonymized
+      - No, will be identified
+      - Partially anonymized
+      required: true
+    - id: 18
+      name: section_consent
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: voluntary_participation
+      label: I understand participation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 20
+      name: can_withdraw
+      label: I can withdraw from the pilot at any time
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - false
+      required: true
+    - id: 21
+      name: grant_consent
+      label: I grant consent to participate in this pilot
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 22
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contact_phone
+      label: Phone Number
+      hint: For pilot project inquiries
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true
+    - id: 25
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

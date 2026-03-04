@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Book Writing Survey
+    pages:
+    - id: 1
+      name: reader_information
+      label: -- Reader Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reader_name
+      label: Child Reader Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: grade_level
+      label: School Grade Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: For follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: reading_preferences
+      label: -- Reading Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: favorite_genres
+      label: Favorite book genres
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Adventure
+      - Fantasy
+      - Mystery
+      - Science fiction
+      - Realistic fiction
+      - Humor
+      - Animals
+      - Sports
+      - Historical fiction
+      required: true
+    - id: 8
+      name: book_length_preference
+      label: Preferred book length
+      hint: null
+      type: select_one
+      options:
+      - Picture books (under 32 pages)
+      - Early readers (32-64 pages)
+      - Chapter books (65-150 pages)
+      - Novels (150+ pages)
+      required: true
+    - id: 9
+      name: reading_frequency
+      label: How often do you read
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Once per week
+      - A few times per month
+      - Rarely
+      required: true
+    - id: 10
+      name: favorite_books
+      label: List your three favorite books
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: characters_section
+      label: -- Characters and Story --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: character_importance
+      label: How important are interesting characters
+      hint: Rate 1 (not important) to 5 (very important)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: protagonist_preference
+      label: Protagonist preference
+      hint: null
+      type: select_one
+      options:
+      - Similar age to me
+      - Slightly older
+      - Adult
+      - Animal or creature
+      - No preference
+      required: false
+    - id: 14
+      name: story_settings
+      label: Favorite story settings
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Modern day school
+      - Magic worlds
+      - Future or space
+      - Forest or nature
+      - City or town
+      - Other worlds
+      required: true
+    - id: 15
+      name: plot_elements
+      label: What makes a story exciting
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Action and adventure
+      - Friendship
+      - Humor
+      - Mystery or suspense
+      - Romance
+      - Personal growth
+      - Overcoming challenges
+      required: true
+    - id: 16
+      name: illustrations_section
+      label: -- Illustrations and Format --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: illustrations_important
+      label: How important are illustrations
+      hint: Rate 1 (not important) to 5 (very important)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: format_preference
+      label: Preferred book format
+      hint: null
+      type: select_one
+      options:
+      - Printed book
+      - E-book
+      - Audiobook
+      - No preference
+      required: false
+    - id: 19
+      name: moral_lessons
+      label: Should stories have moral lessons
+      hint: null
+      type: select_one
+      options:
+      - Yes, always
+      - Sometimes
+      - Not necessary
+      - No preference
+      required: false
+    - id: 20
+      name: ending_preference
+      label: Preferred ending type
+      hint: null
+      type: select_one
+      options:
+      - Happy ending
+      - Bittersweet ending
+      - Cliffhanger
+      - Open ending
+      - Any type
+      required: false
+    - id: 21
+      name: engagement_section
+      label: -- Reader Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: interactive_elements
+      label: Would you like interactive elements in books
+      hint: Choices, activities, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: false
+    - id: 23
+      name: story_suggestions
+      label: What story would you like to read
+      hint: Describe your idea
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: author_connection
+      label: Would you like to communicate with authors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: additional_feedback
+      label: Any additional feedback or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

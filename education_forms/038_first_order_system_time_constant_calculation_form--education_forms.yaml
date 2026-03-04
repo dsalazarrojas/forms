@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Order System Time Constant Calculation Form
+    pages:
+    - id: 1
+      name: system_details
+      label: System Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_constant
+      label: Time Constant
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: response_speed
+      label: Response Speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: response_frequency
+      label: Response Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: input_value
+      label: Input Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - first order system
+      - second order system
+      - third order system
+      - fourth order system
+      required: false
+    - id: 7
+      name: system_response
+      label: System Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_constant_unit
+      label: Time Constant Unit
+      hint: null
+      type: select_multiple
+      options:
+      - seconds
+      - minutes
+      - hours
+      - days
+      - years
+      - months
+      required: false

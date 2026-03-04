@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trade Certification Enrollment Form
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: program_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: trade_certification_status
+      label: trade_certification_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: applicant_email
+      label: applicant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_details
+      label: Program Details
+      hint: null
+      type: note
+      options: []
+      required: false

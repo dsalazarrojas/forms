@@ -1,0 +1,145 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advanced Education Division Selection Form
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_if_enrolled
+      label: Student ID if Enrolled
+      hint: if not enrolled, leave blank
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_div
+      label: -- Division Selection --
+      hint: select your primary and secondary interests
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_division_choice
+      label: Primary Division Choice
+      hint: null
+      type: select_one
+      options:
+      - Humanities and Social Sciences
+      - STEM and Applied Technology
+      - Business and Leadership
+      - Health Sciences
+      - Creative Arts and Media
+      required: true
+    - id: 7
+      name: secondary_division_choice
+      label: Secondary Division Choice
+      hint: null
+      type: select_one
+      options:
+      - Humanities and Social Sciences
+      - STEM and Applied Technology
+      - Business and Leadership
+      - Health Sciences
+      - Creative Arts and Media
+      - None
+      required: false
+    - id: 8
+      name: section_prog
+      label: -- Program Specifics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: specific_major_or_concentration_interest
+      label: Specific Major or Concentration Interest
+      hint: e.g. Data Analytics, Public Health
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: study_format_preference
+      label: Study Format Preference
+      hint: how do you intend to study?
+      type: select_one
+      options:
+      - Full-time On-campus
+      - Part-time On-campus
+      - Fully Online
+      - Hybrid
+      required: true
+    - id: 11
+      name: section_rat
+      label: -- Rationale for Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: career_aspirations_related_to_division
+      label: Career Aspirations Related to Division
+      hint: where do you see yourself in 5 years?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: relevant_previous_coursework_summary
+      label: Relevant Previous Coursework Summary
+      hint: list key subjects already completed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_enroll
+      label: -- Enrollment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: intended_start_date
+      label: Intended Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: attendance_at_orientation_confirmed
+      label: Attendance at Orientation Confirmed
+      hint: mandatory for division entry
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Writing Prompt Generator
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: writing_group
+      label: Writing Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prompt_type
+      label: Prompt Type
+      hint: null
+      type: select_one
+      options:
+      - Writing Workshop
+      - Group Story
+      - Writing Prompt
+      - Short Story
+      - Flash Fiction
+      required: true
+    - id: 7
+      name: word_count
+      label: Word Count
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: genre
+      label: Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Fantasy
+      - Science Fiction
+      - Romance
+      - Horror
+      - Mystery
+      - Historical Fiction
+      required: true
+    - id: 9
+      name: story_length
+      label: Story Length
+      hint: null
+      type: select_one
+      options:
+      - Short Story
+      - Long Story
+      - Novel
+      - Series
+      required: true
+    - id: 10
+      name: story_length_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prompt_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Regularly
+      - As Often As Possible
+      required: true
+    - id: 12
+      name: prompt_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: prompt_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prompt_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: prompt_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false

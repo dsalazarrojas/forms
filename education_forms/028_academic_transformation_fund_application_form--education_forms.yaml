@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transformation Fund Application Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Transformation Fund Application --
+      hint: Submit your application for academic transformation funding. Please provide
+        complete project details and budget information.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: applicant_title
+      label: Title or position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or college
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: institution
+      label: Institution name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_section
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_title
+      label: Project title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_summary
+      label: Project summary (300 words or fewer)
+      hint: Describe the goals, methods, and expected outcomes of your project
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: transformation_area
+      label: Area of academic transformation
+      hint: null
+      type: select_one
+      options:
+      - Curriculum redesign
+      - Technology integration
+      - Pedagogical innovation
+      - Assessment reform
+      - Student engagement
+      - Equity and inclusion
+      - Other
+      required: true
+    - id: 12
+      name: target_audience
+      label: Who will benefit from this project
+      hint: null
+      type: select_multiple
+      options:
+      - Undergraduate students
+      - Graduate students
+      - Faculty
+      - Staff
+      - Community partners
+      required: true
+    - id: 13
+      name: project_start_date
+      label: Proposed project start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: project_end_date
+      label: Proposed project end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: budget_section
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: total_funding_requested
+      label: Total funding amount requested (USD)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: budget_breakdown
+      label: Provide a brief budget breakdown
+      hint: List major expense categories and estimated amounts
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: other_funding_sources
+      label: Are you receiving funding from other sources for this project
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: other_funding_details
+      label: If yes, please describe the other funding sources and amounts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: co_investigators
+      label: List any co-investigators or collaborators
+      hint: Include name, title, and department for each
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: agreement
+      label: I certify that the information provided is accurate and I agree to comply
+        with all fund reporting requirements
+      hint: null
+      type: select_one
+      options:
+      - Yes - I certify and agree
+      - Other
+      required: true
+    - id: 22
+      name: application_date
+      label: Date of application
+      hint: null
+      type: date
+      options: []
+      required: true

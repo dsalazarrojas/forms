@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Performance Questionnaire
+    pages:
+      - id: 1
+        name: section_course_details
+        label: -- Course and Instructor Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: course_code
+        label: Course code or title
+        hint: Course being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: instructor_name
+        label: Instructor name
+        hint: Instructor or teaching team
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: semester
+        label: Semester or term
+        hint: Academic term for evaluation
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: learning_outcomes_clarity
+        label: Clarity of learning outcomes
+        hint: Rate how clear the learning outcomes were
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+        required: true
+      - id: 6
+        name: teaching_effectiveness
+        label: Teaching effectiveness
+        hint: Rate instructor teaching performance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: assessment_fairness
+        label: Fairness of assessment and grading
+        hint: Rate fairness and transparency of assessment
+        type: select_one
+        options:
+          - Very fair
+          - Fair
+          - Somewhat fair
+          - Unfair
+        required: true
+      - id: 8
+        name: workload_manageability
+        label: Manageability of workload
+        hint: Rate workload relative to credits
+        type: select_one
+        options:
+          - Very manageable
+          - Manageable
+          - Challenging
+          - Overwhelming
+        required: false
+      - id: 9
+        name: resources_availability
+        label: Availability of learning resources
+        hint: Rate accessibility of readings and materials
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 10
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Specific suggestions for the course or instructor
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: additional_comments
+        label: Additional comments
+        hint: Any further feedback
+        type: text
+        options: []
+        required: false

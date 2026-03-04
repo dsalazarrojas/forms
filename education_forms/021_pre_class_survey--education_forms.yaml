@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: pre-class-survey
+    pages:
+    - id: 1
+      name: pre_class_survey
+      label: Pre-Class Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: expected_lesson_outcomes
+      label: Expected Lesson Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: teacher_expectations
+      label: Teacher Expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_questions
+      label: Student Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pre_class_survey_submitted
+      label: Pre-Class Survey Submitter
+      hint: Submitter's Name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_feedback_submitted
+      label: Student Feedback Submitter
+      hint: Submitter's Name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_feedback_submitted
+      label: Teacher Feedback Submitter
+      hint: Submitter's Name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_expectations
+      label: Student Expectations
+      hint: null
+      type: text
+      options: []
+      required: false

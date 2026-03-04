@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: scholarship_renewal_form
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: academic_status
+      label: Academic Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 3
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: reason_for_renewal
+      label: Reason for Renewal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_graduation_date
+      label: Expected Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: academic_institution
+      label: Academic Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: academic_program
+      label: Academic Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_degree_date
+      label: Expected Degree Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: current_semester
+      label: Current Semester
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fall'', ''value'': ''fall''}'
+      - '{''label'': ''Spring'', ''value'': ''spring''}'
+      - '{''label'': ''Summer'', ''value'': ''summer''}'
+      required: false
+    - id: 12
+      name: total_credits
+      label: Total Credits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: gpa
+      label: GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: scholarship_status
+      label: Scholarship Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''active''}'
+      - '{''label'': ''Expired'', ''value'': ''expired''}'
+      - '{''label'': ''Cancelled'', ''value'': ''cancelled''}'
+      required: false
+    - id: 15
+      name: renewal_amount
+      label: Renewal Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: scholarship_funding
+      label: Scholarship Funding
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Full'', ''value'': ''full''}'
+      - '{''label'': ''Partial'', ''value'': ''partial''}'
+      - '{''label'': ''None'', ''value'': ''none''}'
+      required: false
+    - id: 17
+      name: scholarship_award
+      label: Scholarship Award
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

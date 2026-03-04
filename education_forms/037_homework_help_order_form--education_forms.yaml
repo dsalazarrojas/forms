@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homework Help Order Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: problem_statement
+      label: Problem Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact
+      label: Preferred Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Call Me'', ''value'': ''call_me''}'
+      - '{''label'': ''Chat With Me'', ''value'': ''chat_with_me''}'
+      - '{''label'': ''Meet In Person'', ''value'': ''meet_in_person''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: Who Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Student'', ''value'': ''student''}'
+      - '{''label'': ''Teacher'', ''value'': ''teacher''}'
+      - '{''label'': ''Parent'', ''value'': ''parent''}'
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_attachment
+      label: Submitter Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I Agree'', ''value'': ''i_agree''}'
+      - '{''label'': ''I Do Not Agree'', ''value'': ''i_do_not_agree''}'
+      required: true
+    - id: 17
+      name: submitter_terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_terms_agreement
+      label: Terms Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I Agree'', ''value'': ''agree''}'
+      - '{''label'': ''I Do Not Agree'', ''value'': ''disagree''}'
+      required: true
+    - id: 20
+      name: submitter_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitter_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_agreement
+      label: Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

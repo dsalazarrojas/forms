@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stipend Request Form
+    pages:
+    - id: 1
+      name: superviser_name
+      label: Superviser Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: superviser_email
+      label: Superviser E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: superviser_phone
+      label: Superviser Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: superviser_address
+      label: Superviser Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: superviser_date
+      label: Superviser Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: student_date
+      label: Student Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: superviser_note
+      label: Superviser Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: student_note
+      label: Student Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: superviser_request
+      label: Superviser Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_request
+      label: Student Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: superviser_amount
+      label: Superviser Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: student_amount
+      label: Student Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: superviser_frequency
+      label: Superviser Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: student_frequency
+      label: Student Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: superviser_comments
+      label: Superviser Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: superviser_agreed
+      label: Superviser Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 21
+      name: student_agreed
+      label: Student Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 22
+      name: superviser_additional_info
+      label: Superviser Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_additional_info
+      label: Student Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: superviser_signature
+      label: Superviser Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: true

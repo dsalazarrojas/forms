@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: European Monetary System Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_details
+      label: participant details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quiz_questions
+      label: quiz questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quiz_score
+      label: quiz score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: participant_answers
+      label: participant answers
+      hint: null
+      type: select_one
+      options:
+      - participant answers
+      - Other
+      required: false
+    - id: 6
+      name: review
+      label: review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

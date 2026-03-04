@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ecumenical Councils Quiz
+    pages:
+    - id: 1
+      name: ecumenical_councils_quiz_1
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ecumenical_councils_quiz_2
+      label: Question 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ecumenical_councils_quiz_3
+      label: Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ecumenical_councils_quiz_4
+      label: Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ecumenical_councils_quiz_5
+      label: Instructors Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ecumenical_councils_quiz_6
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ecumenical_councils_quiz_7
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: ecumenical_councils_quiz_8
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: ecumenical_councils_quiz_9
+      label: Participant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ecumenical_councils_quiz_10
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: ecumenical_councils_quiz_11
+      label: Instructors Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ecumenical_councils_quiz_12
+      label: Instructors Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: ecumenical_councils_quiz_13
+      label: Instructors Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: ecumenical_councils_quiz_14
+      label: Instructors Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ecumenical_councils_quiz_15
+      label: Instructors Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ecumenical_councils_quiz_16
+      label: Instructors Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: ecumenical_councils_quiz_17
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: ecumenical_councils_quiz_18
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: ecumenical_councils_quiz_19
+      label: Quiz Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Multiple Choice''}'
+      - '{''text'': ''True and False''}'
+      - '{''text'': ''Fill in the Blank''}'
+      - '{''text'': ''Essay''}'
+      required: true
+    - id: 20
+      name: ecumenical_councils_quiz_20
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Question 1''}'
+      - '{''text'': ''Question 2''}'
+      - '{''text'': ''Question 3''}'
+      - '{''text'': ''Question 4''}'
+      - '{''text'': ''Question 5''}'
+      required: true
+    - id: 21
+      name: ecumenical_councils_quiz_21
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ecumenical_councils_quiz_22
+      label: Instructors Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ecumenical_councils_quiz_23
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Completed''}'
+      - '{''text'': ''In Progress''}'
+      - '{''text'': ''Not Started''}'
+      required: true
+    - id: 24
+      name: ecumenical_councils_quiz_24
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Completed''}'
+      - '{''text'': ''In Progress''}'
+      - '{''text'': ''Not Started''}'
+      required: false
+    - id: 25
+      name: ecumenical_councils_quiz_25
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Submit''}'
+      - '{''text'': ''Save as Draft''}'
+      - '{''text'': ''Cancel''}'
+      required: true

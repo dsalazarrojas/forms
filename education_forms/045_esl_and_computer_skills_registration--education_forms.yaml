@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESL And Computer Skills Registration
+    pages:
+    - id: 1
+      name: enrollment_center
+      label: Enrollment Center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learner_preferences
+      label: Learner Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_preferences
+      label: Course Preferences
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: proficiency_level
+      label: Proficiency Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: class_roster
+      label: Class Roster
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_verification_survey
+    pages:
+    - id: 1
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: training_effectiveness
+      label: How effective were the training sessions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_objectives
+      label: Were the training objectives met?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_experience
+      label: Participant Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: false

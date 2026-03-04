@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Study Reflection
+    pages:
+    - id: 1
+      name: section_student_intro_reflection
+      label: -- Student and Character Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name_identity
+      label: Student Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number_identity
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_or_class_title
+      label: Course or Class Title
+      hint: e.g., English Literature 101
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_character_analysis
+      label: -- Character Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: character_being_studied_name
+      label: Character Being Studied
+      hint: Who is the character you are reflecting on?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: literary_work_title
+      label: Literary Work Title
+      hint: Book, play, or story the character appears in
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: character_primary_motivation_reflection
+      label: Character Primary Motivation Reflection
+      hint: What drives this character's actions?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: significant_character_flaw_analysis
+      label: Significant Character Flaw Analysis
+      hint: What is the character's main weakness?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_personal_reflection
+      label: -- Personal Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: empathy_for_character_rating
+      label: Empathy for Character Rating
+      hint: How much do you connect with or understand this character?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: most_surprising_character_action
+      label: Most Surprising Character Action
+      hint: Describe a moment that caught you off guard
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lesson_learned_from_character_study
+      label: Lesson Learned from Character Study
+      hint: What did you take away from analyzing this character?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_critical_thinking
+      label: -- Critical Thinking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: character_development_arc_rating
+      label: Character Development Arc Rating
+      hint: How well-developed is the character's journey?
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: impact_of_setting_on_character
+      label: Impact of Setting on Character
+      hint: How does the character's environment shape them?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: section_reflection_finalization
+      label: -- Reflection Finalization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: accuracy_confirmation_student_reflection
+      label: Confirmation of Reflection Details
+      hint: I confirm that this reflection is my own work and analysis
+      type: select_one
+      options:
+      - I Confirm and Submit Reflection
+      - Other
+      required: true
+    - id: 19
+      name: date_of_reflection_log_submission
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_reflection_comments_log
+      label: Additional Reflection Comments
+      hint: Any other thoughts on the character's development or the story
+      type: text
+      options: []
+      required: false

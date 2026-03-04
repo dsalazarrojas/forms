@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legislature Vs Executive Quiz
+    pages:
+    - id: 1
+      name: government_system
+      label: The Government System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: branches_of_government
+      label: Branches of Government
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: legislative_branch
+      label: Legislative Branch
+      hint: null
+      type: select_multiple
+      options:
+      - Legislative
+      - Executive
+      - Judicial
+      required: true
+    - id: 4
+      name: legislative_process
+      label: Legislative Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: executive_branch
+      label: Executive Branch
+      hint: null
+      type: select_multiple
+      options:
+      - Legislative
+      - Executive
+      - Judicial
+      required: false
+    - id: 6
+      name: judicial_branch
+      label: Judicial Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: powers_of_government
+      label: Powers of Government
+      hint: null
+      type: select_multiple
+      options:
+      - Legislative
+      - Executive
+      - Judicial
+      required: true
+    - id: 8
+      name: quiz_question_1
+      label: What is the highest legislative branch in the US Government?
+      hint: null
+      type: select_one
+      options:
+      - Senate
+      - House of Representatives
+      - Supreme Court
+      required: true
+    - id: 9
+      name: quiz_question_2
+      label: Who is the highest authority in the US Government?
+      hint: null
+      type: select_one
+      options:
+      - The President of the US
+      - The Supreme Court
+      - Congress
+      required: true
+    - id: 10
+      name: quiz_question_3
+      label: What type of government is the US?
+      hint: null
+      type: select_one
+      options:
+      - Democracy
+      - Monarchy
+      - Oligarchy
+      required: true

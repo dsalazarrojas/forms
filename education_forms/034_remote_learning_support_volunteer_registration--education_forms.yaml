@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Learning Support Volunteer Registration
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_info
+      label: Volunteer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: confirm_volunteer_info
+      label: Confirm Volunteer Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - Other
+      required: false
+    - id: 7
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: terms_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit Button
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - Other
+      required: false
+    - id: 10
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - Other
+      required: false
+    - id: 11
+      name: submit_confirmation
+      label: Submit Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - Other
+      required: false
+    - id: 12
+      name: confirm_submission_status
+      label: Confirm Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Completed''}'
+      required: false
+    - id: 13
+      name: submit_status
+      label: Submit Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Completed''}'
+      required: false

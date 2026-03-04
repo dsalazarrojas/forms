@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dissertation Leave Of Absence Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_absence_start
+      label: date of absence start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_of_absence_end
+      label: date of absence end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_absence
+      label: reason for absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_return_date
+      label: expected return date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: academic_department
+      label: academic department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: academic_officer
+      label: academic officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: academic_officer_email
+      label: academic officer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: academic_officer_phone
+      label: academic officer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: academic_officer_department
+      label: academic officer department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

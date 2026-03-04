@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: hemp_extraction_customer_questions
+    pages:
+    - id: 1
+      name: crop_info
+      label: Hemp Crop Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hemp_type
+      label: What type of hemp
+      hint: null
+      type: select_one
+      options:
+      - Hemp
+      - Cannabis
+      - CBD
+      - CBG
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false

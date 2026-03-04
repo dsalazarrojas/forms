@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: parent-teacher-conference-survey
+    pages:
+    - id: 1
+      name: conference_experience
+      label: What was your experience at the conference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: How would you rate the communication between your child's teacher and
+        you?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: comments
+      label: Do you have any comments about the conference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_communication
+      label: How would you rate the communication between your child's teacher and
+        you?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: communication_between_parents
+      label: How would you rate the communication between you and your child's teacher?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: future_conferences
+      label: How likely are you to attend future parent-teacher conferences?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Definitely''}'
+      - '{''id'': 2, ''label'': ''Somewhat''}'
+      - '{''id'': 3, ''label'': ''Not very''}'
+      - '{''id'': 4, ''label'': ''Not at all''}'
+      required: false
+    - id: 7
+      name: suggestions
+      label: Do you have any suggestions for improving future parent-teacher conferences?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Additional feedback about the conference
+      hint: null
+      type: text
+      options: []
+      required: false

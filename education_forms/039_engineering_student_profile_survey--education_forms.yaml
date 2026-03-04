@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: engineering_student_profile_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: major
+      label: Major
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: career_goals
+      label: Career Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_interest
+      label: Department Interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: faculty_interest
+      label: Faculty Interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

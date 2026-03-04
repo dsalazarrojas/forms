@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Reservation Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_reservation
+      label: Book Reservation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reservation_duration
+      label: Reservation Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: library_name
+      label: Library Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: librarian_name
+      label: Librarian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

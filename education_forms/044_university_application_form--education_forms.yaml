@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: school_name
+      label: school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: degree
+      label: degree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: graduation_date
+      label: graduation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: gpa
+      label: gpa
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: sat_score
+      label: sat score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sat_section1
+      label: sat section 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: sat_section2
+      label: sat section 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sat_section3
+      label: Sat Section3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: activity_name
+      label: activity name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: activity_duration
+      label: activity duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: activity_frequency
+      label: activity frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

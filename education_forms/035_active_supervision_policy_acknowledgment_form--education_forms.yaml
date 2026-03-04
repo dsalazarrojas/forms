@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Active Supervision Policy Acknowledgment Form
+    pages:
+    - id: 1
+      name: staff_member_name
+      label: Staff Member Name
+      hint: Full name of the staff member acknowledging the policy
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: staff_id
+      label: Staff ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position_title
+      label: Position Title
+      hint: Job title of the staff member
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_program
+      label: Department or Program
+      hint: Department or program where the staff member works
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: policy_version
+      label: Policy Version
+      hint: Version of the active supervision policy being acknowledged
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: policy_receipt_date
+      label: Date Received Policy
+      hint: Date when the staff member received the policy document
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: policy_acknowledgment
+      label: Acknowledgment of Policy Receipt
+      hint: Do you acknowledge that you have received and read the active supervision policy
+      type: select_one
+      options: ["Yes, I acknowledge receipt and understanding", "No, I have not received the policy"]
+      required: true
+    - id: 8
+      name: understanding_confirmation
+      label: Understanding of Policy Requirements
+      hint: Do you understand the requirements of the active supervision policy
+      type: select_one
+      options: ["Yes, I fully understand", "Yes, I mostly understand", "No, I need clarification"]
+      required: true
+    - id: 9
+      name: commitment_to_compliance
+      label: Commitment to Policy Compliance
+      hint: Do you commit to following the active supervision policy requirements
+      type: select_one
+      options: ["Yes, I commit to full compliance", "Yes, with questions", "No, I cannot comply"]
+      required: true
+    - id: 10
+      name: training_completion
+      label: Active Supervision Training Completion
+      hint: Have you completed the required active supervision training
+      type: select_one
+      options: ["Yes, training completed", "In progress", "Scheduled", "Not yet completed"]
+      required: true
+    - id: 11
+      name: questions_or_concerns
+      label: Questions or Concerns About Policy
+      hint: Do you have any questions or concerns about the policy
+      type: select_one
+      options: ["Yes, I have questions or concerns", "No, I have no questions or concerns"]
+      required: true
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: Date of acknowledgment and signature
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: supervisor_witness
+      label: Supervisor Witness Name
+      hint: Name of supervisor witnessing the acknowledgment
+      type: text
+      options: []
+      required: false

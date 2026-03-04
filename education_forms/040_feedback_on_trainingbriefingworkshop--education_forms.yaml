@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On TrainingBriefingWorkshop
+    pages:
+    - id: 1
+      name: feedback_on_training_briefing_workshop
+      label: feedback on training briefing workshop
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

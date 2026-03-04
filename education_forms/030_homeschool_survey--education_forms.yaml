@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: homeschool_survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: homeschool_experience
+      label: Homeschool Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_performance
+      label: Student Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_involvement
+      label: Parent Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_support_services
+      label: Teacher Support Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_participation
+      label: Student Participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: parent_satisfaction
+      label: Parent Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false

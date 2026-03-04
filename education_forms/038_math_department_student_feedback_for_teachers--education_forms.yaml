@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: math_department_student_feedback_for_teachers
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: course_content
+      label: Course Content
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teacher_performance
+      label: Teacher Performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: teacher_performance_2
+      label: Teacher Performance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: course_content_2
+      label: Course Content
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_experience_2
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

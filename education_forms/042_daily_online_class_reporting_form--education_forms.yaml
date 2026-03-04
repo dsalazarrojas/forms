@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Online Class Reporting Form
+    pages:
+    - id: 1
+      name: report_on_student
+      label: Report On Student
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_on_subject
+      label: Report On Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subject_interest
+      label: Subject Interest
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - English
+      - Science
+      - History
+      required: false
+    - id: 5
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: student_participation
+      label: Student Participation
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: classroom_environment
+      label: Classroom Environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_interest
+      label: Student Interest
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: classroom_management
+      label: Classroom Management
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: teacher_effectiveness
+      label: Teacher Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_engagement
+      label: Student Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: classroom_equipment
+      label: Classroom Equipment
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: teacher_response
+      label: Teacher Response
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

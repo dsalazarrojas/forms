@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Content Submission Form
+    pages:
+    - id: 1
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_category
+      label: Course Category
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - Science
+      - English
+      - Social Studies
+      required: true
+    - id: 3
+      name: course_description
+      label: Course Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_files
+      label: Course Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_status
+      label: Course Status
+      hint: Draft, Published, Archived
+      type: select_multiple
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: true
+    - id: 9
+      name: course_tags
+      label: Course Tags
+      hint: null
+      type: text
+      options: []
+      required: false

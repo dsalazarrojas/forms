@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: programming_practice_exercise_submission
+    pages:
+    - id: 1
+      name: exercise_solution
+      label: Exercise solution
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: mentor_comments
+      label: Mentor comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: solution_status
+      label: Solution status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: submission_id
+      label: Submission id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exercise_name
+      label: Exercise name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_id
+      label: User id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false

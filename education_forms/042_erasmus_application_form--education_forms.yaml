@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: erasmus_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: study_area
+      label: Study Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: language
+      label: Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: language_level
+      label: Language Level
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - German
+      - Italian
+      required: true
+    - id: 11
+      name: academic_background
+      label: Academic Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: academic_level
+      label: Academic Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: motivation_letter
+      label: Motivation Letter
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: language_certificate
+      label: Language Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cv
+      label: CV
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: transcript
+      label: Transcript
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: study_programs
+      label: Study Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: host_institution
+      label: Host Institution
+      hint: null
+      type: select_multiple
+      options:
+      - University of London
+      - University of Paris
+      - University of Berlin
+      - University of Rome
+      required: false
+    - id: 20
+      name: study_area_host
+      label: Study Area Host
+      hint: null
+      type: select_multiple
+      options:
+      - Europe
+      - Asia
+      required: false
+    - id: 21
+      name: academic_level_host
+      label: Academic Level Host
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor
+      - Master
+      - Phd
+      required: false
+    - id: 22
+      name: host_department
+      label: Host Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: host_institution_address
+      label: Host Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: host_institution_email
+      label: Host Institution Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: host_institution_phone
+      label: Host Institution Phone
+      hint: null
+      type: text
+      options: []
+      required: false

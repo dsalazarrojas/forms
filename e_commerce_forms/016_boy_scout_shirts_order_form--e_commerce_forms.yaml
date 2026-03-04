@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boy Scout Shirts Order Form
+    pages:
+    - id: 1
+      name: section_header_troop
+      label: -- Troop Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: troop_number
+      label: Troop Number
+      hint: Scout troop identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: troop_leader_name
+      label: Troop Leader Name
+      hint: Contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: leader_email
+      label: Troop Leader Email
+      hint: For order communication
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: leader_phone
+      label: Troop Leader Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_order
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: order_date
+      label: Order Date
+      hint: Date placing order
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: When shirts are needed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_header_scout1
+      label: -- Scout Shirt Orders --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: scout_name
+      label: Scout Name
+      hint: First scout
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: scout_rank
+      label: Scout Rank
+      hint: Current rank level
+      type: select_one
+      options:
+      - Lion Scout
+      - Tiger Scout
+      - Cub Scout
+      - Boy Scout
+      - Venturing Scout
+      - Senior Scout
+      - Explorer
+      required: true
+    - id: 12
+      name: shirt_size
+      label: Shirt Size
+      hint: XS, S, M, L, XL, XXL
+      type: select_one
+      options:
+      - Extra Small (XS)
+      - Small (S)
+      - Medium (M)
+      - Large (L)
+      - Extra Large (XL)
+      - 2XL
+      - 3XL
+      required: true
+    - id: 13
+      name: shirt_color
+      label: Shirt Color
+      hint: Select preferred color
+      type: select_one
+      options:
+      - Olive
+      - Tan
+      - Navy
+      - Forest Green
+      - Maroon
+      required: true
+    - id: 14
+      name: shirt_quantity
+      label: Quantity of Shirts
+      hint: Number of this shirt size
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: section_header_customization
+      label: -- Customization Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: embroidery_requested
+      label: Embroidery Requested
+      hint: Name or troop emblem
+      type: select_one
+      options:
+      - Yes, with embroidery
+      - No embroidery
+      - Gold embroidery
+      - Silver embroidery
+      required: false
+    - id: 17
+      name: embroidery_text
+      label: Embroidery Text
+      hint: What to embroider on shirt
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_shipping
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_method
+      label: Shipping Method
+      hint: How to deliver shirts
+      type: select_one
+      options:
+      - Standard ground
+      - Expedited
+      - Overnight
+      - Local pickup
+      required: true
+    - id: 21
+      name: order_confirmation
+      label: I confirm this order is complete
+      hint: Check to finalize
+      type: select_one
+      options:
+      - Confirmed
+      - Need changes
+      required: true

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classroom Budget Request
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: Full name of the person submitting the request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_email
+      label: Teacher Email
+      hint: Email address for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: teacher_phone
+      label: Teacher Phone
+      hint: Contact telephone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_header_classroom
+      label: -- Classroom Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: Name of the school
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: school_district
+      label: School District
+      hint: District or region
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: grade_level
+      label: Grade Level
+      hint: Grade(s) being taught
+      type: select_one
+      options:
+      - Kindergarten
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7-8
+      - Grade 9-12
+      required: true
+    - id: 9
+      name: classroom_subject
+      label: Subject Area
+      hint: Primary subject taught
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_of_students
+      label: Number of Students
+      hint: How many students are in this classroom?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_budget
+      label: -- Budget Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: requested_amount
+      label: Total Amount Requested
+      hint: In dollars/currency of your region
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: request_purpose
+      label: Purpose of Request
+      hint: What is the general purpose?
+      type: select_one
+      options:
+      - Instructional Materials and Supplies
+      - Technology and Equipment
+      - Classroom Furniture
+      - Field Trips
+      - Professional Development
+      - Special Programs
+      - General Classroom Needs
+      - Other
+      required: true
+    - id: 14
+      name: detailed_justification
+      label: Detailed Justification
+      hint: Explain why this budget is needed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expected_impact
+      label: Expected Impact on Learning
+      hint: How will this improve student learning?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_itemization
+      label: -- Budget Itemization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: item_1_description
+      label: Item 1 - Description
+      hint: What will you purchase?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: item_1_quantity
+      label: Item 1 - Quantity
+      hint: How many?
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: item_1_cost
+      label: Item 1 - Unit Cost
+      hint: Cost per unit
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: item_2_description
+      label: Item 2 - Description
+      hint: What will you purchase?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item_2_quantity
+      label: Item 2 - Quantity
+      hint: How many?
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: item_2_cost
+      label: Item 2 - Unit Cost
+      hint: Cost per unit
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: item_3_description
+      label: Item 3 - Description
+      hint: What will you purchase?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: prior_budget_allocation
+      label: Prior Year Budget Allocation
+      hint: What was allocated last year?
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Request Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

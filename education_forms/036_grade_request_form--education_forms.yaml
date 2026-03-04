@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grade Request Form
+    pages:
+    - id: 1
+      name: grade_request_form
+      label: grade_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: grade
+      label: grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_change
+      label: reason_for_change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true

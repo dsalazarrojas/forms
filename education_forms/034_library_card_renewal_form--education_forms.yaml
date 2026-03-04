@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Card Renewal Form
+    pages:
+    - id: 1
+      name: library_card_renewal_form
+      label: library_card_renewal_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: library_id
+      label: library_card_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: renewal_date
+      label: renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''payment_option_1''}'
+      - '{''id'': 2, ''value'': ''payment_option_2''}'
+      - '{''id'': 3, ''value'': ''payment_option_3''}'
+      required: false
+    - id: 9
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Education Resource Grant Application Form
+    pages:
+    - id: 1
+      name: open_education_resource_grant_application_form
+      label: Open Education Resource Grant Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_institutions_list
+      label: list_of_education_institutions
+      hint: List the institutions that you represent
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name_of_institution
+      label: name_of_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: oer_grant_proposal
+      label: OER Grant Proposal
+      hint: The Open Education Resource Grant proposal is a description of your project
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: oer_grant_proposal_details
+      label: OER Grant Proposal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget_request
+      label: Budget Request
+      hint: null
+      type: number
+      options: []
+      required: false

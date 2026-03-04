@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Source Education Tool Adoption Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tool_type
+      label: tool-type
+      hint: null
+      type: select_one
+      options:
+      - tool-type-1
+      - tool-type-2
+      required: true
+    - id: 3
+      name: tool_used
+      label: tool-used
+      hint: null
+      type: select_multiple
+      options:
+      - tool-used-1
+      - tool-used-2
+      - tool-used-3
+      required: false
+    - id: 4
+      name: frequency_of_use
+      label: frequency-of-use
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: duration_of_use
+      label: duration-of-use
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: benefits
+      label: benefits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: submission-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_by
+      label: submitted-by
+      hint: null
+      type: select_one
+      options:
+      - submitted-by-1
+      - submitted-by-2
+      - submitted-by-3
+      required: true
+    - id: 14
+      name: submitted_to
+      label: submitted-to
+      hint: null
+      type: select_multiple
+      options:
+      - submitted-to-1
+      - submitted-to-2
+      - submitted-to-3
+      required: false
+    - id: 15
+      name: submitted_by_department
+      label: submitted-by-department
+      hint: null
+      type: select_multiple
+      options:
+      - submitted-by-department-1
+      - submitted-by-department-2
+      required: false
+    - id: 16
+      name: submitted_by_institution
+      label: submitted-by-institution
+      hint: null
+      type: select_multiple
+      options:
+      - submitted-by-institution-1
+      - submitted-by-institution-2
+      required: false
+    - id: 17
+      name: submitted_by_role
+      label: submitted-by-role
+      hint: null
+      type: select_multiple
+      options:
+      - submitted-by-role-1
+      - submitted-by-role-2
+      required: false
+    - id: 18
+      name: submitted_by_title
+      label: submitted-by-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_name
+      label: submitted-by-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_id
+      label: submitted-by-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_institution_id
+      label: submitted-by-institution-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_institution_name
+      label: submitted-by-institution-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_department_id
+      label: submitted-by-department-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_role_id
+      label: submitted-by-role-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_title_id
+      label: submitted-by-title-id
+      hint: null
+      type: text
+      options: []
+      required: false

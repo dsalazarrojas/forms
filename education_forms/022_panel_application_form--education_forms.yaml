@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Panel Application Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Free''}'
+      - '{''id'': 2, ''name'': ''Premium''}'
+      - '{''id'': 3, ''name'': ''Business''}'
+      required: false
+    - id: 4
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

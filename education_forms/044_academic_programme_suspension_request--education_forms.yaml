@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Programme Suspension Request
+    pages:
+      - id: 1
+        name: section_request_info
+        label: -- Suspension Request Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: Full legal name of student
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student identification number
+        hint: University or registration ID
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: program
+        label: Programme name
+        hint: Programme to be suspended
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: suspension_start
+        label: Suspension start date
+        hint: Requested start date
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: suspension_end
+        label: Expected end date
+        hint: Expected date to resume studies
+        type: date
+        options: []
+        required: false
+      - id: 7
+        name: reason_for_suspension
+        label: Reason for suspension
+        hint: Describe the circumstances requiring suspension
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: supporting_documents
+        label: Supporting documents
+        hint: Medical or other supporting evidence
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: contact_during_suspension
+        label: Contact method during suspension
+        hint: How the university can reach you
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - No contact
+        required: false
+      - id: 10
+        name: student_signature
+        label: Student signature name
+        hint: Type full name to sign request
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: submission_date
+        label: Submission date
+        hint: Date of request submission
+        type: date
+        options: []
+        required: true

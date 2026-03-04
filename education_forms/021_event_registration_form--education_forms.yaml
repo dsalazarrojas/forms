@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_registration_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: terms
+      label: Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: privacy
+      label: Privacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: save_and_submit
+      label: Save and Submit
+      hint: null
+      type: text
+      options: []
+      required: false

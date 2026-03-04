@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Student Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: mission_and_vision
+      label: How do you rate the school's mission and vision
+      hint: Scale from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 2
+      name: coursework
+      label: How do you rate the coursework quality
+      hint: Scale from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 3
+      name: education_quality
+      label: How do you rate the quality of education
+      hint: Scale from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 4
+      name: facilities
+      label: How do you rate the school facilities
+      hint: Scale from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 5
+      name: overall_feeling
+      label: Overall feeling about the school
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: other_feedback
+      label: Other Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_id
+      label: Student Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

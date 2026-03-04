@@ -1,0 +1,303 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Permission Form
+    pages:
+    - id: 1
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: Date of birth for the student
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_grade
+      label: Current Grade Level
+      hint: What grade is the student currently in?
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 5
+      name: student_school
+      label: School Attended
+      hint: Name of the school the student attends
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_id_number
+      label: Student ID Number
+      hint: Student identification number (if available)
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_information_section
+      label: Program Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: After-School Program Name
+      hint: Name of the after-school program
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: program_dates
+      label: Program Dates
+      hint: Start and end dates of the program
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: program_schedule
+      label: Program Schedule
+      hint: Days and times of the program
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_guardian_information_section
+      label: Parent/Guardian Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: parent_guardian_name
+      label: Parent/Guardian Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_guardian_relationship
+      label: Relationship to Student
+      hint: Your relationship to the student
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian
+      - Grandparent
+      - Aunt/Uncle
+      - Other
+      required: true
+    - id: 14
+      name: parent_guardian_email
+      label: Email Address
+      hint: Email for program updates and communication
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: parent_guardian_phone
+      label: Phone Number
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_information_section
+      label: Emergency Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship of emergency contact to the student
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_secondary
+      label: Secondary Emergency Contact
+      hint: Name and phone of secondary emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_information_section
+      label: Medical Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Does your child have any medical conditions we should know about?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medications
+      label: Current Medications
+      hint: Is your child currently taking any medications?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allergies
+      label: Allergies
+      hint: Does your child have any allergies (food, medication, environmental)?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_authorizations
+      label: Medical Authorization
+      hint: Do you authorize program staff to seek medical attention for your child
+        if needed?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: permission_authorizations_section
+      label: Permission and Authorizations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: program_participation_permission
+      label: Program Participation Permission
+      hint: Do you give permission for your child to participate in the after-school
+        program?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: field_trip_permission
+      label: Field Trip Permission
+      hint: Do you give permission for your child to participate in field trips related
+        to the program?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: photo_video_permission
+      label: Photo and Video Permission
+      hint: Do you give permission for your child to be photographed or filmed during
+        program activities?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: discipline_authorization
+      label: Discipline Authorization
+      hint: Do you authorize program staff to use appropriate discipline measures
+        as outlined in the program guidelines?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: transportation_information_section
+      label: Transportation Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: transportation_method
+      label: Transportation Method
+      hint: How will your child get home from the after-school program?
+      type: select_one
+      options:
+      - Picked up by parent/guardian
+      - School bus
+      - Walk
+      - Other authorized adult
+      - Other
+      required: true
+    - id: 33
+      name: authorized_adults
+      label: Other Authorized Adults
+      hint: List any other adults authorized to pick up your child
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: pickup_instructions
+      label: Pickup Instructions
+      hint: Special instructions for picking up your child
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: signature_section
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: parent_guardian_signature
+      label: Parent/Guardian Signature
+      hint: Electronic signature to confirm permission
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: signature_date
+      label: Date of Signature
+      hint: Date when the permission is granted
+      type: date
+      options: []
+      required: true

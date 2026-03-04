@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: First and last name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: Today's date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reading_frequency
+      label: How often do you read books
+      hint: Select your reading habit
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 5
+      name: favorite_book_genre
+      label: What is your favorite book genre
+      hint: Select the genres you enjoy
+      type: select_multiple
+      options:
+      - Fiction
+      - Mystery
+      - Romance
+      - Science Fiction
+      - Fantasy
+      - Biography
+      - History
+      - Self-help
+      - Non-fiction
+      - Poetry
+      - Other
+      required: true
+    - id: 6
+      name: recently_read_title
+      label: Title of a book you recently read
+      hint: What was the last book you read
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recently_read_rating
+      label: How would you rate that book
+      hint: 1 = Did not enjoy, 5 = Loved it
+      type: select_one
+      options:
+      - 1 - Did not enjoy
+      - 2 - Below average
+      - 3 - Average
+      - 4 - Good
+      - 5 - Loved it
+      required: false
+    - id: 8
+      name: book_format_preference
+      label: What format do you prefer
+      hint: How do you like to read
+      type: select_one
+      options:
+      - Printed books
+      - E-books
+      - Audiobooks
+      - Mix of formats
+      required: true
+    - id: 9
+      name: monthly_book_count
+      label: How many books do you read per month
+      hint: Approximate number
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: book_discovery_method
+      label: How do you discover new books
+      hint: Select the method you use most
+      type: select_multiple
+      options:
+      - Recommendations from friends
+      - Online reviews
+      - Social media
+      - Book blogs
+      - Library staff recommendations
+      - Author websites
+      - Book clubs
+      - Awards and bestseller lists
+      required: true
+    - id: 11
+      name: library_usage
+      label: Do you use the public library
+      hint: How often do you visit
+      type: select_one
+      options:
+      - Frequently
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 12
+      name: book_club_participation
+      label: Do you participate in a book club
+      hint: Have you joined one
+      type: select_one
+      options:
+      - true
+      - false
+      - Interested in joining
+      required: true
+    - id: 13
+      name: all_time_favorite_book
+      label: What is your all-time favorite book
+      hint: Book that means the most to you
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: book_recommendation
+      label: Would you recommend reading to others
+      hint: Why or why not
+      type: text
+      options: []
+      required: false

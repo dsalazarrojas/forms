@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Diversity And Equity Network Registration
+    pages:
+      - id: 1
+        name: section_contact_info
+        label: -- Contact Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full name
+        hint: Given and family name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: Preferred contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: institution
+        label: Institution or organization
+        hint: Employer or university
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: role
+        label: Role or title
+        hint: Job title or position
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: areas_of_interest
+        label: Areas of interest
+        hint: Select topics of interest
+        type: select_multiple
+        options:
+          - Policy and governance
+          - Curriculum and pedagogy
+          - Hiring and retention
+          - Community engagement
+          - Accessibility and accommodations
+        required: false
+      - id: 7
+        name: accessibility_needs
+        label: Accessibility needs or accommodations
+        hint: Describe any accessibility requirements
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: participation_type
+        label: Preferred participation type
+        hint: How you plan to engage with the network
+        type: select_one
+        options:
+          - Attendee
+          - Speaker or facilitator
+          - Contributor or volunteer
+          - Organizer
+        required: true
+      - id: 9
+        name: communication_preferences
+        label: Communication preferences
+        hint: How you prefer to receive updates
+        type: select_multiple
+        options:
+          - Email
+          - Newsletter
+          - Slack or chat
+          - Webinars
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

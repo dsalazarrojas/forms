@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: International School Application Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guardian_email
+      label: Guardian Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: student_birthdate
+      label: Student Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_country
+      label: Student Country
+      hint: null
+      type: select_one
+      options:
+      - Canada
+      - USA
+      - Australia
+      - Japan
+      required: true
+    - id: 9
+      name: reason_for_attending
+      label: Reason For Attending
+      hint: Please provide a brief explanation for applying
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: student_language
+      label: Student Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      - Arabic
+      required: true
+    - id: 11
+      name: student_language_other
+      label: Other Language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_language_other_details
+      label: Other Language Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_program
+      label: Student Program
+      hint: null
+      type: select_multiple
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      - Post-Secondary
+      required: true
+    - id: 14
+      name: student_program_other
+      label: Other Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_program_other_details
+      label: Other Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: student_english_proficiency
+      label: Student English Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 17
+      name: student_english_proficiency_other
+      label: Other English Proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: student_english_proficiency_other_details
+      label: Other English Proficiency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: student_math_proficiency
+      label: Student Math Proficiency
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 20
+      name: student_math_proficiency_other
+      label: Other Math Proficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: student_math_proficiency_other_details
+      label: Other Math Proficiency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_siblings
+      label: Siblings
+      hint: Please specify the number of siblings applying
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: student_siblings_details
+      label: Siblings Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: student_references_details
+      label: References Details
+      hint: null
+      type: text
+      options: []
+      required: false

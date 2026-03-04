@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Admission Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Enter Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter valid email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_address
+      label: Guardian Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardian_phone
+      label: Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_school_level
+      label: Student School Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: guardian_consent
+      label: Guardian Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 11
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: student_document
+      label: Student Document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: guardian_document
+      label: Guardian Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: student_signature
+      label: Student Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: school_signature
+      label: School Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: teacher
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true

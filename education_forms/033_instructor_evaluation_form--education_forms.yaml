@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: instructor_evaluation_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: instructor_name
+      label: instructor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_performance
+      label: instructor_performance
+      hint: Please evaluate the instructor's performance.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: class_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teaching_effectiveness
+      label: Teaching Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Additional comments about the instructor.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: recommended_for_future_opp
+      label: Recommended for future opportunity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

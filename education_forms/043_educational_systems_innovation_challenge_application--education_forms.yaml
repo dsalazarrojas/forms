@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_systems_innovation_challenge_application
+    pages:
+    - id: 1
+      name: project_idea
+      label: Project Idea
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impact_description
+      label: Impact Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

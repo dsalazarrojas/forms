@@ -1,0 +1,143 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Tier II District Readiness
+    pages:
+    - id: 1
+      name: district_name
+      label: district name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tier_ii_interest
+      label: tier ii interest
+      hint: null
+      type: select_multiple
+      options:
+      - Tier II Training
+      - Tier II Certification
+      - Tier II Implementation
+      required: true
+    - id: 3
+      name: training_attendance
+      label: training attendance
+      hint: Will you be attending Tier II training?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: implementation_status
+      label: implementation status
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      required: true
+    - id: 5
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: Additional comments about your district's Tier II readiness.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: district_contact
+      label: district contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: training_facilitator
+      label: training facilitator
+      hint: Is the district planning to have a training facilitator present?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: technology_use
+      label: technology use
+      hint: null
+      type: select_multiple
+      options:
+      - Implemented
+      - Not Implemented
+      required: false
+    - id: 10
+      name: data_collection
+      label: data collection
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      required: false
+    - id: 11
+      name: data_analysis
+      label: data analysis
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      required: false
+    - id: 12
+      name: data_use
+      label: data use
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      required: false
+    - id: 13
+      name: progress_monitoring
+      label: progress monitoring
+      hint: null
+      type: select_one
+      options:
+      - Implemented
+      - Not Implemented
+      required: false
+    - id: 14
+      name: progress_monitoring_frequencies
+      label: progress monitoring frequencies
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: tier_2_progress
+      label: tier 2 progress
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Middle School Enrollment Form
+    pages:
+    - id: 1
+      name: middle_school_enrollment_form
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_grade
+      label: student_grade
+      hint: null
+      type: select_one
+      options:
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      required: true
+    - id: 7
+      name: e_signature
+      label: e_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

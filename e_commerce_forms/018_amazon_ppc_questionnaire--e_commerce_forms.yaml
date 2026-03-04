@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amazon PPC Questionnaire
+    pages:
+    - id: 1
+      name: section_campaign_summary
+      label: -- Campaign Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Brand or seller name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_manager
+      label: Account manager
+      hint: Contact person for this account
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: monthly_budget
+      label: Monthly budget
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: campaign_goals
+      label: Campaign goals
+      hint: Select main objectives
+      type: select_multiple
+      options:
+      - Brand awareness
+      - Sales
+      - Traffic
+      - Leads
+      required: true
+    - id: 6
+      name: target_products
+      label: Target products
+      hint: SKUs or ASINs
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_bid_strategy
+      label: Preferred bid strategy
+      hint: Choose a bidding approach
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      - Dynamic
+      required: false
+    - id: 8
+      name: reporting_email
+      label: Reporting email
+      hint: Where campaign reports are sent
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Additional notes
+      hint: Any other information for the PPC team
+      type: text
+      options: []
+      required: false

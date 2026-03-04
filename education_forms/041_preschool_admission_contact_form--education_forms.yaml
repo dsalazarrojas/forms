@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Admission Contact Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: child_dob
+      label: Child's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: interest_level
+      label: Interest Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: school_staff_member
+      label: School Staff Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: school_staff_email
+      label: School Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

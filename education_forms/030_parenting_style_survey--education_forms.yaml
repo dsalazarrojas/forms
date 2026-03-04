@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parenting Style Survey
+    pages:
+    - id: 1
+      name: parent_response
+      label: Parenting Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_response_2
+      label: How do you discipline your child?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: parent_response_3
+      label: Parental Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: parent_response_4
+      label: Parental Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: parent_response_5
+      label: Parental Responsiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

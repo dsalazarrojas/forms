@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutoring Services Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Education Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: form_description
+      label: Form Description
+      hint: A Tutoring Services Feedback Form is a template designed to streamline
+        communication in the education sector. This tool allows tutors to collect
+        crucial feedback, improve their approach, and enhance student learning experiences.
+        Effortlessly gather actionable insights and boost tutoring services.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category_list
+      label: Category List
+      hint: null
+      type: select_multiple
+      options:
+      - Education Forms
+      - Other
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

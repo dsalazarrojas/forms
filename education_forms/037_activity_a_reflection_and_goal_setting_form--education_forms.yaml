@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activity A  Reflection And Goal Setting Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of the student completing this form
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_name
+      label: Course Name
+      hint: Name of the course this activity is part of
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_date
+      label: Activity Date
+      hint: Date when the life skills activity took place
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: activity_title
+      label: Title of Life Skills Activity
+      hint: Brief title of the life skills activity completed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: activity_description
+      label: Description of the Activity
+      hint: Brief description of what the life skills activity involved
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skills_practiced
+      label: Life Skills Practiced
+      hint: Which life skills did you practice during this activity
+      type: select_multiple
+      options:
+      - Communication
+      - Problem-solving
+      - Time management
+      - Emotional regulation
+      - Decision-making
+      - Interpersonal skills
+      - Financial literacy
+      - Health and wellness
+      - Organization
+      - Other
+      required: true
+    - id: 7
+      name: positive_outcomes
+      label: Positive Outcomes
+      hint: What positive outcomes did you experience from this activity
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges did you encounter during this activity
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: lessons_learned
+      label: Lessons Learned
+      hint: What important lessons did you learn from this activity
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: confidence_level_before
+      label: Confidence Level Before Activity
+      hint: Rate your confidence in the practiced skills before the activity (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: confidence_level_after
+      label: Confidence Level After Activity
+      hint: Rate your confidence in the practiced skills after the activity (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: future_goals
+      label: Future Goals
+      hint: What life skills goals do you want to work on next
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: support_needed
+      label: Support Needed
+      hint: What support do you need to achieve your life skills goals
+      type: text
+      options: []
+      required: false

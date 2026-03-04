@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Project Preference Poll
+    pages:
+      - id: 1
+        name: student_info_header
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: student_id
+        label: Student ID
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: class_name
+        label: Class Name or Section
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: grade_level
+        label: Grade Level
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: project_header
+        label: -- Project Preference Selection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: preferred_project
+        label: Which project topic interests you most
+        hint: null
+        type: select_one
+        options:
+          - Project A - Historical Research
+          - Project B - Scientific Investigation
+          - Project C - Creative Writing
+          - Project D - Community Service
+          - Project E - Technology Application
+        required: true
+      - id: 8
+        name: second_choice_project
+        label: Second Choice Project
+        hint: null
+        type: select_one
+        options:
+          - Project A - Historical Research
+          - Project B - Scientific Investigation
+          - Project C - Creative Writing
+          - Project D - Community Service
+          - Project E - Technology Application
+        required: false
+      - id: 9
+        name: project_reasoning
+        label: Why did you choose your preferred project
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: team_header
+        label: -- Team and Partnership Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: team_preference
+        label: Preferred Team Size
+        hint: null
+        type: select_one
+        options:
+          - Work alone
+          - Partner - one other student
+          - Small group - 3-4 students
+          - Larger group - 5+ students
+          - No preference
+        required: true
+      - id: 12
+        name: team_members
+        label: Preferred Team Members
+        hint: Names of students you work well with
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: avoid_members
+        label: Any students you prefer not to work with
+        hint: Optional - for teacher reference
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: skills_header
+        label: -- Skills and Interests --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: relevant_skills
+        label: Skills you can contribute to the project
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: learning_interests
+        label: What do you hope to learn from this project
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: strengths
+        label: Your strengths in group projects
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: format_header
+        label: -- Project Format Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: presentation_format
+        label: Preferred Presentation Format
+        hint: null
+        type: select_multiple
+        options:
+          - Written report
+          - Oral presentation
+          - Video or multimedia
+          - Poster display
+          - Interactive demonstration
+          - Website or digital project
+          - Other
+        required: false
+      - id: 20
+        name: accessibility_header
+        label: -- Accessibility and Accommodations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: special_accommodations
+        label: Any special accommodations needed for this project
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_preferences
+        label: Additional preferences or comments
+        hint: null
+        type: text
+        options: []
+        required: false

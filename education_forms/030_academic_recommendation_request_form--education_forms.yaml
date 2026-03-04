@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recommendation Request Form
+    pages:
+    - id: 1
+      name: recommendation_request_intro
+      label: Academic Recommendation Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of the student requesting the recommendation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Contact email for the student
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: Official student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: recommender_name
+      label: Recommender Name
+      hint: Full name of the person being asked for a recommendation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recommender_email
+      label: Recommender Email
+      hint: Professional email for the recommender
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: recommender_title
+      label: Recommender Title
+      hint: Professional title or position of the recommender
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: How does the recommender know the student?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recommendation_purpose
+      label: Purpose of Recommendation
+      hint: What is this recommendation for?
+      type: select_one
+      options: ["Graduate school application", "Undergraduate program", "Scholarship application", "Research opportunity", "Job application", "Internship", "Other"]
+      required: true
+    - id: 10
+      name: target_institution_program
+      label: Target Institution or Program
+      hint: Name of the institution or program for which the recommendation is needed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: deadline_date
+      label: Deadline Date
+      hint: When is the recommendation due?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: recommendation_details_needed
+      label: Details Needed in Recommendation
+      hint: What specific aspects should the recommender highlight?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_resume_cv_attached
+      label: Student Resume/CV Attached
+      hint: Will you provide a resume or CV to help the recommender?
+      type: select_one
+      options: ["Yes, I will provide", "Yes, already provided", "No, but can upon request", "No"]
+      required: true
+    - id: 14
+      name: previous_interactions_summary
+      label: Summary of Previous Interactions
+      hint: Briefly describe your academic or professional interactions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: special_circumstances
+      label: Special Circumstances
+      hint: Are there any special circumstances the recommender should know about?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_permission
+      label: Follow-Up Permission
+      hint: May the recommender contact you if they need more information?
+      type: select_one
+      options: ["Yes, they may contact me", "Yes, but only before the deadline", "Only if absolutely necessary", "No"]
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information for the recommender?
+      type: text
+      options: []
+      required: false

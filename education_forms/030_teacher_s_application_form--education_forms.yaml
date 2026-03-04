@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teachers Application Form
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_type
+      label: Teacher Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: experience
+      label: Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

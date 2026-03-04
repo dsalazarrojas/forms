@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Submission Form
+    pages:
+    - id: 1
+      name: page_one
+      label: daily_submissions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_type
+      label: submission_type
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: submission_details
+      label: submission_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: submitters
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 13
+      name: attachments
+      label: attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_url
+      label: file_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_url
+      label: submitter_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: submitter_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 21
+      name: submitter_attachments
+      label: submitter_attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_file_upload
+      label: submitter_file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_file_url
+      label: submitter_file_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_url
+      label: submitter_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delegate Application Form
+    pages:
+    - id: 1
+      name: convention_details
+      label: convention details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delegate_name
+      label: delegate name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_applying
+      label: reason for applying
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: available_convention_dates
+      label: available convention dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: bio
+      label: brief bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: education_background
+      label: education background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: experience
+      label: experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: availability
+      label: availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: convention_location
+      label: convention location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: convention_length
+      label: convention length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: convention_type
+      label: convention type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Convention
+      required: true
+    - id: 14
+      name: convention_frequency
+      label: convention frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annual
+      - Annual
+      required: true
+    - id: 15
+      name: convention_start_date
+      label: convention start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: convention_end_date
+      label: convention end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: convention_days
+      label: convention days
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: convention_hours
+      label: convention hours
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: convention_timezones
+      label: convention timezones
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: convention_language
+      label: convention language
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: convention_currency
+      label: convention currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: convention_currency_symbol
+      label: convention currency symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: convention_rate
+      label: convention rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: convention_terms
+      label: convention terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: convention_terms_2
+      label: convention terms 2
+      hint: null
+      type: text
+      options: []
+      required: false

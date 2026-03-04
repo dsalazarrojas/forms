@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Retail Platform Usability Evaluation Form
+    pages:
+    - id: 1
+      name: user_experience
+      label: Online Retail Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_info
+      label: Product Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 3
+      name: product_page
+      label: Product Page
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Not Sure''}'
+      required: false
+    - id: 4
+      name: search_experience
+      label: Search Experience
+      hint: How easy was it to find what you needed?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: checkout_process
+      label: Checkout Process
+      hint: How easy was the checkout process?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_info
+      label: Product Information Page
+      hint: How clear was product information presented?
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_completion_time
+      label: Form Completion Time
+      hint: null
+      type: time
+      options: []
+      required: false

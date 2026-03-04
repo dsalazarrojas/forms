@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Head Injury Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Enter student name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_age
+      label: Student age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: student_gender
+      label: Student gender
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 5
+      name: incident_date
+      label: Date of incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_description
+      label: Incident description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_name
+      label: Parent name
+      hint: Enter parent name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: Student phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: school_name
+      label: School name
+      hint: Enter school name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_address
+      label: School address
+      hint: Enter school address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_location
+      label: Incident location
+      hint: Enter incident location
+      type: text
+      options: []
+      required: false

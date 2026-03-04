@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Course Feedback Survey
+    pages:
+    - id: 1
+      name: course_enrollment
+      label: What was the enrollment of the course?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: course_content
+      label: What was your understanding of the course content?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: instructor_performance
+      label: How would you rate the instructor's performance?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: instructor_support
+      label: How well did the instructor support you during the course?
+      hint: null
+      type: select_multiple
+      options:
+      - Very well
+      - Somewhat well
+      - Not very well
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Do you have any additional comments on the course?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: course_improvement
+      label: What could be improved on the course?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: would_take_again
+      label: Would you take the course again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

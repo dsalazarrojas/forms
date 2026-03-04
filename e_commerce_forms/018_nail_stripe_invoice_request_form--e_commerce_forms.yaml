@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: nail_stripe_invoice_request_form
+    pages:
+    - id: 1
+      name: stripe_name
+      label: Stripe Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stripe_color
+      label: stripe_color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Gray
+      required: false
+    - id: 4
+      name: stripe_design
+      label: stripe_design
+      hint: null
+      type: select_one
+      options:
+      - Nail Stripe
+      - Nail Art
+      - Nail Art with Color
+      required: false
+    - id: 5
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

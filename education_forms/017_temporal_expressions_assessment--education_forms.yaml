@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporal Expressions Assessment
+    pages:
+    - id: 1
+      name: quiz_question
+      label: Quiz Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: answer
+      label: Answer
+      hint: Write your response here.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: confidence_rating
+      label: Confidence Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: writing_task
+      label: Writing Task
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: writing_task_rating
+      label: Writing Task Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: assessment_comments
+      label: Assessment Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quiz_correct
+      label: Quiz Correct
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      required: false
+    - id: 11
+      name: quiz_incorrect
+      label: Quiz Incorrect
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      required: false
+    - id: 12
+      name: quiz_unsure
+      label: Quiz Unsure
+      hint: null
+      type: select_one
+      options:
+      - Correct
+      - Incorrect
+      - Unsure
+      required: false

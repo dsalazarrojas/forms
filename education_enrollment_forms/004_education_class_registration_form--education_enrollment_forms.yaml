@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Class Registration Form
+    pages:
+    - id: 1
+      name: contactinformation
+      label: firstname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contactinformation
+      label: lastname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contactinformation
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contactinformation
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: personalinformation
+      label: studentid
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: personalinformation
+      label: birthday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: personalinformation
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: true
+    - id: 8
+      name: courseworkinformation
+      label: class
+      hint: null
+      type: select_multiple
+      options:
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 9
+      name: courseinformation
+      label: coursename
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: courseinformation
+      label: coursecode
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: otherinformation
+      label: anyotherinfo
+      hint: null
+      type: note
+      options: []
+      required: false

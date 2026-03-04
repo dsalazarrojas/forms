@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Class Registration Form
+    pages:
+    - id: 1
+      name: course_information
+      label: -- Course Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: Enter legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: selected_course
+      label: Selected course
+      hint: Choose the class to enroll in
+      type: select_one
+      options:
+      - Evening language course
+      - Professional development workshop
+      - Computer skills basics
+      - Photography fundamentals
+      required: true
+    - id: 6
+      name: preferred_start_date
+      label: Preferred start date
+      hint: Approximate start date for enrollment
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: prior_experience
+      label: Prior experience or prerequisites
+      hint: Briefly describe relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment method
+      hint: Choose how you will pay
+      type: select_one
+      options:
+      - Credit card
+      - Bank transfer
+      - PayPal
+      - Invoice
+      required: true
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For in class emergencies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_terms
+      label: Agree to terms and policies
+      hint: Required to complete enrollment
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

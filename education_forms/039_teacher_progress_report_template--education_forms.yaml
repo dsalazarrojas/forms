@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Progress Report Template
+    pages:
+    - id: 1
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_progress
+      label: Student Progress
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_conduct
+      label: Student Conduct
+      hint: Please include any incidents of misconduct
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_recommendations
+      label: Student Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Needs Improvement
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false

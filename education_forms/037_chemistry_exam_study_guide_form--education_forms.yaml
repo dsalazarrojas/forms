@@ -1,0 +1,280 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chemistry Exam Study Guide Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Full Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID
+        hint: Your student ID number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: course_name
+        label: Course Name
+        hint: Name of chemistry course
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: exam_date
+        label: Exam Date
+        hint: When is your exam
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: exam_type
+        label: Exam Type
+        hint: What type of exam is this
+        type: select_one
+        options:
+          - Midterm exam
+          - Final exam
+          - Unit test
+          - Quiz
+          - Placement exam
+          - AP exam
+          - Other
+        required: true
+      - id: 6
+        name: topics_covered
+        label: Topics Covered on Exam
+        hint: Select all topics that will be on the exam
+        type: select_multiple
+        options:
+          - Atomic structure
+          - Electron configuration
+          - Periodic trends
+          - Chemical bonding
+          - Stoichiometry
+          - Gas laws
+          - Solutions
+          - Acids and bases
+          - Thermochemistry
+          - Kinetics
+          - Equilibrium
+          - Organic chemistry
+          - Nuclear chemistry
+          - Redox reactions
+        required: true
+      - id: 7
+        name: current_grade
+        label: Current Grade in Course
+        hint: What is your current grade
+        type: select_one
+        options:
+          - A (90-100%)
+          - B (80-89%)
+          - C (70-79%)
+          - D (60-69%)
+          - F (below 60%)
+        required: false
+      - id: 8
+        name: target_grade
+        label: Target Grade on Exam
+        hint: What grade do you want to achieve
+        type: select_one
+        options:
+          - A (90-100%)
+          - B (80-89%)
+          - C (70-79%)
+          - D (60-69%)
+          - Just pass
+        required: true
+      - id: 9
+        name: confidence_level
+        label: Confidence Level
+        hint: How confident do you feel about the exam
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Very anxious
+        required: true
+      - id: 10
+        name: strongest_topics
+        label: Strongest Topics
+        hint: Which topics do you feel most confident about
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: weakest_topics
+        label: Weakest Topics
+        hint: Which topics do you need to study most
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: study_time_available
+        label: Study Time Available
+        hint: How many hours can you dedicate to studying
+        type: select_one
+        options:
+          - Less than 5 hours
+          - 5-10 hours
+          - 10-15 hours
+          - 15-20 hours
+          - More than 20 hours
+        required: true
+      - id: 13
+        name: preferred_study_method
+        label: Preferred Study Methods
+        hint: How do you prefer to study
+        type: select_multiple
+        options:
+          - Reading textbook
+          - Watching videos
+          - Practice problems
+          - Study groups
+          - Flashcards
+          - Tutoring
+          - Review sheets
+          - Online quizzes
+        required: true
+      - id: 14
+        name: study_group
+        label: Do You Have a Study Group
+        hint: Are you part of a study group
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Looking for one
+        required: true
+      - id: 15
+        name: tutoring_needed
+        label: Do You Need Tutoring
+        hint: Would you benefit from tutoring
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe
+          - No, I am good
+        required: true
+      - id: 16
+        name: resources_available
+        label: Study Resources Available
+        hint: What resources do you have access to
+        type: select_multiple
+        options:
+          - Textbook
+          - Lecture notes
+          - Practice exams
+          - Online resources
+          - Study guide
+          - Tutor
+          - Professor office hours
+          - Study group
+        required: true
+      - id: 17
+        name: resources_needed
+        label: Resources Needed
+        hint: What additional resources do you need
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: study_schedule
+        label: Study Schedule
+        hint: Describe your planned study schedule
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: practice_problems_completed
+        label: Practice Problems Completed
+        hint: How many practice problems have you done
+        type: select_one
+        options:
+          - None yet
+          - 1-10 problems
+          - 11-25 problems
+          - 26-50 problems
+          - More than 50 problems
+        required: true
+      - id: 20
+        name: past_exams_reviewed
+        label: Past Exams Reviewed
+        hint: Have you reviewed past exams
+        type: select_one
+        options:
+          - Yes, multiple
+          - Yes, one
+          - No, but will
+          - No, not available
+        required: true
+      - id: 21
+        name: formula_sheet_allowed
+        label: Is Formula Sheet Allowed
+        hint: Can you use a formula sheet during exam
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not sure
+        required: true
+      - id: 22
+        name: formulas_memorized
+        label: Have You Memorized Formulas
+        hint: How well have you memorized formulas
+        type: select_one
+        options:
+          - All memorized
+          - Most memorized
+          - Some memorized
+          - Need to study more
+        required: true
+      - id: 23
+        name: study_obstacles
+        label: Study Obstacles
+        hint: What obstacles are preventing you from studying
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: instructor_help_needed
+        label: Help Needed from Instructor
+        hint: What specific help do you need from your instructor
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else you want to share
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: commitment_statement
+        label: Commitment to Study
+        hint: I commit to following my study plan
+        type: select_one
+        options:
+          - Yes, I commit
+          - I will try
+          - No
+        required: true

@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Contest Voting Form
+    pages:
+    - id: 1
+      name: section_voter_info
+      label: -- Voter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_name
+      label: Voter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_id
+      label: Voter ID or Judge Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: voter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: voting_date
+      label: Voting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_contest_info
+      label: -- Contest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contest_name
+      label: Contest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contest_category
+      label: Contest Category
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Digital art
+      - Mixed media
+      - Student work
+      - Other
+      required: true
+    - id: 9
+      name: section_voting
+      label: -- Voting Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: first_place
+      label: First Place Entry Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: first_place_artist
+      label: First Place Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: first_place_title
+      label: First Place Artwork Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: second_place
+      label: Second Place Entry Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: second_place_artist
+      label: Second Place Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: third_place
+      label: Third Place Entry Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: third_place_artist
+      label: Third Place Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_criteria
+      label: -- Voting Criteria Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: technical_skill_rating
+      label: Importance of Technical Skill
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Less important
+      required: true
+    - id: 19
+      name: creativity_rating
+      label: Importance of Creativity and Originality
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Less important
+      required: true
+    - id: 20
+      name: artistic_vision_rating
+      label: Importance of Artistic Vision
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Less important
+      required: true
+    - id: 21
+      name: section_comments
+      label: -- Judge Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: first_place_comment
+      label: Why did you choose first place
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: overall_impressions
+      label: Overall Impressions of the Contest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

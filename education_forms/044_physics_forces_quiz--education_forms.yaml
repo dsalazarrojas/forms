@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physics Forzes Quiz
+    pages:
+    - id: 1
+      name: physics_forces_question
+      label: What is a force?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: force_type
+      label: Types of forces
+      hint: null
+      type: select_one
+      options:
+      - gravity
+      - friction
+      - normal
+      - tension
+      required: true
+    - id: 3
+      name: gravity_question
+      label: Gravity question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: gravitational_force
+      label: Gravitational force
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: newtons_laws
+      label: Newtons Laws
+      hint: null
+      type: select_multiple
+      options:
+      - first law
+      - second law
+      - third law
+      required: true
+    - id: 6
+      name: force_application
+      label: Force application
+      hint: null
+      type: select_one
+      options:
+      - contact
+      - non_contact
+      required: true
+    - id: 7
+      name: physics_forces_question_2
+      label: Physics forces question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: physics_forces_question_3
+      label: Physics forces question 3
+      hint: null
+      type: text
+      options: []
+      required: false

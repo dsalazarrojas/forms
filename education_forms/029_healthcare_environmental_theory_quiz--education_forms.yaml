@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Environmental Theory Quiz
+    pages:
+    - id: 1
+      name: first_page
+      label: healthcare-environmental-theory-quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_environment
+      label: environmental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: theory
+      label: theory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quiz_question_1
+      label: quiz-question-1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quiz_question_2
+      label: quiz-question-2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: healthcare_environment_theory_quiz_category
+      label: healthcare-environmental-theory-quiz-category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

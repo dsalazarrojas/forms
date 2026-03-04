@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Advisor Appointment Form
+    pages:
+    - id: 1
+      name: student_schedule_meeting
+      label: student_schedule_meeting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: advisor_name
+      label: advisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_time
+      label: meeting_time
+      hint: null
+      type: select_one
+      options:
+      - '9.0'
+      - '10.0'
+      - '11.0'
+      - '12.0'
+      - '13.0'
+      required: false
+    - id: 4
+      name: meeting_date
+      label: meeting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: meeting_duration
+      label: meeting_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: preferred_meeting_location
+      label: preferred_meeting_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_phone_number
+      label: student_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false

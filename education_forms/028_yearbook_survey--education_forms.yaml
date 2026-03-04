@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yearbook Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade
+      label: Grade
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - First
+      - Second
+      - Third
+      - Fourth
+      - Fifth
+      - Sixth
+      - Seventh
+      - Eighth
+      - Ninth
+      - Tenth
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth_day
+      label: Day
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      - '26'
+      - '27'
+      - '28'
+      - '29'
+      - '30'
+      - '31'
+      required: true
+    - id: 11
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: true

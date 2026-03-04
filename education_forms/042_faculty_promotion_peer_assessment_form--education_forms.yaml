@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Promotion Peer Assessment Form
+    pages:
+    - id: 1
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Math
+      - Science
+      - Engineering
+      - Other
+      required: true
+    - id: 2
+      name: peer_name
+      label: peer_name
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Doe
+      required: false
+    - id: 3
+      name: peer_rank
+      label: peer_rank
+      hint: null
+      type: select_one
+      options:
+      - Senior
+      - Associate
+      - Adjunct
+      required: false
+    - id: 4
+      name: peer_suggestions
+      label: peer_suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: peer_comments
+      label: peer_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: faculty_name
+      label: faculty_name
+      hint: null
+      type: select_one
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Williams
+      required: true
+    - id: 7
+      name: faculty_title
+      label: faculty_title
+      hint: null
+      type: select_one
+      options:
+      - Associate Professor
+      - Assistant Professor
+      - Assistant Professor with Tenure
+      required: false
+    - id: 8
+      name: peer_rating
+      label: peer_rating
+      hint: null
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Below Expectations
+      required: false
+    - id: 9
+      name: peer_comments_2
+      label: peer_comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: faculty_promotion_recommendation
+      label: faculty_promotion_recommendation
+      hint: null
+      type: select_one
+      options:
+      - Promote
+      - Not Promote
+      - Maybe
+      required: false
+    - id: 11
+      name: faculty_promotion_comment
+      label: faculty_promotion_comment
+      hint: null
+      type: text
+      options: []
+      required: false

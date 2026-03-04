@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Brilliance Template
+    pages:
+    - id: 1
+      name: full_line_form_field
+      label: full line as of July including Summer Splash
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: e_commerce_field
+      label: E-Commerce Forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: category_field
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

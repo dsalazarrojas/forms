@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Innovation Sprint Application Form
+    pages:
+      - id: 1
+        name: section_participant
+        label: -- Participant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: name
+        label: Full name
+        hint: Participant full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: Contact email for event logistics
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: affiliation
+        label: Institution or organization
+        hint: Department or group
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: project_idea
+        label: Brief project idea
+        hint: One paragraph description of proposed sprint project
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: skills_and_roles
+        label: Skills and roles you bring
+        hint: Technical, design, or project management skills
+        type: select_multiple
+        options:
+          - Data analysis
+          - Visualization
+          - UX design
+          - Project management
+          - Teaching and facilitation
+        required: false
+      - id: 7
+        name: availability
+        label: Availability during sprint
+        hint: Dates or times you are available
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Any accommodations required
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: prior_experience
+        label: Prior related experience
+        hint: Briefly describe relevant experience
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Anything else the organizers should know
+        type: text
+        options: []
+        required: false

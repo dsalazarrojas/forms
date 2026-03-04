@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_learning_platform_usability_evaluation_form
+    pages:
+    - id: 1
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: learning_platform
+      label: Learning Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online Learning Environment''}'
+      - '{''value'': ''Online Course Site''}'
+      - '{''value'': ''LMS''}'
+      required: false
+    - id: 3
+      name: usability_rating
+      label: Usability Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: platform_usability
+      label: Platform Usability
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy to use''}'
+      - '{''value'': ''Confusing''}'
+      - '{''value'': ''Not Intuitive''}'
+      - '{''value'': ''Intuitive''}'
+      - '{''value'': ''Unintuitive''}'
+      - '{''value'': ''Frustrating''}'
+      required: false
+    - id: 10
+      name: learning_experience
+      label: Learning Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Engaging''}'
+      - '{''value'': ''Disengaging''}'
+      - '{''value'': ''Somewhat Engaging''}'
+      - '{''value'': ''Somewhat Disengaging''}'
+      - '{''value'': ''Not Engaging''}'
+      - '{''value'': ''Not Disengaging''}'
+      required: false
+    - id: 11
+      name: platform_effectiveness
+      label: Platform Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Effective''}'
+      - '{''value'': ''Ineffective''}'
+      - '{''value'': ''Somewhat Effective''}'
+      - '{''value'': ''Somewhat Ineffective''}'
+      - '{''value'': ''Not Effective''}'
+      - '{''value'': ''Not Ineffective''}'
+      required: false
+    - id: 12
+      name: user_satisfaction
+      label: User Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Satisfied''}'
+      - '{''value'': ''Unsatisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Unsatisfied''}'
+      - '{''value'': ''Not Satisfied''}'
+      - '{''value'': ''Not Unsatisfied''}'
+      required: false
+    - id: 13
+      name: platform_features
+      label: Platform Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Helpful''}'
+      - '{''value'': ''Not Helpful''}'
+      - '{''value'': ''Somewhat Helpful''}'
+      - '{''value'': ''Somewhat Not Helpful''}'
+      - '{''value'': ''Not Helpful''}'
+      required: false
+    - id: 14
+      name: platform_navigation
+      label: Platform Navigation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy to navigate''}'
+      - '{''value'': ''Difficult to navigate''}'
+      - '{''value'': ''Somewhat Easy to navigate''}'
+      - '{''value'': ''Somewhat Difficult to navigate''}'
+      - '{''value'': ''Not Easy to navigate''}'
+      - '{''value'': ''Not Difficult to navigate''}'
+      required: false
+    - id: 15
+      name: platform_search
+      label: Platform Search
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Easy to search''}'
+      - '{''value'': ''Difficult to search''}'
+      - '{''value'': ''Somewhat Easy to search''}'
+      - '{''value'': ''Somewhat Difficult to search''}'
+      - '{''value'': ''Not Easy to search''}'
+      - '{''value'': ''Not Difficult to search''}'
+      required: false
+    - id: 16
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Frequently''}'
+      - '{''value'': ''Occasionally''}'
+      - '{''value'': ''Rarely''}'
+      - '{''value'': ''Never''}'
+      required: false
+    - id: 17
+      name: feedback_improved
+      label: Has Feedback Improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unsure''}'
+      required: false
+    - id: 18
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Engaging''}'
+      - '{''value'': ''Disengaging''}'
+      - '{''value'': ''Somewhat Engaging''}'
+      - '{''value'': ''Somewhat Disengaging''}'
+      - '{''value'': ''Not Engaging''}'
+      - '{''value'': ''Not Disengaging''}'
+      required: false
+    - id: 19
+      name: platform_usability_improved
+      label: Has Usability Improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unsure''}'
+      required: false
+    - id: 20
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Engaging''}'
+      - '{''value'': ''Disengaging''}'
+      - '{''value'': ''Somewhat Engaging''}'
+      - '{''value'': ''Somewhat Disengaging''}'
+      - '{''value'': ''Not Engaging''}'
+      - '{''value'': ''Not Disengaging''}'
+      required: false
+    - id: 21
+      name: platform_effectiveness_improved
+      label: Has Effectiveness Improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unsure''}'
+      required: false
+    - id: 22
+      name: user_satisfaction_improved
+      label: Has User Satisfaction Improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unsure''}'
+      required: false
+    - id: 23
+      name: platform_features_improved
+      label: Have Platform Features Improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unsure''}'
+      required: false
+    - id: 24
+      name: overall_experience_improved
+      label: Has Overall Experience Improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unsure''}'
+      required: false
+    - id: 25
+      name: platform_navigation_improved
+      label: Has Platform Navigation Improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Unsure''}'
+      required: false

@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheder Reading Log
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student and Week Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name_full
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grade_or_class
+      label: Grade / Class
+      hint: null
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      - Class D
+      required: true
+    - id: 4
+      name: week_ending_date_log
+      label: Week Ending Date
+      hint: Select the Sunday ending the week
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_daily_reading
+      label: -- Daily Reading Record (Minutes) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reading_minutes_sunday
+      label: Sunday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reading_minutes_monday
+      label: Monday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reading_minutes_tuesday
+      label: Tuesday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reading_minutes_wednesday
+      label: Wednesday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: reading_minutes_thursday
+      label: Thursday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: reading_minutes_friday
+      label: Friday
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: reading_minutes_shabbos
+      label: Shabbos
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_assignment_details
+      label: -- Assignment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: book_or_assignment_title
+      label: Book or Sefer Title
+      hint: What was being read this week
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: current_page_chapter
+      label: Current Page or Chapter Reached
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reading_difficulty_rating
+      label: How was the reading difficulty
+      hint: null
+      type: select_one
+      options:
+      - Too Easy
+      - Just Right
+      - Challenging
+      - Too Difficult
+      required: true
+    - id: 17
+      name: parent_comments_on_reading
+      label: Parent Comments / Observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: parent_full_name_sig
+      label: Parent / Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: log_certification_statement
+      label: I certify the reading times above are accurate
+      hint: null
+      type: select_one
+      options:
+      - Certified by Parent
+      - Other
+      required: true
+    - id: 20
+      name: teacher_initials_staff
+      label: Teacher Initials (Staff Use)
+      hint: null
+      type: text
+      options: []
+      required: false

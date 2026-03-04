@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adaptive Learning Research Pilot Registration Form
+    pages:
+    - id: 1
+      name: researcher_intro
+      label: -- Pilot Participant Registration --
+      hint: Please register to participate in our adaptive learning technology research
+        pilot
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institutional_affiliation
+      label: Institutional / School Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_role
+      label: Current Role in Education
+      hint: null
+      type: select_one
+      options:
+      - K-12 Teacher
+      - University Professor / Instructor
+      - Educational Administrator
+      - Instructional Designer
+      - Research Student
+      - Other
+      required: true
+    - id: 6
+      name: experience_years
+      label: Years of Teaching / Educational Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tech_header
+      label: -- Technology and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: adaptive_tech_familiarity
+      label: How familiar are you with adaptive learning technologies?
+      hint: 1 = No experience, 5 = Expert user
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_lms_used
+      label: Primary LMS currently used
+      hint: null
+      type: select_one
+      options:
+      - Canvas
+      - Moodle
+      - Blackboard
+      - Google Classroom
+      - Other
+      - None
+      required: true
+    - id: 10
+      name: pilot_motivation
+      label: Why are you interested in this research pilot?
+      hint: Briefly describe your goals for participation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_consent
+      label: -- Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: data_usage_consent
+      label: I consent to my anonymized data being used for research purposes
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 13
+      name: participation_agreement
+      label: I agree to participate in weekly feedback sessions for the 8-week pilot
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: minor_protection_ack
+      label: I certify that I will not share sensitive student data during this pilot
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 15
+      name: registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

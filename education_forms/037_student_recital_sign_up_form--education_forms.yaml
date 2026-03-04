@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Recital Sign Up Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: teacher_name
+      label: Teacher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_grade
+      label: Grade
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 6
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Violin
+      - Cello
+      - Drums
+      required: false
+    - id: 7
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recital_type
+      label: Recital Type
+      hint: null
+      type: select_one
+      options:
+      - Performance
+      - Audition
+      required: true
+    - id: 11
+      name: recital_room
+      label: Recital Room
+      hint: null
+      type: select_one
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      required: true
+    - id: 12
+      name: recital_date
+      label: Recital Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: recital_time
+      label: Recital Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: teacher_name_2
+      label: Teacher Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recital_location
+      label: Recital Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recital_duration
+      label: Recital Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_school
+      label: School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: teacher_name_3
+      label: Teacher Name 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_name_2
+      label: Student Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: teacher_name_4
+      label: Teacher Name 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recital_room_2
+      label: Recital Room 2
+      hint: null
+      type: select_one
+      options:
+      - Recital Room 1
+      - Recital Room 2
+      required: false
+    - id: 25
+      name: recital_room_3
+      label: Recital Room 3
+      hint: null
+      type: select_one
+      options:
+      - Recital Room 1
+      - Recital Room 2
+      - Recital Room 3
+      required: false

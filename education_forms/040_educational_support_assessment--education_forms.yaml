@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Support Assessment
+    pages:
+    - id: 1
+      name: student_challenges
+      label: Student Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_id
+      label: School Id
+      hint: Enter school id
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_needs
+      label: Student Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''academic_support''}'
+      - '{''value'': ''wellbeing_support''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 4
+      name: challenge_details
+      label: Challenge Details
+      hint: Please provide more information about student's challenges
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_plan
+      label: Support Plan
+      hint: Please provide a short-term and long-term support plan
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_plan
+      label: Communication Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: Please specify follow-up actions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tutor
+      label: Assigned Tutor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Tutor1''}'
+      - '{''value'': ''Tutor2''}'
+      - '{''value'': ''Tutor3''}'
+      required: false
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: Enter student email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: student_phone
+      label: Student Phone
+      hint: Enter student phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_email
+      label: School Email
+      hint: Enter school email
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: school_phone
+      label: School Phone
+      hint: Enter school phone number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_counselor
+      label: Assigned Counselor
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Counselor1''}'
+      - '{''value'': ''Counselor2''}'
+      - '{''value'': ''Counselor3''}'
+      required: false
+    - id: 15
+      name: school_id
+      label: School Id
+      hint: Enter school id
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false

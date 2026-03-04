@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catholic Scholarship Application Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: current_grade
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      - First Year College
+      - Other
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_family_info
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_contact_phone
+      label: Parent Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: number_of_siblings
+      label: Number of Siblings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: family_income_range
+      label: Annual Family Income Range
+      hint: null
+      type: select_one
+      options:
+      - Under 25000 dollars
+      - 25000 to 50000 dollars
+      - 50000 to 75000 dollars
+      - 75000 to 100000 dollars
+      - Over 100000 dollars
+      - Prefer not to answer
+      required: true
+    - id: 12
+      name: section_academic_info
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_school
+      label: Current School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: gpa
+      label: Current GPA
+      hint: On 4.0 scale
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: test_scores
+      label: Standardized Test Scores
+      hint: SAT, ACT, or other scores
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_activities_achievements
+      label: -- Activities and Achievements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: Sports, clubs, organizations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_service
+      label: Volunteer Service and Community Involvement
+      hint: Hours and type of service
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: awards_honors
+      label: Awards and Honors
+      hint: Academic and other achievements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_catholic_faith
+      label: -- Catholic Faith and Values --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: parish_participation
+      label: Parish or Church Participation
+      hint: How involved are you in your parish?
+      type: select_one
+      options:
+      - Very Active
+      - Active
+      - Moderately Active
+      - Minimally Active
+      - Not Active
+      required: true
+    - id: 22
+      name: faith_statement
+      label: Statement of Your Catholic Faith
+      hint: How does your faith guide your life?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: section_financial
+      label: -- Financial Need --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: scholarship_amount_needed
+      label: Scholarship Amount Needed
+      hint: Total annual assistance needed
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: essay_financial_service
+      label: Essay - Why You Deserve This Scholarship
+      hint: Describe your financial need and service commitment
+      type: text
+      options: []
+      required: true

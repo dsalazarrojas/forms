@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Stress Survey
+    pages:
+    - id: 1
+      name: student_stress_survey
+      label: Student Stress Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_questions
+      label: Demographic Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: stress_level
+      label: How stressed do you feel?
+      hint: null
+      type: select_one
+      options:
+      - Highly Stressed
+      - Moderately Stressed
+      - Slightly Stressed
+      - Not Stressed
+      required: false
+    - id: 4
+      name: stressors
+      label: What stressors affect you?
+      hint: Choose the most relevant option
+      type: select_multiple
+      options:
+      - Schoolwork and grades
+      - Family and relationships
+      - Finances
+      - Health and physical activity
+      - Academic expectations
+      - Social media
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: schoolwork_and_grades
+      label: Schoolwork and grades
+      hint: null
+      type: select_one
+      options:
+      - Highly Stressed
+      - Moderately Stressed
+      - Slightly Stressed
+      - Not Stressed
+      required: false
+    - id: 6
+      name: family_and_relationships
+      label: Family and relationships
+      hint: null
+      type: select_one
+      options:
+      - Highly Stressed
+      - Moderately Stressed
+      - Slightly Stressed
+      - Not Stressed
+      required: false
+    - id: 7
+      name: finances
+      label: Finances
+      hint: null
+      type: select_one
+      options:
+      - Highly Stressed
+      - Moderately Stressed
+      - Slightly Stressed
+      - Not Stressed
+      required: false
+    - id: 8
+      name: health_and_physical_activity
+      label: Health and physical activity
+      hint: null
+      type: select_one
+      options:
+      - Highly Stressed
+      - Moderately Stressed
+      - Slightly Stressed
+      - Not Stressed
+      required: false
+    - id: 9
+      name: academic_expectations
+      label: Academic expectations
+      hint: null
+      type: select_one
+      options:
+      - Highly Stressed
+      - Moderately Stressed
+      - Slightly Stressed
+      - Not Stressed
+      required: false
+    - id: 10
+      name: social_media
+      label: Social Media
+      hint: null
+      type: select_one
+      options:
+      - Highly Stressed
+      - Moderately Stressed
+      - Slightly Stressed
+      - Not Stressed
+      required: false

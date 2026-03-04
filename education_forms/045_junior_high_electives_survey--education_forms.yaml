@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior High Electives Survey
+    pages:
+    - id: 1
+      name: elect_prophets_survey
+      label: electives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: past_courses
+      label: pastcourses
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: special_requests
+      label: specialrequests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: electives_preferences
+      label: electivespreferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

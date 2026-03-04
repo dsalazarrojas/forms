@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Numeric Input Practice Form
+    pages:
+    - id: 1
+      name: numeric_input_1
+      label: First question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: numeric_input_2
+      label: Basic calculation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: confidence_level
+      label: Confidence level
+      hint: How sure are you about your answers?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_estimate
+      label: Estimated time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: date_estimate
+      label: Estimated date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: select_one_1
+      label: Select one
+      hint: Select one option
+      type: select_one
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      required: false
+    - id: 7
+      name: select_multiple_1
+      label: Select multiple
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - '{''label'': ''D''}'
+      - '{''label'': ''E''}'
+      - '{''label'': ''F''}'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

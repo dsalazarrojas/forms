@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: counseling_referral_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_grade_level
+      label: Student Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      required: true
+    - id: 3
+      name: student_education_level
+      label: Student Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - University
+      required: true
+    - id: 4
+      name: referral_reason
+      label: Referral Reason
+      hint: Please select the reason for the referral
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: student_school_or_college
+      label: Student School or College
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_grade_average
+      label: Student Grade Average
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: referral_program
+      label: Referral Program
+      hint: null
+      type: select_one
+      options:
+      - School Counseling Program
+      - Private Physician
+      - Government Institution
+      required: true
+    - id: 8
+      name: counselor_name
+      label: Counselor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: counselor_email
+      label: Counselor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Counselor
+      - Parent
+      required: false
+    - id: 16
+      name: referral_by_who
+      label: Referral By Whom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referral_source_2
+      label: Referral Source 2
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 18
+      name: counselor_notes
+      label: Counselor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: next_step
+      label: Next Step
+      hint: null
+      type: select_one
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 21
+      name: counselor_phone
+      label: Counselor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_phone
+      label: Additional Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_additional_comments
+      label: Student Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: referral_program_1
+      label: Referral Program 1
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 25
+      name: school_or_college_address
+      label: School or College Address
+      hint: null
+      type: text
+      options: []
+      required: false

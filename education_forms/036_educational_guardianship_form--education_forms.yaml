@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_guardianship_form
+    pages:
+    - id: 1
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: guardians_name
+      label: Guardian's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guardian_relationship_type
+      label: Guardian Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Guardian in loco parentis
+      - Other
+      required: false
+    - id: 6
+      name: guardians_address
+      label: Guardian's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guardians_phone
+      label: Guardian's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guardians_email
+      label: Guardian's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: guardian_relationship_start_date
+      label: Relationship Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: guardian_relationship_end_date
+      label: Relationship End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_guardianship
+      label: Reason for Guardianship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: legal_document_number
+      label: Legal Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: legal_document_date
+      label: Legal Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: guardianship_agreement_signed
+      label: Guardianship Agreement Signed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: educational_authorization
+      label: Educational Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 19
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_relationship_other_description
+      label: Emergency Contact Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_authorization
+      label: Medical Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_authorization_notes
+      label: Medical Authorization Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: agreement_signed_by
+      label: Agreement Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: agreement_signed_on
+      label: Agreement Signed On
+      hint: null
+      type: date
+      options: []
+      required: false

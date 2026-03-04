@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Quality Survey
+    pages:
+    - id: 1
+      name: program_quality_survey_first_page
+      label: Program Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_quality_survey_second_page
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: program_quality_survey_third_page
+      label: Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program_quality_survey_fourth_page
+      label: Facilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: program_quality_survey_fifth_page
+      label: Feedback
+      hint: null
+      type: email
+      options: []
+      required: false

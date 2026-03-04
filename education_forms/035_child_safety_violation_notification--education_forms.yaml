@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Safety Violation Notification
+    pages:
+      - id: 1
+        name: section_incident_reporting
+        label: -- Incident Reporting --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reporter_name
+        label: Name of Person Reporting
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reporter_role
+        label: Your Role
+        hint: Select one
+        type: select_one
+        options:
+          - label: Teacher
+            value: teacher
+          - label: Parent
+            value: parent
+          - label: Staff Member
+            value: staff
+          - label: Visitor
+            value: visitor
+        required: true
+      - id: 4
+        name: section_incident_details
+        label: -- Incident Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: incident_date
+        label: Date of Incident
+        hint: When did it occur?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: incident_time
+        label: Time of Incident
+        hint: Approximate time
+        type: time
+        options: []
+        required: true
+      - id: 7
+        name: incident_location
+        label: Location of Incident
+        hint: Specific room or area
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: section_violation_desc
+        label: -- Violation Description --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: violation_type
+        label: Type of Violation
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - label: Lack of Supervision
+            value: supervision
+          - label: Physical Hazard
+            value: hazard
+          - label: Protocol Breach
+            value: protocol
+          - label: Unsafe Equipment
+            value: equipment
+        required: true
+      - id: 10
+        name: violation_details
+        label: Detailed description of what occurred
+        hint: Provide as much detail as possible
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: section_impact
+        label: -- Impact and Injury --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: injured_status
+        label: Was anyone injured?
+        hint: Physical harm
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+        required: true
+      - id: 13
+        name: injury_description
+        label: Describe injuries if any
+        hint: Detail any first aid provided
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: section_immediate_action
+        label: -- Immediate Action --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: steps_taken
+        label: Steps taken immediately following the incident
+        hint: e.g., Notified principal, Secured area
+        type: text
+        options: []
+        required: true

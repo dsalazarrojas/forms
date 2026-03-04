@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advising Planning Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_major
+      label: Current Major / Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: advisor_name
+      label: Academic Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: meeting_date
+      label: Advising Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: academic_goals_header
+      label: -- Academic Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: short_term_goals
+      label: Short-Term Academic Goals
+      hint: What do you hope to achieve this semester?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: long_term_goals
+      label: Long-Term Career/Academic Goals
+      hint: What are your plans after graduation?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: course_planning_header
+      label: -- Course Planning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: planned_courses_fall
+      label: Planned Courses (Fall Semester)
+      hint: List course codes and titles.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: planned_courses_spring
+      label: Planned Courses (Spring Semester)
+      hint: List course codes and titles.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: anticipated_challenges
+      label: Anticipated Challenges
+      hint: Are there any obstacles you foresee?
+      type: select_multiple
+      options:
+      - Course Difficulty
+      - Time Management
+      - Financial Issues
+      - Personal/Health Issues
+      - Work/Life Balance
+      required: false
+    - id: 14
+      name: support_resources
+      label: Recommended Support Resources
+      hint: Discussed during session.
+      type: select_multiple
+      options:
+      - Tutoring Center
+      - Writing Center
+      - Counseling Services
+      - Career Services
+      - Financial Aid Office
+      required: false
+    - id: 15
+      name: next_meeting
+      label: Next Scheduled Meeting
+      hint: Tentative date for follow-up.
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: advisor_notes
+      label: Advisor Notes
+      hint: Summary of discussion and action items.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: agreement
+      label: Student Acknowledgment
+      hint: I understand the plan outlined above.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

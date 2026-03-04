@@ -1,0 +1,59 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Learning Management System Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate your experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1'', ''label'': ''Very poor''}'
+      - '{''value'': ''2'', ''label'': ''Poor''}'
+      - '{''value'': ''3'', ''label'': ''Neutral''}'
+      - '{''value'': ''4'', ''label'': ''Good''}'
+      - '{''value'': ''5'', ''label'': ''Excellent''}'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: course_enrolled
+      label: Courses enrolled
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Math'', ''label'': ''Math''}'
+      - '{''value'': ''Science'', ''label'': ''Science''}'
+      - '{''value'': ''English'', ''label'': ''English''}'
+      required: false

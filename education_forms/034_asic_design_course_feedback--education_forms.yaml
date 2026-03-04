@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: ASIC Design Course Feedback
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: Your email (optional, for follow-up)
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Name of the ASIC Design course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_code
+      label: Course Code
+      hint: Course code or identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the course instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: semester_term
+      label: Semester/Term
+      hint: Which semester or term did you take this course?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: overall_course_rating
+      label: Overall Course Rating
+      hint: Rate the overall quality of the course
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 8
+      name: course_content_relevance
+      label: Course Content Relevance
+      hint: How relevant was the course content to ASIC design?
+      type: select_one
+      options: ["Very Relevant", "Relevant", "Somewhat Relevant", "Not Very Relevant", "Not Relevant"]
+      required: true
+    - id: 9
+      name: course_materials_quality
+      label: Course Materials Quality
+      hint: Rate the quality of course materials (slides, readings, assignments)
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 10
+      name: instructor_knowledge
+      label: Instructor Knowledge
+      hint: How knowledgeable was the instructor about ASIC design?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 11
+      name: instructor_teaching_effectiveness
+      label: Instructor Teaching Effectiveness
+      hint: How effectively did the instructor present the material?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very Poor"]
+      required: true
+    - id: 12
+      name: practical_application_opportunities
+      label: Practical Application Opportunities
+      hint: Were there sufficient opportunities to apply concepts practically?
+      type: select_one
+      options: ["Abundant", "Sufficient", "Adequate", "Insufficient", "None"]
+      required: true
+    - id: 13
+      name: assignment_difficulty
+      label: Assignment Difficulty
+      hint: How would you rate the difficulty level of assignments?
+      type: select_one
+      options: ["Too Easy", "Appropriate", "Challenging", "Too Difficult", "Extremely Difficult"]
+      required: true
+    - id: 14
+      name: course_pacing
+      label: Course Pacing
+      hint: Was the course pace appropriate?
+      type: select_one
+      options: ["Too Fast", "Appropriate", "Too Slow"]
+      required: true
+    - id: 15
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend this course to others?
+      type: select_one
+      options: ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]
+      required: true
+    - id: 16
+      name: course_improvement_suggestions
+      label: Course Improvement Suggestions
+      hint: What suggestions do you have for improving the course?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments about the course?
+      type: text
+      options: []
+      required: false

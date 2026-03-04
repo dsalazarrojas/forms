@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: dual_enrollment_application_form
+    pages:
+    - id: 1
+      name: high_school
+      label: high_school
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Charter School
+      - Home Schooled
+      required: false
+    - id: 2
+      name: student_details
+      label: student_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_choices
+      label: course_choices
+      hint: null
+      type: select_one
+      options:
+      - Math
+      - Science
+      - English
+      - Social Studies
+      - Physical Education
+      required: false
+    - id: 4
+      name: approvals
+      label: approvals
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      required: true
+    - id: 5
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

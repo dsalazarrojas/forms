@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pediatrics Virtual Course Agreement Form
+    pages:
+    - id: 1
+      name: user_information_form_inputs
+      label: User Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_information
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: course_completion
+      label: Course Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: course_start_date
+      label: Course Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: course_end_date
+      label: Course End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: enrollment_agreement
+      label: Enrollment Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: emergency_contact_agreement
+      label: Emergency Contact Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: course_progress
+      label: Course Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: course_progress_details
+      label: Course Progress Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: instructor_information
+      label: Instructor Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: instructor_relationship
+      label: Instructor Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: course_evaluation
+      label: Course Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true

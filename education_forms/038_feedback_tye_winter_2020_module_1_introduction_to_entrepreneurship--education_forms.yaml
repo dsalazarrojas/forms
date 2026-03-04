@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: feedback_tye_winter_2020_module_1_introduction_to_entrepreneurship
+    pages:
+    - id: 1
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: module_1
+      label: module_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: module_2
+      label: module_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: module_1_feedback
+      label: module_1_feedback
+      hint: null
+      type: select_one
+      options:
+      - Module 1 Feedback
+      - Good
+      - Bad
+      required: false
+    - id: 10
+      name: module_2_feedback
+      label: module_2_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: email_sent
+      label: email_sent
+      hint: null
+      type: text
+      options: []
+      required: false

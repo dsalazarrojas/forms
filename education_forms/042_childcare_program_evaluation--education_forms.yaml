@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Program Evaluation
+    pages:
+    - id: 1
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of program evaluation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: enrollment_duration
+      label: Enrollment Duration
+      hint: How long has your child been enrolled?
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - More than 2 years
+      required: true
+    - id: 9
+      name: overall_program_satisfaction
+      label: Overall Program Satisfaction
+      hint: How satisfied are you with the program overall?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: curriculum_quality
+      label: Curriculum Quality
+      hint: How would you rate the curriculum quality?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: true
+    - id: 11
+      name: learning_activities
+      label: Learning Activities
+      hint: How would you rate the learning activities provided?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: staff_qualifications
+      label: Staff Qualifications
+      hint: How would you rate staff qualifications?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 13
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: How would you rate staff friendliness?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 14
+      name: staff_responsiveness
+      label: Staff Responsiveness
+      hint: How would you rate staff responsiveness to concerns?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 15
+      name: teacher_child_interaction
+      label: Teacher-Child Interaction
+      hint: How would you rate teacher-child interactions?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 16
+      name: communication_quality
+      label: Communication Quality
+      hint: How would you rate communication with the program?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: communication_frequency
+      label: Communication Frequency
+      hint: How often does the program communicate with you?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 18
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: How would you rate facility cleanliness?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 19
+      name: facility_safety
+      label: Facility Safety
+      hint: How would you rate facility safety?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 20
+      name: outdoor_play_area
+      label: Outdoor Play Area
+      hint: How would you rate the outdoor play area?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: true
+    - id: 21
+      name: meal_snack_quality
+      label: Meal and Snack Quality
+      hint: How would you rate the quality of meals and snacks?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: true
+    - id: 22
+      name: value_for_cost
+      label: Value for Cost
+      hint: How would you rate the value for the cost?
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 23
+      name: child_development_progress
+      label: Child Development Progress
+      hint: What progress has your child made?
+      type: select_one
+      options:
+      - Significant progress
+      - Moderate progress
+      - Some progress
+      - Minimal progress
+      - No progress observed
+      required: true
+    - id: 24
+      name: child_happiness
+      label: Child Happiness
+      hint: How happy is your child in the program?
+      type: select_one
+      options:
+      - Very happy
+      - Happy
+      - Neutral
+      - Unhappy
+      - Very unhappy
+      required: true
+    - id: 25
+      name: program_strengths
+      label: Program Strengths
+      hint: What are the program's greatest strengths?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas need improvement?
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend this program to other parents?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Neutral
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or suggestions
+      type: text
+      options: []
+      required: false

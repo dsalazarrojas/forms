@@ -1,0 +1,282 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Pick Up Form
+    pages:
+    - id: 1
+      name: student_information_section
+      label: Student Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: Enter the student's complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Student identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_grade
+      label: Student Grade Level
+      hint: Current grade level of the student
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 5
+      name: student_classroom_teacher
+      label: Classroom Teacher
+      hint: Name of the student's classroom teacher
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_school
+      label: School Name
+      hint: Name of the school the student attends
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pickup_person_information_section
+      label: Pick-Up Person Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pickup_person_full_name
+      label: Pick-Up Person Full Name
+      hint: Enter the full name of the person picking up the student
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pickup_person_relationship
+      label: Relationship to Student
+      hint: Relationship of the pick-up person to the student
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Sibling
+      - Aunt/Uncle
+      - Family Friend
+      - Babysitter
+      - Other
+      required: true
+    - id: 10
+      name: pickup_person_phone
+      label: Pick-Up Person Phone Number
+      hint: Phone number of the person picking up the student
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: pickup_person_email
+      label: Pick-Up Person Email
+      hint: Email address of the person picking up the student
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: pickup_person_id
+      label: Pick-Up Person ID
+      hint: Driver's license or other ID number of the pick-up person
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: pickup_date_time_section
+      label: Pick-Up Date and Time
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: pickup_date
+      label: Pick-Up Date
+      hint: Date when the student will be picked up
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: pickup_time
+      label: Pick-Up Time
+      hint: Time when the student will be picked up
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: pickup_location
+      label: Pick-Up Location
+      hint: Where will the student be picked up from?
+      type: select_one
+      options:
+      - School Main Entrance
+      - School Side Entrance
+      - School Back Entrance
+      - School Office
+      - Playground
+      - Other
+      required: true
+    - id: 17
+      name: transportation_method
+      label: Transportation Method
+      hint: How will the student be transported home?
+      type: select_one
+      options:
+      - Personal Vehicle
+      - School Bus
+      - Walking
+      - Bicycle
+      - Public Transportation
+      - Other
+      required: true
+    - id: 18
+      name: authorized_pickup_section
+      label: Authorized Pick-Up
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: authorized_on_file
+      label: Previously Authorized on File
+      hint: Is this person already authorized to pick up the student on file?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: special_pickup_authorization
+      label: Special Pick-Up Authorization
+      hint: Is this a one-time special authorization for pick-up?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: authorization_details
+      label: Authorization Details
+      hint: If special authorization, please provide details
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_section
+      label: Emergency Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of the student's emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of the student's emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: parent_guardian_notification
+      label: Parent/Guardian Notification
+      hint: Has the parent/guardian been notified of this pick-up arrangement?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not required
+      required: true
+    - id: 26
+      name: special_instructions_section
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions regarding the pick-up?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: medical_alerts
+      label: Medical Alerts
+      hint: Does the student have any medical alerts that the pick-up person should
+        know about?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: medical_alert_details
+      label: Medical Alert Details
+      hint: If yes, please provide details about the medical alert
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: signature_verification_section
+      label: Signature Verification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: staff_member_name
+      label: Staff Member Name
+      hint: Name of the staff member verifying the pick-up
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: staff_signature
+      label: Staff Signature
+      hint: Signature of the staff member releasing the student
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: pickup_confirmed
+      label: Pick-Up Confirmed
+      hint: I confirm that the student has been safely released to the authorized
+        person
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

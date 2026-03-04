@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Aid Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 11
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: school_year
+      label: School Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: student_type
+      label: Student Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: student_status
+      label: Student Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: school_status
+      label: School Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 20
+      name: aid_request
+      label: Aid Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reason_for_aid_request
+      label: Reason for Aid Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: aid_amount
+      label: Aid Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: aid_funding_source
+      label: Aid Funding Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: aid_funding_source_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: aid_funding_source_other_details
+      label: Other Aid Funding Source Details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Education Expo Registration Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: level_of_education
+      label: level_of_education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High school''}'
+      - '{''id'': 2, ''name'': "Bachelor''s"}'
+      - '{''id'': 3, ''name'': "Master''s"}'
+      - '{''id'': 4, ''name'': ''Phd''}'
+      required: false
+    - id: 3
+      name: fields_of_interest
+      label: fields_of_interest
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Science''}'
+      - '{''id'': 2, ''name'': ''Arts''}'
+      - '{''id'': 3, ''name'': ''Humanities''}'
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registered_for
+      label: registered_for
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Expo''}'
+      - '{''id'': 2, ''name'': ''Workshop''}'
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

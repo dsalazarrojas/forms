@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research Visualization Request Form
+    pages:
+    - id: 1
+      name: visualization_request_intro
+      label: Academic Research Visualization Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting visualization services
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Professional email for communication about this request
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_institution
+      label: Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_department
+      label: Department
+      hint: Academic department or research unit
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: research_project_title
+      label: Research Project Title
+      hint: Title of the research project requiring visualization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: visualization_purpose
+      label: Purpose of Visualization
+      hint: What is the primary purpose of the visualization?
+      type: select_one
+      options: ["Academic publication", "Conference presentation", "Thesis/dissertation", "Grant proposal", "Classroom instruction", "Public outreach", "Other"]
+      required: true
+    - id: 8
+      name: visualization_type_requested
+      label: Type of Visualization Requested
+      hint: What type of visualization do you need?
+      type: select_one
+      options: ["Bar chart", "Line graph", "Scatter plot", "Heat map", "Network diagram", "Geospatial map", "Infographic", "3D visualization", "Other"]
+      required: true
+    - id: 9
+      name: data_description
+      label: Data Description
+      hint: Briefly describe the data to be visualized
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: audience_type
+      label: Target Audience
+      hint: Who is the intended audience for this visualization?
+      type: select_one
+      options: ["Academic peers", "General public", "Students", "Policy makers", "Funding agencies", "Industry professionals", "Other"]
+      required: true
+    - id: 11
+      name: complexity_level
+      label: Complexity Level
+      hint: What level of complexity is appropriate for this visualization?
+      type: select_one
+      options: ["Simple and clear", "Moderately complex", "Highly detailed", "Technical audience", "Customizable"]
+      required: true
+    - id: 12
+      name: timeline_deadline
+      label: Timeline Deadline
+      hint: When do you need the visualization completed?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: file_formats_needed
+      label: File Formats Needed
+      hint: What file formats do you need for the visualization?
+      type: select_multiple
+      options: ["PDF", "PNG", "SVG", "JPEG", "PowerPoint slide", "Interactive HTML", "Other"]
+      required: false
+    - id: 14
+      name: color_scheme_preference
+      label: Color Scheme Preference
+      hint: Do you have any color scheme preferences or requirements?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: branding_requirements
+      label: Branding Requirements
+      hint: Do you have any institutional branding requirements?
+      type: select_one
+      options: ["Yes, strict requirements", "Yes, preferred elements", "No, flexible", "Not applicable"]
+      required: true
+    - id: 16
+      name: data_file_upload
+      label: Data File Upload
+      hint: Upload the data file(s) to be visualized (CSV, Excel, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any other specific requirements or notes for the visualization?
+      type: text
+      options: []
+      required: false

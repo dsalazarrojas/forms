@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: CPKING Presentation Proposal Entry
+    pages:
+    - id: 1
+      name: presenter_name
+      label: Presenter Full Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: presenter_email
+      label: Email Address
+      hint: For all communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: presenter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: presenter_organization
+      label: Organization or Institution
+      hint: Affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presenter_title
+      label: Professional Title or Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: presenter_bio
+      label: Professional Biography
+      hint: Brief summary of credentials
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: co_presenters
+      label: Co-Presenters
+      hint: Names and emails of other presenters
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: presentation_title
+      label: Presentation Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: presentation_description
+      label: Presentation Description
+      hint: Abstract or summary of content
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: presentation_duration
+      label: Requested Presentation Duration
+      hint: null
+      type: select_one
+      options:
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      - 2 hours
+      required: true
+    - id: 11
+      name: learning_outcomes
+      label: Learning Outcomes
+      hint: What will audience learn
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Who is this presentation for
+      type: select_multiple
+      options:
+      - Educators
+      - Administrators
+      - Healthcare professionals
+      - Business professionals
+      - Technology professionals
+      - General public
+      - Other
+      required: true
+    - id: 13
+      name: presentation_track
+      label: Presentation Track or Category
+      hint: Choose the best fit
+      type: select_one
+      options:
+      - Leadership
+      - Technology
+      - Education
+      - Business
+      - Health and Wellness
+      - Innovation
+      - Other
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Special Equipment or Room Requirements
+      hint: Projector, microphone, whiteboard etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: handout_available
+      label: Handout or Resource Materials Available
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide
+      required: false
+    - id: 16
+      name: first_time_presenter
+      label: First Time Presenter at CPKING
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: previous_conferences
+      label: Previous Conference Presentations
+      hint: Where and when
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: motivation
+      label: Why Do You Want to Present
+      hint: Your motivation or perspective
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: consent_agreement
+      label: I agree to present at the conference if selected
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: submission_date
+      label: Proposal Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

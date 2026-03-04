@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Clerkship Evaluation Form
+    pages:
+    - id: 1
+      name: evaluator_section
+      label: -- Evaluator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preceptor_name
+      label: Preceptor/Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: specialty
+      label: Clinical Specialty
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_section
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: rotation_name
+      label: Clinical Rotation
+      hint: Name and duration
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rotation_duration
+      label: Duration of Rotation
+      hint: In weeks
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: clinical_skills_section
+      label: -- Clinical Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: history_physical
+      label: History and physical examination skills
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 12
+      name: diagnostic_reasoning
+      label: Diagnostic reasoning and analysis
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 13
+      name: clinical_judgment
+      label: Clinical judgment
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 14
+      name: technical_skills
+      label: Technical/procedural skills
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: false
+    - id: 15
+      name: professional_section
+      label: -- Professional Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reliability
+      label: Reliability and responsibility
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 17
+      name: communication
+      label: Communication skills
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 18
+      name: professionalism
+      label: Professionalism and etiquette
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 19
+      name: teamwork
+      label: Teamwork and collaboration
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 20
+      name: learning_section
+      label: -- Learning and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: initiative
+      label: Initiative and self-directed learning
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 22
+      name: response_feedback
+      label: Response to feedback
+      hint: null
+      type: select_one
+      options:
+      - Below expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true
+    - id: 23
+      name: strengths
+      label: Student's key strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: areas_improvement
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_evaluation
+      label: Overall evaluation
+      hint: null
+      type: select_one
+      options:
+      - Does not meet expectations
+      - Meets expectations
+      - Exceeds expectations
+      required: true

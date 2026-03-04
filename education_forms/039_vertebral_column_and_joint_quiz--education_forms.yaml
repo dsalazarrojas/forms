@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vertebral Column And Joint Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vertebral_column
+      label: Vertebral Column
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: anatomy
+      label: Anatomy
+      hint: null
+      type: select_multiple
+      options:
+      - Thoracic
+      - Lumbar
+      - Cervical
+      - Sacral
+      - Sacroiliac
+      - Sternum
+      required: false
+    - id: 4
+      name: joints
+      label: Joints
+      hint: null
+      type: select_multiple
+      options:
+      - Ball and Socket Joint
+      - Plane Synovial Joint
+      - Gliding Joint
+      - Pivot Joint
+      - Saddle Joint
+      - Ball-and-socket Joint
+      required: true
+    - id: 5
+      name: cervical_joints
+      label: Cervical Joints
+      hint: null
+      type: select_multiple
+      options:
+      - Atlanto-Axial Joint
+      - Deltoid Joint
+      - C1-C2 Joint
+      - C1-C7 Joint
+      - C2-C6 Joint
+      - C6-T1 Joint
+      required: false
+    - id: 6
+      name: thoracic_joints
+      label: Thoracic Joints
+      hint: null
+      type: select_multiple
+      options:
+      - D2-D4 Joint
+      - D4-D12 Joint
+      - D12-T1 Joint
+      - D12-T12 Joint
+      - T1-T12 Joint
+      required: false
+    - id: 7
+      name: lumbar_joints
+      label: Lumbar Joints
+      hint: null
+      type: select_multiple
+      options:
+      - L1-L5 Joint
+      - L1-S1 Joint
+      - L5-S1 Joint
+      - L5-S2 Joint
+      - L5-S4 Joint
+      required: false
+    - id: 8
+      name: sacral_joints
+      label: Sacral Joints
+      hint: null
+      type: select_multiple
+      options:
+      - S1-S2 Joint
+      - S2-S3 Joint
+      - S2-S5 Joint
+      - S3-S4 Joint
+      required: false
+    - id: 9
+      name: vertebral_discs
+      label: Vertebral Disks
+      hint: null
+      type: select_multiple
+      options:
+      - Intervertebral Disk
+      - Intersegmental Disk
+      - Sacrum Disk
+      - Interlumbar Disk
+      - Intervertebral Disk
+      required: true
+    - id: 10
+      name: vertebrae
+      label: Vertebral Column Segments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: joints_position
+      label: Joints Position
+      hint: null
+      type: select_one
+      options:
+      - Left
+      - Right
+      - Both
+      required: false
+    - id: 12
+      name: vertebrae_segments
+      label: Vertebral Column Segments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: joint_stability
+      label: Joint Stability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: anatomy_info
+      label: Anatomy Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: quiz_score
+      label: Quiz Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: quiz_time
+      label: Quiz Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

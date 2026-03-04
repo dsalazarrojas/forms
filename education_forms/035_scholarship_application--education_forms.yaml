@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: scholarship_application
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: upload_pictures
+      label: Upload Pictures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: true
+    - id: 4
+      name: character_idea
+      label: What's An Interesting Idea About You
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: books_read
+      label: List Of Books You've Read
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: essay_question
+      label: Essay Question
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: upload_signature
+      label: Upload Your Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: note
+      options: []
+      required: false

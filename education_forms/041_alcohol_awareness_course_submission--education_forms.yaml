@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Awareness Course Submission
+    pages:
+    - id: 1
+      name: section_participant
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Verification of age may be required
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For course materials and certificate
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: occupation_school
+      label: Organization or School Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_course_selection
+      label: -- Course Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_level
+      label: Course Level Requested
+      hint: null
+      type: select_one
+      options:
+      - Basic Awareness (1 Hour)
+      - Intermediate (Half-Day)
+      - Advanced/Intensive (Full Day)
+      - Corporate/Workplace Safety
+      required: true
+    - id: 9
+      name: preferred_session_date
+      label: Preferred Course Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: session_time_slot
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning (9am - 12pm)
+      - Afternoon (1pm - 4pm)
+      - Evening (5pm - 8pm)
+      required: true
+    - id: 11
+      name: delivery_format
+      label: Course Delivery Format
+      hint: null
+      type: select_one
+      options:
+      - Online (Live Webinar)
+      - In-person (Classroom)
+      - Self-paced (E-learning)
+      required: true
+    - id: 12
+      name: reason_for_enrollment
+      label: Reason for Enrollment
+      hint: null
+      type: select_one
+      options:
+      - Professional Development
+      - School Requirement
+      - Legal/Court Requirement
+      - Personal Interest
+      required: true
+    - id: 13
+      name: section_consent
+      label: -- Consent and Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_consent
+      label: I consent to participate in this alcohol awareness course
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - Other
+      required: true
+    - id: 15
+      name: information_accuracy
+      label: I declare that all information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

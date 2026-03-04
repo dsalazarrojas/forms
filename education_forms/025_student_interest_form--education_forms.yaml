@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Interest Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: student_interests
+      label: Student Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: academic_preferences
+      label: Academic Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: career_goals
+      label: Career Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hobbies
+      label: Hobbies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: extracurricular_activities
+      label: Extracurricular Activities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: parent_involvement
+      label: Parent Involvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

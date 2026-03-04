@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ancient Gaul Quiz
+    pages:
+    - id: 1
+      name: instructions
+      label: -- Quiz Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: question_1
+      label: Which tribe inhabited ancient Gaul
+      hint: Choose one
+      type: select_one
+      options:
+      - Aedui
+      - Carthaginians
+      - Spartans
+      required: true
+    - id: 4
+      name: question_2
+      label: Key characteristic of Gallic society
+      hint: Short answer
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: score
+      label: Score
+      hint: For instructor use
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: Optional comments
+      type: text
+      options: []
+      required: false

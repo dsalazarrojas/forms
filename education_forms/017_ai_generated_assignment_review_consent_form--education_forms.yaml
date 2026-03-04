@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Generated Assignment Review Consent Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: '--- Student and Course Information ---'
+      hint: Please provide the student's identification and course details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_title
+      label: Course Title / Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: review_process_note
+      label: '--- AI Review Process Description ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: process_description
+      label: Disclosure of AI Utilization
+      hint: As part of the evaluation process, your assignments may be reviewed by
+        Artificial Intelligence (AI) tools for formatting, structural analysis, and
+        initial feedback generation. Final grading and qualitative review remain the
+        responsibility of the instructor.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: ai_tools_consent
+      label: Consent to AI Analysis
+      hint: Do you consent to having your coursework processed by institution-approved
+        AI review tools?
+      type: select_one
+      options:
+      - label: Yes, I consent
+        value: true
+      - label: No, I do not consent (Manual review only)
+        value: false
+      required: true
+    - id: 9
+      name: data_privacy_acknowledgment
+      label: Data Privacy Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - label: I understand that my data will be processed according to the institution's
+          privacy policy and will not be used to train external AI models.
+        value: acknowledged
+      - Other
+      required: true
+    - id: 10
+      name: scope_of_consent
+      label: Scope of Consent
+      hint: For which assignments does this consent apply?
+      type: select_one
+      options:
+      - label: All assignments for the duration of this course
+        value: all
+      - label: Specific assignments only (Please list below)
+        value: specific
+      required: true
+    - id: 11
+      name: specific_assignments_list
+      label: If "Specific", please list assignments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: human_oversight_agreement
+      label: Human Oversight Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - label: I understand that AI feedback is supplementary and all final academic
+          decisions are made by human faculty.
+        value: understood
+      - Other
+      required: true
+    - id: 13
+      name: minor_status
+      label: Is the student under 18 years of age?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      required: true
+    - id: 14
+      name: guardian_name
+      label: Parent / Guardian Name (If under 18)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Confirmation Email Address
+      hint: A copy of this signed consent will be sent here.
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: digital_signature
+      label: Digital Consent Signature
+      hint: By selecting 'I agree', you are providing a digital signature.
+      type: select_one
+      options:
+      - label: I agree and sign this consent form
+        value: signed
+      - Other
+      required: true
+    - id: 17
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

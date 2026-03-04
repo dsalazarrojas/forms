@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_library_resource_management_audit_form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: librarian_name
+      label: Librarian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: resource_condition
+      label: Resource Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: date_last_accessed
+      label: Date Last Access
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_last_access
+      label: Time Last Access
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: last_access_duration
+      label: Last Access Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: last_access_frequency
+      label: Last Access Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: findings
+      label: Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

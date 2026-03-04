@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poster Submission Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Attendance Card Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: student_id
+        label: Student ID Number
+        hint: School identification number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM/DD/YYYY format
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: grade_level
+        label: Grade Level
+        hint: Select your grade
+        type: select_one
+        options:
+          - Kindergarten
+          - Grade 1
+          - Grade 2
+          - Grade 3
+          - Grade 4
+          - Grade 5
+          - Grade 6
+          - Grade 7
+          - Grade 8
+          - Grade 9
+          - Grade 10
+          - Grade 11
+          - Grade 12
+        required: true
+      - id: 5
+        name: class_name
+        label: Class or Course Name
+        hint: e.g. Mathematics 101
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: class_section
+        label: Class Section
+        hint: Section number or letter
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: teacher_name
+        label: Teacher Name
+        hint: Instructor name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: academic_year
+        label: Academic Year
+        hint: School year
+        type: select_one
+        options:
+          - 2025-2026
+          - 2026-2027
+          - 2027-2028
+        required: true
+      - id: 9
+        name: semester_term
+        label: Semester or Term
+        hint: Current term
+        type: select_one
+        options:
+          - Fall Semester
+          - Spring Semester
+          - Summer Session
+          - Winter Term
+        required: true
+      - id: 10
+        name: attendance_date
+        label: Attendance Date
+        hint: Date of this class session
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: attendance_status
+        label: Attendance Status
+        hint: Select your status
+        type: select_one
+        options:
+          - Present
+          - Absent - Excused
+          - Absent - Unexcused
+          - Late Arrival
+          - Early Departure
+        required: true
+      - id: 12
+        name: arrival_time
+        label: Arrival Time
+        hint: If late, record time
+        type: time
+        options: []
+        required: false
+      - id: 13
+        name: departure_time
+        label: Departure Time
+        hint: If early departure, record time
+        type: time
+        options: []
+        required: false
+      - id: 14
+        name: absence_reason
+        label: Reason for Absence or Late Arrival
+        hint: If applicable
+        type: select_one
+        options:
+          - Illness
+          - Medical Appointment
+          - Family Emergency
+          - Religious Observance
+          - Transportation Issue
+          - Personal Reasons
+          - Other
+          - Not applicable
+        required: false
+      - id: 15
+        name: absence_details
+        label: Additional Details
+        hint: Explain if needed
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: makeup_work_needed
+        label: Is Makeup Work Needed
+        hint: For absences
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Unsure
+        required: false
+      - id: 17
+        name: participation_level
+        label: Level of Participation in Class
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very active
+          - Active
+          - Moderate
+          - Minimal
+          - Did not participate
+        required: false
+      - id: 18
+        name: notes_teacher
+        label: Teacher Notes
+        hint: For instructor use
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: verified_by
+        label: Verified By
+        hint: Teacher name or ID
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: verification_date
+        label: Verification Date
+        hint: Date verified
+        type: date
+        options: []
+        required: false

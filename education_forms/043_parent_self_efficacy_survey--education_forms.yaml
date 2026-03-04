@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Self Efficacy Survey
+    pages:
+    - id: 1
+      name: parent_self_efficacy_survey_form_1
+      label: Parent self efficacy survey form 1 label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High'', ''value'': ''High''}'
+      - '{''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      required: false
+    - id: 2
+      name: parent_self_efficacy_survey_form_2
+      label: Parent self efficacy survey form 2 label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High'', ''value'': ''High''}'
+      - '{''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      required: false
+    - id: 3
+      name: parent_self_efficacy_survey_form_3
+      label: What do you do to help your child learn about science, technology, engineering,
+        and math?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_self_efficacy_survey_form_4
+      label: Parent self efficacy survey form 4 label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: parent_self_efficacy_survey_form_5
+      label: Parent self efficacy survey form 5 label
+      hint: Enter a phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_self_efficacy_survey_form_6
+      label: Parent self efficacy survey form 6 label
+      hint: Enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: parent_self_efficacy_survey_form_7
+      label: Parent self efficacy survey form 7 label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: parent_self_efficacy_survey_form_8
+      label: Select multiple options
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - '{''label'': ''High'', ''value'': ''High''}'
+      - '{''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''label'': ''Low'', ''value'': ''Low''}'
+      required: false

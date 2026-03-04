@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Writing Seminar Attendance Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Technical Writer
+      - Technical Editor
+      - Project Manager
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seminar_attendance_date
+      label: Seminar Attendance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: seminar_location
+      label: Seminar Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_attendance
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_seminar_date
+      label: Confirm Seminar Date
+      hint: null
+      type: select_one
+      options:
+      - '2022-02-01'
+      - '2022-02-08'
+      - '2022-02-15'
+      required: true
+    - id: 10
+      name: confirm_seminar_time
+      label: Confirm Seminar Time
+      hint: null
+      type: select_one
+      options:
+      - '10:00'
+      - '11:00'
+      - '12:00'
+      required: true
+    - id: 11
+      name: confirm_seminar_location
+      label: Confirm Seminar Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Physical
+      - Hybrid
+      required: true
+    - id: 12
+      name: technical_writing_seminar_name
+      label: Technical Writing Seminar Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: confirm_registration_date
+      label: Confirm Registration Date
+      hint: null
+      type: select_one
+      options:
+      - '2024-03-01'
+      - '2024-03-08'
+      - '2024-03-15'
+      required: true
+    - id: 15
+      name: confirm_registration_time
+      label: Confirm Registration Time
+      hint: null
+      type: select_one
+      options:
+      - '10:00'
+      - '11:00'
+      - '12:00'
+      required: true
+    - id: 16
+      name: confirm_registration_location
+      label: Confirm Registration Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Physical
+      - Hybrid
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      required: true
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: confirm_payment_date
+      label: Confirm Payment Date
+      hint: null
+      type: select_one
+      options:
+      - '2022-03-01'
+      - '2022-03-08'
+      - '2022-03-15'
+      required: true
+    - id: 21
+      name: confirm_payment_time
+      label: Confirm Payment Time
+      hint: null
+      type: select_one
+      options:
+      - '10:00'
+      - '11:00'
+      - '12:00'
+      required: true
+    - id: 22
+      name: confirm_payment_location
+      label: Confirm Payment Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Physical
+      - Hybrid
+      required: true
+    - id: 23
+      name: confirm_participation_status
+      label: Confirm Participation Status
+      hint: null
+      type: select_one
+      options:
+      - Participating
+      - Not Participating
+      required: true
+    - id: 24
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confirm_participant_notes
+      label: Confirm Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false

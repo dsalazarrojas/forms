@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: seed_order
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Cash''}'
+      - '{''name'': ''Credit Card''}'
+      - '{''name'': ''Bank Transfer''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_city
+      label: Shipping City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipping_state
+      label: Shipping State
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''CA''}'
+      - '{''name'': ''NY''}'
+      - '{''name'': ''NY''}'
+      required: false
+    - id: 13
+      name: shipping_zip
+      label: Shipping Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: shipping_country
+      label: Shipping Country
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Canada''}'
+      - '{''name'': ''Mexico''}'
+      - '{''name'': ''USA''}'
+      required: false
+    - id: 15
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Open''}'
+      - '{''name'': ''Closed''}'
+      - '{''name'': ''In Progress''}'
+      required: false
+    - id: 16
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Seed Sale''}'
+      - '{''name'': ''Seed Purchase''}'
+      required: false
+    - id: 17
+      name: product_info
+      label: Product Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: product_price
+      label: Product Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: seed_info
+      label: Seed Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: seed_quantity
+      label: Seed Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: seed_price
+      label: Seed Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: seed_description
+      label: Seed Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: seed_image
+      label: Seed Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: seed_type
+      label: Seed Type
+      hint: null
+      type: text
+      options: []
+      required: false

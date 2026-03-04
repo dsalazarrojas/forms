@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Declaration Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade
+      label: grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_address
+      label: student_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_name
+      label: parent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parental_contact
+      label: parental_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parental_phone
+      label: parental_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guardian_name
+      label: guardian_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guardian_phone
+      label: guardian_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_signature
+      label: student_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: parent_signature
+      label: parent_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: declaration_statement
+      label: declaration_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_attendance
+      label: student_attendance
+      hint: null
+      type: select_one
+      options:
+      - Regular attendance
+      - Irregular attendance
+      - Leave of Absence (LOA)
+      required: false
+    - id: 15
+      name: attendance_start_date
+      label: attendance_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: attendance_end_date
+      label: attendance_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: student_residence
+      label: student_residence
+      hint: null
+      type: select_one
+      options:
+      - Reside on Campus
+      - Reside off Campus
+      required: false
+    - id: 18
+      name: student_residence_start_date
+      label: student_residence_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: student_residence_end_date
+      label: student_residence_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: student_dormitory
+      label: student_dormitory
+      hint: null
+      type: select_one
+      options:
+      - Dormitory A
+      - Dormitory B
+      - Dormitory C
+      required: false
+    - id: 21
+      name: student_dormitory_start_date
+      label: student_dormitory_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: student_dormitory_end_date
+      label: student_dormitory_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: student_occupation
+      label: student_occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: student_declaration
+      label: student_declaration
+      hint: null
+      type: note
+      options: []
+      required: false

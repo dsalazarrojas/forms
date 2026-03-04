@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logbook Competency Assessment
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: assessor_info
+      label: Assessor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: competency_areas
+      label: Competency Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Competency 1
+      - Competency 2
+      - Competency 3
+      required: false
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: candidate_rating
+      label: Candidate Rating
+      hint: Select the candidate's overall performance rating.
+      type: select_one
+      options:
+      - Rating 1
+      - Rating 2
+      - Rating 3
+      required: false
+    - id: 6
+      name: assessor_rating
+      label: Assessor Rating
+      hint: Select the assessor's overall performance rating.
+      type: select_one
+      options:
+      - Rating 1
+      - Rating 2
+      - Rating 3
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Candidate's email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Candidate's phone number
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assessor_phone
+      label: Assessor Phone Number
+      hint: Assessor's phone number
+      type: number
+      options: []
+      required: false

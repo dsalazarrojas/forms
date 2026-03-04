@@ -1,0 +1,161 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Knowledge Assessment
+    pages:
+      - id: 1
+        name: section_learner_info
+        label: -- Learner Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: learner_name
+        label: Learner Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: learner_email
+        label: Learner Email Address
+        hint: For feedback report
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: flight_school_name
+        label: Flight School or Club Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: experience_level
+        label: Current Pilot Experience Level
+        hint: Choose your primary level
+        type: select_one
+        options:
+          - Pre-solo Student
+          - Post-solo Student
+          - Private Pilot (PPL)
+          - Commercial Pilot (CPL)
+          - Airline Transport Pilot (ATP)
+        required: true
+      - id: 6
+        name: section_knowledge_check
+        label: -- Aviation Knowledge Check --
+        hint: Core concepts and aerodynamics
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: q1_induced_drag
+        label: What is the primary cause of induced drag?
+        hint: null
+        type: select_one
+        options:
+          - Weight
+          - Generation of Lift
+          - Parasite Drag
+          - Increase in Airspeed
+        required: true
+      - id: 8
+        name: q2_vso_meaning
+        label: What is the meaning of the V-speed V_so?
+        hint: null
+        type: select_one
+        options:
+          - Stall speed in the landing configuration
+          - Stall speed in the clean configuration
+          - Never exceed speed
+          - Maneuvering speed
+        required: true
+      - id: 9
+        name: q3_aoa_definition
+        label: The angle of attack is defined as the angle between?
+        hint: null
+        type: select_one
+        options:
+          - Chord line and relative wind
+          - Wing and the horizon
+          - Fuselage and relative wind
+          - Camber and chord line
+        required: true
+      - id: 10
+        name: section_confidence_reflection
+        label: -- Confidence and Reflection --
+        hint: Rate your confidence from 1-5
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: confidence_nav
+        label: Navigation Confidence
+        hint: Cross-country planning and pilotage
+        type: select_one
+        options:
+          - 1 - Not confident
+          - 2 - Low confidence
+          - 3 - Moderate
+          - 4 - Confident
+          - 5 - Highly Confident
+        required: true
+      - id: 12
+        name: confidence_met
+        label: Meteorology Confidence
+        hint: Weather theory and briefing
+        type: select_one
+        options:
+          - 1 - Not confident
+          - 2 - Low confidence
+          - 3 - Moderate
+          - 4 - Confident
+          - 5 - Highly Confident
+        required: true
+      - id: 13
+        name: most_difficult_topic
+        label: What is the most difficult topic for you so far?
+        hint: Briefly describe your challenges
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: training_goal
+        label: Goal for the next training block
+        hint: What do you want to master next?
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: learning_style
+        label: Preferred Learning Style
+        hint: How do you learn best?
+        type: select_one
+        options:
+          - Visual (Diagrams, Videos)
+          - Auditory (Lectures, Discussion)
+          - Reading and Writing
+          - Kinesthetic (Hands-on, Flight)
+        required: true
+      - id: 16
+        name: instructor_review
+        label: Has an instructor reviewed this with you?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Feedback Questionnaire
+    pages:
+    - id: 1
+      name: course_feedback
+      label: Online Course Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: null
+      type: select_one
+      options:
+      - Introduction to Python
+      - Python for Data Science
+      - Python for Beginners
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,159 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Software Needs Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Software Needs Survey --
+      hint: Help us understand your software needs to guide future IT purchasing and licensing decisions.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your primary role
+      hint: null
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Researcher
+        - Staff
+        - IT Administrator
+      required: true
+    - id: 3
+      name: department
+      label: Department or school
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_tools
+      label: Which software tools do you currently use for academic work (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Microsoft Office Suite
+        - Google Workspace
+        - MATLAB
+        - SPSS or SAS
+        - Adobe Creative Suite
+        - Python or R (programming)
+        - Reference managers (Zotero, Mendeley)
+        - Learning management system (Canvas, Blackboard)
+      required: true
+    - id: 5
+      name: satisfaction_current_tools
+      label: How satisfied are you with the software tools currently available to you
+      hint: null
+      type: select_one
+      options:
+        - Very dissatisfied
+        - Dissatisfied
+        - Neutral
+        - Satisfied
+        - Very satisfied
+      required: true
+    - id: 6
+      name: unmet_software_needs
+      label: Are there software tools you need that are not currently available or licensed
+      hint: null
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Not sure
+      required: true
+    - id: 7
+      name: unmet_software_details
+      label: If yes, please list the software tools you need
+      hint: Include software name and intended purpose
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: software_training
+      label: Do you feel you receive adequate training on the software tools provided
+      hint: null
+      type: select_one
+      options:
+        - Yes - training is sufficient
+        - Somewhat - more training would help
+        - No - training is inadequate
+      required: true
+    - id: 9
+      name: training_topics
+      label: What software training topics would be most useful (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+        - Data analysis and visualization
+        - Statistical software
+        - Graphic design tools
+        - Collaboration platforms
+        - Programming and coding
+        - Research tools and databases
+      required: false
+    - id: 10
+      name: device_usage
+      label: What devices do you primarily use for academic work
+      hint: Select all that apply
+      type: select_multiple
+      options:
+        - Desktop computer (university provided)
+        - Laptop (personal)
+        - Laptop (university provided)
+        - Tablet
+        - Smartphone
+      required: true
+    - id: 11
+      name: operating_system
+      label: Which operating system do you primarily use
+      hint: null
+      type: select_one
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - ChromeOS
+        - Other
+      required: true
+    - id: 12
+      name: cloud_storage_preference
+      label: Which cloud storage do you prefer for academic files
+      hint: null
+      type: select_one
+      options:
+        - Google Drive
+        - OneDrive
+        - Dropbox
+        - Institutional cloud storage
+        - None - I use local storage
+      required: true
+    - id: 13
+      name: biggest_challenge
+      label: What is the biggest challenge you face with academic software
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_suggestions
+      label: Any additional suggestions for improving software availability or support
+      hint: null
+      type: text
+      options: []
+      required: false

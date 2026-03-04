@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lincoln East Band Forms
+    pages:
+    - id: 1
+      name: application
+      label: Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tshirts
+      label: Tshirts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: other_materials
+      label: Other Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''cash''}'
+      - '{''name'': ''check''}'
+      - '{''name'': ''online''}'
+      required: false
+    - id: 5
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: other_materials_price
+      label: Other Materials Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: application_confirmation
+      label: Application Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: tshirt_size
+      label: Tshirt Size
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''small''}'
+      - '{''name'': ''medium''}'
+      - '{''name'': ''large''}'
+      required: false
+    - id: 11
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false

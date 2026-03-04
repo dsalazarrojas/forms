@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Grading Form
+    pages:
+    - id: 1
+      name: grader_name
+      label: Grader Name
+      hint: Teacher or TA
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: grader_id
+      label: Grader ID
+      hint: Employee number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grading_date
+      label: Grading Date
+      hint: When graded
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Which course
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_code
+      label: Course Code
+      hint: Course ID
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: Student number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_title
+      label: Assignment Title
+      hint: Name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_type
+      label: Assignment Type
+      hint: Category
+      type: select_one
+      options:
+      - Homework
+      - Quiz
+      - Exam
+      - Project
+      - Essay
+      - Lab Report
+      - Presentation
+      - Other
+      required: true
+    - id: 10
+      name: total_points_possible
+      label: Total Points Possible
+      hint: Maximum score
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: points_earned
+      label: Points Earned
+      hint: Actual score
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: percentage_score
+      label: Percentage Score
+      hint: Calculated percent
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: letter_grade
+      label: Letter Grade
+      hint: Assigned grade
+      type: select_one
+      options:
+      - A
+      - A-
+      - B+
+      - B
+      - B-
+      - C+
+      - C
+      - C-
+      - D+
+      - D
+      - F
+      required: true
+    - id: 14
+      name: grading_criteria_1
+      label: Criteria 1 Name
+      hint: First criterion
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: grading_criteria_1_score
+      label: Criteria 1 Score
+      hint: Points for first
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: grading_criteria_2
+      label: Criteria 2 Name
+      hint: Second criterion
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: grading_criteria_2_score
+      label: Criteria 2 Score
+      hint: Points for second
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: grading_criteria_3
+      label: Criteria 3 Name
+      hint: Third criterion
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: grading_criteria_3_score
+      label: Criteria 3 Score
+      hint: Points for third
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: content_quality
+      label: Content Quality Rating
+      hint: How good content is
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 21
+      name: organization
+      label: Organization Rating
+      hint: How well organized
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 22
+      name: grammar_mechanics
+      label: Grammar and Mechanics Rating
+      hint: Writing quality
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 23
+      name: creativity_originality
+      label: Creativity and Originality Rating
+      hint: How creative
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 24
+      name: effort_demonstrated
+      label: Effort Demonstrated Rating
+      hint: Level of effort
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 25
+      name: strengths
+      label: Strengths of This Assignment
+      hint: What went well
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What to work on
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Other feedback
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: resubmission_allowed
+      label: Is Resubmission Allowed
+      hint: Can redo
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 29
+      name: resubmission_deadline
+      label: Resubmission Deadline
+      hint: If allowed
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: grader_signature
+      label: Grader Signature
+      hint: Type name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Bookstore Upgrade Feedback Form
+    pages:
+    - id: 1
+      name: online_bookstore_upgrade_feedback
+      label: What do you think about our recent update?
+      hint: null
+      type: select_one
+      options:
+      - Love it!
+      - Hate it!
+      - Meh
+      required: true
+    - id: 2
+      name: online_bookstore_upgrade_feedback_form_description
+      label: How does this version compare to the previous one?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: online_bookstore_upgrade_upgrade_suggestions
+      label: Do you have any upgrade suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: beta_tester_interest
+      label: Would you like to be part of our beta testing group?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 5
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: online_bookstore_upgrade_feedback_form_comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: select_multiple
+      options:
+      - Love it
+      - Hate it
+      - Meh
+      required: false
+    - id: 7
+      name: online_bookstore_upgrade_feedback_form_phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: online_bookstore_upgrade_feedback_form_time
+      label: Time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: online_bookstore_upgrade_date
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: online_bookstore_upgrade_version
+      label: Version of the online bookstore you use
+      hint: null
+      type: select_one
+      options:
+      - '1.0'
+      - '1.1'
+      - '2.0'
+      required: true
+    - id: 11
+      name: online_bookstore_upgrade_browser
+      label: Browser type
+      hint: null
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      required: true
+    - id: 12
+      name: online_bookstore_upgrade_version_comments
+      label: Comments on this version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: online_bookstore_upgrade_feedback_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: online_bookstore_upgrade_upgrade_status
+      label: How satisfied are you with this update?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: online_bookstore_upgrade_feedback_form_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: online_bookstore_upgrade_feedback_form_rating_comment
+      label: Comments on the rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: online_bookstore_upgrade_feedback_form_terms
+      label: Have you agreed to our terms and conditions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: online_bookstore_upgrade_feedback_form_privacy_policy
+      label: Have you agreed to our privacy policy?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: online_bookstore_upgrade_feedback_form_terms_of_service
+      label: Have you agreed to our terms of service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: online_bookstore_upgrade_feedback_form_cookie_policy
+      label: Have you agreed to our cookie policy?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: online_bookstore_upgrade_feedback_form_data_protection_policy
+      label: Have you agreed to our data protection policy?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: online_bookstore_upgrade_feedback_form_utmah_policy
+      label: Have you agreed to our UTMA policy?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: online_bookstore_upgrade_feedback_form_terms_and_conditions
+      label: Have you agreed to our terms and conditions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: online_bookstore_upgrade_feedback_form_privacy_and_security_policy
+      label: Have you agreed to our privacy and security policy?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: online_bookstore_upgrade_feedback_form_privacy_and_security_statement
+      label: Have you agreed to our privacy and security statement?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Credit Agreement Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer info
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Individual''}'
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: credit_amount
+      label: Credit Amount
+      hint: Enter credit amount in dollars and cents
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: credit_terms
+      label: Credit Terms
+      hint: Check the terms and conditions of your credit policy
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: agreement_date
+      label: Agreement Date
+      hint: Select the date of the agreement
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: credit_status
+      label: Credit Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''Pending''}'
+      required: false
+    - id: 9
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Preference And Knowledge Check Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_experience
+      label: -- Vehicle Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_ownership
+      label: Years of Vehicle Ownership Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 4-7 years
+      - 8-15 years
+      - 15+ years
+      required: true
+    - id: 7
+      name: current_vehicle
+      label: Current Vehicle
+      hint: Year, Make, and Model
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_preference
+      label: -- Vehicle Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_type_preference
+      label: Preferred Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Crossover
+      - Van
+      - Sports Car
+      - Luxury
+      - Electric/Hybrid
+      required: true
+    - id: 10
+      name: size_preference
+      label: Preferred Vehicle Size
+      hint: null
+      type: select_one
+      options:
+      - Compact
+      - Mid-Size
+      - Full-Size
+      - No Preference
+      required: true
+    - id: 11
+      name: transmission_preference
+      label: Transmission Preference
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - CVT
+      - Electric
+      - Hybrid
+      required: true
+    - id: 12
+      name: fuel_preference
+      label: Fuel Type Preference
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      - Alternative Fuel
+      - No Preference
+      required: true
+    - id: 13
+      name: section_header_features
+      label: -- Feature Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: desired_features
+      label: Must-Have Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Air Conditioning
+      - Power Windows
+      - Power Steering
+      - Cruise Control
+      - Backup Camera
+      - Navigation System
+      - Advanced Safety Systems
+      - Heated Seats
+      - Moonroof
+      - Premium Audio
+      required: true
+    - id: 15
+      name: section_header_knowledge
+      label: -- Automotive Knowledge --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: engine_knowledge
+      label: Knowledge of Engine Types
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Knowledgeable
+      - Basic
+      - Minimal
+      - No Knowledge
+      required: true
+    - id: 17
+      name: maintenance_knowledge
+      label: Vehicle Maintenance Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Knowledgeable
+      - Basic
+      - Minimal
+      - No Knowledge
+      required: true
+    - id: 18
+      name: section_header_budget
+      label: -- Budget and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 15000
+      - 15000-25000
+      - 25000-40000
+      - 40000-60000
+      - Over 60000
+      required: true
+    - id: 20
+      name: purchase_timeline
+      label: Purchase Timeline
+      hint: null
+      type: select_one
+      options:
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - 12+ Months
+      - Just Browsing
+      required: true
+    - id: 21
+      name: section_header_priorities
+      label: -- Priorities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: top_priorities
+      label: Top 3 Vehicle Priorities
+      hint: Select your most important factors
+      type: select_multiple
+      options:
+      - Fuel Efficiency
+      - Performance
+      - Safety
+      - Comfort
+      - Reliability
+      - Affordability
+      - Technology
+      - Appearance
+      required: true
+    - id: 23
+      name: section_header_questions
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: trade_in_interest
+      label: Interested in Trade-In Options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Questions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

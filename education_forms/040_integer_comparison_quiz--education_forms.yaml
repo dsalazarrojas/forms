@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Integer Comparison Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: How to use this quiz
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is the largest of the two numbers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: question_2
+      label: Which number is greater
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_3
+      label: Which number is larger
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_4
+      label: Which number is smaller
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question_5
+      label: Which number is greater or equal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question_6
+      label: Which number is larger or equal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: question_7
+      label: Which number is smaller or equal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: question_8
+      label: Which number is greater or equal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

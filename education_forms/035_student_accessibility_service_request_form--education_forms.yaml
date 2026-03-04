@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Accessibility Service Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: student_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_phone
+      label: student_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: disability_type
+      label: disability_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: disability_details
+      label: disability_details
+      hint: Provide any other relevant information about your disability or accommodation
+        request.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_request
+      label: accommodation_request
+      hint: null
+      type: select_multiple
+      options:
+      - Accommodation Request 1
+      - Accommodation Request 2
+      - Accommodation Request 3
+      required: true
+    - id: 9
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_position
+      label: submitter_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_contact_method
+      label: submitter_contact_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_note
+      label: submitter_note
+      hint: null
+      type: note
+      options: []
+      required: false

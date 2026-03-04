@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: parent_teacher_conference_sign_up_form
+      label: Parent Teacher Conference Sign Up Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: parent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_email
+      label: parent email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: parent_phone
+      label: parent phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: conference_date
+      label: conference date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: conference_time
+      label: conference time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: conference_note
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_email
+      label: teacher email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: teacher_phone
+      label: teacher phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_availability
+      label: teacher availability
+      hint: null
+      type: select_one
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 12
+      name: parent_availability
+      label: parent availability
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 13
+      name: conference_start_date
+      label: conference start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: conference_end_date
+      label: conference end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: conference_duration
+      label: conference duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: teacher_availability_multiple
+      label: teacher availability multiple
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 17
+      name: conference_type
+      label: conference type
+      hint: null
+      type: select_one
+      options:
+      - meeting
+      - discussion
+      - presentation
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: confirmed
+      label: confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: canceled
+      label: canceled
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parent_availability_time
+      label: parent availability time
+      hint: null
+      type: select_multiple
+      options:
+      - morning
+      - afternoon
+      - evening
+      required: false
+    - id: 22
+      name: conference_confirmed_time
+      label: conference confirmed time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: teacher_confirmed
+      label: teacher confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parent_confirmed
+      label: parent confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: canceled_conference
+      label: canceled conference
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Before And Afterschool Care Registration
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_nickname
+      label: Nickname (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: grade_entering
+      label: Grade Entering
+      hint: null
+      type: select_one
+      options:
+      - Pre-K
+      - K
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      required: true
+    - id: 7
+      name: section_guardian_contacts
+      label: -- Guardian and Emergency Contacts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_guardian_name
+      label: Primary Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_guardian_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: secondary_guardian_name
+      label: Secondary Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_outside_home
+      label: Emergency Contact (Person NOT living with child)
+      hint: Name and Phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_medical_health
+      label: -- Health History and Doctor Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: family_physician_name
+      label: Family Physician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: physician_phone
+      label: Physician Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medical_conditions_allergies
+      label: List any allergies or chronic medical conditions
+      hint: e.g. asthma, nut allergies, medications
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_enrollment_agreement
+      label: -- Enrollment Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: consent_for_photos
+      label: May we take photos of your child for program use?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: liability_waiver_childcare
+      label: I release the center from liability for normal play activities
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 20
+      name: parent_signature_typed
+      label: Parent / Guardian Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_date
+      label: Date signed
+      hint: null
+      type: date
+      options: []
+      required: true

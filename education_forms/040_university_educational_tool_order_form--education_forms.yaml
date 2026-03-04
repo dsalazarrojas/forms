@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Educational Tool Order Form
+    pages:
+    - id: 1
+      name: university_educational_tool_order_form
+      label: university_educational_tool_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tool_description
+      label: tool_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requested_date
+      label: requested_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: requested_time
+      label: requested_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: tool_type
+      label: tool_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tool_location
+      label: tool_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tool_requester
+      label: tool_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_requester
+      label: email_requester
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_requester
+      label: phone_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note_requester
+      label: note_requester
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: review_note
+      label: review_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false

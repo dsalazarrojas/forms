@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Evaluation Form
+    pages:
+    - id: 1
+      name: music_style
+      label: Music Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: music_category
+      label: Music Category
+      hint: null
+      type: select_multiple
+      options:
+      - Classical
+      - Pop
+      - Rock
+      - Jazz
+      - Opera
+      - Electronic
+      required: true
+    - id: 3
+      name: musician
+      label: Musician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: composer
+      label: Composer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: music_period
+      label: Music Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: music_genre
+      label: Music Genre
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

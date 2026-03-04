@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nontraditional Learning Experience Recording Consent Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: participant_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: learning_experience
+      label: participant_learning_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_info
+      label: program_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - Internship
+      - Training
+      - Education Program
+      - Other
+      required: false
+    - id: 10
+      name: program_location
+      label: program_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_date
+      label: program_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recording_info
+      label: recording_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_permission
+      label: participant_permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

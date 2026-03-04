@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Request Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: grade_level
+      label: Current Grade Level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Other
+      required: true
+    - id: 8
+      name: class_request_header
+      label: -- Class Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: requested_class_name
+      label: Requested Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: requested_class_code
+      label: Course Code or Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requested_instructor
+      label: Preferred Instructor Name
+      hint: If multiple options available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requested_semester
+      label: Requested Semester or Term
+      hint: null
+      type: select_one
+      options:
+      - Fall
+      - Spring
+      - Summer
+      - Winter
+      - Other
+      required: true
+    - id: 13
+      name: class_format
+      label: Preferred Class Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Hybrid
+      - No preference
+      required: false
+    - id: 14
+      name: prerequisite_header
+      label: -- Prerequisites and Qualifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: prerequisites_met
+      label: I have completed all prerequisites for this course
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 16
+      name: prerequisite_courses
+      label: Prerequisites Completed or In Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: relevant_experience
+      label: Relevant Experience or Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: motivation_header
+      label: -- Motivation and Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_request
+      label: Why do you want to take this class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: course_goals
+      label: What do you hope to learn from this class
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: academic_goals
+      label: How does this course fit into your academic goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: availability_header
+      label: -- Availability and Scheduling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: schedule_compatibility
+      label: Can you attend during the scheduled class times
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully compatible
+      - Yes, with minor adjustments
+      - Not sure
+      - No, conflicts
+      required: true
+    - id: 24
+      name: scheduling_conflict
+      label: Describe any scheduling conflicts if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: acknowledgment
+      label: I certify that all information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

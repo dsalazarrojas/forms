@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transcript Request Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Transcript Request Form --
+      hint: Request your academic transcript online. Please allow processing time
+        for your request.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Full name (as it appears on records)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: previous_name
+      label: Previous name (if records are under a different name)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_status
+      label: Current status
+      hint: null
+      type: select_one
+      options:
+      - Current student
+      - Alumni
+      - Former student (did not graduate)
+      required: true
+    - id: 9
+      name: dates_of_attendance
+      label: Dates of attendance
+      hint: e.g. August 2019 - May 2023
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: degree_program
+      label: Degree program or major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: transcript_type
+      label: Type of transcript
+      hint: null
+      type: select_one
+      options:
+      - Official (sealed)
+      - Official (electronic)
+      - Unofficial
+      required: true
+    - id: 12
+      name: number_of_copies
+      label: Number of copies requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: delivery_method
+      label: Delivery method
+      hint: null
+      type: select_one
+      options:
+      - Mail to address below
+      - Email (electronic only)
+      - Pick up in person
+      - Send via secure credential service
+      required: true
+    - id: 14
+      name: delivery_address
+      label: Delivery address or recipient email
+      hint: Required for mail or email delivery
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: purpose
+      label: Purpose of transcript request
+      hint: null
+      type: select_one
+      options:
+      - Graduate school application
+      - Employment
+      - Transfer
+      - Professional licensing
+      - Personal use
+      - Other
+      required: true
+    - id: 16
+      name: processing_speed
+      label: Processing speed
+      hint: null
+      type: select_one
+      options:
+      - Standard (5-7 business days)
+      - Rush (1-2 business days)
+      required: true
+    - id: 17
+      name: consent
+      label: I authorize the release of my transcript and certify that the information
+        above is correct
+      hint: null
+      type: select_one
+      options:
+      - Yes - I authorize
+      - Other
+      required: true
+    - id: 18
+      name: request_date
+      label: Date of request
+      hint: null
+      type: date
+      options: []
+      required: true

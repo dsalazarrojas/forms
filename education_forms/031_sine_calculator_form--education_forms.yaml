@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sine Calculator Form
+    pages:
+    - id: 1
+      name: sine_value_input
+      label: Sine Value Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: wave_type_input
+      label: Wave Type
+      hint: null
+      type: select_one
+      options:
+      - sine
+      - Other
+      required: false
+    - id: 3
+      name: frequency_input
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: phase_shift_input
+      label: Phase Shift
+      hint: null
+      type: number
+      options: []
+      required: false

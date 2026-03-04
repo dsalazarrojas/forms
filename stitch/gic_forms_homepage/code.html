@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>GIC Forms | AI-Powered Form Ecosystem</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#ec5b13",
+                        "background-light": "#f8f6f6",
+                        "background-dark": "#221610",
+                    },
+                    fontFamily: {
+                        "display": ["Public Sans"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+</head>
+<body class="font-display bg-background-light dark:bg-background-dark text-slate-900 dark:text-slate-100 antialiased">
+<!-- Top Navigation Bar -->
+<header class="sticky top-0 z-50 w-full border-b border-slate-200 dark:border-slate-800 bg-background-light/80 dark:bg-background-dark/80 backdrop-blur-md">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex h-16 items-center justify-between">
+<div class="flex items-center gap-8">
+<div class="flex items-center gap-2 text-primary">
+<span class="material-symbols-outlined text-3xl font-bold">dynamic_form</span>
+<h2 class="text-slate-900 dark:text-white text-xl font-bold tracking-tight">GIC Forms</h2>
+</div>
+<nav class="hidden md:flex items-center gap-6">
+<a class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary transition-colors" href="#">Browse Forms</a>
+<a class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary transition-colors" href="#">App Suite</a>
+<a class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary transition-colors" href="#">Platforms</a>
+<a class="text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-primary transition-colors" href="#">Stats</a>
+</nav>
+</div>
+<div class="flex items-center gap-4">
+<div class="hidden sm:flex items-center bg-slate-100 dark:bg-slate-800 rounded-xl px-3 py-1.5 border border-slate-200 dark:border-slate-700">
+<span class="material-symbols-outlined text-slate-400 text-xl">search</span>
+<input class="bg-transparent border-none focus:ring-0 text-sm w-40 lg:w-64 placeholder:text-slate-400" placeholder="Search forms..." type="text"/>
+</div>
+<button class="bg-primary hover:bg-primary/90 text-white px-5 py-2 rounded-xl text-sm font-bold transition-all shadow-lg shadow-primary/20">
+                        Get Started
+                    </button>
+</div>
+</div>
+</div>
+</header>
+<main>
+<!-- Hero Section -->
+<section class="relative overflow-hidden py-20 lg:py-32">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+<div class="flex flex-col gap-8 text-left">
+<div class="inline-flex items-center gap-2 bg-primary/10 text-primary px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider w-fit">
+<span class="relative flex h-2 w-2">
+<span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+<span class="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
+</span>
+                            AI-Powered Ecosystem
+                        </div>
+<h1 class="text-slate-900 dark:text-white text-5xl lg:text-7xl font-black leading-[1.1] tracking-tight">
+                            100,000+ AI-Generated Forms <span class="text-primary">at Your Fingertips</span>
+</h1>
+<p class="text-slate-600 dark:text-slate-400 text-lg lg:text-xl leading-relaxed max-w-xl">
+                            The ultimate ecosystem for form collection, creation, and deployment. Transform how you gather data with intelligent automation.
+                        </p>
+<div class="flex flex-wrap gap-4">
+<button class="bg-primary hover:bg-primary/90 text-white px-8 py-4 rounded-xl text-lg font-bold transition-all shadow-xl shadow-primary/30 flex items-center gap-2">
+<span class="material-symbols-outlined">explore</span>
+                                Browse Forms
+                            </button>
+<button class="bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white px-8 py-4 rounded-xl text-lg font-bold hover:bg-slate-50 dark:hover:bg-slate-700 transition-all">
+                                View App Suite
+                            </button>
+</div>
+<!-- Stats Mini -->
+<div class="flex gap-12 pt-8 border-t border-slate-200 dark:border-slate-800">
+<div>
+<p class="text-3xl font-black text-slate-900 dark:text-white">100k+</p>
+<p class="text-slate-500 text-sm">Forms Generated</p>
+</div>
+<div>
+<p class="text-3xl font-black text-slate-900 dark:text-white">400+</p>
+<p class="text-slate-500 text-sm">Categories</p>
+</div>
+<div>
+<p class="text-3xl font-black text-slate-900 dark:text-white">24/7</p>
+<p class="text-slate-500 text-sm">AI Deployment</p>
+</div>
+</div>
+</div>
+<div class="relative">
+<div class="absolute -inset-4 bg-gradient-to-tr from-primary/20 to-blue-500/20 blur-3xl rounded-full"></div>
+<div class="relative aspect-square rounded-3xl overflow-hidden shadow-2xl border-8 border-white dark:border-slate-800 bg-slate-200 dark:bg-slate-900" data-alt="Dashboard showing complex data visualization and form analytics" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuCPyzr9ZStZ0pgLp7TVcTDHl5t_brNzjMkIOw6MhmAonSpUApVsyy-TM7ksu5GHC4usZrFsXk5p40qldrCujD22BTSjpgWHl4woi1SwaLfrGIl1hlgTS7lwF8NeK3zlrvjpfGqSvi5peAYDRpr7g0x3bXx5Z6sdhlHAW3mLyZvgJJaYg5pbZuBFYMfQpr9gUah4UasnJuDBQSqFt18wsZNz_iJ6tCfhf9hG3SD7ZpeX4E531b8nR-sY-we-sc2skogFVLKief791gGF'); background-size: cover;">
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- The GIC App Suite Section -->
+<section class="py-24 bg-slate-50 dark:bg-slate-900/50">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="text-center mb-16">
+<h2 class="text-slate-900 dark:text-white text-3xl lg:text-4xl font-bold mb-4">The GIC App Suite</h2>
+<p class="text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">Powerful mobile and desktop tools designed to integrate seamlessly into your data collection workflow.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+<!-- GIC Collect -->
+<div class="group bg-white dark:bg-slate-800 p-8 rounded-3xl shadow-sm border border-slate-100 dark:border-slate-700 hover:shadow-xl transition-all">
+<div class="flex flex-col lg:flex-row gap-8 items-start">
+<div class="w-full lg:w-48 aspect-square rounded-2xl bg-blue-600 flex items-center justify-center text-white shrink-0 shadow-lg shadow-blue-500/20" data-alt="Mobile app interface for GIC Collect data gathering" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuC32CF08xLiq895WM9mT8DUbo7HtE2sQiNlhD1MI_A4hZA3jHWMz6boW2eayut4xtmhWSeSJQfiGZzo4JhKWCoN4bnHboPnIvS9HbjqQ_uVFchPlCqaDOcK36B6lxyp19RFGTujkG3T1E2cWilClhYRRdGpBREPpQIFCfnnJfH5nCGkKVUpn7RgL9cqnqsqBJhgt5PbAsV0beb7uHlvXl7l82seJyGHHGAztit1Inua_yBDNoIgaukcgvWHJMk6HZOORAETbcrAzdij'); background-size: cover; background-position: center;">
+</div>
+<div class="flex flex-col gap-4">
+<h3 class="text-2xl font-bold text-slate-900 dark:text-white">GIC Collect</h3>
+<p class="text-slate-600 dark:text-slate-400 leading-relaxed">
+                                    Advanced mobile data collection for professional workflows. Offline-first, field-ready, and fully compatible with ODK standards.
+                                </p>
+<div class="flex flex-wrap gap-3 mt-2">
+<div class="h-10 px-4 bg-slate-900 text-white rounded-lg flex items-center gap-2 cursor-pointer hover:bg-slate-800 transition-colors">
+<span class="material-symbols-outlined text-xl">phone_iphone</span>
+<span class="text-xs font-semibold uppercase tracking-wider">App Store</span>
+</div>
+<div class="h-10 px-4 bg-slate-900 text-white rounded-lg flex items-center gap-2 cursor-pointer hover:bg-slate-800 transition-colors">
+<span class="material-symbols-outlined text-xl">robot</span>
+<span class="text-xs font-semibold uppercase tracking-wider">Play Store</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- GIC XLSForm Creation -->
+<div class="group bg-white dark:bg-slate-800 p-8 rounded-3xl shadow-sm border border-slate-100 dark:border-slate-700 hover:shadow-xl transition-all">
+<div class="flex flex-col lg:flex-row gap-8 items-start">
+<div class="w-full lg:w-48 aspect-square rounded-2xl bg-green-600 flex items-center justify-center text-white shrink-0 shadow-lg shadow-green-500/20" data-alt="Spreadsheet to form conversion visual tool" style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuC5Em-TD2OE5A7uy8mt8atg_YBkuzYBokKtCcRtJj3QfC4Qc2e4QIJWyVtKf-pDqP_qwLaxfWtSJ45oXyKJKZN4giaYs6PAl3PRyzHtJD2E_KyOYGdmqBAbinh3mR3yfrq2H9FFbXTV2BDih3g_U9bAdVnbpEY5bgjfNyY9Ct7J8f2hg4ZjKjT8mqKRCuJuOZPI6SJzbV7s5OrjFRSloK8ly-KBWHc6fpQQYLaZTfd5cIxSArR8xf6PcmCOzgwZRI7PRZ0O9xT9UtC3'); background-size: cover;">
+</div>
+<div class="flex flex-col gap-4">
+<h3 class="text-2xl font-bold text-slate-900 dark:text-white">GIC XLSForm Creation</h3>
+<p class="text-slate-600 dark:text-slate-400 leading-relaxed">
+                                    Transform complex spreadsheets into powerful digital forms instantly. The bridges the gap between Excel and mobile deployment.
+                                </p>
+<div class="flex flex-wrap gap-3 mt-2">
+<div class="h-10 px-4 bg-slate-900 text-white rounded-lg flex items-center gap-2 cursor-pointer hover:bg-slate-800 transition-colors">
+<span class="material-symbols-outlined text-xl">laptop_mac</span>
+<span class="text-xs font-semibold uppercase tracking-wider">Desktop App</span>
+</div>
+<span class="text-primary text-xs font-bold self-center bg-primary/10 px-2 py-1 rounded">V2.0 Available</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Use with Your Platform Section -->
+<section class="py-24">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="flex flex-col md:flex-row justify-between items-end mb-12 gap-6">
+<div class="max-w-xl">
+<h2 class="text-slate-900 dark:text-white text-3xl lg:text-4xl font-bold mb-4">Use with Your Favorite Platforms</h2>
+<p class="text-slate-600 dark:text-slate-400">GIC Forms isn't a walled garden. We integrate with the tools you already use to maximize your productivity.</p>
+</div>
+<a class="text-primary font-bold flex items-center gap-1 group" href="#">
+                        View all integrations
+                        <span class="material-symbols-outlined group-hover:translate-x-1 transition-transform">arrow_forward</span>
+</a>
+</div>
+<div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+<!-- ODK Collect -->
+<div class="bg-white dark:bg-slate-800 p-6 rounded-2xl border border-slate-100 dark:border-slate-700 flex flex-col items-center text-center gap-4 hover:border-primary/50 transition-colors cursor-pointer group">
+<div class="w-14 h-14 rounded-xl bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-400 group-hover:text-primary transition-colors">
+<span class="material-symbols-outlined text-3xl">hub</span>
+</div>
+<div>
+<p class="font-bold text-slate-900 dark:text-white">ODK Collect</p>
+<p class="text-xs text-slate-500">Native Support</p>
+</div>
+</div>
+<!-- Google Forms -->
+<div class="bg-white dark:bg-slate-800 p-6 rounded-2xl border border-slate-100 dark:border-slate-700 flex flex-col items-center text-center gap-4 hover:border-primary/50 transition-colors cursor-pointer group">
+<div class="w-14 h-14 rounded-xl bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-400 group-hover:text-primary transition-colors">
+<span class="material-symbols-outlined text-3xl">description</span>
+</div>
+<div>
+<p class="font-bold text-slate-900 dark:text-white">Google Forms</p>
+<p class="text-xs text-slate-500">Sync &amp; Export</p>
+</div>
+</div>
+<!-- Tally -->
+<div class="bg-white dark:bg-slate-800 p-6 rounded-2xl border border-slate-100 dark:border-slate-700 flex flex-col items-center text-center gap-4 hover:border-primary/50 transition-colors cursor-pointer group">
+<div class="w-14 h-14 rounded-xl bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-400 group-hover:text-primary transition-colors">
+<span class="material-symbols-outlined text-3xl">list_alt</span>
+</div>
+<div>
+<p class="font-bold text-slate-900 dark:text-white">Tally</p>
+<p class="text-xs text-slate-500">Webhooks</p>
+</div>
+</div>
+<!-- Formbricks -->
+<div class="bg-white dark:bg-slate-800 p-6 rounded-2xl border border-slate-100 dark:border-slate-700 flex flex-col items-center text-center gap-4 hover:border-primary/50 transition-colors cursor-pointer group">
+<div class="w-14 h-14 rounded-xl bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-400 group-hover:text-primary transition-colors">
+<span class="material-symbols-outlined text-3xl">grid_view</span>
+</div>
+<div>
+<p class="font-bold text-slate-900 dark:text-white">Formbricks</p>
+<p class="text-xs text-slate-500">Open Source</p>
+</div>
+</div>
+<!-- Cloudflare Workers -->
+<div class="bg-white dark:bg-slate-800 p-6 rounded-2xl border border-slate-100 dark:border-slate-700 flex flex-col items-center text-center gap-4 hover:border-primary/50 transition-colors cursor-pointer group">
+<div class="w-14 h-14 rounded-xl bg-slate-100 dark:bg-slate-700 flex items-center justify-center text-slate-400 group-hover:text-primary transition-colors">
+<span class="material-symbols-outlined text-3xl">cloud</span>
+</div>
+<div>
+<p class="font-bold text-slate-900 dark:text-white">Cloudflare</p>
+<p class="text-xs text-slate-500">Edge Logic</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Final CTA Section -->
+<section class="py-24 bg-primary relative overflow-hidden">
+<!-- Abstract background circles -->
+<div class="absolute top-0 right-0 -translate-y-1/2 translate-x-1/2 w-96 h-96 bg-white/10 rounded-full blur-3xl"></div>
+<div class="absolute bottom-0 left-0 translate-y-1/2 -translate-x-1/2 w-64 h-64 bg-black/10 rounded-full blur-2xl"></div>
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
+<h2 class="text-white text-4xl lg:text-6xl font-black mb-8">Ready to revolutionize your data?</h2>
+<div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+<button class="bg-white text-primary px-10 py-5 rounded-2xl text-xl font-black hover:scale-105 transition-transform shadow-2xl">
+                        Start for Free
+                    </button>
+<button class="bg-primary border-2 border-white/30 text-white px-10 py-5 rounded-2xl text-xl font-black hover:bg-white/10 transition-colors">
+                        Book a Demo
+                    </button>
+</div>
+<p class="text-white/80 mt-8 font-medium">No credit card required • Join 10k+ researchers</p>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-slate-50 dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 py-16">
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-12">
+<div class="col-span-2">
+<div class="flex items-center gap-2 text-primary mb-6">
+<span class="material-symbols-outlined text-3xl font-bold">dynamic_form</span>
+<h2 class="text-slate-900 dark:text-white text-xl font-bold tracking-tight">GIC Forms</h2>
+</div>
+<p class="text-slate-500 text-sm leading-relaxed mb-6">
+                        Building the future of data collection through AI and seamless integrations. Empowering researchers and developers worldwide.
+                    </p>
+<div class="flex gap-4">
+<div class="w-10 h-10 rounded-full bg-slate-200 dark:bg-slate-800 flex items-center justify-center cursor-pointer hover:text-primary">
+<span class="material-symbols-outlined text-xl">share</span>
+</div>
+<div class="w-10 h-10 rounded-full bg-slate-200 dark:bg-slate-800 flex items-center justify-center cursor-pointer hover:text-primary">
+<span class="material-symbols-outlined text-xl">public</span>
+</div>
+</div>
+</div>
+<div>
+<h4 class="font-bold text-slate-900 dark:text-white mb-6">Platform</h4>
+<ul class="space-y-4 text-sm text-slate-500">
+<li><a class="hover:text-primary transition-colors" href="#">Browse Forms</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">GIC Collect</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">XLSForm Tool</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">API Docs</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-bold text-slate-900 dark:text-white mb-6">Community</h4>
+<ul class="space-y-4 text-sm text-slate-500">
+<li><a class="hover:text-primary transition-colors" href="#">Marketplace</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Showcase</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Contributors</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Forums</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-bold text-slate-900 dark:text-white mb-6">Resources</h4>
+<ul class="space-y-4 text-sm text-slate-500">
+<li><a class="hover:text-primary transition-colors" href="#">Blog</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Guides</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Help Center</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Status</a></li>
+</ul>
+</div>
+<div>
+<h4 class="font-bold text-slate-900 dark:text-white mb-6">Legal</h4>
+<ul class="space-y-4 text-sm text-slate-500">
+<li><a class="hover:text-primary transition-colors" href="#">Privacy</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Terms</a></li>
+<li><a class="hover:text-primary transition-colors" href="#">Security</a></li>
+</ul>
+</div>
+</div>
+<div class="mt-16 pt-8 border-t border-slate-200 dark:border-slate-800 text-center text-sm text-slate-500">
+<p>© 2024 GIC Forms Ecosystem. All rights reserved.</p>
+</div>
+</div>
+</footer>
+</body></html>

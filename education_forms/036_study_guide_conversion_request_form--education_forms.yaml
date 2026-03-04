@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Guide Conversion Request Form
+    pages:
+    - id: 1
+      name: study_guide_conversion_request
+      label: Study Guide Conversion Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: format_request
+      label: Requested Format
+      hint: e.g., PDF, EPUB, EPUB 3
+      type: select_multiple
+      options:
+      - PDF
+      - EPUB
+      - EPUB 3
+      required: false
+    - id: 3
+      name: format_notes
+      label: Format Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false
+    - id: 5
+      name: study_guide_id
+      label: Study Guide ID
+      hint: Enter study guide ID
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: study_guide_name
+      label: Study Guide Name
+      hint: Enter study guide name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Enter email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: request_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: request_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: study_guide_conversion_request_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false

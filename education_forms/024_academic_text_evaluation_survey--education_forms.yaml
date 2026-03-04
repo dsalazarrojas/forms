@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Text Evaluation Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Academic Text Evaluation Survey --
+      hint: Provide your evaluation and feedback on the scholarly text assigned for review.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_email
+      label: Reviewer email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_affiliation
+      label: Institutional affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: text_title
+      label: Title of the text being evaluated
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: text_author
+      label: Author(s) of the text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: text_type
+      label: Type of text
+      hint: null
+      type: select_one
+      options:
+        - Textbook
+        - Research article
+        - Monograph
+        - Edited volume
+        - Course reader
+        - Other
+      required: true
+    - id: 8
+      name: clarity_rating
+      label: How would you rate the clarity and readability of the text
+      hint: null
+      type: select_one
+      options:
+        - Poor
+        - Fair
+        - Good
+        - Very Good
+        - Excellent
+      required: true
+    - id: 9
+      name: accuracy_rating
+      label: How accurate and up-to-date is the content
+      hint: null
+      type: select_one
+      options:
+        - Poor
+        - Fair
+        - Good
+        - Very Good
+        - Excellent
+      required: true
+    - id: 10
+      name: relevance_rating
+      label: How relevant is the text to its intended academic audience
+      hint: null
+      type: select_one
+      options:
+        - Not relevant
+        - Slightly relevant
+        - Moderately relevant
+        - Very relevant
+        - Extremely relevant
+      required: true
+    - id: 11
+      name: organization_rating
+      label: How well organized is the text
+      hint: null
+      type: select_one
+      options:
+        - Poor
+        - Fair
+        - Good
+        - Very Good
+        - Excellent
+      required: true
+    - id: 12
+      name: pedagogical_value
+      label: How effective is the text as a learning resource
+      hint: null
+      type: select_one
+      options:
+        - Not effective
+        - Slightly effective
+        - Moderately effective
+        - Very effective
+        - Extremely effective
+      required: true
+    - id: 13
+      name: strengths
+      label: What are the main strengths of this text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: weaknesses
+      label: What are the main weaknesses or areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: recommendation
+      label: Overall recommendation
+      hint: null
+      type: select_one
+      options:
+        - Highly recommended for adoption
+        - Recommended with minor revisions
+        - Recommended with major revisions
+        - Not recommended
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Any additional comments for the author or editorial team
+      hint: null
+      type: text
+      options: []
+      required: false

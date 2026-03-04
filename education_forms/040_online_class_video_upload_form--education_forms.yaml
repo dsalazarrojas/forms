@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Class Video Upload Form
+    pages:
+    - id: 1
+      name: video_title
+      label: Video Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: video_description
+      label: Video Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_video
+      label: Upload Video
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: video_url
+      label: Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: video_file
+      label: Video File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: video_type
+      label: Video Type
+      hint: null
+      type: select_one
+      options:
+      - Video
+      - Image
+      - Audio
+      required: false
+    - id: 10
+      name: video_duration
+      label: Video Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

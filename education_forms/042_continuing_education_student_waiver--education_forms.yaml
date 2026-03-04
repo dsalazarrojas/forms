@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Continuing Education Student Waiver
+    pages:
+    - id: 1
+      name: student_identity_header
+      label: -- Student Identification --
+      hint: For adult learners participating in courses or training
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email_student
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: enrolled_course_title
+      label: Course or Program Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact_header
+      label: -- Emergency Contact Information --
+      hint: Must be reachable during course hours
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name
+      label: Emergency Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: health_safety_header
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions_allergies
+      label: Relevant Medical Conditions or Allergies
+      hint: Enter 'None' if not applicable
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: liability_release_header
+      label: -- Waiver and Release of Liability --
+      hint: Please read the terms carefully
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: liability_release_agreed
+      label: I release the institution from liability for injury or loss
+      hint: null
+      type: select_one
+      options:
+      - I Agree to the Release of Liability
+      - Other
+      required: true
+    - id: 12
+      name: media_release_consent
+      label: Consent for Media Usage (Photos/Video)
+      hint: Can we use your image for educational promotion
+      type: select_one
+      options:
+      - Yes - I grant permission
+      - No - I do not grant permission
+      required: true
+    - id: 13
+      name: signature_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: waiver_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: student_digital_signature
+      label: Student Digital Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classical Ballet Education Registration Form
+    pages:
+    - id: 1
+      name: section_header_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_full_name
+      label: Student Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_date_of_birth
+      label: Date of Birth
+      hint: Student's birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_age
+      label: Age
+      hint: Current age in years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: student_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      - Prefer Not to Say
+      required: false
+    - id: 6
+      name: previous_ballet_experience
+      label: Previous Ballet Experience
+      hint: Have you studied ballet before?
+      type: select_one
+      options:
+      - No Experience
+      - Beginner (Less than 1 year)
+      - Intermediate (1-3 years)
+      - Advanced (3+ years)
+      required: true
+    - id: 7
+      name: ballet_level_requested
+      label: Requested Class Level
+      hint: What level class are you interested in?
+      type: select_one
+      options:
+      - Pre-Ballet (Ages 4-6)
+      - Level 1 Beginner (Ages 7-9)
+      - Level 2 Elementary (Ages 10-12)
+      - Level 3 Intermediate (Ages 13-15)
+      - Level 4 Advanced (Ages 16+)
+      - Adult Beginner
+      required: true
+    - id: 8
+      name: section_header_parent
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_primary_name
+      label: Primary Parent/Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_primary_phone
+      label: Primary Parent Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_primary_email
+      label: Primary Parent Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: parent_secondary_name
+      label: Secondary Parent/Guardian Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parent_secondary_phone
+      label: Secondary Parent Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of person to contact in emergency
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_health
+      label: -- Health and Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Any Medical Conditions or Allergies
+      hint: Please describe any relevant health conditions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: current_medications
+      label: Current Medications
+      hint: List any medications the student is taking
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: physical_restrictions
+      label: Any Physical Restrictions or Injuries
+      hint: Describe any limitations the instructor should know about
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: physician_approval
+      label: Has a physician approved participation in ballet?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Required
+      required: false
+    - id: 21
+      name: section_header_enrollment
+      label: -- Enrollment and Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: enrollment_term
+      label: Enrollment Term
+      hint: Select the term for enrollment
+      type: select_one
+      options:
+      - Fall Semester
+      - Spring Semester
+      - Full Year
+      - Summer Intensive
+      required: true
+    - id: 23
+      name: preferred_class_time
+      label: Preferred Class Time
+      hint: Select your preferred class schedule
+      type: select_one
+      options:
+      - Monday 4:00 PM
+      - Tuesday 3:30 PM
+      - Wednesday 4:30 PM
+      - Thursday 3:00 PM
+      - Saturday 10:00 AM
+      - Saturday 2:00 PM
+      required: true
+    - id: 24
+      name: consent_agreement
+      label: I agree to the studio policies and conduct standards
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

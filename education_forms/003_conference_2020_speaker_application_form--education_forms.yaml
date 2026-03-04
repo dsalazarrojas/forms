@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference 2020 Speaker Application Form
+    pages:
+    - id: 1
+      name: speaker_info_header
+      label: -- Speaker Information --
+      hint: SECA Call for Proposals
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: speaker_full_name
+      label: Speaker Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_title
+      label: Professional Title
+      hint: e.g. Professor, Research Director, Lead Consultant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_affiliation
+      label: Organization or Institution Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: speaker_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: speaker_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: speaker_bio
+      label: Professional Biography
+      hint: 150 words or less
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: proposal_details_header
+      label: -- Presentation Proposal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: session_title
+      label: Title of Proposed Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: session_abstract
+      label: Session Abstract
+      hint: Provide a brief summary of your presentation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: session_track
+      label: Primary Conference Track
+      hint: Select the most relevant category
+      type: select_one
+      options:
+      - Early Childhood Education
+      - Primary Education
+      - Secondary Education
+      - Higher Education
+      - Special Education
+      - Educational Technology
+      required: true
+    - id: 12
+      name: session_format
+      label: Preferred Presentation Format
+      hint: null
+      type: select_one
+      options:
+      - Keynote Address
+      - Workshop (90 mins)
+      - Panel Discussion
+      - Research Presentation (30 mins)
+      - Poster Session
+      required: true
+    - id: 13
+      name: learning_objectives
+      label: Key Learning Objectives
+      hint: List 2-3 things attendees will learn
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: av_requirements
+      label: Audio-Visual and Technical Requirements
+      hint: Beyond standard projector and microphone
+      type: select_multiple
+      options:
+      - External Audio Connection
+      - Whiteboard and Markers
+      - High-Speed Internet Access
+      - Specific Software Needs
+      - Other
+      required: false
+    - id: 15
+      name: previous_speaking_experience
+      label: Have you presented at this conference before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: submission_agreement
+      label: I agree to provide my presentation slides by the deadline if selected
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

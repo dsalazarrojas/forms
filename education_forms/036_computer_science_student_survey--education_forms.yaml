@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Science Student Survey
+    pages:
+      - id: 1
+        name: section_student_profile
+        label: -- Student Profile --
+        hint: Collect student feedback about courses and resources
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: student_name
+        label: Student name
+        hint: Optional for anonymous surveys
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: year_of_study
+        label: Year of study
+        hint: Undergraduate or graduate year
+        type: select_one
+        options: [1, 2, 3, 4, Graduate]
+        required: true
+      - id: 4
+        name: course_enrolled
+        label: Course enrolled
+        hint: Course code or title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: satisfaction_with_instruction
+        label: Satisfaction with instruction
+        hint: Rate teaching quality and clarity
+        type: select_one
+        options: [Very satisfied, Satisfied, Neutral, Dissatisfied]
+        required: true
+      - id: 6
+        name: resource_availability
+        label: Resource availability
+        hint: Are labs and materials sufficient
+        type: select_one
+        options: [Always, Mostly, Sometimes, Never]
+        required: true
+      - id: 7
+        name: workload_balance
+        label: Workload balance
+        hint: Perception of workload manageability
+        type: select_one
+        options: [Manageable, Heavy, Overwhelming]
+        required: true
+      - id: 8
+        name: areas_for_support
+        label: Areas for support
+        hint: Topics where additional help is needed
+        type: text
+        options: []
+        required: false

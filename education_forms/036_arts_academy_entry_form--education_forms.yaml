@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts Academy Entry Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: parent_contact
+      label: Parent Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_education
+      label: Previous School or Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_of_interest
+      label: Program of Interest
+      hint: null
+      type: select_one
+      options:
+      - Painting and Drawing
+      - Sculpture and Ceramics
+      - Music Performance
+      - Dance
+      - Theater
+      - Digital Arts
+      - Mixed Media
+      - Foundation Year
+      required: true
+    - id: 14
+      name: experience_level
+      label: Experience Level in Chosen Art Form
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Some Experience
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 15
+      name: prior_training
+      label: Prior Training or Instruction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: portfolio_attached
+      label: Portfolio or Work Samples Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Will Submit Later
+      required: true
+    - id: 17
+      name: artist_statement
+      label: Artist Statement or Essay
+      hint: Why do you want to attend this academy
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: financial_aid_needed
+      label: Financial Aid or Scholarship Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Possibly
+      required: false
+    - id: 19
+      name: enrollment_start_date
+      label: Requested Enrollment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Word of Mouth
+      - School Counselor
+      - Arts Organization
+      - Other
+      required: false
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

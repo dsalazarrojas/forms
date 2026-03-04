@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Synthetic Food Ingredients Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: synthetic_food_ingredients
+      label: What is a synthetic food ingredient?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: examples_of_synthetic_food_ingredients
+      label: Examples of Synthetic Food Ingredients
+      hint: null
+      type: select_multiple
+      options:
+      - MSG
+      - SLS
+      - Artificial Colors
+      required: false
+    - id: 4
+      name: how_do_synthetic_food_ingredients_affect_people
+      label: How do synthetic food ingredients affect people?
+      hint: null
+      type: select_one
+      options:
+      - Allergies
+      - Digestive Issues
+      - No Effect
+      - Skin Issues
+      required: false
+    - id: 5
+      name: synthetic_food_ingredients_in_different_countries
+      label: Synthetic Food Ingredients in Different Countries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: synthetic_food_ingredients_in_food_products
+      label: Synthetic Food Ingredients in Food Products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: null
+      type: select_multiple
+      options:
+      - https://www.example.com/ref1
+      - https://www.example.com/ref2
+      - https://www.example.com/ref3
+      required: false

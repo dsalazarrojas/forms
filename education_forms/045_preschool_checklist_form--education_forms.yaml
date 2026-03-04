@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Checklist Form
+    pages:
+    - id: 1
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_supplies
+      label: School Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_information
+      label: Student Information
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: classroom_location
+      label: Classroom Location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: classroom_equipment
+      label: Classroom Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: activity_planning
+      label: Activity Planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: material_request
+      label: Material Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false

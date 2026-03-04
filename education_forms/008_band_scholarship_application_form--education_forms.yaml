@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Band Scholarship Application Form
+    pages:
+    - id: 1
+      name: applicant_personal_header
+      label: -- Applicant Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_phone
+      label: Student Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Permanent Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_info_header
+      label: -- Academic and School Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: high_school_name
+      label: High School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cumulative_gpa
+      label: Cumulative GPA
+      hint: e.g., 3.75
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: intended_college
+      label: Intended College or University
+      hint: List your top choice or where you have been accepted
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: music_background_header
+      label: -- Musical Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: primary_instrument
+      label: Primary Instrument
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_in_band
+      label: Number of Years in High School Band
+      hint: Include marching band, concert band, jazz band, etc.
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: leadership_roles
+      label: Leadership Positions Held
+      hint: e.g., Drum Major, Section Leader, Band President
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: music_honors
+      label: Music Honors and Awards
+      hint: e.g., All-State, Solo and Ensemble ratings
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: application_essentials_header
+      label: -- Application Documents and Statements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: personal_statement
+      label: Music Impact Personal Statement
+      hint: Describe how music has influenced your high school career (max 500 words)
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: recommendation_source
+      label: Name of Band Director Providing Recommendation
+      hint: We will contact them for verification
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: scholarship_use
+      label: Planned Use of Scholarship Funds
+      hint: Select the primary expense category
+      type: select_one
+      options:
+      - College Tuition
+      - Purchase of Professional Instrument
+      - Music Summer Camp / Program
+      - Private Instruction
+      required: true
+    - id: 19
+      name: certification
+      label: Applicant Certification
+      hint: null
+      type: select_multiple
+      options:
+      - I certify that all information provided is true and accurate
+      - I understand that funds are awarded at the discretion of the committee
+      required: true

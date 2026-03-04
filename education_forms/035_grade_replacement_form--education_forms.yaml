@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grade Replacement Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grade_to_replace
+      label: grade_to_replace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_replacement
+      label: reason_for_replacement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: new_grade
+      label: New Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: confirm_replacement
+      label: confirm_replacement
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

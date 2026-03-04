@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safeguarding Training Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: this is a sample form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: section 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_2
+      label: section 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: section_3
+      label: section 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: section_4
+      label: section 4
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_5
+      label: section 5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email_1
+      label: email 1
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_1
+      label: phone 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_2
+      label: email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: introduction_2
+      label: introduction 2
+      hint: null
+      type: note
+      options: []
+      required: false

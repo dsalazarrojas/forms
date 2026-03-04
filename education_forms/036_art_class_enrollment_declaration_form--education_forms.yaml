@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Class Enrollment Declaration Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID Number
+      hint: If already enrolled
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_class_selection
+      label: -- Class Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: art_class_level
+      label: Art Class Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Mixed ability
+      required: true
+    - id: 9
+      name: preferred_medium
+      label: Preferred Art Medium
+      hint: null
+      type: select_multiple
+      options:
+      - Drawing
+      - Painting
+      - Sculpture
+      - Printmaking
+      - Digital art
+      - Mixed media
+      - Other
+      required: true
+    - id: 10
+      name: class_format
+      label: Preferred Class Format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Online
+      - Hybrid
+      required: true
+    - id: 11
+      name: schedule_preference
+      label: Schedule Preference
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Flexible
+      required: true
+    - id: 12
+      name: section_experience
+      label: -- Art Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: art_experience
+      label: Art Experience Level
+      hint: null
+      type: select_one
+      options:
+      - No experience
+      - Some experience
+      - Moderate experience
+      - Advanced experience
+      required: true
+    - id: 14
+      name: previous_classes
+      label: Have you taken art classes before
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - in school
+      - Yes - private instruction
+      - Yes - other
+      required: false
+    - id: 15
+      name: learning_goals
+      label: What are your learning goals
+      hint: Hobby, skill development, career prep
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_enrollment
+      label: -- Enrollment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: enrollment_term
+      label: Enrollment Term
+      hint: null
+      type: select_one
+      options:
+      - Spring semester
+      - Fall semester
+      - Summer session
+      - Year-round
+      - Single session
+      required: true
+    - id: 18
+      name: enrollment_date
+      label: Enrollment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: fee_payment
+      label: Payment Method for Class Fees
+      hint: null
+      type: select_one
+      options:
+      - Full payment
+      - Payment plan
+      - Financial aid
+      - Other
+      required: true
+    - id: 20
+      name: section_agreements
+      label: -- Agreements and Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: code_of_conduct
+      label: I agree to follow the class code of conduct
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: liability_waiver
+      label: I understand and accept liability waiver
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: parent_consent
+      label: Parent or Guardian Consent - if under 18
+      hint: null
+      type: select_one
+      options:
+      - Not applicable
+      - Yes - consented
+      - No - not consented
+      required: false
+    - id: 24
+      name: additional_info
+      label: Additional Information or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Peer Evaluation Form
+    pages:
+    - id: 1
+      name: peer_comments
+      label: Peer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: peer_name
+      label: Peer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: peer_student_identifier
+      label: Peer Student Identifier
+      hint: Student ID
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: self_rating
+      label: Self Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_for_students_below
+      label: Feedback for Students Below
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_for_students_above
+      label: Feedback for Students Above
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false

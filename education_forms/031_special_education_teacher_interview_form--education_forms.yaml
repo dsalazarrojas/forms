@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Education Teacher Interview Form
+    pages:
+    - id: 1
+      name: new_application
+      label: New Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false

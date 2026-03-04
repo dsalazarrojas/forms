@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Peer Learning Support Survey
+    pages:
+    - id: 1
+      name: faculty_survey_form
+      label: General Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: peer_learning_activities
+      label: Peer Learning Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: effectiveness_scale
+      label: Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Effective''}'
+      - '{''label'': ''Somewhat Effective''}'
+      - '{''label'': ''Not Very Effective''}'
+      required: false
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: general_comments
+      label: General Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Faculty Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Faculty Phone
+      hint: null
+      type: text
+      options: []
+      required: false

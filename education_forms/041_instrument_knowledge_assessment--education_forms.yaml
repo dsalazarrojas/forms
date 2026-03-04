@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instrument Knowledge Assessment
+    pages:
+    - id: 1
+      name: instrument
+      label: Music Instrument
+      hint: null
+      type: select_one
+      options:
+      - Violin
+      - Cello
+      - Guitar
+      - Bass
+      - Drums
+      - Percussion
+      required: false
+    - id: 2
+      name: years_of_experience
+      label: Years of Instrument Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: theory_knowledge
+      label: Theory Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Scales
+      - Chord progressions
+      - Reading notes
+      - Sight reading
+      required: false
+    - id: 4
+      name: performance_skills
+      label: Performance Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: practice_time
+      label: Daily Practice Time
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes-1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - More than 4 hours
+      required: false
+    - id: 6
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Interview Booking Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: applicant_name
+      label: Applicant Name
+      hint: Enter applicant name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: booking_note
+      label: Booking Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: applicant_phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: interviewers_name
+      label: Interviewers Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: booking_note_2
+      label: Booking Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

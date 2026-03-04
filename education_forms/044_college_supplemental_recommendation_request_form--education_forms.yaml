@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Supplemental Recommendation Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Applicant requesting recommendation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: student_phone
+      label: Student Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_school
+      label: Current High School or Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: year_in_school
+      label: Year in School or Class
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      - Undergraduate
+      - Graduate
+      required: true
+    - id: 6
+      name: recommender_name
+      label: Recommender Name
+      hint: Person who will provide recommendation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: recommender_title
+      label: Recommender Title or Position
+      hint: Teacher, coach, mentor, etc.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recommender_email
+      label: Recommender Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: recommender_phone
+      label: Recommender Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recommender_school
+      label: School or Institution
+      hint: Where the recommender works
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: relationship_description
+      label: Describe Your Relationship with Recommender
+      hint: How long have you known them and in what context
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: college_applying_to
+      label: College or University Applying To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submission_deadline
+      label: Recommendation Submission Deadline
+      hint: When does it need to be submitted
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: recommendation_type
+      label: Type of Supplemental Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Extracurricular Activity
+      - Athletic
+      - Talent or Special Skills
+      - Personal Character
+      - Work Experience
+      - Creative Work
+      - Leadership
+      - Other
+      required: true
+    - id: 15
+      name: recommendation_focus
+      label: Focus or Topic for Recommendation
+      hint: What should the recommendation emphasize
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: recommended_strengths
+      label: Key Strengths to Highlight
+      hint: What qualities should be featured
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: context_for_recommender
+      label: Context or Background Information for Recommender
+      hint: Important details for the recommendation
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_method
+      label: Submission Method Requested
+      hint: How should the recommender submit
+      type: select_one
+      options:
+      - Email
+      - Online Portal
+      - Sealed Envelope
+      - Direct to College
+      - Other
+      required: true
+    - id: 19
+      name: submission_instructions
+      label: Submission Instructions
+      hint: Specific details for submitting recommendation
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: waiver_signed
+      label: Student Signed FERPA Waiver
+      hint: If applicable
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Required
+      required: true
+    - id: 21
+      name: additional_context
+      label: Additional Context or Special Circumstances
+      hint: Anything else the recommender should know
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_reminder
+      label: Request Follow-Up Reminder
+      hint: Would you like a reminder sent to recommender
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

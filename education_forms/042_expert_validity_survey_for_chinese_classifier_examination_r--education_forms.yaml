@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: expert_validity_survey_for_chinese_classifier_examination_r
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_of_exam
+      label: Date of Exam
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_exam
+      label: Time of Exam
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: exam_type
+      label: Exam Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      - '{''label'': ''D''}'
+      - '{''label'': ''E''}'
+      required: false
+    - id: 9
+      name: exam_center
+      label: Exam Center
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''A''}'
+      - '{''label'': ''B''}'
+      - '{''label'': ''C''}'
+      - '{''label'': ''D''}'
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

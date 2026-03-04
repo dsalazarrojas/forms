@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Management Techniques Form
+    pages:
+      - id: 1
+        name: student_name
+        label: Student Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: grade_level
+        label: Grade Level
+        hint: null
+        type: select_one
+        options:
+          - K
+          - 1st
+          - 2nd
+          - 3rd
+          - 4th
+          - 5th
+          - 6th
+        required: true
+      - id: 3
+        name: observation_date
+        label: Date of Observation
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: teacher_name
+        label: Teacher Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: behavioral_issue
+        label: Describe the Behavioral Issue
+        hint: What behavior needs to be addressed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: issue_frequency
+        label: Frequency of Behavior
+        hint: How often does this occur
+        type: select_one
+        options:
+          - Rarely (1-2 times per week)
+          - Sometimes (3-4 times per week)
+          - Often (daily)
+          - Very Often (multiple times daily)
+        required: true
+      - id: 7
+        name: issue_severity
+        label: Severity of Behavior
+        hint: null
+        type: select_one
+        options:
+          - Mild
+          - Moderate
+          - Severe
+        required: true
+      - id: 8
+        name: trigger_identification
+        label: Identify Behavioral Triggers
+        hint: What causes the behavior
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: technique_1
+        label: Management Technique 1 Applied
+        hint: null
+        type: select_one
+        options:
+          - Positive Reinforcement
+          - Redirecting Attention
+          - Timeout
+          - Loss of Privileges
+          - Class Discussion
+          - Parent Communication
+          - Other
+        required: true
+      - id: 10
+        name: technique_1_effectiveness
+        label: Effectiveness of Technique 1
+        hint: null
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Not Effective
+        required: true
+      - id: 11
+        name: technique_2
+        label: Management Technique 2 Applied
+        hint: null
+        type: select_one
+        options:
+          - Positive Reinforcement
+          - Redirecting Attention
+          - Timeout
+          - Loss of Privileges
+          - Class Discussion
+          - Parent Communication
+          - Other
+        required: false
+      - id: 12
+        name: technique_2_effectiveness
+        label: Effectiveness of Technique 2
+        hint: null
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Not Effective
+        required: false
+      - id: 13
+        name: student_response
+        label: Student Response to Interventions
+        hint: How did the student respond
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: progress_made
+        label: Progress Toward Behavior Change
+        hint: null
+        type: select_one
+        options:
+          - Significant Progress
+          - Some Progress
+          - No Progress
+          - Regression
+        required: true
+      - id: 15
+        name: followup_needed
+        label: Follow-up Actions Needed
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: followup_description
+        label: Description of Follow-up Actions
+        hint: Parent conference, counselor referral, etc.
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: next_review_date
+        label: Next Review Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 18
+        name: teacher_comments
+        label: Additional Comments
+        hint: null
+        type: text
+        options: []
+        required: false

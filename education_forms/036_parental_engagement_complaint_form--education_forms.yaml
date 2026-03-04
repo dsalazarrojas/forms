@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Engagement Complaint Form
+    pages:
+    - id: 1
+      name: parental_engagement_complaint_form
+      label: Parental Engagement Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_description
+      label: complaint description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: educational_institution
+      label: educational institution
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: parent_contact_info
+      label: parent contact info
+      hint: null
+      type: text
+      options: []
+      required: false

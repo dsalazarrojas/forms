@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: scholar_program_feedback_survey
+    pages:
+    - id: 1
+      name: participant_information
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_enjoyment_level
+      label: How much do you enjoy the scholar program?
+      hint: Rate your enjoyment level from 1-10
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_improvement_areas
+      label: Which areas of the program would you like to see improved?
+      hint: null
+      type: select_multiple
+      options:
+      - Academics
+      - Logistics
+      - Communication
+      required: false
+    - id: 4
+      name: program_satisfaction
+      label: Overall satisfaction with the scholar program
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neither Satisfied Nor Dissatisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 5
+      name: program_expectations
+      label: How do you expect the scholar program to change in the next 6 months?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: program_recommendation
+      label: Do you recommend this scholar program to others?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: program_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: How would you like to be contacted for feedback?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Neither
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: feedback_urgency
+      label: How urgent is this feedback for improvement?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

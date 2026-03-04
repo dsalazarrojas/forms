@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: user@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: true
+    - id: 7
+      name: state
+      label: state
+      hint: null
+      type: select_multiple
+      options:
+      - CA
+      - NY
+      - TX
+      - FL
+      required: true
+    - id: 8
+      name: zip_code
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: age
+      label: age
+      hint: years
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchase_frequency
+      label: purchase frequency
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: true
+    - id: 11
+      name: purchase_channel
+      label: purchase channel
+      hint: null
+      type: select_one
+      options:
+      - online
+      - mobile
+      - physical store
+      required: true
+    - id: 12
+      name: products_bought
+      label: products bought
+      hint: null
+      type: select_multiple
+      options:
+      - electronics
+      - clothing
+      - home goods
+      required: true
+    - id: 13
+      name: products_wanted
+      label: products wanted
+      hint: null
+      type: select_multiple
+      options:
+      - electronics
+      - clothing
+      - home goods
+      required: true
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rating
+      label: rating
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: date_of_last_purchase
+      label: date of last purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_of_last_purchase
+      label: time of last purchase
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: reasons_for_not_buying
+      label: reasons for not buying
+      hint: null
+      type: select_multiple
+      options:
+      - price
+      - quality
+      - availability
+      required: false
+    - id: 19
+      name: reasons_for_buying
+      label: reasons for buying
+      hint: null
+      type: select_multiple
+      options:
+      - price
+      - quality
+      - recommendation
+      required: false
+    - id: 20
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: select_multiple
+      options:
+      - satisfied
+      - neutral
+      - unsatisfied
+      required: false
+    - id: 21
+      name: satisfaction_comments
+      label: satisfaction comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommended_products
+      label: recommended products
+      hint: null
+      type: select_multiple
+      options:
+      - electronics
+      - clothing
+      - home goods
+      required: false
+    - id: 23
+      name: recommended_product_categories
+      label: recommended product categories
+      hint: null
+      type: select_multiple
+      options:
+      - electronics
+      - clothing
+      - home goods
+      required: false
+    - id: 24
+      name: recommended_vendors
+      label: recommended vendors
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon
+      - eBay
+      - Walmart
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

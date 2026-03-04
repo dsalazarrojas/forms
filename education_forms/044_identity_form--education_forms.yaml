@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Upload Selfie
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: id_number
+      label: ID Number
+      hint: A student ID number
+      type: text
+      options: []
+      required: false

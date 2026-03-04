@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Wellness Education Series Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workshop_attendance
+      label: workshop_attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1 - 3 days ago''}'
+      - '{''label'': ''4 - 6 days ago''}'
+      - '{''label'': ''7 or more days ago''}'
+      required: false
+    - id: 3
+      name: workshop_length
+      label: workshop_length
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''30 minutes''}'
+      - '{''label'': ''1 hour''}'
+      - '{''label'': ''2 hours''}'
+      - '{''label'': ''3 hours''}'
+      - '{''label'': ''More than 3 hours''}'
+      required: false
+    - id: 4
+      name: content_quality
+      label: content_quality
+      hint: On a scale from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: relevance
+      label: relevance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: workshop_friendly
+      label: workshop_friendly
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: future_workshops
+      label: future_workshops
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: workshop_improvement
+      label: workshop_improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Content improvement''}'
+      - '{''label'': ''Schedule improvement''}'
+      - '{''label'': ''Location improvement''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 9
+      name: digital_resources
+      label: digital_resources
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_info
+      label: participant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_notes
+      label: participant_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_comments
+      label: staff_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_email
+      label: staff_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: staff_phone
+      label: staff_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_did_attend
+      label: participant_did_attend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 22
+      name: staff_did_attend
+      label: staff_did_attend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: staff_did_arrive
+      label: staff_did_arrive
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: staff_did_participate
+      label: staff_did_participate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: form_completion
+      label: form_completion
+      hint: null
+      type: note
+      options: []
+      required: false

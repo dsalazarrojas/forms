@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Of The Week Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Teacher Of The Week Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Art
+      - Music
+      - Physical Education
+      - Science
+      - Foreign Language
+      - Math
+      - Computer Science
+      - English
+      - History
+      - Other
+      required: true
+    - id: 4
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grade_level
+      label: Grade Level
+      hint: null
+      type: select_multiple
+      options:
+      - 6-8
+      - 9-12
+      - K-5
+      - Special Ed
+      required: true
+    - id: 6
+      name: reasons_for_nominating
+      label: Reasons For Nominating
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nominator_name
+      label: Nominator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nominator_email
+      label: Nominator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: nominator_phone
+      label: Nominator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominator_message
+      label: Nominator Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: nominator_signature
+      label: Nominator Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: school_admin_approval
+      label: School Admin Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 15
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: nominator_comments
+      label: Nominator Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false

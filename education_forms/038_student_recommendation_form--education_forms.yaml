@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Recommendation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Enter Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_achievements
+      label: Student Achievements
+      hint: null
+      type: select_multiple
+      options:
+      - Student is a hard worker
+      - Student is a team player
+      - Student is creative
+      required: true
+    - id: 5
+      name: teacher_achievements
+      label: Teacher Achievements
+      hint: null
+      type: select_multiple
+      options:
+      - Has excellent communication skills
+      - Has patience
+      - Has a sense of humor
+      required: false
+    - id: 6
+      name: student_essay
+      label: Student Essay
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: teacher_essay
+      label: Teacher Essay
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_reference
+      label: Student Reference
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: teacher_reference
+      label: Teacher Reference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: teacher_date_of_birth
+      label: Teacher Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: student_time_of_birth
+      label: Student Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: teacher_time_of_birth
+      label: Teacher Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: student_address
+      label: Student Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: teacher_address
+      label: Teacher Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: student_notes
+      label: Student Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: teacher_notes
+      label: Teacher Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: student_religion
+      label: Student Religion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: teacher_religion
+      label: Teacher Religion
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: student_language
+      label: Student Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: teacher_language
+      label: Teacher Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

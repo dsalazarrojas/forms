@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Learning Design Accelerator Application Form
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: Applicant full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact for application updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: affiliation
+      label: Institution or department
+      hint: Affiliation for program
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_focus
+      label: Project focus area
+      hint: Topic or course area for design work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: objectives
+      label: Objectives for accelerator
+      hint: What you aim to achieve through the program
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: time_commitment
+      label: Time commitment available
+      hint: Weekly hours available during accelerator
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: prior_experience
+      label: Prior instructional design experience
+      hint: Describe any relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Team members involved
+      hint: Names and roles of collaborators
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_support
+      label: Additional support requested
+      hint: Any mentoring or resources needed
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internship Verification Letter Request
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: school_info
+      label: School Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employer_email
+      label: Employer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: employer_contact
+      label: Employer Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Not Verified
+      - In Progress
+      required: true
+    - id: 11
+      name: submit_form
+      label: Submit Form
+      hint: Submit the form
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true

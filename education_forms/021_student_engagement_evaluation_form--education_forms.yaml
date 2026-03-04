@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: student-engagement-evaluation-form
+    pages:
+    - id: 1
+      name: introduction_page
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_learning_experience
+      label: what-have-you-learned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: engagement_levels
+      label: how-fully-engaged
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: feedback
+      label: what-did-you-find-most-challenging
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: what-suggestions-for-improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: any-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: what-is-your-username
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

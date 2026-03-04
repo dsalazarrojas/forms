@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supported Tasks For Learners
+    pages:
+    - id: 1
+      name: learner_support_needs
+      label: Learner Support Needs
+      hint: null
+      type: select_one
+      options:
+      - Need help with coursework
+      - Need help with projects
+      - Need help with other
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: support_methods
+      label: Support Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Online video tutorials
+      - One-on-one tutoring
+      - Group work
+      - Phone call
+      - Email
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 4
+      name: other_methods
+      label: Other Methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: other_needs_specify
+      label: Other Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_help_methods
+      label: Preferred Help Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Online video tutorials
+      - One-on-one tutoring
+      - Group work
+      - Phone call
+      - Email
+      required: false
+    - id: 7
+      name: preferred_help_methods_other
+      label: Preferred Help Methods Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_help_methods_other_specify
+      label: Preferred Help Methods Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

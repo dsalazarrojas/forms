@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Academic Programs Opening Survey
+    pages:
+    - id: 1
+      name: new_academic_programs_opening_survey_page
+      label: new_academic_programs_opening_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: academic_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: course_name
+      label: course_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: course_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_students
+      label: expected_students
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: program_length
+      label: program_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: instructor
+      label: instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false

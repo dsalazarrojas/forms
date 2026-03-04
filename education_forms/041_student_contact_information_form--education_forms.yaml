@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Contact Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address_line_1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''option_id'': 1, ''option_label'': ''California''}'
+      - '{''option_id'': 2, ''option_label'': ''New York''}'
+      - '{''option_id'': 3, ''option_label'': ''Other''}'
+      - '{''option_id'': 4, ''option_label'': ''Unknown''}'
+      - '{''option_id'': 5, ''option_label'': ''Not Required''}'
+      - '{''option_id'': 6, ''option_label'': ''None''}'
+      required: false
+    - id: 9
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_phone2
+      label: Alternative Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_phone3
+      label: Other Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_first_name2
+      label: Alternate Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_last_name2
+      label: Alternate Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_relationship2
+      label: Alternate Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_phone2_2
+      label: Alternative 2nd Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone3_2
+      label: Other 2nd Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: address_line_1_2
+      label: Second Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: address_line_2_2
+      label: Second Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: city_2
+      label: Second City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: state_2
+      label: Second State
+      hint: null
+      type: select_one
+      options:
+      - '{''option_id'': 1, ''option_label'': ''California''}'
+      - '{''option_id'': 2, ''option_label'': ''New York''}'
+      - '{''option_id'': 3, ''option_label'': ''Other''}'
+      - '{''option_id'': 4, ''option_label'': ''Unknown''}'
+      - '{''option_id'': 5, ''option_label'': ''Not Required''}'
+      - '{''option_id'': 6, ''option_label'': ''None''}'
+      required: false
+    - id: 25
+      name: zip_2
+      label: Second Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: emergency_contact_relationship_other
+      label: Emergency Contact Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: emergency_contact_phone_other
+      label: Alternative Emergency Contact Other Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: other_relationship
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: other_phone
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: other_phone_2
+      label: Other 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: other_phone3
+      label: Other 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: other_phone4
+      label: Other 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: other_phone5
+      label: Other 5
+      hint: null
+      type: text
+      options: []
+      required: false

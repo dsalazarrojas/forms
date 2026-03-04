@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Modelling Consulting Lab Registration Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Academic Affairs
+      - Business and Finance
+      - Engineering
+      - Health and Human Sciences
+      - Information Technology
+      - Research and Development
+      - Other
+      required: false
+    - id: 5
+      name: workshop_interested_in
+      label: Workshop Interested In
+      hint: null
+      type: select_one
+      options:
+      - Financial Modelling
+      - Data Modelling
+      - Business Process Modelling
+      - Business and Financial Modelling
+      - Other
+      required: true
+    - id: 6
+      name: date_and_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: review
+      label: Review
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: false

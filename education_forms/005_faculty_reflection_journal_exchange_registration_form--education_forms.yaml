@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: faculty_reflection_journal_exchange_registration_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: workshop_code
+      label: Workshop Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Evaluation Form
+    pages:
+    - id: 1
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Fall
+      - Summer
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_experience
+      label: Course Experience
+      hint: How did you experience the course?
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 9
+      name: course_improvement
+      label: Course Improvement
+      hint: What would you like to see improvement in?
+      type: select_multiple
+      options:
+      - Quality of instruction
+      - Content quality
+      - Organization
+      - Other
+      required: false
+    - id: 10
+      name: overall
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false

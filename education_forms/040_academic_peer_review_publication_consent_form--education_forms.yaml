@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Review Publication Consent Form
+    pages:
+      - id: 1
+        name: section_consent_header
+        label: -- Consent for Publication of Peer Review --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reviewer_name
+        label: Reviewer name
+        hint: Name of the reviewer granting consent
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: reviewer_email
+        label: Reviewer email
+        hint: Contact email for publication correspondence
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: manuscript_title
+        label: Manuscript title
+        hint: Title of the work reviewed
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: consent_to_publish_review
+        label: Consent to publish the review
+        hint: Permission to publish review comments
+        type: select_one
+        options:
+          - Yes, publish the review
+          - Yes, publish anonymized review
+          - No, do not publish
+        required: true
+      - id: 6
+        name: citation_preference
+        label: Citation preference
+        hint: How reviewer wishes to be credited if published
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: embargo_requests
+        label: Embargo requests
+        hint: Any embargo period requested before publication
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: republication_terms
+        label: Terms for republication
+        hint: Conditions under which review may be republished
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: signature
+        label: Signature name
+        hint: Type full name to confirm consent
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: signature_date
+        label: Signature date
+        hint: Date consent was given
+        type: date
+        options: []
+        required: true

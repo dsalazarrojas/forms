@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prion Disease Knowledge Quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: answers
+      label: Answers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

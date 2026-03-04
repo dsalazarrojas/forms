@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: KWL Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_do_you_want_to_learn
+      label: What do you want to learn about
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: what_you_already_know
+      label: What do you already know?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: what_have_you_learned
+      label: What have you learned?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: what_is_important
+      label: What is important to you?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 6
+      name: why_learn_more
+      label: Why do you want to learn more?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email address
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

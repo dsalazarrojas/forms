@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: shop-fema-order-page
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping
+      label: Shipping
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: items
+      label: items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

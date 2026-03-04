@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Exchange Recording Consent Form
+    pages:
+      - id: 1
+        name: section_consent
+        label: -- Recording Consent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Name of person providing consent
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: session_title
+        label: Session title
+        hint: Title or topic of exchange session
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: consent_to_record
+        label: Consent to record
+        hint: Permission for audio or video recording
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 5
+        name: permission_to_share
+        label: Permission to share recording
+        hint: Permission for sharing beyond participants
+        type: select_one
+        options:
+          - Yes publicly
+          - Yes internally only
+          - No
+        required: true
+      - id: 6
+        name: retention_period
+        label: Retention period
+        hint: How long recordings will be kept
+        type: select_one
+        options:
+          - 6 months
+          - 1 year
+          - Indefinitely
+        required: false
+      - id: 7
+        name: restrictions
+        label: Specific restrictions
+        hint: Any requested limitations on use
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: signature
+        label: Signature name
+        hint: Type full name to consent
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: date
+        label: Date of consent
+        hint: Date consent was given
+        type: date
+        options: []
+        required: true

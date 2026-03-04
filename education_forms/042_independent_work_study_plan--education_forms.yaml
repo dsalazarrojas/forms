@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Work Study Plan
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_project
+      label: Study Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: study_hours
+      label: Study Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: progress
+      label: Progress
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: completed_hours
+      label: Completed Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 13
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: comments_from_project_manager
+      label: Comments from Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 17
+      name: approved
+      label: Approved
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 18
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 19
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: comments_from_reviewer
+      label: Comments from Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 24
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

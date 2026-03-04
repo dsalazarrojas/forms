@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: ielts_prediction_test_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: test_center
+      label: Test Center
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: band_score
+      label: Band Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: speaking_score
+      label: Speaking Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: listening_score
+      label: Listening Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: reading_score
+      label: Reading Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: writing_score
+      label: Writing Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: overall_score
+      label: Overall Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: predicted_score
+      label: Predicted Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: prediction_method
+      label: Prediction Method
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

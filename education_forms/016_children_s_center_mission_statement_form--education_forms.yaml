@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Center Mission Statement Form
+    pages:
+    - id: 1
+      name: organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Type of Organization
+      hint: null
+      type: select_one
+      options:
+      - Preschool
+      - Daycare
+      - Youth Program
+      - After-school Program
+      - Other Educational Center
+      required: true
+    - id: 4
+      name: founded_year
+      label: Year Founded
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mission_section
+      label: -- Mission Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: mission_statement
+      label: Write your mission statement
+      hint: What is the primary purpose of your organization
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: primary_goals
+      label: Primary goals or objectives
+      hint: Select up to three
+      type: select_multiple
+      options:
+      - Provide quality education
+      - Support child development
+      - Build community
+      - Foster creativity and innovation
+      - Promote social-emotional growth
+      - Prepare children for school
+      - Support working families
+      required: true
+    - id: 11
+      name: values_section
+      label: -- Core Values --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: core_values
+      label: Core values of your organization
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Respect
+      - Integrity
+      - Inclusion
+      - Excellence
+      - Compassion
+      - Creativity
+      - Collaboration
+      - Safety
+      - Accountability
+      required: true
+    - id: 13
+      name: values_explanation
+      label: Explain how you implement these values
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vision_section
+      label: -- Vision Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vision_statement
+      label: Write your vision statement
+      hint: Where do you see your organization in the future
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: target_population
+      label: Target population served
+      hint: Age groups and demographics
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: community_section
+      label: -- Community Involvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: community_impact
+      label: How do you impact your local community
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: partnerships
+      label: Community partnerships or collaborations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: stakeholders_section
+      label: -- Stakeholders --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: key_stakeholders
+      label: Key stakeholders in your organization
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Children
+      - Parents
+      - Staff
+      - Teachers
+      - Community members
+      - Board members
+      - Local government
+      required: true
+    - id: 22
+      name: engagement_method
+      label: How do you engage stakeholders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: challenges_opportunities
+      label: -- Challenges and Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: current_challenges
+      label: What are your current challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: future_opportunities
+      label: What opportunities do you see for growth
+      hint: null
+      type: text
+      options: []
+      required: false

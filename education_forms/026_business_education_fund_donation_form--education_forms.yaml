@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Education Fund Donation Form
+    pages:
+    - id: 1
+      name: donor_information
+      label: -- Donor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name (Optional)
+      hint: If donating on behalf of company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_address
+      label: Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_details
+      label: -- Donation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: donation_amount
+      label: Donation Amount
+      hint: Amount to donate
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: donation_type
+      label: Donation Type
+      hint: How would you like to donate?
+      type: select_one
+      options:
+      - One-Time Donation
+      - Monthly Recurring
+      - Quarterly Recurring
+      - Annual Recurring
+      required: true
+    - id: 10
+      name: fund_focus
+      label: Fund or Program Focus
+      hint: Where should your donation go?
+      type: select_one
+      options:
+      - General Education Fund
+      - Scholarships
+      - Business Skills Training
+      - Entrepreneurship Programs
+      - Technology in Education
+      - Leadership Development
+      - No Preference
+      required: true
+    - id: 11
+      name: restricted_use
+      label: Restricted Use
+      hint: Any restrictions on use?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payment_method
+      label: -- Payment Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: payment_type
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - Payroll Deduction
+      required: true
+    - id: 14
+      name: tax_deductible
+      label: Tax Deductible Donation
+      hint: Is this tax deductible?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: recognition
+      label: -- Recognition and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: recognition_preference
+      label: Recognition Preference
+      hint: How should we acknowledge this?
+      type: select_one
+      options:
+      - Public Recognition
+      - Private Recognition
+      - Anonymous
+      required: false
+    - id: 17
+      name: nonprofit_name
+      label: Non-Profit or Business Name
+      hint: If donating on behalf of organization
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: communication_opt_in
+      label: Receive Updates
+      hint: May we send you updates?
+      type: select_one
+      options:
+      - Yes, Email Updates
+      - Yes, Mail Updates
+      - No Updates
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false

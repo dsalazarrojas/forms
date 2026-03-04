@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: extra_lessons_enrollment_form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: full_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lesson_dates
+      label: lesson_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lesson_time
+      label: lesson_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: lesson_days
+      label: lesson_days
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: lesson_frequency
+      label: lesson_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: enrolled_students
+      label: enrolled_students
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

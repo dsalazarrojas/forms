@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Learning In Higher Education Registration Form
+    pages:
+    - id: 1
+      name: student_info_header
+      label: -- Student and Institutional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: University Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: university_name
+      label: University or College Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: major_study_area
+      label: Major/Area of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_year
+      label: Current Academic Year
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      required: true
+    - id: 7
+      name: program_selection_header
+      label: -- Civic Learning Program --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_module_title
+      label: Name of the Civic Learning Course/Module
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: credit_requirement
+      label: Is this course for academic credit?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: advisor_faculty_name
+      label: Supervising Faculty/Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: primary_motivation
+      label: Why are you interested in this civic learning program?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: service_learning_interest
+      label: Are you interested in a community service-learning placement?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe (need more info)
+      - No thanks
+      required: true
+    - id: 13
+      name: prior_civic_engagement
+      label: Briefly describe any prior civic or volunteer experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: registration_acknowledgment
+      label: I commit to completing the program requirements and hours
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: submission_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

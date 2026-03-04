@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For License As A Journeyman Electrician
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: Applicant birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: apprenticeship_completion_date
+      label: Apprenticeship completion date
+      hint: Date apprenticeship was completed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: journeyman_exam_date
+      label: Journeyman exam date
+      hint: Date of examination if applicable
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: qualification_documents
+      label: Qualification documents filename
+      hint: Indicate uploaded certificates
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_years
+      label: Years of practical experience
+      hint: Whole number of years
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: supervising_electrician
+      label: Supervising electrician name
+      hint: Name of supervisor during apprenticeship
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Best phone number to reach applicant
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: application_fee_paid
+      label: Application fee paid
+      hint: Confirmation of payment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phd Admission Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Apply Now
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_history
+      label: Education History
+      hint: List your previous education history
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: academic_work
+      label: Academic Work
+      hint: List any relevant work experience or publications
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_interest
+      label: Research Interest
+      hint: Briefly describe your research interest
+      type: select_one
+      options:
+      - Research in AI and Machine Learning
+      - Research in Data Science
+      - Other
+      required: false
+    - id: 6
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

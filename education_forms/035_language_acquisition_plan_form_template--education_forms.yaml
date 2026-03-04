@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Acquisition Plan Form Template
+    pages:
+    - id: 1
+      name: language_acquisition_plan_form
+      label: language acquisition plan form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: language_level
+      label: language level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''beginner'', ''label'': ''Beginner''}'
+      - '{''value'': ''intermediate'', ''label'': ''Intermediate''}'
+      - '{''value'': ''advanced'', ''label'': ''Advanced''}'
+      required: true
+    - id: 6
+      name: learning_objectives
+      label: learning objectives
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: teacher_name
+      label: teacher name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_progress
+      label: student progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: teacher_comments
+      label: teacher comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_comments
+      label: parent comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: language_proficiency
+      label: language proficiency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''reading'', ''label'': ''Reading''}'
+      - '{''value'': ''writing'', ''label'': ''Writing''}'
+      - '{''value'': ''speaking'', ''label'': ''Speaking''}'
+      - '{''value'': ''listening'', ''label'': ''Listening''}'
+      required: true
+    - id: 13
+      name: language_proficiency_level
+      label: language proficiency level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''novice'', ''label'': ''Novice''}'
+      - '{''value'': ''intermediate'', ''label'': ''Intermediate''}'
+      - '{''value'': ''advanced'', ''label'': ''Advanced''}'
+      required: false
+    - id: 14
+      name: student_language_goals
+      label: student language goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: language_goals
+      label: language goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: student_progress_frequency
+      label: student progress frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily'', ''label'': ''Daily''}'
+      - '{''value'': ''weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      required: true
+    - id: 17
+      name: progress_notes
+      label: progress notes
+      hint: null
+      type: text
+      options: []
+      required: false

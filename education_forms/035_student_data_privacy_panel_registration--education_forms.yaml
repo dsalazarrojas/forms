@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Data Privacy Panel Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_info
+      label: School District Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_interests
+      label: Select Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: privacy_consent
+      label: Privacy Consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_data
+      label: Student Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_status
+      label: Registration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Education Webinar Appearance Consent Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: select_one
+      label: What best describes your preferred presentation time
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: agree
+      label: Agree to terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree to the terms and conditions
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name_2
+      label: Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: agree_2
+      label: Agree to the terms and conditions 2
+      hint: null
+      type: select_one
+      options:
+      - I agree to the terms and conditions 2
+      - I do not agree to the terms and conditions 2
+      required: true
+    - id: 11
+      name: submit_2
+      label: Submit 2
+      hint: null
+      type: text
+      options: []
+      required: false

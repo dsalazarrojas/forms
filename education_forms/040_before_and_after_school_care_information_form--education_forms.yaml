@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Before And After School Care Information Form
+    pages:
+    - id: 1
+      name: section_child_info
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_full_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: child_grade_level
+      label: Grade Level (Current or Upcoming)
+      hint: null
+      type: select_one
+      options:
+      - Pre-K
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      required: true
+    - id: 5
+      name: school_attending
+      label: Name of School Attending
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_parent_guardian
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guardian_1_name
+      label: Primary Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_1_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_1_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_alt
+      label: Alternate Emergency Contact (Secondary)
+      hint: Name and Phone Number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_care_schedule
+      label: -- Requested Care Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: care_type_needed
+      label: Type of Care Needed
+      hint: null
+      type: select_one
+      options:
+      - Before School Only
+      - After School Only
+      - Both Before and After School
+      required: true
+    - id: 13
+      name: weekly_care_days
+      label: Days of the week care is required
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 14
+      name: estimated_drop_off_time
+      label: Estimated Drop-off Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: estimated_pick_up_time
+      label: Estimated Pick-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: section_medical_info
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: food_allergies_child
+      label: Does the child have any food allergies?
+      hint: Please list them clearly
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: chronic_medical_conditions
+      label: Any chronic medical conditions or regular medications?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorized_pick_up_list
+      label: List of people authorized to pick up child
+      hint: Besides primary guardians
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: consent_to_emergency_medical
+      label: I consent to emergency medical treatment for my child if parents cannot
+        be reached
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 21
+      name: form_completion_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

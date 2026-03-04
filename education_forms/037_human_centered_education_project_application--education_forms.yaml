@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Centered Education Project Application
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_proposal
+      label: Project Proposal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_objectives
+      label: Project Objectives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true

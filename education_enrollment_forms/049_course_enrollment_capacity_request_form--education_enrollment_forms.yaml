@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Enrollment Capacity Request Form
+    pages:
+    - id: 1
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department_code
+      label: Department Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rationale
+      label: Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seat_capacity_change
+      label: Seat Capacity Change
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: new_seat_capacity
+      label: New Seat Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: change_date
+      label: Change Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
